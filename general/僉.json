@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "all, together, unanimous"
+        },
+        {
+            "language": "德语",
+            "explanation": "ganz, alle"
+        },
+        {
+            "language": "法语",
+            "explanation": "tous,ensemble"
+        }
+    ],
+    "general_pinyins": [
+        "qiān"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "人",
+        "non_radical_sn": "11",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "佥"
+    ],
+    "general_ytz": [
+        "㑒",
+        "佥",
+        "𠑲"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "50C9",
+            "3412512513434"
+        ],
+        "char_code_wubi": "wgkw",
+        "char_code_cangjie": "omro",
+        "char_code_zhengma": "odoo",
+        "char_code_sijiao": "80886"
+    },
+    "general_unicode": "基本区 U+50C9",
+    "general_bs_code": "3412512513434"
+}

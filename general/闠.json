@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "gate of a market"
+        },
+        {
+            "language": "法语",
+            "explanation": "entrée d'un marché,porte d'un marché"
+        }
+    ],
+    "general_pinyins": [
+        "huì"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "門",
+        "non_radical_sn": "12",
+        "total_sn": "20"
+    },
+    "general_stc": [
+        "阓"
+    ],
+    "general_ytz": [
+        "阓",
+        "𨷪"
+    ],
+    "general_structure": "上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "95E0",
+            "25112511251212511134"
+        ],
+        "char_code_wubi": "ukhm",
+        "char_code_cangjie": "anlmc",
+        "char_code_zhengma": "xdal",
+        "char_code_sijiao": "77806"
+    },
+    "general_unicode": "基本区 U+95E0",
+    "general_bs_code": "25112511251212511134"
+}

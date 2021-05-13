@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "arrogant, haughty, rude"
+        },
+        {
+            "language": "德语",
+            "explanation": "eigensinnig, dickköpfig"
+        },
+        {
+            "language": "法语",
+            "explanation": "fier,insolent"
+        }
+    ],
+    "general_pinyins": [
+        "jù"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "踞"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5028",
+            "3251312251"
+        ],
+        "char_code_wubi": "wndg",
+        "char_code_cangjie": "osjr",
+        "char_code_zhengma": "nxej",
+        "char_code_sijiao": "27264"
+    },
+    "general_unicode": "基本区 U+5028",
+    "general_bs_code": "3251312251"
+}

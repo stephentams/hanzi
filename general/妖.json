@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "strange, weird, supernatural"
+        },
+        {
+            "language": "德语",
+            "explanation": "Dämon, Gespenst, Teufel  (S)​,aufreizend, bezaubernd, lasziv, liederlich, verhexend  (Adj)​,boshaft, tückisch  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "monstrueux,ensorcelant,séduisant,monstre,démon"
+        }
+    ],
+    "general_pinyins": [
+        "yāo"
+    ],
+    "general_zhuyins": [
+        "ㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䄏",
+        "祅",
+        "訞",
+        "𡝩",
+        "𧨶",
+        "姣",
+        "𩲓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5996",
+            "5313134"
+        ],
+        "char_code_wubi": "vtdy",
+        "char_code_cangjie": "vhk",
+        "char_code_zhengma": "zmmg",
+        "char_code_sijiao": "42484"
+    },
+    "general_unicode": "基本区 U+5996",
+    "general_bs_code": "5313134"
+}

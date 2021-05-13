@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cliffs"
+        },
+        {
+            "language": "德语",
+            "explanation": "Felsvorsprung, Kliff  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "falaise,précipice"
+        }
+    ],
+    "general_pinyins": [
+        "è"
+    ],
+    "general_zhuyins": [
+        "ㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㟧",
+        "㠋",
+        "𡼑",
+        "𡼰",
+        "𡾙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5D3F",
+            "252251251115"
+        ],
+        "char_code_wubi": "mkkn",
+        "char_code_cangjie": "urrs",
+        "char_code_zhengma": "llbz",
+        "char_code_sijiao": "26727"
+    },
+    "general_unicode": "基本区 U+5D3F",
+    "general_bs_code": "252251251115"
+}

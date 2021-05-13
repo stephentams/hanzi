@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ward off, withstand, resist"
+        }
+    ],
+    "general_pinyins": [
+        "hàn"
+    ],
+    "general_zhuyins": [
+        "ㄏㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "悍",
+        "㪋",
+        "捍",
+        "擀",
+        "釬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "625E",
+            "121112"
+        ],
+        "char_code_wubi": "rfh",
+        "char_code_cangjie": "qmj",
+        "char_code_zhengma": "daed",
+        "char_code_sijiao": "51040"
+    },
+    "general_unicode": "基本区 U+625E",
+    "general_bs_code": "121112"
+}

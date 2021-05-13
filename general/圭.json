@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "jade pointed at top"
+        },
+        {
+            "language": "德语",
+            "explanation": "Jadezepter; länglicher, spitzer Jadestab, den Herrscher bei zeremoniellen Anlässen in beiden Händen hielten"
+        },
+        {
+            "language": "法语",
+            "explanation": "tablette de jade"
+        }
+    ],
+    "general_pinyins": [
+        "guī"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄟ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "珪"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "572D",
+            "121121"
+        ],
+        "char_code_wubi": "fff",
+        "char_code_cangjie": "gg",
+        "char_code_zhengma": "bbvv",
+        "char_code_sijiao": "40104"
+    },
+    "general_unicode": "基本区 U+572D",
+    "general_bs_code": "121121"
+}

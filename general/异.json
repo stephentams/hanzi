@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "different, unusual, strange"
+        },
+        {
+            "language": "德语",
+            "explanation": "Verschiedenheit, Differenz (S)​,ungewöhnlich, außergewöhnlich, fremd, fremdartig (Adj)​,ungleich, verschieden, anders (Adj)​,iso, iso- (Eig, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "différent,étrange,exceptionnel"
+        }
+    ],
+    "general_pinyins": [
+        "yì"
+    ],
+    "general_zhuyins": [
+        "ㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "廾",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "異"
+    ],
+    "general_ytz": [
+        "𥃲",
+        "異",
+        "𠔱",
+        "𢍀",
+        "𢄖"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F02",
+            "515132"
+        ],
+        "char_code_wubi": "naj",
+        "char_code_cangjie": "rut",
+        "char_code_zhengma": "yybe",
+        "char_code_sijiao": "77441"
+    },
+    "general_unicode": "基本区 U+5F02",
+    "general_bs_code": "515132"
+}

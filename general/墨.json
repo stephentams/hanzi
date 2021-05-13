@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ink; writing"
+        },
+        {
+            "language": "德语",
+            "explanation": "(chinesische)​ Tusche (S)​,Tinte, Druckfarbe (S)​,schwarz, stockdunkel (Adj)​,Mexiko (Eig, Geo)​,Mo (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "encre,noir"
+        }
+    ],
+    "general_pinyins": [
+        "mò"
+    ],
+    "general_zhuyins": [
+        "ㄇㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "默",
+        "墨"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "58A8",
+            "254312114444121"
+        ],
+        "char_code_wubi": "lfof",
+        "char_code_cangjie": "wgfg",
+        "char_code_zhengma": "lkub",
+        "char_code_sijiao": "60104"
+    },
+    "general_unicode": "基本区 U+58A8",
+    "general_bs_code": "254312114444121"
+}

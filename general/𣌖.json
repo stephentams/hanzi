@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "19",
+        "total_sn": "23"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㬮"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "23316",
+            "25111221251113432411121"
+        ],
+        "char_code_wubi": "jaky",
+        "char_code_cangjie": "atog",
+        "char_code_zhengma": "keon"
+    },
+    "general_unicode": "扩展B U+23316",
+    "general_bs_code": "25111221251113432411121"
+}

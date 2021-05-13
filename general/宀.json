@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "roof; KangXi radical 40"
+        },
+        {
+            "language": "德语",
+            "explanation": "Radikal Nr. 40 = Dach"
+        },
+        {
+            "language": "法语",
+            "explanation": "toit (radical)​"
+        }
+    ],
+    "general_pinyins": [
+        "mián"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "宀",
+        "non_radical_sn": "0",
+        "total_sn": "3"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "单体结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5B80",
+            "445"
+        ],
+        "char_code_wubi": "pyyn",
+        "char_code_cangjie": "ib",
+        "char_code_zhengma": "wdaa",
+        "char_code_sijiao": "30320"
+    },
+    "general_unicode": "基本区 U+5B80",
+    "general_bs_code": "445"
+}

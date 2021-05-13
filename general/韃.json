@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tatars"
+        },
+        {
+            "language": "法语",
+            "explanation": "Tartares"
+        }
+    ],
+    "general_pinyins": [
+        "dá"
+    ],
+    "general_zhuyins": [
+        "ㄉㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "革",
+        "non_radical_sn": "12",
+        "total_sn": "21"
+    },
+    "general_stc": [
+        "鞑"
+    ],
+    "general_ytz": [
+        "撻",
+        "鞑",
+        "𩍠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "97C3",
+            "122125112121431112454"
+        ],
+        "char_code_wubi": "affp",
+        "char_code_cangjie": "tjygq",
+        "char_code_zhengma": "eebu",
+        "char_code_sijiao": "44535"
+    },
+    "general_unicode": "基本区 U+97C3",
+    "general_bs_code": "122125112121431112454"
+}

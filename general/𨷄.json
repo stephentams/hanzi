@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "xiàng"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "門",
+        "non_radical_sn": "12",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "28DC4",
+            "51122511251112132511"
+        ],
+        "char_code_wubi": "ujfj",
+        "char_code_cangjie": "anaja",
+        "char_code_zhengma": "xdkb"
+    },
+    "general_unicode": "扩展B U+28DC4",
+    "general_bs_code": "51122511251112132511"
+}

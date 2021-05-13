@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "lí"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "226EE",
+            "312131344544"
+        ],
+        "char_code_wubi": "trtn",
+        "char_code_cangjie": "hkp",
+        "char_code_zhengma": "mbmw"
+    },
+    "general_unicode": "扩展B U+226EE",
+    "general_bs_code": "312131344544"
+}

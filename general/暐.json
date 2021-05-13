@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "the bright shining of the sun"
+        },
+        {
+            "language": "德语",
+            "explanation": "das Strahlen der Sonne"
+        },
+        {
+            "language": "法语",
+            "explanation": "éclat du Soleil"
+        }
+    ],
+    "general_pinyins": [
+        "wěi"
+    ],
+    "general_zhuyins": [
+        "ㄨㄟˇ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6690",
+            "2511521251152"
+        ],
+        "char_code_wubi": "jnhh|jnkg",
+        "char_code_cangjie": "admq",
+        "char_code_zhengma": "kxjm",
+        "char_code_sijiao": "64056"
+    },
+    "general_unicode": "基本区 U+6690",
+    "general_bs_code": "2511521251152"
+}

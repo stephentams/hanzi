@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "faint, fuzzy, blurred"
+        },
+        {
+            "language": "德语",
+            "explanation": "unklar, undeutlich"
+        }
+    ],
+    "general_pinyins": [
+        "lóng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "17",
+        "total_sn": "22"
+    },
+    "general_stc": [
+        "眬"
+    ],
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "77D3",
+            "251114143125111515111"
+        ],
+        "char_code_wubi": "hued",
+        "char_code_cangjie": "buybp",
+        "char_code_zhengma": "lsi",
+        "char_code_sijiao": "61011"
+    },
+    "general_unicode": "基本区 U+77D3",
+    "general_bs_code": "251114143125111515111"
+}

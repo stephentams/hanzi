@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "joy, gladness, delight; surname"
+        },
+        {
+            "language": "德语",
+            "explanation": "behutsam, bedacht"
+        },
+        {
+            "language": "法语",
+            "explanation": "prudent,joyeux"
+        }
+    ],
+    "general_pinyins": [
+        "xī"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "12",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "釐"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "50D6",
+            "32121251431251"
+        ],
+        "char_code_wubi": "wfkk",
+        "char_code_cangjie": "ogrr",
+        "char_code_zhengma": "nbuj",
+        "char_code_sijiao": "24261"
+    },
+    "general_unicode": "基本区 U+50D6",
+    "general_bs_code": "32121251431251"
+}

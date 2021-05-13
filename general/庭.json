@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "courtyard; spacious hall or yard"
+        },
+        {
+            "language": "德语",
+            "explanation": "Empfangssaal (des Kaisers)​  (S)​,Familie  (S)​,Gerichtshof  (S, Rechtsw)​,Gerichtszimmer (vgl. germanisch, altnordisch und neuisländisch: Þing (Ding , Thing)​  (S, Rechtsw)​,Halle  (S)​,Haus  (S)​,Hof  (S, Arch)​,Kaiserhof  (S)​,gebraucht für 廷(tíng)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "cour,cour de justice,tribunal,chambre (d'un tribunal)​,grande salle"
+        }
+    ],
+    "general_pinyins": [
+        "tíng"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "广",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "廷",
+        "閮",
+        "𠩢",
+        "𨓀",
+        "𨓍"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5EAD",
+            "413312154"
+        ],
+        "char_code_wubi": "ytfp|otfp",
+        "char_code_cangjie": "inkg",
+        "char_code_zhengma": "tgby",
+        "char_code_sijiao": "00241"
+    },
+    "general_unicode": "基本区 U+5EAD",
+    "general_bs_code": "413312154"
+}

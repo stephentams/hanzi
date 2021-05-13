@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ward off with hand, defend"
+        },
+        {
+            "language": "德语",
+            "explanation": "ablehnen, abweisen ,abweisen, abstoßen ,erwehren, widerstehen"
+        },
+        {
+            "language": "法语",
+            "explanation": "résister à,refuser"
+        }
+    ],
+    "general_pinyins": [
+        "jù"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "歫"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "62D2",
+            "1211515"
+        ],
+        "char_code_wubi": "rang",
+        "char_code_cangjie": "qss",
+        "char_code_zhengma": "dhx",
+        "char_code_sijiao": "51017"
+    },
+    "general_unicode": "基本区 U+62D2",
+    "general_bs_code": "1211515"
+}

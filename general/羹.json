@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "soup, broth"
+        },
+        {
+            "language": "德语",
+            "explanation": "Filmentwickler, Suppe  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "soupe,bouillon,sauce"
+        }
+    ],
+    "general_pinyins": [
+        "gēng"
+    ],
+    "general_zhuyins": [
+        "ㄍㄥ"
+    ],
+    "general_radical": {
+        "radical": "羊",
+        "non_radical_sn": "13",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "羮",
+        "𢑌",
+        "𦎟",
+        "𦢹",
+        "𦣍",
+        "𩱁",
+        "𩱋",
+        "𩱧",
+        "𡙡",
+        "𦢋"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7FB9",
+            "4311214444431121134"
+        ],
+        "char_code_wubi": "ugod",
+        "char_code_cangjie": "tgftk",
+        "char_code_zhengma": "ucug",
+        "char_code_sijiao": "80804"
+    },
+    "general_unicode": "基本区 U+7FB9",
+    "general_bs_code": "4311214444431121134"
+}

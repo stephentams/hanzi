@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "勹",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "逡"
+    ],
+    "general_structure": "右上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "208DF",
+            "355435354"
+        ],
+        "char_code_wubi": "qcwt",
+        "char_code_cangjie": "pice",
+        "char_code_zhengma": "ryor"
+    },
+    "general_unicode": "扩展B U+208DF",
+    "general_bs_code": "355435354"
+}

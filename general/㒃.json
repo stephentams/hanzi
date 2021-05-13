@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 貳) capital form of two, a second job, to harbour doubts; to hesitate, to revolt"
+        }
+    ],
+    "general_pinyins": [
+        "èr"
+    ],
+    "general_zhuyins": [
+        "ㄦˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "12",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "貳"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3483",
+            "32111251113454"
+        ],
+        "char_code_wubi": "wafm|wafy",
+        "char_code_cangjie": "oipc",
+        "char_code_zhengma": "nhbl",
+        "char_code_sijiao": "23240"
+    },
+    "general_unicode": "扩展A U+3483",
+    "general_bs_code": "32111251113454"
+}

@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "Omei mountain in Sichuan"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom d'une montagne dans le Sichuan)​"
+        }
+    ],
+    "general_pinyins": [
+        "méi"
+    ],
+    "general_zhuyins": [
+        "ㄇㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡼴",
+        "𠃜"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5D4B",
+            "252521325111"
+        ],
+        "char_code_wubi": "mnhg",
+        "char_code_cangjie": "uahu",
+        "char_code_zhengma": "llxl",
+        "char_code_sijiao": "27767"
+    },
+    "general_unicode": "基本区 U+5D4B",
+    "general_bs_code": "252521325111"
+}

@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rub, grind; grind with a mortar and pestle; triturate"
+        },
+        {
+            "language": "德语",
+            "explanation": "reiben, schleifen ,Schlag  (S)​,Schlagbolzen  (S)​,schlagen, besiegen  (V)​,trommeln; die Trommel rühren"
+        },
+        {
+            "language": "法语",
+            "explanation": "battre (le tempo)​,battre (un tambour, etc.)​"
+        }
+    ],
+    "general_pinyins": [
+        "léi",
+        "lèi"
+    ],
+    "general_zhuyins": [
+        "ㄌㄟˊ",
+        "ㄌㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "攂",
+        "雷",
+        "𢹮",
+        "𢺢"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "64C2",
+            "1211452444425121"
+        ],
+        "char_code_wubi": "rflg",
+        "char_code_cangjie": "qmbw",
+        "char_code_zhengma": "dfki",
+        "char_code_sijiao": "51061"
+    },
+    "general_unicode": "基本区 U+64C2",
+    "general_bs_code": "1211452444425121"
+}

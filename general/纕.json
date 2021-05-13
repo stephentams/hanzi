@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "belt"
+        }
+    ],
+    "general_pinyins": [
+        "xiāng",
+        "rǎng"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄤ",
+        "ㄖㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "糹",
+        "non_radical_sn": "17",
+        "total_sn": "23"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦅇"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7E95",
+            "55444441251251112213534"
+        ],
+        "char_code_wubi": "xyke",
+        "char_code_cangjie": "vfyrv",
+        "char_code_zhengma": "zser",
+        "char_code_sijiao": "20932"
+    },
+    "general_unicode": "基本区 U+7E95",
+    "general_bs_code": "55444441251251112213534"
+}

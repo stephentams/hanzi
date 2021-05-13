@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "車",
+        "non_radical_sn": "15",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "輊"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "283D1",
+            "1251112331233122511134"
+        ],
+        "char_code_wubi": "lrrm",
+        "char_code_cangjie": "jjhlc",
+        "char_code_zhengma": "fkpl"
+    },
+    "general_unicode": "扩展B U+283D1",
+    "general_bs_code": "1251112331233122511134"
+}

@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "this, here, if so; in this case, reluctant to go forward"
+        }
+    ],
+    "general_pinyins": [
+        "cì"
+    ],
+    "general_zhuyins": [
+        "ㄘˋ"
+    ],
+    "general_radical": {
+        "radical": "尸",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡳠"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3796",
+            "513125234"
+        ],
+        "char_code_wubi": "ngmi|nsmv",
+        "char_code_cangjie": "sdb",
+        "char_code_zhengma": "xmfl",
+        "char_code_sijiao": "77292"
+    },
+    "general_unicode": "扩展A U+3796",
+    "general_bs_code": "513125234"
+}

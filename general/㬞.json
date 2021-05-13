@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(non-classical form of 暍) sunstroke, hot; feverish"
+        }
+    ],
+    "general_pinyins": [
+        "hè"
+    ],
+    "general_zhuyins": [
+        "ㄏㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "12",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "暍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3B1E",
+            "2511252251135345"
+        ],
+        "char_code_wubi": "jmjn",
+        "char_code_cangjie": "auav",
+        "char_code_zhengma": "klkr",
+        "char_code_sijiao": "62027"
+    },
+    "general_unicode": "扩展A U+3B1E",
+    "general_bs_code": "2511252251135345"
+}

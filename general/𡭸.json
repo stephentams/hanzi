@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "luàn"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "小",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "21B78",
+            "2343251251"
+        ],
+        "char_code_wubi": "itmk",
+        "char_code_cangjie": "fhbmr",
+        "char_code_zhengma": "koml"
+    },
+    "general_unicode": "扩展B U+21B78",
+    "general_bs_code": "2343251251"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wash out, rinse; cleanse"
+        },
+        {
+            "language": "德语",
+            "explanation": "ausspülen, wässern ,reinigen ,Zhuo  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "laver,nu,brillant"
+        }
+    ],
+    "general_pinyins": [
+        "zhuó",
+        "zhào"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨㄛˊ",
+        "ㄓㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "14",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡽢"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6FEF",
+            "44154154132411121"
+        ],
+        "char_code_wubi": "inwy",
+        "char_code_cangjie": "esmg",
+        "char_code_zhengma": "vyyn",
+        "char_code_sijiao": "37115"
+    },
+    "general_unicode": "基本区 U+6FEF",
+    "general_bs_code": "44154154132411121"
+}

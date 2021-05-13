@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ask about, inquire after"
+        },
+        {
+            "language": "德语",
+            "explanation": "fragen, befragen  (V)​,jd. verhören, jd vernehmen  (V)​,sich nach etwas erkundigen  (V)​,jd. zur Rechenschaft ziehen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "demander,se renseigner,questionner,interroger"
+        }
+    ],
+    "general_pinyins": [
+        "wèn"
+    ],
+    "general_zhuyins": [
+        "ㄨㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "门",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "問"
+    ],
+    "general_ytz": [
+        "問",
+        "𠳅"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "95EE",
+            "425251"
+        ],
+        "char_code_wubi": "ukd",
+        "char_code_cangjie": "lsr",
+        "char_code_zhengma": "tlj",
+        "char_code_sijiao": "37601"
+    },
+    "general_unicode": "基本区 U+95EE",
+    "general_bs_code": "425251"
+}

@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "jade ring or bracelet; ring"
+        },
+        {
+            "language": "德语",
+            "explanation": "Armband, Armreif, Armreif 法语 anneau,cercle,bracelet,maillon,entourer,encercler,petits ronds pour la ponctuation"
+        }
+    ],
+    "general_pinyins": [
+        "huán"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "13",
+        "total_sn": "17"
+    },
+    "general_stc": [
+        "环"
+    ],
+    "general_ytz": [
+        "环",
+        "瑗",
+        "鬟",
+        "𡑡",
+        "𤧖",
+        "𤨔",
+        "𤪹",
+        "𨰄",
+        "繯"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "74B0",
+            "11212522112513534"
+        ],
+        "char_code_wubi": "glge",
+        "char_code_cangjie": "mgwlv",
+        "char_code_zhengma": "cljr",
+        "char_code_sijiao": "16132"
+    },
+    "general_unicode": "基本区 U+74B0",
+    "general_bs_code": "11212522112513534"
+}

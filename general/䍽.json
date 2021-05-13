@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a fierce goat, a castrated ram"
+        }
+    ],
+    "general_pinyins": [
+        "lì"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "羊",
+        "non_radical_sn": "16",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦍠",
+        "𦏈",
+        "𦏩"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "437D",
+            "4311131331234312342121"
+        ],
+        "char_code_wubi": "uddh|udth",
+        "char_code_cangjie": "tqmhm",
+        "char_code_zhengma": "ucmi",
+        "char_code_sijiao": "81511"
+    },
+    "general_unicode": "扩展A U+437D",
+    "general_bs_code": "4311131331234312342121"
+}

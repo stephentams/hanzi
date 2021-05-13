@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "used to represent sound"
+        }
+    ],
+    "general_pinyins": [
+        "yī"
+    ],
+    "general_zhuyins": [
+        "ㄧ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "咿"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "541A",
+            "2515113"
+        ],
+        "char_code_wubi": "kvtt",
+        "char_code_cangjie": "rsk",
+        "char_code_zhengma": "jxma",
+        "char_code_sijiao": "67007"
+    },
+    "general_unicode": "基本区 U+541A",
+    "general_bs_code": "2515113"
+}

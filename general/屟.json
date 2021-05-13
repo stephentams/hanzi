@@ -1,0 +1,36 @@
+{
+    "general_pinyins": [
+        "xiè",
+        "tì"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄝˋ",
+        "ㄊㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "尸",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "屉",
+        "屧",
+        "𡲕",
+        "𡲷",
+        "𡲿"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5C5F",
+            "513122151234"
+        ],
+        "char_code_wubi": "nans",
+        "char_code_cangjie": "sptd",
+        "char_code_zhengma": "xmzf",
+        "char_code_sijiao": "77294"
+    },
+    "general_unicode": "基本区 U+5C5F",
+    "general_bs_code": "513122151234"
+}

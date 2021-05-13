@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "acrida chinensis"
+        },
+        {
+            "language": "法语",
+            "explanation": "(insecte)​,Tryxalis masuta"
+        }
+    ],
+    "general_pinyins": [
+        "qì"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "13",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧒼"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "87FF",
+            "1251112523554251214"
+        ],
+        "char_code_wubi": "lbmj|lbwj",
+        "char_code_cangjie": "jelmi",
+        "char_code_zhengma": "fkqi",
+        "char_code_sijiao": "57136"
+    },
+    "general_unicode": "基本区 U+87FF",
+    "general_bs_code": "1251112523554251214"
+}

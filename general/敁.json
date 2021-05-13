@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to weigh in the hand, to estimate; to shake"
+        },
+        {
+            "language": "德语",
+            "explanation": "bewegen, rütteln"
+        }
+    ],
+    "general_pinyins": [
+        "diān"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "攴",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6541",
+            "212512154"
+        ],
+        "char_code_wubi": "hkhc",
+        "char_code_cangjie": "yrye",
+        "char_code_zhengma": "idix",
+        "char_code_sijiao": "21647"
+    },
+    "general_unicode": "基本区 U+6541",
+    "general_bs_code": "212512154"
+}

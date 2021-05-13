@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 嶨) hills with lots of big rocks"
+        }
+    ],
+    "general_pinyins": [
+        "xì",
+        "xué"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧˋ",
+        "ㄒㄩㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "16",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "嶨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "367E",
+            "1213211343451145521"
+        ],
+        "char_code_wubi": "fvqb|ferb",
+        "char_code_cangjie": "ghbd",
+        "char_code_zhengma": "bnoy",
+        "char_code_sijiao": "47147"
+    },
+    "general_unicode": "扩展A U+367E",
+    "general_bs_code": "1213211343451145521"
+}

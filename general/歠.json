@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sip, drink, suck"
+        },
+        {
+            "language": "德语",
+            "explanation": "aussaugen, saugen"
+        },
+        {
+            "language": "法语",
+            "explanation": "siroter,boire"
+        }
+    ],
+    "general_pinyins": [
+        "chuò"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "欠",
+        "non_radical_sn": "15",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠽶",
+        "𡂜",
+        "𣤌",
+        "𣤕"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6B60",
+            "5454545412535113534"
+        ],
+        "char_code_wubi": "cccw",
+        "char_code_cangjie": "ewno",
+        "char_code_zhengma": "xsfr",
+        "char_code_sijiao": "77682"
+    },
+    "general_unicode": "基本区 U+6B60",
+    "general_bs_code": "5454545412535113534"
+}

@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fetters"
+        },
+        {
+            "language": "德语",
+            "explanation": "fesseln  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "fers,chaînes"
+        }
+    ],
+    "general_pinyins": [
+        "liào"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "釒",
+        "non_radical_sn": "12",
+        "total_sn": "20"
+    },
+    "general_stc": [
+        "镣"
+    ],
+    "general_ytz": [
+        "璙",
+        "鏐",
+        "镣",
+        "𨭼"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9410",
+            "34112431134432511234"
+        ],
+        "char_code_wubi": "qdui",
+        "char_code_cangjie": "ckcf",
+        "char_code_zhengma": "pgkk",
+        "char_code_sijiao": "84196"
+    },
+    "general_unicode": "基本区 U+9410",
+    "general_bs_code": "34112431134432511234"
+}

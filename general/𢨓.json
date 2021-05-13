@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "戈",
+        "non_radical_sn": "13",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "弒"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "22A13",
+            "35511313444441534"
+        ],
+        "char_code_wubi": "qvta",
+        "char_code_cangjie": "nfi",
+        "char_code_zhengma": "rxuh"
+    },
+    "general_unicode": "扩展B U+22A13",
+    "general_bs_code": "35511313444441534"
+}

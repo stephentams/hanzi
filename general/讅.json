@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "know in detail"
+        },
+        {
+            "language": "德语",
+            "explanation": "erforschen, nachforschen"
+        },
+        {
+            "language": "法语",
+            "explanation": "enquêter,juger (au tribunal)​"
+        }
+    ],
+    "general_pinyins": [
+        "shěn"
+    ],
+    "general_zhuyins": [
+        "ㄕㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "言",
+        "non_radical_sn": "15",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "審",
+        "谉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8B85",
+            "4111251445343123425121"
+        ],
+        "char_code_wubi": "yptl",
+        "char_code_cangjie": "yrjhw",
+        "char_code_zhengma": "swpk",
+        "char_code_sijiao": "03669"
+    },
+    "general_unicode": "基本区 U+8B85",
+    "general_bs_code": "4111251445343123425121"
+}

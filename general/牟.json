@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "make; seek, get; barley; low"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gerste  (S)​,muhen  (V)​,Mou  (Eig, Fam)​,trachten,bemächtigen"
+        },
+        {
+            "language": "法语",
+            "explanation": "mugir"
+        }
+    ],
+    "general_pinyins": [
+        "móu",
+        "mù"
+    ],
+    "general_zhuyins": [
+        "ㄇㄡˊ",
+        "ㄇㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "牛",
+        "non_radical_sn": "2",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "侔",
+        "𠫚",
+        "𢃷",
+        "眸"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "725F",
+            "543112"
+        ],
+        "char_code_wubi": "crhj|ctgj",
+        "char_code_cangjie": "ihq",
+        "char_code_zhengma": "zsmb",
+        "char_code_sijiao": "23500"
+    },
+    "general_unicode": "基本区 U+725F",
+    "general_bs_code": "543112"
+}

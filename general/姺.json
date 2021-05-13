@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "name of an ancient state"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom d'un ancien état)​"
+        }
+    ],
+    "general_pinyins": [
+        "shēn",
+        "xiān"
+    ],
+    "general_zhuyins": [
+        "ㄕㄣ",
+        "ㄒㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㜪",
+        "䢾"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "59FA",
+            "531312135"
+        ],
+        "char_code_wubi": "vtfq",
+        "char_code_cangjie": "vhgu",
+        "char_code_zhengma": "zmmr",
+        "char_code_sijiao": "44412"
+    },
+    "general_unicode": "基本区 U+59FA",
+    "general_bs_code": "531312135"
+}

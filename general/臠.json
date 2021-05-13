@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "small lump of meat; sliced meat"
+        },
+        {
+            "language": "德语",
+            "explanation": "mager ,geschnittene Fleischstücke"
+        },
+        {
+            "language": "法语",
+            "explanation": "mince,viande coupée"
+        }
+    ],
+    "general_pinyins": [
+        "luán"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "肉",
+        "non_radical_sn": "19",
+        "total_sn": "25"
+    },
+    "general_stc": [
+        "脔"
+    ],
+    "general_ytz": [
+        "脔",
+        "脟",
+        "臡",
+        "𦣐"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "81E0",
+            "4111251554444554444253434"
+        ],
+        "char_code_wubi": "xyxw|yxxw",
+        "char_code_cangjie": "vfobo",
+        "char_code_zhengma": "zsoo",
+        "char_code_sijiao": "22227"
+    },
+    "general_unicode": "基本区 U+81E0",
+    "general_bs_code": "4111251554444554444253434"
+}

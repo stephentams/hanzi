@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stable; barnyard"
+        },
+        {
+            "language": "德语",
+            "explanation": "haltbar ,Jiu  (Eig, Fam)"
+        }
+    ],
+    "general_pinyins": [
+        "jiù"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "厂",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "廄"
+    ],
+    "general_ytz": [
+        "廄",
+        "廐",
+        "𠤙",
+        "𣉑",
+        "𪠔"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "53A9",
+            "13511541535"
+        ],
+        "char_code_wubi": "dvcq|dvaq",
+        "char_code_cangjie": "maiu",
+        "char_code_zhengma": "gghr",
+        "char_code_sijiao": "71212"
+    },
+    "general_unicode": "基本区 U+53A9",
+    "general_bs_code": "13511541535"
+}

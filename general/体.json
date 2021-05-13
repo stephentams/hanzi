@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "body; group, class, body, unit; inferior"
+        },
+        {
+            "language": "德语",
+            "explanation": "Aspekt (vollendet, unvollendet)​ 法语 corps,forme,santé"
+        }
+    ],
+    "general_pinyins": [
+        "tǐ",
+        "tī"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧˇ",
+        "ㄊㄧ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "體"
+    ],
+    "general_ytz": [
+        "笨",
+        "體",
+        "躰",
+        "骵",
+        "軆",
+        "𨉥",
+        "𨉦",
+        "𩪆"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4F53",
+            "3212341"
+        ],
+        "char_code_wubi": "wsgg",
+        "char_code_cangjie": "odm",
+        "char_code_zhengma": "nfa",
+        "char_code_sijiao": "25230"
+    },
+    "general_unicode": "基本区 U+4F53",
+    "general_bs_code": "3212341"
+}

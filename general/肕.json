@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tough, strong, hard"
+        }
+    ],
+    "general_pinyins": [
+        "rèn"
+    ],
+    "general_zhuyins": [
+        "ㄖㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "3",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦨔",
+        "韌",
+        "靭",
+        "𠯄"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8095",
+            "3511534"
+        ],
+        "char_code_wubi": "evyy",
+        "char_code_cangjie": "bshi",
+        "char_code_zhengma": "qys",
+        "char_code_sijiao": "77220"
+    },
+    "general_unicode": "基本区 U+8095",
+    "general_bs_code": "3511534"
+}

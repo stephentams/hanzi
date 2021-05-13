@@ -1,0 +1,29 @@
+{
+    "general_pinyins": [
+        "huāng"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄤ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "朚"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "267C1",
+            "41525352513511"
+        ],
+        "char_code_wubi": "ynle",
+        "char_code_cangjie": "ywb",
+        "char_code_zhengma": "shlq"
+    },
+    "general_unicode": "扩展B U+267C1",
+    "general_bs_code": "41525352513511"
+}

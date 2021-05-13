@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cut, cut out, pick out, scoop out"
+        },
+        {
+            "language": "德语",
+            "explanation": "ausgraben"
+        },
+        {
+            "language": "法语",
+            "explanation": "rogner,couper,creuser,graver"
+        }
+    ],
+    "general_pinyins": [
+        "wān"
+    ],
+    "general_zhuyins": [
+        "ㄨㄢ"
+    ],
+    "general_radical": {
+        "radical": "刂",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "鋺",
+        "𠛠",
+        "𠞚",
+        "𣪰",
+        "剾",
+        "𠝪"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "525C",
+            "4453545522"
+        ],
+        "char_code_wubi": "pqbj",
+        "char_code_cangjie": "juln",
+        "char_code_zhengma": "wdyk",
+        "char_code_sijiao": "32200"
+    },
+    "general_unicode": "基本区 U+525C",
+    "general_bs_code": "4453545522"
+}

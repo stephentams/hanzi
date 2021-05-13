@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "14",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "螣"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "26885",
+            "354143345354251214"
+        ],
+        "char_code_wubi": "eonj",
+        "char_code_cangjie": "bfvi",
+        "char_code_zhengma": "quxi"
+    },
+    "general_unicode": "扩展B U+26885",
+    "general_bs_code": "354143345354251214"
+}

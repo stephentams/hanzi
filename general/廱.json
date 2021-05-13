@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "harmonious; pool; hall"
+        },
+        {
+            "language": "德语",
+            "explanation": "harmonisch"
+        }
+    ],
+    "general_pinyins": [
+        "yōng"
+    ],
+    "general_zhuyins": [
+        "ㄩㄥ"
+    ],
+    "general_radical": {
+        "radical": "广",
+        "non_radical_sn": "18",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㢕"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5EF1",
+            "413555251521532411121"
+        ],
+        "char_code_wubi": "yvky|ovky",
+        "char_code_cangjie": "ivug",
+        "char_code_zhengma": "tgyn",
+        "char_code_sijiao": "00215"
+    },
+    "general_unicode": "基本区 U+5EF1",
+    "general_bs_code": "413555251521532411121"
+}

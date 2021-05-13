@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "peaceful, tranquil, quiet"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 Ruhe, Sicherheit (S)​,friedlich, ruhig (Adj)​,Ampere (A, Einheit für elektrischen Strom)​ 安培&gt (S, Phys)​,An (Eig, Fam)"
+        }
+    ],
+    "general_pinyins": [
+        "ān"
+    ],
+    "general_zhuyins": [
+        "ㄢ"
+    ],
+    "general_radical": {
+        "radical": "宀",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "侒",
+        "𠕷",
+        "𡚴"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5B89",
+            "445531"
+        ],
+        "char_code_wubi": "pvf",
+        "char_code_cangjie": "jv",
+        "char_code_zhengma": "wdzm",
+        "char_code_sijiao": "30404"
+    },
+    "general_unicode": "基本区 U+5B89",
+    "general_bs_code": "445531"
+}

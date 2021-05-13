@@ -1,0 +1,58 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "source, origin, beginning"
+        },
+        {
+            "language": "德语",
+            "explanation": "ursprünglich  (Adj)​,eigentlich  (Adv)"
+        },
+        {
+            "language": "法语",
+            "explanation": "primitif,originel,initial,pardonner,excuser,plaine,brut,original,(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "yuán"
+    ],
+    "general_zhuyins": [
+        "ㄩㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "厂",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "元",
+        "厡",
+        "厵",
+        "塬",
+        "源",
+        "羱",
+        "邍",
+        "𠩠",
+        "𠩤",
+        "𠪥",
+        "𠪰",
+        "𠫐",
+        "𠫒",
+        "𨘡",
+        "𨙅"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "539F",
+            "1332511234"
+        ],
+        "char_code_wubi": "drii",
+        "char_code_cangjie": "mhaf",
+        "char_code_zhengma": "ggnk",
+        "char_code_sijiao": "71296"
+    },
+    "general_unicode": "基本区 U+539F",
+    "general_bs_code": "1332511234"
+}

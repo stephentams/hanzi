@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(ancient form of 國) a country; a nation; a kingdom; a state"
+        }
+    ],
+    "general_pinyins": [
+        "guó"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "25",
+        "total_sn": "30"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "國"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4190",
+            "111343123411134312341113431234"
+        ],
+        "char_code_wubi": "dwtt",
+        "char_code_cangjie": "qdqdd",
+        "char_code_zhengma": "cocm",
+        "char_code_sijiao": "50994"
+    },
+    "general_unicode": "扩展A U+4190",
+    "general_bs_code": "111343123411134312341113431234"
+}

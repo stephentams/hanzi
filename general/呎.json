@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "foot"
+        },
+        {
+            "language": "德语",
+            "explanation": "englischen Fuß [ ft, 1 ft = 30,48 cm ]  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "pied (unité de longueur anglaise)​"
+        }
+    ],
+    "general_pinyins": [
+        "chǐ"
+    ],
+    "general_zhuyins": [
+        "ㄔˇ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䐖"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "544E",
+            "2515134"
+        ],
+        "char_code_wubi": "knyy",
+        "char_code_cangjie": "rso",
+        "char_code_zhengma": "jxs",
+        "char_code_sijiao": "67087"
+    },
+    "general_unicode": "基本区 U+544E",
+    "general_bs_code": "2515134"
+}

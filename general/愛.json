@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "love, be fond of, like"
+        },
+        {
+            "language": "德语",
+            "explanation": "Liebe (S)​,etwas gerne tun, etwas gerne haben (V)​,lieben (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "amour,aimer,affection,être fan de,adorer"
+        }
+    ],
+    "general_pinyins": [
+        "ài"
+    ],
+    "general_zhuyins": [
+        "ㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "爱"
+    ],
+    "general_ytz": [
+        "㤅",
+        "爱",
+        "𢖻",
+        "𢙴",
+        "𢛭",
+        "𢜤",
+        "𢟪",
+        "𤔠",
+        "𤔤"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "611B",
+            "3443454544354"
+        ],
+        "char_code_wubi": "epnt",
+        "char_code_cangjie": "bbpe",
+        "char_code_zhengma": "pvwr",
+        "char_code_sijiao": "20407"
+    },
+    "general_unicode": "基本区 U+611B",
+    "general_bs_code": "3443454544354"
+}

@@ -1,0 +1,27 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "17",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "篽",
+        "蘅",
+        "𦼼"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "27107",
+            "121233235251214444112"
+        ],
+        "char_code_wubi": "FFTH",
+        "char_code_cangjie": "thon",
+        "char_code_zhengma": "eor"
+    },
+    "general_unicode": "扩展B U+27107",
+    "general_bs_code": "121233235251214444112"
+}

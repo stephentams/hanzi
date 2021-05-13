@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "high mound; hilly countryside; wasteland"
+        },
+        {
+            "language": "法语",
+            "explanation": "ruines"
+        }
+    ],
+    "general_pinyins": [
+        "xū"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "圩",
+        "虚",
+        "虛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "589F",
+            "12121531522431"
+        ],
+        "char_code_wubi": "fhag|fhog",
+        "char_code_cangjie": "gypc",
+        "char_code_zhengma": "biku",
+        "char_code_sijiao": "41112"
+    },
+    "general_unicode": "基本区 U+589F",
+    "general_bs_code": "12121531522431"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "be healed, cured, recover"
+        },
+        {
+            "language": "德语",
+            "explanation": "heilen  (S, Med)​,behandeln  (V, Med)​,versorgen  (V, Med)​,Liao  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "soigner,traiter"
+        }
+    ],
+    "general_pinyins": [
+        "liáo"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "12",
+        "total_sn": "17"
+    },
+    "general_stc": [
+        "疗"
+    ],
+    "general_ytz": [
+        "疗",
+        "𤻲",
+        "療"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7642",
+            "41341134432511234"
+        ],
+        "char_code_wubi": "udui",
+        "char_code_cangjie": "kkcf",
+        "char_code_zhengma": "tgkk",
+        "char_code_sijiao": "00196"
+    },
+    "general_unicode": "基本区 U+7642",
+    "general_bs_code": "41341134432511234"
+}

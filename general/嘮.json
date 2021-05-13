@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "chat, jaw, gossip, talk"
+        },
+        {
+            "language": "德语",
+            "explanation": "plappern, klappern"
+        },
+        {
+            "language": "法语",
+            "explanation": "bavarder"
+        }
+    ],
+    "general_pinyins": [
+        "lào",
+        "láo"
+    ],
+    "general_zhuyins": [
+        "ㄌㄠˋ",
+        "ㄌㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "唠"
+    ],
+    "general_ytz": [
+        "䜎",
+        "唠",
+        "詨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "562E",
+            "251433443344553"
+        ],
+        "char_code_wubi": "kool|kooe",
+        "char_code_cangjie": "rffs",
+        "char_code_zhengma": "juwy",
+        "char_code_sijiao": "69027"
+    },
+    "general_unicode": "基本区 U+562E",
+    "general_bs_code": "251433443344553"
+}

@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "zú"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "20ECF",
+            "2511213234534"
+        ],
+        "char_code_wubi": "kfao",
+        "char_code_cangjie": "rjic",
+        "char_code_zhengma": "jeno"
+    },
+    "general_unicode": "扩展B U+20ECF",
+    "general_bs_code": "2511213234534"
+}

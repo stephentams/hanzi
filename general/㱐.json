@@ -1,0 +1,24 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "止",
+        "non_radical_sn": "3",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "单体结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3C50",
+            "1121214"
+        ],
+        "char_code_wubi": "fhyi",
+        "char_code_cangjie": "mimm",
+        "char_code_zhengma": "bdis",
+        "char_code_sijiao": "13101"
+    },
+    "general_unicode": "扩展A U+3C50",
+    "general_bs_code": "1121214"
+}

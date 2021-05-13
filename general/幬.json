@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cover up; curtain"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gardine  (S)​,Kabinendach, Regendach  (S)​,Kabinendach, Regendach  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "couvrir,voile"
+        }
+    ],
+    "general_pinyins": [
+        "chóu",
+        "dào"
+    ],
+    "general_zhuyins": [
+        "ㄔㄡˊ",
+        "ㄉㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "巾",
+        "non_radical_sn": "14",
+        "total_sn": "17"
+    },
+    "general_stc": [
+        "帱"
+    ],
+    "general_ytz": [
+        "帱",
+        "𢃖",
+        "𢄛",
+        "𢅂",
+        "𢅱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5E6C",
+            "25212151211251124"
+        ],
+        "char_code_wubi": "mhff",
+        "char_code_cangjie": "lbgni",
+        "char_code_zhengma": "lijd",
+        "char_code_sijiao": "44241"
+    },
+    "general_unicode": "基本区 U+5E6C",
+    "general_bs_code": "25212151211251124"
+}

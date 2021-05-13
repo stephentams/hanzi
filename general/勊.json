@@ -1,0 +1,30 @@
+{
+    "general_pinyins": [
+        "kè"
+    ],
+    "general_zhuyins": [
+        "ㄎㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "力",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "剋"
+    ],
+    "general_structure": "左下包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "52CA",
+            "122513553"
+        ],
+        "char_code_wubi": "dqlv|dqee",
+        "char_code_cangjie": "juks",
+        "char_code_zhengma": "edry",
+        "char_code_sijiao": "44212"
+    },
+    "general_unicode": "基本区 U+52CA",
+    "general_bs_code": "122513553"
+}

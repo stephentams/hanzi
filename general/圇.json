@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "all, complete, entire"
+        },
+        {
+            "language": "德语",
+            "explanation": "völlig, ergänzen"
+        },
+        {
+            "language": "法语",
+            "explanation": "intact"
+        }
+    ],
+    "general_pinyins": [
+        "lún"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "囗",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "囵"
+    ],
+    "general_ytz": [
+        "囵"
+    ],
+    "general_structure": "全包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5707",
+            "25341251221"
+        ],
+        "char_code_wubi": "lwga",
+        "char_code_cangjie": "womb",
+        "char_code_zhengma": "jdal",
+        "char_code_sijiao": "60227"
+    },
+    "general_unicode": "基本区 U+5707",
+    "general_bs_code": "25341251221"
+}

@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "large ring on a front door used as a knocker"
+        }
+    ],
+    "general_pinyins": [
+        "shǎng",
+        "jiōng"
+    ],
+    "general_zhuyins": [
+        "ㄕㄤˇ",
+        "ㄐㄩㄥ"
+    ],
+    "general_radical": {
+        "radical": "户",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "扃"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6244",
+            "4513325251"
+        ],
+        "char_code_wubi": "yntk",
+        "char_code_cangjie": "hshbr",
+        "char_code_zhengma": "wmnj",
+        "char_code_sijiao": "30227"
+    },
+    "general_unicode": "基本区 U+6244",
+    "general_bs_code": "4513325251"
+}

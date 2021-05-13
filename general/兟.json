@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to advance"
+        }
+    ],
+    "general_pinyins": [
+        "shēn"
+    ],
+    "general_zhuyins": [
+        "ㄕㄣ"
+    ],
+    "general_radical": {
+        "radical": "先",
+        "non_radical_sn": "6",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "515F",
+            "312135312135"
+        ],
+        "char_code_wubi": "tfqq",
+        "char_code_cangjie": "huhgu",
+        "char_code_zhengma": "mbmr",
+        "char_code_sijiao": "24212"
+    },
+    "general_unicode": "基本区 U+515F",
+    "general_bs_code": "312135312135"
+}

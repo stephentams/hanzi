@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hair style; ore"
+        }
+    ],
+    "general_pinyins": [
+        "guàn",
+        "kuàng",
+        "luăn"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄢˋ",
+        "ㄎㄨㄤˋ",
+        "ㄌㄨㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "难检",
+        "non_radical_sn": "4",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "卵",
+        "礦",
+        "茒",
+        "艹"
+    ],
+    "general_structure": "单体结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "535D",
+            "2121"
+        ],
+        "char_code_wubi": "gjgd|hghg",
+        "char_code_cangjie": "lmy",
+        "char_code_zhengma": "iaid",
+        "char_code_sijiao": "11220"
+    },
+    "general_unicode": "基本区 U+535D",
+    "general_bs_code": "2121"
+}

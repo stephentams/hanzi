@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bite, gnaw"
+        },
+        {
+            "language": "德语",
+            "explanation": "abnagen, nagen"
+        }
+    ],
+    "general_pinyins": [
+        "niè"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "嚙"
+    ],
+    "general_ytz": [
+        "嚙",
+        "噛",
+        "齧",
+        "囓",
+        "𠲼",
+        "𠼜",
+        "𪘅"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "556E",
+            "25121213452"
+        ],
+        "char_code_wubi": "khwb",
+        "char_code_cangjie": "xrymu",
+        "char_code_zhengma": "jio",
+        "char_code_sijiao": "61072"
+    },
+    "general_unicode": "基本区 U+556E",
+    "general_bs_code": "25121213452"
+}

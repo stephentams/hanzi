@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "footwear, shoes; walk on, tread"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schuh, (Pferd)​ beschlagen  (S)​,Schuhe  (S)​,Schuhmacher  (S)​,ausführen, durchführen  (V)​,Lü  (Eig, Fam)​,Schritt"
+        },
+        {
+            "language": "法语",
+            "explanation": "chaussure,pas,marcher sur"
+        }
+    ],
+    "general_pinyins": [
+        "lǚ"
+    ],
+    "general_zhuyins": [
+        "ㄌㄩˇ"
+    ],
+    "general_radical": {
+        "radical": "尸",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡲟",
+        "𡳐",
+        "𢔃",
+        "𨂠",
+        "𨇐",
+        "𩕎",
+        "履"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5C65",
+            "513332312511354"
+        ],
+        "char_code_wubi": "nttt",
+        "char_code_cangjie": "shoe",
+        "char_code_zhengma": "xmkr",
+        "char_code_sijiao": "77247"
+    },
+    "general_unicode": "基本区 U+5C65",
+    "general_bs_code": "513332312511354"
+}

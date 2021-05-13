@@ -1,0 +1,35 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as U+4E16 世) generation; world; era"
+        }
+    ],
+    "general_pinyins": [
+        "shì"
+    ],
+    "general_zhuyins": [
+        "ㄕˋ"
+    ],
+    "general_radical": {
+        "radical": "一",
+        "non_radical_sn": "3",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "世"
+    ],
+    "general_structure": "",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2000D",
+            "12221"
+        ],
+        "char_code_wubi": "anv",
+        "char_code_cangjie": "pt",
+        "char_code_zhengma": "eaaa"
+    },
+    "general_unicode": "扩展B U+2000D",
+    "general_bs_code": "12221"
+}

@@ -1,0 +1,30 @@
+{
+    "general_pinyins": [
+        "là"
+    ],
+    "general_zhuyins": [
+        "ㄌㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "手",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥻌"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "63E7",
+            "1251234223112"
+        ],
+        "char_code_wubi": "gkir|skjr",
+        "char_code_cangjie": "dnq",
+        "char_code_zhengma": "fjkm",
+        "char_code_sijiao": "52502"
+    },
+    "general_unicode": "基本区 U+63E7",
+    "general_bs_code": "1251234223112"
+}

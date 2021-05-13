@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "left; east; unorthodox, improper"
+        },
+        {
+            "language": "德语",
+            "explanation": "links, linke Seite ,Zuo  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "gauche,opposé"
+        }
+    ],
+    "general_pinyins": [
+        "zuǒ"
+    ],
+    "general_zhuyins": [
+        "ㄗㄨㄛˇ"
+    ],
+    "general_radical": {
+        "radical": "工",
+        "non_radical_sn": "2",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "佐",
+        "㔫",
+        "𠂇",
+        "𢀡"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5DE6",
+            "13121"
+        ],
+        "char_code_wubi": "daf",
+        "char_code_cangjie": "km",
+        "char_code_zhengma": "gdbi",
+        "char_code_sijiao": "40102"
+    },
+    "general_unicode": "基本区 U+5DE6",
+    "general_bs_code": "13121"
+}

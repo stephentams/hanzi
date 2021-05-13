@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to dust; a duster"
+        },
+        {
+            "language": "德语",
+            "explanation": "abstauben, bestäuben  (Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "épousseter,nettoyer"
+        }
+    ],
+    "general_pinyins": [
+        "dǎn"
+    ],
+    "general_zhuyins": [
+        "ㄉㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "探",
+        "𢶁",
+        "𢺬",
+        "撣"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "64A2",
+            "121125221251112"
+        ],
+        "char_code_wubi": "rsjh",
+        "char_code_cangjie": "qmwj",
+        "char_code_zhengma": "dfke",
+        "char_code_sijiao": "51046"
+    },
+    "general_unicode": "基本区 U+64A2",
+    "general_bs_code": "121125221251112"
+}

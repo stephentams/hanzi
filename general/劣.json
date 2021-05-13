@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bad, inferior; slightly"
+        },
+        {
+            "language": "德语",
+            "explanation": "schlecht, minderwertig  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "mauvais,inférieur"
+        }
+    ],
+    "general_pinyins": [
+        "liè"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "力",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢚃",
+        "𢖬",
+        "劣"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "52A3",
+            "234353"
+        ],
+        "char_code_wubi": "itlb|iter",
+        "char_code_cangjie": "fhks",
+        "char_code_zhengma": "komy",
+        "char_code_sijiao": "90427"
+    },
+    "general_unicode": "基本区 U+52A3",
+    "general_bs_code": "234353"
+}

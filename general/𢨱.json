@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "zhōng"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "户",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "22A31",
+            "45133454"
+        ],
+        "char_code_wubi": "ynwc",
+        "char_code_cangjie": "hsci",
+        "char_code_zhengma": "wmoz"
+    },
+    "general_unicode": "扩展B U+22A31",
+    "general_bs_code": "45133454"
+}

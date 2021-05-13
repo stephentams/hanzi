@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "collect, gather, store; profound; (Budd.) skandha"
+        },
+        {
+            "language": "德语",
+            "explanation": "abholen, einsammeln"
+        },
+        {
+            "language": "法语",
+            "explanation": "accumuler,contenir"
+        }
+    ],
+    "general_pinyins": [
+        "yùn"
+    ],
+    "general_zhuyins": [
+        "ㄩㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "16",
+        "total_sn": "19"
+    },
+    "general_stc": [
+        "蕴"
+    ],
+    "general_ytz": [
+        "藴",
+        "蕴"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "860A",
+            "1225544442534125221"
+        ],
+        "char_code_wubi": "axll",
+        "char_code_cangjie": "tvft",
+        "char_code_zhengma": "ezol",
+        "char_code_sijiao": "44912"
+    },
+    "general_unicode": "基本区 U+860A",
+    "general_bs_code": "1225544442534125221"
+}

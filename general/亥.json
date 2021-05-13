@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "12th terrestrial branch"
+        },
+        {
+            "language": "德语",
+            "explanation": "12. Tier im chin. Tierkreis - Schwein 法语 (car. cycl.)​,de 21 à 23h"
+        }
+    ],
+    "general_pinyins": [
+        "hài"
+    ],
+    "general_zhuyins": [
+        "ㄏㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "亠",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠀅",
+        "𠅆",
+        "𠦇",
+        "𢁓",
+        "𢁳",
+        "㐪"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4EA5",
+            "415334"
+        ],
+        "char_code_wubi": "yntw",
+        "char_code_cangjie": "yvho",
+        "char_code_zhengma": "szod",
+        "char_code_sijiao": "00802"
+    },
+    "general_unicode": "基本区 U+4EA5",
+    "general_bs_code": "415334"
+}

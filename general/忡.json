@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a sad, uneasy countenance"
+        },
+        {
+            "language": "法语",
+            "explanation": "triste,abattu"
+        }
+    ],
+    "general_pinyins": [
+        "chōng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨㄥ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢘷",
+        "𢥕",
+        "𢥞",
+        "𢦃"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5FE1",
+            "4422512"
+        ],
+        "char_code_wubi": "nkhh",
+        "char_code_cangjie": "pl",
+        "char_code_zhengma": "uji",
+        "char_code_sijiao": "95006"
+    },
+    "general_unicode": "基本区 U+5FE1",
+    "general_bs_code": "4422512"
+}

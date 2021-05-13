@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "like, love, enjoy; joyful thing"
+        },
+        {
+            "language": "德语",
+            "explanation": "sich freuen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "aimer,adorer,joyeux,heureux"
+        }
+    ],
+    "general_pinyins": [
+        "xǐ"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "憘",
+        "憙",
+        "歖",
+        "𠶮",
+        "𠺇",
+        "𡔯",
+        "𢐭",
+        "嬉",
+        "𢝫"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "559C",
+            "121251431251"
+        ],
+        "char_code_wubi": "fkuk",
+        "char_code_cangjie": "grtr",
+        "char_code_zhengma": "bjuj",
+        "char_code_sijiao": "40601"
+    },
+    "general_unicode": "基本区 U+559C",
+    "general_bs_code": "121251431251"
+}

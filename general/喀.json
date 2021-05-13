@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "vomit; used in transliterations"
+        },
+        {
+            "language": "法语",
+            "explanation": "(onomat.)​ bruit de la toux ou du vomissement"
+        }
+    ],
+    "general_pinyins": [
+        "kā"
+    ],
+    "general_zhuyins": [
+        "ㄎㄚ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䘔",
+        "咯",
+        "衉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5580",
+            "251445354251"
+        ],
+        "char_code_wubi": "kptk",
+        "char_code_cangjie": "rjhr",
+        "char_code_zhengma": "jwrj",
+        "char_code_sijiao": "63064"
+    },
+    "general_unicode": "基本区 U+5580",
+    "general_bs_code": "251445354251"
+}

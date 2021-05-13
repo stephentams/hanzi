@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stand for lamp; frame for bow"
+        }
+    ],
+    "general_pinyins": [
+        "qíng"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "12",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㯳",
+        "擏",
+        "𢐧",
+        "擎"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6AA0",
+            "1223525131341234"
+        ],
+        "char_code_wubi": "aqks",
+        "char_code_cangjie": "tkd",
+        "char_code_zhengma": "ermf",
+        "char_code_sijiao": "48904"
+    },
+    "general_unicode": "基本区 U+6AA0",
+    "general_bs_code": "1223525131341234"
+}

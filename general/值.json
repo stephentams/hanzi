@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "price"
+        },
+        {
+            "language": "法语",
+            "explanation": "coûter,valoir,mériter,valoir la peine,valeur"
+        }
+    ],
+    "general_pinyins": [
+        "zhí"
+    ],
+    "general_zhuyins": [
+        "ㄓˊ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "値",
+        "直"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "503C",
+            "3212251111"
+        ],
+        "char_code_wubi": "wfhg",
+        "char_code_cangjie": "ojbm",
+        "char_code_zhengma": "nelc",
+        "char_code_sijiao": "24212"
+    },
+    "general_unicode": "基本区 U+503C",
+    "general_bs_code": "3212251111"
+}

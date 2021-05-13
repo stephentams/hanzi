@@ -1,0 +1,29 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(Cant.) hope"
+        }
+    ],
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "20D49",
+            "25112344135"
+        ],
+        "char_code_wubi": "ksym",
+        "char_code_cangjie": "rdyn",
+        "char_code_zhengma": "jfsq"
+    },
+    "general_unicode": "扩展B U+20D49",
+    "general_bs_code": "25112344135"
+}

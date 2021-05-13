@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tribe"
+        }
+    ],
+    "general_pinyins": [
+        "mù"
+    ],
+    "general_zhuyins": [
+        "ㄇㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "3",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "狇",
+        "𤝂"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4EEB",
+            "32354"
+        ],
+        "char_code_wubi": "wtcy",
+        "char_code_cangjie": "ohi",
+        "char_code_zhengma": "nmzs",
+        "char_code_sijiao": "22232"
+    },
+    "general_unicode": "基本区 U+4EEB",
+    "general_bs_code": "32354"
+}

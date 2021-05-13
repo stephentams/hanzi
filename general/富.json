@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "abundant, ample; rich, wealthy"
+        },
+        {
+            "language": "德语",
+            "explanation": "Reichtum  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "riche,abondant"
+        }
+    ],
+    "general_pinyins": [
+        "fù"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "宀",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "冨",
+        "𠖐"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5BCC",
+            "445125125121"
+        ],
+        "char_code_wubi": "pgkl",
+        "char_code_cangjie": "jmrw",
+        "char_code_zhengma": "wdjk",
+        "char_code_sijiao": "30606"
+    },
+    "general_unicode": "基本区 U+5BCC",
+    "general_bs_code": "445125125121"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sparrow hawk; Circus species (various)"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schnepfe  (S)​,Sperber  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "busard"
+        }
+    ],
+    "general_pinyins": [
+        "yào"
+    ],
+    "general_zhuyins": [
+        "ㄧㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "鳥",
+        "non_radical_sn": "10",
+        "total_sn": "21"
+    },
+    "general_stc": [
+        "鹞"
+    ],
+    "general_ytz": [
+        "鹞",
+        "𩀘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9DC2",
+            "344331125232511154444"
+        ],
+        "char_code_wubi": "ermo|etfo",
+        "char_code_cangjie": "buhaf",
+        "char_code_zhengma": "pvzr",
+        "char_code_sijiao": "27727"
+    },
+    "general_unicode": "基本区 U+9DC2",
+    "general_bs_code": "344331125232511154444"
+}

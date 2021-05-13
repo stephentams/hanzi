@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "marry, take wife"
+        },
+        {
+            "language": "德语",
+            "explanation": "jdm. zur Frau nehmen  ( Heirat, Ehe )​  (V)​,eine Frau ehelichen   ( Heirat, Ehe )​  (V)​,eine Frau heiraten   ( Heirat, Ehe )​  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "épouser (une femme)​,prendre pour femme"
+        }
+    ],
+    "general_pinyins": [
+        "qǔ"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩˇ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "取"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5A36",
+            "12211154531"
+        ],
+        "char_code_wubi": "bcvf",
+        "char_code_cangjie": "sev",
+        "char_code_zhengma": "cexz",
+        "char_code_sijiao": "17404"
+    },
+    "general_unicode": "基本区 U+5A36",
+    "general_bs_code": "12211154531"
+}

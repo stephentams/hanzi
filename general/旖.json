@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "romantic; tender; charming"
+        },
+        {
+            "language": "法语",
+            "explanation": "tel un drapeau qui flotte au vent,gracieux et beau"
+        }
+    ],
+    "general_pinyins": [
+        "yǐ"
+    ],
+    "general_zhuyins": [
+        "ㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "方",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "旑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "65D6",
+            "41533113412512"
+        ],
+        "char_code_wubi": "ytdk",
+        "char_code_cangjie": "ysokr",
+        "char_code_zhengma": "syaj",
+        "char_code_sijiao": "08221"
+    },
+    "general_unicode": "基本区 U+65D6",
+    "general_bs_code": "41533113412512"
+}

@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to scold, upbraid, accuse, reproach"
+        },
+        {
+            "language": "德语",
+            "explanation": "rügen  (V)​,ermahnen"
+        },
+        {
+            "language": "法语",
+            "explanation": "blâmer,faire des reproches,réprimander,évincer"
+        }
+    ],
+    "general_pinyins": [
+        "chì"
+    ],
+    "general_zhuyins": [
+        "ㄔˋ"
+    ],
+    "general_radical": {
+        "radical": "斤",
+        "non_radical_sn": "1",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "坼",
+        "㡿",
+        "𠨺",
+        "𠩋",
+        "𡱞",
+        "𤵍"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "65A5",
+            "33124"
+        ],
+        "char_code_wubi": "ryi",
+        "char_code_cangjie": "hmy",
+        "char_code_zhengma": "pds",
+        "char_code_sijiao": "72241"
+    },
+    "general_unicode": "基本区 U+65A5",
+    "general_bs_code": "33124"
+}

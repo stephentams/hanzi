@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ditch, drain, narrow waterway"
+        },
+        {
+            "language": "德语",
+            "explanation": "einhundertquintillionen (100.000.000.000.000.000.000.000.000.000.000,10^32)​ ,Rille  (S)​,Schützengraben  (S)​,Senke  (S)​,flackern, aushöhlen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "fossé,sillon,ravin"
+        }
+    ],
+    "general_pinyins": [
+        "gōu"
+    ],
+    "general_zhuyins": [
+        "ㄍㄡ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "溝"
+    ],
+    "general_ytz": [
+        "溝",
+        "㳰"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6C9F",
+            "4413554"
+        ],
+        "char_code_wubi": "iqcy",
+        "char_code_cangjie": "epi",
+        "char_code_zhengma": "vrzs",
+        "char_code_sijiao": "37120"
+    },
+    "general_unicode": "基本区 U+6C9F",
+    "general_bs_code": "4413554"
+}

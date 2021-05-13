@@ -1,0 +1,31 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hair on the temples"
+        }
+    ],
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "髟",
+        "non_radical_sn": "14",
+        "total_sn": "24"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "鬢"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "29BED",
+            "121115433344552132511134"
+        ],
+        "char_code_wubi": "depm",
+        "char_code_cangjie": "shjac",
+        "char_code_zhengma": "chxl"
+    },
+    "general_unicode": "扩展B U+29BED",
+    "general_bs_code": "121115433344552132511134"
+}

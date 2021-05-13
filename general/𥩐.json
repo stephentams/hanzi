@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "穴",
+        "non_radical_sn": "19",
+        "total_sn": "24"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "竇"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "25A50",
+            "445351213525352512511134"
+        ],
+        "char_code_wubi": "pwfm",
+        "char_code_cangjie": "jcgcc",
+        "char_code_zhengma": "woll"
+    },
+    "general_unicode": "扩展B U+25A50",
+    "general_bs_code": "445351213525352512511134"
+}

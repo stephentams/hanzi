@@ -1,0 +1,30 @@
+{
+    "general_pinyins": [
+        "shì",
+        "dié"
+    ],
+    "general_zhuyins": [
+        "ㄕˋ",
+        "ㄉㄧㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5D3C",
+            "252251112134"
+        ],
+        "char_code_wubi": "mjgh",
+        "char_code_cangjie": "uamo",
+        "char_code_zhengma": "llai",
+        "char_code_sijiao": "26781"
+    },
+    "general_unicode": "基本区 U+5D3C",
+    "general_bs_code": "252251112134"
+}

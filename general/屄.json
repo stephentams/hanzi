@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "the vagina"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schamlippen"
+        },
+        {
+            "language": "法语",
+            "explanation": "vagin,vulve"
+        }
+    ],
+    "general_pinyins": [
+        "bī"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧ"
+    ],
+    "general_radical": {
+        "radical": "尸",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "毴",
+        "𣬼",
+        "𣭈",
+        "𡚦"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5C44",
+            "51344534"
+        ],
+        "char_code_wubi": "npwi",
+        "char_code_cangjie": "sjc",
+        "char_code_zhengma": "xmwo",
+        "char_code_sijiao": "77282"
+    },
+    "general_unicode": "基本区 U+5C44",
+    "general_bs_code": "51344534"
+}

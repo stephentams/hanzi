@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "talkative; clamour; hubbub"
+        },
+        {
+            "language": "德语",
+            "explanation": "toben, Geschrei  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "faire la moue,parler bruyamment"
+        }
+    ],
+    "general_pinyins": [
+        "náo"
+    ],
+    "general_zhuyins": [
+        "ㄋㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "詉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5476",
+            "25153154"
+        ],
+        "char_code_wubi": "kvcy",
+        "char_code_cangjie": "rve",
+        "char_code_zhengma": "jzxs",
+        "char_code_sijiao": "67040"
+    },
+    "general_unicode": "基本区 U+5476",
+    "general_bs_code": "25153154"
+}

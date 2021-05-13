@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "lí"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "11",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2362C",
+            "1123431344131234"
+        ],
+        "char_code_wubi": "fits",
+        "char_code_cangjie": "jkmd",
+        "char_code_zhengma": "bdgf"
+    },
+    "general_unicode": "扩展B U+2362C",
+    "general_bs_code": "1123431344131234"
+}

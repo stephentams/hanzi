@@ -1,0 +1,61 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "raise, lift up; recommend"
+        },
+        {
+            "language": "德语",
+            "explanation": "heben, hochheben  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "lever,soulever,choisir,élire,citer,action,exploit,entier,tout"
+        }
+    ],
+    "general_pinyins": [
+        "jǔ"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩˇ"
+    ],
+    "general_radical": {
+        "radical": "丶",
+        "non_radical_sn": "8",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "舉"
+    ],
+    "general_ytz": [
+        "舉",
+        "挙",
+        "擧",
+        "㪯",
+        "𠃥",
+        "𠔖",
+        "𠦮",
+        "𡕖",
+        "𡥳",
+        "𡴃",
+        "𢍁",
+        "𣁄",
+        "𤼳",
+        "𤼴",
+        "𥸦",
+        "𦦙"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4E3E",
+            "443134112"
+        ],
+        "char_code_wubi": "iwfh|igwg",
+        "char_code_cangjie": "fcq",
+        "char_code_zhengma": "vdob",
+        "char_code_sijiao": "90508"
+    },
+    "general_unicode": "基本区 U+4E3E",
+    "general_bs_code": "443134112"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "express surprise, be surprised"
+        },
+        {
+            "language": "德语",
+            "explanation": "verblüffte"
+        },
+        {
+            "language": "法语",
+            "explanation": "étonné,stupéfait"
+        }
+    ],
+    "general_pinyins": [
+        "yà"
+    ],
+    "general_zhuyins": [
+        "ㄧㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "訝"
+    ],
+    "general_ytz": [
+        "訝",
+        "冴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BB6",
+            "451523"
+        ],
+        "char_code_wubi": "yaht",
+        "char_code_cangjie": "ivmvh",
+        "char_code_zhengma": "shi",
+        "char_code_sijiao": "31740"
+    },
+    "general_unicode": "基本区 U+8BB6",
+    "general_bs_code": "451523"
+}

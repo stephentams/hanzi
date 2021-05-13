@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to hate bitterly; drought; dry"
+        },
+        {
+            "language": "德语",
+            "explanation": "hassen, nicht mögen"
+        },
+        {
+            "language": "法语",
+            "explanation": "sorte de malaria,mal,affliger"
+        }
+    ],
+    "general_pinyins": [
+        "dàn",
+        "dān"
+    ],
+    "general_zhuyins": [
+        "ㄉㄢˋ",
+        "ㄉㄢ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "12",
+        "total_sn": "17"
+    },
+    "general_stc": [
+        "瘅"
+    ],
+    "general_ytz": [
+        "瘅"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7649",
+            "41341251251251112"
+        ],
+        "char_code_wubi": "ukkf",
+        "char_code_cangjie": "krrj",
+        "char_code_zhengma": "tjke",
+        "char_code_sijiao": "00156"
+    },
+    "general_unicode": "基本区 U+7649",
+    "general_bs_code": "41341251251251112"
+}

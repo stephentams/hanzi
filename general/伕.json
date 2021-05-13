@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "common laborer"
+        },
+        {
+            "language": "法语",
+            "explanation": "marié"
+        }
+    ],
+    "general_pinyins": [
+        "fū"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "夫"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4F15",
+            "321134"
+        ],
+        "char_code_wubi": "wfwy|wgy",
+        "char_code_cangjie": "oqo",
+        "char_code_zhengma": "nbod",
+        "char_code_sijiao": "25280"
+    },
+    "general_unicode": "基本区 U+4F15",
+    "general_bs_code": "321134"
+}

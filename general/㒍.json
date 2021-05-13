@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(interchangeable U+50AB 儽) utterly weary in body and spirits; negligent; lax"
+        }
+    ],
+    "general_pinyins": [
+        "léi",
+        "lěi"
+    ],
+    "general_zhuyins": [
+        "ㄌㄟˊ",
+        "ㄌㄟˇ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "12",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "348D",
+            "32545454554234"
+        ],
+        "char_code_wubi": "wcci",
+        "char_code_cangjie": "oiif",
+        "char_code_zhengma": "nzzz",
+        "char_code_sijiao": "23293"
+    },
+    "general_unicode": "扩展A U+348D",
+    "general_bs_code": "32545454554234"
+}

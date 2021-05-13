@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "currency, coins, legal tender"
+        },
+        {
+            "language": "德语",
+            "explanation": "Münze, Währung  (S)​,Geld"
+        },
+        {
+            "language": "法语",
+            "explanation": "monnaie,pièce,devise"
+        }
+    ],
+    "general_pinyins": [
+        "bì"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "巾",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "币"
+    ],
+    "general_ytz": [
+        "㢢",
+        "币",
+        "幤",
+        "𢄞",
+        "𧝬",
+        "𧸁"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5E63",
+            "43252343134252"
+        ],
+        "char_code_wubi": "umih|itmh",
+        "char_code_cangjie": "fklb",
+        "char_code_zhengma": "kvml",
+        "char_code_sijiao": "98227"
+    },
+    "general_unicode": "基本区 U+5E63",
+    "general_bs_code": "43252343134252"
+}

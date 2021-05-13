@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "insects, worms; KangXi radical 142"
+        },
+        {
+            "language": "德语",
+            "explanation": "Insekt, Wurm  (S, Bio)​,Wurm  (S, Bio)​,Chong  (Eig, Fam)​,Radikal Nr. 142 = Wurm, Insekt  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "insecte,ver"
+        }
+    ],
+    "general_pinyins": [
+        "chóng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "0",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "蟲"
+    ],
+    "general_ytz": [
+        "𧈰",
+        "虺",
+        "蟲",
+        "䖝"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "866B",
+            "251214"
+        ],
+        "char_code_wubi": "jhny",
+        "char_code_cangjie": "lmi",
+        "char_code_zhengma": "ia",
+        "char_code_sijiao": "50136"
+    },
+    "general_unicode": "基本区 U+866B",
+    "general_bs_code": "251214"
+}

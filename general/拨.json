@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "move; dispel; distribute"
+        },
+        {
+            "language": "德语",
+            "explanation": "wählen (eine Nummer (Telefon)​)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "remuer,pousser,allouer,composer un numéro de téléphone,(classificateur pour groupe (de personnes)​)​"
+        }
+    ],
+    "general_pinyins": [
+        "bō"
+    ],
+    "general_zhuyins": [
+        "ㄅㄛ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "撥"
+    ],
+    "general_ytz": [
+        "撥",
+        "𢯸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "62E8",
+            "12153544"
+        ],
+        "char_code_wubi": "rnty",
+        "char_code_cangjie": "qive",
+        "char_code_zhengma": "dzxs",
+        "char_code_sijiao": "53047"
+    },
+    "general_unicode": "基本区 U+62E8",
+    "general_bs_code": "12153544"
+}

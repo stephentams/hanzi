@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "an ancient neme of a river in Shanxi and Hebei"
+        }
+    ],
+    "general_pinyins": [
+        "lěi"
+    ],
+    "general_zhuyins": [
+        "ㄌㄟˇ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "21",
+        "total_sn": "24"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "漯"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3D9F",
+            "441251212512125121554234"
+        ],
+        "char_code_wubi": "illi",
+        "char_code_cangjie": "ewwf",
+        "char_code_zhengma": "vkkz",
+        "char_code_sijiao": "36193"
+    },
+    "general_unicode": "扩展A U+3D9F",
+    "general_bs_code": "441251212512125121554234"
+}

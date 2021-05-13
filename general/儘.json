@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "utmost"
+        },
+        {
+            "language": "法语",
+            "explanation": "le plus possible,dans certaines limites,donner la priorité"
+        }
+    ],
+    "general_pinyins": [
+        "jǐn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "14",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "尽"
+    ],
+    "general_ytz": [
+        "侭",
+        "尽",
+        "盡"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5118",
+            "3251121444425221"
+        ],
+        "char_code_wubi": "wvhl",
+        "char_code_cangjie": "olmt",
+        "char_code_zhengma": "nxul",
+        "char_code_sijiao": "25212"
+    },
+    "general_unicode": "基本区 U+5118",
+    "general_bs_code": "3251121444425221"
+}

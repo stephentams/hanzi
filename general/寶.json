@@ -1,0 +1,61 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "treasure, jewel; precious, rare"
+        },
+        {
+            "language": "德语",
+            "explanation": "Juwel, Schatz, Preziosen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bijou,trésor,précieux"
+        }
+    ],
+    "general_pinyins": [
+        "bǎo"
+    ],
+    "general_zhuyins": [
+        "ㄅㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "宀",
+        "non_radical_sn": "17",
+        "total_sn": "20"
+    },
+    "general_stc": [
+        "宝"
+    ],
+    "general_ytz": [
+        "㻄",
+        "宝",
+        "寚",
+        "寳",
+        "珤",
+        "靌",
+        "𠋾",
+        "𠍙",
+        "𡧖",
+        "𡩧",
+        "𡪓",
+        "𡫷",
+        "𤥖",
+        "𤥯",
+        "𤨷",
+        "𩇉"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5BF6",
+            "44511213112522511134"
+        ],
+        "char_code_wubi": "pgrm|pgtm",
+        "char_code_cangjie": "jmuc",
+        "char_code_zhengma": "wdzl",
+        "char_code_sijiao": "30806"
+    },
+    "general_unicode": "基本区 U+5BF6",
+    "general_bs_code": "44511213112522511134"
+}

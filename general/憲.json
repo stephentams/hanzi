@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "constitution, statute, law"
+        },
+        {
+            "language": "德语",
+            "explanation": "Satzung  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "constitution"
+        }
+    ],
+    "general_pinyins": [
+        "xiàn"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "12",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "宪"
+    ],
+    "general_ytz": [
+        "宪",
+        "𢝮",
+        "𢞩"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "61B2",
+            "4451112252214544"
+        ],
+        "char_code_wubi": "pgln",
+        "char_code_cangjie": "jqmp",
+        "char_code_zhengma": "wdlw",
+        "char_code_sijiao": "30336"
+    },
+    "general_unicode": "基本区 U+61B2",
+    "general_bs_code": "4451112252214544"
+}

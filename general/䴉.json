@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "general term for a group of bird (looks like egret), to fly in a circle"
+        }
+    ],
+    "general_pinyins": [
+        "xuán"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "鳥",
+        "non_radical_sn": "13",
+        "total_sn": "24"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䴋",
+        "鹮"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4D09",
+            "252211251353432511154444"
+        ],
+        "char_code_wubi": "lgko",
+        "char_code_cangjie": "wvhaf",
+        "char_code_zhengma": "lkrr",
+        "char_code_sijiao": "67727"
+    },
+    "general_unicode": "扩展A U+4D09",
+    "general_bs_code": "252211251353432511154444"
+}

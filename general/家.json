@@ -1,0 +1,56 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "house, home, residence; family"
+        },
+        {
+            "language": "德语",
+            "explanation": "Familie, Haushalt (S)​,Zuhause (S)​,ZEW für Geschäft, Restaurant, Hotel, Unternehmen, Institution etc. (Zähl)"
+        },
+        {
+            "language": "法语",
+            "explanation": "famille,foyer,maison,domicile,(suffixe pour les experts, spécialistes, ...)​,(classificateur pour établissements divers : magasins, restaurants, hôtels, cinémas, ...)​"
+        }
+    ],
+    "general_pinyins": [
+        "jiā",
+        "jia",
+        "jie"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄚ",
+        "˙ㄐㄧㄚ",
+        "˙ㄐㄧㄝ"
+    ],
+    "general_radical": {
+        "radical": "宀",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "傢",
+        "宊",
+        "𠖔",
+        "𡧚",
+        "𡩅",
+        "𡩙",
+        "𡩚",
+        "𡩵",
+        "𡩀"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5BB6",
+            "4451353334"
+        ],
+        "char_code_wubi": "peu|pgeu",
+        "char_code_cangjie": "jmso",
+        "char_code_zhengma": "wdgq",
+        "char_code_sijiao": "30232"
+    },
+    "general_unicode": "基本区 U+5BB6",
+    "general_bs_code": "4451353334"
+}

@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "paddy field; rice field"
+        }
+    ],
+    "general_pinyins": [
+        "zěng",
+        "zhǎ"
+    ],
+    "general_zhuyins": [
+        "ㄗㄥˇ",
+        "ㄓㄚˇ"
+    ],
+    "general_radical": {
+        "radical": "田",
+        "non_radical_sn": "12",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3F6A",
+            "25121432524312511"
+        ],
+        "char_code_wubi": "lulj",
+        "char_code_cangjie": "wcwa",
+        "char_code_zhengma": "kilk",
+        "char_code_sijiao": "68066"
+    },
+    "general_unicode": "扩展A U+3F6A",
+    "general_bs_code": "25121432524312511"
+}

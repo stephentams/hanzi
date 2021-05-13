@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cover"
+        },
+        {
+            "language": "法语",
+            "explanation": "capot de chariot"
+        }
+    ],
+    "general_pinyins": [
+        "miè"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "巾",
+        "non_radical_sn": "14",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢅶",
+        "𢅵",
+        "𢅓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5E6D",
+            "25212225221134534"
+        ],
+        "char_code_wubi": "mhat|mhaw",
+        "char_code_cangjie": "lbtwi",
+        "char_code_zhengma": "lihs",
+        "char_code_sijiao": "44253"
+    },
+    "general_unicode": "基本区 U+5E6D",
+    "general_bs_code": "25212225221134534"
+}

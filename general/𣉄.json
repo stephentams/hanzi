@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "chí"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "23244",
+            "3112251112134"
+        ],
+        "char_code_wubi": "dhjh",
+        "char_code_cangjie": "qjamo",
+        "char_code_zhengma": "ciai"
+    },
+    "general_unicode": "扩展B U+23244",
+    "general_bs_code": "3112251112134"
+}

@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "make into mince"
+        },
+        {
+            "language": "德语",
+            "explanation": "schnitzen, schnibbeln"
+        }
+    ],
+    "general_pinyins": [
+        "mó"
+    ],
+    "general_zhuyins": [
+        "ㄇㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "刂",
+        "non_radical_sn": "19",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠞥",
+        "靡"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5298",
+            "413123412342111211122"
+        ],
+        "char_code_wubi": "yssj|ossj",
+        "char_code_cangjie": "iyln",
+        "char_code_zhengma": "tgkk",
+        "char_code_sijiao": "02200"
+    },
+    "general_unicode": "基本区 U+5298",
+    "general_bs_code": "413123412342111211122"
+}

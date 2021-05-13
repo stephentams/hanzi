@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "raise, lift up; recommend"
+        }
+    ],
+    "general_pinyins": [
+        "jǔ"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩˇ"
+    ],
+    "general_radical": {
+        "radical": "手",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "舉"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6319",
+            "4431343112"
+        ],
+        "char_code_wubi": "iwrj|igwr",
+        "char_code_cangjie": "fcq",
+        "char_code_zhengma": "vdom",
+        "char_code_sijiao": "90502"
+    },
+    "general_unicode": "基本区 U+6319",
+    "general_bs_code": "4431343112"
+}

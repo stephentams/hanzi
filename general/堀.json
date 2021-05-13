@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cave, hole"
+        },
+        {
+            "language": "德语",
+            "explanation": "Höhle  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cave,trou"
+        }
+    ],
+    "general_pinyins": [
+        "kū"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡒈",
+        "窟"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5800",
+            "12151352252"
+        ],
+        "char_code_wubi": "fnbm",
+        "char_code_cangjie": "gsuu",
+        "char_code_zhengma": "bxzz",
+        "char_code_sijiao": "47172"
+    },
+    "general_unicode": "基本区 U+5800",
+    "general_bs_code": "12151352252"
+}

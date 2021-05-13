@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as U+64D2 擒) to arrest; to capture; (Cant.) to press down firmly"
+        }
+    ],
+    "general_pinyins": [
+        "qín"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "捦",
+        "擒"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3A52",
+            "1211234123411234"
+        ],
+        "char_code_wubi": "rssi",
+        "char_code_cangjie": "qddf",
+        "char_code_zhengma": "dffb",
+        "char_code_sijiao": "54091"
+    },
+    "general_unicode": "扩展A U+3A52",
+    "general_bs_code": "1211234123411234"
+}

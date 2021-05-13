@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "bīng"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "弓",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "223B4",
+            "515134"
+        ],
+        "char_code_wubi": "xdi",
+        "char_code_cangjie": "nk",
+        "char_code_zhengma": "yzgd"
+    },
+    "general_unicode": "扩展B U+223B4",
+    "general_bs_code": "515134"
+}

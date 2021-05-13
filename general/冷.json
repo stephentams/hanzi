@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cold, cool; lonely"
+        },
+        {
+            "language": "德语",
+            "explanation": "kalt ,Leng  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "froid,glacial,désert,silencieux"
+        }
+    ],
+    "general_pinyins": [
+        "lěng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "冫",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠘤",
+        "冷"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "51B7",
+            "4134454"
+        ],
+        "char_code_wubi": "uwyc",
+        "char_code_cangjie": "imoii",
+        "char_code_zhengma": "tdow",
+        "char_code_sijiao": "38132"
+    },
+    "general_unicode": "基本区 U+51B7",
+    "general_bs_code": "4134454"
+}

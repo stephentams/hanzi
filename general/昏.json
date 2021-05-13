@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dusk, nightfall, twilight, dark"
+        }
+    ],
+    "general_pinyins": [
+        "hūn"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄣ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "婚",
+        "惛",
+        "昬",
+        "𣄼",
+        "𣄾",
+        "𣉈",
+        "𣋯",
+        "𦟲",
+        "𣆾",
+        "𣇲"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "660F",
+            "35152511"
+        ],
+        "char_code_wubi": "qajf",
+        "char_code_cangjie": "hpa",
+        "char_code_zhengma": "rhk",
+        "char_code_sijiao": "72604"
+    },
+    "general_unicode": "基本区 U+660F",
+    "general_bs_code": "35152511"
+}

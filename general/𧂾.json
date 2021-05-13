@@ -1,0 +1,23 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "16",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "270BE",
+            "12121312351235431234"
+        ],
+        "char_code_wubi": "FFDO",
+        "char_code_cangjie": "tmdd",
+        "char_code_zhengma": "egfu"
+    },
+    "general_unicode": "扩展B U+270BE",
+    "general_bs_code": "12121312351235431234"
+}

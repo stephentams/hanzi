@@ -1,0 +1,27 @@
+{
+    "general_pinyins": [
+        "mán"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "麥",
+        "non_radical_sn": "11",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "饅"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2A369",
+            "1234343435425112522154"
+        ],
+        "char_code_wubi": "swwc",
+        "char_code_cangjie": "deawe",
+        "char_code_zhengma": "folx"
+    },
+    "general_unicode": "扩展B U+2A369",
+    "general_bs_code": "1234343435425112522154"
+}

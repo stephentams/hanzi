@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to be grieved; ashamed; used to imitate sounds"
+        },
+        {
+            "language": "法语",
+            "explanation": "murmure"
+        }
+    ],
+    "general_pinyins": [
+        "qī"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㗤",
+        "𠻏",
+        "𡂔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5601",
+            "25113211234534"
+        ],
+        "char_code_wubi": "kdht|kdhi",
+        "char_code_cangjie": "rihf",
+        "char_code_zhengma": "jhak",
+        "char_code_sijiao": "63050"
+    },
+    "general_unicode": "基本区 U+5601",
+    "general_bs_code": "25113211234534"
+}

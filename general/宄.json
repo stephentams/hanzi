@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "a traitor; a villain"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 Verräter  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "guǐ"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄟˇ"
+    ],
+    "general_radical": {
+        "radical": "宀",
+        "non_radical_sn": "2",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠬚",
+        "𡧄",
+        "𡧌",
+        "𡧫"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5B84",
+            "44535"
+        ],
+        "char_code_wubi": "pvb",
+        "char_code_cangjie": "jkn",
+        "char_code_zhengma": "wdqy",
+        "char_code_sijiao": "30417"
+    },
+    "general_unicode": "基本区 U+5B84",
+    "general_bs_code": "44535"
+}

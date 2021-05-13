@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "town in Shanxi province"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ortsname  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom de lieu)​"
+        }
+    ],
+    "general_pinyins": [
+        "yuán"
+    ],
+    "general_zhuyins": [
+        "ㄩㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "90A7",
+            "113552"
+        ],
+        "char_code_wubi": "fqbh",
+        "char_code_cangjie": "munl",
+        "char_code_zhengma": "bdry",
+        "char_code_sijiao": "17227"
+    },
+    "general_unicode": "基本区 U+90A7",
+    "general_bs_code": "113552"
+}

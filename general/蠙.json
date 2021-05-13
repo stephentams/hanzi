@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "oyster"
+        },
+        {
+            "language": "法语",
+            "explanation": "perle d'huître"
+        }
+    ],
+    "general_pinyins": [
+        "pín"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "14",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "玭",
+        "𧏖",
+        "𧓍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8819",
+            "25121444512332511134"
+        ],
+        "char_code_wubi": "jpgm",
+        "char_code_cangjie": "lijmc",
+        "char_code_zhengma": "iwkl",
+        "char_code_sijiao": "53186"
+    },
+    "general_unicode": "基本区 U+8819",
+    "general_bs_code": "25121444512332511134"
+}

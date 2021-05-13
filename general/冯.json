@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "surname; gallop; by dint of"
+        },
+        {
+            "language": "德语",
+            "explanation": "galoppieren  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "galoper,assister,attaquer,patauger,(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "féng",
+        "píng"
+    ],
+    "general_zhuyins": [
+        "ㄈㄥˊ",
+        "ㄆㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "冫",
+        "non_radical_sn": "3",
+        "total_sn": "5"
+    },
+    "general_stc": [
+        "馮"
+    ],
+    "general_ytz": [
+        "馮"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "51AF",
+            "41551"
+        ],
+        "char_code_wubi": "ucg|ucgg",
+        "char_code_cangjie": "imnvm",
+        "char_code_zhengma": "tdx",
+        "char_code_sijiao": "37127"
+    },
+    "general_unicode": "基本区 U+51AF",
+    "general_bs_code": "41551"
+}

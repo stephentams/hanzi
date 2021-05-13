@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "be afraid of, to be in awe of"
+        },
+        {
+            "language": "德语",
+            "explanation": "Angst haben, befürchten"
+        },
+        {
+            "language": "法语",
+            "explanation": "peur"
+        }
+    ],
+    "general_pinyins": [
+        "lǐn"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "懍"
+    ],
+    "general_ytz": [
+        "懍",
+        "𢤭"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "61D4",
+            "4424125251111234"
+        ],
+        "char_code_wubi": "nyli",
+        "char_code_cangjie": "pywf",
+        "char_code_zhengma": "usjb",
+        "char_code_sijiao": "90091"
+    },
+    "general_unicode": "基本区 U+61D4",
+    "general_bs_code": "4424125251111234"
+}

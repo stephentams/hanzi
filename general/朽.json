@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "decayed, rotten; rot, decay"
+        },
+        {
+            "language": "德语",
+            "explanation": "faul ,morsch ,verfault"
+        },
+        {
+            "language": "法语",
+            "explanation": "pourri,sénile"
+        }
+    ],
+    "general_pinyins": [
+        "xiǔ"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "2",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㱙",
+        "𣦿"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "673D",
+            "123415"
+        ],
+        "char_code_wubi": "sgnn",
+        "char_code_cangjie": "dmvs",
+        "char_code_zhengma": "faz",
+        "char_code_sijiao": "41927"
+    },
+    "general_unicode": "基本区 U+673D",
+    "general_bs_code": "123415"
+}

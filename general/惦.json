@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "think of, remember, miss"
+        },
+        {
+            "language": "法语",
+            "explanation": "penser à,se souvenir,manquer (émotion)​"
+        }
+    ],
+    "general_pinyins": [
+        "diàn"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "60E6",
+            "44241321251"
+        ],
+        "char_code_wubi": "nyhk|nohk",
+        "char_code_cangjie": "piyr",
+        "char_code_zhengma": "utij",
+        "char_code_sijiao": "90061"
+    },
+    "general_unicode": "基本区 U+60E6",
+    "general_bs_code": "44241321251"
+}

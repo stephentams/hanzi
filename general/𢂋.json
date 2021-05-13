@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "巾",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "京"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2208B",
+            "41251252"
+        ],
+        "char_code_wubi": "ymhj",
+        "char_code_cangjie": "yrlb",
+        "char_code_zhengma": "sjli"
+    },
+    "general_unicode": "扩展B U+2208B",
+    "general_bs_code": "41251252"
+}

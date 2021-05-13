@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "white color; no respect; imprudent; (Cant.) interesting, good"
+        }
+    ],
+    "general_pinyins": [
+        "zàn"
+    ],
+    "general_zhuyins": [
+        "ㄗㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "19",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡣶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "373A",
+            "5313121353121352511134"
+        ],
+        "char_code_wubi": "vtfm",
+        "char_code_cangjie": "vhuc",
+        "char_code_zhengma": "zmrl",
+        "char_code_sijiao": "44486"
+    },
+    "general_unicode": "扩展A U+373A",
+    "general_bs_code": "5313121353121352511134"
+}

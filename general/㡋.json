@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a kind of headdress for man in old China, a bag used to feed the horses"
+        }
+    ],
+    "general_pinyins": [
+        "è",
+        "yé"
+    ],
+    "general_zhuyins": [
+        "ㄝˋ",
+        "ㄧㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "巾",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "384B",
+            "25213425115"
+        ],
+        "char_code_wubi": "mhdn",
+        "char_code_cangjie": "lbklu",
+        "char_code_zhengma": "likz",
+        "char_code_sijiao": "44216"
+    },
+    "general_unicode": "扩展A U+384B",
+    "general_bs_code": "25213425115"
+}

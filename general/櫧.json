@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "Oak"
+        },
+        {
+            "language": "法语",
+            "explanation": "Quercus glanca,Chêne glauque"
+        }
+    ],
+    "general_pinyins": [
+        "zhū"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "15",
+        "total_sn": "19"
+    },
+    "general_stc": [
+        "槠"
+    ],
+    "general_ytz": [
+        "䡤",
+        "楮",
+        "槠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6AE7",
+            "1234411125112132511"
+        ],
+        "char_code_wubi": "syfj",
+        "char_code_cangjie": "dyra",
+        "char_code_zhengma": "fsbm",
+        "char_code_sijiao": "44960"
+    },
+    "general_unicode": "基本区 U+6AE7",
+    "general_bs_code": "1234411125112132511"
+}

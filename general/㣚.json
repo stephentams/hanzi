@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to go straight forward, (same as 衕) a lane; an alley, (same as 侗) ignorant; rude; rustic; straight-forward; uninterrupted; no obstacle"
+        }
+    ],
+    "general_pinyins": [
+        "tóng",
+        "tǒng"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄥˊ",
+        "ㄊㄨㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "彳",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "侗",
+        "衕"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "38DA",
+            "332251251"
+        ],
+        "char_code_wubi": "tmgk",
+        "char_code_cangjie": "hobmr",
+        "char_code_zhengma": "oild",
+        "char_code_sijiao": "27220"
+    },
+    "general_unicode": "扩展A U+38DA",
+    "general_bs_code": "332251251"
+}

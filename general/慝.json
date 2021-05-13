@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "do evil in secret; evil, vice"
+        },
+        {
+            "language": "法语",
+            "explanation": "vice"
+        }
+    ],
+    "general_pinyins": [
+        "tè"
+    ],
+    "general_zhuyins": [
+        "ㄊㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢤃",
+        "匿"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "615D",
+            "11221325154544"
+        ],
+        "char_code_wubi": "aadn",
+        "char_code_cangjie": "srp",
+        "char_code_zhengma": "hejw",
+        "char_code_sijiao": "71331"
+    },
+    "general_unicode": "基本区 U+615D",
+    "general_bs_code": "11221325154544"
+}

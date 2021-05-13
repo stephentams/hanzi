@@ -1,0 +1,55 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "should, ought to, must"
+        },
+        {
+            "language": "德语",
+            "explanation": "sollen  (V)​,antworten, begegnen, sich anpassen  (V)​,Ying  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "falloir,devoir,répondre à,répondre à,accepter,consentir"
+        }
+    ],
+    "general_pinyins": [
+        "yīng",
+        "yìng"
+    ],
+    "general_zhuyins": [
+        "ㄧㄥ",
+        "ㄧㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "13",
+        "total_sn": "17"
+    },
+    "general_stc": [
+        "应"
+    ],
+    "general_ytz": [
+        "应",
+        "応",
+        "譍",
+        "𠩍",
+        "𢇭",
+        "𢈀",
+        "𤻮",
+        "𧭭"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "61C9",
+            "41332324111214544"
+        ],
+        "char_code_wubi": "ywwn|owwn",
+        "char_code_cangjie": "iogp",
+        "char_code_zhengma": "tgnw",
+        "char_code_sijiao": "00231"
+    },
+    "general_unicode": "基本区 U+61C9",
+    "general_bs_code": "41332324111214544"
+}

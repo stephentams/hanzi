@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "injure, harm, murder"
+        },
+        {
+            "language": "德语",
+            "explanation": "beschädigen, verletzen"
+        },
+        {
+            "language": "法语",
+            "explanation": "blesser,vilipender"
+        }
+    ],
+    "general_pinyins": [
+        "jì"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㥍",
+        "𢗏",
+        "𢤵"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "60CE",
+            "122111344544"
+        ],
+        "char_code_wubi": "adwn|dwnu",
+        "char_code_cangjie": "tcp",
+        "char_code_zhengma": "ecwz",
+        "char_code_sijiao": "44338"
+    },
+    "general_unicode": "基本区 U+60CE",
+    "general_bs_code": "122111344544"
+}

@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "米",
+        "non_radical_sn": "18",
+        "total_sn": "24"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "粄"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "25F74",
+            "431234445354251445354251"
+        ],
+        "char_code_wubi": "optk",
+        "char_code_cangjie": "fdjrr",
+        "char_code_zhengma": "ufrj"
+    },
+    "general_unicode": "扩展B U+25F74",
+    "general_bs_code": "431234445354251445354251"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dam; embankment, dike, bank"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schleuse  (S)​,Staumauer, Wehr  (S)​,Talsperre  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "digue,barrage"
+        }
+    ],
+    "general_pinyins": [
+        "yàn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "墕",
+        "隁",
+        "𨻳"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5830",
+            "121125115315"
+        ],
+        "char_code_wubi": "fajv",
+        "char_code_cangjie": "gsav",
+        "char_code_zhengma": "bhkz",
+        "char_code_sijiao": "41114"
+    },
+    "general_unicode": "基本区 U+5830",
+    "general_bs_code": "121125115315"
+}

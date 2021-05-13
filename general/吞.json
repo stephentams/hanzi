@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "swallow; absorb, annex, engulf"
+        },
+        {
+            "language": "德语",
+            "explanation": "einnehmen, ergreifen ,hinunterschlucken, verschlucke ,Tun  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "avaler,dévorer,accaparer"
+        }
+    ],
+    "general_pinyins": [
+        "tūn"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄣ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "吴",
+        "呑",
+        "𦙖"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "541E",
+            "1134251"
+        ],
+        "char_code_wubi": "gdkf",
+        "char_code_cangjie": "mkr",
+        "char_code_zhengma": "agj",
+        "char_code_sijiao": "10608"
+    },
+    "general_unicode": "基本区 U+541E",
+    "general_bs_code": "1134251"
+}

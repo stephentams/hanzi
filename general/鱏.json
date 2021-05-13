@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a ray, skate"
+        }
+    ],
+    "general_pinyins": [
+        "xún"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "魚",
+        "non_radical_sn": "12",
+        "total_sn": "23"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𩽶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9C4F",
+            "35251214444125221251112"
+        ],
+        "char_code_wubi": "qosj",
+        "char_code_cangjie": "nfmbj",
+        "char_code_zhengma": "rfke",
+        "char_code_sijiao": "21346"
+    },
+    "general_unicode": "基本区 U+9C4F",
+    "general_bs_code": "35251214444125221251112"
+}

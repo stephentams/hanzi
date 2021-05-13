@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to take breath; snoring; snorting"
+        }
+    ],
+    "general_pinyins": [
+        "wài",
+        "huì"
+    ],
+    "general_zhuyins": [
+        "ㄨㄞˋ",
+        "ㄏㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "鼻",
+        "non_radical_sn": "13",
+        "total_sn": "27"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4D90",
+            "325111251211323412524312511"
+        ],
+        "char_code_wubi": "thlj",
+        "char_code_cangjie": "hloma",
+        "char_code_zhengma": "nllk",
+        "char_code_sijiao": "28266"
+    },
+    "general_unicode": "扩展A U+4D90",
+    "general_bs_code": "325111251211323412524312511"
+}

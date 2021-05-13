@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "kào"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "小",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "右上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "21B73",
+            "121125234"
+        ],
+        "char_code_wubi": "gfhi",
+        "char_code_cangjie": "ssf",
+        "char_code_zhengma": "cuko"
+    },
+    "general_unicode": "扩展B U+21B73",
+    "general_bs_code": "121125234"
+}

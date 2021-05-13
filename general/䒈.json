@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 橨) side beam of a boat"
+        }
+    ],
+    "general_pinyins": [
+        "bǔ",
+        "fèi"
+    ],
+    "general_zhuyins": [
+        "ㄅㄨˇ",
+        "ㄈㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "舟",
+        "non_radical_sn": "12",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "橨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4488",
+            "335414121222511134"
+        ],
+        "char_code_wubi": "tefm|tufm",
+        "char_code_cangjie": "hyjtc",
+        "char_code_zhengma": "pyel",
+        "char_code_sijiao": "24486"
+    },
+    "general_unicode": "扩展A U+4488",
+    "general_bs_code": "335414121222511134"
+}

@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a room; the wall of a house a man's name"
+        }
+    ],
+    "general_pinyins": [
+        "guī",
+        "wěi",
+        "huì"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄟ",
+        "ㄨㄟˇ",
+        "ㄏㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "广",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5EC6",
+            "413325113554"
+        ],
+        "char_code_wubi": "yrqc|orqc",
+        "char_code_cangjie": "ihui",
+        "char_code_zhengma": "tgnj",
+        "char_code_sijiao": "00213"
+    },
+    "general_unicode": "基本区 U+5EC6",
+    "general_bs_code": "413325113554"
+}

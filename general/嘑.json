@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to menace; to howl at; to bawl; (Cant.) final particle"
+        },
+        {
+            "language": "法语",
+            "explanation": "expirer,crier,appeler"
+        }
+    ],
+    "general_pinyins": [
+        "hū"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "呼",
+        "𠻢"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5611",
+            "25121531534312"
+        ],
+        "char_code_wubi": "khah|khtf",
+        "char_code_cangjie": "rypd",
+        "char_code_zhengma": "jimu",
+        "char_code_sijiao": "61049"
+    },
+    "general_unicode": "基本区 U+5611",
+    "general_bs_code": "25121531534312"
+}

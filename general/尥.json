@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "德语",
+            "explanation": "ausschlagen (Pferd)​  (V)"
+        }
+    ],
+    "general_pinyins": [
+        "liào"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "尢",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "尦",
+        "𡯌",
+        "𡯚",
+        "𡯡"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5C25",
+            "135354"
+        ],
+        "char_code_wubi": "dnqy",
+        "char_code_cangjie": "kupi",
+        "char_code_zhengma": "grrs",
+        "char_code_sijiao": "47012"
+    },
+    "general_unicode": "基本区 U+5C25",
+    "general_bs_code": "135354"
+}

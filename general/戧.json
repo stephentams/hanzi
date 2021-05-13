@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "support"
+        },
+        {
+            "language": "德语",
+            "explanation": "entgegensetzen  (V)"
+        }
+    ],
+    "general_pinyins": [
+        "qiāng",
+        "qiàng"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄤ",
+        "ㄑㄧㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "戈",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "戗"
+    ],
+    "general_ytz": [
+        "戗",
+        "搶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6227",
+            "34451132511534"
+        ],
+        "char_code_wubi": "wyva",
+        "char_code_cangjie": "ori",
+        "char_code_zhengma": "odjh",
+        "char_code_sijiao": "83250"
+    },
+    "general_unicode": "基本区 U+6227",
+    "general_bs_code": "34451132511534"
+}

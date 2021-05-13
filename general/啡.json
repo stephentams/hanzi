@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "morphine; coffee"
+        },
+        {
+            "language": "法语",
+            "explanation": "café (diminutif)​"
+        }
+    ],
+    "general_pinyins": [
+        "fēi"
+    ],
+    "general_zhuyins": [
+        "ㄈㄟ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "呸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5561",
+            "25121112111"
+        ],
+        "char_code_wubi": "kdjd|khdd",
+        "char_code_cangjie": "rlmy",
+        "char_code_zhengma": "jkc",
+        "char_code_sijiao": "61011"
+    },
+    "general_unicode": "基本区 U+5561",
+    "general_bs_code": "25121112111"
+}

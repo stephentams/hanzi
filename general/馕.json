@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bread (persian naan)"
+        }
+    ],
+    "general_pinyins": [
+        "náng",
+        "nǎng"
+    ],
+    "general_zhuyins": [
+        "ㄋㄤˊ",
+        "ㄋㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "饣",
+        "non_radical_sn": "22",
+        "total_sn": "25"
+    },
+    "general_stc": [
+        "饢"
+    ],
+    "general_ytz": [
+        "饢",
+        "𧟘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9995",
+            "3551251245251251112213534"
+        ],
+        "char_code_wubi": "qnge",
+        "char_code_cangjie": "nvjbv",
+        "char_code_zhengma": "oxer",
+        "char_code_sijiao": "25732"
+    },
+    "general_unicode": "基本区 U+9995",
+    "general_bs_code": "3551251245251251112213534"
+}

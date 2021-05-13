@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 吹) to blow"
+        }
+    ],
+    "general_pinyins": [
+        "chuī"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨㄟ"
+    ],
+    "general_radical": {
+        "radical": "龠",
+        "non_radical_sn": "8",
+        "total_sn": "25"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "吹"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4DB4",
+            "4334353434125125125125122"
+        ],
+        "char_code_wubi": "oqwa",
+        "char_code_cangjie": "foomb",
+        "char_code_zhengma": "uojl",
+        "char_code_sijiao": "97227"
+    },
+    "general_unicode": "扩展A U+4DB4",
+    "general_bs_code": "4334353434125125125125122"
+}

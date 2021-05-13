@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cackling of fowls to gag, to vomit"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufstoßen, rülpsen"
+        },
+        {
+            "language": "法语",
+            "explanation": "roter"
+        }
+    ],
+    "general_pinyins": [
+        "gé"
+    ],
+    "general_zhuyins": [
+        "ㄍㄜˊ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㗆"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "55DD",
+            "2511251254312"
+        ],
+        "char_code_wubi": "kgkh",
+        "char_code_cangjie": "rmrb",
+        "char_code_zhengma": "jajl",
+        "char_code_sijiao": "61027"
+    },
+    "general_unicode": "基本区 U+55DD",
+    "general_bs_code": "2511251254312"
+}

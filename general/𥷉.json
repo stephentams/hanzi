@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "16",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "篽"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "25DC9",
+            "3143143323525121444452"
+        ],
+        "char_code_wubi": "ttqb",
+        "char_code_cangjie": "hhol",
+        "char_code_zhengma": "mory"
+    },
+    "general_unicode": "扩展B U+25DC9",
+    "general_bs_code": "3143143323525121444452"
+}

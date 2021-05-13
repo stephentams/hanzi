@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bury"
+        }
+    ],
+    "general_pinyins": [
+        "péng",
+        "bèng"
+    ],
+    "general_zhuyins": [
+        "ㄆㄥˊ",
+        "ㄅㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "塴",
+        "𠳫",
+        "𡊤",
+        "𡐐",
+        "𥦜"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "580B",
+            "12135113511"
+        ],
+        "char_code_wubi": "feeg",
+        "char_code_cangjie": "gbb",
+        "char_code_zhengma": "bqq",
+        "char_code_sijiao": "47120"
+    },
+    "general_unicode": "基本区 U+580B",
+    "general_bs_code": "12135113511"
+}

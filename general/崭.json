@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "high, steep, precipitous; new"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fels  (S)​,Klippe  (S)​,steiler Gipfel ,Fels  (S)​,Klippe  (S)​,steiler Gipfel"
+        },
+        {
+            "language": "法语",
+            "explanation": "pic,crête escarpée,escarpé"
+        }
+    ],
+    "general_pinyins": [
+        "zhǎn",
+        "chán"
+    ],
+    "general_zhuyins": [
+        "ㄓㄢˇ",
+        "ㄔㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "嶄"
+    ],
+    "general_ytz": [
+        "嶄",
+        "嶃",
+        "𡼼",
+        "𡽻"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5D2D",
+            "25215213312"
+        ],
+        "char_code_wubi": "mlrj",
+        "char_code_cangjie": "ukql",
+        "char_code_zhengma": "llhp",
+        "char_code_sijiao": "22521"
+    },
+    "general_unicode": "基本区 U+5D2D",
+    "general_bs_code": "25215213312"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rice ball"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kloß, Knödel  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "groupe,masse ronde,agglomérer,réunir,entourer"
+        }
+    ],
+    "general_pinyins": [
+        "tuán"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "米",
+        "non_radical_sn": "14",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "团"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7CF0",
+            "43123425125112141241"
+        ],
+        "char_code_wubi": "olgf",
+        "char_code_cangjie": "fdwji",
+        "char_code_zhengma": "uffd",
+        "char_code_sijiao": "96900"
+    },
+    "general_unicode": "基本区 U+7CF0",
+    "general_bs_code": "43123425125112141241"
+}

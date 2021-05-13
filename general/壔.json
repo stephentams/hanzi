@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a mound, a tumulus"
+        }
+    ],
+    "general_pinyins": [
+        "dǎo"
+    ],
+    "general_zhuyins": [
+        "ㄉㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "14",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡑏",
+        "𡑹"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "58D4",
+            "12112151211251124"
+        ],
+        "char_code_wubi": "ffnf",
+        "char_code_cangjie": "ggni",
+        "char_code_zhengma": "bbjd",
+        "char_code_sijiao": "44141"
+    },
+    "general_unicode": "基本区 U+58D4",
+    "general_bs_code": "12112151211251124"
+}

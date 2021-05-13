@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "completed, finished, fixed"
+        },
+        {
+            "language": "德语",
+            "explanation": "beenden, vollenden  (V)​,etw. bewältigen, etw. gelingen  (V)​,Cheng  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "réussir,accomplir,devenir,résultat,fruit (d'un travail)​,achèvement,très bien,d'accord,capable,dixième,accompli,établi"
+        }
+    ],
+    "general_pinyins": [
+        "chéng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "戈",
+        "non_radical_sn": "2",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢦩",
+        "𧶔"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6210",
+            "135534"
+        ],
+        "char_code_wubi": "dnnt|dnv",
+        "char_code_cangjie": "ihs",
+        "char_code_zhengma": "hmy",
+        "char_code_sijiao": "53200"
+    },
+    "general_unicode": "基本区 U+6210",
+    "general_bs_code": "135534"
+}

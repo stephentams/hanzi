@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pretty eyes, to have a casual and short glance"
+        }
+    ],
+    "general_pinyins": [
+        "lì",
+        "shuò"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˋ",
+        "ㄕㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "15",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䀥",
+        "𥌞",
+        "𥍐"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "407B",
+            "25111325115545541234"
+        ],
+        "char_code_wubi": "hxrs|hrxs",
+        "char_code_cangjie": "buvid",
+        "char_code_zhengma": "lzzf",
+        "char_code_sijiao": "62094"
+    },
+    "general_unicode": "扩展A U+407B",
+    "general_bs_code": "25111325115545541234"
+}

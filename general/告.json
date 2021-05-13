@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tell, announce, inform; accuse"
+        },
+        {
+            "language": "德语",
+            "explanation": "anklagen, verklagen, anzeigen  (V, Rechtsw)​,erklären, ankündigen  (V)​,jdn. um etw. bitten, nach verlangen nach etw.  (V)​,jdn. vor Gericht anklagen  (V, Rechtsw)​,sagen, mitteilen, informieren  (V)​,vor Gericht Anklage gegen jdn. erheben  (V, Rechtsw)"
+        },
+        {
+            "language": "法语",
+            "explanation": "avertir,informer,accuser,dénoncer"
+        }
+    ],
+    "general_pinyins": [
+        "gào"
+    ],
+    "general_zhuyins": [
+        "ㄍㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "叝",
+        "吿",
+        "𠰛",
+        "𢍎",
+        "誥",
+        "勂"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "544A",
+            "3121251"
+        ],
+        "char_code_wubi": "tfkf",
+        "char_code_cangjie": "hgr",
+        "char_code_zhengma": "mbj",
+        "char_code_sijiao": "24601"
+    },
+    "general_unicode": "基本区 U+544A",
+    "general_bs_code": "3121251"
+}

@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "move, happen; movement, action"
+        },
+        {
+            "language": "德语",
+            "explanation": "agieren  (V)​,bewegen  (V)​,handeln  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bouger,se mouvoir,toucher à,déplacer,agir,se mettre en action"
+        }
+    ],
+    "general_pinyins": [
+        "dòng"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "力",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "動"
+    ],
+    "general_ytz": [
+        "動",
+        "働",
+        "㣫",
+        "𡺍",
+        "𨔝"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "52A8",
+            "115453"
+        ],
+        "char_code_wubi": "fcln|fcet",
+        "char_code_cangjie": "miks",
+        "char_code_zhengma": "bdzy",
+        "char_code_sijiao": "14727"
+    },
+    "general_unicode": "基本区 U+52A8",
+    "general_bs_code": "115453"
+}

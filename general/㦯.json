@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 或) a certain; some, perhaps; probably; maybe, or"
+        }
+    ],
+    "general_pinyins": [
+        "huò"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "戈",
+        "non_radical_sn": "3",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "或"
+    ],
+    "general_structure": "右上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "39AF",
+            "1541534"
+        ],
+        "char_code_wubi": "acgd",
+        "char_code_cangjie": "iim",
+        "char_code_zhengma": "hmza",
+        "char_code_sijiao": "53100"
+    },
+    "general_unicode": "扩展A U+39AF",
+    "general_bs_code": "1541534"
+}

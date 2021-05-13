@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(Cant.) 怐豆 to stare"
+        }
+    ],
+    "general_pinyins": [
+        "kòu",
+        "jù"
+    ],
+    "general_zhuyins": [
+        "ㄎㄡˋ",
+        "ㄐㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "佝",
+        "𢗕",
+        "𢛑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6010",
+            "44235251"
+        ],
+        "char_code_wubi": "nqkg",
+        "char_code_cangjie": "ppr",
+        "char_code_zhengma": "urj",
+        "char_code_sijiao": "97020"
+    },
+    "general_unicode": "基本区 U+6010",
+    "general_bs_code": "44235251"
+}

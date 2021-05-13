@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "socks, stockings"
+        },
+        {
+            "language": "法语",
+            "explanation": "chaussette,bas"
+        }
+    ],
+    "general_pinyins": [
+        "wà"
+    ],
+    "general_zhuyins": [
+        "ㄨㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "韋",
+        "non_radical_sn": "14",
+        "total_sn": "23"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "韎",
+        "韈",
+        "靺",
+        "袜",
+        "帓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "97E4",
+            "52125115212225221134534"
+        ],
+        "char_code_wubi": "nhkt|nkgw",
+        "char_code_cangjie": "dqtwi",
+        "char_code_zhengma": "xjhs",
+        "char_code_sijiao": "44553"
+    },
+    "general_unicode": "基本区 U+97E4",
+    "general_bs_code": "52125115212225221134534"
+}

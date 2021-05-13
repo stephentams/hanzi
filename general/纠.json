@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "investigate, inspect"
+        },
+        {
+            "language": "德语",
+            "explanation": "erforschen, nachforschen ,korrekt, abändern ,verwickeln, umschlingen"
+        },
+        {
+            "language": "法语",
+            "explanation": "corriger,redresser"
+        }
+    ],
+    "general_pinyins": [
+        "jiū"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄡ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "2",
+        "total_sn": "5"
+    },
+    "general_stc": [
+        "糾"
+    ],
+    "general_ytz": [
+        "糾",
+        "丩",
+        "𠃖",
+        "𠃚",
+        "𠝙",
+        "𢀙",
+        "𢒥",
+        "𥾆"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EA0",
+            "55152"
+        ],
+        "char_code_wubi": "xnhh",
+        "char_code_cangjie": "vmvl",
+        "char_code_zhengma": "zzi",
+        "char_code_sijiao": "22100"
+    },
+    "general_unicode": "基本区 U+7EA0",
+    "general_bs_code": "55152"
+}

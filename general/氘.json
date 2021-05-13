@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "德语",
+            "explanation": "Deuterium (ein Wasserstoffisotop, D)​ (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "deutérium"
+        }
+    ],
+    "general_pinyins": [
+        "dāo"
+    ],
+    "general_zhuyins": [
+        "ㄉㄠ"
+    ],
+    "general_radical": {
+        "radical": "气",
+        "non_radical_sn": "2",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6C18",
+            "311532"
+        ],
+        "char_code_wubi": "rnjj|rjk",
+        "char_code_cangjie": "onll",
+        "char_code_zhengma": "mynd",
+        "char_code_sijiao": "80217"
+    },
+    "general_unicode": "基本区 U+6C18",
+    "general_bs_code": "311532"
+}

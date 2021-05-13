@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "匕",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "施"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "20912",
+            "3421115"
+        ],
+        "char_code_wubi": "whxb",
+        "char_code_cangjie": "oymp",
+        "char_code_zhengma": "odar"
+    },
+    "general_unicode": "扩展B U+20912",
+    "general_bs_code": "3421115"
+}

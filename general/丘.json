@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hill; elder; empty; a name"
+        },
+        {
+            "language": "德语",
+            "explanation": "Abwurfstelle (im Baseball)​  (S, Sport)​,Erdhügel, Grab, Grabstätte  (S)​,Hügelchen  (S)​,Qiu  (Eig, Fam)"
+        }
+    ],
+    "general_pinyins": [
+        "qiū"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄡ"
+    ],
+    "general_radical": {
+        "radical": "丿",
+        "non_radical_sn": "4",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㐀",
+        "㘳",
+        "丠",
+        "坵",
+        "邱",
+        "𠀈",
+        "𠀉",
+        "𠀌",
+        "𠤢",
+        "𡊣"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4E18",
+            "32121"
+        ],
+        "char_code_wubi": "rgd|rthg",
+        "char_code_cangjie": "om",
+        "char_code_zhengma": "pda",
+        "char_code_sijiao": "72102"
+    },
+    "general_unicode": "基本区 U+4E18",
+    "general_bs_code": "32121"
+}

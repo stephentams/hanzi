@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "virtuous, admirable, esteemed"
+        },
+        {
+            "language": "德语",
+            "explanation": "tugendhaft, züchtig ,Yi  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "beau"
+        }
+    ],
+    "general_pinyins": [
+        "yì"
+    ],
+    "general_zhuyins": [
+        "ㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "18",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "噫",
+        "㦉",
+        "㦤",
+        "歖",
+        "𡕆",
+        "𡤵",
+        "𢤥",
+        "抑",
+        "㱅",
+        "𢢶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "61FF",
+            "1214512514314135344544"
+        ],
+        "char_code_wubi": "fpgn",
+        "char_code_cangjie": "gtiop",
+        "char_code_zhengma": "bwrw",
+        "char_code_sijiao": "47138"
+    },
+    "general_unicode": "基本区 U+61FF",
+    "general_bs_code": "1214512514314135344544"
+}

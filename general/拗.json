@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to pull, drag, break off, to pluck (a flower); bent, warped; perverse, obstinate"
+        },
+        {
+            "language": "德语",
+            "explanation": "knicken  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "opiniâtre,têtu,entêté,rétif,difficile,désobéissant,plier en deux de manière à briser,défier,désobéir"
+        }
+    ],
+    "general_pinyins": [
+        "ǎo",
+        "ào",
+        "niù"
+    ],
+    "general_zhuyins": [
+        "ㄠˇ",
+        "ㄠˋ",
+        "ㄋㄧㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㑃",
+        "抝",
+        "𢰃",
+        "𢱇",
+        "𢲷"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "62D7",
+            "12155453"
+        ],
+        "char_code_wubi": "rxln|rxet",
+        "char_code_cangjie": "qvis",
+        "char_code_zhengma": "dzzy",
+        "char_code_sijiao": "54027"
+    },
+    "general_unicode": "基本区 U+62D7",
+    "general_bs_code": "12155453"
+}

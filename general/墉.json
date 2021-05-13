@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wall; fortified wall; small wall"
+        },
+        {
+            "language": "德语",
+            "explanation": "Stadtmauer  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "enceinte fortifiée,mur de la ville"
+        }
+    ],
+    "general_pinyins": [
+        "yōng"
+    ],
+    "general_zhuyins": [
+        "ㄩㄥ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䧡",
+        "牅",
+        "𤰎",
+        "𩫏",
+        "𩫱",
+        "𩫃"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5889",
+            "12141351125112"
+        ],
+        "char_code_wubi": "fyvh|fovh",
+        "char_code_cangjie": "gilb",
+        "char_code_zhengma": "btxl",
+        "char_code_sijiao": "40127"
+    },
+    "general_unicode": "基本区 U+5889",
+    "general_bs_code": "12141351125112"
+}

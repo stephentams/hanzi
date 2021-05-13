@@ -1,0 +1,55 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "think, consider, ponder; final particle"
+        },
+        {
+            "language": "德语",
+            "explanation": "denken, nachdenken  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "penser,réfléchir,songer à,pensée"
+        }
+    ],
+    "general_pinyins": [
+        "sī",
+        "sāi"
+    ],
+    "general_zhuyins": [
+        "ㄙ",
+        "ㄙㄞ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䰄",
+        "恖",
+        "楒",
+        "𠂺",
+        "𠃼",
+        "𡴓",
+        "𢍄",
+        "𢆿",
+        "𢙥",
+        "𢙦"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "601D",
+            "251214544"
+        ],
+        "char_code_wubi": "lnu",
+        "char_code_cangjie": "wp",
+        "char_code_zhengma": "kiwz",
+        "char_code_sijiao": "60330"
+    },
+    "general_unicode": "基本区 U+601D",
+    "general_bs_code": "251214544"
+}

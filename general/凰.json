@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "female phoenix"
+        },
+        {
+            "language": "德语",
+            "explanation": "Phönix  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "Fenghuang"
+        }
+    ],
+    "general_pinyins": [
+        "huáng"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "几",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䍿",
+        "䳨",
+        "皇"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "51F0",
+            "35325111121"
+        ],
+        "char_code_wubi": "mrgd|wrgd",
+        "char_code_cangjie": "hnhag",
+        "char_code_zhengma": "qdnc",
+        "char_code_sijiao": "77210"
+    },
+    "general_unicode": "基本区 U+51F0",
+    "general_bs_code": "35325111121"
+}

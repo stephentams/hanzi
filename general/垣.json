@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "low wall"
+        },
+        {
+            "language": "德语",
+            "explanation": "Mauer  (S, Lit)​,Sterngebiet, Konstellation von Sternen  (S, Astron)​,Yuan  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "mur bas"
+        }
+    ],
+    "general_pinyins": [
+        "yuán"
+    ],
+    "general_zhuyins": [
+        "ㄩㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥥣",
+        "𩫧",
+        "𩰵",
+        "𩍻"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "57A3",
+            "121125111"
+        ],
+        "char_code_wubi": "fgjg",
+        "char_code_cangjie": "gmam",
+        "char_code_zhengma": "bbk",
+        "char_code_sijiao": "41116"
+    },
+    "general_unicode": "基本区 U+57A3",
+    "general_bs_code": "121125111"
+}

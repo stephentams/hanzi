@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "embankment; dam"
+        },
+        {
+            "language": "德语",
+            "explanation": "Damm, Deich"
+        },
+        {
+            "language": "法语",
+            "explanation": "barrage,retenue d'eau,digue"
+        }
+    ],
+    "general_pinyins": [
+        "bà"
+    ],
+    "general_zhuyins": [
+        "ㄅㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "21",
+        "total_sn": "24"
+    },
+    "general_stc": [
+        "坝"
+    ],
+    "general_ytz": [
+        "䃻",
+        "坝",
+        "耙",
+        "𤡘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "58E9",
+            "121145244441221251123511"
+        ],
+        "char_code_wubi": "ffae",
+        "char_code_cangjie": "gmbb",
+        "char_code_zhengma": "bfeq",
+        "char_code_sijiao": "41127"
+    },
+    "general_unicode": "基本区 U+58E9",
+    "general_bs_code": "121145244441221251123511"
+}

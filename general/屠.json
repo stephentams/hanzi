@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "butcher, slaughter, massacre"
+        },
+        {
+            "language": "德语",
+            "explanation": "abschlachten, niedermetzeln ,Tu  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "abattre,massacrer"
+        }
+    ],
+    "general_pinyins": [
+        "tú"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "尸",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5C60",
+            "51312132511"
+        ],
+        "char_code_wubi": "nftj",
+        "char_code_cangjie": "sjka",
+        "char_code_zhengma": "xmbm",
+        "char_code_sijiao": "77264"
+    },
+    "general_unicode": "基本区 U+5C60",
+    "general_bs_code": "51312132511"
+}

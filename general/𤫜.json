@@ -1,0 +1,23 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "20",
+        "total_sn": "24"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "24ADC",
+            "411125155444455444411214"
+        ],
+        "char_code_wubi": "xyxy",
+        "char_code_cangjie": "vfmgi",
+        "char_code_zhengma": "zscs"
+    },
+    "general_unicode": "扩展B U+24ADC",
+    "general_bs_code": "411125155444455444411214"
+}

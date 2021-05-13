@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bathe, cleanse, wash, shampoo"
+        },
+        {
+            "language": "德语",
+            "explanation": "das Haar waschen  (V)​,reinigen, säubern  (V)​,Mu  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "laver,se baigner,être plongé dans"
+        }
+    ],
+    "general_pinyins": [
+        "mù"
+    ],
+    "general_zhuyins": [
+        "ㄇㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6C90",
+            "4411234"
+        ],
+        "char_code_wubi": "isy",
+        "char_code_cangjie": "ed",
+        "char_code_zhengma": "vfvv",
+        "char_code_sijiao": "34190"
+    },
+    "general_unicode": "基本区 U+6C90",
+    "general_bs_code": "4411234"
+}

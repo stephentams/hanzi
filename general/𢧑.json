@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "tì"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "戈",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "右上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "229D1",
+            "121251121534"
+        ],
+        "char_code_wubi": "fakf",
+        "char_code_cangjie": "jirg",
+        "char_code_zhengma": "ehjb"
+    },
+    "general_unicode": "扩展B U+229D1",
+    "general_bs_code": "121251121534"
+}

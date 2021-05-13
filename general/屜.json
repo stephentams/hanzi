@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "drawer; tray; pad; screen"
+        },
+        {
+            "language": "德语",
+            "explanation": "Aussteller, Schubfach  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tiroir,corbeille d'étuve"
+        }
+    ],
+    "general_pinyins": [
+        "tì"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "尸",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "屉"
+    ],
+    "general_ytz": [
+        "屧"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5C5C",
+            "51333212215"
+        ],
+        "char_code_wubi": "ntan",
+        "char_code_cangjie": "shot",
+        "char_code_zhengma": "xmez",
+        "char_code_sijiao": "77217"
+    },
+    "general_unicode": "基本区 U+5C5C",
+    "general_bs_code": "51333212215"
+}

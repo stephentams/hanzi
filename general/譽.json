@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fame, reputation; praise"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ansehen, Leumund  (S)​,Yu  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "réputation,louer"
+        }
+    ],
+    "general_pinyins": [
+        "yù"
+    ],
+    "general_zhuyins": [
+        "ㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "言",
+        "non_radical_sn": "13",
+        "total_sn": "20"
+    },
+    "general_stc": [
+        "誉"
+    ],
+    "general_ytz": [
+        "誉",
+        "𣁎",
+        "𧭒"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8B7D",
+            "32111525111344111251"
+        ],
+        "char_code_wubi": "wfgy|egny",
+        "char_code_cangjie": "hcymr",
+        "char_code_zhengma": "nbos",
+        "char_code_sijiao": "77601"
+    },
+    "general_unicode": "基本区 U+8B7D",
+    "general_bs_code": "32111525111344111251"
+}

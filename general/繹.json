@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to unravel or unreel silk; to interpret, explain"
+        },
+        {
+            "language": "德语",
+            "explanation": "stetig, Dauer..."
+        },
+        {
+            "language": "法语",
+            "explanation": "démêler,tirer au clair"
+        }
+    ],
+    "general_pinyins": [
+        "yì"
+    ],
+    "general_zhuyins": [
+        "ㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "糹",
+        "non_radical_sn": "13",
+        "total_sn": "19"
+    },
+    "general_stc": [
+        "绎"
+    ],
+    "general_ytz": [
+        "䭞",
+        "绎",
+        "𦆎",
+        "謝"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7E79",
+            "5544442522112143112"
+        ],
+        "char_code_wubi": "xlff",
+        "char_code_cangjie": "vfwlj",
+        "char_code_zhengma": "zlbu",
+        "char_code_sijiao": "26941"
+    },
+    "general_unicode": "基本区 U+7E79",
+    "general_bs_code": "5544442522112143112"
+}

@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "kerchief; towel; turban; KangXi radical number 50"
+        },
+        {
+            "language": "德语",
+            "explanation": "Radikal Nr. 50 = Handtuch, Lappen, Tuch, Schal  (S)​,Tuch, Stoff  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "mouchoir,serviette,écharpe"
+        }
+    ],
+    "general_pinyins": [
+        "jīn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄣ"
+    ],
+    "general_radical": {
+        "radical": "巾",
+        "non_radical_sn": "0",
+        "total_sn": "3"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䘜",
+        "𫋵"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5DFE",
+            "252"
+        ],
+        "char_code_wubi": "mhk",
+        "char_code_cangjie": "lb",
+        "char_code_zhengma": "li",
+        "char_code_sijiao": "40227"
+    },
+    "general_unicode": "基本区 U+5DFE",
+    "general_bs_code": "252"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "color of the fire, color fading, (interchangeable 渝) to change mind, another name of Chongqing"
+        }
+    ],
+    "general_pinyins": [
+        "dié",
+        "nǎ",
+        "niè",
+        "rú",
+        "xiè",
+        "yú"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧㄝˊ",
+        "ㄋㄚˇ",
+        "ㄋㄧㄝˋ",
+        "ㄖㄨˊ",
+        "ㄒㄧㄝˋ",
+        "ㄩˊ"
+    ],
+    "general_radical": {
+        "radical": "赤",
+        "non_radical_sn": "14",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧹸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4795",
+            "121323414524444132522"
+        ],
+        "char_code_wubi": "fofj",
+        "char_code_cangjie": "gcmbb",
+        "char_code_zhengma": "bnfg",
+        "char_code_sijiao": "41227"
+    },
+    "general_unicode": "扩展A U+4795",
+    "general_bs_code": "121323414524444132522"
+}

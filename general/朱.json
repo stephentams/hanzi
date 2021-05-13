@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "cinnabar, vermilion; surname"
+        }
+    ],
+    "general_pinyins": [
+        "zhū",
+        "shú"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨ",
+        "ㄕㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "2",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "株",
+        "硃"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6731",
+            "311234"
+        ],
+        "char_code_wubi": "rii|tfi",
+        "char_code_cangjie": "hjd",
+        "char_code_zhengma": "mbko",
+        "char_code_sijiao": "25900"
+    },
+    "general_unicode": "基本区 U+6731",
+    "general_bs_code": "311234"
+}

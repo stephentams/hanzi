@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "summit, peak"
+        },
+        {
+            "language": "法语",
+            "explanation": "crête de la montagne"
+        }
+    ],
+    "general_pinyins": [
+        "yǎn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "20",
+        "total_sn": "23"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "巚",
+        "甗",
+        "𡿕",
+        "𪩘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5DD8",
+            "25221531512512543121344"
+        ],
+        "char_code_wubi": "mhad|mhgd",
+        "char_code_cangjie": "uybk",
+        "char_code_zhengma": "llgs",
+        "char_code_sijiao": "23784"
+    },
+    "general_unicode": "基本区 U+5DD8",
+    "general_bs_code": "25221531512512543121344"
+}

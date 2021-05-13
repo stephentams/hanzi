@@ -1,0 +1,55 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "teacher, master, specialist; multitude, troops"
+        },
+        {
+            "language": "德语",
+            "explanation": "Meister, Vorbild, Lehrer"
+        },
+        {
+            "language": "法语",
+            "explanation": "maître,chef,armée,multitude,capitale"
+        }
+    ],
+    "general_pinyins": [
+        "shī"
+    ],
+    "general_zhuyins": [
+        "ㄕ"
+    ],
+    "general_radical": {
+        "radical": "巾",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "师"
+    ],
+    "general_ytz": [
+        "司",
+        "师",
+        "𠦵",
+        "𠵀",
+        "𢂖",
+        "𢃋",
+        "𨸲",
+        "𨸴",
+        "𩇱",
+        "獅"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5E2B",
+            "3251511252"
+        ],
+        "char_code_wubi": "wnnh|tngh",
+        "char_code_cangjie": "hrmlb",
+        "char_code_zhengma": "myal",
+        "char_code_sijiao": "21727"
+    },
+    "general_unicode": "基本区 U+5E2B",
+    "general_bs_code": "3251511252"
+}

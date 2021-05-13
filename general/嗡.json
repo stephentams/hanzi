@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sound of flying bees, airplanes"
+        },
+        {
+            "language": "德语",
+            "explanation": "summen (wie Bienen)​  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "mugir,bourdonner"
+        }
+    ],
+    "general_pinyins": [
+        "wēng"
+    ],
+    "general_zhuyins": [
+        "ㄨㄥ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "55E1",
+            "2513454541541"
+        ],
+        "char_code_wubi": "kwcn",
+        "char_code_cangjie": "rcim",
+        "char_code_zhengma": "joyy",
+        "char_code_sijiao": "68027"
+    },
+    "general_unicode": "基本区 U+55E1",
+    "general_bs_code": "2513454541541"
+}

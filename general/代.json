@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "replace, replacement (of person or generation >); era, generation"
+        },
+        {
+            "language": "德语",
+            "explanation": "ersetzen  (V)​,Zeitalter, Generation, Ära, Epoche"
+        },
+        {
+            "language": "法语",
+            "explanation": "suppléant par intérim,génération,période historique,époque,remplacer,substituer"
+        }
+    ],
+    "general_pinyins": [
+        "dài"
+    ],
+    "general_zhuyins": [
+        "ㄉㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "3",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4EE3",
+            "32154"
+        ],
+        "char_code_wubi": "way|wayy",
+        "char_code_cangjie": "oip",
+        "char_code_zhengma": "nhs",
+        "char_code_sijiao": "23240"
+    },
+    "general_unicode": "基本区 U+4EE3",
+    "general_bs_code": "32154"
+}

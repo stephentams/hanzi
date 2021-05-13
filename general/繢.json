@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "draw, sketch, paint"
+        },
+        {
+            "language": "德语",
+            "explanation": "malen, saugen"
+        },
+        {
+            "language": "法语",
+            "explanation": "multicolore,polychrome,dessiner"
+        }
+    ],
+    "general_pinyins": [
+        "huì",
+        "huí"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄟˋ",
+        "ㄏㄨㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "糹",
+        "non_radical_sn": "12",
+        "total_sn": "18"
+    },
+    "general_stc": [
+        "缋"
+    ],
+    "general_ytz": [
+        "繪",
+        "缋",
+        "𦆠",
+        "𦇣"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7E62",
+            "554444251212511134"
+        ],
+        "char_code_wubi": "xkhm",
+        "char_code_cangjie": "vflmc",
+        "char_code_zhengma": "zjal",
+        "char_code_sijiao": "25986"
+    },
+    "general_unicode": "基本区 U+7E62",
+    "general_bs_code": "554444251212511134"
+}

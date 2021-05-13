@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "altar; arena, examination hall"
+        },
+        {
+            "language": "德语",
+            "explanation": "Krug"
+        }
+    ],
+    "general_pinyins": [
+        "tán"
+    ],
+    "general_zhuyins": [
+        "ㄊㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "壇",
+        "罈"
+    ],
+    "general_ytz": [
+        "壇",
+        "罎",
+        "罈",
+        "壜",
+        "埮",
+        "䃪",
+        "𡊨",
+        "𤮦"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "575B",
+            "1211154"
+        ],
+        "char_code_wubi": "ffcy",
+        "char_code_cangjie": "gmmi",
+        "char_code_zhengma": "bbzs",
+        "char_code_sijiao": "41132"
+    },
+    "general_unicode": "基本区 U+575B",
+    "general_bs_code": "1211154"
+}

@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rabbit, hare"
+        }
+    ],
+    "general_pinyins": [
+        "tù"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "儿",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "兔"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "514E",
+            "3251354"
+        ],
+        "char_code_wubi": "tkqy",
+        "char_code_cangjie": "hlai",
+        "char_code_zhengma": "mjrs",
+        "char_code_sijiao": "20513"
+    },
+    "general_unicode": "基本区 U+514E",
+    "general_bs_code": "3251354"
+}

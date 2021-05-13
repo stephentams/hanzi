@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "寸",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "等"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "21B26",
+            "34121124"
+        ],
+        "char_code_wubi": "wafu",
+        "char_code_cangjie": "cmdi",
+        "char_code_zhengma": "obds"
+    },
+    "general_unicode": "扩展B U+21B26",
+    "general_bs_code": "34121124"
+}

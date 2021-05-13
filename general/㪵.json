@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "half of a unit of measurement used in ancient times"
+        }
+    ],
+    "general_pinyins": [
+        "bàn"
+    ],
+    "general_zhuyins": [
+        "ㄅㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "斗",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "半"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3AB5",
+            "431134412"
+        ],
+        "char_code_wubi": "uduf|uguf",
+        "char_code_cangjie": "fqyj",
+        "char_code_zhengma": "ubte",
+        "char_code_sijiao": "94500"
+    },
+    "general_unicode": "扩展A U+3AB5",
+    "general_bs_code": "431134412"
+}

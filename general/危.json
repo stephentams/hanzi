@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dangerous, precarious; high"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gefahr  (S)​,Not  (S)​,gefährden  (V)​,Wei  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "nuire à,être mourant,danger,dangereux,haut,élevé"
+        }
+    ],
+    "general_pinyins": [
+        "wēi"
+    ],
+    "general_zhuyins": [
+        "ㄨㄟ"
+    ],
+    "general_radical": {
+        "radical": "㔾",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "厃",
+        "𠝰",
+        "𡴲",
+        "𡴸",
+        "𡵁",
+        "𡴻"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5371",
+            "351355"
+        ],
+        "char_code_wubi": "qdbb",
+        "char_code_cangjie": "nmsu",
+        "char_code_zhengma": "rgyy",
+        "char_code_sijiao": "27212"
+    },
+    "general_unicode": "基本区 U+5371",
+    "general_bs_code": "351355"
+}

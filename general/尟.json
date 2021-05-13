@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "surname; fresh"
+        },
+        {
+            "language": "德语",
+            "explanation": "wenig, wenige"
+        },
+        {
+            "language": "法语",
+            "explanation": "Umami"
+        }
+    ],
+    "general_pinyins": [
+        "xiǎn"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "小",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "鮮"
+    ],
+    "general_structure": "左下包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5C1F",
+            "2511121342343"
+        ],
+        "char_code_wubi": "jght",
+        "char_code_cangjie": "aofh",
+        "char_code_zhengma": "kakm",
+        "char_code_sijiao": "69802"
+    },
+    "general_unicode": "基本区 U+5C1F",
+    "general_bs_code": "2511121342343"
+}

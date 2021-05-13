@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sigh in disapproval; take small"
+        },
+        {
+            "language": "德语",
+            "explanation": "piep (eines Vogels, Kükens)​ ,brummen, motzen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cui-cui"
+        }
+    ],
+    "general_pinyins": [
+        "jī"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "2",
+        "total_sn": "5"
+    },
+    "general_stc": [
+        "嘰"
+    ],
+    "general_ytz": [
+        "嘰"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "53FD",
+            "25135"
+        ],
+        "char_code_wubi": "kmn|kwn",
+        "char_code_cangjie": "rhn",
+        "char_code_zhengma": "jqd",
+        "char_code_sijiao": "67010"
+    },
+    "general_unicode": "基本区 U+53FD",
+    "general_bs_code": "25135"
+}

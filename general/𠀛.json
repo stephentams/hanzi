@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "yù"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "一",
+        "non_radical_sn": "5",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2001B",
+            "112534"
+        ],
+        "char_code_wubi": "fmwi",
+        "char_code_cangjie": "mob",
+        "char_code_zhengma": "bdlo"
+    },
+    "general_unicode": "扩展B U+2001B",
+    "general_bs_code": "112534"
+}

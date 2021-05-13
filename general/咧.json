@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stretch mouth, grimace, grin"
+        },
+        {
+            "language": "德语",
+            "explanation": "Mund verziehen, grinsen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "grimacer,babil,grimace,(particule modale exprimant l'exclamation)​"
+        }
+    ],
+    "general_pinyins": [
+        "liě",
+        "liē",
+        "lié",
+        "lie"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄝˇ",
+        "ㄌㄧㄝ",
+        "ㄌㄧㄝˊ",
+        "˙ㄌㄧㄝ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "54A7",
+            "251135422"
+        ],
+        "char_code_wubi": "kgqj",
+        "char_code_cangjie": "rmnn",
+        "char_code_zhengma": "jark",
+        "char_code_sijiao": "62000"
+    },
+    "general_unicode": "基本区 U+54A7",
+    "general_bs_code": "251135422"
+}

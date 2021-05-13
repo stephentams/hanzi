@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "go; KangXi radical 34"
+        },
+        {
+            "language": "德语",
+            "explanation": "Radikal Nr. 34 = Schlendern, folgen"
+        },
+        {
+            "language": "法语",
+            "explanation": "aller (radical)​"
+        }
+    ],
+    "general_pinyins": [
+        "zhǐ",
+        "zhōng"
+    ],
+    "general_zhuyins": [
+        "ㄓˇ",
+        "ㄓㄨㄥ"
+    ],
+    "general_radical": {
+        "radical": "夂",
+        "non_radical_sn": "0",
+        "total_sn": "3"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "終"
+    ],
+    "general_structure": "单体结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5902",
+            "354"
+        ],
+        "char_code_wubi": "ttny",
+        "char_code_cangjie": "he",
+        "char_code_zhengma": "rsaa",
+        "char_code_sijiao": "27400"
+    },
+    "general_unicode": "基本区 U+5902",
+    "general_bs_code": "354"
+}

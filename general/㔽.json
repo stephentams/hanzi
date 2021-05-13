@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(non-classical form of 卣) a kind of wine pot or jar used in ancient time"
+        }
+    ],
+    "general_pinyins": [
+        "yào",
+        "yǒu"
+    ],
+    "general_zhuyins": [
+        "ㄧㄠˋ",
+        "ㄧㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "卜",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "卣"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "353D",
+            "21252511"
+        ],
+        "char_code_wubi": "hlkf",
+        "char_code_cangjie": "ywr",
+        "char_code_zhengma": "idjj",
+        "char_code_sijiao": "21600"
+    },
+    "general_unicode": "扩展A U+353D",
+    "general_bs_code": "21252511"
+}

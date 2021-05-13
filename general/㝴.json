@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 刓) a round off; to trim"
+        }
+    ],
+    "general_pinyins": [
+        "wán"
+    ],
+    "general_zhuyins": [
+        "ㄨㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "寸",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "刓"
+    ],
+    "general_structure": "左下包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3774",
+            "1135124"
+        ],
+        "char_code_wubi": "fqfi",
+        "char_code_cangjie": "mudi",
+        "char_code_zhengma": "bdrd",
+        "char_code_sijiao": "14210"
+    },
+    "general_unicode": "扩展A U+3774",
+    "general_bs_code": "1135124"
+}

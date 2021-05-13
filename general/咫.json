@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "foot measure of Zhou dynasty"
+        },
+        {
+            "language": "法语",
+            "explanation": "huit pouces,peu"
+        }
+    ],
+    "general_pinyins": [
+        "zhǐ"
+    ],
+    "general_zhuyins": [
+        "ㄓˇ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "只",
+        "𣥉",
+        "𦐖"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "54AB",
+            "513425134"
+        ],
+        "char_code_wubi": "nykw",
+        "char_code_cangjie": "sorc",
+        "char_code_zhengma": "xmjo",
+        "char_code_sijiao": "76808"
+    },
+    "general_unicode": "基本区 U+54AB",
+    "general_bs_code": "513425134"
+}

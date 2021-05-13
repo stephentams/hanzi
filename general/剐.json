@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cut, cut flesh from bones"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fleisch vom Knochen schaben ,zu Tode zerstückeln (früher beliebte Todesstrafe in China)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "mettre en pièces"
+        }
+    ],
+    "general_pinyins": [
+        "guǎ"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄚˇ"
+    ],
+    "general_radical": {
+        "radical": "刂",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "剮"
+    ],
+    "general_ytz": [
+        "冎",
+        "叧",
+        "剮",
+        "㱙",
+        "𢰸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5250",
+            "251253422"
+        ],
+        "char_code_wubi": "kmwj",
+        "char_code_cangjie": "rbln",
+        "char_code_zhengma": "jlok",
+        "char_code_sijiao": "62200"
+    },
+    "general_unicode": "基本区 U+5250",
+    "general_bs_code": "251253422"
+}

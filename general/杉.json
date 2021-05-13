@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "various species of pine and fir"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kiefer  (S)​,Tanne  (S)​,Zeder  (S)​,Kiefer  (S)​,Tanne, Fichte  (S)​,Zeder  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "sapin de Chine,Cunninghamia lanceolata"
+        }
+    ],
+    "general_pinyins": [
+        "shān",
+        "shā"
+    ],
+    "general_zhuyins": [
+        "ㄕㄢ",
+        "ㄕㄚ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "3",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㰇",
+        "檆",
+        "櫼",
+        "煔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6749",
+            "1234333"
+        ],
+        "char_code_wubi": "set",
+        "char_code_cangjie": "dhhh",
+        "char_code_zhengma": "fpd",
+        "char_code_sijiao": "42922"
+    },
+    "general_unicode": "基本区 U+6749",
+    "general_bs_code": "1234333"
+}

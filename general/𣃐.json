@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "斤",
+        "non_radical_sn": "14",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "貸"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "230D0",
+            "331212125111345453"
+        ],
+        "char_code_wubi": "raml",
+        "char_code_cangjie": "hlmcs",
+        "char_code_zhengma": "pdzy"
+    },
+    "general_unicode": "扩展B U+230D0",
+    "general_bs_code": "331212125111345453"
+}

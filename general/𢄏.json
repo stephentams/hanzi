@@ -1,0 +1,27 @@
+{
+    "general_pinyins": [
+        "mò"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "巾",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "万"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2210F",
+            "4451122134252"
+        ],
+        "char_code_wubi": "pfjh",
+        "char_code_cangjie": "jtcb",
+        "char_code_zhengma": "wdol"
+    },
+    "general_unicode": "扩展B U+2210F",
+    "general_bs_code": "4451122134252"
+}

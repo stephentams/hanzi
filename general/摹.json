@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "trace, copy, duplicate; pattern"
+        },
+        {
+            "language": "德语",
+            "explanation": "nachahmen"
+        },
+        {
+            "language": "法语",
+            "explanation": "copier,calquer"
+        }
+    ],
+    "general_pinyins": [
+        "mó"
+    ],
+    "general_zhuyins": [
+        "ㄇㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "手",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "撫",
+        "模",
+        "𢸆",
+        "摸"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6479",
+            "12225111343112"
+        ],
+        "char_code_wubi": "ajdr",
+        "char_code_cangjie": "takq",
+        "char_code_zhengma": "ekgm",
+        "char_code_sijiao": "44502"
+    },
+    "general_unicode": "基本区 U+6479",
+    "general_bs_code": "12225111343112"
+}

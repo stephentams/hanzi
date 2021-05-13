@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "betel-nut, areca nut"
+        },
+        {
+            "language": "法语",
+            "explanation": "noix d'arec,bétel,areca"
+        }
+    ],
+    "general_pinyins": [
+        "bīn",
+        "bīng"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄣ",
+        "ㄅㄧㄥ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "14",
+        "total_sn": "18"
+    },
+    "general_stc": [
+        "槟"
+    ],
+    "general_ytz": [
+        "㯽",
+        "㰋",
+        "梹",
+        "槟"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6AB3",
+            "123444512332511134"
+        ],
+        "char_code_wubi": "spgm",
+        "char_code_cangjie": "djmc",
+        "char_code_zhengma": "fwkl",
+        "char_code_sijiao": "43986"
+    },
+    "general_unicode": "基本区 U+6AB3",
+    "general_bs_code": "123444512332511134"
+}

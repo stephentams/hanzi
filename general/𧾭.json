@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "走",
+        "non_radical_sn": "17",
+        "total_sn": "24"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "奔"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "27FAD",
+            "313421213134212131342121"
+        ],
+        "char_code_wubi": "tdhh",
+        "char_code_cangjie": "hmhmm",
+        "char_code_zhengma": "mggi"
+    },
+    "general_unicode": "扩展B U+27FAD",
+    "general_bs_code": "313421213134212131342121"
+}

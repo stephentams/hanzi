@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to compare, liken; comparison; than"
+        },
+        {
+            "language": "德语",
+            "explanation": "vergleichen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "être proche de,par rapport à,en comparaison avec,que,à,comparer,rivaliser avec,considérer comme"
+        }
+    ],
+    "general_pinyins": [
+        "bǐ"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "比",
+        "non_radical_sn": "0",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "庀",
+        "匕",
+        "夶",
+        "㱛",
+        "𣬅"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6BD4",
+            "1535"
+        ],
+        "char_code_wubi": "xxn",
+        "char_code_cangjie": "pp",
+        "char_code_zhengma": "rrrr",
+        "char_code_sijiao": "22710"
+    },
+    "general_unicode": "基本区 U+6BD4",
+    "general_bs_code": "1535"
+}

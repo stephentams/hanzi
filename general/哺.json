@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "chew food; feed"
+        },
+        {
+            "language": "德语",
+            "explanation": "der Bissen im Mund  (S, Lit)​,die Brust geben, stillen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "allaiter,nourrir,donner la becquée"
+        }
+    ],
+    "general_pinyins": [
+        "bǔ"
+    ],
+    "general_zhuyins": [
+        "ㄅㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㕮",
+        "餔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "54FA",
+            "2511251124"
+        ],
+        "char_code_wubi": "kgey|ksy",
+        "char_code_cangjie": "rijb",
+        "char_code_zhengma": "jfb",
+        "char_code_sijiao": "63027"
+    },
+    "general_unicode": "基本区 U+54FA",
+    "general_bs_code": "2511251124"
+}

@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mortgage, pledge; deposit; to pawn; to arrest, detain, guard"
+        },
+        {
+            "language": "德语",
+            "explanation": "festnehmen, bewachen, unter Arrest stellen ,bewachen, eskortieren  (V)​,verpfänden  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "engager,hypothéquer,détenir,conduire sous escorte"
+        }
+    ],
+    "general_pinyins": [
+        "yā"
+    ],
+    "general_zhuyins": [
+        "ㄧㄚ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "62BC",
+            "12125112"
+        ],
+        "char_code_wubi": "rlh",
+        "char_code_cangjie": "qwl",
+        "char_code_zhengma": "dkib",
+        "char_code_sijiao": "56050"
+    },
+    "general_unicode": "基本区 U+62BC",
+    "general_bs_code": "12125112"
+}

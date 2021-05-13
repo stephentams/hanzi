@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "personal name; servant"
+        },
+        {
+            "language": "德语",
+            "explanation": "Diener, Dienstmädchen  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "xī",
+        "xì"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧ",
+        "ㄒㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "10",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠌜",
+        "𧨍",
+        "徯"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5092",
+            "323443554134"
+        ],
+        "char_code_wubi": "wexd",
+        "char_code_cangjie": "obvk",
+        "char_code_zhengma": "npzg",
+        "char_code_sijiao": "22284"
+    },
+    "general_unicode": "基本区 U+5092",
+    "general_bs_code": "323443554134"
+}

@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pray or sacrifice, exorcise"
+        },
+        {
+            "language": "法语",
+            "explanation": "sacrifice déprécatoire"
+        }
+    ],
+    "general_pinyins": [
+        "ráng"
+    ],
+    "general_zhuyins": [
+        "ㄖㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "礻",
+        "non_radical_sn": "17",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "79B3",
+            "452441251251112213534"
+        ],
+        "char_code_wubi": "pyye",
+        "char_code_cangjie": "ifyrv",
+        "char_code_zhengma": "wser",
+        "char_code_sijiao": "30232"
+    },
+    "general_unicode": "基本区 U+79B3",
+    "general_bs_code": "452441251251112213534"
+}

@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cautious; willing; but, moreover"
+        },
+        {
+            "language": "德语",
+            "explanation": "überdies, außerdem"
+        },
+        {
+            "language": "法语",
+            "explanation": "blessé,de plus,de préférence,blessé,d'ailleurs,de préférence"
+        }
+    ],
+    "general_pinyins": [
+        "yìn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "12",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "慭",
+        "憗"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6196",
+            "1343423413444544"
+        ],
+        "char_code_wubi": "swwn",
+        "char_code_cangjie": "dkp",
+        "char_code_zhengma": "fosw",
+        "char_code_sijiao": "43338"
+    },
+    "general_unicode": "基本区 U+6196",
+    "general_bs_code": "1343423413444544"
+}

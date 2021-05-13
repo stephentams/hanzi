@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "an octopus, devilfish"
+        },
+        {
+            "language": "法语",
+            "explanation": "poulpe"
+        }
+    ],
+    "general_pinyins": [
+        "zhāng"
+    ],
+    "general_zhuyins": [
+        "ㄓㄤ"
+    ],
+    "general_radical": {
+        "radical": "魚",
+        "non_radical_sn": "11",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9C46",
+            "3525121444441431251112"
+        ],
+        "char_code_wubi": "qouj",
+        "char_code_cangjie": "nfytj",
+        "char_code_zhengma": "rske",
+        "char_code_sijiao": "20346"
+    },
+    "general_unicode": "基本区 U+9C46",
+    "general_bs_code": "3525121444441431251112"
+}

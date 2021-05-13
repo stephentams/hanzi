@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "loud clamor; sound of wailing"
+        },
+        {
+            "language": "法语",
+            "explanation": "vive clameur,acclamation"
+        }
+    ],
+    "general_pinyins": [
+        "áo"
+    ],
+    "general_zhuyins": [
+        "ㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "嗸",
+        "熬",
+        "謷"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "55F7",
+            "2511121533134"
+        ],
+        "char_code_wubi": "kgqt",
+        "char_code_cangjie": "rgsk",
+        "char_code_zhengma": "jcym",
+        "char_code_sijiao": "68040"
+    },
+    "general_unicode": "基本区 U+55F7",
+    "general_bs_code": "2511121533134"
+}

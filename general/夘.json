@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "4th of Earth Branches; period from 5-7 a.m."
+        }
+    ],
+    "general_pinyins": [
+        "mǎo",
+        "wǎn"
+    ],
+    "general_zhuyins": [
+        "ㄇㄠˇ",
+        "ㄨㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "夕",
+        "non_radical_sn": "2",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "卯",
+        "夗"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5918",
+            "35452"
+        ],
+        "char_code_wubi": "qbh",
+        "char_code_cangjie": "nisl",
+        "char_code_zhengma": "rsy",
+        "char_code_sijiao": "27220"
+    },
+    "general_unicode": "基本区 U+5918",
+    "general_bs_code": "35452"
+}

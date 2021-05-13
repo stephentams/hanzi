@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "flowing water"
+        }
+    ],
+    "general_pinyins": [
+        "piǎo"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "14",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3D71",
+            "44112522111234124"
+        ],
+        "char_code_wubi": "isff",
+        "char_code_cangjie": "emfi",
+        "char_code_zhengma": "vfbd",
+        "char_code_sijiao": "34190"
+    },
+    "general_unicode": "扩展A U+3D71",
+    "general_bs_code": "44112522111234124"
+}

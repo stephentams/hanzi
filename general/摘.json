@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pluck, pick; select; specify"
+        },
+        {
+            "language": "德语",
+            "explanation": "auswählen, abpflücken ,auswählen, küren ,einnehmen, ergreifen ,leihen, entleihen ,pflücken  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cueillir,arracher,extraire,prendre,emprunter,choisir"
+        }
+    ],
+    "general_pinyins": [
+        "zhāi"
+    ],
+    "general_zhuyins": [
+        "ㄓㄞ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "啇",
+        "擿",
+        "𠞶",
+        "𢴨",
+        "𢸈",
+        "𢸑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6458",
+            "12141432512251"
+        ],
+        "char_code_wubi": "rumd|ryud",
+        "char_code_cangjie": "qycb",
+        "char_code_zhengma": "dsul",
+        "char_code_sijiao": "50027"
+    },
+    "general_unicode": "基本区 U+6458",
+    "general_bs_code": "12141432512251"
+}

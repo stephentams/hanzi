@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ferocious appearance; hideous"
+        },
+        {
+            "language": "法语",
+            "explanation": "farouche,hideux"
+        }
+    ],
+    "general_pinyins": [
+        "níng"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "14",
+        "total_sn": "17"
+    },
+    "general_stc": [
+        "狞"
+    ],
+    "general_ytz": [
+        "狞",
+        "𤡛",
+        "𤢆"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7370",
+            "35344545442522112"
+        ],
+        "char_code_wubi": "qtps",
+        "char_code_cangjie": "khjpn",
+        "char_code_zhengma": "qmla",
+        "char_code_sijiao": "43221"
+    },
+    "general_unicode": "基本区 U+7370",
+    "general_bs_code": "35344545442522112"
+}

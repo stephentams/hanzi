@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "after blocking the water flow takes different waterway, sound of the flowing water"
+        }
+    ],
+    "general_pinyins": [
+        "guó"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "15",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤂆"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3D81",
+            "441344312421531535"
+        ],
+        "char_code_wubi": "iefm|iefw",
+        "char_code_cangjie": "ebin",
+        "char_code_zhengma": "vpdi",
+        "char_code_sijiao": "31117"
+    },
+    "general_unicode": "扩展A U+3D81",
+    "general_bs_code": "441344312421531535"
+}

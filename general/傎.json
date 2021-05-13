@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "topple"
+        },
+        {
+            "language": "德语",
+            "explanation": "falsch auffassen, missverstehen"
+        },
+        {
+            "language": "法语",
+            "explanation": "inversion,erreur"
+        }
+    ],
+    "general_pinyins": [
+        "diān"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "10",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "顛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "508E",
+            "321225111134"
+        ],
+        "char_code_wubi": "wfhw",
+        "char_code_cangjie": "ojbc",
+        "char_code_zhengma": "nelo",
+        "char_code_sijiao": "24281"
+    },
+    "general_unicode": "基本区 U+508E",
+    "general_bs_code": "321225111134"
+}

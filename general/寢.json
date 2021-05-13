@@ -1,0 +1,57 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sleep, rest; bed chamber"
+        },
+        {
+            "language": "德语",
+            "explanation": "schlafen; etwas bleibt ruhen; Schlafzimmer; Totenkammer  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "dormir"
+        }
+    ],
+    "general_pinyins": [
+        "qǐn"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "宀",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "寝"
+    ],
+    "general_ytz": [
+        "㝲",
+        "寑",
+        "寖",
+        "寝",
+        "𡨞",
+        "𡨦",
+        "𡩠",
+        "𡪢",
+        "𡪷",
+        "𡫒",
+        "𡫽",
+        "𥨊"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5BE2",
+            "44552135114554"
+        ],
+        "char_code_wubi": "pnhc|puvc",
+        "char_code_cangjie": "jvme",
+        "char_code_zhengma": "wdwx",
+        "char_code_sijiao": "30247"
+    },
+    "general_unicode": "基本区 U+5BE2",
+    "general_bs_code": "44552135114554"
+}

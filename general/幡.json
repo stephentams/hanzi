@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pennant, banner, streamer, flag"
+        },
+        {
+            "language": "法语",
+            "explanation": "bannière"
+        }
+    ],
+    "general_pinyins": [
+        "fān"
+    ],
+    "general_zhuyins": [
+        "ㄈㄢ"
+    ],
+    "general_radical": {
+        "radical": "巾",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "旛",
+        "旙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5E61",
+            "252343123425121"
+        ],
+        "char_code_wubi": "mhtl",
+        "char_code_cangjie": "lbhdw",
+        "char_code_zhengma": "lipk",
+        "char_code_sijiao": "42269"
+    },
+    "general_unicode": "基本区 U+5E61",
+    "general_bs_code": "252343123425121"
+}

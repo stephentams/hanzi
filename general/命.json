@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "life; destiny, fate, luck; an order, instruction"
+        },
+        {
+            "language": "德语",
+            "explanation": "Leben, Schicksal, Los"
+        },
+        {
+            "language": "法语",
+            "explanation": "vie,sort,fortune,destin,ordonner,ordre,commandement,donner"
+        }
+    ],
+    "general_pinyins": [
+        "mìng"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "名",
+        "𠇭",
+        "𠇮",
+        "𠋒"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "547D",
+            "34125152"
+        ],
+        "char_code_wubi": "wgkb",
+        "char_code_cangjie": "omrl",
+        "char_code_zhengma": "odjy",
+        "char_code_sijiao": "80627"
+    },
+    "general_unicode": "基本区 U+547D",
+    "general_bs_code": "34125152"
+}

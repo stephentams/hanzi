@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bamboo; flute; KangXi radical 118"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bambus  (S)​,Zhu  (Eig, Fam)​,Radikal Nr. 118 = Bambus  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bambou,118e radical"
+        }
+    ],
+    "general_pinyins": [
+        "zhú"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "0",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦺇",
+        "𥫗"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7AF9",
+            "312312"
+        ],
+        "char_code_wubi": "ttgh|thth",
+        "char_code_cangjie": "h",
+        "char_code_zhengma": "mami",
+        "char_code_sijiao": "88220"
+    },
+    "general_unicode": "基本区 U+7AF9",
+    "general_bs_code": "312312"
+}

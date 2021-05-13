@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hundred"
+        },
+        {
+            "language": "法语",
+            "explanation": "cent"
+        }
+    ],
+    "general_pinyins": [
+        "bǎi"
+    ],
+    "general_zhuyins": [
+        "ㄅㄞˇ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4F70",
+            "32132511"
+        ],
+        "char_code_wubi": "wdjg",
+        "char_code_cangjie": "oma",
+        "char_code_zhengma": "nank",
+        "char_code_sijiao": "21262"
+    },
+    "general_unicode": "基本区 U+4F70",
+    "general_bs_code": "32132511"
+}

@@ -1,0 +1,59 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "luxuriant; dense, thick; moody"
+        },
+        {
+            "language": "德语",
+            "explanation": "doof ,schwermütig, Melancholie  (S)​,Yu  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "triste,mélancolique,stagnant,réprimé"
+        }
+    ],
+    "general_pinyins": [
+        "yù"
+    ],
+    "general_zhuyins": [
+        "ㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "彡",
+        "non_radical_sn": "26",
+        "total_sn": "29"
+    },
+    "general_stc": [
+        "郁"
+    ],
+    "general_ytz": [
+        "䖇",
+        "欝",
+        "郁",
+        "鬰",
+        "𣠈",
+        "𣡇",
+        "𣡡",
+        "𣡸",
+        "𦉚",
+        "𩏴",
+        "𩰪",
+        "欎",
+        "𣡱",
+        "𦉠"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9B31",
+            "12343112521234453444445235333"
+        ],
+        "char_code_wubi": "srme|stfe",
+        "char_code_cangjie": "ddbuh",
+        "char_code_zhengma": "fmrp",
+        "char_code_sijiao": "44722"
+    },
+    "general_unicode": "基本区 U+9B31",
+    "general_bs_code": "12343112521234453444445235333"
+}

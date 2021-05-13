@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bolt of cloth; counter for horses"
+        },
+        {
+            "language": "德语",
+            "explanation": "verbinden, anpassen ,einer,eine,eines von einem Paar ,Kollege, Freund, Kamerad ,ordinäre Person ,Verschluss für Kleider ,ZEW für Pferde, Esel,  Maulesel ,ZEW für Stoffballen"
+        },
+        {
+            "language": "法语",
+            "explanation": "partenaire,un élément d'une paire"
+        }
+    ],
+    "general_pinyins": [
+        "pǐ"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "匚",
+        "non_radical_sn": "2",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "疋",
+        "鴄"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5339",
+            "1355"
+        ],
+        "char_code_wubi": "aqv",
+        "char_code_cangjie": "sc",
+        "char_code_zhengma": "hrd",
+        "char_code_sijiao": "71711"
+    },
+    "general_unicode": "基本区 U+5339",
+    "general_bs_code": "1355"
+}

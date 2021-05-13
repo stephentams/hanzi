@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "enjoy"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gefallen finden an, genießen"
+        }
+    ],
+    "general_pinyins": [
+        "xiǎng"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "亠",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "亨",
+        "亯",
+        "𠅖",
+        "𠅠",
+        "𠅷",
+        "𦕺",
+        "𦴒"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4EAB",
+            "41251521"
+        ],
+        "char_code_wubi": "ybf",
+        "char_code_cangjie": "yrnd",
+        "char_code_zhengma": "sjya",
+        "char_code_sijiao": "00407"
+    },
+    "general_unicode": "基本区 U+4EAB",
+    "general_bs_code": "41251521"
+}

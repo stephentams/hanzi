@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "skip, jump, frolic"
+        },
+        {
+            "language": "德语",
+            "explanation": "hüpfen  (V)​,springen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "sauter,bondir"
+        }
+    ],
+    "general_pinyins": [
+        "yuè"
+    ],
+    "general_zhuyins": [
+        "ㄩㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "14",
+        "total_sn": "21"
+    },
+    "general_stc": [
+        "跃"
+    ],
+    "general_ytz": [
+        "䟑",
+        "跃",
+        "躒"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E8D",
+            "251212154154132411121"
+        ],
+        "char_code_wubi": "khny",
+        "char_code_cangjie": "rmsmg",
+        "char_code_zhengma": "jiyn",
+        "char_code_sijiao": "67115"
+    },
+    "general_unicode": "基本区 U+8E8D",
+    "general_bs_code": "251212154154132411121"
+}

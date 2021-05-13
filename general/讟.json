@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "slander, utter evil words"
+        },
+        {
+            "language": "德语",
+            "explanation": "murmeln, raunen ,verleumden, verlästern"
+        },
+        {
+            "language": "法语",
+            "explanation": "murmurer,calomnier"
+        }
+    ],
+    "general_pinyins": [
+        "dú"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "言",
+        "non_radical_sn": "22",
+        "total_sn": "29"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㾄",
+        "黷"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8B9F",
+            "41112511212522125111344111251"
+        ],
+        "char_code_wubi": "yfly",
+        "char_code_cangjie": "yrgcr",
+        "char_code_zhengma": "sbls",
+        "char_code_sijiao": "00661"
+    },
+    "general_unicode": "基本区 U+8B9F",
+    "general_bs_code": "41112511212522125111344111251"
+}

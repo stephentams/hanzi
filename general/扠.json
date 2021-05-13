@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pick up with fork or pincers"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufspalten, gabeln"
+        },
+        {
+            "language": "法语",
+            "explanation": "mettre les poings sur les hanches"
+        }
+    ],
+    "general_pinyins": [
+        "chā"
+    ],
+    "general_zhuyins": [
+        "ㄔㄚ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "叉",
+        "搋",
+        "𢹓",
+        "𢩩"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6260",
+            "121544"
+        ],
+        "char_code_wubi": "rcyy",
+        "char_code_cangjie": "qei",
+        "char_code_zhengma": "dxs",
+        "char_code_sijiao": "57043"
+    },
+    "general_unicode": "基本区 U+6260",
+    "general_bs_code": "121544"
+}

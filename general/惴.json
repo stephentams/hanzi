@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "afraid, apprehensive, nervous"
+        },
+        {
+            "language": "德语",
+            "explanation": "ängstlich, besorgt"
+        },
+        {
+            "language": "法语",
+            "explanation": "triste et inquiet"
+        }
+    ],
+    "general_pinyins": [
+        "zhuì"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "60F4",
+            "442252132522"
+        ],
+        "char_code_wubi": "nmdj",
+        "char_code_cangjie": "pumb",
+        "char_code_zhengma": "ulgl",
+        "char_code_sijiao": "92027"
+    },
+    "general_unicode": "基本区 U+60F4",
+    "general_bs_code": "442252132522"
+}

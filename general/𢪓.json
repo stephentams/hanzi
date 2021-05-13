@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "手",
+        "non_radical_sn": "3",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "舁"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "22A93",
+            "1513112"
+        ],
+        "char_code_wubi": "gngr",
+        "char_code_cangjie": "ymq",
+        "char_code_zhengma": "azam"
+    },
+    "general_unicode": "扩展B U+22A93",
+    "general_bs_code": "1513112"
+}

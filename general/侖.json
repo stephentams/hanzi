@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "logical reasons, logical order"
+        },
+        {
+            "language": "德语",
+            "explanation": "einrichten, anordnen"
+        }
+    ],
+    "general_pinyins": [
+        "lún"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "人",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "仑"
+    ],
+    "general_ytz": [
+        "仑",
+        "𠉙",
+        "𠌈",
+        "𠎚",
+        "倫",
+        "崙",
+        "論"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4F96",
+            "34125122"
+        ],
+        "char_code_wubi": "wgma",
+        "char_code_cangjie": "ombt",
+        "char_code_zhengma": "odal",
+        "char_code_sijiao": "80227"
+    },
+    "general_unicode": "基本区 U+4F96",
+    "general_bs_code": "34125122"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "superior, excellent; actor"
+        },
+        {
+            "language": "德语",
+            "explanation": "vorzüglich, ausgezeichnet  (Adj)​,besorgt sein ,Mime, Schauspieler, Schauspielerin  (S)​,bevorzugt behandeln  (V)​,reichlich, um Überfluss  (Adj)​,You  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "excellent,supérieur"
+        }
+    ],
+    "general_pinyins": [
+        "yōu"
+    ],
+    "general_zhuyins": [
+        "ㄧㄡ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "優"
+    ],
+    "general_ytz": [
+        "優",
+        "𢖒"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4F18",
+            "321354"
+        ],
+        "char_code_wubi": "wdnn|wdny",
+        "char_code_cangjie": "oiku",
+        "char_code_zhengma": "ngr",
+        "char_code_sijiao": "23212"
+    },
+    "general_unicode": "基本区 U+4F18",
+    "general_bs_code": "321354"
+}

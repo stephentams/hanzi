@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rap, tap lightly; KangXi radical 66"
+        },
+        {
+            "language": "德语",
+            "explanation": "Radikal Nr. 66 = schlagen, Peitsche (Variante: 攵)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "toquer,radical 66"
+        }
+    ],
+    "general_pinyins": [
+        "pū"
+    ],
+    "general_zhuyins": [
+        "ㄆㄨ"
+    ],
+    "general_radical": {
+        "radical": "攵",
+        "non_radical_sn": "0",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "扑",
+        "䇚",
+        "攵",
+        "𢪊",
+        "𦬙"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6534",
+            "2154"
+        ],
+        "char_code_wubi": "hcu",
+        "char_code_cangjie": "ye",
+        "char_code_zhengma": "idxs",
+        "char_code_sijiao": "21407"
+    },
+    "general_unicode": "基本区 U+6534",
+    "general_bs_code": "2154"
+}

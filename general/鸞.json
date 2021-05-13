@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fabulous bird"
+        },
+        {
+            "language": "法语",
+            "explanation": "phénix mâle,grelots,impérial"
+        }
+    ],
+    "general_pinyins": [
+        "luán"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "鳥",
+        "non_radical_sn": "19",
+        "total_sn": "30"
+    },
+    "general_stc": [
+        "鸾"
+    ],
+    "general_ytz": [
+        "鑾",
+        "鵉",
+        "鸾",
+        "鸞"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E1E",
+            "411125155444455444432511154444"
+        ],
+        "char_code_wubi": "xyxo|yxxo",
+        "char_code_cangjie": "vfhaf",
+        "char_code_zhengma": "zsrz",
+        "char_code_sijiao": "22327"
+    },
+    "general_unicode": "基本区 U+9E1E",
+    "general_bs_code": "411125155444455444432511154444"
+}

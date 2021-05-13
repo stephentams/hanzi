@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "deputy, vice-"
+        },
+        {
+            "language": "德语",
+            "explanation": "zweite, zweiten"
+        },
+        {
+            "language": "法语",
+            "explanation": "vice-"
+        }
+    ],
+    "general_pinyins": [
+        "cuì",
+        "zú"
+    ],
+    "general_zhuyins": [
+        "ㄘㄨㄟˋ",
+        "ㄗㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "伜",
+        "卒"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5005",
+            "3241343412"
+        ],
+        "char_code_wubi": "wywf",
+        "char_code_cangjie": "oyoj",
+        "char_code_zhengma": "nsoe",
+        "char_code_sijiao": "20248"
+    },
+    "general_unicode": "基本区 U+5005",
+    "general_bs_code": "3241343412"
+}

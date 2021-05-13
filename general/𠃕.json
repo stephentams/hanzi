@@ -1,0 +1,29 @@
+{
+    "general_pinyins": [
+        "zhōu"
+    ],
+    "general_zhuyins": [
+        "ㄓㄡ"
+    ],
+    "general_radical": {
+        "radical": "乙",
+        "non_radical_sn": "3",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "州"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "200D5",
+            "3552"
+        ],
+        "char_code_wubi": "qnhk",
+        "char_code_cangjie": "lvhu",
+        "char_code_zhengma": "rdzm"
+    },
+    "general_unicode": "扩展B U+200D5",
+    "general_bs_code": "3552"
+}

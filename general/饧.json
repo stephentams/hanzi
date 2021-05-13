@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sugar, syrup; malt sugar; sticky"
+        },
+        {
+            "language": "德语",
+            "explanation": "Melassesirup, Melasse  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "mélasse"
+        }
+    ],
+    "general_pinyins": [
+        "xíng"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "饣",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "餳"
+    ],
+    "general_ytz": [
+        "餳"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9967",
+            "355533"
+        ],
+        "char_code_wubi": "qnnr",
+        "char_code_cangjie": "nvnsh",
+        "char_code_zhengma": "oxyo",
+        "char_code_sijiao": "27727"
+    },
+    "general_unicode": "基本区 U+9967",
+    "general_bs_code": "355533"
+}

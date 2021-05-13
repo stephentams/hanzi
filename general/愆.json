@@ -1,0 +1,55 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a fault, mistake, error, transgression"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fehler, Mangel  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "qiān"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㥶",
+        "䇂",
+        "諐",
+        "𠌤",
+        "𠍴",
+        "𠎝",
+        "𠎱",
+        "𠏘",
+        "𠐨",
+        "𠐷",
+        "𢕆",
+        "𢝐",
+        "𢡊",
+        "𧗭",
+        "𧗺",
+        "𨓲"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6106",
+            "3324411124544"
+        ],
+        "char_code_wubi": "tifn|tign",
+        "char_code_cangjie": "hnp",
+        "char_code_zhengma": "oivw",
+        "char_code_sijiao": "21332"
+    },
+    "general_unicode": "基本区 U+6106",
+    "general_bs_code": "3324411124544"
+}

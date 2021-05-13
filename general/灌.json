@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pour; water; irrigate, flood"
+        },
+        {
+            "language": "德语",
+            "explanation": "füllt ,gießen, einschenken ,übergießen  (V)​,füllen  (V)​,gefüllt  (V)​,Guan  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "irriguer,verser,remplir,enregistrer,inculquer"
+        }
+    ],
+    "general_pinyins": [
+        "guàn"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "17",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "樌",
+        "權",
+        "潅",
+        "𤂦",
+        "盥"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "704C",
+            "44112225125132411121"
+        ],
+        "char_code_wubi": "iaky",
+        "char_code_cangjie": "etrg",
+        "char_code_zhengma": "vejn",
+        "char_code_sijiao": "34115"
+    },
+    "general_unicode": "基本区 U+704C",
+    "general_bs_code": "44112225125132411121"
+}

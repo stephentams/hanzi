@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to sound, a sound, the cry of a bird or animal"
+        }
+    ],
+    "general_pinyins": [
+        "zuò"
+    ],
+    "general_zhuyins": [
+        "ㄗㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠹠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3600",
+            "251321511431234"
+        ],
+        "char_code_wubi": "kvoy|keoy",
+        "char_code_cangjie": "rhxd",
+        "char_code_zhengma": "jnuf",
+        "char_code_sijiao": "67094"
+    },
+    "general_unicode": "扩展A U+3600",
+    "general_bs_code": "251321511431234"
+}

@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "squid"
+        }
+    ],
+    "general_pinyins": [
+        "wū"
+    ],
+    "general_zhuyins": [
+        "ㄨ"
+    ],
+    "general_radical": {
+        "radical": "魚",
+        "non_radical_sn": "10",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9C1E",
+            "352512144443251154444"
+        ],
+        "char_code_wubi": "qowo|qoqo",
+        "char_code_cangjie": "nfhrf",
+        "char_code_zhengma": "rrza",
+        "char_code_sijiao": "27327"
+    },
+    "general_unicode": "基本区 U+9C1E",
+    "general_bs_code": "352512144443251154444"
+}

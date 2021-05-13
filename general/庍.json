@@ -1,0 +1,33 @@
+{
+    "general_pinyins": [
+        "bài",
+        "tīng"
+    ],
+    "general_zhuyins": [
+        "ㄅㄞˋ",
+        "ㄊㄧㄥ"
+    ],
+    "general_radical": {
+        "radical": "广",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢇩",
+        "廳"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5E8D",
+            "4133312"
+        ],
+        "char_code_wubi": "yrk|ork",
+        "char_code_cangjie": "ihml",
+        "char_code_zhengma": "tgpd",
+        "char_code_sijiao": "00221"
+    },
+    "general_unicode": "基本区 U+5E8D",
+    "general_bs_code": "4133312"
+}

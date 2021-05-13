@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sound of surprising, to laugh loudly, to flow off, loquacious, sound; voice; tone"
+        }
+    ],
+    "general_pinyins": [
+        "guó"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "喐",
+        "𠷾"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "35AA",
+            "25112511534"
+        ],
+        "char_code_wubi": "kakg",
+        "char_code_cangjie": "rirm",
+        "char_code_zhengma": "jhja",
+        "char_code_sijiao": "63050"
+    },
+    "general_unicode": "扩展A U+35AA",
+    "general_bs_code": "25112511534"
+}

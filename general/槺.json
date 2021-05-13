@@ -1,0 +1,31 @@
+{
+    "general_pinyins": [
+        "kāng"
+    ],
+    "general_zhuyins": [
+        "ㄎㄤ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "11",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㝩",
+        "䆲"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "69FA",
+            "123441351124134"
+        ],
+        "char_code_wubi": "syvi|sovi",
+        "char_code_cangjie": "dile",
+        "char_code_zhengma": "ftxk",
+        "char_code_sijiao": "40999"
+    },
+    "general_unicode": "基本区 U+69FA",
+    "general_bs_code": "123441351124134"
+}

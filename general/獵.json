@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hunt; field sports"
+        },
+        {
+            "language": "德语",
+            "explanation": "Jagdwesen, Jagd  (S)​,jagen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "chasse"
+        }
+    ],
+    "general_pinyins": [
+        "liè"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "15",
+        "total_sn": "18"
+    },
+    "general_stc": [
+        "猎"
+    ],
+    "general_ytz": [
+        "𤢪",
+        "𤡕",
+        "獦",
+        "猟",
+        "猎",
+        "獵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7375",
+            "353555253415445445"
+        ],
+        "char_code_wubi": "qtvn",
+        "char_code_cangjie": "khvvv",
+        "char_code_zhengma": "qmoz",
+        "char_code_sijiao": "42212"
+    },
+    "general_unicode": "基本区 U+7375",
+    "general_bs_code": "353555253415445445"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "slow of speech; mumble; stammer"
+        },
+        {
+            "language": "德语",
+            "explanation": "langsam, schwerfällig, nicht schlagfertig ( Sprechen, Reden )​  (Adj, Lit)​,reichlich, groß"
+        },
+        {
+            "language": "法语",
+            "explanation": "lent"
+        }
+    ],
+    "general_pinyins": [
+        "nè"
+    ],
+    "general_zhuyins": [
+        "ㄋㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "訥"
+    ],
+    "general_ytz": [
+        "訥",
+        "㕯",
+        "𧨣"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BB7",
+            "452534"
+        ],
+        "char_code_wubi": "ymwy",
+        "char_code_cangjie": "ivob",
+        "char_code_zhengma": "slod",
+        "char_code_sijiao": "34727"
+    },
+    "general_unicode": "基本区 U+8BB7",
+    "general_bs_code": "452534"
+}

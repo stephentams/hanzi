@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to wash; to rinse; to clean; to spurt; to blow out"
+        }
+    ],
+    "general_pinyins": [
+        "jí",
+        "kè",
+        "léi"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˊ",
+        "ㄎㄜˋ",
+        "ㄌㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "2",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3CBA",
+            "44115"
+        ],
+        "char_code_wubi": "ian",
+        "char_code_cangjie": "ep",
+        "char_code_zhengma": "vhd",
+        "char_code_sijiao": "34110"
+    },
+    "general_unicode": "扩展A U+3CBA",
+    "general_bs_code": "44115"
+}

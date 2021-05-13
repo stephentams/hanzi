@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "strong, powerful, energetic"
+        },
+        {
+            "language": "德语",
+            "explanation": "eigensinnig  (Adj)​,halsstarrig  (Adj)​,hartnäckig  (Adj)​,unnachgiebig  (Adj)​,anmaßend ,besser ,ein bißchen mehr als ... ,Kraft  (S)​,Nachdruck  (S)​,übertreffen  (V)​,gewaltsam  (Adj)​,kräftig  (Adj)​,mächtig  (Adj)​,stark  (Adj)​,Wiebel (Insekt = Kornwurm)​  (Eig, Bio)​,sich mühen, sich bemühen, streben nach, ringen, sich anstrengen  (V)​,bestrebt sein  (Adj)​,stark, kräftig  (Adj)"
+        }
+    ],
+    "general_pinyins": [
+        "qiáng",
+        "qiǎng",
+        "jiàng"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄤˊ",
+        "ㄑㄧㄤˇ",
+        "ㄐㄧㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "弓",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "強"
+    ],
+    "general_ytz": [
+        "強",
+        "犟",
+        "彊",
+        "𢏟",
+        "𣚦"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F3A",
+            "515251251214"
+        ],
+        "char_code_wubi": "xkjy",
+        "char_code_cangjie": "nrli",
+        "char_code_zhengma": "yzji",
+        "char_code_sijiao": "16236"
+    },
+    "general_unicode": "基本区 U+5F3A",
+    "general_bs_code": "515251251214"
+}

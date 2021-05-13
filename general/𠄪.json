@@ -1,0 +1,23 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "二",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2012A",
+            "5253411"
+        ],
+        "char_code_wubi": "biff",
+        "char_code_cangjie": "nemm",
+        "char_code_zhengma": "xkbd"
+    },
+    "general_unicode": "扩展B U+2012A",
+    "general_bs_code": "5253411"
+}

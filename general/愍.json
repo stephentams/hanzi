@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pity, sympathize with"
+        },
+        {
+            "language": "德语",
+            "explanation": "sympathisieren, bemitleiden"
+        },
+        {
+            "language": "法语",
+            "explanation": "peine,chagrin,sympathiser avec"
+        }
+    ],
+    "general_pinyins": [
+        "mǐn"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㥸",
+        "慜",
+        "緡",
+        "𢚢",
+        "𢞰",
+        "惽"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "610D",
+            "5151531344544"
+        ],
+        "char_code_wubi": "natn",
+        "char_code_cangjie": "rkp",
+        "char_code_zhengma": "yybw",
+        "char_code_sijiao": "78334"
+    },
+    "general_unicode": "基本区 U+610D",
+    "general_bs_code": "5151531344544"
+}

@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "small, missing; wanting; lost, the floating ribs on the sides of the trunk"
+        }
+    ],
+    "general_pinyins": [
+        "chǎo",
+        "miǎo"
+    ],
+    "general_zhuyins": [
+        "ㄔㄠˇ",
+        "ㄇㄧㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦙧"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "43DA",
+            "35112343"
+        ],
+        "char_code_wubi": "eitt",
+        "char_code_cangjie": "bfh",
+        "char_code_zhengma": "qkm",
+        "char_code_sijiao": "79220"
+    },
+    "general_unicode": "扩展A U+43DA",
+    "general_bs_code": "35112343"
+}

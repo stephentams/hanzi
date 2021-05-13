@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "still, yet; even; fairly, rather"
+        },
+        {
+            "language": "德语",
+            "explanation": "noch, dennoch  (V)​,berücksichtigen, respektieren  (V)​,schätzen, wertschätzen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "estimer,accorder de l'importance,considérer,encore"
+        }
+    ],
+    "general_pinyins": [
+        "shàng"
+    ],
+    "general_zhuyins": [
+        "ㄕㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "小",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "儻",
+        "尙"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5C1A",
+            "24325251"
+        ],
+        "char_code_wubi": "imkf",
+        "char_code_cangjie": "fbr",
+        "char_code_zhengma": "kold",
+        "char_code_sijiao": "90227"
+    },
+    "general_unicode": "基本区 U+5C1A",
+    "general_bs_code": "24325251"
+}

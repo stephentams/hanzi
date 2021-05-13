@@ -1,0 +1,28 @@
+{
+    "general_pinyins": [
+        "lì"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧ"
+    ],
+    "general_radical": {
+        "radical": "厂",
+        "non_radical_sn": "13",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "歷"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "20AB1",
+            "133123431234544"
+        ],
+        "char_code_wubi": "dttu",
+        "char_code_zhengma": "ggzt"
+    },
+    "general_unicode": "扩展B U+20AB1",
+    "general_bs_code": "133123431234544"
+}

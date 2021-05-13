@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "moat, trench, ditch"
+        },
+        {
+            "language": "德语",
+            "explanation": "ausheben, graben ,Schützengraben  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "fossé,tranchée,douves"
+        }
+    ],
+    "general_pinyins": [
+        "háo"
+    ],
+    "general_zhuyins": [
+        "ㄏㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "14",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "壕"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6FE0",
+            "44141251451353334"
+        ],
+        "char_code_wubi": "iype",
+        "char_code_cangjie": "eyro",
+        "char_code_zhengma": "vswg",
+        "char_code_sijiao": "30132"
+    },
+    "general_unicode": "基本区 U+6FE0",
+    "general_bs_code": "44141251451353334"
+}

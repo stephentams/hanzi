@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "grave, tomb"
+        },
+        {
+            "language": "德语",
+            "explanation": "Begräbnis  (S)​,Grabmal, Grab  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tombe,tombeau"
+        }
+    ],
+    "general_pinyins": [
+        "mù"
+    ],
+    "general_zhuyins": [
+        "ㄇㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5893",
+            "1222511134121"
+        ],
+        "char_code_wubi": "ajdf",
+        "char_code_cangjie": "takg",
+        "char_code_zhengma": "ekgb",
+        "char_code_sijiao": "44104"
+    },
+    "general_unicode": "基本区 U+5893",
+    "general_bs_code": "1222511134121"
+}

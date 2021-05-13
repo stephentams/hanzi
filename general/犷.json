@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fierce, rude, uncivilized"
+        },
+        {
+            "language": "德语",
+            "explanation": "weit, breit, ausgedehnt  (Adv)"
+        }
+    ],
+    "general_pinyins": [
+        "guǎng"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "獷"
+    ],
+    "general_ytz": [
+        "獷",
+        "𤣊"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "72B7",
+            "353413"
+        ],
+        "char_code_wubi": "qtyt|qtot",
+        "char_code_cangjie": "khi",
+        "char_code_zhengma": "qmtg",
+        "char_code_sijiao": "40200"
+    },
+    "general_unicode": "基本区 U+72B7",
+    "general_bs_code": "353413"
+}

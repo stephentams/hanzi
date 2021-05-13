@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "if"
+        },
+        {
+            "language": "德语",
+            "explanation": "ob, sofern ,unerwartet"
+        },
+        {
+            "language": "法语",
+            "explanation": "vaste,peut-être,si"
+        }
+    ],
+    "general_pinyins": [
+        "tǎng"
+    ],
+    "general_zhuyins": [
+        "ㄊㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "20",
+        "total_sn": "22"
+    },
+    "general_stc": [
+        "傥"
+    ],
+    "general_ytz": [
+        "傥",
+        "尚",
+        "黨",
+        "躺",
+        "尙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "513B",
+            "3224345251254312114444"
+        ],
+        "char_code_wubi": "wipo",
+        "char_code_cangjie": "ofbf",
+        "char_code_zhengma": "nkbu",
+        "char_code_sijiao": "29231"
+    },
+    "general_unicode": "基本区 U+513B",
+    "general_bs_code": "3224345251254312114444"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to bring up; to raise"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufziehen, pflegen ,tragen, halten"
+        },
+        {
+            "language": "法语",
+            "explanation": "encourager,supporter"
+        }
+    ],
+    "general_pinyins": [
+        "xù",
+        "chù"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩˋ",
+        "ㄔㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "槒"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6149",
+            "4424155425121"
+        ],
+        "char_code_wubi": "nyxl",
+        "char_code_cangjie": "pyvw",
+        "char_code_zhengma": "uszk",
+        "char_code_sijiao": "90063"
+    },
+    "general_unicode": "基本区 U+6149",
+    "general_bs_code": "4424155425121"
+}

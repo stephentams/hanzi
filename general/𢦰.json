@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "yuè"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "戈",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "右上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "229B0",
+            "112121534"
+        ],
+        "char_code_wubi": "gahd",
+        "char_code_cangjie": "miylm",
+        "char_code_zhengma": "ahii"
+    },
+    "general_unicode": "扩展B U+229B0",
+    "general_bs_code": "112121534"
+}

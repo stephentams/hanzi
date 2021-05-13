@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "corridor, porch, veranda"
+        },
+        {
+            "language": "德语",
+            "explanation": "Durchgang, Passage, Korridor  (S)​,Eingangsterasse, Vorhalle, Veranda  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "corridor,galerie"
+        }
+    ],
+    "general_pinyins": [
+        "láng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "广",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "廊"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5ECA",
+            "41345115452"
+        ],
+        "char_code_wubi": "yyvb|oyvb",
+        "char_code_cangjie": "iiil",
+        "char_code_zhengma": "tgxy",
+        "char_code_sijiao": "00227"
+    },
+    "general_unicode": "基本区 U+5ECA",
+    "general_bs_code": "41345115452"
+}

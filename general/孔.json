@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "opening, hole, orifice; great"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bohrung, Loch  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "trou,ouverture"
+        }
+    ],
+    "general_pinyins": [
+        "kǒng"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "子",
+        "non_radical_sn": "1",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "空",
+        "𡤿"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5B54",
+            "5215"
+        ],
+        "char_code_wubi": "bnn",
+        "char_code_cangjie": "ndu",
+        "char_code_zhengma": "yaz",
+        "char_code_sijiao": "12410"
+    },
+    "general_unicode": "基本区 U+5B54",
+    "general_bs_code": "5215"
+}

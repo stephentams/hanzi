@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pick up, gather"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufnehmen, aufheben ,auswählen, küren"
+        },
+        {
+            "language": "法语",
+            "explanation": "recueillir"
+        }
+    ],
+    "general_pinyins": [
+        "zhí"
+    ],
+    "general_zhuyins": [
+        "ㄓˊ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "拓",
+        "摕"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "646D",
+            "12141312214444"
+        ],
+        "char_code_wubi": "ryao|roao",
+        "char_code_cangjie": "qitf",
+        "char_code_zhengma": "dteu",
+        "char_code_sijiao": "50037"
+    },
+    "general_unicode": "基本区 U+646D",
+    "general_bs_code": "12141312214444"
+}

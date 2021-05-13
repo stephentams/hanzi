@@ -1,0 +1,35 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "decoy"
+        }
+    ],
+    "general_pinyins": [
+        "yóu"
+    ],
+    "general_zhuyins": [
+        "ㄧㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "囗",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "囮"
+    ],
+    "general_structure": "全包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "21219",
+            "25325111544441"
+        ],
+        "char_code_wubi": "lwvo",
+        "char_code_cangjie": "whaf",
+        "char_code_zhengma": "jdrz"
+    },
+    "general_unicode": "扩展B U+21219",
+    "general_bs_code": "25325111544441"
+}

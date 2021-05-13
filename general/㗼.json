@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "eating or talking, moving of the mouth"
+        }
+    ],
+    "general_pinyins": [
+        "yè"
+    ],
+    "general_zhuyins": [
+        "ㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㱉",
+        "𡁖"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "35FC",
+            "2512243143111234"
+        ],
+        "char_code_wubi": "kogw|kouf",
+        "char_code_cangjie": "rtcd",
+        "char_code_zhengma": "jku",
+        "char_code_sijiao": "62095"
+    },
+    "general_unicode": "扩展A U+35FC",
+    "general_bs_code": "2512243143111234"
+}

@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(non-classical form of 廖) name of a small ancient State, a Chinese family name"
+        }
+    ],
+    "general_pinyins": [
+        "liào"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "广",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "廖"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "387B",
+            "41335352"
+        ],
+        "char_code_wubi": "yqtb|oqtb",
+        "char_code_cangjie": "ihhl",
+        "char_code_zhengma": "tgmy",
+        "char_code_sijiao": "00227"
+    },
+    "general_unicode": "扩展A U+387B",
+    "general_bs_code": "41335352"
+}

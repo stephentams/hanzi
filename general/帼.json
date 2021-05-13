@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "women's headgear; mourning cap"
+        },
+        {
+            "language": "德语",
+            "explanation": "fraulich, Femininum  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "coiffure féminine,cape de deuil portée par les femmes"
+        }
+    ],
+    "general_pinyins": [
+        "guó"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "巾",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "幗"
+    ],
+    "general_ytz": [
+        "幗",
+        "蔮"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5E3C",
+            "25225112141"
+        ],
+        "char_code_wubi": "mhly",
+        "char_code_cangjie": "lbwmi",
+        "char_code_zhengma": "lijc",
+        "char_code_sijiao": "46200"
+    },
+    "general_unicode": "基本区 U+5E3C",
+    "general_bs_code": "25225112141"
+}

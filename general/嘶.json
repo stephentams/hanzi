@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "neighing of a horse; gravel voiced, husky throated; (Cant.) to hiccough"
+        },
+        {
+            "language": "德语",
+            "explanation": "fauchen, zischen"
+        },
+        {
+            "language": "法语",
+            "explanation": "hennir"
+        }
+    ],
+    "general_pinyins": [
+        "sī"
+    ],
+    "general_zhuyins": [
+        "ㄙ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧬊",
+        "𦠭"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5636",
+            "251122111343312"
+        ],
+        "char_code_wubi": "kadr|kdwr",
+        "char_code_cangjie": "rtcl",
+        "char_code_zhengma": "jepd",
+        "char_code_sijiao": "62021"
+    },
+    "general_unicode": "基本区 U+5636",
+    "general_bs_code": "251122111343312"
+}

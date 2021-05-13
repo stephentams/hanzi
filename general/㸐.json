@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(an ancient form of 然) to burn; to light a fire"
+        }
+    ],
+    "general_pinyins": [
+        "rán"
+    ],
+    "general_zhuyins": [
+        "ㄖㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "19",
+        "total_sn": "23"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "然"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3E10",
+            "12212511134324111214444"
+        ],
+        "char_code_wubi": "akfo|akgo",
+        "char_code_cangjie": "tgf",
+        "char_code_zhengma": "eanu",
+        "char_code_sijiao": "40331"
+    },
+    "general_unicode": "扩展A U+3E10",
+    "general_bs_code": "12212511134324111214444"
+}

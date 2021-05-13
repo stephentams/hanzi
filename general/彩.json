@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hue, color; variegated colors"
+        },
+        {
+            "language": "德语",
+            "explanation": "bunt  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "coloré,peint,couleur,prix (de loterie)​,lot,acclamer"
+        }
+    ],
+    "general_pinyins": [
+        "cǎi"
+    ],
+    "general_zhuyins": [
+        "ㄘㄞˇ"
+    ],
+    "general_radical": {
+        "radical": "彡",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "啋",
+        "采",
+        "𣁝",
+        "𥝞",
+        "綵",
+        "彩"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F69",
+            "34431234333"
+        ],
+        "char_code_wubi": "eset",
+        "char_code_cangjie": "bdhhh",
+        "char_code_zhengma": "pvfp",
+        "char_code_sijiao": "22922"
+    },
+    "general_unicode": "基本区 U+5F69",
+    "general_bs_code": "34431234333"
+}

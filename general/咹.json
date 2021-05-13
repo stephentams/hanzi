@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(Cant.) sound of an automobile horn"
+        }
+    ],
+    "general_pinyins": [
+        "è",
+        "àn"
+    ],
+    "general_zhuyins": [
+        "ㄜˋ",
+        "ㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "54B9",
+            "251445531"
+        ],
+        "char_code_wubi": "kpvg",
+        "char_code_cangjie": "rjv",
+        "char_code_zhengma": "jwzm",
+        "char_code_sijiao": "63044"
+    },
+    "general_unicode": "基本区 U+54B9",
+    "general_bs_code": "251445531"
+}

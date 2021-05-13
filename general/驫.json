@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "horses"
+        }
+    ],
+    "general_pinyins": [
+        "biāo"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "馬",
+        "non_radical_sn": "20",
+        "total_sn": "30"
+    },
+    "general_stc": [
+        "骉"
+    ],
+    "general_ytz": [
+        "䮶",
+        "骉",
+        "𠫑"
+    ],
+    "general_structure": "品字结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A6B",
+            "121125444412112544441211254444"
+        ],
+        "char_code_wubi": "cccu|coco",
+        "char_code_cangjie": "sfsff",
+        "char_code_zhengma": "cucc",
+        "char_code_sijiao": "71327"
+    },
+    "general_unicode": "基本区 U+9A6B",
+    "general_bs_code": "121125444412112544441211254444"
+}

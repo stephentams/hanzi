@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "heave sigh, sigh"
+        },
+        {
+            "language": "德语",
+            "explanation": "säuseln"
+        },
+        {
+            "language": "法语",
+            "explanation": "soupirer"
+        }
+    ],
+    "general_pinyins": [
+        "kuì"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㕟",
+        "嘳",
+        "欳",
+        "𠣠",
+        "𠷝",
+        "𡃪",
+        "𢼾",
+        "𠿥",
+        "𠣱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "559F",
+            "251251212511"
+        ],
+        "char_code_wubi": "kleg",
+        "char_code_cangjie": "rwb",
+        "char_code_zhengma": "jkq",
+        "char_code_sijiao": "66027"
+    },
+    "general_unicode": "基本区 U+559F",
+    "general_bs_code": "251251212511"
+}

@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "type of elm"
+        }
+    ],
+    "general_pinyins": [
+        "jǔ"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩˇ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "16",
+        "total_sn": "20"
+    },
+    "general_stc": [
+        "榉"
+    ],
+    "general_ytz": [
+        "柜",
+        "椐",
+        "榉",
+        "𣟱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6AF8",
+            "12343211152511134112"
+        ],
+        "char_code_wubi": "swfh|segg",
+        "char_code_cangjie": "dhcq",
+        "char_code_zhengma": "fnob",
+        "char_code_sijiao": "47958"
+    },
+    "general_unicode": "基本区 U+6AF8",
+    "general_bs_code": "12343211152511134112"
+}

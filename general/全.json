@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "maintain, keep whole or intact"
+        },
+        {
+            "language": "德语",
+            "explanation": "alle, gesamt, jedes, komplett, vollständig  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "complètement,tout,complet"
+        }
+    ],
+    "general_pinyins": [
+        "quán"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "入",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "仝",
+        "𠓳",
+        "𠓴",
+        "痊",
+        "㒰",
+        "𠌆",
+        "全"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5168",
+            "341121"
+        ],
+        "char_code_wubi": "wgf",
+        "char_code_cangjie": "omg",
+        "char_code_zhengma": "odc",
+        "char_code_sijiao": "80104"
+    },
+    "general_unicode": "基本区 U+5168",
+    "general_bs_code": "341121"
+}

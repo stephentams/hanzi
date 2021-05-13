@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "conical cap worn during Zhou dynasty"
+        },
+        {
+            "language": "法语",
+            "explanation": "bonnet,petit chef militaire"
+        }
+    ],
+    "general_pinyins": [
+        "biàn"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "廾",
+        "non_radical_sn": "2",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "卞",
+        "㝸",
+        "覍",
+        "𠭛",
+        "𢍍",
+        "𢍘",
+        "𢍙",
+        "𥿋",
+        "麰",
+        "𡭪"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F01",
+            "54132"
+        ],
+        "char_code_wubi": "caj",
+        "char_code_cangjie": "it",
+        "char_code_zhengma": "zse",
+        "char_code_sijiao": "23440"
+    },
+    "general_unicode": "基本区 U+5F01",
+    "general_bs_code": "54132"
+}

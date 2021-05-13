@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "palate"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gaumen  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "jué"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "13",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "81C4",
+            "35112153151353334"
+        ],
+        "char_code_wubi": "ehae|ehge",
+        "char_code_cangjie": "bypo",
+        "char_code_zhengma": "qigq",
+        "char_code_sijiao": "71232"
+    },
+    "general_unicode": "基本区 U+81C4",
+    "general_bs_code": "35112153151353334"
+}

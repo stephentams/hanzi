@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "urgent"
+        },
+        {
+            "language": "法语",
+            "explanation": "occupé,pressé,découragé"
+        }
+    ],
+    "general_pinyins": [
+        "zǒng"
+    ],
+    "general_zhuyins": [
+        "ㄗㄨㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "傯"
+    ],
+    "general_ytz": [
+        "傯",
+        "𠏨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "506C",
+            "32353344544"
+        ],
+        "char_code_wubi": "wqrn",
+        "char_code_cangjie": "opkp",
+        "char_code_zhengma": "nrsw",
+        "char_code_sijiao": "27232"
+    },
+    "general_unicode": "基本区 U+506C",
+    "general_bs_code": "32353344544"
+}

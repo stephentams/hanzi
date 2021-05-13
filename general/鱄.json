@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "anchovy"
+        },
+        {
+            "language": "德语",
+            "explanation": "Zhuan  (Eig, Fam)"
+        }
+    ],
+    "general_pinyins": [
+        "zhuān"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨㄢ"
+    ],
+    "general_radical": {
+        "radical": "魚",
+        "non_radical_sn": "11",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧐕",
+        "𫚋"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9C44",
+            "3525121444412511214124"
+        ],
+        "char_code_wubi": "qogf",
+        "char_code_cangjie": "nfjii",
+        "char_code_zhengma": "rfds",
+        "char_code_sijiao": "25343"
+    },
+    "general_unicode": "基本区 U+9C44",
+    "general_bs_code": "3525121444412511214124"
+}

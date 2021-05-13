@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "breast, chest; undertake, bear"
+        },
+        {
+            "language": "德语",
+            "explanation": "entgegennehmen, erhalten"
+        },
+        {
+            "language": "法语",
+            "explanation": "poitrine,recevoir"
+        }
+    ],
+    "general_pinyins": [
+        "yīng"
+    ],
+    "general_zhuyins": [
+        "ㄧㄥ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "13",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𩪠",
+        "𦢻",
+        "𦢖"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "81BA",
+            "41332324111212511"
+        ],
+        "char_code_wubi": "ywwe|owwe",
+        "char_code_cangjie": "iogb",
+        "char_code_zhengma": "tgnq",
+        "char_code_sijiao": "00227"
+    },
+    "general_unicode": "基本区 U+81BA",
+    "general_bs_code": "41332324111212511"
+}

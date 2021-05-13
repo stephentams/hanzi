@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to worry; frivolous"
+        },
+        {
+            "language": "德语",
+            "explanation": "frivol, leichtsinnig"
+        },
+        {
+            "language": "法语",
+            "explanation": "frivole"
+        }
+    ],
+    "general_pinyins": [
+        "tiāo",
+        "yáo"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧㄠ",
+        "ㄧㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "愮"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "604C",
+            "442341534"
+        ],
+        "char_code_wubi": "niqn|nqiy",
+        "char_code_cangjie": "plmo",
+        "char_code_zhengma": "uvrd",
+        "char_code_sijiao": "92013"
+    },
+    "general_unicode": "基本区 U+604C",
+    "general_bs_code": "442341534"
+}

@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 刺) to pierce; to stab; to irritate; to hurt"
+        }
+    ],
+    "general_pinyins": [
+        "cí",
+        "cì"
+    ],
+    "general_zhuyins": [
+        "ㄘˊ",
+        "ㄘˋ"
+    ],
+    "general_radical": {
+        "radical": "刂",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "刺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "34E8",
+            "134343422"
+        ],
+        "char_code_wubi": "dwwj",
+        "char_code_cangjie": "koln",
+        "char_code_zhengma": "gdok",
+        "char_code_sijiao": "42800"
+    },
+    "general_unicode": "扩展A U+34E8",
+    "general_bs_code": "134343422"
+}

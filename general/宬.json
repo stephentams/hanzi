@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "archives; surname"
+        },
+        {
+            "language": "法语",
+            "explanation": "bibliothèque,entrepôts de livres"
+        }
+    ],
+    "general_pinyins": [
+        "chéng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "宀",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "窚",
+        "𡧿",
+        "𡩍"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5BAC",
+            "445135534"
+        ],
+        "char_code_wubi": "pdnt|pdnb",
+        "char_code_cangjie": "jihs",
+        "char_code_zhengma": "wdhy",
+        "char_code_sijiao": "30253"
+    },
+    "general_unicode": "基本区 U+5BAC",
+    "general_bs_code": "445135534"
+}

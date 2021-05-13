@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "breathe on; yawn; roar"
+        }
+    ],
+    "general_pinyins": [
+        "xǔ",
+        "hǒu",
+        "gòu"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩˇ",
+        "ㄏㄡˇ",
+        "ㄍㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "吼",
+        "咻",
+        "喣",
+        "𠯜",
+        "𠴁",
+        "雊"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5474",
+            "25135251"
+        ],
+        "char_code_wubi": "kqkg",
+        "char_code_cangjie": "rpr",
+        "char_code_zhengma": "jrj",
+        "char_code_sijiao": "67020"
+    },
+    "general_unicode": "基本区 U+5474",
+    "general_bs_code": "25135251"
+}

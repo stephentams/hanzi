@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "female of Chinese unicorn"
+        },
+        {
+            "language": "德语",
+            "explanation": "weibliches Einhorn"
+        },
+        {
+            "language": "法语",
+            "explanation": "licorne"
+        }
+    ],
+    "general_pinyins": [
+        "lín"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "鹿",
+        "non_radical_sn": "12",
+        "total_sn": "23"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "麐",
+        "𪊓",
+        "𪊭",
+        "𪊱",
+        "𪊲",
+        "𪊺",
+        "𪋲",
+        "𪋷",
+        "𪊙",
+        "麟"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E9F",
+            "41352211535431234354152"
+        ],
+        "char_code_wubi": "ynjh|oxxg",
+        "char_code_cangjie": "ipfdq",
+        "char_code_zhengma": "txrm",
+        "char_code_sijiao": "09259"
+    },
+    "general_unicode": "基本区 U+9E9F",
+    "general_bs_code": "41352211535431234354152"
+}

@@ -1,0 +1,30 @@
+{
+    "general_pinyins": [
+        "sī",
+        "xiàn"
+    ],
+    "general_zhuyins": [
+        "ㄙ"
+    ],
+    "general_radical": {
+        "radical": "雨",
+        "non_radical_sn": "17",
+        "total_sn": "25"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "霰"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "291B5",
+            "1452413435251214444431112"
+        ],
+        "char_code_wubi": "fqod",
+        "char_code_cangjie": "mbnfq",
+        "char_code_zhengma": "fvru"
+    },
+    "general_unicode": "扩展B U+291B5",
+    "general_bs_code": "1452413435251214444431112"
+}

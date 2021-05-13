@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "act with care, be cautious"
+        },
+        {
+            "language": "法语",
+            "explanation": "prudent,discret"
+        }
+    ],
+    "general_pinyins": [
+        "shèn"
+    ],
+    "general_zhuyins": [
+        "ㄕㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㥲",
+        "愼",
+        "昚",
+        "眘",
+        "𡴜",
+        "𦚉",
+        "𡸱",
+        "慎"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "614E",
+            "4421225111134"
+        ],
+        "char_code_wubi": "nfhw",
+        "char_code_cangjie": "pjbc",
+        "char_code_zhengma": "uelo",
+        "char_code_sijiao": "94081"
+    },
+    "general_unicode": "基本区 U+614E",
+    "general_bs_code": "4421225111134"
+}

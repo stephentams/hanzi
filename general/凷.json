@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dirt clod; piece"
+        }
+    ],
+    "general_pinyins": [
+        "kuài"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "凵",
+        "non_radical_sn": "3",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "塊",
+        "由"
+    ],
+    "general_structure": "下包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "51F7",
+            "12152"
+        ],
+        "char_code_wubi": "fbk",
+        "char_code_cangjie": "ug",
+        "char_code_zhengma": "bzi",
+        "char_code_sijiao": "22770"
+    },
+    "general_unicode": "基本区 U+51F7",
+    "general_bs_code": "12152"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "brotherly, respectful"
+        },
+        {
+            "language": "德语",
+            "explanation": "Achtung gegenüber dem älteren Bruder, harmonisches Verhältnis zwischen Brüdern  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "respect des aînés,joie"
+        }
+    ],
+    "general_pinyins": [
+        "tì"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "弟"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "608C",
+            "4424351523"
+        ],
+        "char_code_wubi": "nuxt",
+        "char_code_cangjie": "pcnh",
+        "char_code_zhengma": "uuyz",
+        "char_code_sijiao": "98027"
+    },
+    "general_unicode": "基本区 U+608C",
+    "general_bs_code": "4424351523"
+}

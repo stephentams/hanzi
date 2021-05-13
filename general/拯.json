@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "help, save, aid; lift, raise"
+        },
+        {
+            "language": "德语",
+            "explanation": "<雅geh> j-n erretten,  <宗 geh> j-n erlösen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "augmenter,aider,supporter,sauver,secourir"
+        }
+    ],
+    "general_pinyins": [
+        "zhěng"
+    ],
+    "general_zhuyins": [
+        "ㄓㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "丞",
+        "承",
+        "抍",
+        "撜",
+        "氶",
+        "𢫒",
+        "𢮋",
+        "𢫑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "62EF",
+            "121525341"
+        ],
+        "char_code_wubi": "rbig",
+        "char_code_cangjie": "qnem",
+        "char_code_zhengma": "dxka",
+        "char_code_sijiao": "57019"
+    },
+    "general_unicode": "基本区 U+62EF",
+    "general_bs_code": "121525341"
+}

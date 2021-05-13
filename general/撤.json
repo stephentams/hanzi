@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "omit; remove; withdraw"
+        },
+        {
+            "language": "德语",
+            "explanation": "entfernen, wegnehmen, zurücktreten  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "retirer,enlever,ramener en arrière,faire replier"
+        }
+    ],
+    "general_pinyins": [
+        "chè"
+    ],
+    "general_zhuyins": [
+        "ㄔㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "勶"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "64A4",
+            "121415425113134"
+        ],
+        "char_code_wubi": "ryct",
+        "char_code_cangjie": "qybk",
+        "char_code_zhengma": "dsqm",
+        "char_code_sijiao": "58040"
+    },
+    "general_unicode": "基本区 U+64A4",
+    "general_bs_code": "121415425113134"
+}

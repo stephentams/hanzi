@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "direct, guide, lead, conduct"
+        },
+        {
+            "language": "德语",
+            "explanation": "leiten, führen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "conduire (à)​,diriger (vers)​"
+        }
+    ],
+    "general_pinyins": [
+        "dǎo"
+    ],
+    "general_zhuyins": [
+        "ㄉㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "寸",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "導"
+    ],
+    "general_ytz": [
+        "導",
+        "𡭎",
+        "𡭑",
+        "𣜦",
+        "𧘄",
+        "𨗳"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5BFC",
+            "515124"
+        ],
+        "char_code_wubi": "nfu",
+        "char_code_cangjie": "rudi",
+        "char_code_zhengma": "yybd",
+        "char_code_sijiao": "77341"
+    },
+    "general_unicode": "基本区 U+5BFC",
+    "general_bs_code": "515124"
+}

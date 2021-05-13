@@ -1,0 +1,32 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "curtain, screen"
+        }
+    ],
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "巾",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㡘",
+        "𢅏"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "22156",
+            "252414315112234"
+        ],
+        "char_code_wubi": "mhuo",
+        "char_code_cangjie": "lbytc",
+        "char_code_zhengma": "limx"
+    },
+    "general_unicode": "扩展B U+22156",
+    "general_bs_code": "252414315112234"
+}

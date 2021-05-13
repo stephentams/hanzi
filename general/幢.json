@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "carriage curtain; sun screen"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fähnchen, Wimpel"
+        },
+        {
+            "language": "法语",
+            "explanation": "bannière"
+        }
+    ],
+    "general_pinyins": [
+        "chuáng",
+        "zhuàng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨㄤˊ",
+        "ㄓㄨㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "巾",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㡖",
+        "𣄛",
+        "𣄢"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5E62",
+            "252414312511211"
+        ],
+        "char_code_wubi": "mhuf",
+        "char_code_cangjie": "lbytg",
+        "char_code_zhengma": "likb",
+        "char_code_sijiao": "40215"
+    },
+    "general_unicode": "基本区 U+5E62",
+    "general_bs_code": "252414312511211"
+}

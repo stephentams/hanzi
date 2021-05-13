@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "皮",
+        "non_radical_sn": "12",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "孕"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "25028",
+            "53254251251115151"
+        ],
+        "char_code_wubi": "hcmg",
+        "char_code_cangjie": "derxu",
+        "char_code_zhengma": "xiwx"
+    },
+    "general_unicode": "扩展B U+25028",
+    "general_bs_code": "53254251251115151"
+}

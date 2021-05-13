@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "go out"
+        }
+    ],
+    "general_pinyins": [
+        "chū"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "出"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5C80",
+            "252252"
+        ],
+        "char_code_wubi": "mmj|bmk",
+        "char_code_cangjie": "uu",
+        "char_code_zhengma": "llll",
+        "char_code_sijiao": "22772"
+    },
+    "general_unicode": "基本区 U+5C80",
+    "general_bs_code": "252252"
+}

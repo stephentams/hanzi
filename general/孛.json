@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "comet"
+        },
+        {
+            "language": "德语",
+            "explanation": "Komet  (S)​,Bei  (Eig, Fam)​,Komet  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "comète rayonnant dans toutes les directions"
+        }
+    ],
+    "general_pinyins": [
+        "bèi"
+    ],
+    "general_zhuyins": [
+        "ㄅㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "子",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "勃",
+        "𡥇",
+        "𡥞",
+        "悖"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5B5B",
+            "1245521"
+        ],
+        "char_code_wubi": "fpbf",
+        "char_code_cangjie": "jbnd",
+        "char_code_zhengma": "edwy",
+        "char_code_sijiao": "40407"
+    },
+    "general_unicode": "基本区 U+5B5B",
+    "general_bs_code": "1245521"
+}

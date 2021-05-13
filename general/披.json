@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wear; split; crack"
+        },
+        {
+            "language": "德语",
+            "explanation": "etwas als Aushängeschild brauchen ,überwerfen  (V)​,bersten  (V)​,umhängen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "se draper,dérouler,se fendre"
+        }
+    ],
+    "general_pinyins": [
+        "pī"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "翍",
+        "𤿎",
+        "𤿐",
+        "㩺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "62AB",
+            "12153254"
+        ],
+        "char_code_wubi": "rhcy|rby",
+        "char_code_cangjie": "qdhe",
+        "char_code_zhengma": "dxi",
+        "char_code_sijiao": "54047"
+    },
+    "general_unicode": "基本区 U+62AB",
+    "general_bs_code": "12153254"
+}

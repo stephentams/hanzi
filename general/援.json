@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "aid, assist; lead; cite"
+        },
+        {
+            "language": "德语",
+            "explanation": "anführen, zitieren  (V)​,etw. halten, ein Stift halten, seine Hände austrecken  (V)​,helfen, assistieren, unterstützen, jdm. Beistand leisten  (V)​,sich mit seinen Händen nach oben ziehen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tenir,secourir,aider,citer"
+        }
+    ],
+    "general_pinyins": [
+        "yuán"
+    ],
+    "general_zhuyins": [
+        "ㄩㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "愋",
+        "爰",
+        "𠋠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "63F4",
+            "121344311354"
+        ],
+        "char_code_wubi": "refc|regc",
+        "char_code_cangjie": "qbme",
+        "char_code_zhengma": "dpgx",
+        "char_code_sijiao": "52047"
+    },
+    "general_unicode": "基本区 U+63F4",
+    "general_bs_code": "121344311354"
+}

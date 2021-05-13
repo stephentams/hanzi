@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(ancient form of 兩) two, a pair; a couple; both"
+        }
+    ],
+    "general_pinyins": [
+        "liǎng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "人",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "兩"
+    ],
+    "general_structure": "嵌套结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "34B3",
+            "2523434"
+        ],
+        "char_code_wubi": "mhty",
+        "char_code_cangjie": "bloo",
+        "char_code_zhengma": "ldoo",
+        "char_code_sijiao": "77220"
+    },
+    "general_unicode": "扩展A U+34B3",
+    "general_bs_code": "2523434"
+}

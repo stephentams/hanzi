@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "leap; to jump; to spurt out"
+        },
+        {
+            "language": "德语",
+            "explanation": "in die Höhe schnellen; hinaufspringen"
+        },
+        {
+            "language": "法语",
+            "explanation": "bondir,sauter"
+        }
+    ],
+    "general_pinyins": [
+        "cuān"
+    ],
+    "general_zhuyins": [
+        "ㄘㄨㄢ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "12",
+        "total_sn": "19"
+    },
+    "general_stc": [
+        "躥"
+    ],
+    "general_ytz": [
+        "躥"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E7F",
+            "2512121445342512512"
+        ],
+        "char_code_wubi": "khph",
+        "char_code_cangjie": "rmjcl",
+        "char_code_zhengma": "jiji",
+        "char_code_sijiao": "63156"
+    },
+    "general_unicode": "基本区 U+8E7F",
+    "general_bs_code": "2512121445342512512"
+}

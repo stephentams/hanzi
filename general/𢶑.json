@@ -1,0 +1,35 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as U+22E23 𢸣) to select, pick"
+        }
+    ],
+    "general_pinyins": [
+        "niǎo"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢸣"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "22D91",
+            "1213251115413534"
+        ],
+        "char_code_wubi": "rwve",
+        "char_code_cangjie": "qhav",
+        "char_code_zhengma": "drsr"
+    },
+    "general_unicode": "扩展B U+22D91",
+    "general_bs_code": "1213251115413534"
+}

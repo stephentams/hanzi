@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "suck"
+        },
+        {
+            "language": "德语",
+            "explanation": "aussaugen, saugen"
+        },
+        {
+            "language": "法语",
+            "explanation": "sucer"
+        }
+    ],
+    "general_pinyins": [
+        "suō"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨㄛ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "瑣"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "55E6",
+            "2511245554234"
+        ],
+        "char_code_wubi": "kfpi",
+        "char_code_cangjie": "rjbf",
+        "char_code_zhengma": "jewz",
+        "char_code_sijiao": "64093"
+    },
+    "general_unicode": "基本区 U+55E6",
+    "general_bs_code": "2511245554234"
+}

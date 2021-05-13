@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "correspondence; a case; a box"
+        },
+        {
+            "language": "德语",
+            "explanation": "Briefumschlag, Umschlag, Kuvert, Briefkuvert  (S)​,Schreiben, Brief  (S)​,Han  (Eig, Fam)"
+        }
+    ],
+    "general_pinyins": [
+        "hán"
+    ],
+    "general_zhuyins": [
+        "ㄏㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "凵",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䤴",
+        "㮀",
+        "凾",
+        "圅",
+        "椷",
+        "肣",
+        "𠚗",
+        "𦜆",
+        "𦞞",
+        "𦥖"
+    ],
+    "general_structure": "下包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "51FD",
+            "52413452"
+        ],
+        "char_code_wubi": "bibk",
+        "char_code_cangjie": "une",
+        "char_code_zhengma": "xkzi",
+        "char_code_sijiao": "17772"
+    },
+    "general_unicode": "基本区 U+51FD",
+    "general_bs_code": "52413452"
+}

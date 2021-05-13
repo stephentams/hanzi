@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to beat, (same as 柬 揀)to select; to choose"
+        }
+    ],
+    "general_pinyins": [
+        "liàn"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "攴",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "揀",
+        "柬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3A9D",
+            "1254312342154"
+        ],
+        "char_code_wubi": "glic|slhc",
+        "char_code_cangjie": "dwye",
+        "char_code_zhengma": "flix",
+        "char_code_sijiao": "51947"
+    },
+    "general_unicode": "扩展A U+3A9D",
+    "general_bs_code": "1254312342154"
+}

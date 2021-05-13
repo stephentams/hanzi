@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "weak, lean, emaciated, exhausted"
+        },
+        {
+            "language": "德语",
+            "explanation": "mager, hager"
+        },
+        {
+            "language": "法语",
+            "explanation": "ruiné"
+        }
+    ],
+    "general_pinyins": [
+        "léi"
+    ],
+    "general_zhuyins": [
+        "ㄌㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "羊",
+        "non_radical_sn": "13",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦣉",
+        "𦣄",
+        "𤼘",
+        "𦏝"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7FB8",
+            "4152513511431112354"
+        ],
+        "char_code_wubi": "ynky|yeuy",
+        "char_code_cangjie": "yntq",
+        "char_code_zhengma": "shuq",
+        "char_code_sijiao": "00217"
+    },
+    "general_unicode": "基本区 U+7FB8",
+    "general_bs_code": "4152513511431112354"
+}

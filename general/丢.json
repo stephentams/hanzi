@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "discard"
+        },
+        {
+            "language": "德语",
+            "explanation": "verliert etwas, etwas geht verloren  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "perdre,lancer,jeter,abandonner,laisser"
+        }
+    ],
+    "general_pinyins": [
+        "diū"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧㄡ"
+    ],
+    "general_radical": {
+        "radical": "丿",
+        "non_radical_sn": "5",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "丟"
+    ],
+    "general_ytz": [
+        "丟"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4E22",
+            "312154"
+        ],
+        "char_code_wubi": "tfcu",
+        "char_code_cangjie": "hgi",
+        "char_code_zhengma": "mbzs",
+        "char_code_sijiao": "20732"
+    },
+    "general_unicode": "基本区 U+4E22",
+    "general_bs_code": "312154"
+}

@@ -1,0 +1,29 @@
+{
+    "general_pinyins": [
+        "mán",
+        "mián"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "長",
+        "non_radical_sn": "14",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䰓",
+        "鬘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "28CBE",
+            "1211154325111445354153"
+        ],
+        "char_code_wubi": "dthy",
+        "char_code_cangjie": "sihus",
+        "char_code_zhengma": "chws"
+    },
+    "general_unicode": "扩展B U+28CBE",
+    "general_bs_code": "1211154325111445354153"
+}

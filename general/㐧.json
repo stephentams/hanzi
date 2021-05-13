@@ -1,0 +1,30 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(J) non-standard form of 第 U+7B2C, sequence, number; grade, degree"
+        }
+    ],
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "乙",
+        "non_radical_sn": "3",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "单体结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3427",
+            "4523"
+        ],
+        "char_code_wubi": "ynht",
+        "char_code_cangjie": "innh",
+        "char_code_zhengma": "sxim",
+        "char_code_sijiao": "34202"
+    },
+    "general_unicode": "扩展A U+3427",
+    "general_bs_code": "4523"
+}

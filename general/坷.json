@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "clod of earth, lump of soil"
+        },
+        {
+            "language": "德语",
+            "explanation": "uneben, ungleichmäßig ,unglückselig, misslich"
+        },
+        {
+            "language": "法语",
+            "explanation": "inégal (chemin)​,malheureux (dans la vie)​"
+        }
+    ],
+    "general_pinyins": [
+        "kē",
+        "kě"
+    ],
+    "general_zhuyins": [
+        "ㄎㄜ",
+        "ㄎㄜˇ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5777",
+            "12112512"
+        ],
+        "char_code_wubi": "fskg",
+        "char_code_cangjie": "gmnr",
+        "char_code_zhengma": "baj",
+        "char_code_sijiao": "41120"
+    },
+    "general_unicode": "基本区 U+5777",
+    "general_bs_code": "12112512"
+}

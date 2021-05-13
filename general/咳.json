@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cough"
+        },
+        {
+            "language": "德语",
+            "explanation": "husten, Husten  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tousser,toux,(onom.)​ soupir"
+        }
+    ],
+    "general_pinyins": [
+        "ké",
+        "hāi"
+    ],
+    "general_zhuyins": [
+        "ㄎㄜˊ",
+        "ㄏㄞ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "孩",
+        "欬",
+        "𠹛",
+        "𠺡"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "54B3",
+            "251415334"
+        ],
+        "char_code_wubi": "kynw",
+        "char_code_cangjie": "ryvo",
+        "char_code_zhengma": "jszo",
+        "char_code_sijiao": "60082"
+    },
+    "general_unicode": "基本区 U+54B3",
+    "general_bs_code": "251415334"
+}

@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a kind of bird, a flying young bird"
+        }
+    ],
+    "general_pinyins": [
+        "dá",
+        "tà"
+    ],
+    "general_zhuyins": [
+        "ㄉㄚˊ",
+        "ㄊㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "鳥",
+        "non_radical_sn": "10",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4CF4",
+            "252212334432511154444"
+        ],
+        "char_code_wubi": "liwo|liqo",
+        "char_code_cangjie": "wehaf",
+        "char_code_zhengma": "lkkr",
+        "char_code_sijiao": "67927"
+    },
+    "general_unicode": "扩展A U+4CF4",
+    "general_bs_code": "252212334432511154444"
+}

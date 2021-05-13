@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "long necked jar or bottle"
+        },
+        {
+            "language": "德语",
+            "explanation": "Amphore, Tongefäß mit kleiner Öffnung  (S)​,Opiummohn  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "jarre,bouteille"
+        }
+    ],
+    "general_pinyins": [
+        "yīng"
+    ],
+    "general_zhuyins": [
+        "ㄧㄥ"
+    ],
+    "general_radical": {
+        "radical": "缶",
+        "non_radical_sn": "14",
+        "total_sn": "20"
+    },
+    "general_stc": [
+        "罂"
+    ],
+    "general_ytz": [
+        "甇",
+        "甖",
+        "罂",
+        "罃",
+        "𤫡",
+        "𦉍",
+        "𦉦",
+        "𧶹"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F4C",
+            "25111342511134311252"
+        ],
+        "char_code_wubi": "mmrm|mmtb",
+        "char_code_cangjie": "bcoju",
+        "char_code_zhengma": "loez",
+        "char_code_sijiao": "66772"
+    },
+    "general_unicode": "基本区 U+7F4C",
+    "general_bs_code": "25111342511134311252"
+}

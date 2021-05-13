@@ -1,0 +1,55 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "right, proper, correct"
+        },
+        {
+            "language": "德语",
+            "explanation": "(jetzt)​ gerade, hauptsächlich, echt  (Adj)​,aufrecht  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "premier mois de l'année lunaire,droit,positif,correct,justement,précisément"
+        }
+    ],
+    "general_pinyins": [
+        "zhèng",
+        "zhēng"
+    ],
+    "general_zhuyins": [
+        "ㄓㄥˋ",
+        "ㄓㄥ"
+    ],
+    "general_radical": {
+        "radical": "止",
+        "non_radical_sn": "1",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "政",
+        "㱏",
+        "𠤭",
+        "𣥔",
+        "𤴓",
+        "𧾸",
+        "靕",
+        "𠙺",
+        "𢘫",
+        "𣥆"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6B63",
+            "12121"
+        ],
+        "char_code_wubi": "ghd",
+        "char_code_cangjie": "mylm",
+        "char_code_zhengma": "aii",
+        "char_code_sijiao": "10101"
+    },
+    "general_unicode": "基本区 U+6B63",
+    "general_bs_code": "12121"
+}

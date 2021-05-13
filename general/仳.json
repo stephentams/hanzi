@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "separate, part company"
+        },
+        {
+            "language": "德语",
+            "explanation": "trennen, lösen"
+        },
+        {
+            "language": "法语",
+            "explanation": "séparer,se quitter"
+        }
+    ],
+    "general_pinyins": [
+        "pǐ",
+        "pí"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧˇ",
+        "ㄆㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "倠",
+        "㑭"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4EF3",
+            "321535"
+        ],
+        "char_code_wubi": "wxxn",
+        "char_code_cangjie": "opp",
+        "char_code_zhengma": "nrrr",
+        "char_code_sijiao": "22210"
+    },
+    "general_unicode": "基本区 U+4EF3",
+    "general_bs_code": "321535"
+}

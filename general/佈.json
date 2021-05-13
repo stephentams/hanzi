@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "spread, publicize, announce"
+        }
+    ],
+    "general_pinyins": [
+        "bù"
+    ],
+    "general_zhuyins": [
+        "ㄅㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "尃",
+        "布"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4F48",
+            "3213252"
+        ],
+        "char_code_wubi": "wdmh",
+        "char_code_cangjie": "oklb",
+        "char_code_zhengma": "ngli",
+        "char_code_sijiao": "24227"
+    },
+    "general_unicode": "基本区 U+4F48",
+    "general_bs_code": "3213252"
+}

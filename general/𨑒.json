@@ -1,0 +1,35 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a disciple"
+        }
+    ],
+    "general_pinyins": [
+        "tú"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "徒"
+    ],
+    "general_structure": "左下包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "28452",
+            "121454"
+        ],
+        "char_code_wubi": "fpd",
+        "char_code_cangjie": "yg",
+        "char_code_zhengma": "wbvv"
+    },
+    "general_unicode": "扩展B U+28452",
+    "general_bs_code": "121454"
+}

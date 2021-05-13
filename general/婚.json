@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "get married; marriage, wedding"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ehe  (S)​,heiraten  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "se marier,mariage"
+        }
+    ],
+    "general_pinyins": [
+        "hūn"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄣ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㛰",
+        "昏",
+        "𡕽",
+        "𡖀",
+        "𡝪",
+        "𤔿",
+        "𡕼"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5A5A",
+            "53135152511"
+        ],
+        "char_code_wubi": "vqaj",
+        "char_code_cangjie": "vhpa",
+        "char_code_zhengma": "zmrk",
+        "char_code_sijiao": "42464"
+    },
+    "general_unicode": "基本区 U+5A5A",
+    "general_bs_code": "53135152511"
+}

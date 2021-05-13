@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stupid; clumsy; (Cant.) to dirty, defile"
+        }
+    ],
+    "general_pinyins": [
+        "lǔn"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢘴",
+        "𢘵",
+        "𢚿"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "393B",
+            "35435244544"
+        ],
+        "char_code_wubi": "qytn",
+        "char_code_cangjie": "hlp",
+        "char_code_zhengma": "rhsw",
+        "char_code_sijiao": "77332"
+    },
+    "general_unicode": "扩展A U+393B",
+    "general_bs_code": "35435244544"
+}

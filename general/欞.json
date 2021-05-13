@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "the lattice of a window a sill, a lintel"
+        },
+        {
+            "language": "法语",
+            "explanation": "barres transversales (fenêtres treillis...)​"
+        }
+    ],
+    "general_pinyins": [
+        "líng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "24",
+        "total_sn": "28"
+    },
+    "general_stc": [
+        "棂"
+    ],
+    "general_ytz": [
+        "櫺",
+        "棂"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6B1E",
+            "1234145244442512512511234341"
+        ],
+        "char_code_wubi": "sfkw",
+        "char_code_cangjie": "dmbo",
+        "char_code_zhengma": "ffoo",
+        "char_code_sijiao": "41918"
+    },
+    "general_unicode": "基本区 U+6B1E",
+    "general_bs_code": "1234145244442512512511234341"
+}

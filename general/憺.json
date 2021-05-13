@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "peace"
+        },
+        {
+            "language": "德语",
+            "explanation": "Frieden, Friede  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "paix"
+        }
+    ],
+    "general_pinyins": [
+        "dàn"
+    ],
+    "general_zhuyins": [
+        "ㄉㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "61BA",
+            "4423513344111251"
+        ],
+        "char_code_wubi": "nqdy",
+        "char_code_cangjie": "pncr",
+        "char_code_zhengma": "uros",
+        "char_code_sijiao": "97061"
+    },
+    "general_unicode": "基本区 U+61BA",
+    "general_bs_code": "4423513344111251"
+}

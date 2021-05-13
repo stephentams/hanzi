@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "turban, kerchief, veil; wrap"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schnupftuch, Taschentuch  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "mouchoir"
+        }
+    ],
+    "general_pinyins": [
+        "pà"
+    ],
+    "general_zhuyins": [
+        "ㄆㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "巾",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "帊"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5E15",
+            "25232511"
+        ],
+        "char_code_wubi": "mhrg",
+        "char_code_cangjie": "lbha",
+        "char_code_zhengma": "link",
+        "char_code_sijiao": "46202"
+    },
+    "general_unicode": "基本区 U+5E15",
+    "general_bs_code": "25232511"
+}

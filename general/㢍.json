@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a long verabdah; a long porch"
+        }
+    ],
+    "general_pinyins": [
+        "yíng",
+        "yǐng"
+    ],
+    "general_zhuyins": [
+        "ㄧㄥˊ",
+        "ㄧㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "广",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "388D",
+            "41312225134"
+        ],
+        "char_code_wubi": "yamd|oamd",
+        "char_code_cangjie": "itlk",
+        "char_code_zhengma": "tglg",
+        "char_code_sijiao": "00285"
+    },
+    "general_unicode": "扩展A U+388D",
+    "general_bs_code": "41312225134"
+}

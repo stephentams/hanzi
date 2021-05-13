@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "public opinion, (same as U+8A1F 訟) to go to law, to dispute, to demand justice; (Cant.) classifier for ears of corn"
+        }
+    ],
+    "general_pinyins": [
+        "sòng"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "訟"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "356C",
+            "2513454"
+        ],
+        "char_code_wubi": "kwcy",
+        "char_code_cangjie": "rci",
+        "char_code_zhengma": "jozs",
+        "char_code_sijiao": "68032"
+    },
+    "general_unicode": "扩展A U+356C",
+    "general_bs_code": "2513454"
+}

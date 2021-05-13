@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to obstruct"
+        },
+        {
+            "language": "德语",
+            "explanation": "pfropfen, zustopfen"
+        },
+        {
+            "language": "法语",
+            "explanation": "obstruer,fermer"
+        }
+    ],
+    "general_pinyins": [
+        "yōng"
+    ],
+    "general_zhuyins": [
+        "ㄩㄥ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㙲",
+        "㽫",
+        "𡓱",
+        "𡔏",
+        "𢋊"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "58C5",
+            "4155332411121121"
+        ],
+        "char_code_wubi": "yxtf",
+        "char_code_cangjie": "yvgg",
+        "char_code_zhengma": "sznb",
+        "char_code_sijiao": "00104"
+    },
+    "general_unicode": "基本区 U+58C5",
+    "general_bs_code": "4155332411121121"
+}

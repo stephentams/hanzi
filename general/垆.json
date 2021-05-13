@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "black clods of earth; shop, hut"
+        },
+        {
+            "language": "德语",
+            "explanation": "tönern  (S)​,Lehm  (S)​,Ofen, Herd  (S)​,Zählwort: eine Beschickung, eine Charge, ein offenvoll  (Zähl)"
+        }
+    ],
+    "general_pinyins": [
+        "lú"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "壚"
+    ],
+    "general_ytz": [
+        "壚",
+        "罏",
+        "𡉴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5786",
+            "12121513"
+        ],
+        "char_code_wubi": "fhnt",
+        "char_code_cangjie": "gys",
+        "char_code_zhengma": "bixm",
+        "char_code_sijiao": "41107"
+    },
+    "general_unicode": "基本区 U+5786",
+    "general_bs_code": "12121513"
+}

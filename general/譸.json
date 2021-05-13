@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "deceive, cheat; hurried, bustling"
+        },
+        {
+            "language": "德语",
+            "explanation": "betrügen, täuschen ,lügen, liegen"
+        },
+        {
+            "language": "法语",
+            "explanation": "Tromper,mentir,(lit.)​ jurer,tromper,mentir"
+        }
+    ],
+    "general_pinyins": [
+        "zhōu"
+    ],
+    "general_zhuyins": [
+        "ㄓㄡ"
+    ],
+    "general_radical": {
+        "radical": "言",
+        "non_radical_sn": "14",
+        "total_sn": "21"
+    },
+    "general_stc": [
+        "诪"
+    ],
+    "general_ytz": [
+        "㿧",
+        "侜",
+        "嚋",
+        "诪",
+        "𡃮",
+        "𡆓",
+        "𧪀"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8B78",
+            "411125112151211251124"
+        ],
+        "char_code_wubi": "yfnf",
+        "char_code_cangjie": "yrgni",
+        "char_code_zhengma": "sbjd",
+        "char_code_sijiao": "04641"
+    },
+    "general_unicode": "基本区 U+8B78",
+    "general_bs_code": "411125112151211251124"
+}

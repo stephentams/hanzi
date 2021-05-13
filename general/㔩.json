@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hair ornments used in old time"
+        }
+    ],
+    "general_pinyins": [
+        "è"
+    ],
+    "general_zhuyins": [
+        "ㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "勹",
+        "non_radical_sn": "10",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠤅",
+        "𩇠"
+    ],
+    "general_structure": "右上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3529",
+            "351215425221"
+        ],
+        "char_code_wubi": "qfcl",
+        "char_code_cangjie": "pgit",
+        "char_code_zhengma": "ryzl",
+        "char_code_sijiao": "27120"
+    },
+    "general_unicode": "扩展A U+3529",
+    "general_bs_code": "351215425221"
+}

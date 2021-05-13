@@ -1,0 +1,28 @@
+{
+    "general_pinyins": [
+        "yà",
+        "mǒ"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "二",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "亞"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2012E",
+            "15545541"
+        ],
+        "char_code_wubi": "gxxg",
+        "char_code_cangjie": "mvim",
+        "char_code_zhengma": "bdzz"
+    },
+    "general_unicode": "扩展B U+2012E",
+    "general_bs_code": "15545541"
+}

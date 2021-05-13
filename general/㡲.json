@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tiles (laid upside down) on a roof, ropes, to hold fast"
+        }
+    ],
+    "general_pinyins": [
+        "huán"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "广",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3872",
+            "4131534"
+        ],
+        "char_code_wubi": "yae|oai",
+        "char_code_cangjie": "ii",
+        "char_code_zhengma": "tghm",
+        "char_code_sijiao": "00253"
+    },
+    "general_unicode": "扩展A U+3872",
+    "general_bs_code": "4131534"
+}

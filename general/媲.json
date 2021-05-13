@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "marry off, pair, match; compare"
+        },
+        {
+            "language": "德语",
+            "explanation": "anpassen, angleichen"
+        },
+        {
+            "language": "法语",
+            "explanation": "égaler,rivaliser avec"
+        }
+    ],
+    "general_pinyins": [
+        "pì"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "嫓",
+        "𡠌"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5AB2",
+            "5313253411535"
+        ],
+        "char_code_wubi": "vtlx",
+        "char_code_cangjie": "vhwp",
+        "char_code_zhengma": "zmrr",
+        "char_code_sijiao": "46412"
+    },
+    "general_unicode": "基本区 U+5AB2",
+    "general_bs_code": "5313253411535"
+}

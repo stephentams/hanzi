@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "ài"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "尸",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "21C3D",
+            "5131354"
+        ],
+        "char_code_wubi": "ndnv",
+        "char_code_cangjie": "siku",
+        "char_code_zhengma": "xmgr"
+    },
+    "general_unicode": "扩展B U+21C3D",
+    "general_bs_code": "5131354"
+}

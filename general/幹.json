@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "trunk of tree or of human body"
+        },
+        {
+            "language": "法语",
+            "explanation": "traiter,faire,capable,tronc d'arbre"
+        }
+    ],
+    "general_pinyins": [
+        "gàn"
+    ],
+    "general_zhuyins": [
+        "ㄍㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "干",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "干"
+    ],
+    "general_ytz": [
+        "干",
+        "榦",
+        "𠧄",
+        "龫"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5E79",
+            "1225111234112"
+        ],
+        "char_code_wubi": "fjwf",
+        "char_code_cangjie": "jjomj",
+        "char_code_zhengma": "edae",
+        "char_code_sijiao": "48441"
+    },
+    "general_unicode": "基本区 U+5E79",
+    "general_bs_code": "1225111234112"
+}

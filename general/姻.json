@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "relatives by marriage"
+        },
+        {
+            "language": "德语",
+            "explanation": "Verwandschaft (angeheiratet)​, Verwandschaft des Ehegatten, Heirat"
+        }
+    ],
+    "general_pinyins": [
+        "yīn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄣ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "婣",
+        "𡛸",
+        "𡜭",
+        "𤯠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "59FB",
+            "531251341"
+        ],
+        "char_code_wubi": "vldy",
+        "char_code_cangjie": "vwk",
+        "char_code_zhengma": "zmjd",
+        "char_code_sijiao": "46400"
+    },
+    "general_unicode": "基本区 U+59FB",
+    "general_bs_code": "531251341"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "level, rank, class; grade"
+        },
+        {
+            "language": "德语",
+            "explanation": "Klasse, Stufe, Ebene, Niveau  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "marche,étage,niveau,échelon,classe,promotion"
+        }
+    ],
+    "general_pinyins": [
+        "jí"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "級"
+    ],
+    "general_ytz": [
+        "級",
+        "𨸚"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EA7",
+            "551354"
+        ],
+        "char_code_wubi": "xeyy|xbyy",
+        "char_code_cangjie": "vmnhe",
+        "char_code_zhengma": "zyms",
+        "char_code_sijiao": "27147"
+    },
+    "general_unicode": "基本区 U+7EA7",
+    "general_bs_code": "551354"
+}

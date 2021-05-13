@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wide, spacious, great, vast"
+        },
+        {
+            "language": "德语",
+            "explanation": "makro-  (Adj)​,riesig, geräumig  (Adj)​,Hong  (Eig)"
+        },
+        {
+            "language": "法语",
+            "explanation": "grand,vaste"
+        }
+    ],
+    "general_pinyins": [
+        "hóng"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "宀",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䆖",
+        "厷",
+        "吰",
+        "宖",
+        "𥥈"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5B8F",
+            "4451354"
+        ],
+        "char_code_wubi": "pdcu",
+        "char_code_cangjie": "jki",
+        "char_code_zhengma": "wdgz",
+        "char_code_sijiao": "30732"
+    },
+    "general_unicode": "基本区 U+5B8F",
+    "general_bs_code": "4451354"
+}

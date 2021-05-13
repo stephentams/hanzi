@@ -1,0 +1,61 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "proof, evidence; testify, verify"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bestätigung  (S)​,bestätigen, demonstrieren, prüfen, zertifizieren  (V, Rechtsw)"
+        },
+        {
+            "language": "法语",
+            "explanation": "certificat,permis,papiers,prouver,attester,démontrer"
+        }
+    ],
+    "general_pinyins": [
+        "zhèng"
+    ],
+    "general_zhuyins": [
+        "ㄓㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "言",
+        "non_radical_sn": "12",
+        "total_sn": "19"
+    },
+    "general_stc": [
+        "证"
+    ],
+    "general_ytz": [
+        "症",
+        "䥌",
+        "䥭",
+        "証",
+        "证",
+        "𤪉",
+        "𦷘",
+        "𦹨",
+        "𧁅",
+        "𧁆",
+        "𨧭",
+        "𨨼",
+        "𨨾",
+        "𨪔",
+        "𨭧",
+        "𨭻"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8B49",
+            "4111251543341251431"
+        ],
+        "char_code_wubi": "ywgu",
+        "char_code_cangjie": "yrnot",
+        "char_code_zhengma": "sxju",
+        "char_code_sijiao": "02618"
+    },
+    "general_unicode": "基本区 U+8B49",
+    "general_bs_code": "4111251543341251431"
+}

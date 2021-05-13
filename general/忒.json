@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "excessive; too; very-usually of objectionable things; to err; to mistake; changeable"
+        },
+        {
+            "language": "德语",
+            "explanation": "abändern, ändern ,ausschließlich, ausschweifend ,Te  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "excès"
+        }
+    ],
+    "general_pinyins": [
+        "tè",
+        "tuī"
+    ],
+    "general_zhuyins": [
+        "ㄊㄜˋ",
+        "ㄊㄨㄟ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "3",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢘋"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5FD2",
+            "1454454"
+        ],
+        "char_code_wubi": "ani|anyi",
+        "char_code_cangjie": "xxipp",
+        "char_code_zhengma": "hswz",
+        "char_code_sijiao": "43300"
+    },
+    "general_unicode": "基本区 U+5FD2",
+    "general_bs_code": "1454454"
+}

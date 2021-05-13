@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ionium"
+        },
+        {
+            "language": "德语",
+            "explanation": "Einsteinium (Element 99, Es)​ 法语 ionium"
+        }
+    ],
+    "general_pinyins": [
+        "ài"
+    ],
+    "general_zhuyins": [
+        "ㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "釒",
+        "non_radical_sn": "13",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9440",
+            "341124313443454544354"
+        ],
+        "char_code_wubi": "qept",
+        "char_code_cangjie": "cbbe",
+        "char_code_zhengma": "ppwr",
+        "char_code_sijiao": "82147"
+    },
+    "general_unicode": "基本区 U+9440",
+    "general_bs_code": "341124313443454544354"
+}

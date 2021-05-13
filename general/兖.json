@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "establish; one of nine empire divisions"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ortsname  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "Yanzhou (diminutif)​"
+        }
+    ],
+    "general_pinyins": [
+        "yǎn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "亠",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "兗"
+    ],
+    "general_ytz": [
+        "兗"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5156",
+            "41345435"
+        ],
+        "char_code_wubi": "ucqb",
+        "char_code_cangjie": "ycihu",
+        "char_code_zhengma": "sozr",
+        "char_code_sijiao": "00212"
+    },
+    "general_unicode": "基本区 U+5156",
+    "general_bs_code": "41345435"
+}

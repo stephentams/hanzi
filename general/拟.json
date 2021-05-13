@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "draft; intend, plan, propose"
+        },
+        {
+            "language": "德语",
+            "explanation": "planen (V)​,vorhaben (V)​,nachmachen (V)​,vergleichen (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "élaborer,établir,avoir l'intention de faire qch"
+        }
+    ],
+    "general_pinyins": [
+        "nǐ"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "擬"
+    ],
+    "general_ytz": [
+        "擬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "62DF",
+            "1215434"
+        ],
+        "char_code_wubi": "rnyw",
+        "char_code_cangjie": "qvio",
+        "char_code_zhengma": "dzod",
+        "char_code_sijiao": "58000"
+    },
+    "general_unicode": "基本区 U+62DF",
+    "general_bs_code": "1215434"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hit, beat; smash, break"
+        },
+        {
+            "language": "德语",
+            "explanation": "verdreschen  (V)​,zerdeppern  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "battre,briser en morceaux"
+        }
+    ],
+    "general_pinyins": [
+        "zòu"
+    ],
+    "general_zhuyins": [
+        "ㄗㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "奏"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "63CD",
+            "121111341134"
+        ],
+        "char_code_wubi": "rdwd",
+        "char_code_cangjie": "qqkk",
+        "char_code_zhengma": "dcag",
+        "char_code_sijiao": "55084"
+    },
+    "general_unicode": "基本区 U+63CD",
+    "general_bs_code": "121111341134"
+}

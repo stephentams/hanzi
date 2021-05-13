@@ -1,0 +1,59 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "feudal title or rank"
+        },
+        {
+            "language": "德语",
+            "explanation": "Adelsfamilien, Adelsgeschlecht  (S)​,Adelsstand  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "titre de noblesse,rang"
+        }
+    ],
+    "general_pinyins": [
+        "jué"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "爫",
+        "non_radical_sn": "13",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠋓",
+        "𠕢",
+        "𠙘",
+        "𡬠",
+        "𡭌",
+        "𢋺",
+        "𣡫",
+        "𥥚",
+        "𥥼",
+        "𩰥",
+        "𩰦",
+        "𩰧",
+        "𩰨",
+        "𥧀",
+        "𩰣",
+        "爵"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7235",
+            "34432522151154124"
+        ],
+        "char_code_wubi": "elvf",
+        "char_code_cangjie": "bwli",
+        "char_code_zhengma": "pvxd",
+        "char_code_sijiao": "20746"
+    },
+    "general_unicode": "基本区 U+7235",
+    "general_bs_code": "34432522151154124"
+}

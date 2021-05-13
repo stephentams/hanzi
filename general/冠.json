@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cap, crown, headgear"
+        },
+        {
+            "language": "德语",
+            "explanation": "Hut  (S)​,an der Spitze stehen  (S)​,Grat  (S)​,Hut  (S)​,Kopfbedeckung  (S)​,Krone  (S)​,Kronenether  (S, Chem)​,Welle  (S)​,Wellenkamm  (S)​,Guan  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "chapeau,couronne,crête,huppe,couronner,être le premier,le meilleur"
+        }
+    ],
+    "general_pinyins": [
+        "guān",
+        "guàn"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄢ",
+        "ㄍㄨㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "冖",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠖌",
+        "𠙙",
+        "𠜍",
+        "𢃙"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "51A0",
+            "451135124"
+        ],
+        "char_code_wubi": "pfqf",
+        "char_code_cangjie": "bmui",
+        "char_code_zhengma": "wwrd",
+        "char_code_sijiao": "37214"
+    },
+    "general_unicode": "基本区 U+51A0",
+    "general_bs_code": "451135124"
+}

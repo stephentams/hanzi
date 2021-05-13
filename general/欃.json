@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sandalwood; comet"
+        },
+        {
+            "language": "德语",
+            "explanation": "Komet  (S, Astron)​,Sandelbaum (Santalum album)​  (S, Bio)​,Komet  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "comète"
+        }
+    ],
+    "general_pinyins": [
+        "chán",
+        "zhàn"
+    ],
+    "general_zhuyins": [
+        "ㄔㄢˊ",
+        "ㄓㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "17",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㸥",
+        "𣔵",
+        "𣛳",
+        "𣝊"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6B03",
+            "123435251153535251354"
+        ],
+        "char_code_wubi": "sqky",
+        "char_code_cangjie": "dnri",
+        "char_code_zhengma": "frrs",
+        "char_code_sijiao": "47913"
+    },
+    "general_unicode": "基本区 U+6B03",
+    "general_bs_code": "123435251153535251354"
+}

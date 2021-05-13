@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "德语",
+            "explanation": "Taschenlampe, Schweißbrenner  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "torche,flambeau"
+        }
+    ],
+    "general_pinyins": [
+        "jué"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "17",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "焳",
+        "熦",
+        "燋",
+        "爑",
+        "𤓄",
+        "𤓡"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "721D",
+            "433434432522151154124"
+        ],
+        "char_code_wubi": "oelf",
+        "char_code_cangjie": "fbwi",
+        "char_code_zhengma": "uoxd",
+        "char_code_sijiao": "92846"
+    },
+    "general_unicode": "基本区 U+721D",
+    "general_bs_code": "433434432522151154124"
+}

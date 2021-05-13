@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "village gate"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "yán"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "门",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "閆"
+    ],
+    "general_ytz": [
+        "閆",
+        "閈"
+    ],
+    "general_structure": "上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "95EB",
+            "425111"
+        ],
+        "char_code_wubi": "udd",
+        "char_code_cangjie": "lsmmm",
+        "char_code_zhengma": "tlcd",
+        "char_code_sijiao": "37101"
+    },
+    "general_unicode": "基本区 U+95EB",
+    "general_bs_code": "425111"
+}

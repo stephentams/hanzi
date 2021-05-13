@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "govern; oversee; director"
+        },
+        {
+            "language": "德语",
+            "explanation": "beherrschen, herrschen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "yǐn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "尸",
+        "non_radical_sn": "1",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢁨",
+        "𢂟",
+        "𢂫",
+        "𢂬",
+        "𢂭",
+        "𢃁",
+        "𢃂",
+        "𢃵",
+        "𢃹",
+        "𢄚"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5C39",
+            "5113"
+        ],
+        "char_code_wubi": "vte",
+        "char_code_cangjie": "sk",
+        "char_code_zhengma": "xma",
+        "char_code_sijiao": "17507"
+    },
+    "general_unicode": "基本区 U+5C39",
+    "general_bs_code": "5113"
+}

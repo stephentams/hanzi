@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stone boarder; steps"
+        }
+    ],
+    "general_pinyins": [
+        "shì"
+    ],
+    "general_zhuyins": [
+        "ㄕˋ"
+    ],
+    "general_radical": {
+        "radical": "户",
+        "non_radical_sn": "3",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢨪",
+        "𢩂",
+        "巸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "623A",
+            "4513515"
+        ],
+        "char_code_wubi": "ynnn",
+        "char_code_cangjie": "hsru",
+        "char_code_zhengma": "wmyy",
+        "char_code_sijiao": "37217"
+    },
+    "general_unicode": "基本区 U+623A",
+    "general_bs_code": "4513515"
+}

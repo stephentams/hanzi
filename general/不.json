@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "no, not; un-; negative prefix"
+        },
+        {
+            "language": "德语",
+            "explanation": "nein,nicht\""
+        },
+        {
+            "language": "法语",
+            "explanation": "ne... pas,non,(pour former une question placé à la fin d'une phrase, pour indiquer l'indifférence avec shen me,pour indiquer une alternative avec jiu)​"
+        }
+    ],
+    "general_pinyins": [
+        "bù",
+        "fǒu"
+    ],
+    "general_zhuyins": [
+        "ㄅㄨˋ",
+        "ㄈㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "一",
+        "non_radical_sn": "3",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠀚",
+        "𠙐",
+        "否",
+        "柎",
+        "不"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4E0D",
+            "1324"
+        ],
+        "char_code_wubi": "gii|dhi",
+        "char_code_cangjie": "mf",
+        "char_code_zhengma": "gi",
+        "char_code_sijiao": "10900"
+    },
+    "general_unicode": "基本区 U+4E0D",
+    "general_bs_code": "1324"
+}

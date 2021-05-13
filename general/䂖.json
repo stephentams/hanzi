@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 石) rocks; stones; minerals, etc."
+        }
+    ],
+    "general_pinyins": [
+        "shí",
+        "sì"
+    ],
+    "general_zhuyins": [
+        "ㄕˊ",
+        "ㄙˋ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "1",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "石"
+    ],
+    "general_structure": "左包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4096",
+            "134251"
+        ],
+        "char_code_wubi": "dykf|dyi",
+        "char_code_cangjie": "mir",
+        "char_code_zhengma": "gjs",
+        "char_code_sijiao": "10608"
+    },
+    "general_unicode": "扩展A U+4096",
+    "general_bs_code": "134251"
+}

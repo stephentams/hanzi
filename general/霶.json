@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "downpouring of rain"
+        }
+    ],
+    "general_pinyins": [
+        "pāng"
+    ],
+    "general_zhuyins": [
+        "ㄆㄤ"
+    ],
+    "general_radical": {
+        "radical": "雨",
+        "non_radical_sn": "13",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "雱",
+        "𩅅"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9736",
+            "145244444414143454153"
+        ],
+        "char_code_wubi": "fiuy|fiyy",
+        "char_code_cangjie": "mbeys",
+        "char_code_zhengma": "fvws",
+        "char_code_sijiao": "10127"
+    },
+    "general_unicode": "基本区 U+9736",
+    "general_bs_code": "145244444414143454153"
+}

@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "enemy, rival, opponent"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fehde  (S)​,Feindschaft, Feindseligkeit  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "ennemi"
+        }
+    ],
+    "general_pinyins": [
+        "chóu"
+    ],
+    "general_zhuyins": [
+        "ㄔㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "言",
+        "non_radical_sn": "16",
+        "total_sn": "23"
+    },
+    "general_stc": [
+        "雠"
+    ],
+    "general_ytz": [
+        "仇",
+        "讐",
+        "雠",
+        "𠵁",
+        "𢛇",
+        "𢢧",
+        "𩀕",
+        "雒"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8B8E",
+            "32411121411125132411121"
+        ],
+        "char_code_wubi": "wyyy",
+        "char_code_cangjie": "ogyrg",
+        "char_code_zhengma": "nisn",
+        "char_code_sijiao": "20215"
+    },
+    "general_unicode": "基本区 U+8B8E",
+    "general_bs_code": "32411121411125132411121"
+}

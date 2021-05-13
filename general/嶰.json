@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "gorge"
+        },
+        {
+            "language": "法语",
+            "explanation": "vallée de montagne"
+        }
+    ],
+    "general_pinyins": [
+        "xiè",
+        "jiè"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄝˋ",
+        "ㄐㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5DB0",
+            "2523535112533112"
+        ],
+        "char_code_wubi": "mqeh|mqeg",
+        "char_code_cangjie": "unbq",
+        "char_code_zhengma": "llym",
+        "char_code_sijiao": "27752"
+    },
+    "general_unicode": "基本区 U+5DB0",
+    "general_bs_code": "2523535112533112"
+}

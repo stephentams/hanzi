@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ancient form of the tenth of the twelve Terrestrial Branches, U+9149 酉"
+        }
+    ],
+    "general_pinyins": [
+        "yǒu"
+    ],
+    "general_zhuyins": [
+        "ㄧㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "一",
+        "non_radical_sn": "6",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "酉"
+    ],
+    "general_structure": "单体结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4E23",
+            "1315251"
+        ],
+        "char_code_wubi": "gajn|gjan",
+        "char_code_cangjie": "mlls",
+        "char_code_zhengma": "anhx",
+        "char_code_sijiao": "10777"
+    },
+    "general_unicode": "基本区 U+4E23",
+    "general_bs_code": "1315251"
+}

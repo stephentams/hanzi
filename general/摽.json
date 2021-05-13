@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "throw out; push out; strike"
+        },
+        {
+            "language": "法语",
+            "explanation": "tomber,signaler,signe,signal"
+        }
+    ],
+    "general_pinyins": [
+        "biào",
+        "biāo"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄠˋ",
+        "ㄅㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "拋",
+        "𢶏",
+        "𢸂",
+        "𢹰",
+        "𢿏"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "647D",
+            "12112522111234"
+        ],
+        "char_code_wubi": "rsfi",
+        "char_code_cangjie": "qmwf",
+        "char_code_zhengma": "dfbk",
+        "char_code_sijiao": "51091"
+    },
+    "general_unicode": "基本区 U+647D",
+    "general_bs_code": "12112522111234"
+}

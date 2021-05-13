@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 作) to make; to do; to act, to write; to compose; to rise, work"
+        }
+    ],
+    "general_pinyins": [
+        "zuò"
+    ],
+    "general_zhuyins": [
+        "ㄗㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "作"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3445",
+            "3231211"
+        ],
+        "char_code_wubi": "wthg",
+        "char_code_cangjie": "ooym",
+        "char_code_zhengma": "nmia",
+        "char_code_sijiao": "28211"
+    },
+    "general_unicode": "扩展A U+3445",
+    "general_bs_code": "3231211"
+}

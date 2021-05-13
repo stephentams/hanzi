@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mantis"
+        }
+    ],
+    "general_pinyins": [
+        "dāng"
+    ],
+    "general_zhuyins": [
+        "ㄉㄤ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "13",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧒾",
+        "𧒩"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "87F7",
+            "2512142434525125121"
+        ],
+        "char_code_wubi": "jipl",
+        "char_code_cangjie": "lifbw",
+        "char_code_zhengma": "ikjk",
+        "char_code_sijiao": "59166"
+    },
+    "general_unicode": "基本区 U+87F7",
+    "general_bs_code": "2512142434525125121"
+}

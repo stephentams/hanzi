@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "used in names"
+        },
+        {
+            "language": "德语",
+            "explanation": "Symbol für Glück, Reichtum, Wohlstand"
+        },
+        {
+            "language": "法语",
+            "explanation": "(utilisé souvent dans les enseignes de magasin ou les noms de personne)​,prospère,qui fait de bons profits"
+        }
+    ],
+    "general_pinyins": [
+        "xīn"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄣ"
+    ],
+    "general_radical": {
+        "radical": "金",
+        "non_radical_sn": "16",
+        "total_sn": "24"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "946B",
+            "341124313411243134112431"
+        ],
+        "char_code_wubi": "qqqf",
+        "char_code_cangjie": "ccc",
+        "char_code_zhengma": "ppp",
+        "char_code_sijiao": "80119"
+    },
+    "general_unicode": "基本区 U+946B",
+    "general_bs_code": "341124313411243134112431"
+}

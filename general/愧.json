@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ashamed, conscience-stricken"
+        },
+        {
+            "language": "德语",
+            "explanation": "beschämt  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "honteux,confus"
+        }
+    ],
+    "general_pinyins": [
+        "kuì",
+        "chŏu"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄟˋ",
+        "ㄔㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "謉",
+        "媿",
+        "聭"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6127",
+            "442325113554"
+        ],
+        "char_code_wubi": "nrqc",
+        "char_code_cangjie": "phui",
+        "char_code_zhengma": "unj",
+        "char_code_sijiao": "96013"
+    },
+    "general_unicode": "基本区 U+6127",
+    "general_bs_code": "442325113554"
+}

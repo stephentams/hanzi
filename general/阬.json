@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pit, hole, shaft"
+        },
+        {
+            "language": "德语",
+            "explanation": "betrügen ,Sprunggrube, Schachtanlage (Bergbau)​  (S, Sport)​,Keng  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tromper,escroquer,creux,fosse,enterrer vivant"
+        }
+    ],
+    "general_pinyins": [
+        "kēng"
+    ],
+    "general_zhuyins": [
+        "ㄎㄥ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "坑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "962C",
+            "524135"
+        ],
+        "char_code_wubi": "bymn|bywn",
+        "char_code_cangjie": "nlyhn",
+        "char_code_zhengma": "ysqd",
+        "char_code_sijiao": "70217"
+    },
+    "general_unicode": "基本区 U+962C",
+    "general_bs_code": "524135"
+}

@@ -1,0 +1,27 @@
+{
+    "general_pinyins": [
+        "róu"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "刀",
+        "non_radical_sn": "15",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "濡"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "20810",
+            "12151211251124534"
+        ],
+        "char_code_wubi": "fnay",
+        "char_code_cangjie": "gishi",
+        "char_code_zhengma": "bxys"
+    },
+    "general_unicode": "扩展B U+20810",
+    "general_bs_code": "12151211251124534"
+}

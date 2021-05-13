@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "root, origin, source; basis"
+        },
+        {
+            "language": "德语",
+            "explanation": "ZEW für gebundene Druckerzeugnisse (z.B. Buch, Heft)​ (Zähl)​,Stamm (S)​,Ursprung, Quelle, Grundlage, Basis (fig)​ (S)​,Wurzel (S, Bio)​,ursprünglich (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "racine,tige,fondation,origine,capital,principal,base,celui-ci,propre,personnel,(classificateur pour les livres, cahiers, carnets, etc.)​"
+        }
+    ],
+    "general_pinyins": [
+        "běn"
+    ],
+    "general_zhuyins": [
+        "ㄅㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "1",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㮺",
+        "夲",
+        "楍",
+        "𡴩",
+        "𡗧",
+        "𡴡",
+        "𣖎"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "672C",
+            "12341"
+        ],
+        "char_code_wubi": "sgd",
+        "char_code_cangjie": "dm",
+        "char_code_zhengma": "favv",
+        "char_code_sijiao": "50230"
+    },
+    "general_unicode": "基本区 U+672C",
+    "general_bs_code": "12341"
+}

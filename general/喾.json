@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "emperor"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ku4, Dritter der Fünf Kaiser (五帝, Wǔ dì - mythische Modell-Herrscher, die das Land vor Beginn der Dynastien beherrscht haben sollen.  (Eig, Pers, ca. 2412 - ca. 2343 v.Chr.)"
+        },
+        {
+            "language": "法语",
+            "explanation": "avertir"
+        }
+    ],
+    "general_pinyins": [
+        "kù"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "嚳"
+    ],
+    "general_ytz": [
+        "嚳",
+        "𡇪"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "55BE",
+            "443453121251"
+        ],
+        "char_code_wubi": "iptk",
+        "char_code_cangjie": "fbhgr",
+        "char_code_zhengma": "vdmj",
+        "char_code_sijiao": "90601"
+    },
+    "general_unicode": "基本区 U+55BE",
+    "general_bs_code": "443453121251"
+}

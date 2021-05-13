@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "utmost, entirely, quite; use up"
+        },
+        {
+            "language": "法语",
+            "explanation": "épuiser"
+        }
+    ],
+    "general_pinyins": [
+        "dān"
+    ],
+    "general_zhuyins": [
+        "ㄉㄢ"
+    ],
+    "general_radical": {
+        "radical": "歹",
+        "non_radical_sn": "12",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "殚"
+    ],
+    "general_ytz": [
+        "殚"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6BAB",
+            "1354251251251112"
+        ],
+        "char_code_wubi": "gqkf",
+        "char_code_cangjie": "mnrrj",
+        "char_code_zhengma": "arke",
+        "char_code_sijiao": "16256"
+    },
+    "general_unicode": "基本区 U+6BAB",
+    "general_bs_code": "1354251251251112"
+}

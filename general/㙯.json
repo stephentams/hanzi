@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 藝) skill, ability in handicraft, a craft, an art, a calling, a trade, an accomplishment"
+        }
+    ],
+    "general_pinyins": [
+        "yì"
+    ],
+    "general_zhuyins": [
+        "ㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "藝",
+        "𠐢"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "366F",
+            "121341213541154"
+        ],
+        "char_code_wubi": "fwfc",
+        "char_code_cangjie": "gimmi",
+        "char_code_zhengma": "bobz",
+        "char_code_sijiao": "45732"
+    },
+    "general_unicode": "扩展A U+366F",
+    "general_bs_code": "121341213541154"
+}

@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hillside farmland; slope"
+        },
+        {
+            "language": "法语",
+            "explanation": "pente,talus,flanc de coteau"
+        }
+    ],
+    "general_pinyins": [
+        "bǎn"
+    ],
+    "general_zhuyins": [
+        "ㄅㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "坂"
+    ],
+    "general_ytz": [
+        "坂",
+        "岅",
+        "𠭔",
+        "𡊃"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "962A",
+            "523354"
+        ],
+        "char_code_wubi": "brcy",
+        "char_code_cangjie": "nlhe",
+        "char_code_zhengma": "ypxs",
+        "char_code_sijiao": "72247"
+    },
+    "general_unicode": "基本区 U+962A",
+    "general_bs_code": "523354"
+}

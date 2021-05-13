@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mud shoe, sledge for the feet"
+        }
+    ],
+    "general_pinyins": [
+        "qiáo"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "革",
+        "non_radical_sn": "12",
+        "total_sn": "21"
+    },
+    "general_stc": [
+        "鞒"
+    ],
+    "general_ytz": [
+        "屩",
+        "橋",
+        "鞒",
+        "𩌚",
+        "𩌡"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "97BD",
+            "122125112313425125251"
+        ],
+        "char_code_wubi": "aftk",
+        "char_code_cangjie": "tjhkb",
+        "char_code_zhengma": "eejl",
+        "char_code_sijiao": "42527"
+    },
+    "general_unicode": "基本区 U+97BD",
+    "general_bs_code": "122125112313425125251"
+}

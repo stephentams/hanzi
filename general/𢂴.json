@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "巾",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "幟"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "220B4",
+            "2521214544"
+        ],
+        "char_code_wubi": "mhfn",
+        "char_code_cangjie": "lbgp",
+        "char_code_zhengma": "libw"
+    },
+    "general_unicode": "扩展B U+220B4",
+    "general_bs_code": "2521214544"
+}

@@ -1,0 +1,33 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a roll"
+        }
+    ],
+    "general_pinyins": [
+        "juàn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "八",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "20509",
+            "341134"
+        ],
+        "char_code_wubi": "wfwu",
+        "char_code_cangjie": "fqo",
+        "char_code_zhengma": "obod"
+    },
+    "general_unicode": "扩展B U+20509",
+    "general_bs_code": "341134"
+}

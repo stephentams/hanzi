@@ -1,0 +1,27 @@
+{
+    "general_pinyins": [
+        "sòng"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "亠",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "20145",
+            "411234"
+        ],
+        "char_code_wubi": "ysu",
+        "char_code_cangjie": "yd",
+        "char_code_zhengma": "sfvv"
+    },
+    "general_unicode": "扩展B U+20145",
+    "general_bs_code": "411234"
+}

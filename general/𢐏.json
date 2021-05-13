@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "弓",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "弛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2240F",
+            "5153321531534"
+        ],
+        "char_code_wubi": "xrhw",
+        "char_code_cangjie": "nhyo",
+        "char_code_zhengma": "yzio"
+    },
+    "general_unicode": "扩展B U+2240F",
+    "general_bs_code": "5153321531534"
+}

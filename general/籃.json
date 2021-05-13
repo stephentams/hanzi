@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "basket"
+        },
+        {
+            "language": "德语",
+            "explanation": "Korb  (S)​,Teller, Idiot  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "panier,corbeille"
+        }
+    ],
+    "general_pinyins": [
+        "lán"
+    ],
+    "general_zhuyins": [
+        "ㄌㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "14",
+        "total_sn": "20"
+    },
+    "general_stc": [
+        "篮"
+    ],
+    "general_ytz": [
+        "篮",
+        "𢉧"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7C43",
+            "31431412512531425221"
+        ],
+        "char_code_wubi": "tahl",
+        "char_code_cangjie": "hsit",
+        "char_code_zhengma": "mhml",
+        "char_code_sijiao": "88102"
+    },
+    "general_unicode": "基本区 U+7C43",
+    "general_bs_code": "31431412512531425221"
+}

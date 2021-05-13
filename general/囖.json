@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(Cant.) final particle for pointing out the obvious"
+        }
+    ],
+    "general_pinyins": [
+        "luó",
+        "luō",
+        "luo"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄛˊ",
+        "ㄌㄨㄛ",
+        "ㄌㄨㄛ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "25",
+        "total_sn": "28"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "56D6",
+            "2513143142522155444432411121"
+        ],
+        "char_code_wubi": "ktly",
+        "char_code_cangjie": "rhwg",
+        "char_code_zhengma": "jmzn",
+        "char_code_sijiao": "68015"
+    },
+    "general_unicode": "基本区 U+56D6",
+    "general_bs_code": "2513143142522155444432411121"
+}

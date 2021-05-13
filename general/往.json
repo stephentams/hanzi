@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "go, depart; past, formerly"
+        },
+        {
+            "language": "德语",
+            "explanation": "gehen, führen  (V)​,nach, gegen  (V)​,(in Richtung)​ auf, nach, zu  (Adj)​,vergangen, beendet  (Adj)​,vor ..., vorhergehend  (Adj)​,ununterbrochen, in Richtung, nach  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "ancien,passé,aller,se rendre,en direction de,vers,aller,se rendre"
+        }
+    ],
+    "general_pinyins": [
+        "wǎng"
+    ],
+    "general_zhuyins": [
+        "ㄨㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "彳",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "徃",
+        "徍",
+        "迬",
+        "𢓯",
+        "𢓸",
+        "𢔎",
+        "𣶂",
+        "𧗧",
+        "𨓏",
+        "𨓒",
+        "𨓹"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F80",
+            "33241121"
+        ],
+        "char_code_wubi": "tygg",
+        "char_code_cangjie": "hoyg",
+        "char_code_zhengma": "oisc",
+        "char_code_sijiao": "20214"
+    },
+    "general_unicode": "基本区 U+5F80",
+    "general_bs_code": "33241121"
+}

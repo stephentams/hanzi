@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "repair, mend; rewrite, transcribe"
+        },
+        {
+            "language": "法语",
+            "explanation": "réparer,écrire"
+        }
+    ],
+    "general_pinyins": [
+        "shàn"
+    ],
+    "general_zhuyins": [
+        "ㄕㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "糹",
+        "non_radical_sn": "12",
+        "total_sn": "18"
+    },
+    "general_stc": [
+        "缮"
+    ],
+    "general_ytz": [
+        "㪨",
+        "缮",
+        "𦆇",
+        "𦆶",
+        "𧭽"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7E55",
+            "554444431112431251"
+        ],
+        "char_code_wubi": "xudk|xuuk",
+        "char_code_cangjie": "vftgr",
+        "char_code_zhengma": "zuuj",
+        "char_code_sijiao": "28961"
+    },
+    "general_unicode": "基本区 U+7E55",
+    "general_bs_code": "554444431112431251"
+}

@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to bale out water, to dip"
+        },
+        {
+            "language": "德语",
+            "explanation": "s. 抌yao3 ,Kelle  (S)​,Schöpflöffel  (S)​,ausleeren  (V)​,ausschöpfen  (V)"
+        }
+    ],
+    "general_pinyins": [
+        "dǎn",
+        "shěn"
+    ],
+    "general_zhuyins": [
+        "ㄉㄢˇ",
+        "ㄕㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㪛",
+        "㱽",
+        "冘",
+        "𢪚",
+        "𢻼",
+        "𢼈",
+        "𢾤",
+        "伔",
+        "𢪨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "628C",
+            "1214535"
+        ],
+        "char_code_wubi": "rpqn",
+        "char_code_cangjie": "qlbu",
+        "char_code_zhengma": "dwrd",
+        "char_code_sijiao": "54012"
+    },
+    "general_unicode": "基本区 U+628C",
+    "general_bs_code": "1214535"
+}

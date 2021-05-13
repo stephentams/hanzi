@@ -1,0 +1,33 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(Cant.) to choke and cough"
+        }
+    ],
+    "general_pinyins": [
+        "dòu"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "15",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "讀"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2109D",
+            "251121252212511134"
+        ],
+        "char_code_wubi": "kflm",
+        "char_code_cangjie": "rgwc",
+        "char_code_zhengma": "jbll"
+    },
+    "general_unicode": "扩展B U+2109D",
+    "general_bs_code": "251121252212511134"
+}

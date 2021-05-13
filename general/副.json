@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "assist; supplement; assistant"
+        },
+        {
+            "language": "德语",
+            "explanation": "ZEW: Set , Paar  (Zähl)​,ZEW: Set , Paar  (Zähl)"
+        },
+        {
+            "language": "法语",
+            "explanation": "adjoint,vice-,sous-,paire,jeu,(classificateur pour : les paires (lunettes, gants)​, les séries (jeux de cartes)​, les expressions du visage)​"
+        }
+    ],
+    "general_pinyins": [
+        "fù",
+        "pì"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˋ",
+        "ㄆㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "刂",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㨽",
+        "㽬",
+        "付",
+        "疈",
+        "福",
+        "罷",
+        "𠠦",
+        "𤗚",
+        "𩭺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "526F",
+            "12512512122"
+        ],
+        "char_code_wubi": "gklj",
+        "char_code_cangjie": "mwln",
+        "char_code_zhengma": "ajkk",
+        "char_code_sijiao": "12600"
+    },
+    "general_unicode": "基本区 U+526F",
+    "general_bs_code": "12512512122"
+}

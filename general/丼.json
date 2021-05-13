@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bowl of food; well"
+        }
+    ],
+    "general_pinyins": [
+        "jǐng"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "丶",
+        "non_radical_sn": "4",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "井"
+    ],
+    "general_structure": "全包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4E3C",
+            "11324"
+        ],
+        "char_code_wubi": "fjyi",
+        "char_code_cangjie": "tti",
+        "char_code_zhengma": "bdns",
+        "char_code_sijiao": "55000"
+    },
+    "general_unicode": "基本区 U+4E3C",
+    "general_bs_code": "11324"
+}

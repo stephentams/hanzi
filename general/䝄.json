@@ -1,0 +1,30 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cowpea"
+        }
+    ],
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "豆",
+        "non_radical_sn": "18",
+        "total_sn": "25"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4744",
+            "1251431324111213241112154"
+        ],
+        "char_code_wubi": "gkuc",
+        "char_code_cangjie": "mtoge",
+        "char_code_zhengma": "ajnx",
+        "char_code_sijiao": "10147"
+    },
+    "general_unicode": "扩展A U+4744",
+    "general_bs_code": "1251431324111213241112154"
+}

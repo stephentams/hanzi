@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "give, deliver, pay, hand over; entrust"
+        },
+        {
+            "language": "德语",
+            "explanation": "übergeben, übertragen, anvertrauen  (V)​,bezahlen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "remettre,livrer,payer,verser,moins,négatif"
+        }
+    ],
+    "general_pinyins": [
+        "fù"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "3",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "仅",
+        "副",
+        "咐"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4ED8",
+            "32124"
+        ],
+        "char_code_wubi": "wfy",
+        "char_code_cangjie": "odi",
+        "char_code_zhengma": "nds",
+        "char_code_sijiao": "24200"
+    },
+    "general_unicode": "基本区 U+4ED8",
+    "general_bs_code": "32124"
+}

@@ -1,0 +1,32 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a word to designate woman, a word of revile used to call a woman"
+        }
+    ],
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "14",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "娭"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "372F",
+            "53112251255154444"
+        ],
+        "char_code_wubi": "vaho",
+        "char_code_cangjie": "vsuf",
+        "char_code_zhengma": "zmyu",
+        "char_code_sijiao": "47431"
+    },
+    "general_unicode": "扩展A U+372F",
+    "general_bs_code": "53112251255154444"
+}

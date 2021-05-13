@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "convenience, ease; expedient"
+        },
+        {
+            "language": "德语",
+            "explanation": "bequem  (Adj)​,vorteilhaft  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bon marché,avantage,commode,avantageux,alors,prêt,besoins naturels"
+        }
+    ],
+    "general_pinyins": [
+        "biàn",
+        "pián"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄢˋ",
+        "ㄆㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠊳",
+        "便"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4FBF",
+            "321251134"
+        ],
+        "char_code_wubi": "wgjq|wgjr",
+        "char_code_cangjie": "omlk",
+        "char_code_zhengma": "nako",
+        "char_code_sijiao": "21246"
+    },
+    "general_unicode": "基本区 U+4FBF",
+    "general_bs_code": "321251134"
+}

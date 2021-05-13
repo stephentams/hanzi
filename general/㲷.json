@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(old translated form) nitrogen (symbol N)"
+        }
+    ],
+    "general_pinyins": [
+        "dàn"
+    ],
+    "general_zhuyins": [
+        "ㄉㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "气",
+        "non_radical_sn": "12",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "氮"
+    ],
+    "general_structure": "右上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3CB7",
+            "3115251251251112"
+        ],
+        "char_code_wubi": "rnkf|rkkf",
+        "char_code_cangjie": "onrrj",
+        "char_code_zhengma": "myke",
+        "char_code_sijiao": "80517"
+    },
+    "general_unicode": "扩展A U+3CB7",
+    "general_bs_code": "3115251251251112"
+}

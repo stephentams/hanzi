@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a hard wood"
+        }
+    ],
+    "general_pinyins": [
+        "xí",
+        "dié"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧˊ",
+        "ㄉㄧㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "11",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "69E2",
+            "123454154132511"
+        ],
+        "char_code_wubi": "snrg",
+        "char_code_cangjie": "dsma",
+        "char_code_zhengma": "fyyn",
+        "char_code_sijiao": "47962"
+    },
+    "general_unicode": "基本区 U+69E2",
+    "general_bs_code": "123454154132511"
+}

@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "soil, loam, earth; rich"
+        }
+    ],
+    "general_pinyins": [
+        "rǎng"
+    ],
+    "general_zhuyins": [
+        "ㄖㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "壤"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "58CC",
+            "1214134112213534"
+        ],
+        "char_code_wubi": "fufe|fuae",
+        "char_code_cangjie": "gycv",
+        "char_code_zhengma": "bser",
+        "char_code_sijiao": "40132"
+    },
+    "general_unicode": "基本区 U+58CC",
+    "general_bs_code": "1214134112213534"
+}

@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "法语",
+            "explanation": "talkative; quarrelous"
+        }
+    ],
+    "general_pinyins": [
+        "tāo",
+        "dāo"
+    ],
+    "general_zhuyins": [
+        "ㄊㄠ",
+        "ㄉㄠ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "2",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "饕"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "53E8",
+            "25153"
+        ],
+        "char_code_wubi": "kvn|kvt",
+        "char_code_cangjie": "rsh",
+        "char_code_zhengma": "jyd",
+        "char_code_sijiao": "67020"
+    },
+    "general_unicode": "基本区 U+53E8",
+    "general_bs_code": "25153"
+}

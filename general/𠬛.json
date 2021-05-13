@@ -1,0 +1,35 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to dive under water"
+        }
+    ],
+    "general_pinyins": [
+        "mò"
+    ],
+    "general_zhuyins": [
+        "ㄇㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "又",
+        "non_radical_sn": "2",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "没"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "20B1B",
+            "5354"
+        ],
+        "char_code_wubi": "vcu",
+        "char_code_cangjie": "she",
+        "char_code_zhengma": "ydxs"
+    },
+    "general_unicode": "扩展B U+20B1B",
+    "general_bs_code": "5354"
+}

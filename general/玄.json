@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "deep, profound, abstruse; KangXi radical 95"
+        },
+        {
+            "language": "德语",
+            "explanation": "mysteriös  (Adj)​,schwarz, düster"
+        },
+        {
+            "language": "法语",
+            "explanation": "mystérieux,obscur,incroyable"
+        }
+    ],
+    "general_pinyins": [
+        "xuán"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "玄",
+        "non_radical_sn": "0",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "泫",
+        "𢆯",
+        "𤇡",
+        "𤣥"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7384",
+            "41554"
+        ],
+        "char_code_wubi": "yxu",
+        "char_code_cangjie": "yvi",
+        "char_code_zhengma": "szzs",
+        "char_code_sijiao": "00732"
+    },
+    "general_unicode": "基本区 U+7384",
+    "general_bs_code": "41554"
+}

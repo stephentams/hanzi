@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bright, light, brilliant; clear"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ming-Dynastie (14.-17.Jh.)​  (S, Gesch)​,hell, klar, glänzend, strahlend  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "brillant,clair,comprendre,vue,distinct,net,ouvert,public,explicite,prompt,leste,prochain,suivant,ouvertement"
+        }
+    ],
+    "general_pinyins": [
+        "míng"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "朙",
+        "眀",
+        "𣇱",
+        "𣷠",
+        "𠘨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "660E",
+            "25113511"
+        ],
+        "char_code_wubi": "jeg",
+        "char_code_cangjie": "ab",
+        "char_code_zhengma": "kqvv",
+        "char_code_sijiao": "67020"
+    },
+    "general_unicode": "基本区 U+660E",
+    "general_bs_code": "25113511"
+}

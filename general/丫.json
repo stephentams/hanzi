@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "forked; bifurcation"
+        },
+        {
+            "language": "法语",
+            "explanation": "fourche,direction,bifurcation,branche"
+        }
+    ],
+    "general_pinyins": [
+        "yā"
+    ],
+    "general_zhuyins": [
+        "ㄧㄚ"
+    ],
+    "general_radical": {
+        "radical": "丨",
+        "non_radical_sn": "2",
+        "total_sn": "3"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "亞",
+        "𩭯",
+        "桠",
+        "枒"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4E2B",
+            "432"
+        ],
+        "char_code_wubi": "uhk",
+        "char_code_cangjie": "cl",
+        "char_code_zhengma": "udi",
+        "char_code_sijiao": "80207"
+    },
+    "general_unicode": "基本区 U+4E2B",
+    "general_bs_code": "432"
+}

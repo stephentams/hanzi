@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dust; dirt; a smear, (same as 牧) name of a place in old times"
+        }
+    ],
+    "general_pinyins": [
+        "mǎng",
+        "méi",
+        "mèi",
+        "mù",
+        "nà"
+    ],
+    "general_zhuyins": [
+        "ㄇㄤˇ",
+        "ㄇㄟˊ",
+        "ㄇㄟˋ",
+        "ㄇㄨˋ",
+        "ㄋㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡎧",
+        "坶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3641",
+            "1213155414"
+        ],
+        "char_code_wubi": "ftxu|ftxy",
+        "char_code_cangjie": "gowy",
+        "char_code_zhengma": "bmzy",
+        "char_code_sijiao": "48157"
+    },
+    "general_unicode": "扩展A U+3641",
+    "general_bs_code": "1213155414"
+}

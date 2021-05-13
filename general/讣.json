@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "obituary; give notice of death"
+        },
+        {
+            "language": "法语",
+            "explanation": "annoncer la mort"
+        }
+    ],
+    "general_pinyins": [
+        "fù"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "2",
+        "total_sn": "4"
+    },
+    "general_stc": [
+        "訃"
+    ],
+    "general_ytz": [
+        "訃"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BA3",
+            "4524"
+        ],
+        "char_code_wubi": "yhy",
+        "char_code_cangjie": "ivy",
+        "char_code_zhengma": "sid",
+        "char_code_sijiao": "33700"
+    },
+    "general_unicode": "基本区 U+8BA3",
+    "general_bs_code": "4524"
+}

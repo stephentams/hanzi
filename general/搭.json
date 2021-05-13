@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "join together, attach to; add to"
+        },
+        {
+            "language": "法语",
+            "explanation": "dresser,ériger,pendre,suspendre,joindre,se toucher,soulever,prendre (un transport)​"
+        }
+    ],
+    "general_pinyins": [
+        "dā"
+    ],
+    "general_zhuyins": [
+        "ㄉㄚ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "撘",
+        "㧺",
+        "搨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "642D",
+            "121122341251"
+        ],
+        "char_code_wubi": "rawk",
+        "char_code_cangjie": "qtor",
+        "char_code_zhengma": "deaj",
+        "char_code_sijiao": "54061"
+    },
+    "general_unicode": "基本区 U+642D",
+    "general_bs_code": "121122341251"
+}

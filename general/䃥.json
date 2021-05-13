@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stones; rocks"
+        }
+    ],
+    "general_pinyins": [
+        "chuáng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "12",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "40E5",
+            "13251414312511211"
+        ],
+        "char_code_wubi": "dujf",
+        "char_code_cangjie": "mrytg",
+        "char_code_zhengma": "gskb",
+        "char_code_sijiao": "10615"
+    },
+    "general_unicode": "扩展A U+40E5",
+    "general_bs_code": "13251414312511211"
+}

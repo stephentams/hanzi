@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "jar; can"
+        },
+        {
+            "language": "法语",
+            "explanation": "pot,jarre,Boite de conserve"
+        }
+    ],
+    "general_pinyins": [
+        "guàn"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "釒",
+        "non_radical_sn": "17",
+        "total_sn": "25"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "罐"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9475",
+            "3411243112225125132411121"
+        ],
+        "char_code_wubi": "qaky",
+        "char_code_cangjie": "ctrg",
+        "char_code_zhengma": "pejn",
+        "char_code_sijiao": "84115"
+    },
+    "general_unicode": "基本区 U+9475",
+    "general_bs_code": "3411243112225125132411121"
+}

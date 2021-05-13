@@ -1,0 +1,59 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "long; length; excel in; leader"
+        },
+        {
+            "language": "德语",
+            "explanation": "Länge  (S)​,lang  (Adj)​,Älteste(r)​  (S)​,Leiter, Chef  (S)​,älter  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "long,longueur,durable,chef,tête,aîné,grandir,développer,accroître,renforcer"
+        }
+    ],
+    "general_pinyins": [
+        "cháng",
+        "zhǎng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄤˊ",
+        "ㄓㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "长",
+        "non_radical_sn": "0",
+        "total_sn": "4"
+    },
+    "general_stc": [
+        "長"
+    ],
+    "general_ytz": [
+        "長",
+        "仧",
+        "兏",
+        "仩",
+        "𠑷",
+        "𠑻",
+        "𠑿",
+        "𠔊",
+        "𠙁",
+        "𠤐",
+        "𡕣",
+        "𦁢"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "957F",
+            "3154"
+        ],
+        "char_code_wubi": "tayi",
+        "char_code_cangjie": "po",
+        "char_code_zhengma": "ch",
+        "char_code_sijiao": "42730"
+    },
+    "general_unicode": "基本区 U+957F",
+    "general_bs_code": "3154"
+}

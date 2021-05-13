@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "regretful, disappointed"
+        },
+        {
+            "language": "法语",
+            "explanation": "consoler"
+        }
+    ],
+    "general_pinyins": [
+        "wǔ"
+    ],
+    "general_zhuyins": [
+        "ㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "怃"
+    ],
+    "general_ytz": [
+        "㒇",
+        "怃"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "61AE",
+            "442311222214444"
+        ],
+        "char_code_wubi": "nrlo|ntgo",
+        "char_code_cangjie": "potf",
+        "char_code_zhengma": "umeu",
+        "char_code_sijiao": "98031"
+    },
+    "general_unicode": "基本区 U+61AE",
+    "general_bs_code": "442311222214444"
+}

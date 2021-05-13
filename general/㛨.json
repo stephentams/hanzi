@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(corrupted form) chaos; anarchy; distractions; confusion"
+        }
+    ],
+    "general_pinyins": [
+        "qiǎng"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡠎"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "36E8",
+            "5314311135"
+        ],
+        "char_code_wubi": "vudn|vunn",
+        "char_code_cangjie": "vtgu",
+        "char_code_zhengma": "zmur",
+        "char_code_sijiao": "48412"
+    },
+    "general_unicode": "扩展A U+36E8",
+    "general_bs_code": "5314311135"
+}

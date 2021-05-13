@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sound of chewing bones"
+        }
+    ],
+    "general_pinyins": [
+        "huá"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "齊",
+        "non_radical_sn": "10",
+        "total_sn": "24"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𩪲"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4DA4",
+            "212134341343452255452511"
+        ],
+        "char_code_wubi": "hbme",
+        "char_code_cangjie": "yubbb",
+        "char_code_zhengma": "iolw",
+        "char_code_sijiao": "27727"
+    },
+    "general_unicode": "扩展A U+4DA4",
+    "general_bs_code": "212134341343452255452511"
+}

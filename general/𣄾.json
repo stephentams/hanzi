@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "2",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "昏"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2313E",
+            "251111"
+        ],
+        "char_code_wubi": "jff",
+        "char_code_cangjie": "amm",
+        "char_code_zhengma": "kbd"
+    },
+    "general_unicode": "扩展B U+2313E",
+    "general_bs_code": "251111"
+}

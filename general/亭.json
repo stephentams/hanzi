@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pavilion; erect"
+        },
+        {
+            "language": "德语",
+            "explanation": "Laube, Kiosk  (S, Arch)​,Pavillon  (S, Arch)​,ausgeglichen, in der Mitte, eben  (Adj, Lit)"
+        },
+        {
+            "language": "法语",
+            "explanation": "kiosque,pavillon"
+        }
+    ],
+    "general_pinyins": [
+        "tíng"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "亠",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠅘",
+        "停"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4EAD",
+            "412514512"
+        ],
+        "char_code_wubi": "ypsj",
+        "char_code_cangjie": "yrbn",
+        "char_code_zhengma": "sjwa",
+        "char_code_sijiao": "00201"
+    },
+    "general_unicode": "基本区 U+4EAD",
+    "general_bs_code": "412514512"
+}

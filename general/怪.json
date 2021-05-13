@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "strange, unusual, peculiar"
+        },
+        {
+            "language": "德语",
+            "explanation": "Monster, Dämon, finsteren Geschöpfe  (S)​,jmd. die Schuld geben, jdm. etw. vorwerfen  (V)​,merkwürdig, seltsam, sonderbar, komisch, kurios, wunderlich  (Adj)"
+        }
+    ],
+    "general_pinyins": [
+        "guài"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "恠",
+        "𠬭",
+        "𢘪",
+        "𢚬",
+        "𪫦"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "602A",
+            "44254121"
+        ],
+        "char_code_wubi": "ncfg",
+        "char_code_cangjie": "peg",
+        "char_code_zhengma": "uxb",
+        "char_code_sijiao": "97014"
+    },
+    "general_unicode": "基本区 U+602A",
+    "general_bs_code": "44254121"
+}

@@ -1,0 +1,58 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "establish, create; knife cut"
+        },
+        {
+            "language": "德语",
+            "explanation": "Wunde, Kränkung, Trauma ,(erstmals)​ erzielen, etw. zustande bringen"
+        },
+        {
+            "language": "法语",
+            "explanation": "plaie,blessure,commencer,accomplir pour la première fois,initier,créer,établir"
+        }
+    ],
+    "general_pinyins": [
+        "chuàng",
+        "chuāng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨㄤˋ",
+        "ㄔㄨㄤ"
+    ],
+    "general_radical": {
+        "radical": "刂",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "創"
+    ],
+    "general_ytz": [
+        "創",
+        "刱",
+        "剏",
+        "剙",
+        "𠛂",
+        "𠛲",
+        "𠝀",
+        "𠝵",
+        "𠞴",
+        "𠟐",
+        "𨱠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "521B",
+            "345522"
+        ],
+        "char_code_wubi": "wbjh",
+        "char_code_cangjie": "ouln",
+        "char_code_zhengma": "odyk",
+        "char_code_sijiao": "82700"
+    },
+    "general_unicode": "基本区 U+521B",
+    "general_bs_code": "345522"
+}

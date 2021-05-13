@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 弣) the middle part of a bow; the handle of a bow, try to dig and get something with a knife"
+        }
+    ],
+    "general_pinyins": [
+        "fǔ",
+        "fǒu"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˇ",
+        "ㄈㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "刂",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠛺",
+        "弣"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "34E1",
+            "31125222"
+        ],
+        "char_code_wubi": "rmjh|tfbj",
+        "char_code_cangjie": "ouln",
+        "char_code_zhengma": "mazk",
+        "char_code_sijiao": "82700"
+    },
+    "general_unicode": "扩展A U+34E1",
+    "general_bs_code": "31125222"
+}

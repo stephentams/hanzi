@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "德语",
+            "explanation": "spaßig, lustig  (Adj)​,spaßig, lustig  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "Pointe (littérature)​,drôle,bizarre,intéressant"
+        }
+    ],
+    "general_pinyins": [
+        "gén",
+        "hěn"
+    ],
+    "general_zhuyins": [
+        "ㄍㄣˊ",
+        "ㄏㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "很"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "54CF",
+            "251511534"
+        ],
+        "char_code_wubi": "kvey|kvy",
+        "char_code_cangjie": "rav",
+        "char_code_zhengma": "jxo",
+        "char_code_sijiao": "67032"
+    },
+    "general_unicode": "基本区 U+54CF",
+    "general_bs_code": "251511534"
+}

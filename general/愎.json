@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "obstinate, stubborn, headstrong"
+        },
+        {
+            "language": "法语",
+            "explanation": "entêté,obstiné"
+        }
+    ],
+    "general_pinyins": [
+        "bì"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "610E",
+            "442312511354"
+        ],
+        "char_code_wubi": "ntjt",
+        "char_code_cangjie": "poae",
+        "char_code_zhengma": "umkr",
+        "char_code_sijiao": "98047"
+    },
+    "general_unicode": "基本区 U+610E",
+    "general_bs_code": "442312511354"
+}

@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "discard, abandon, throw away"
+        },
+        {
+            "language": "德语",
+            "explanation": "verlassen ,Cast Away – Verschollen  (S)​,drehen, Überwurf  (S)​,nach links gezeichneter Schrägstrich in der Kalligraphie  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "jeter,mettre de côté,trait qui descend obliquement vers la gauche (calligraphie)​"
+        }
+    ],
+    "general_pinyins": [
+        "piē",
+        "piě"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧㄝ",
+        "ㄆㄧㄝˇ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "憋",
+        "撆",
+        "蔽",
+        "瞥",
+        "𣘮",
+        "𣟷"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6487",
+            "12143252343134"
+        ],
+        "char_code_wubi": "rumt|rity",
+        "char_code_cangjie": "qfbk",
+        "char_code_zhengma": "dklm",
+        "char_code_sijiao": "58040"
+    },
+    "general_unicode": "基本区 U+6487",
+    "general_bs_code": "12143252343134"
+}

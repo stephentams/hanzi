@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lots (to be drawn); draw lots"
+        },
+        {
+            "language": "德语",
+            "explanation": "Los"
+        },
+        {
+            "language": "法语",
+            "explanation": "tirer au sort"
+        }
+    ],
+    "general_pinyins": [
+        "jiū"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄡ"
+    ],
+    "general_radical": {
+        "radical": "鬥",
+        "non_radical_sn": "16",
+        "total_sn": "26"
+    },
+    "general_stc": [
+        "阄"
+    ],
+    "general_ytz": [
+        "䦰",
+        "䰗",
+        "阄",
+        "𨵜",
+        "𨷺",
+        "𩰘"
+    ],
+    "general_structure": "上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9B2E",
+            "112121121232511255115115341"
+        ],
+        "char_code_wubi": "hggg|hggx",
+        "char_code_cangjie": "lnhxu",
+        "char_code_zhengma": "ccmw",
+        "char_code_sijiao": "77117"
+    },
+    "general_unicode": "基本区 U+9B2E",
+    "general_bs_code": "112121121232511255115115341"
+}

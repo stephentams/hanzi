@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "first in series; great, eminent"
+        },
+        {
+            "language": "德语",
+            "explanation": "ältester Bruder  (S)​,erster Monat einer Jahreszeit  (S)​,Meng  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "premier,principal,aîné d'une fratrie"
+        }
+    ],
+    "general_pinyins": [
+        "mèng"
+    ],
+    "general_zhuyins": [
+        "ㄇㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "子",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣏍",
+        "𥁝",
+        "𥁪"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5B5F",
+            "52125221"
+        ],
+        "char_code_wubi": "blf",
+        "char_code_cangjie": "ndbt",
+        "char_code_zhengma": "yalk",
+        "char_code_sijiao": "17102"
+    },
+    "general_unicode": "基本区 U+5B5F",
+    "general_bs_code": "52125221"
+}

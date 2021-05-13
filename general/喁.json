@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "the mouth of a fish at the surface of the water, gasping for breath"
+        },
+        {
+            "language": "德语",
+            "explanation": "Beatmung  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "respiration (d'un poisson)​"
+        }
+    ],
+    "general_pinyins": [
+        "yóng"
+    ],
+    "general_zhuyins": [
+        "ㄩㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠷸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5581",
+            "251251125214"
+        ],
+        "char_code_wubi": "kjmy",
+        "char_code_cangjie": "rwlb",
+        "char_code_zhengma": "jklz",
+        "char_code_sijiao": "66027"
+    },
+    "general_unicode": "基本区 U+5581",
+    "general_bs_code": "251251125214"
+}

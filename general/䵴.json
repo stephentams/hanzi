@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "black color, black specks; mottles on the face, black face, (same as 暈) to faint; giddy and dizzy"
+        }
+    ],
+    "general_pinyins": [
+        "yùn",
+        "zèng"
+    ],
+    "general_zhuyins": [
+        "ㄩㄣˋ",
+        "ㄗㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "黑",
+        "non_radical_sn": "12",
+        "total_sn": "24"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𪒎",
+        "暈",
+        "𪓱",
+        "𫜙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4D74",
+            "25431211251251115151"
+        ],
+        "char_code_wubi": "lfox",
+        "char_code_cangjie": "wfrxu",
+        "char_code_zhengma": "lkuw",
+        "char_code_sijiao": "67317"
+    },
+    "general_unicode": "扩展A U+4D74",
+    "general_bs_code": "25431211251251115151"
+}

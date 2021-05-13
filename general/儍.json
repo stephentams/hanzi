@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "foolish, silly, an imbecile"
+        }
+    ],
+    "general_pinyins": [
+        "shǎ"
+    ],
+    "general_zhuyins": [
+        "ㄕㄚˇ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "13",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "傻"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "510D",
+            "323444445234354"
+        ],
+        "char_code_wubi": "wqot|wobt",
+        "char_code_cangjie": "ouce",
+        "char_code_zhengma": "noor",
+        "char_code_sijiao": "22247"
+    },
+    "general_unicode": "基本区 U+510D",
+    "general_bs_code": "323444445234354"
+}

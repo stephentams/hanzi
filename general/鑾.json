@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bells hung on horse; bells hung"
+        },
+        {
+            "language": "德语",
+            "explanation": "kaiserlich  (Adj)​,Glöckchen (an der kaiserlichen Kutsche oder in der kaiserlichen Empfangshalle)​  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "grelot du char impérial,impérial"
+        }
+    ],
+    "general_pinyins": [
+        "luán"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "金",
+        "non_radical_sn": "19",
+        "total_sn": "27"
+    },
+    "general_stc": [
+        "銮"
+    ],
+    "general_ytz": [
+        "欒",
+        "銮",
+        "鸞"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "947E",
+            "411125155444455444434112431"
+        ],
+        "char_code_wubi": "xyxq|yxxq",
+        "char_code_cangjie": "vfc",
+        "char_code_zhengma": "zsp",
+        "char_code_sijiao": "22109"
+    },
+    "general_unicode": "基本区 U+947E",
+    "general_bs_code": "411125155444455444434112431"
+}

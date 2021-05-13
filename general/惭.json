@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ashamed, humiliated; shameful"
+        },
+        {
+            "language": "法语",
+            "explanation": "avoir honte"
+        }
+    ],
+    "general_pinyins": [
+        "cán"
+    ],
+    "general_zhuyins": [
+        "ㄘㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "慚"
+    ],
+    "general_ytz": [
+        "慚",
+        "慙",
+        "𩉒"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "60ED",
+            "44215213312"
+        ],
+        "char_code_wubi": "nlrh",
+        "char_code_cangjie": "pkql",
+        "char_code_zhengma": "uhpd",
+        "char_code_sijiao": "92021"
+    },
+    "general_unicode": "基本区 U+60ED",
+    "general_bs_code": "44215213312"
+}

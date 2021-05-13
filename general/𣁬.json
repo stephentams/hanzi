@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "斗",
+        "non_radical_sn": "0",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "斗"
+    ],
+    "general_structure": "嵌套结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2306C",
+            "5112"
+        ],
+        "char_code_wubi": "nfk",
+        "char_code_cangjie": "sj",
+        "char_code_zhengma": "xed"
+    },
+    "general_unicode": "扩展B U+2306C",
+    "general_bs_code": "5112"
+}

@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a kind of herb"
+        },
+        {
+            "language": "德语",
+            "explanation": "Chuanxiong (Med. Kraut a.d. östl. China)​  (S, Bio)"
+        }
+    ],
+    "general_pinyins": [
+        "xiōng"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄥ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "828E",
+            "122515"
+        ],
+        "char_code_wubi": "axb",
+        "char_code_cangjie": "tn",
+        "char_code_zhengma": "eyz",
+        "char_code_sijiao": "44027"
+    },
+    "general_unicode": "基本区 U+828E",
+    "general_bs_code": "122515"
+}

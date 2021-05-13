@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "name of a kind of animal"
+        }
+    ],
+    "general_pinyins": [
+        "lǐn",
+        "lìn"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄣˇ",
+        "ㄌㄧㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "乚",
+        "non_radical_sn": "12",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠄈",
+        "𦧾"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4E83",
+            "4312343541525"
+        ],
+        "char_code_wubi": "oqan|oqgn",
+        "char_code_cangjie": "fqu",
+        "char_code_zhengma": "ufmz",
+        "char_code_sijiao": "92210"
+    },
+    "general_unicode": "基本区 U+4E83",
+    "general_bs_code": "4312343541525"
+}

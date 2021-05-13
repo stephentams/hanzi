@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "shallow container; rad. no. 108"
+        },
+        {
+            "language": "德语",
+            "explanation": "Radikal Nr. 108 = Gefäß, Behälter, Schüssel, Teller"
+        },
+        {
+            "language": "法语",
+            "explanation": "plat,vaisselle,récipient peu profond,radical n°108"
+        }
+    ],
+    "general_pinyins": [
+        "mǐn"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "皿",
+        "non_radical_sn": "0",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "76BF",
+            "25221"
+        ],
+        "char_code_wubi": "lhng",
+        "char_code_cangjie": "bt",
+        "char_code_zhengma": "lka",
+        "char_code_sijiao": "77102"
+    },
+    "general_unicode": "基本区 U+76BF",
+    "general_bs_code": "25221"
+}

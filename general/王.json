@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "king, ruler; royal; surname"
+        },
+        {
+            "language": "德语",
+            "explanation": "Radikal Nr. 96 ,König  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "roi,prince,(nom de famille)​,régner sur"
+        }
+    ],
+    "general_pinyins": [
+        "wáng",
+        "wàng"
+    ],
+    "general_zhuyins": [
+        "ㄨㄤˊ",
+        "ㄨㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "0",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "玉",
+        "𠙻",
+        "𠰶",
+        "𡭤",
+        "𥝍",
+        "𤤇"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "738B",
+            "1121"
+        ],
+        "char_code_wubi": "gggg",
+        "char_code_cangjie": "mg",
+        "char_code_zhengma": "ca",
+        "char_code_sijiao": "10104"
+    },
+    "general_unicode": "基本区 U+738B",
+    "general_bs_code": "1121"
+}

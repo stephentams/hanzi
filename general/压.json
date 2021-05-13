@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "press; oppress; crush; pressure"
+        },
+        {
+            "language": "德语",
+            "explanation": "an erster Stelle, erstens ,ausdrücken, zerdrücken"
+        },
+        {
+            "language": "法语",
+            "explanation": "complètement,presser,peser,réprimer,soumettre,contenir,dominer,pression"
+        }
+    ],
+    "general_pinyins": [
+        "yā",
+        "yà"
+    ],
+    "general_zhuyins": [
+        "ㄧㄚ",
+        "ㄧㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "厂",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "壓"
+    ],
+    "general_ytz": [
+        "壓",
+        "圧",
+        "𡑅",
+        "𡒦"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "538B",
+            "131214"
+        ],
+        "char_code_wubi": "dfyi",
+        "char_code_cangjie": "mgi",
+        "char_code_zhengma": "ggbs",
+        "char_code_sijiao": "71213"
+    },
+    "general_unicode": "基本区 U+538B",
+    "general_bs_code": "131214"
+}

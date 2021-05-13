@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "big jar"
+        },
+        {
+            "language": "法语",
+            "explanation": "grande jarre"
+        }
+    ],
+    "general_pinyins": [
+        "dān"
+    ],
+    "general_zhuyins": [
+        "ㄉㄢ"
+    ],
+    "general_radical": {
+        "radical": "瓦",
+        "non_radical_sn": "13",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "瓭",
+        "𦉜"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7514",
+            "35133441112511554"
+        ],
+        "char_code_wubi": "qdwn|qdwy",
+        "char_code_cangjie": "nrmvn",
+        "char_code_zhengma": "rgys",
+        "char_code_sijiao": "21217"
+    },
+    "general_unicode": "基本区 U+7514",
+    "general_bs_code": "35133441112511554"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "kidneys; testes, gizzard"
+        },
+        {
+            "language": "德语",
+            "explanation": "Niere  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "reins,testicules"
+        }
+    ],
+    "general_pinyins": [
+        "shèn"
+    ],
+    "general_zhuyins": [
+        "ㄕㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "腎"
+    ],
+    "general_ytz": [
+        "腎",
+        "𦛒"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "80BE",
+            "22542511"
+        ],
+        "char_code_wubi": "jcef",
+        "char_code_cangjie": "leb",
+        "char_code_zhengma": "kdxq",
+        "char_code_sijiao": "27227"
+    },
+    "general_unicode": "基本区 U+80BE",
+    "general_bs_code": "22542511"
+}

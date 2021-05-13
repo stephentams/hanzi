@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "巳",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "死"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "22038",
+            "21354515"
+        ],
+        "char_code_wubi": "hqnn",
+        "char_code_cangjie": "ynru",
+        "char_code_zhengma": "idry"
+    },
+    "general_unicode": "扩展B U+22038",
+    "general_bs_code": "21354515"
+}

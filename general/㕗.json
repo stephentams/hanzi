@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 誘) to induce; to entice; to mislead; to lead on"
+        }
+    ],
+    "general_pinyins": [
+        "yòu"
+    ],
+    "general_zhuyins": [
+        "ㄧㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "厶",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "誘"
+    ],
+    "general_structure": "左下包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3557",
+            "43112135454"
+        ],
+        "char_code_wubi": "ugqc",
+        "char_code_cangjie": "toi",
+        "char_code_zhengma": "ucsz",
+        "char_code_sijiao": "82803"
+    },
+    "general_unicode": "扩展A U+3557",
+    "general_bs_code": "43112135454"
+}

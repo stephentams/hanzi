@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as U+97A8 鞨) to make ready the leather for shoes"
+        }
+    ],
+    "general_pinyins": [
+        "hé"
+    ],
+    "general_zhuyins": [
+        "ㄏㄜˊ"
+    ],
+    "general_radical": {
+        "radical": "刂",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "鞨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "34ED",
+            "25113534522"
+        ],
+        "char_code_wubi": "jqwj",
+        "char_code_cangjie": "avln",
+        "char_code_zhengma": "krkd",
+        "char_code_sijiao": "62700"
+    },
+    "general_unicode": "扩展A U+34ED",
+    "general_bs_code": "25113534522"
+}

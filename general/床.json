@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bed, couch; framework, chassis"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bett  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "chuáng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "广",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "牀",
+        "𢃅"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5E8A",
+            "4131234"
+        ],
+        "char_code_wubi": "ysi|osi",
+        "char_code_cangjie": "id",
+        "char_code_zhengma": "tgf",
+        "char_code_sijiao": "00294"
+    },
+    "general_unicode": "基本区 U+5E8A",
+    "general_bs_code": "4131234"
+}

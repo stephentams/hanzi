@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "gains, advantage, profit, merit"
+        },
+        {
+            "language": "德语",
+            "explanation": "scharf (Messer)​ ,bekommen, erhalten  (V)​,Vorteil, Gewinn, Profit"
+        },
+        {
+            "language": "法语",
+            "explanation": "profit,intérêt,avantage,tranchant,favorable"
+        }
+    ],
+    "general_pinyins": [
+        "lì"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "刂",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥝢",
+        "𥝤",
+        "痢",
+        "𠜫",
+        "利"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5229",
+            "3123422"
+        ],
+        "char_code_wubi": "tjh",
+        "char_code_cangjie": "hdln",
+        "char_code_zhengma": "mfkd",
+        "char_code_sijiao": "22900"
+    },
+    "general_unicode": "基本区 U+5229",
+    "general_bs_code": "3123422"
+}

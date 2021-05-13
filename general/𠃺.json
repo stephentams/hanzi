@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "jiù"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "乙",
+        "non_radical_sn": "9",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左下包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "200FA",
+            "5431325111"
+        ],
+        "char_code_wubi": "nuth",
+        "char_code_cangjie": "nthu",
+        "char_code_zhengma": "ydan"
+    },
+    "general_unicode": "扩展B U+200FA",
+    "general_bs_code": "5431325111"
+}

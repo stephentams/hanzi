@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dark, gloomy, night; deep"
+        },
+        {
+            "language": "法语",
+            "explanation": "sombre,obscur,profond"
+        }
+    ],
+    "general_pinyins": [
+        "míng"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "冖",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㝠",
+        "㫥",
+        "䆩",
+        "暝",
+        "𠕾",
+        "𠖇",
+        "𡨋",
+        "𡨕",
+        "𡨶",
+        "𣩆",
+        "𥦏",
+        "𥦴",
+        "溟",
+        "瞑"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "51A5",
+            "4525114134"
+        ],
+        "char_code_wubi": "pjuu",
+        "char_code_cangjie": "bayc",
+        "char_code_zhengma": "wwso",
+        "char_code_sijiao": "37800"
+    },
+    "general_unicode": "基本区 U+51A5",
+    "general_bs_code": "4525114134"
+}

@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wrong, evil, depraved, vicious, perverse, heterodox"
+        },
+        {
+            "language": "德语",
+            "explanation": "dämonisch  (Adj)​,ruchlos  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "mauvais,malfaisant"
+        }
+    ],
+    "general_pinyins": [
+        "xié",
+        "yé"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄝˊ",
+        "ㄧㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "斜",
+        "耶",
+        "衺",
+        "𧘪",
+        "𨚌",
+        "铘",
+        "釾"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "90AA",
+            "152352"
+        ],
+        "char_code_wubi": "ahtb",
+        "char_code_cangjie": "mhnl",
+        "char_code_zhengma": "hiy",
+        "char_code_sijiao": "77227"
+    },
+    "general_unicode": "基本区 U+90AA",
+    "general_bs_code": "152352"
+}

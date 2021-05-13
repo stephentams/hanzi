@@ -1,0 +1,23 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "乙",
+        "non_radical_sn": "5",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "200E6",
+            "251215"
+        ],
+        "char_code_wubi": "mnn",
+        "char_code_cangjie": "lwu",
+        "char_code_zhengma": "kiaz"
+    },
+    "general_unicode": "扩展B U+200E6",
+    "general_bs_code": "251215"
+}

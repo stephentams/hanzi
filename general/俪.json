@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "spouse, couple, pair"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ehegatten  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "ensemble,compagne,épouse"
+        }
+    ],
+    "general_pinyins": [
+        "lì"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "儷"
+    ],
+    "general_ytz": [
+        "儷",
+        "㒧",
+        "𠌯"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4FEA",
+            "321254254"
+        ],
+        "char_code_wubi": "wgmy",
+        "char_code_cangjie": "ombb",
+        "char_code_zhengma": "nall",
+        "char_code_sijiao": "21227"
+    },
+    "general_unicode": "基本区 U+4FEA",
+    "general_bs_code": "321254254"
+}

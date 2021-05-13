@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "art, skill, special feat; method, technique"
+        },
+        {
+            "language": "德语",
+            "explanation": "Können, Kunstfertigkeit  (S)​,Methode, Verfahren  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "plantes de la famille des marguerites (botanique)​,méthode,technique"
+        }
+    ],
+    "general_pinyins": [
+        "shù",
+        "shú",
+        "zhú"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨˋ",
+        "ㄕㄨˊ",
+        "ㄓㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "1",
+        "total_sn": "5"
+    },
+    "general_stc": [
+        "術"
+    ],
+    "general_ytz": [
+        "秫",
+        "術",
+        "朮",
+        "𦬸",
+        "𧗱"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "672F",
+            "12344"
+        ],
+        "char_code_wubi": "syi",
+        "char_code_cangjie": "id",
+        "char_code_zhengma": "fsvv",
+        "char_code_sijiao": "43900"
+    },
+    "general_unicode": "基本区 U+672F",
+    "general_bs_code": "12344"
+}

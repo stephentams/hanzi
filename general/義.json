@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "right conduct, righteousness"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bedeutung, Sinn ,Gerechtigkeit, gerecht"
+        },
+        {
+            "language": "法语",
+            "explanation": "justice,droiture,morale,sens,juste,équitable,adoptif"
+        }
+    ],
+    "general_pinyins": [
+        "yì"
+    ],
+    "general_zhuyins": [
+        "ㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "八",
+        "non_radical_sn": "11",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "义"
+    ],
+    "general_ytz": [
+        "儀",
+        "义",
+        "羛",
+        "誼",
+        "𠌾"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7FA9",
+            "4311213121534"
+        ],
+        "char_code_wubi": "ugtt|ugty",
+        "char_code_cangjie": "tghqi",
+        "char_code_zhengma": "ucmh",
+        "char_code_sijiao": "80553"
+    },
+    "general_unicode": "基本区 U+7FA9",
+    "general_bs_code": "4311213121534"
+}

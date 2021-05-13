@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "法语",
+            "explanation": "récompense,paiement,rémunération,rétribution,remplir,réaliser"
+        }
+    ],
+    "general_pinyins": [
+        "chóu"
+    ],
+    "general_zhuyins": [
+        "ㄔㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "酉",
+        "non_radical_sn": "14",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "酬",
+        "𨣊",
+        "𨢫"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "91BB",
+            "125351112151211251124"
+        ],
+        "char_code_wubi": "sgff",
+        "char_code_cangjie": "mwgni",
+        "char_code_zhengma": "fdjd",
+        "char_code_sijiao": "14641"
+    },
+    "general_unicode": "基本区 U+91BB",
+    "general_bs_code": "125351112151211251124"
+}

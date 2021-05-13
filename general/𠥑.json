@@ -1,0 +1,27 @@
+{
+    "general_pinyins": [
+        "diào"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "匚",
+        "non_radical_sn": "10",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "蓧"
+    ],
+    "general_structure": "左包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "20951",
+            "1322313412345"
+        ],
+        "char_code_wubi": "awhs",
+        "char_code_cangjie": "sold",
+        "char_code_zhengma": "hnrf"
+    },
+    "general_unicode": "扩展B U+20951",
+    "general_bs_code": "1322313412345"
+}

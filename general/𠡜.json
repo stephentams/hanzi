@@ -1,0 +1,27 @@
+{
+    "general_pinyins": [
+        "kè"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "力",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠡤"
+    ],
+    "general_structure": "左下包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2085C",
+            "41543553"
+        ],
+        "char_code_wubi": "ycql",
+        "char_code_cangjie": "yuks",
+        "char_code_zhengma": "szry"
+    },
+    "general_unicode": "扩展B U+2085C",
+    "general_bs_code": "41543553"
+}

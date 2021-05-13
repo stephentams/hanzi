@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "people, subjects, citizens"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bevölkerung  (S)​,Volk  (S)​,volkstümlich  (Adj)​,zivil  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "peuple,gens du commun"
+        }
+    ],
+    "general_pinyins": [
+        "mín"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "乛",
+        "non_radical_sn": "4",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠘽",
+        "𡻾"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6C11",
+            "51515"
+        ],
+        "char_code_wubi": "nav",
+        "char_code_cangjie": "rvp",
+        "char_code_zhengma": "yybh",
+        "char_code_sijiao": "77747"
+    },
+    "general_unicode": "基本区 U+6C11",
+    "general_bs_code": "51515"
+}

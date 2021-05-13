@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "shoot, eject, issue forth, emit"
+        },
+        {
+            "language": "德语",
+            "explanation": "schießen ,filmen, Jagdpacht  (S)​,Schuss  (S)​,She  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tirer,jaillir,émettre"
+        }
+    ],
+    "general_pinyins": [
+        "shè",
+        "yè",
+        "yì"
+    ],
+    "general_zhuyins": [
+        "ㄕㄜˋ",
+        "ㄧㄝˋ",
+        "ㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "寸",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䠶",
+        "𡬤",
+        "𢎤",
+        "𨈡",
+        "𨉅",
+        "𨉛",
+        "榭"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5C04",
+            "3251113124"
+        ],
+        "char_code_wubi": "tmdf",
+        "char_code_cangjie": "hhdi",
+        "char_code_zhengma": "ncds",
+        "char_code_sijiao": "24200"
+    },
+    "general_unicode": "基本区 U+5C04",
+    "general_bs_code": "3251113124"
+}

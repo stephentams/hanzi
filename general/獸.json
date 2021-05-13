@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "beast, animal; bestial"
+        },
+        {
+            "language": "德语",
+            "explanation": "brutaler Mensch, roher Mensch, Barbar  (S)​,Tier, Biest  (S)​,bestialisch, tierisch, barbarisch  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bête,animal"
+        }
+    ],
+    "general_pinyins": [
+        "shòu"
+    ],
+    "general_zhuyins": [
+        "ㄕㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "犬",
+        "non_radical_sn": "15",
+        "total_sn": "19"
+    },
+    "general_stc": [
+        "兽"
+    ],
+    "general_ytz": [
+        "狩",
+        "兽",
+        "嘼",
+        "獣",
+        "𤢚",
+        "𠾧"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7378",
+            "2512512512112511344"
+        ],
+        "char_code_wubi": "kkld",
+        "char_code_cangjie": "rrik",
+        "char_code_zhengma": "jjgs",
+        "char_code_sijiao": "63684"
+    },
+    "general_unicode": "基本区 U+7378",
+    "general_bs_code": "2512512512112511344"
+}

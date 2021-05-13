@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "restrain, seize, detain"
+        },
+        {
+            "language": "德语",
+            "explanation": "be-,einschränken  (V)​,befangen, gehemmt  (V)​,erfassen, erbeuten  (V)​,verhaften, festnehmen, inhaftieren  (V)​,unbeweglich, unflexibel  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "contraindre,limiter"
+        }
+    ],
+    "general_pinyins": [
+        "jū",
+        "gōu"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩ",
+        "ㄍㄡ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "佝",
+        "抅",
+        "𢳉",
+        "挶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "62D8",
+            "12135251"
+        ],
+        "char_code_wubi": "rqkg",
+        "char_code_cangjie": "qpr",
+        "char_code_zhengma": "drj",
+        "char_code_sijiao": "57020"
+    },
+    "general_unicode": "基本区 U+62D8",
+    "general_bs_code": "12135251"
+}

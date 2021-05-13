@@ -1,0 +1,32 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "an immortal"
+        }
+    ],
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "18",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "僼"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "34A5",
+            "32111221112521251431"
+        ],
+        "char_code_wubi": "wdhu|wmdu",
+        "char_code_cangjie": "oujt",
+        "char_code_zhengma": "nci",
+        "char_code_sijiao": "22218"
+    },
+    "general_unicode": "扩展A U+34A5",
+    "general_bs_code": "32111221112521251431"
+}

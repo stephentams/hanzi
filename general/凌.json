@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pure; virtuous; insult; maltreat"
+        },
+        {
+            "language": "德语",
+            "explanation": "Eisblock; schikanieren  (S)​,Ling  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "glace,insulter,offenser,maltraiter,monter"
+        }
+    ],
+    "general_pinyins": [
+        "líng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "冫",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "淩",
+        "𠗲",
+        "𣎎",
+        "夌",
+        "𣣋",
+        "凌"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "51CC",
+            "4112134354"
+        ],
+        "char_code_wubi": "ufwt",
+        "char_code_cangjie": "imgce",
+        "char_code_zhengma": "tdor",
+        "char_code_sijiao": "34147"
+    },
+    "general_unicode": "基本区 U+51CC",
+    "general_bs_code": "4112134354"
+}

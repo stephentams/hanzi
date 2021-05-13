@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as U+929C 銜 U+5563 啣) to hold in the mouth"
+        }
+    ],
+    "general_pinyins": [
+        "xián"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "14",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "銜"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3605",
+            "2513323411243112"
+        ],
+        "char_code_wubi": "ktqh|ktqs",
+        "char_code_cangjie": "rhon",
+        "char_code_zhengma": "jop",
+        "char_code_sijiao": "61021"
+    },
+    "general_unicode": "扩展A U+3605",
+    "general_bs_code": "2513323411243112"
+}

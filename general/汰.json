@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "excessive; scour, wash out"
+        },
+        {
+            "language": "德语",
+            "explanation": "ablegen, ausschalten ,allzu, auch ,entfernen, beseitigen"
+        },
+        {
+            "language": "法语",
+            "explanation": "éliminer,écarter"
+        }
+    ],
+    "general_pinyins": [
+        "tài"
+    ],
+    "general_zhuyins": [
+        "ㄊㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "汏",
+        "溙",
+        "𡊀",
+        "𡊌",
+        "汱",
+        "㑀"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6C70",
+            "4411344"
+        ],
+        "char_code_wubi": "idyy",
+        "char_code_cangjie": "eki",
+        "char_code_zhengma": "vgs",
+        "char_code_sijiao": "34130"
+    },
+    "general_unicode": "基本区 U+6C70",
+    "general_bs_code": "4411344"
+}

@@ -1,0 +1,33 @@
+{
+    "general_pinyins": [
+        "guǐ"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄟˇ"
+    ],
+    "general_radical": {
+        "radical": "厂",
+        "non_radical_sn": "12",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣲼",
+        "𣷾",
+        "𣽞",
+        "氿"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "53AC",
+            "13251135424251"
+        ],
+        "char_code_wubi": "djtk",
+        "char_code_cangjie": "mahr",
+        "char_code_zhengma": "ggij",
+        "char_code_sijiao": "71264"
+    },
+    "general_unicode": "基本区 U+53AC",
+    "general_bs_code": "13251135424251"
+}

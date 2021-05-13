@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "excellent; to commend to be able to"
+        },
+        {
+            "language": "德语",
+            "explanation": "außerordentlich, ausgezeichnet, bemerkenswert [ lobenswert und verdienstvoll 称许,可嘉 ]  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "manifester son approbation,louer"
+        }
+    ],
+    "general_pinyins": [
+        "gě",
+        "jiā"
+    ],
+    "general_zhuyins": [
+        "ㄍㄜˇ",
+        "ㄐㄧㄚ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠵲"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "54FF",
+            "5325112512"
+        ],
+        "char_code_wubi": "lksk|eksk",
+        "char_code_cangjie": "krmnr",
+        "char_code_zhengma": "ymaj",
+        "char_code_sijiao": "46621"
+    },
+    "general_unicode": "基本区 U+54FF",
+    "general_bs_code": "5325112512"
+}

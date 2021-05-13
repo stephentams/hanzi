@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 守) to guide; to watch, to wait, to keep"
+        }
+    ],
+    "general_pinyins": [
+        "shǒu"
+    ],
+    "general_zhuyins": [
+        "ㄕㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "宀",
+        "non_radical_sn": "2",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "守"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "374A",
+            "44554"
+        ],
+        "char_code_wubi": "pcu",
+        "char_code_cangjie": "je",
+        "char_code_zhengma": "wdxs",
+        "char_code_sijiao": "30407"
+    },
+    "general_unicode": "扩展A U+374A",
+    "general_bs_code": "44554"
+}

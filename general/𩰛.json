@@ -1,0 +1,24 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "鬥",
+        "non_radical_sn": "13",
+        "total_sn": "23"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "鬥"
+    ],
+    "general_structure": "上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "29C1B",
+            "21121112121212514311254"
+        ],
+        "char_code_wubi": "jggc",
+        "char_code_zhengma": "ccex"
+    },
+    "general_unicode": "扩展B U+29C1B",
+    "general_bs_code": "21121112121212514311254"
+}

@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "yeast; leaven for making liquors"
+        },
+        {
+            "language": "德语",
+            "explanation": "Spross, Keim  (S, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "talle"
+        }
+    ],
+    "general_pinyins": [
+        "niè"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "16",
+        "total_sn": "20"
+    },
+    "general_stc": [
+        "蘖"
+    ],
+    "general_ytz": [
+        "蘖",
+        "蠥",
+        "㮆",
+        "𣡌",
+        "𣎴"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6AF1",
+            "52332515141431121234"
+        ],
+        "char_code_wubi": "btws|btts",
+        "char_code_cangjie": "ujd",
+        "char_code_zhengma": "zisf",
+        "char_code_sijiao": "20904"
+    },
+    "general_unicode": "基本区 U+6AF1",
+    "general_bs_code": "52332515141431121234"
+}

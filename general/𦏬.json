@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "羊",
+        "non_radical_sn": "18",
+        "total_sn": "24"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "羶"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "263EC",
+            "431112411125141112514444"
+        ],
+        "char_code_wubi": "udyo",
+        "char_code_cangjie": "trf",
+        "char_code_zhengma": "ucsu"
+    },
+    "general_unicode": "扩展B U+263EC",
+    "general_bs_code": "431112411125141112514444"
+}

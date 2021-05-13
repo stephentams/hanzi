@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cliff"
+        }
+    ],
+    "general_pinyins": [
+        "kàn"
+    ],
+    "general_zhuyins": [
+        "ㄎㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "坎"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5888",
+            "12112211134553"
+        ],
+        "char_code_wubi": "fadl|fdwe",
+        "char_code_cangjie": "gtvs",
+        "char_code_zhengma": "bezy",
+        "char_code_sijiao": "44127"
+    },
+    "general_unicode": "基本区 U+5888",
+    "general_bs_code": "12112211134553"
+}

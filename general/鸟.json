@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bird; KangXi radical 196"
+        },
+        {
+            "language": "德语",
+            "explanation": "Vogel (S, Bio)​,Radikal Nr. 196 = Vogel\"_x000d_"
+        },
+        {
+            "language": "法语",
+            "explanation": "pénis,oiseau,196e radical"
+        }
+    ],
+    "general_pinyins": [
+        "niǎo"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "鸟",
+        "non_radical_sn": "0",
+        "total_sn": "5"
+    },
+    "general_stc": [
+        "鳥"
+    ],
+    "general_ytz": [
+        "鳥",
+        "𡖗",
+        "𡗃",
+        "𩾑"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E1F",
+            "35451"
+        ],
+        "char_code_wubi": "qyng|qgd",
+        "char_code_cangjie": "pysm",
+        "char_code_zhengma": "rz",
+        "char_code_sijiao": "27127"
+    },
+    "general_unicode": "基本区 U+9E1F",
+    "general_bs_code": "35451"
+}

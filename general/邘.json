@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "state in Henan province"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ortsname  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom de lieu)​"
+        }
+    ],
+    "general_pinyins": [
+        "yú"
+    ],
+    "general_zhuyins": [
+        "ㄩˊ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "3",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨙱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9098",
+            "11252"
+        ],
+        "char_code_wubi": "gfbh",
+        "char_code_cangjie": "mdnl",
+        "char_code_zhengma": "ady",
+        "char_code_sijiao": "17427"
+    },
+    "general_unicode": "基本区 U+9098",
+    "general_bs_code": "11252"
+}

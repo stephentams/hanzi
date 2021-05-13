@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "enjoy, be glad, be pleased"
+        },
+        {
+            "language": "德语",
+            "explanation": "frohlocken, jauchzen"
+        },
+        {
+            "language": "法语",
+            "explanation": "joyeux,réjoui"
+        }
+    ],
+    "general_pinyins": [
+        "yì"
+    ],
+    "general_zhuyins": [
+        "ㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "懌"
+    ],
+    "general_ytz": [
+        "懌"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "603F",
+            "44254112"
+        ],
+        "char_code_wubi": "ncfh|ncgh",
+        "char_code_cangjie": "peq",
+        "char_code_zhengma": "uxbi",
+        "char_code_sijiao": "97054"
+    },
+    "general_unicode": "基本区 U+603F",
+    "general_bs_code": "44254112"
+}

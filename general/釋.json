@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "interprete, elucidate; release"
+        },
+        {
+            "language": "德语",
+            "explanation": "auslösen, entlassen  (V)​,darlegen, erklären  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "expliquer,libérer,bouddhisme"
+        }
+    ],
+    "general_pinyins": [
+        "shì"
+    ],
+    "general_zhuyins": [
+        "ㄕˋ"
+    ],
+    "general_radical": {
+        "radical": "采",
+        "non_radical_sn": "13",
+        "total_sn": "20"
+    },
+    "general_stc": [
+        "释"
+    ],
+    "general_ytz": [
+        "醳",
+        "釈",
+        "释"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "91CB",
+            "34312342522112143112"
+        ],
+        "char_code_wubi": "tolf",
+        "char_code_cangjie": "hdwlj",
+        "char_code_zhengma": "pfbu",
+        "char_code_sijiao": "26941"
+    },
+    "general_unicode": "基本区 U+91CB",
+    "general_bs_code": "34312342522112143112"
+}

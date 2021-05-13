@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dot; KangXi radical 3"
+        },
+        {
+            "language": "德语",
+            "explanation": "Radikal Nr. 3 = Punkt"
+        },
+        {
+            "language": "法语",
+            "explanation": "point (radical)​"
+        }
+    ],
+    "general_pinyins": [
+        "zhǔ"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "丶",
+        "non_radical_sn": "0",
+        "total_sn": "1"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𪐴",
+        "注"
+    ],
+    "general_structure": "单体结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4E36",
+            "4"
+        ],
+        "char_code_wubi": "yyll",
+        "char_code_cangjie": "i",
+        "char_code_zhengma": "saaa",
+        "char_code_sijiao": "30000"
+    },
+    "general_unicode": "基本区 U+4E36",
+    "general_bs_code": "4"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "white; pure, unblemished; bright"
+        },
+        {
+            "language": "德语",
+            "explanation": "weiß (Adj)​,hell, klar (Adj)​,rein (Adj)​,Bai (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "blanc,clair,pur,en vain"
+        }
+    ],
+    "general_pinyins": [
+        "bái"
+    ],
+    "general_zhuyins": [
+        "ㄅㄞˊ"
+    ],
+    "general_radical": {
+        "radical": "白",
+        "non_radical_sn": "0",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "伯",
+        "㿟",
+        "𤼽",
+        "𦣺",
+        "𤽁"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "767D",
+            "32511"
+        ],
+        "char_code_wubi": "rrrr",
+        "char_code_cangjie": "ha",
+        "char_code_zhengma": "nk",
+        "char_code_sijiao": "26000"
+    },
+    "general_unicode": "基本区 U+767D",
+    "general_bs_code": "32511"
+}

@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a pleat in a skirt"
+        }
+    ],
+    "general_pinyins": [
+        "zhě"
+    ],
+    "general_zhuyins": [
+        "ㄓㄜˇ"
+    ],
+    "general_radical": {
+        "radical": "衤",
+        "non_radical_sn": "18",
+        "total_sn": "23"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㡇",
+        "𫌇"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8975",
+            "45234122111122111122111"
+        ],
+        "char_code_wubi": "pubb",
+        "char_code_cangjie": "lsjj",
+        "char_code_zhengma": "wtcc",
+        "char_code_sijiao": "31241"
+    },
+    "general_unicode": "基本区 U+8975",
+    "general_bs_code": "45234122111122111122111"
+}

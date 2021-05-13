@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "capture, seize"
+        },
+        {
+            "language": "德语",
+            "explanation": "gefangen nehmen, gefangennehmen [alt]"
+        },
+        {
+            "language": "法语",
+            "explanation": "capturer,piller,prisonnier,esclave"
+        }
+    ],
+    "general_pinyins": [
+        "lǔ"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "掳"
+    ],
+    "general_ytz": [
+        "掳",
+        "擄"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "64C4",
+            "1212153152512153"
+        ],
+        "char_code_wubi": "rhal|rhle",
+        "char_code_cangjie": "qyps",
+        "char_code_zhengma": "diky",
+        "char_code_sijiao": "51027"
+    },
+    "general_unicode": "基本区 U+64C4",
+    "general_bs_code": "1212153152512153"
+}

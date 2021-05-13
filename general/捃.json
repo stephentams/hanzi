@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "德语",
+            "explanation": "erfassen, sammeln ,ordnen, sortieren"
+        }
+    ],
+    "general_pinyins": [
+        "jùn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "攈",
+        "攟",
+        "𢹲"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6343",
+            "1215113251"
+        ],
+        "char_code_wubi": "rvtk",
+        "char_code_cangjie": "qskr",
+        "char_code_zhengma": "dxj",
+        "char_code_sijiao": "57067"
+    },
+    "general_unicode": "基本区 U+6343",
+    "general_bs_code": "1215113251"
+}

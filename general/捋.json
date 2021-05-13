@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to pluck; to gather in the fingers; to rub; to scrape off"
+        },
+        {
+            "language": "德语",
+            "explanation": "ausräumen, abschneiden ,streicheln, Anschlag  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "lisser,peigner avec les doigts,tirer,dépouiller"
+        }
+    ],
+    "general_pinyins": [
+        "luō",
+        "lǚ"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄛ",
+        "ㄌㄩˇ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "寽"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "634B",
+            "1213443124"
+        ],
+        "char_code_wubi": "refy",
+        "char_code_cangjie": "qbdi",
+        "char_code_zhengma": "dpds",
+        "char_code_sijiao": "52049"
+    },
+    "general_unicode": "基本区 U+634B",
+    "general_bs_code": "1213443124"
+}

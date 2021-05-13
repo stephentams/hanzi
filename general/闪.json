@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "flash; avoid, dodge, evade"
+        },
+        {
+            "language": "德语",
+            "explanation": "Blitz  (S)​,Shan  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "s'esquiver,quitter,briller,étinceler"
+        }
+    ],
+    "general_pinyins": [
+        "shǎn"
+    ],
+    "general_zhuyins": [
+        "ㄕㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "门",
+        "non_radical_sn": "2",
+        "total_sn": "5"
+    },
+    "general_stc": [
+        "閃"
+    ],
+    "general_ytz": [
+        "閃",
+        "䠾",
+        "𤊼",
+        "𩆫"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "95EA",
+            "42534"
+        ],
+        "char_code_wubi": "uwi",
+        "char_code_cangjie": "lso",
+        "char_code_zhengma": "tlod",
+        "char_code_sijiao": "37801"
+    },
+    "general_unicode": "基本区 U+95EA",
+    "general_bs_code": "42534"
+}

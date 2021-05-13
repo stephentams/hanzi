@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to play (on an instrument); to accompany; to banter, jeer"
+        }
+    ],
+    "general_pinyins": [
+        "zá",
+        "cà"
+    ],
+    "general_zhuyins": [
+        "ㄗㄚˊ",
+        "ㄘㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "18",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "咋"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "56C3",
+            "251413434123432411121"
+        ],
+        "char_code_wubi": "kywy",
+        "char_code_cangjie": "rydg",
+        "char_code_zhengma": "jsfn",
+        "char_code_sijiao": "60015"
+    },
+    "general_unicode": "基本区 U+56C3",
+    "general_bs_code": "251413434123432411121"
+}

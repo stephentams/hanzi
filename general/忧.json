@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sad, grieved; grief, melancholy"
+        },
+        {
+            "language": "德语",
+            "explanation": "besorgt, abgequält"
+        },
+        {
+            "language": "法语",
+            "explanation": "chagrin,souci,tristesse,mélancolie,se soucier de,s'affliger"
+        }
+    ],
+    "general_pinyins": [
+        "yōu"
+    ],
+    "general_zhuyins": [
+        "ㄧㄡ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "憂"
+    ],
+    "general_ytz": [
+        "㤑",
+        "憂",
+        "㥑",
+        "𠪍",
+        "𠮕",
+        "𢙥",
+        "𢝊",
+        "𨗫",
+        "𩕂"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5FE7",
+            "4421354"
+        ],
+        "char_code_wubi": "ndnn|ndny",
+        "char_code_cangjie": "piku",
+        "char_code_zhengma": "ugr",
+        "char_code_sijiao": "93012"
+    },
+    "general_unicode": "基本区 U+5FE7",
+    "general_bs_code": "4421354"
+}

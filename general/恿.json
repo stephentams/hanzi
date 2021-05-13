@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "instigate, incite; to alarm"
+        },
+        {
+            "language": "德语",
+            "explanation": "animieren, anspornen"
+        }
+    ],
+    "general_pinyins": [
+        "yǒng"
+    ],
+    "general_zhuyins": [
+        "ㄩㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "勇",
+        "恫",
+        "慂"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "607F",
+            "54251124544"
+        ],
+        "char_code_wubi": "cenu",
+        "char_code_cangjie": "nbp",
+        "char_code_zhengma": "xslw",
+        "char_code_sijiao": "17332"
+    },
+    "general_unicode": "基本区 U+607F",
+    "general_bs_code": "54251124544"
+}

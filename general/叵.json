@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cannot, be unable do, improbable; thereupon"
+        },
+        {
+            "language": "法语",
+            "explanation": "impossible"
+        }
+    ],
+    "general_pinyins": [
+        "pǒ"
+    ],
+    "general_zhuyins": [
+        "ㄆㄛˇ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "2",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "尀",
+        "頗",
+        "𡬡"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "53F5",
+            "12515"
+        ],
+        "char_code_wubi": "akd",
+        "char_code_cangjie": "sr",
+        "char_code_zhengma": "hjvv",
+        "char_code_sijiao": "71716"
+    },
+    "general_unicode": "基本区 U+53F5",
+    "general_bs_code": "12515"
+}

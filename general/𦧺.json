@@ -1,0 +1,33 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(Cant.) to lick, lap up"
+        }
+    ],
+    "general_pinyins": [
+        "lài"
+    ],
+    "general_zhuyins": [
+        "ㄌㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "舌",
+        "non_radical_sn": "16",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "269FA",
+            "1122511251234532511134"
+        ],
+        "char_code_wubi": "tdgm",
+        "char_code_cangjie": "hrdlc",
+        "char_code_zhengma": "miyl"
+    },
+    "general_unicode": "扩展B U+269FA",
+    "general_bs_code": "1122511251234532511134"
+}

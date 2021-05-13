@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "show, manifest; demonstrate"
+        },
+        {
+            "language": "德语",
+            "explanation": "zeigen  (V)​,Radikal Nr. 113 = zeigen, verkünden, demonstrieren (Variante: 礻)​; frühere Bedeutung: verehren, opfern  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "montrer,indiquer"
+        }
+    ],
+    "general_pinyins": [
+        "shì"
+    ],
+    "general_zhuyins": [
+        "ㄕˋ"
+    ],
+    "general_radical": {
+        "radical": "示",
+        "non_radical_sn": "0",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "眎",
+        "𡭕",
+        "𥘅",
+        "𧵋",
+        "祇",
+        "礻"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "793A",
+            "11234"
+        ],
+        "char_code_wubi": "fiu",
+        "char_code_cangjie": "mmf",
+        "char_code_zhengma": "bk",
+        "char_code_sijiao": "10901"
+    },
+    "general_unicode": "基本区 U+793A",
+    "general_bs_code": "11234"
+}

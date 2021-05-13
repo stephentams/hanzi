@@ -1,0 +1,32 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "call for pigs"
+        }
+    ],
+    "general_pinyins": [
+        "lē"
+    ],
+    "general_zhuyins": [
+        "ㄌㄜ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "15",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "210D6",
+            "251215315251214544"
+        ],
+        "char_code_wubi": "khan",
+        "char_code_zhengma": "jikw"
+    },
+    "general_unicode": "扩展B U+210D6",
+    "general_bs_code": "251215315251214544"
+}

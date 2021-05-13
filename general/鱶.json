@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a shark"
+        }
+    ],
+    "general_pinyins": [
+        "xiǎng"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "魚",
+        "non_radical_sn": "14",
+        "total_sn": "25"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "鮝"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9C76",
+            "3525121444443111344511534"
+        ],
+        "char_code_wubi": "qoue|qouv",
+        "char_code_cangjie": "nftov",
+        "char_code_zhengma": "rusx",
+        "char_code_sijiao": "28332"
+    },
+    "general_unicode": "基本区 U+9C76",
+    "general_bs_code": "3525121444443111344511534"
+}

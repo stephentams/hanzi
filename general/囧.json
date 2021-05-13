@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "德语",
+            "explanation": "als Emoticon,Smiley, ähnlich -.- ; geschockt, amüsiert, entsetzt  (S)​,hell; Licht (Variante von 冏)​ ,Samtpappel"
+        },
+        {
+            "language": "法语",
+            "explanation": "(utilisé comme émoticône pour exprimer le choc, l'amusement ou la stupéfaction)​"
+        }
+    ],
+    "general_pinyins": [
+        "jiǒng"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "囗",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "冏"
+    ],
+    "general_structure": "全包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "56E7",
+            "2534251"
+        ],
+        "char_code_wubi": "lwmv",
+        "char_code_cangjie": "wcb",
+        "char_code_zhengma": "jdol",
+        "char_code_sijiao": "60227"
+    },
+    "general_unicode": "基本区 U+56E7",
+    "general_bs_code": "2534251"
+}

@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mistress, concubine; weak"
+        },
+        {
+            "language": "法语",
+            "explanation": "maîtresse,concubine,faiblesse"
+        }
+    ],
+    "general_pinyins": [
+        "rú"
+    ],
+    "general_zhuyins": [
+        "ㄖㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "14",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡢉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5B2C",
+            "53114524444132522"
+        ],
+        "char_code_wubi": "vfdj",
+        "char_code_cangjie": "vmbb",
+        "char_code_zhengma": "zmfg",
+        "char_code_sijiao": "41427"
+    },
+    "general_unicode": "基本区 U+5B2C",
+    "general_bs_code": "53114524444132522"
+}

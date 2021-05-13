@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "invitation card; notice"
+        },
+        {
+            "language": "法语",
+            "explanation": "soumis,obéissant,docile,carte,faire-part,livre de modèles de la calligraphie à imiter et à copier"
+        }
+    ],
+    "general_pinyins": [
+        "tiè",
+        "tiě",
+        "tiē"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧㄝˋ",
+        "ㄊㄧㄝˇ",
+        "ㄊㄧㄝ"
+    ],
+    "general_radical": {
+        "radical": "巾",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5E16",
+            "25221251"
+        ],
+        "char_code_wubi": "mhhk",
+        "char_code_cangjie": "lbyr",
+        "char_code_zhengma": "liij",
+        "char_code_sijiao": "41260"
+    },
+    "general_unicode": "基本区 U+5E16",
+    "general_bs_code": "25221251"
+}

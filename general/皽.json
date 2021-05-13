@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "scurf"
+        },
+        {
+            "language": "德语",
+            "explanation": "Krätze, Schorf  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "zhāo",
+        "zhǎn",
+        "dǎn"
+    ],
+    "general_zhuyins": [
+        "ㄓㄠ",
+        "ㄓㄢˇ",
+        "ㄉㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "皮",
+        "non_radical_sn": "13",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤿝",
+        "𤿘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "76BD",
+            "412525112511153254"
+        ],
+        "char_code_wubi": "ylkc|ylkb",
+        "char_code_cangjie": "ymdhe",
+        "char_code_zhengma": "sjax",
+        "char_code_sijiao": "04147"
+    },
+    "general_unicode": "基本区 U+76BD",
+    "general_bs_code": "412525112511153254"
+}

@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "report, tell, announce"
+        },
+        {
+            "language": "德语",
+            "explanation": "melden  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "journal,périodique,rapport,déclarer,annoncer,informer,récompenser,venger"
+        }
+    ],
+    "general_pinyins": [
+        "bào"
+    ],
+    "general_zhuyins": [
+        "ㄅㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "報"
+    ],
+    "general_ytz": [
+        "報",
+        "𡙈",
+        "𨖦",
+        "𨖪",
+        "𢭮"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "62A5",
+            "1215254"
+        ],
+        "char_code_wubi": "rbcy",
+        "char_code_cangjie": "qsle",
+        "char_code_zhengma": "dyxs",
+        "char_code_sijiao": "57047"
+    },
+    "general_unicode": "基本区 U+62A5",
+    "general_bs_code": "1215254"
+}

@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "elder brother; descendants"
+        },
+        {
+            "language": "德语",
+            "explanation": "Abkömmling, Abkomme  (S)​,Kun  (Eig, Fam)​,älterer Bruder"
+        },
+        {
+            "language": "法语",
+            "explanation": "frère aîné,ensemble,ensuite"
+        }
+    ],
+    "general_pinyins": [
+        "kūn"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄣ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㒭",
+        "晜",
+        "罤",
+        "𣋥",
+        "𥊽",
+        "𧲟"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6606",
+            "25111535"
+        ],
+        "char_code_wubi": "jxxb",
+        "char_code_cangjie": "app",
+        "char_code_zhengma": "krrr",
+        "char_code_sijiao": "60712"
+    },
+    "general_unicode": "基本区 U+6606",
+    "general_bs_code": "25111535"
+}

@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "help, aid, assist"
+        },
+        {
+            "language": "德语",
+            "explanation": "helfen, beistehen, unterstützen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "aider,assister"
+        }
+    ],
+    "general_pinyins": [
+        "zhù",
+        "chú"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨˋ",
+        "ㄔㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "力",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦔳",
+        "𧴧",
+        "鋤",
+        "𤋰"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "52A9",
+            "2511153"
+        ],
+        "char_code_wubi": "egln|eget",
+        "char_code_cangjie": "bmks",
+        "char_code_zhengma": "lcym",
+        "char_code_sijiao": "74127"
+    },
+    "general_unicode": "基本区 U+52A9",
+    "general_bs_code": "2511153"
+}

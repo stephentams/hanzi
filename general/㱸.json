@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to exhaust; extreme; highest; farthest, to die"
+        }
+    ],
+    "general_pinyins": [
+        "bì",
+        "bié"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧˋ",
+        "ㄅㄧㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "歹",
+        "non_radical_sn": "13",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣩩"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3C78",
+            "13545132514143112"
+        ],
+        "char_code_wubi": "gqnu",
+        "char_code_cangjie": "mnsrj",
+        "char_code_zhengma": "arjs",
+        "char_code_sijiao": "10241"
+    },
+    "general_unicode": "扩展A U+3C78",
+    "general_bs_code": "13545132514143112"
+}

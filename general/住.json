@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "reside, live at, dwell, lodge; stop"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufhören, wohnen, Komplement des Anhaltens ,leben, wohnen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "habiter,loger,cesser,arrêter"
+        }
+    ],
+    "general_pinyins": [
+        "zhù"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "駐",
+        "𥩣"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4F4F",
+            "3241121"
+        ],
+        "char_code_wubi": "wygg",
+        "char_code_cangjie": "oyg",
+        "char_code_zhengma": "nsc",
+        "char_code_sijiao": "20214"
+    },
+    "general_unicode": "基本区 U+4F4F",
+    "general_bs_code": "3241121"
+}

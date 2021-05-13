@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pyrimidine"
+        },
+        {
+            "language": "法语",
+            "explanation": "(phonétique)​ comme dans pyrimidine"
+        }
+    ],
+    "general_pinyins": [
+        "mì"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5627",
+            "25144545434252"
+        ],
+        "char_code_wubi": "kpnm",
+        "char_code_cangjie": "rjpu",
+        "char_code_zhengma": "jwml",
+        "char_code_sijiao": "63072"
+    },
+    "general_unicode": "基本区 U+5627",
+    "general_bs_code": "25144545434252"
+}

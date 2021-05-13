@@ -1,0 +1,30 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as U+5D87 嶇) a rugged, steep mountain"
+        }
+    ],
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "380A",
+            "25221531522431"
+        ],
+        "char_code_wubi": "mhag|mhog",
+        "char_code_cangjie": "uypc",
+        "char_code_zhengma": "llik",
+        "char_code_sijiao": "21712"
+    },
+    "general_unicode": "扩展A U+380A",
+    "general_bs_code": "25221531522431"
+}

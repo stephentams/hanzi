@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a kind of vessel"
+        }
+    ],
+    "general_pinyins": [
+        "xiàn",
+        "xuǎn"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄢˋ",
+        "ㄒㄩㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "匚",
+        "non_radical_sn": "12",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3535",
+            "15155151221345"
+        ],
+        "char_code_wubi": "annw",
+        "char_code_cangjie": "sruc",
+        "char_code_zhengma": "hyeo",
+        "char_code_sijiao": "71718"
+    },
+    "general_unicode": "扩展A U+3535",
+    "general_bs_code": "15155151221345"
+}

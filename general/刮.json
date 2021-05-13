@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "shave, pare off, scrape"
+        },
+        {
+            "language": "德语",
+            "explanation": "wehen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "gratter,racler,extorquer,souffler"
+        }
+    ],
+    "general_pinyins": [
+        "guā"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄚ"
+    ],
+    "general_radical": {
+        "radical": "刂",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "颳"
+    ],
+    "general_ytz": [
+        "劀",
+        "𠜜",
+        "𠟽",
+        "颳"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "522E",
+            "31225122"
+        ],
+        "char_code_wubi": "tdjh",
+        "char_code_cangjie": "hrln",
+        "char_code_zhengma": "mikd",
+        "char_code_sijiao": "22600"
+    },
+    "general_unicode": "基本区 U+522E",
+    "general_bs_code": "31225122"
+}

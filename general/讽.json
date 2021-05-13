@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "recite, incant; satirize"
+        },
+        {
+            "language": "德语",
+            "explanation": "verspotten  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "railler,se moquer de"
+        }
+    ],
+    "general_pinyins": [
+        "fěng"
+    ],
+    "general_zhuyins": [
+        "ㄈㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "諷"
+    ],
+    "general_ytz": [
+        "諷",
+        "𧩠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BBD",
+            "453534"
+        ],
+        "char_code_wubi": "ymqy|ywry",
+        "char_code_cangjie": "ivhnk",
+        "char_code_zhengma": "sqos",
+        "char_code_sijiao": "37710"
+    },
+    "general_unicode": "基本区 U+8BBD",
+    "general_bs_code": "453534"
+}

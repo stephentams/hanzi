@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "counterfeit, false"
+        },
+        {
+            "language": "德语",
+            "explanation": "falsch, unrichtig"
+        },
+        {
+            "language": "法语",
+            "explanation": "faux,contrefait"
+        }
+    ],
+    "general_pinyins": [
+        "yàn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "貝",
+        "non_radical_sn": "15",
+        "total_sn": "22"
+    },
+    "general_stc": [
+        "赝"
+    ],
+    "general_ytz": [
+        "贋"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D17",
+            "1332325111544442511134"
+        ],
+        "char_code_wubi": "dwwm|dwqm",
+        "char_code_cangjie": "mofc",
+        "char_code_zhengma": "ggrl",
+        "char_code_sijiao": "71286"
+    },
+    "general_unicode": "基本区 U+8D17",
+    "general_bs_code": "1332325111544442511134"
+}

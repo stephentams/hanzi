@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to bear a grudge against"
+        }
+    ],
+    "general_pinyins": [
+        "yuān",
+        "wǎn"
+    ],
+    "general_zhuyins": [
+        "ㄩㄢ",
+        "ㄨㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "宛",
+        "怨",
+        "𥧉",
+        "愠",
+        "慍",
+        "𥧛"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "60CC",
+            "445354554544"
+        ],
+        "char_code_wubi": "pqbn",
+        "char_code_cangjie": "jnup",
+        "char_code_zhengma": "wdyw",
+        "char_code_sijiao": "30331"
+    },
+    "general_unicode": "基本区 U+60CC",
+    "general_bs_code": "445354554544"
+}

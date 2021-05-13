@@ -1,0 +1,62 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "violent, brutal, tyrannical"
+        },
+        {
+            "language": "德语",
+            "explanation": "gewalttätig, heftig  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "violent,irritable,cruel,brusque,nuire,exposer"
+        }
+    ],
+    "general_pinyins": [
+        "bào",
+        "pù"
+    ],
+    "general_zhuyins": [
+        "ㄅㄠˋ",
+        "ㄆㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "11",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㫧",
+        "㬥",
+        "㬧",
+        "曓",
+        "虣",
+        "𣉱",
+        "𣊴",
+        "𣊻",
+        "𣋏",
+        "𣋳",
+        "𣋴",
+        "曝",
+        "𣋦",
+        "𧇑",
+        "𧇒",
+        "𧇭",
+        "暴"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "66B4",
+            "251112213424134"
+        ],
+        "char_code_wubi": "jawi",
+        "char_code_cangjie": "atce",
+        "char_code_zhengma": "keok",
+        "char_code_sijiao": "60909"
+    },
+    "general_unicode": "基本区 U+66B4",
+    "general_bs_code": "251112213424134"
+}

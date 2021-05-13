@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dam, embankment; weir"
+        },
+        {
+            "language": "德语",
+            "explanation": "Formling, rohe Form  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "brique crue,objet d'argile non cuit"
+        }
+    ],
+    "general_pinyins": [
+        "pī"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "坏",
+        "培",
+        "𠂾",
+        "𤬭",
+        "𩎜",
+        "壞",
+        "𠃂"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "576F",
+            "12113241"
+        ],
+        "char_code_wubi": "fgig|fdhg",
+        "char_code_cangjie": "gmfm",
+        "char_code_zhengma": "bga",
+        "char_code_sijiao": "41119"
+    },
+    "general_unicode": "基本区 U+576F",
+    "general_bs_code": "12113241"
+}

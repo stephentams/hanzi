@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "shout, brawl, make uproar, cry"
+        },
+        {
+            "language": "德语",
+            "explanation": "herausplatzen ,rufen, laut schreien"
+        },
+        {
+            "language": "法语",
+            "explanation": "crier,hurler"
+        }
+    ],
+    "general_pinyins": [
+        "rǎng",
+        "rāng"
+    ],
+    "general_zhuyins": [
+        "ㄖㄤˇ",
+        "ㄖㄤ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "17",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠮵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "56B7",
+            "25141251251112213534"
+        ],
+        "char_code_wubi": "kyke",
+        "char_code_cangjie": "ryrv",
+        "char_code_zhengma": "jser",
+        "char_code_sijiao": "60032"
+    },
+    "general_unicode": "基本区 U+56B7",
+    "general_bs_code": "25141251251112213534"
+}

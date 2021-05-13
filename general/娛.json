@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pleasure, enjoyment, amusement"
+        },
+        {
+            "language": "德语",
+            "explanation": "unterhalten, belustigen"
+        },
+        {
+            "language": "法语",
+            "explanation": "réjouir,se distraire,plaisir,distraction"
+        }
+    ],
+    "general_pinyins": [
+        "yú"
+    ],
+    "general_zhuyins": [
+        "ㄩˊ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "娱"
+    ],
+    "general_ytz": [
+        "娯",
+        "娱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5A1B",
+            "5312515134"
+        ],
+        "char_code_wubi": "vknd",
+        "char_code_cangjie": "vrvk",
+        "char_code_zhengma": "zmzg",
+        "char_code_sijiao": "46484"
+    },
+    "general_unicode": "基本区 U+5A1B",
+    "general_bs_code": "5312515134"
+}

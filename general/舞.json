@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dance, posture, prance; brandish"
+        },
+        {
+            "language": "法语",
+            "explanation": "danser,brandir,danse"
+        }
+    ],
+    "general_pinyins": [
+        "wǔ"
+    ],
+    "general_zhuyins": [
+        "ㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "夕",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "儛",
+        "𣄳",
+        "𦐀",
+        "𦨅",
+        "𦏶"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "821E",
+            "31122221354152"
+        ],
+        "char_code_wubi": "rlgh|tglg",
+        "char_code_cangjie": "otniq",
+        "char_code_zhengma": "marm",
+        "char_code_sijiao": "80251"
+    },
+    "general_unicode": "基本区 U+821E",
+    "general_bs_code": "31122221354152"
+}

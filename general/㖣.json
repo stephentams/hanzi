@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as U+5485 咅) to spit out; (Cant.) the sound of spitting"
+        }
+    ],
+    "general_pinyins": [
+        "tòu"
+    ],
+    "general_zhuyins": [
+        "ㄊㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "咅"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "35A3",
+            "25141431251"
+        ],
+        "char_code_wubi": "kukg",
+        "char_code_cangjie": "rytr",
+        "char_code_zhengma": "jsj",
+        "char_code_sijiao": "60061"
+    },
+    "general_unicode": "扩展A U+35A3",
+    "general_bs_code": "25141431251"
+}

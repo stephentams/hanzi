@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bamboo sheath, bamboo shoots"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bambusrohr  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "enveloppe des pousses de bambou,écorce"
+        }
+    ],
+    "general_pinyins": [
+        "tuò"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "16",
+        "total_sn": "22"
+    },
+    "general_stc": [
+        "箨"
+    ],
+    "general_ytz": [
+        "箨",
+        "𥷐"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7C5C",
+            "3143141212522112143112"
+        ],
+        "char_code_wubi": "trlf",
+        "char_code_cangjie": "hqwj",
+        "char_code_zhengma": "mdbu",
+        "char_code_sijiao": "88541"
+    },
+    "general_unicode": "基本区 U+7C5C",
+    "general_bs_code": "3143141212522112143112"
+}

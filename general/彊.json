@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stubborn, uncompromising"
+        },
+        {
+            "language": "法语",
+            "explanation": "fort,puissant,de force,forcer,faire qch par la force,faire un effort,forcer,s'efforcer de,tâcher de faire qch,obstiné,têtu,inflexible,fort,supérieur,obstiné"
+        }
+    ],
+    "general_pinyins": [
+        "qiáng",
+        "qiǎng",
+        "jiàng"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄤˊ",
+        "ㄑㄧㄤˇ",
+        "ㄐㄧㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "弓",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "疆",
+        "強"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F4A",
+            "5151251211251211"
+        ],
+        "char_code_wubi": "xglg",
+        "char_code_cangjie": "nmwm",
+        "char_code_zhengma": "yzkk",
+        "char_code_sijiao": "11216"
+    },
+    "general_unicode": "基本区 U+5F4A",
+    "general_bs_code": "5151251211251211"
+}

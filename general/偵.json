@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "spy, reconnoiter; detective"
+        },
+        {
+            "language": "德语",
+            "explanation": "auskundschaften ,entdecken, herumspionieren"
+        }
+    ],
+    "general_pinyins": [
+        "zhēn"
+    ],
+    "general_zhuyins": [
+        "ㄓㄣ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "侦"
+    ],
+    "general_ytz": [
+        "侦",
+        "遉",
+        "𩇜",
+        "貞"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5075",
+            "32212511134"
+        ],
+        "char_code_wubi": "whmy",
+        "char_code_cangjie": "oybc",
+        "char_code_zhengma": "nilo",
+        "char_code_sijiao": "21286"
+    },
+    "general_unicode": "基本区 U+5075",
+    "general_bs_code": "32212511134"
+}

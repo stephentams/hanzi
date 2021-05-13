@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a kind of fruit tree; betel-nut; the areca-nut"
+        }
+    ],
+    "general_pinyins": [
+        "pín"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "16",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "檳"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3C0B",
+            "12342121233132511134"
+        ],
+        "char_code_wubi": "shim|shhm",
+        "char_code_cangjie": "dyhc",
+        "char_code_zhengma": "fikg",
+        "char_code_sijiao": "41986"
+    },
+    "general_unicode": "扩展A U+3C0B",
+    "general_bs_code": "12342121233132511134"
+}

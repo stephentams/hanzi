@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "write; draw, sketch; compose"
+        },
+        {
+            "language": "德语",
+            "explanation": "schreiben  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "écrire,composer"
+        }
+    ],
+    "general_pinyins": [
+        "xiě",
+        "xiè"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄝˇ",
+        "ㄒㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "宀",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "写"
+    ],
+    "general_ytz": [
+        "㝍",
+        "䥱",
+        "写",
+        "冩",
+        "瀉"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5BEB",
+            "445321511354444"
+        ],
+        "char_code_wubi": "pvqo|peqo",
+        "char_code_cangjie": "jhxf",
+        "char_code_zhengma": "wdru",
+        "char_code_sijiao": "30327"
+    },
+    "general_unicode": "基本区 U+5BEB",
+    "general_bs_code": "445321511354444"
+}

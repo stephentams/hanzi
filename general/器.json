@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "receptacle, vessel; instrument"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bauelement, Einheit, Gerät  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "ustensile,appareil,objet,organe,capacité,talent"
+        }
+    ],
+    "general_pinyins": [
+        "qì"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "噐",
+        "𠾖",
+        "𡄛",
+        "𦈯",
+        "器"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5668",
+            "2512511344251251"
+        ],
+        "char_code_wubi": "kkdk",
+        "char_code_cangjie": "rrikr",
+        "char_code_zhengma": "jjjj",
+        "char_code_sijiao": "66668"
+    },
+    "general_unicode": "基本区 U+5668",
+    "general_bs_code": "2512511344251251"
+}

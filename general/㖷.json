@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bird singing, (same as 啼) to cry; to mourn; to howl, to twitter; to crow"
+        }
+    ],
+    "general_pinyins": [
+        "shí",
+        "tí"
+    ],
+    "general_zhuyins": [
+        "ㄕˊ",
+        "ㄊㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠸭",
+        "啼"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "35B7",
+            "251251112134"
+        ],
+        "char_code_wubi": "kjgh",
+        "char_code_cangjie": "ramo",
+        "char_code_zhengma": "jkai",
+        "char_code_sijiao": "66081"
+    },
+    "general_unicode": "扩展A U+35B7",
+    "general_bs_code": "251251112134"
+}

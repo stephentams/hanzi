@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "disconcerted, dejected, discouraged"
+        },
+        {
+            "language": "德语",
+            "explanation": "verwüsten"
+        },
+        {
+            "language": "法语",
+            "explanation": "désappointer"
+        }
+    ],
+    "general_pinyins": [
+        "wǎng"
+    ],
+    "general_zhuyins": [
+        "ㄨㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "惘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "60D8",
+            "44225431415"
+        ],
+        "char_code_wubi": "nmun",
+        "char_code_cangjie": "pbtv",
+        "char_code_zhengma": "uld",
+        "char_code_sijiao": "97020"
+    },
+    "general_unicode": "基本区 U+60D8",
+    "general_bs_code": "44225431415"
+}

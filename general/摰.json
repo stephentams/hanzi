@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to seize with the hand; to grasp; to advance; to break down"
+        },
+        {
+            "language": "法语",
+            "explanation": "saisir avec la main,empoigner,avancer,décomposer"
+        }
+    ],
+    "general_pinyins": [
+        "niè",
+        "chè"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧㄝˋ",
+        "ㄔㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "手",
+        "non_radical_sn": "11",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "掣",
+        "𢳊",
+        "𢴸",
+        "𢴷"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6470",
+            "121341213543112"
+        ],
+        "char_code_wubi": "fwfr",
+        "char_code_cangjie": "giq",
+        "char_code_zhengma": "bosm",
+        "char_code_sijiao": "45502"
+    },
+    "general_unicode": "基本区 U+6470",
+    "general_bs_code": "121341213543112"
+}

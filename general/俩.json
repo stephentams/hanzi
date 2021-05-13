@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "two, pair"
+        },
+        {
+            "language": "德语",
+            "explanation": "beide, zwei  (Zähl)"
+        },
+        {
+            "language": "法语",
+            "explanation": "deux,peu,quelques,deux,peu,quelques"
+        }
+    ],
+    "general_pinyins": [
+        "liǎng",
+        "liǎ"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄤˇ",
+        "ㄌㄧㄚˇ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "倆"
+    ],
+    "general_ytz": [
+        "倆"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4FE9",
+            "321253434"
+        ],
+        "char_code_wubi": "wgmw",
+        "char_code_cangjie": "omob",
+        "char_code_zhengma": "naoo",
+        "char_code_sijiao": "21227"
+    },
+    "general_unicode": "基本区 U+4FE9",
+    "general_bs_code": "321253434"
+}

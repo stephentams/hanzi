@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(standard form of 聯) to unite; to connect; to join together (same as 攣) tangled; to bind; entwined"
+        }
+    ],
+    "general_pinyins": [
+        "lián",
+        "luán"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄢˊ",
+        "ㄌㄨㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "耳",
+        "non_radical_sn": "12",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "攣",
+        "聯"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "43C8",
+            "122111554444554234"
+        ],
+        "char_code_wubi": "bxxi",
+        "char_code_cangjie": "sjvff",
+        "char_code_zhengma": "cezz",
+        "char_code_sijiao": "12493"
+    },
+    "general_unicode": "扩展A U+43C8",
+    "general_bs_code": "122111554444554234"
+}

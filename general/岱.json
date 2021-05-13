@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "Daishan, one of the Five Sacred Mountains in China"
+        },
+        {
+            "language": "法语",
+            "explanation": "(autre nom du mont Tai)​"
+        }
+    ],
+    "general_pinyins": [
+        "dài"
+    ],
+    "general_zhuyins": [
+        "ㄉㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5CB1",
+            "32154252"
+        ],
+        "char_code_wubi": "wamj|waym",
+        "char_code_cangjie": "opu",
+        "char_code_zhengma": "nhll",
+        "char_code_sijiao": "23772"
+    },
+    "general_unicode": "基本区 U+5CB1",
+    "general_bs_code": "32154252"
+}

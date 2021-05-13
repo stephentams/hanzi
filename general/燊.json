@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "luxuriant"
+        },
+        {
+            "language": "德语",
+            "explanation": "energisch, kräftig ,forsch, stramm ,Gentry, Landadel"
+        },
+        {
+            "language": "法语",
+            "explanation": "vif,vigoureux (feu)​"
+        }
+    ],
+    "general_pinyins": [
+        "shēn"
+    ],
+    "general_zhuyins": [
+        "ㄕㄣ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "12",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "71CA",
+            "4334433443341234"
+        ],
+        "char_code_wubi": "ooos",
+        "char_code_cangjie": "fffd",
+        "char_code_zhengma": "uouf",
+        "char_code_sijiao": "90904"
+    },
+    "general_unicode": "基本区 U+71CA",
+    "general_bs_code": "4334433443341234"
+}

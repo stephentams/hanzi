@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to draw a bow, bent"
+        }
+    ],
+    "general_pinyins": [
+        "wěi"
+    ],
+    "general_zhuyins": [
+        "ㄨㄟˇ"
+    ],
+    "general_radical": {
+        "radical": "弓",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢏴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "38BB",
+            "51531234531"
+        ],
+        "char_code_wubi": "xtvg",
+        "char_code_cangjie": "nhdv",
+        "char_code_zhengma": "yzmz",
+        "char_code_sijiao": "12244"
+    },
+    "general_unicode": "扩展A U+38BB",
+    "general_bs_code": "51531234531"
+}

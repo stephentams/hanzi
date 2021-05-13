@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "afraid, scared, frightened"
+        },
+        {
+            "language": "德语",
+            "explanation": "beängstigt, eingeschüchtert  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "effrayé"
+        }
+    ],
+    "general_pinyins": [
+        "sǒng"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "愯",
+        "𢥠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "609A",
+            "4421251234"
+        ],
+        "char_code_wubi": "ngki|nskg",
+        "char_code_cangjie": "pdl",
+        "char_code_zhengma": "ufj",
+        "char_code_sijiao": "95096"
+    },
+    "general_unicode": "基本区 U+609A",
+    "general_bs_code": "4421251234"
+}

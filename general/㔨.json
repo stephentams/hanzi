@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "name of a person"
+        }
+    ],
+    "general_pinyins": [
+        "bèi"
+    ],
+    "general_zhuyins": [
+        "ㄅㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "勹",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "右上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3528",
+            "35211352511"
+        ],
+        "char_code_wubi": "quxe",
+        "char_code_cangjie": "plpb",
+        "char_code_zhengma": "ryrq",
+        "char_code_sijiao": "27220"
+    },
+    "general_unicode": "扩展A U+3528",
+    "general_bs_code": "35211352511"
+}

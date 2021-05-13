@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "vinegar, smell of vinegar"
+        }
+    ],
+    "general_pinyins": [
+        "chǎn",
+        "qiǎn"
+    ],
+    "general_zhuyins": [
+        "ㄔㄢˇ",
+        "ㄑㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "酉",
+        "non_radical_sn": "17",
+        "total_sn": "24"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "醦",
+        "𨣲",
+        "𨣔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4918",
+            "125351134341211121111534"
+        ],
+        "char_code_wubi": "sgwg",
+        "char_code_cangjie": "mwoim",
+        "char_code_zhengma": "fdka",
+        "char_code_sijiao": "13650"
+    },
+    "general_unicode": "扩展A U+4918",
+    "general_bs_code": "125351134341211121111534"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dirt, filth, stains; dirty"
+        },
+        {
+            "language": "德语",
+            "explanation": "Dreck  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "saleté,crasse,honte,sale,crasseux"
+        }
+    ],
+    "general_pinyins": [
+        "gòu"
+    ],
+    "general_zhuyins": [
+        "ㄍㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "坸",
+        "𡊦",
+        "詬",
+        "㻈"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "57A2",
+            "121331251"
+        ],
+        "char_code_wubi": "frgk",
+        "char_code_cangjie": "ghmr",
+        "char_code_zhengma": "bpaj",
+        "char_code_sijiao": "42161"
+    },
+    "general_unicode": "基本区 U+57A2",
+    "general_bs_code": "121331251"
+}

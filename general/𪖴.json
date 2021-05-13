@@ -1,0 +1,23 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "鼻",
+        "non_radical_sn": "10",
+        "total_sn": "24"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2A5B4",
+            "325111251211323115431234"
+        ],
+        "char_code_wubi": "THLO",
+        "char_code_cangjie": "hlond",
+        "char_code_zhengma": "nlnm"
+    },
+    "general_unicode": "扩展B U+2A5B4",
+    "general_bs_code": "325111251211323115431234"
+}

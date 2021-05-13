@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "adjoin"
+        },
+        {
+            "language": "德语",
+            "explanation": "angrenzen, angrenzend"
+        }
+    ],
+    "general_pinyins": [
+        "ruán"
+    ],
+    "general_zhuyins": [
+        "ㄖㄨㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤲬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5827",
+            "121132522134"
+        ],
+        "char_code_wubi": "fdmd",
+        "char_code_cangjie": "gmbk",
+        "char_code_zhengma": "bggd",
+        "char_code_sijiao": "41184"
+    },
+    "general_unicode": "基本区 U+5827",
+    "general_bs_code": "121132522134"
+}

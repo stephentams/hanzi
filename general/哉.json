@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "final exclamatory particle"
+        },
+        {
+            "language": "德语",
+            "explanation": "leid"
+        },
+        {
+            "language": "法语",
+            "explanation": "(particule exclamative ou interrogative)​"
+        }
+    ],
+    "general_pinyins": [
+        "zāi"
+    ],
+    "general_zhuyins": [
+        "ㄗㄞ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㦲",
+        "才",
+        "𠳆",
+        "𢦒",
+        "㢤"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "54C9",
+            "121251534"
+        ],
+        "char_code_wubi": "fakd",
+        "char_code_cangjie": "jir",
+        "char_code_zhengma": "ehj",
+        "char_code_sijiao": "43650"
+    },
+    "general_unicode": "基本区 U+54C9",
+    "general_bs_code": "121251534"
+}

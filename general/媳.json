@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "daughter-in-law"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ehefrau des Sohnes  (S)​,Frau des Enkels oder Neffen  (S)​,Schwiegertochter  (S)​,Ehefrau  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "belle-fille"
+        }
+    ],
+    "general_pinyins": [
+        "xí"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡡁"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5AB3",
+            "5313251114544"
+        ],
+        "char_code_wubi": "vthn",
+        "char_code_cangjie": "vhup",
+        "char_code_zhengma": "zmnw",
+        "char_code_sijiao": "46430"
+    },
+    "general_unicode": "基本区 U+5AB3",
+    "general_bs_code": "5313251114544"
+}

@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "enclosure, dike, embankment"
+        },
+        {
+            "language": "法语",
+            "explanation": "(lit.)​ égal,enclos,fossé,berge,petite digue,semblable"
+        }
+    ],
+    "general_pinyins": [
+        "liè"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "埓",
+        "浖"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "57D2",
+            "1213443124"
+        ],
+        "char_code_wubi": "fefy",
+        "char_code_cangjie": "gbdi",
+        "char_code_zhengma": "bpds",
+        "char_code_sijiao": "42149"
+    },
+    "general_unicode": "基本区 U+57D2",
+    "general_bs_code": "1213443124"
+}

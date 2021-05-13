@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "trample down, oppress, overrun"
+        }
+    ],
+    "general_pinyins": [
+        "lìn"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "16",
+        "total_sn": "23"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "蹸",
+        "躪"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E99",
+            "25121212511251132411121"
+        ],
+        "char_code_wubi": "khuy",
+        "char_code_cangjie": "rmang",
+        "char_code_zhengma": "jixn",
+        "char_code_sijiao": "67120"
+    },
+    "general_unicode": "基本区 U+8E99",
+    "general_bs_code": "25121212511251132411121"
+}

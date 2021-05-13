@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "thrive, prosper, flourish"
+        },
+        {
+            "language": "德语",
+            "explanation": "blühen, aufblühen  (V)​,Freude ,Interesse  (S)​,interessieren, Anteil  (S)​,Schnörkel  (S)​,Xing  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "s'élever,élever,commencer,fleurir,joyeux,inspiration,intérêt,désir de faire qch,enthousiasme"
+        }
+    ],
+    "general_pinyins": [
+        "xīng",
+        "xìng"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄥ",
+        "ㄒㄧㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "八",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "興"
+    ],
+    "general_ytz": [
+        "興",
+        "嬹",
+        "㒷",
+        "𢍯"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5174",
+            "443134"
+        ],
+        "char_code_wubi": "iwu|igwu",
+        "char_code_cangjie": "fmc",
+        "char_code_zhengma": "vdao",
+        "char_code_sijiao": "90801"
+    },
+    "general_unicode": "基本区 U+5174",
+    "general_bs_code": "443134"
+}

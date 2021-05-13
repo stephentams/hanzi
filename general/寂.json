@@ -1,0 +1,59 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "still, silent, quiet, desolate"
+        },
+        {
+            "language": "德语",
+            "explanation": "einsam, verlassen  (Adj)​,still, ruhig  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "silencieux,tranquille"
+        }
+    ],
+    "general_pinyins": [
+        "jì"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "宀",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "漃",
+        "諔",
+        "𠴫",
+        "𡧘",
+        "𡧤",
+        "𡧯",
+        "𡨁",
+        "𡨜",
+        "𡪌",
+        "𢚍",
+        "𥤲",
+        "𥤽",
+        "𥥒",
+        "𥨅",
+        "𧧌",
+        "𥥘"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5BC2",
+            "44521123454"
+        ],
+        "char_code_wubi": "phic",
+        "char_code_cangjie": "jyfe",
+        "char_code_zhengma": "wdkx",
+        "char_code_sijiao": "30947"
+    },
+    "general_unicode": "基本区 U+5BC2",
+    "general_bs_code": "44521123454"
+}

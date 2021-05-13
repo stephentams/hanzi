@@ -1,0 +1,26 @@
+{
+    "general_pinyins": [
+        "qī"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "12",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "25CFD",
+            "314314122111343534"
+        ],
+        "char_code_wubi": "tadw",
+        "char_code_zhengma": "mero"
+    },
+    "general_unicode": "扩展B U+25CFD",
+    "general_bs_code": "314314122111343534"
+}

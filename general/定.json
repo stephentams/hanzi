@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "decide, settle, fix"
+        },
+        {
+            "language": "德语",
+            "explanation": "festmachen, bestimmen, entscheiden,anordnen  (V)​,sich entschliessen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "décider,fixer,tranquille,calme,fixe,déterminé"
+        }
+    ],
+    "general_pinyins": [
+        "dìng"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "宀",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㝎",
+        "掟",
+        "錠",
+        "顁",
+        "𡧡"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5B9A",
+            "44512134"
+        ],
+        "char_code_wubi": "pghu",
+        "char_code_cangjie": "jmyo",
+        "char_code_zhengma": "wd",
+        "char_code_sijiao": "30801"
+    },
+    "general_unicode": "基本区 U+5B9A",
+    "general_bs_code": "44512134"
+}

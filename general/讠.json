@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "simplified KangXi radical 149"
+        }
+    ],
+    "general_pinyins": [
+        "yán"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "0",
+        "total_sn": "2"
+    },
+    "general_stc": [
+        "訁"
+    ],
+    "general_ytz": [
+        "言"
+    ],
+    "general_structure": "单体结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BA0",
+            "45"
+        ],
+        "char_code_wubi": "yyn",
+        "char_code_cangjie": "inv",
+        "char_code_zhengma": "saaa",
+        "char_code_sijiao": "30700"
+    },
+    "general_unicode": "基本区 U+8BA0",
+    "general_bs_code": "45"
+}

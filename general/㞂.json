@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ulcers, swollen feet, a kind of disease"
+        }
+    ],
+    "general_pinyins": [
+        "tuǐ"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄟˇ"
+    ],
+    "general_radical": {
+        "radical": "尢",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡯵"
+    ],
+    "general_structure": "左下包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3782",
+            "1353443531"
+        ],
+        "char_code_wubi": "dnev",
+        "char_code_cangjie": "knbv",
+        "char_code_zhengma": "grpz",
+        "char_code_sijiao": "42014"
+    },
+    "general_unicode": "扩展A U+3782",
+    "general_bs_code": "1353443531"
+}

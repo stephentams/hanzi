@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a guide to goodness"
+        },
+        {
+            "language": "德语",
+            "explanation": "führen, leiten ,You  (Eig, Fam)"
+        }
+    ],
+    "general_pinyins": [
+        "yǒu"
+    ],
+    "general_zhuyins": [
+        "ㄧㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "八",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "羐",
+        "羗",
+        "𦍶",
+        "誘",
+        "𦍕",
+        "𦎅",
+        "𦎙"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F91",
+            "431121354"
+        ],
+        "char_code_wubi": "ugqy",
+        "char_code_cangjie": "tgno",
+        "char_code_zhengma": "ucrs",
+        "char_code_sijiao": "80807"
+    },
+    "general_unicode": "基本区 U+7F91",
+    "general_bs_code": "431121354"
+}

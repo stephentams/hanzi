@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "2",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "服"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2335E",
+            "351134"
+        ],
+        "char_code_wubi": "ewy",
+        "char_code_cangjie": "bo",
+        "char_code_zhengma": "qod"
+    },
+    "general_unicode": "扩展B U+2335E",
+    "general_bs_code": "351134"
+}

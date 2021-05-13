@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "老",
+        "non_radical_sn": "2",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "考"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "264B1",
+            "121312"
+        ],
+        "char_code_wubi": "ftsj",
+        "char_code_cangjie": "jkmn",
+        "char_code_zhengma": "bmai"
+    },
+    "general_unicode": "扩展B U+264B1",
+    "general_bs_code": "121312"
+}

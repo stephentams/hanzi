@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "thousandth part of tael"
+        },
+        {
+            "language": "德语",
+            "explanation": "ein Hundertstel, Centi-  (Phys)"
+        },
+        {
+            "language": "法语",
+            "explanation": "centi-,(unité de mesure)​,ordonner,arranger,(un)​ millième"
+        }
+    ],
+    "general_pinyins": [
+        "lí"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "厂",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "釐"
+    ],
+    "general_ytz": [
+        "廛",
+        "釐"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5398",
+            "132511211"
+        ],
+        "char_code_wubi": "djfd",
+        "char_code_cangjie": "mwg",
+        "char_code_zhengma": "ggkb",
+        "char_code_sijiao": "71215"
+    },
+    "general_unicode": "基本区 U+5398",
+    "general_bs_code": "132511211"
+}

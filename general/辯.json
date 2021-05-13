@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dispute, argue, debate, discuss"
+        },
+        {
+            "language": "法语",
+            "explanation": "discuter,débattre,argumenter"
+        }
+    ],
+    "general_pinyins": [
+        "biàn"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "辛",
+        "non_radical_sn": "14",
+        "total_sn": "21"
+    },
+    "general_stc": [
+        "辩"
+    ],
+    "general_ytz": [
+        "辦",
+        "䛒",
+        "辨",
+        "辩",
+        "𠷊",
+        "𦌽",
+        "𧩵",
+        "𧪔",
+        "𧮀",
+        "𨐾"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8FAF",
+            "414311341112514143112"
+        ],
+        "char_code_wubi": "uyuh",
+        "char_code_cangjie": "yjyrj",
+        "char_code_zhengma": "sess",
+        "char_code_sijiao": "00441"
+    },
+    "general_unicode": "基本区 U+8FAF",
+    "general_bs_code": "414311341112514143112"
+}

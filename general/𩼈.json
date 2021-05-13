@@ -1,0 +1,35 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a variety of perch"
+        }
+    ],
+    "general_pinyins": [
+        "ào",
+        "yǒu"
+    ],
+    "general_zhuyins": [
+        "ㄠˋ",
+        "ㄧㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "魚",
+        "non_radical_sn": "13",
+        "total_sn": "24"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "29F08",
+            "352512144443253431234134"
+        ],
+        "char_code_wubi": "qotd",
+        "char_code_cangjie": "nfhbk",
+        "char_code_zhengma": "rnpg"
+    },
+    "general_unicode": "扩展B U+29F08",
+    "general_bs_code": "352512144443253431234134"
+}

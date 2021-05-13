@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(corrupted form of U+638A 掊) to exact, to get salt from sea-water, to break up; to injure, to hold something in both hands; to scoop up mud; (Cant.) to hit, strike, knock"
+        }
+    ],
+    "general_pinyins": [
+        "póu",
+        "pǒu"
+    ],
+    "general_zhuyins": [
+        "ㄆㄡˊ",
+        "ㄆㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "抔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "39F5",
+            "1211324251"
+        ],
+        "char_code_wubi": "rgik|rdhk",
+        "char_code_cangjie": "qmfr",
+        "char_code_zhengma": "dgj",
+        "char_code_sijiao": "51069"
+    },
+    "general_unicode": "扩展A U+39F5",
+    "general_bs_code": "1211324251"
+}

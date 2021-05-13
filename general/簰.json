@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bamboo raft"
+        },
+        {
+            "language": "法语",
+            "explanation": "radeau en bambou"
+        }
+    ],
+    "general_pinyins": [
+        "pái"
+    ],
+    "general_zhuyins": [
+        "ㄆㄞˊ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "12",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥱼"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7C30",
+            "314314321532511312"
+        ],
+        "char_code_wubi": "tthf",
+        "char_code_cangjie": "hllj",
+        "char_code_zhengma": "mnne",
+        "char_code_sijiao": "88246"
+    },
+    "general_unicode": "基本区 U+7C30",
+    "general_bs_code": "314314321532511312"
+}

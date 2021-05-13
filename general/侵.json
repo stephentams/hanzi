@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "invade, encroach upon, raid"
+        },
+        {
+            "language": "法语",
+            "explanation": "envahir,pénétrer"
+        }
+    ],
+    "general_pinyins": [
+        "qīn"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄣ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢔀",
+        "㑴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4FB5",
+            "325114554"
+        ],
+        "char_code_wubi": "wvpc",
+        "char_code_cangjie": "osme",
+        "char_code_zhengma": "nxwx",
+        "char_code_sijiao": "27247"
+    },
+    "general_unicode": "基本区 U+4FB5",
+    "general_bs_code": "325114554"
+}

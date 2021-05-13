@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "collect, draw in, gather; receive"
+        },
+        {
+            "language": "法语",
+            "explanation": "collectionner,recevoir"
+        }
+    ],
+    "general_pinyins": [
+        "xī",
+        "chā",
+        "qì"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧ",
+        "ㄔㄚ",
+        "ㄑㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "接",
+        "𢩫"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6271",
+            "121354"
+        ],
+        "char_code_wubi": "reyy|rbyy",
+        "char_code_cangjie": "qnhe",
+        "char_code_zhengma": "dyms",
+        "char_code_sijiao": "57047"
+    },
+    "general_unicode": "基本区 U+6271",
+    "general_bs_code": "121354"
+}

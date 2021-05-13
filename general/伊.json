@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "third person pronoun; he, she, this, that"
+        },
+        {
+            "language": "德语",
+            "explanation": "Irak (Kurzform)​  (S)​,er, sie es (Taiwanisch)​  (Präp)​,Yi  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "il,elle,ce,cet,cette"
+        }
+    ],
+    "general_pinyins": [
+        "yī"
+    ],
+    "general_zhuyins": [
+        "ㄧ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "洢",
+        "𠁼",
+        "𠈽",
+        "𠜧",
+        "𦯴",
+        "𠜰"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4F0A",
+            "325113"
+        ],
+        "char_code_wubi": "wvtt",
+        "char_code_cangjie": "osk",
+        "char_code_zhengma": "nxma",
+        "char_code_sijiao": "27207"
+    },
+    "general_unicode": "基本区 U+4F0A",
+    "general_bs_code": "325113"
+}

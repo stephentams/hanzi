@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "12",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "憋"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "22883",
+            "3123445434342444"
+        ],
+        "char_code_wubi": "tntn",
+        "char_code_cangjie": "hhop",
+        "char_code_zhengma": "mfou"
+    },
+    "general_unicode": "扩展B U+22883",
+    "general_bs_code": "3123445434342444"
+}

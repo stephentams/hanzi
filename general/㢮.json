@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 弛) to unstring a bow; to relax; to neglect"
+        }
+    ],
+    "general_pinyins": [
+        "chí"
+    ],
+    "general_zhuyins": [
+        "ㄔˊ"
+    ],
+    "general_radical": {
+        "radical": "弓",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "弛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "38AE",
+            "51531525"
+        ],
+        "char_code_wubi": "xtbn",
+        "char_code_cangjie": "nopd",
+        "char_code_zhengma": "yzmy",
+        "char_code_sijiao": "18212"
+    },
+    "general_unicode": "扩展A U+38AE",
+    "general_bs_code": "51531525"
+}

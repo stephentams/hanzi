@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "character used in place names"
+        }
+    ],
+    "general_pinyins": [
+        "yà"
+    ],
+    "general_zhuyins": [
+        "ㄧㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "垭"
+    ],
+    "general_ytz": [
+        "垭",
+        "堊",
+        "𡸭",
+        "𡹄",
+        "𡹅",
+        "塢"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "57E1",
+            "12112155121"
+        ],
+        "char_code_wubi": "fghg|fgfg",
+        "char_code_cangjie": "gmlm",
+        "char_code_zhengma": "bbz",
+        "char_code_sijiao": "41112"
+    },
+    "general_unicode": "基本区 U+57E1",
+    "general_bs_code": "12112155121"
+}

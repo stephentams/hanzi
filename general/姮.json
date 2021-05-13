@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lady"
+        },
+        {
+            "language": "德语",
+            "explanation": "Dame im Mond"
+        },
+        {
+            "language": "法语",
+            "explanation": "(ancien prénom féminin)​"
+        }
+    ],
+    "general_pinyins": [
+        "héng"
+    ],
+    "general_zhuyins": [
+        "ㄏㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "59EE",
+            "531125111"
+        ],
+        "char_code_wubi": "vgjg",
+        "char_code_cangjie": "vmam",
+        "char_code_zhengma": "zmbk",
+        "char_code_sijiao": "41416"
+    },
+    "general_unicode": "基本区 U+59EE",
+    "general_bs_code": "531125111"
+}

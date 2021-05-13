@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a beautiful girl"
+        },
+        {
+            "language": "德语",
+            "explanation": "Pretty Woman (Film)​  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "belle femme"
+        }
+    ],
+    "general_pinyins": [
+        "shū"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡚾"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "59DD",
+            "531311234"
+        ],
+        "char_code_wubi": "vriy|vtfy",
+        "char_code_cangjie": "vhjd",
+        "char_code_zhengma": "zmmk",
+        "char_code_sijiao": "45490"
+    },
+    "general_unicode": "基本区 U+59DD",
+    "general_bs_code": "531311234"
+}

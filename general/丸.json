@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "small round object; pellet, pill"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kügelchen, Pille  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "boulette,boule,pilule"
+        }
+    ],
+    "general_pinyins": [
+        "wán"
+    ],
+    "general_zhuyins": [
+        "ㄨㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "丿",
+        "non_radical_sn": "2",
+        "total_sn": "3"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠁽",
+        "[[2F801|丸]]"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4E38",
+            "354"
+        ],
+        "char_code_wubi": "vyi",
+        "char_code_cangjie": "kni",
+        "char_code_zhengma": "qys",
+        "char_code_sijiao": "50017"
+    },
+    "general_unicode": "基本区 U+4E38",
+    "general_bs_code": "354"
+}

@@ -1,0 +1,30 @@
+{
+    "general_pinyins": [
+        "qiú",
+        "jiù"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄡˊ",
+        "ㄐㄧㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "2",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "808D",
+            "351135"
+        ],
+        "char_code_wubi": "evn",
+        "char_code_cangjie": "bkn",
+        "char_code_zhengma": "qqy",
+        "char_code_sijiao": "74217"
+    },
+    "general_unicode": "基本区 U+808D",
+    "general_bs_code": "351135"
+}

@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sound of wind"
+        }
+    ],
+    "general_pinyins": [
+        "liú"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "風",
+        "non_radical_sn": "15",
+        "total_sn": "24"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𩗩",
+        "𩙄",
+        "𩙔",
+        "飂"
+    ],
+    "general_structure": "左下包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4B1F",
+            "353251214354533411243122"
+        ],
+        "char_code_wubi": "mtjj|wtjj",
+        "char_code_cangjie": "hnhcn",
+        "char_code_zhengma": "qipk",
+        "char_code_sijiao": "72210"
+    },
+    "general_unicode": "扩展A U+4B1F",
+    "general_bs_code": "353251214354533411243122"
+}

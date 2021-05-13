@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "manage, do, handle; deal with"
+        },
+        {
+            "language": "德语",
+            "explanation": "handeln, erledigen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "régler,s'occuper de,se débrouiller,établir,créer,préparer,punir"
+        }
+    ],
+    "general_pinyins": [
+        "bàn"
+    ],
+    "general_zhuyins": [
+        "ㄅㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "力",
+        "non_radical_sn": "2",
+        "total_sn": "4"
+    },
+    "general_stc": [
+        "辦"
+    ],
+    "general_ytz": [
+        "辦"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "529E",
+            "5344"
+        ],
+        "char_code_wubi": "lwi|ewi",
+        "char_code_cangjie": "ksc",
+        "char_code_zhengma": "ymo",
+        "char_code_sijiao": "40330"
+    },
+    "general_unicode": "基本区 U+529E",
+    "general_bs_code": "5344"
+}

@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "jealous; to envy, (same as 妨) to hinder; to obstruct, to harm; to damage"
+        }
+    ],
+    "general_pinyins": [
+        "fáng"
+    ],
+    "general_zhuyins": [
+        "ㄈㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "妨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3903",
+            "4424135"
+        ],
+        "char_code_wubi": "nyn|nyt",
+        "char_code_cangjie": "pyhs",
+        "char_code_zhengma": "usy",
+        "char_code_sijiao": "90027"
+    },
+    "general_unicode": "扩展A U+3903",
+    "general_bs_code": "4424135"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a swellen corpse, swell"
+        }
+    ],
+    "general_pinyins": [
+        "bèng",
+        "jiào",
+        "péng",
+        "qiǎo",
+        "rù"
+    ],
+    "general_zhuyins": [
+        "ㄅㄥˋ",
+        "ㄐㄧㄠˋ",
+        "ㄆㄥˊ",
+        "ㄑㄧㄠˇ",
+        "ㄖㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "歹",
+        "non_radical_sn": "12",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣨥"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3C76",
+            "1354121251431333"
+        ],
+        "char_code_wubi": "gqfe",
+        "char_code_cangjie": "mngth",
+        "char_code_zhengma": "arup",
+        "char_code_sijiao": "12222"
+    },
+    "general_unicode": "扩展A U+3C76",
+    "general_bs_code": "1354121251431333"
+}

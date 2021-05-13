@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "piece of jade with hole in it"
+        },
+        {
+            "language": "法语",
+            "explanation": "disque de jade"
+        }
+    ],
+    "general_pinyins": [
+        "bì"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "玉",
+        "non_radical_sn": "13",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "74A7",
+            "513251414311211214"
+        ],
+        "char_code_wubi": "nkuy",
+        "char_code_cangjie": "sjmgi",
+        "char_code_zhengma": "xmsc",
+        "char_code_sijiao": "70103"
+    },
+    "general_unicode": "基本区 U+74A7",
+    "general_bs_code": "513251414311211214"
+}

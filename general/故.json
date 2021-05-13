@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ancient, old; reason, because"
+        },
+        {
+            "language": "德语",
+            "explanation": "daher, deshalb"
+        },
+        {
+            "language": "法语",
+            "explanation": "incident,cause,à dessein,exprès,raison,ancien,mourir"
+        }
+    ],
+    "general_pinyins": [
+        "gù"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "攵",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "雇"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6545",
+            "122513134"
+        ],
+        "char_code_wubi": "dty",
+        "char_code_cangjie": "jrok",
+        "char_code_zhengma": "edjm",
+        "char_code_sijiao": "48640"
+    },
+    "general_unicode": "基本区 U+6545",
+    "general_bs_code": "122513134"
+}

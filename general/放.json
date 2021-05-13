@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "put, release, free, liberate"
+        },
+        {
+            "language": "德语",
+            "explanation": "freilassen, gehen lassen, platzieren, setzen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "relâcher,libérer,faire paître,projeter (un film)​,lancer,mettre,placer,déposer"
+        }
+    ],
+    "general_pinyins": [
+        "fàng"
+    ],
+    "general_zhuyins": [
+        "ㄈㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "攵",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "匚",
+        "紡"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "653E",
+            "41533134"
+        ],
+        "char_code_wubi": "yty",
+        "char_code_cangjie": "ysok",
+        "char_code_zhengma": "symo",
+        "char_code_sijiao": "08240"
+    },
+    "general_unicode": "基本区 U+653E",
+    "general_bs_code": "41533134"
+}

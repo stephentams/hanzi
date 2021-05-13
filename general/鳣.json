@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sturgeon"
+        },
+        {
+            "language": "德语",
+            "explanation": "Stör  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "Acipenser micadoi,esturgeon"
+        }
+    ],
+    "general_pinyins": [
+        "zhān",
+        "shàn"
+    ],
+    "general_zhuyins": [
+        "ㄓㄢ",
+        "ㄕㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "13",
+        "total_sn": "21"
+    },
+    "general_stc": [
+        "鱣"
+    ],
+    "general_ytz": [
+        "鱣",
+        "䱳",
+        "𧖞",
+        "𩼼",
+        "𩽱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9CE3",
+            "352512114125251125111"
+        ],
+        "char_code_wubi": "qgyg",
+        "char_code_cangjie": "nmywm",
+        "char_code_zhengma": "rska",
+        "char_code_sijiao": "20116"
+    },
+    "general_unicode": "基本区 U+9CE3",
+    "general_bs_code": "352512114125251125111"
+}

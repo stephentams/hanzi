@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "scared, nervous"
+        },
+        {
+            "language": "法语",
+            "explanation": "effrayé,nerveux"
+        }
+    ],
+    "general_pinyins": [
+        "xiōng"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄥ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "忷",
+        "𢗮"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "605F",
+            "442353452"
+        ],
+        "char_code_wubi": "nqqb|nqrb",
+        "char_code_cangjie": "ppuk",
+        "char_code_zhengma": "uroz",
+        "char_code_sijiao": "97020"
+    },
+    "general_unicode": "基本区 U+605F",
+    "general_bs_code": "442353452"
+}

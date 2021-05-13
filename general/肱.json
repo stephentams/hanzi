@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "forearm"
+        },
+        {
+            "language": "德语",
+            "explanation": "Oberarmknochen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bras"
+        }
+    ],
+    "general_pinyins": [
+        "gōng"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄥ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "厷",
+        "𠃋",
+        "𠫔",
+        "𠫖",
+        "𠬟"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "80B1",
+            "35111354"
+        ],
+        "char_code_wubi": "edcy",
+        "char_code_cangjie": "bki",
+        "char_code_zhengma": "qgzs",
+        "char_code_sijiao": "74232"
+    },
+    "general_unicode": "基本区 U+80B1",
+    "general_bs_code": "35111354"
+}

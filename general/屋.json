@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "house; room; building, shelter"
+        },
+        {
+            "language": "德语",
+            "explanation": "Haus  (S)​,Zimmer  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "maison,chambre"
+        }
+    ],
+    "general_pinyins": [
+        "wū"
+    ],
+    "general_zhuyins": [
+        "ㄨ"
+    ],
+    "general_radical": {
+        "radical": "尸",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "剭",
+        "𡲃",
+        "𦤼",
+        "𦤿",
+        "𦥂",
+        "𢩈"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5C4B",
+            "513154121"
+        ],
+        "char_code_wubi": "ngcf",
+        "char_code_cangjie": "smig",
+        "char_code_zhengma": "xmhb",
+        "char_code_sijiao": "77214"
+    },
+    "general_unicode": "基本区 U+5C4B",
+    "general_bs_code": "513154121"
+}

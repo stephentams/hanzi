@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "orchid; elegant, graceful"
+        },
+        {
+            "language": "德语",
+            "explanation": "Orchidee  (S)​,Lan  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "orchidée"
+        }
+    ],
+    "general_pinyins": [
+        "lán"
+    ],
+    "general_zhuyins": [
+        "ㄌㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "17",
+        "total_sn": "20"
+    },
+    "general_stc": [
+        "兰"
+    ],
+    "general_ytz": [
+        "兰",
+        "蘭"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "862D",
+            "12225112511125431234"
+        ],
+        "char_code_wubi": "augi|ausl",
+        "char_code_cangjie": "tanw",
+        "char_code_zhengma": "exfl",
+        "char_code_sijiao": "44227"
+    },
+    "general_unicode": "基本区 U+862D",
+    "general_bs_code": "12225112511125431234"
+}

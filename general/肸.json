@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "spread out; smilling or laughing"
+        },
+        {
+            "language": "德语",
+            "explanation": "auseinander jagen, auseinander stieben"
+        },
+        {
+            "language": "法语",
+            "explanation": "glousser,se disperser"
+        }
+    ],
+    "general_pinyins": [
+        "xī"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "肹",
+        "𦙝",
+        "𦜱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "80B8",
+            "35113412"
+        ],
+        "char_code_wubi": "ewfh",
+        "char_code_cangjie": "bcj",
+        "char_code_zhengma": "qoed",
+        "char_code_sijiao": "78240"
+    },
+    "general_unicode": "基本区 U+80B8",
+    "general_bs_code": "35113412"
+}

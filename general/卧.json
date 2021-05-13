@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lie down; crouch"
+        }
+    ],
+    "general_pinyins": [
+        "wò"
+    ],
+    "general_zhuyins": [
+        "ㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "卜",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "臥"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5367",
+            "12512524"
+        ],
+        "char_code_wubi": "ahnh",
+        "char_code_cangjie": "sly",
+        "char_code_zhengma": "hid",
+        "char_code_sijiao": "73700"
+    },
+    "general_unicode": "基本区 U+5367",
+    "general_bs_code": "12512524"
+}

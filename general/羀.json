@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fishing trap"
+        }
+    ],
+    "general_pinyins": [
+        "liǔ"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "冂",
+        "non_radical_sn": "16",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "罶"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F80",
+            "253434122155125121"
+        ],
+        "char_code_wubi": "mqql|mrrl",
+        "char_code_cangjie": "bkmlw",
+        "char_code_zhengma": "ldxk",
+        "char_code_sijiao": "77602"
+    },
+    "general_unicode": "基本区 U+7F80",
+    "general_bs_code": "253434122155125121"
+}

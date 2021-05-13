@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mountain ridge, mountain peak"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bergkette  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "chaîne de montagnes"
+        }
+    ],
+    "general_pinyins": [
+        "lǐng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "14",
+        "total_sn": "17"
+    },
+    "general_stc": [
+        "岭"
+    ],
+    "general_ytz": [
+        "岭",
+        "阾",
+        "領",
+        "𡽹",
+        "嶺"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5DBA",
+            "25234454132511134"
+        ],
+        "char_code_wubi": "mwym",
+        "char_code_cangjie": "uoic",
+        "char_code_zhengma": "llwg",
+        "char_code_sijiao": "22386"
+    },
+    "general_unicode": "基本区 U+5DBA",
+    "general_bs_code": "25234454132511134"
+}

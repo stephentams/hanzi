@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ear; merely, only; handle"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ohr,Radikal Nr. 128 = Ohr (Sprachw)"
+        },
+        {
+            "language": "法语",
+            "explanation": "oreille,anse,(finale)​,128e radical"
+        }
+    ],
+    "general_pinyins": [
+        "ěr"
+    ],
+    "general_zhuyins": [
+        "ㄦˇ"
+    ],
+    "general_radical": {
+        "radical": "耳",
+        "non_radical_sn": "0",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8033",
+            "122111"
+        ],
+        "char_code_wubi": "bghg",
+        "char_code_cangjie": "sj",
+        "char_code_zhengma": "ce",
+        "char_code_sijiao": "10400"
+    },
+    "general_unicode": "基本区 U+8033",
+    "general_bs_code": "122111"
+}

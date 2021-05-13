@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bank, dike; purtuberance from"
+        },
+        {
+            "language": "德语",
+            "explanation": "Sandbank, Wall, Erdwall  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "niàn"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "墊"
+    ],
+    "general_structure": "左右结构；右上是今；不是令",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "57DD",
+            "12134454544"
+        ],
+        "char_code_wubi": "fwyn",
+        "char_code_cangjie": "goip",
+        "char_code_zhengma": "boxw",
+        "char_code_sijiao": "48132"
+    },
+    "general_unicode": "基本区 U+57DD",
+    "general_bs_code": "12134454544"
+}

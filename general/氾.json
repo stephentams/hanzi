@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "overflow, flood, inundate"
+        },
+        {
+            "language": "德语",
+            "explanation": "überfließen, überfluten, begehen  (V)​,ausgiebig, umfangreich  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "étendu,vaste,déborder"
+        }
+    ],
+    "general_pinyins": [
+        "fàn"
+    ],
+    "general_zhuyins": [
+        "ㄈㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "2",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "泛",
+        "𣲆",
+        "汎"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6C3E",
+            "44155"
+        ],
+        "char_code_wubi": "ibn",
+        "char_code_cangjie": "esu",
+        "char_code_zhengma": "vyyb",
+        "char_code_sijiao": "37112"
+    },
+    "general_unicode": "基本区 U+6C3E",
+    "general_bs_code": "44155"
+}

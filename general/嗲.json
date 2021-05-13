@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(Cant.) saliva; intensifying particle; inviting, coquettish; 嗲哋. 'daddy'"
+        },
+        {
+            "language": "德语",
+            "explanation": "verschämt, neckisch, kokett"
+        },
+        {
+            "language": "法语",
+            "explanation": "faussement timide,enfantin"
+        }
+    ],
+    "general_pinyins": [
+        "diǎ"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧㄚˇ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "55F2",
+            "2513434354354"
+        ],
+        "char_code_wubi": "kwqq|kwrq",
+        "char_code_cangjie": "rckn",
+        "char_code_zhengma": "jorr",
+        "char_code_sijiao": "68027"
+    },
+    "general_unicode": "基本区 U+55F2",
+    "general_bs_code": "2513434354354"
+}

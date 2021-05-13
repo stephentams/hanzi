@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "jú"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "18",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2711B",
+            "1212122125112354111251"
+        ],
+        "char_code_wubi": "aafy",
+        "char_code_cangjie": "ttjr",
+        "char_code_zhengma": "eers"
+    },
+    "general_unicode": "扩展B U+2711B",
+    "general_bs_code": "1212122125112354111251"
+}

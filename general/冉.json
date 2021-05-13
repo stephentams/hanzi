@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tender; weak; proceed gradually"
+        },
+        {
+            "language": "德语",
+            "explanation": "durchgehend, Passspiel  (S, Sport)​,Ran  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bord de la carapace de la tortue"
+        }
+    ],
+    "general_pinyins": [
+        "rǎn"
+    ],
+    "general_zhuyins": [
+        "ㄖㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "冂",
+        "non_radical_sn": "3",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "冄",
+        "聃"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5189",
+            "25211"
+        ],
+        "char_code_wubi": "mfd",
+        "char_code_cangjie": "gb",
+        "char_code_zhengma": "ldb",
+        "char_code_sijiao": "50447"
+    },
+    "general_unicode": "基本区 U+5189",
+    "general_bs_code": "25211"
+}

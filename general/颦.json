@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "frown, knit brows; with knitted"
+        },
+        {
+            "language": "德语",
+            "explanation": "Falte zwischen den Augenbauen; Stirnrunzeln"
+        },
+        {
+            "language": "法语",
+            "explanation": "froncer les sourcils"
+        }
+    ],
+    "general_pinyins": [
+        "pín"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "页",
+        "non_radical_sn": "15",
+        "total_sn": "21"
+    },
+    "general_stc": [
+        "顰"
+    ],
+    "general_ytz": [
+        "顰",
+        "𡤉",
+        "𩖓"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "98A6",
+            "212123313253432511312"
+        ],
+        "char_code_wubi": "hidf|hhdf",
+        "char_code_cangjie": "yohwj",
+        "char_code_zhengma": "iine",
+        "char_code_sijiao": "21406"
+    },
+    "general_unicode": "基本区 U+98A6",
+    "general_bs_code": "212123313253432511312"
+}

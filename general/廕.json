@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "shade; protect, shade, cover"
+        },
+        {
+            "language": "德语",
+            "explanation": "beschatten,  Ton"
+        }
+    ],
+    "general_pinyins": [
+        "yìn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "广",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5ED5",
+            "4135234451154"
+        ],
+        "char_code_wubi": "ybwc|obwc",
+        "char_code_cangjie": "inli",
+        "char_code_zhengma": "tgbz",
+        "char_code_sijiao": "00232"
+    },
+    "general_unicode": "基本区 U+5ED5",
+    "general_bs_code": "4135234451154"
+}

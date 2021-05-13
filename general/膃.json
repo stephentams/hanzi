@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fat"
+        },
+        {
+            "language": "德语",
+            "explanation": "Nachlauf, positiver Nachlauf  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "graisse (animale)​"
+        }
+    ],
+    "general_pinyins": [
+        "wà"
+    ],
+    "general_zhuyins": [
+        "ㄨㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "腽"
+    ],
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8183",
+            "35112534125221"
+        ],
+        "char_code_wubi": "elwl",
+        "char_code_cangjie": "bwot",
+        "char_code_zhengma": "qjol",
+        "char_code_sijiao": "76212"
+    },
+    "general_unicode": "基本区 U+8183",
+    "general_bs_code": "35112534125221"
+}

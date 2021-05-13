@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "medicinal preparation"
+        },
+        {
+            "language": "德语",
+            "explanation": "chem. Präparat  (S, Chem)​,pharmazeutisches  Präparat  (S, Med)​,Zählwort, ZEW, Zähleinheitswort für Dosis in der Medizin, TCM, Heilkräuter  (Zähl)​,Dosis, dosieren  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "dose,substance,préparation pharmaceutique"
+        }
+    ],
+    "general_pinyins": [
+        "jì"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "刂",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "劑"
+    ],
+    "general_ytz": [
+        "劑",
+        "剤",
+        "䜞",
+        "𠜸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5242",
+            "41343222"
+        ],
+        "char_code_wubi": "yjjh",
+        "char_code_cangjie": "ylln",
+        "char_code_zhengma": "sonk",
+        "char_code_sijiao": "02200"
+    },
+    "general_unicode": "基本区 U+5242",
+    "general_bs_code": "41343222"
+}

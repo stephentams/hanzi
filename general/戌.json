@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "11th terrestrial branch"
+        },
+        {
+            "language": "德语",
+            "explanation": "11. Tier im chin. Tierkreis - Hund 法语 car. cycl."
+        }
+    ],
+    "general_pinyins": [
+        "xū"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩ"
+    ],
+    "general_radical": {
+        "radical": "戈",
+        "non_radical_sn": "2",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "620C",
+            "131534"
+        ],
+        "char_code_wubi": "dgnt|dgd",
+        "char_code_cangjie": "ihm",
+        "char_code_zhengma": "hma",
+        "char_code_sijiao": "53200"
+    },
+    "general_unicode": "基本区 U+620C",
+    "general_bs_code": "131534"
+}

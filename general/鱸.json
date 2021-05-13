@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sea perch, sea bass"
+        },
+        {
+            "language": "德语",
+            "explanation": "Barsch"
+        },
+        {
+            "language": "法语",
+            "explanation": "perche"
+        }
+    ],
+    "general_pinyins": [
+        "lú"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "魚",
+        "non_radical_sn": "16",
+        "total_sn": "27"
+    },
+    "general_stc": [
+        "鲈"
+    ],
+    "general_ytz": [
+        "魲",
+        "鲈",
+        "𩽬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9C78",
+            "352512144442153152512125221"
+        ],
+        "char_code_wubi": "qohl",
+        "char_code_cangjie": "nfypt",
+        "char_code_zhengma": "rikl",
+        "char_code_sijiao": "21312"
+    },
+    "general_unicode": "基本区 U+9C78",
+    "general_bs_code": "352512144442153152512125221"
+}

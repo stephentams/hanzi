@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "consult, talk over, discuss"
+        },
+        {
+            "language": "德语",
+            "explanation": "Meinung, Ansicht ,diskutieren, debattieren  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "discuter,débattre,opinion,avis"
+        }
+    ],
+    "general_pinyins": [
+        "yì"
+    ],
+    "general_zhuyins": [
+        "ㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "言",
+        "non_radical_sn": "13",
+        "total_sn": "20"
+    },
+    "general_stc": [
+        "议"
+    ],
+    "general_ytz": [
+        "议",
+        "𧭖"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8B70",
+            "41112514311213121534"
+        ],
+        "char_code_wubi": "yugt|yugy",
+        "char_code_cangjie": "yrtgi",
+        "char_code_zhengma": "sumh",
+        "char_code_sijiao": "08653"
+    },
+    "general_unicode": "基本区 U+8B70",
+    "general_bs_code": "41112514311213121534"
+}

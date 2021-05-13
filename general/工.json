@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "labor, work; worker, laborer"
+        },
+        {
+            "language": "德语",
+            "explanation": "Arbeit, Arbeiter, Industrie, Projekt, Technik, Fertigkeit, geübt, etw. gut können, etw. beherrschen, in etw. bewandert sein  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "travail,travailler,ouvrier,travailleur,la classe ouvrière,ouvrage,oeuvre,construction,travaux,industrie,journée de travail"
+        }
+    ],
+    "general_pinyins": [
+        "gōng"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄥ"
+    ],
+    "general_radical": {
+        "radical": "工",
+        "non_radical_sn": "0",
+        "total_sn": "3"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㣉",
+        "𠜝",
+        "𢀚",
+        "𢒄",
+        "𢒅"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5DE5",
+            "121"
+        ],
+        "char_code_wubi": "aaaa",
+        "char_code_cangjie": "mlm",
+        "char_code_zhengma": "bi",
+        "char_code_sijiao": "10102"
+    },
+    "general_unicode": "基本区 U+5DE5",
+    "general_bs_code": "121"
+}

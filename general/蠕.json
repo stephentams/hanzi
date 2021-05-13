@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "eumenes polifomis, kind of wasp"
+        },
+        {
+            "language": "德语",
+            "explanation": "herauswinden, sich hin und her bewegen  (V)​,sich schlagenartig bewegen  (V)​,sich schlängeln, sich winden  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "se tortiller"
+        }
+    ],
+    "general_pinyins": [
+        "rú"
+    ],
+    "general_zhuyins": [
+        "ㄖㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "14",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "臑",
+        "蝡",
+        "𦓔",
+        "𧏦",
+        "𧑮",
+        "𧔇"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8815",
+            "25121414524444132522"
+        ],
+        "char_code_wubi": "jfdj",
+        "char_code_cangjie": "limbb",
+        "char_code_zhengma": "ifgl",
+        "char_code_sijiao": "51127"
+    },
+    "general_unicode": "基本区 U+8815",
+    "general_bs_code": "25121414524444132522"
+}

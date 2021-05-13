@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(a variant, seal type of U+5168 全) perfect, complete, absolute"
+        }
+    ],
+    "general_pinyins": [
+        "quán"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "人",
+        "non_radical_sn": "3",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "34B0",
+            "34121"
+        ],
+        "char_code_wubi": "tyaf",
+        "char_code_cangjie": "om",
+        "char_code_zhengma": "odab",
+        "char_code_sijiao": "80102"
+    },
+    "general_unicode": "扩展A U+34B0",
+    "general_bs_code": "34121"
+}

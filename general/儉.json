@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "temperate, frugal, economical"
+        },
+        {
+            "language": "德语",
+            "explanation": "einfach, bedürfnislos  (Adj)​,beherrscht"
+        },
+        {
+            "language": "法语",
+            "explanation": "économe,frugal,nécessiteux"
+        }
+    ],
+    "general_pinyins": [
+        "jiǎn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "13",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "俭"
+    ],
+    "general_ytz": [
+        "俭",
+        "倹",
+        "𠈏"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5109",
+            "323412512513434"
+        ],
+        "char_code_wubi": "wwgw",
+        "char_code_cangjie": "oomo",
+        "char_code_zhengma": "nooo",
+        "char_code_sijiao": "28286"
+    },
+    "general_unicode": "基本区 U+5109",
+    "general_bs_code": "323412512513434"
+}

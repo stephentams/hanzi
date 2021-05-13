@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fat; plump"
+        }
+    ],
+    "general_pinyins": [
+        "duó"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "13",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦡇"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "443E",
+            "35112522112143112"
+        ],
+        "char_code_wubi": "elff",
+        "char_code_cangjie": "bwlj",
+        "char_code_zhengma": "qlbu",
+        "char_code_sijiao": "76241"
+    },
+    "general_unicode": "扩展A U+443E",
+    "general_bs_code": "35112522112143112"
+}

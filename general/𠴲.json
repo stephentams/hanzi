@@ -1,0 +1,28 @@
+{
+    "general_pinyins": [
+        "tà"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "沓",
+        "誻"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "20D32",
+            "25125342511"
+        ],
+        "char_code_wubi": "kijg",
+        "char_code_cangjie": "rea",
+        "char_code_zhengma": "jkk"
+    },
+    "general_unicode": "扩展B U+20D32",
+    "general_bs_code": "25125342511"
+}

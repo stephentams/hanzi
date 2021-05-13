@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bits, scraps, crumbs, fragments"
+        },
+        {
+            "language": "德语",
+            "explanation": "Feilspäne  (S)​,Krume  (S)​,Stanzabfall  (S)​,unbedeutend, geringfügig  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "débris,copeaux,pellicules"
+        }
+    ],
+    "general_pinyins": [
+        "xiè"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "尸",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㞕"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5C51",
+            "5132432511"
+        ],
+        "char_code_wubi": "nied",
+        "char_code_cangjie": "sfb",
+        "char_code_zhengma": "xmkq",
+        "char_code_sijiao": "77227"
+    },
+    "general_unicode": "基本区 U+5C51",
+    "general_bs_code": "5132432511"
+}

@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "nàn"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "网",
+        "non_radical_sn": "0",
+        "total_sn": "24"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "26340",
+            "252211221251113432411121"
+        ],
+        "char_code_wubi": "laky",
+        "char_code_cangjie": "wltog",
+        "char_code_zhengma": "lkon"
+    },
+    "general_unicode": "扩展B U+26340",
+    "general_bs_code": "252211221251113432411121"
+}

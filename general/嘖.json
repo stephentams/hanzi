@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "interjection of approval or admiration"
+        },
+        {
+            "language": "法语",
+            "explanation": "faire claquer sa langue,chercher une occasion de parler,chercher à placer un mot"
+        }
+    ],
+    "general_pinyins": [
+        "zé"
+    ],
+    "general_zhuyins": [
+        "ㄗㄜˊ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "啧"
+    ],
+    "general_ytz": [
+        "㥽",
+        "啧",
+        "謮"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5616",
+            "25111212511134"
+        ],
+        "char_code_wubi": "kgmy",
+        "char_code_cangjie": "rqmc",
+        "char_code_zhengma": "jclo",
+        "char_code_sijiao": "65086"
+    },
+    "general_unicode": "基本区 U+5616",
+    "general_bs_code": "25111212511134"
+}

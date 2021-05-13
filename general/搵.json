@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wipe off; press down with knuckle; to immerse; (Cant.) to search, look for"
+        },
+        {
+            "language": "法语",
+            "explanation": "presser avec ses doigts,essuyer"
+        }
+    ],
+    "general_pinyins": [
+        "wèn"
+    ],
+    "general_zhuyins": [
+        "ㄨㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "揾"
+    ],
+    "general_ytz": [
+        "揾"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6435",
+            "1212534125221"
+        ],
+        "char_code_wubi": "rlwl",
+        "char_code_cangjie": "qwot",
+        "char_code_zhengma": "djol",
+        "char_code_sijiao": "56012"
+    },
+    "general_unicode": "基本区 U+6435",
+    "general_bs_code": "1212534125221"
+}

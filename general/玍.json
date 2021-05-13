@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ill tempered; naughty"
+        },
+        {
+            "language": "法语",
+            "explanation": "mauvais tempérament,méchant"
+        }
+    ],
+    "general_pinyins": [
+        "gǎ"
+    ],
+    "general_zhuyins": [
+        "ㄍㄚˇ"
+    ],
+    "general_radical": {
+        "radical": "丿",
+        "non_radical_sn": "4",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "738D",
+            "31121"
+        ],
+        "char_code_wubi": "tff",
+        "char_code_cangjie": "og",
+        "char_code_zhengma": "mab",
+        "char_code_sijiao": "20104"
+    },
+    "general_unicode": "基本区 U+738D",
+    "general_bs_code": "31121"
+}

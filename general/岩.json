@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cliff; rocks; mountain"
+        },
+        {
+            "language": "德语",
+            "explanation": "rocken, schaukeln ,Yan  (Eig, Fam)"
+        }
+    ],
+    "general_pinyins": [
+        "yán"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "巖",
+        "喦",
+        "嵒",
+        "嵓",
+        "巌",
+        "壧",
+        "巗",
+        "礹",
+        "𠼧",
+        "𡾏"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5CA9",
+            "25213251"
+        ],
+        "char_code_wubi": "mdf",
+        "char_code_cangjie": "umr",
+        "char_code_zhengma": "llg",
+        "char_code_sijiao": "22602"
+    },
+    "general_unicode": "基本区 U+5CA9",
+    "general_bs_code": "25213251"
+}

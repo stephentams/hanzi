@@ -1,0 +1,59 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "commerce, business, trade"
+        },
+        {
+            "language": "德语",
+            "explanation": "Geschäft(-sleben)​  (S, Wirtsch)​,Handel, Kaufmann  (S)​,Shang  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "marchand,commerce,discuter,consulter,(nom d'une dynastie)​"
+        }
+    ],
+    "general_pinyins": [
+        "shāng"
+    ],
+    "general_zhuyins": [
+        "ㄕㄤ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "謪",
+        "𠘾",
+        "𠹧",
+        "𠼬",
+        "𠾃",
+        "𠿧",
+        "𡂦",
+        "𡃬",
+        "𡄚",
+        "𡅟",
+        "𥫐",
+        "𧶜",
+        "𧷞",
+        "𧷮",
+        "𨝗",
+        "𨶼"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5546",
+            "41432534251"
+        ],
+        "char_code_wubi": "umwk|yumk",
+        "char_code_cangjie": "ycbr",
+        "char_code_zhengma": "suld",
+        "char_code_sijiao": "00227"
+    },
+    "general_unicode": "基本区 U+5546",
+    "general_bs_code": "41432534251"
+}

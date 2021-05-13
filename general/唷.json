@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "final particle"
+        },
+        {
+            "language": "德语",
+            "explanation": "Final-Partikel"
+        },
+        {
+            "language": "法语",
+            "explanation": "(interj. exprimant la surprise)​ Oh!,Mon dieu!"
+        }
+    ],
+    "general_pinyins": [
+        "yō"
+    ],
+    "general_zhuyins": [
+        "ㄧㄛ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "喅",
+        "㘊"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5537",
+            "25141542511"
+        ],
+        "char_code_wubi": "kyce",
+        "char_code_cangjie": "ryib",
+        "char_code_zhengma": "jszq",
+        "char_code_sijiao": "60027"
+    },
+    "general_unicode": "基本区 U+5537",
+    "general_bs_code": "25141542511"
+}

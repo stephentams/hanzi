@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hot water; soup, gravy, broth"
+        },
+        {
+            "language": "德语",
+            "explanation": "Suppe (S, Ess)​,Brühe (S, Ess)​,Tang (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bouillon,eau chaude,soupe,potage,échauder,chauffer,(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "tāng",
+        "shāng"
+    ],
+    "general_zhuyins": [
+        "ㄊㄤ",
+        "ㄕㄤ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "湯"
+    ],
+    "general_ytz": [
+        "湯"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6C64",
+            "441533"
+        ],
+        "char_code_wubi": "inrt",
+        "char_code_cangjie": "ensh",
+        "char_code_zhengma": "vyod",
+        "char_code_sijiao": "37127"
+    },
+    "general_unicode": "基本区 U+6C64",
+    "general_bs_code": "441533"
+}

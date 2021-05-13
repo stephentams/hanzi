@@ -1,0 +1,33 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(Cant.) bang; pan (Eng. loanwords)"
+        }
+    ],
+    "general_pinyins": [
+        "péng"
+    ],
+    "general_zhuyins": [
+        "ㄆㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "釒",
+        "non_radical_sn": "12",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "28B4C",
+            "34112431121251431333"
+        ],
+        "char_code_wubi": "qfke",
+        "char_code_cangjie": "cgth",
+        "char_code_zhengma": "pbup"
+    },
+    "general_unicode": "扩展B U+28B4C",
+    "general_bs_code": "34112431121251431333"
+}

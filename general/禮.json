@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "social custom; manners; courtesy; rites"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gabe ,Richtigkeit, Korrektur ,Ritus, Zeremonie"
+        },
+        {
+            "language": "法语",
+            "explanation": "rite,cérémonie,semaine,cadeau,présent"
+        }
+    ],
+    "general_pinyins": [
+        "lǐ"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "礻",
+        "non_radical_sn": "13",
+        "total_sn": "17"
+    },
+    "general_stc": [
+        "礼"
+    ],
+    "general_ytz": [
+        "礼",
+        "豊",
+        "𠃞",
+        "𤔑",
+        "𥘆",
+        "𥜨",
+        "𥜪",
+        "𥝏",
+        "禮"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "79AE",
+            "45242512211251431"
+        ],
+        "char_code_wubi": "pymu",
+        "char_code_cangjie": "iftwt",
+        "char_code_zhengma": "wsju",
+        "char_code_sijiao": "35218"
+    },
+    "general_unicode": "基本区 U+79AE",
+    "general_bs_code": "45242512211251431"
+}

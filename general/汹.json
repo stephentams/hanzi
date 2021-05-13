@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "turbulent; noisy, restless"
+        },
+        {
+            "language": "德语",
+            "explanation": "stürmisch, ungestüm"
+        },
+        {
+            "language": "法语",
+            "explanation": "jaillir"
+        }
+    ],
+    "general_pinyins": [
+        "xiōng"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄥ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "洶"
+    ],
+    "general_ytz": [
+        "洶",
+        "𣶑",
+        "𣺷"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6C79",
+            "4413452"
+        ],
+        "char_code_wubi": "iqbh|irbh",
+        "char_code_cangjie": "euk",
+        "char_code_zhengma": "vozi",
+        "char_code_sijiao": "32170"
+    },
+    "general_unicode": "基本区 U+6C79",
+    "general_bs_code": "4413452"
+}

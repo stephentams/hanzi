@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a small steelyard for weighing money, etc."
+        },
+        {
+            "language": "法语",
+            "explanation": "balance"
+        }
+    ],
+    "general_pinyins": [
+        "děng"
+    ],
+    "general_zhuyins": [
+        "ㄉㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "戈",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6225",
+            "2511311211534"
+        ],
+        "char_code_wubi": "jtga",
+        "char_code_cangjie": "ami",
+        "char_code_zhengma": "kmhm",
+        "char_code_sijiao": "63150"
+    },
+    "general_unicode": "基本区 U+6225",
+    "general_bs_code": "2511311211534"
+}

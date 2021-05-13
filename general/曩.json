@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "in ancient times, of old, former"
+        },
+        {
+            "language": "德语",
+            "explanation": "ehemals, früher ,Nang  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "dans les temps anciens,autrefois,jadis"
+        }
+    ],
+    "general_pinyins": [
+        "nǎng"
+    ],
+    "general_zhuyins": [
+        "ㄋㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "17",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "66E9",
+            "251141251251112213534"
+        ],
+        "char_code_wubi": "jyke",
+        "char_code_cangjie": "ayrv",
+        "char_code_zhengma": "kser",
+        "char_code_sijiao": "60732"
+    },
+    "general_unicode": "基本区 U+66E9",
+    "general_bs_code": "251141251251112213534"
+}

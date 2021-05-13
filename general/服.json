@@ -1,0 +1,56 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "clothes; wear, dress"
+        },
+        {
+            "language": "德语",
+            "explanation": "einnehmen  (V, Med)​,etw. auf sich nehmen, übernehmen  (V)​,jmd. überzeugen  (V)​,Kleidung  (V)​,sich einleben,eingewöhnen,akklimatisieren  (V)​,Fu  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "dose (médecine)​,servir,habits,vêtement,deuil,obéir,avaler,absorber,s'adapter à"
+        }
+    ],
+    "general_pinyins": [
+        "fú",
+        "fù"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˊ",
+        "ㄈㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠬝",
+        "𠬨",
+        "𠬩",
+        "𣍞",
+        "𦨈",
+        "𦨕",
+        "𦩟",
+        "𨈞",
+        "箙",
+        "𠬮",
+        "𦨋"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "670D",
+            "35115254"
+        ],
+        "char_code_wubi": "ebcy",
+        "char_code_cangjie": "bsle",
+        "char_code_zhengma": "qyxs",
+        "char_code_sijiao": "77247"
+    },
+    "general_unicode": "基本区 U+670D",
+    "general_bs_code": "35115254"
+}

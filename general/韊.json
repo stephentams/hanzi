@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a case for a bow"
+        }
+    ],
+    "general_pinyins": [
+        "lán"
+    ],
+    "general_zhuyins": [
+        "ㄌㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "革",
+        "non_radical_sn": "20",
+        "total_sn": "29"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "97CA",
+            "12212511212225112511125431234"
+        ],
+        "char_code_wubi": "afai|afal",
+        "char_code_cangjie": "tjtaw",
+        "char_code_zhengma": "eefl",
+        "char_code_sijiao": "44527"
+    },
+    "general_unicode": "基本区 U+97CA",
+    "general_bs_code": "12212511212225112511125431234"
+}

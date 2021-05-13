@@ -1,0 +1,35 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "an alternate form of U+4EA5 亥"
+        }
+    ],
+    "general_pinyins": [
+        "hài"
+    ],
+    "general_zhuyins": [
+        "ㄏㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "一",
+        "non_radical_sn": "2",
+        "total_sn": "3"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "亥"
+    ],
+    "general_structure": "嵌套结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "20005",
+            "153"
+        ],
+        "char_code_wubi": "gntv",
+        "char_code_cangjie": "mvks",
+        "char_code_zhengma": "azm"
+    },
+    "general_unicode": "扩展B U+20005",
+    "general_bs_code": "153"
+}

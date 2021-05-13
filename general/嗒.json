@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "德语",
+            "explanation": "verzweifeln"
+        },
+        {
+            "language": "法语",
+            "explanation": "tac"
+        }
+    ],
+    "general_pinyins": [
+        "tà",
+        "dā"
+    ],
+    "general_zhuyins": [
+        "ㄊㄚˋ",
+        "ㄉㄚ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "噠",
+        "答",
+        "𢟉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "55D2",
+            "251122341251"
+        ],
+        "char_code_wubi": "kawk",
+        "char_code_cangjie": "rtor",
+        "char_code_zhengma": "jeaj",
+        "char_code_sijiao": "64061"
+    },
+    "general_unicode": "基本区 U+55D2",
+    "general_bs_code": "251122341251"
+}

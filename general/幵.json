@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "even level. to raise in both hands"
+        }
+    ],
+    "general_pinyins": [
+        "jiān"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "干",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢆛",
+        "岍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5E75",
+            "113112"
+        ],
+        "char_code_wubi": "ftfh|gdfh",
+        "char_code_cangjie": "mjmj",
+        "char_code_zhengma": "agae",
+        "char_code_sijiao": "11440"
+    },
+    "general_unicode": "基本区 U+5E75",
+    "general_bs_code": "113112"
+}

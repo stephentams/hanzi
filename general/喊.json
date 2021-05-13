@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "shout, call out, yell; howl; cry"
+        },
+        {
+            "language": "德语",
+            "explanation": "Aufruf  (S)​,Ruf  (S)​,rufen, laut schreien  (V)​,Han  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "crier,appeler"
+        }
+    ],
+    "general_pinyins": [
+        "hǎn"
+    ],
+    "general_zhuyins": [
+        "ㄏㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䌠",
+        "㘕",
+        "噉",
+        "𠳾",
+        "𠽦",
+        "𠿑",
+        "𦆃"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "558A",
+            "251131251534"
+        ],
+        "char_code_wubi": "kdgt|kdgk",
+        "char_code_cangjie": "rihr",
+        "char_code_zhengma": "jhaj",
+        "char_code_sijiao": "63050"
+    },
+    "general_unicode": "基本区 U+558A",
+    "general_bs_code": "251131251534"
+}

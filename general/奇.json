@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "strange, unusual, uncanny, occult"
+        },
+        {
+            "language": "德语",
+            "explanation": "sonderbar  (Adj)​,Qi  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "impair,seul,reste,extraordinaire,merveilleux,rare"
+        }
+    ],
+    "general_pinyins": [
+        "qí",
+        "jī"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧˊ",
+        "ㄐㄧ"
+    ],
+    "general_radical": {
+        "radical": "大",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "畸",
+        "竒"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5947",
+            "13412512"
+        ],
+        "char_code_wubi": "dskf",
+        "char_code_cangjie": "kmnr",
+        "char_code_zhengma": "gdaj",
+        "char_code_sijiao": "40621"
+    },
+    "general_unicode": "基本区 U+5947",
+    "general_bs_code": "13412512"
+}

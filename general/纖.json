@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fine, delicate; minute; graceful"
+        },
+        {
+            "language": "法语",
+            "explanation": "fin,soie,fibre"
+        }
+    ],
+    "general_pinyins": [
+        "xiān"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "糹",
+        "non_radical_sn": "17",
+        "total_sn": "23"
+    },
+    "general_stc": [
+        "纤"
+    ],
+    "general_ytz": [
+        "孅",
+        "繊",
+        "纎",
+        "纤"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7E96",
+            "55444434341211121111534"
+        ],
+        "char_code_wubi": "xwwg",
+        "char_code_cangjie": "vfoim",
+        "char_code_zhengma": "zoka",
+        "char_code_sijiao": "23950"
+    },
+    "general_unicode": "基本区 U+7E96",
+    "general_bs_code": "55444434341211121111534"
+}

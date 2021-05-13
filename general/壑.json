@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bed of torrent, narrow ravine"
+        },
+        {
+            "language": "德语",
+            "explanation": "Abzugskanal, Rinne  (S)​,Schlucht, Abgrund, Senke  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "canal,lit de torrent"
+        }
+    ],
+    "general_pinyins": [
+        "hè"
+    ],
+    "general_zhuyins": [
+        "ㄏㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "14",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㕡",
+        "𡎙",
+        "𡐍",
+        "𡓛",
+        "𡓼",
+        "𡔗",
+        "𧮸",
+        "睿",
+        "𡺻"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "58D1",
+            "21451343425154121"
+        ],
+        "char_code_wubi": "hpgf",
+        "char_code_cangjie": "yeg",
+        "char_code_zhengma": "idxb",
+        "char_code_sijiao": "27104"
+    },
+    "general_unicode": "基本区 U+58D1",
+    "general_bs_code": "21451343425154121"
+}

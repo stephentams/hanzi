@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dislike, detest, reject; satiate"
+        },
+        {
+            "language": "德语",
+            "explanation": "verabscheuen"
+        },
+        {
+            "language": "法语",
+            "explanation": "détester,en avoir assez de,répugner,être dégouté"
+        }
+    ],
+    "general_pinyins": [
+        "yàn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "厂",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "厭"
+    ],
+    "general_ytz": [
+        "厭",
+        "猒",
+        "𤞣"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "538C",
+            "131344"
+        ],
+        "char_code_wubi": "ddi",
+        "char_code_cangjie": "mik",
+        "char_code_zhengma": "gggs",
+        "char_code_sijiao": "71284"
+    },
+    "general_unicode": "基本区 U+538C",
+    "general_bs_code": "131344"
+}

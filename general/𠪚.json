@@ -1,0 +1,32 @@
+{
+    "general_pinyins": [
+        "yín",
+        "ǎn",
+        "kǎn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "厂",
+        "non_radical_sn": "11",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠪔",
+        "𠪘"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "20A9A",
+            "13121221113134"
+        ],
+        "char_code_wubi": "dnbt",
+        "char_code_cangjie": "mmjk",
+        "char_code_zhengma": "ggcm"
+    },
+    "general_unicode": "扩展B U+20A9A",
+    "general_bs_code": "13121221113134"
+}

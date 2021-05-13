@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "out-of-the-way, remote; unorthodox"
+        },
+        {
+            "language": "德语",
+            "explanation": "Eintrag,Erfolgreich  (Adj)​,Eintrag Erfolgreich"
+        },
+        {
+            "language": "法语",
+            "explanation": "mauvais,injuste,écarté"
+        }
+    ],
+    "general_pinyins": [
+        "pì"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "13",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠒱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "50FB",
+            "325132514143112"
+        ],
+        "char_code_wubi": "wnku",
+        "char_code_cangjie": "osrj",
+        "char_code_zhengma": "nxjs",
+        "char_code_sijiao": "20241"
+    },
+    "general_unicode": "基本区 U+50FB",
+    "general_bs_code": "325132514143112"
+}

@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "defend; prevent; embankment"
+        },
+        {
+            "language": "法语",
+            "explanation": "protéger,défendre,prévenir,se prémunir contre"
+        }
+    ],
+    "general_pinyins": [
+        "fáng"
+    ],
+    "general_zhuyins": [
+        "ㄈㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "坊",
+        "埅"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9632",
+            "524153"
+        ],
+        "char_code_wubi": "byn|byt",
+        "char_code_cangjie": "nlyhs",
+        "char_code_zhengma": "ysy",
+        "char_code_sijiao": "70227"
+    },
+    "general_unicode": "基本区 U+9632",
+    "general_bs_code": "524153"
+}

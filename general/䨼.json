@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dyestuff ( of dark green)"
+        }
+    ],
+    "general_pinyins": [
+        "hù"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "青",
+        "non_radical_sn": "13",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𩇥"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4A3C",
+            "112125111223241112154"
+        ],
+        "char_code_wubi": "geac",
+        "char_code_cangjie": "qbtoe",
+        "char_code_zhengma": "cinx",
+        "char_code_sijiao": "54247"
+    },
+    "general_unicode": "扩展A U+4A3C",
+    "general_bs_code": "112125111223241112154"
+}

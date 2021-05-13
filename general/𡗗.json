@@ -1,0 +1,32 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "folded hands"
+        }
+    ],
+    "general_pinyins": [
+        "pěng"
+    ],
+    "general_zhuyins": [
+        "ㄆㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "大",
+        "non_radical_sn": "2",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "嵌套结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "215D7",
+            "11134"
+        ],
+        "char_code_wubi": "dwi",
+        "char_code_zhengma": "coaa"
+    },
+    "general_unicode": "扩展B U+215D7",
+    "general_bs_code": "11134"
+}

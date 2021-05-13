@@ -1,0 +1,59 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "huge fish; widower; bachelor"
+        },
+        {
+            "language": "德语",
+            "explanation": "Witwer  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "célibataire,seul"
+        }
+    ],
+    "general_pinyins": [
+        "guān"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄢ"
+    ],
+    "general_radical": {
+        "radical": "魚",
+        "non_radical_sn": "10",
+        "total_sn": "21"
+    },
+    "general_stc": [
+        "鳏"
+    ],
+    "general_ytz": [
+        "鯀",
+        "鯤",
+        "䚪",
+        "矜",
+        "鱞",
+        "鳏",
+        "𣎕",
+        "𥎅",
+        "𧤩",
+        "𩶊",
+        "𩹌",
+        "𩻲",
+        "𩻴",
+        "𥉀"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9C25",
+            "352512144442522123344"
+        ],
+        "char_code_wubi": "qoli",
+        "char_code_cangjie": "nfwle",
+        "char_code_zhengma": "rlkv",
+        "char_code_sijiao": "26399"
+    },
+    "general_unicode": "基本区 U+9C25",
+    "general_bs_code": "352512144442522123344"
+}

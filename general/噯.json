@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "interjection; exclamation"
+        },
+        {
+            "language": "德语",
+            "explanation": "nein! nicht doch! 法语 (interjection exprimant la désapprobation ou la négation)​,(interjection marquant le regret et le repentir)​"
+        }
+    ],
+    "general_pinyins": [
+        "ǎi",
+        "ài",
+        "āi"
+    ],
+    "general_zhuyins": [
+        "ㄞˇ",
+        "ㄞˋ",
+        "ㄞ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "嗳"
+    ],
+    "general_ytz": [
+        "哎",
+        "嗳",
+        "噫"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "566F",
+            "2513443454544354"
+        ],
+        "char_code_wubi": "kept",
+        "char_code_cangjie": "rbbe",
+        "char_code_zhengma": "jpwr",
+        "char_code_sijiao": "62047"
+    },
+    "general_unicode": "基本区 U+566F",
+    "general_bs_code": "2513443454544354"
+}

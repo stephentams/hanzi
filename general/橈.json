@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bent or twisted piece of wood; a paddle"
+        },
+        {
+            "language": "法语",
+            "explanation": "rame courte,radius"
+        }
+    ],
+    "general_pinyins": [
+        "ráo",
+        "náo"
+    ],
+    "general_zhuyins": [
+        "ㄖㄠˊ",
+        "ㄋㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "12",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "桡"
+    ],
+    "general_ytz": [
+        "桡",
+        "𣓤",
+        "𦪛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6A48",
+            "1234121121121135"
+        ],
+        "char_code_wubi": "sffq",
+        "char_code_cangjie": "dggu",
+        "char_code_zhengma": "fbbg",
+        "char_code_sijiao": "44912"
+    },
+    "general_unicode": "基本区 U+6A48",
+    "general_bs_code": "1234121121121135"
+}

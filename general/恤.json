@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "show pity; relieve, help"
+        },
+        {
+            "language": "德语",
+            "explanation": "Sympathie, Zuneigung (für)​  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "xù"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䘏",
+        "恓",
+        "賉",
+        "𧧓",
+        "𨜧",
+        "𨟰",
+        "卹",
+        "䦗"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6064",
+            "442325221"
+        ],
+        "char_code_wubi": "ntlg",
+        "char_code_cangjie": "phbt",
+        "char_code_zhengma": "umlk",
+        "char_code_sijiao": "97012"
+    },
+    "general_unicode": "基本区 U+6064",
+    "general_bs_code": "442325221"
+}

@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "family name"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gui  (Eig, Fam)"
+        }
+    ],
+    "general_pinyins": [
+        "guī"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄟ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "妫"
+    ],
+    "general_ytz": [
+        "偽",
+        "妫",
+        "嬀",
+        "溈"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5AAF",
+            "531435554444"
+        ],
+        "char_code_wubi": "vyto",
+        "char_code_cangjie": "vikf",
+        "char_code_zhengma": "zmyu",
+        "char_code_sijiao": "44427"
+    },
+    "general_unicode": "基本区 U+5AAF",
+    "general_bs_code": "531435554444"
+}

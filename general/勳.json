@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "meritorious deed; merits; rank"
+        },
+        {
+            "language": "法语",
+            "explanation": "mérite,exploit"
+        }
+    ],
+    "general_pinyins": [
+        "xūn"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄣ"
+    ],
+    "general_radical": {
+        "radical": "力",
+        "non_radical_sn": "14",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "勛",
+        "勲",
+        "𠢼"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "52F3",
+            "3125431211444453"
+        ],
+        "char_code_wubi": "tgll|tgle",
+        "char_code_cangjie": "hfks",
+        "char_code_zhengma": "meuy",
+        "char_code_sijiao": "24327"
+    },
+    "general_unicode": "基本区 U+52F3",
+    "general_bs_code": "3125431211444453"
+}

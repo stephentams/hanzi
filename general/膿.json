@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pus"
+        },
+        {
+            "language": "德语",
+            "explanation": "Eiter (S, Med)​,eitrig (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "pus"
+        }
+    ],
+    "general_pinyins": [
+        "nóng"
+    ],
+    "general_zhuyins": [
+        "ㄋㄨㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "13",
+        "total_sn": "17"
+    },
+    "general_stc": [
+        "脓"
+    ],
+    "general_ytz": [
+        "醲",
+        "𧗕",
+        "脓",
+        "癑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "81BF",
+            "35112512211311534"
+        ],
+        "char_code_wubi": "emae",
+        "char_code_cangjie": "btwv",
+        "char_code_zhengma": "qkkg",
+        "char_code_sijiao": "75232"
+    },
+    "general_unicode": "基本区 U+81BF",
+    "general_bs_code": "35112512211311534"
+}

@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "carry, raise, lift"
+        }
+    ],
+    "general_pinyins": [
+        "tái"
+    ],
+    "general_zhuyins": [
+        "ㄊㄞˊ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "14",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "抬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "64E1",
+            "12112125145154121"
+        ],
+        "char_code_wubi": "rfkf",
+        "char_code_cangjie": "qgrg",
+        "char_code_zhengma": "dbwh",
+        "char_code_sijiao": "54014"
+    },
+    "general_unicode": "基本区 U+64E1",
+    "general_bs_code": "12112125145154121"
+}

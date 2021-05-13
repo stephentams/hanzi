@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "go quickly or swiftly; hurry"
+        },
+        {
+            "language": "德语",
+            "explanation": "Geschwindigkeit  (S)​,Tempo  (S)​,schnell rennnen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "galoper,passer à toute vitesse"
+        }
+    ],
+    "general_pinyins": [
+        "chí"
+    ],
+    "general_zhuyins": [
+        "ㄔˊ"
+    ],
+    "general_radical": {
+        "radical": "马",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "馳"
+    ],
+    "general_ytz": [
+        "馳",
+        "䮈",
+        "𧂓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A70",
+            "551525"
+        ],
+        "char_code_wubi": "cbn|cgbn",
+        "char_code_cangjie": "nmpd",
+        "char_code_zhengma": "xyi",
+        "char_code_sijiao": "74112"
+    },
+    "general_unicode": "基本区 U+9A70",
+    "general_bs_code": "551525"
+}

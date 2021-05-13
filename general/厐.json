@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "disorderly, messy; huge, big"
+        }
+    ],
+    "general_pinyins": [
+        "páng"
+    ],
+    "general_zhuyins": [
+        "ㄆㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "厂",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "龎"
+    ],
+    "general_ytz": [
+        "龎"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5390",
+            "1313534"
+        ],
+        "char_code_wubi": "ddxv|ddxy",
+        "char_code_cangjie": "mikp",
+        "char_code_zhengma": "gggm",
+        "char_code_sijiao": "71214"
+    },
+    "general_unicode": "基本区 U+5390",
+    "general_bs_code": "1313534"
+}

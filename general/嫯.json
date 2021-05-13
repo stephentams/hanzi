@@ -1,0 +1,30 @@
+{
+    "general_pinyins": [
+        "ào"
+    ],
+    "general_zhuyins": [
+        "ㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "傲"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5AEF",
+            "1121533134531"
+        ],
+        "char_code_wubi": "gqtv",
+        "char_code_cangjie": "gkv",
+        "char_code_zhengma": "cimz",
+        "char_code_sijiao": "58404"
+    },
+    "general_unicode": "基本区 U+5AEF",
+    "general_bs_code": "1121533134531"
+}

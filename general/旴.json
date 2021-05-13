@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dawn"
+        },
+        {
+            "language": "德语",
+            "explanation": "Anbruch, Beginn  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "xù",
+        "xū"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩˋ",
+        "ㄒㄩ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "3",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "晇",
+        "𤕐",
+        "𣅙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "65F4",
+            "2511112"
+        ],
+        "char_code_wubi": "jgfh",
+        "char_code_cangjie": "amd",
+        "char_code_zhengma": "kad",
+        "char_code_sijiao": "61040"
+    },
+    "general_unicode": "基本区 U+65F4",
+    "general_bs_code": "2511112"
+}

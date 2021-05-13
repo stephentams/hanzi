@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "dust, dirt, ashes, cinders"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 Erde ,Staub"
+        }
+    ],
+    "general_pinyins": [
+        "chén"
+    ],
+    "general_zhuyins": [
+        "ㄔㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "小",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "塵"
+    ],
+    "general_ytz": [
+        "塵",
+        "𡐪",
+        "𡑁",
+        "𡒲",
+        "𡔚",
+        "𦧄",
+        "𪋻"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5C18",
+            "234121"
+        ],
+        "char_code_wubi": "iff",
+        "char_code_cangjie": "fg",
+        "char_code_zhengma": "kob",
+        "char_code_sijiao": "90104"
+    },
+    "general_unicode": "基本区 U+5C18",
+    "general_bs_code": "234121"
+}

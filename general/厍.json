@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "surname"
+        }
+    ],
+    "general_pinyins": [
+        "shè"
+    ],
+    "general_zhuyins": [
+        "ㄕㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "厂",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "厙"
+    ],
+    "general_ytz": [
+        "厙"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "538D",
+            "131512"
+        ],
+        "char_code_wubi": "dlk",
+        "char_code_cangjie": "mkq",
+        "char_code_zhengma": "gghe",
+        "char_code_sijiao": "71254"
+    },
+    "general_unicode": "基本区 U+538D",
+    "general_bs_code": "131512"
+}

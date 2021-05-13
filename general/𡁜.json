@@ -1,0 +1,29 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(Cant.) particle to close a quote"
+        }
+    ],
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "14",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2105C",
+            "2514524251225251"
+        ],
+        "char_code_wubi": "kpyk",
+        "char_code_cangjie": "rifb",
+        "char_code_zhengma": "jwlj"
+    },
+    "general_unicode": "扩展B U+2105C",
+    "general_bs_code": "2514524251225251"
+}

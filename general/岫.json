@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mountain peak; cave, cavern"
+        },
+        {
+            "language": "德语",
+            "explanation": "Höhle  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "sommet de la montagne,grotte"
+        }
+    ],
+    "general_pinyins": [
+        "xiù"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䜬",
+        "𥥉",
+        "峀"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5CAB",
+            "25225121"
+        ],
+        "char_code_wubi": "mmg",
+        "char_code_cangjie": "ulw",
+        "char_code_zhengma": "llki",
+        "char_code_sijiao": "25760"
+    },
+    "general_unicode": "基本区 U+5CAB",
+    "general_bs_code": "25225121"
+}

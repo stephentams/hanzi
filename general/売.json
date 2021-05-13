@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sell; [NOT casing, shell, husk]"
+        }
+    ],
+    "general_pinyins": [
+        "mài"
+    ],
+    "general_zhuyins": [
+        "ㄇㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "士",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "賣"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "58F2",
+            "1214535"
+        ],
+        "char_code_wubi": "fpqb",
+        "char_code_cangjie": "gbhu",
+        "char_code_zhengma": "bwrd",
+        "char_code_sijiao": "40212"
+    },
+    "general_unicode": "基本区 U+58F2",
+    "general_bs_code": "1214535"
+}

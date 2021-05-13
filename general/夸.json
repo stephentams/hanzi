@@ -1,0 +1,57 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "extravagant, luxurious; handsome"
+        },
+        {
+            "language": "德语",
+            "explanation": "renommieren, prahlen"
+        },
+        {
+            "language": "法语",
+            "explanation": "exagérer,louer"
+        }
+    ],
+    "general_pinyins": [
+        "kuā",
+        "kuà"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄚ",
+        "ㄎㄨㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "大",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "誇"
+    ],
+    "general_ytz": [
+        "䠸",
+        "𡗢",
+        "𡗴",
+        "𡗸",
+        "𡘆",
+        "姱",
+        "荂",
+        "誇",
+        "跨",
+        "咵"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5938",
+            "134115"
+        ],
+        "char_code_wubi": "dfnb",
+        "char_code_cangjie": "kmms",
+        "char_code_zhengma": "gdbz",
+        "char_code_sijiao": "40027"
+    },
+    "general_unicode": "基本区 U+5938",
+    "general_bs_code": "134115"
+}

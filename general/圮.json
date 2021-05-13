@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "destroyed, ruined; to subvert to injure"
+        },
+        {
+            "language": "德语",
+            "explanation": "vernichtete, zerstört"
+        },
+        {
+            "language": "法语",
+            "explanation": "démoli (immeuble, mur)​,détruit,interrompu"
+        }
+    ],
+    "general_pinyins": [
+        "pǐ"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䤏",
+        "𡉏",
+        "𡺮"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "572E",
+            "121515"
+        ],
+        "char_code_wubi": "fnn",
+        "char_code_cangjie": "gsu",
+        "char_code_zhengma": "byy",
+        "char_code_sijiao": "47117"
+    },
+    "general_unicode": "基本区 U+572E",
+    "general_bs_code": "121515"
+}

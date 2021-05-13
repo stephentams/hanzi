@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "法语",
+            "explanation": "(arch.)​ tambour"
+        }
+    ],
+    "general_pinyins": [
+        "zhù"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "士",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "豈",
+        "𧯛"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "58F4",
+            "121251431"
+        ],
+        "char_code_wubi": "fkuf",
+        "char_code_cangjie": "grt",
+        "char_code_zhengma": "bjua",
+        "char_code_sijiao": "40108"
+    },
+    "general_unicode": "基本区 U+58F4",
+    "general_bs_code": "121251431"
+}

@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "copy, write down, record"
+        },
+        {
+            "language": "德语",
+            "explanation": "abschreiben, Protokoll führen, registrieren, einschreiben, eintragen ,beschäftigen, einstellen"
+        },
+        {
+            "language": "法语",
+            "explanation": "registre,enregistrer,inscrire"
+        }
+    ],
+    "general_pinyins": [
+        "lù"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "彐",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "錄",
+        "録"
+    ],
+    "general_ytz": [
+        "彔",
+        "錄",
+        "録",
+        "𢑗",
+        "𧧱"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F55",
+            "51124134"
+        ],
+        "char_code_wubi": "viu",
+        "char_code_cangjie": "nmme",
+        "char_code_zhengma": "xbkv",
+        "char_code_sijiao": "17909"
+    },
+    "general_unicode": "基本区 U+5F55",
+    "general_bs_code": "51124134"
+}

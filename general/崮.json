@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "法语",
+            "explanation": "montagne aux faces abruptes et au sommet plat"
+        }
+    ],
+    "general_pinyins": [
+        "gù"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡹍"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5D2E",
+            "25225122511"
+        ],
+        "char_code_wubi": "mldf",
+        "char_code_cangjie": "uwjr",
+        "char_code_zhengma": "llej",
+        "char_code_sijiao": "22607"
+    },
+    "general_unicode": "基本区 U+5D2E",
+    "general_bs_code": "25225122511"
+}

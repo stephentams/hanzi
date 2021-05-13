@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(abbreviated form of 錢) money; cash, a unit of weight, a Chinese family name"
+        }
+    ],
+    "general_pinyins": [
+        "qián"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "戈",
+        "non_radical_sn": "2",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "单体结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "39AE",
+            "111534"
+        ],
+        "char_code_wubi": "dnyt|fai",
+        "char_code_cangjie": "iq",
+        "char_code_zhengma": "hmaa",
+        "char_code_sijiao": "53000"
+    },
+    "general_unicode": "扩展A U+39AE",
+    "general_bs_code": "111534"
+}

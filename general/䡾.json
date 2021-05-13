@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "high cartloads, (same as 轙) rings on the yokes"
+        }
+    ],
+    "general_pinyins": [
+        "nèi",
+        "niè"
+    ],
+    "general_zhuyins": [
+        "ㄋㄟˋ",
+        "ㄋㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "車",
+        "non_radical_sn": "20",
+        "total_sn": "27"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨏾",
+        "轙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "487E",
+            "125111221531512512543121344"
+        ],
+        "char_code_wubi": "lhad|lhgd",
+        "char_code_cangjie": "jjybk",
+        "char_code_zhengma": "fkgs",
+        "char_code_sijiao": "53084"
+    },
+    "general_unicode": "扩展A U+487E",
+    "general_bs_code": "125111221531512512543121344"
+}

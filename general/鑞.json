@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "solder; tin"
+        },
+        {
+            "language": "德语",
+            "explanation": "Lötmaschine, Lot (Lötmetall, Lötmetalllegierung)​  (S)​,löten  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "soudure,étain blanc et dur"
+        }
+    ],
+    "general_pinyins": [
+        "là"
+    ],
+    "general_zhuyins": [
+        "ㄌㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "釒",
+        "non_radical_sn": "15",
+        "total_sn": "23"
+    },
+    "general_stc": [
+        "镴"
+    ],
+    "general_ytz": [
+        "镴",
+        "𨭛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "945E",
+            "34112431555253415445445"
+        ],
+        "char_code_wubi": "qvln",
+        "char_code_cangjie": "cvvv",
+        "char_code_zhengma": "pzoz",
+        "char_code_sijiao": "82112"
+    },
+    "general_unicode": "基本区 U+945E",
+    "general_bs_code": "34112431555253415445445"
+}

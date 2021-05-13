@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "belt, girdle, band, strap, zone"
+        },
+        {
+            "language": "德语",
+            "explanation": "(照管)​ großziehen, aufziehen ,mitnehmen, mitbringen, tragen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "ceinture,bande,ruban,pneu,zone,apporter,emporter,mener,porter,guider,(classificateur pour régions, lieux, espaces)​"
+        }
+    ],
+    "general_pinyins": [
+        "dài"
+    ],
+    "general_zhuyins": [
+        "ㄉㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "巾",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "帶"
+    ],
+    "general_ytz": [
+        "帶",
+        "㡖",
+        "𢂸",
+        "𢃄",
+        "𢄔"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5E26",
+            "122245252"
+        ],
+        "char_code_wubi": "gkph",
+        "char_code_cangjie": "tjblb",
+        "char_code_zhengma": "ewli",
+        "char_code_sijiao": "44227"
+    },
+    "general_unicode": "基本区 U+5E26",
+    "general_bs_code": "122245252"
+}

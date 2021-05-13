@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "耳",
+        "non_radical_sn": "16",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "聵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2660B",
+            "1221113211511342511134"
+        ],
+        "char_code_wubi": "bvwm",
+        "char_code_cangjie": "sjhoc",
+        "char_code_zhengma": "ceol"
+    },
+    "general_unicode": "扩展B U+2660B",
+    "general_bs_code": "1221113211511342511134"
+}

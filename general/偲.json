@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "talented; urgent"
+        },
+        {
+            "language": "德语",
+            "explanation": "dringend, vordringlich"
+        },
+        {
+            "language": "法语",
+            "explanation": "talentueux,urgent"
+        }
+    ],
+    "general_pinyins": [
+        "cāi",
+        "sī"
+    ],
+    "general_zhuyins": [
+        "ㄘㄞ",
+        "ㄙ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤟧"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5072",
+            "32251214544"
+        ],
+        "char_code_wubi": "wlny",
+        "char_code_cangjie": "owp",
+        "char_code_zhengma": "nkwz",
+        "char_code_sijiao": "26230"
+    },
+    "general_unicode": "基本区 U+5072",
+    "general_bs_code": "32251214544"
+}

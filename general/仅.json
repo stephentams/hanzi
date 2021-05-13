@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "only, merely, solely, just"
+        },
+        {
+            "language": "德语",
+            "explanation": "lediglich, bloß, nur, erst"
+        },
+        {
+            "language": "法语",
+            "explanation": "seulement,ne ... que,à peine"
+        }
+    ],
+    "general_pinyins": [
+        "jǐn",
+        "jìn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄣˇ",
+        "ㄐㄧㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "2",
+        "total_sn": "4"
+    },
+    "general_stc": [
+        "僅"
+    ],
+    "general_ytz": [
+        "付",
+        "僅",
+        "奴",
+        "廑",
+        "㝻"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4EC5",
+            "3254"
+        ],
+        "char_code_wubi": "wcy",
+        "char_code_cangjie": "oe",
+        "char_code_zhengma": "nxs",
+        "char_code_sijiao": "27240"
+    },
+    "general_unicode": "基本区 U+4EC5",
+    "general_bs_code": "3254"
+}

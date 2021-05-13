@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "industrious, diligent, attentive"
+        },
+        {
+            "language": "德语",
+            "explanation": "emsig, fleißig, oft,  Dienst...  (Adj)"
+        }
+    ],
+    "general_pinyins": [
+        "qín"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "力",
+        "non_radical_sn": "11",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "廑",
+        "懃",
+        "懄",
+        "瘽",
+        "𠢄",
+        "𠢇",
+        "勤"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "52E4",
+            "1221251112153"
+        ],
+        "char_code_wubi": "akgl|akge",
+        "char_code_cangjie": "tmks",
+        "char_code_zhengma": "eacy",
+        "char_code_sijiao": "44127"
+    },
+    "general_unicode": "基本区 U+52E4",
+    "general_bs_code": "1221251112153"
+}

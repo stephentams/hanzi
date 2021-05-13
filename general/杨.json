@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "willow, poplar, aspen; surname"
+        },
+        {
+            "language": "德语",
+            "explanation": "Pappel (S, Bio)​,Yang (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "peuplier"
+        }
+    ],
+    "general_pinyins": [
+        "yáng"
+    ],
+    "general_zhuyins": [
+        "ㄧㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "3",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "楊"
+    ],
+    "general_ytz": [
+        "楊"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6768",
+            "1234533"
+        ],
+        "char_code_wubi": "snrt",
+        "char_code_cangjie": "dnsh",
+        "char_code_zhengma": "fyod",
+        "char_code_sijiao": "47927"
+    },
+    "general_unicode": "基本区 U+6768",
+    "general_bs_code": "1234533"
+}

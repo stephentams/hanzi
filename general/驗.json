@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "test, examine, inspect; verify"
+        },
+        {
+            "language": "德语",
+            "explanation": "prüfen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "contrôler,examiner,vérifier,éprouver,mettre à l'épreuve,essayer,preuve"
+        }
+    ],
+    "general_pinyins": [
+        "yàn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "馬",
+        "non_radical_sn": "13",
+        "total_sn": "23"
+    },
+    "general_stc": [
+        "验"
+    ],
+    "general_ytz": [
+        "譣",
+        "騐",
+        "験",
+        "验",
+        "𩤼",
+        "𩥾"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A57",
+            "12112544443412512513434"
+        ],
+        "char_code_wubi": "cwgw|coww",
+        "char_code_cangjie": "sfomo",
+        "char_code_zhengma": "cuoo",
+        "char_code_sijiao": "78386"
+    },
+    "general_unicode": "基本区 U+9A57",
+    "general_bs_code": "12112544443412512513434"
+}

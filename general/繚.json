@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wind round, rap around, bind"
+        },
+        {
+            "language": "法语",
+            "explanation": "entourer"
+        }
+    ],
+    "general_pinyins": [
+        "liáo"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "糹",
+        "non_radical_sn": "12",
+        "total_sn": "18"
+    },
+    "general_stc": [
+        "缭"
+    ],
+    "general_ytz": [
+        "繆",
+        "缭",
+        "𦄗",
+        "𦆖"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7E5A",
+            "554444134432511234"
+        ],
+        "char_code_wubi": "xdui",
+        "char_code_cangjie": "vfkcf",
+        "char_code_zhengma": "zgkk",
+        "char_code_sijiao": "24996"
+    },
+    "general_unicode": "基本区 U+7E5A",
+    "general_bs_code": "554444134432511234"
+}

@@ -1,0 +1,32 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(Cant.) a suffix indicating time"
+        }
+    ],
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "唄",
+        "𡁭"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "20F15",
+            "25112131112111"
+        ],
+        "char_code_wubi": "krdd",
+        "char_code_cangjie": "rqly",
+        "char_code_zhengma": "jdkc"
+    },
+    "general_unicode": "扩展B U+20F15",
+    "general_bs_code": "25112131112111"
+}

@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "follow in, imitate; rut, path"
+        },
+        {
+            "language": "法语",
+            "explanation": "traces et empreintes d'animaux,mouvement des corps célestes"
+        }
+    ],
+    "general_pinyins": [
+        "chán"
+    ],
+    "general_zhuyins": [
+        "ㄔㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "15",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "蹍",
+        "𨂷",
+        "𨇠",
+        "𧾍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E94",
+            "2512121413251121134121"
+        ],
+        "char_code_wubi": "khyf|khof",
+        "char_code_cangjie": "rmiwg",
+        "char_code_zhengma": "jiob",
+        "char_code_sijiao": "60114"
+    },
+    "general_unicode": "基本区 U+8E94",
+    "general_bs_code": "2512121413251121134121"
+}

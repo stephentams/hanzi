@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "paralysis of the body"
+        }
+    ],
+    "general_pinyins": [
+        "qún"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "13",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤸷",
+        "𤺽"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3FCF",
+            "413415113251431112"
+        ],
+        "char_code_wubi": "uvtd|uvtu",
+        "char_code_cangjie": "ksrq",
+        "char_code_zhengma": "txju",
+        "char_code_sijiao": "00151"
+    },
+    "general_unicode": "扩展A U+3FCF",
+    "general_bs_code": "413415113251431112"
+}

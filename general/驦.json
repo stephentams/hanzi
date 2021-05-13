@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "horse"
+        },
+        {
+            "language": "法语",
+            "explanation": "bon cheval"
+        }
+    ],
+    "general_pinyins": [
+        "shuāng"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨㄤ"
+    ],
+    "general_radical": {
+        "radical": "馬",
+        "non_radical_sn": "17",
+        "total_sn": "27"
+    },
+    "general_stc": [
+        "骦"
+    ],
+    "general_ytz": [
+        "騻",
+        "骦"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A66",
+            "121125444414524444123425111"
+        ],
+        "char_code_wubi": "cfsh|cofh",
+        "char_code_cangjie": "sfmbu",
+        "char_code_zhengma": "cufl",
+        "char_code_sijiao": "71361"
+    },
+    "general_unicode": "基本区 U+9A66",
+    "general_bs_code": "121125444414524444123425111"
+}

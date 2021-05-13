@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "prophecy, hint, omen"
+        },
+        {
+            "language": "法语",
+            "explanation": "prophétie,augure"
+        }
+    ],
+    "general_pinyins": [
+        "chèn"
+    ],
+    "general_zhuyins": [
+        "ㄔㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "言",
+        "non_radical_sn": "17",
+        "total_sn": "24"
+    },
+    "general_stc": [
+        "谶"
+    ],
+    "general_ytz": [
+        "懺",
+        "䜟",
+        "谶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8B96",
+            "411125134341211121111534"
+        ],
+        "char_code_wubi": "ywwg",
+        "char_code_cangjie": "yroim",
+        "char_code_zhengma": "soka",
+        "char_code_sijiao": "03650"
+    },
+    "general_unicode": "基本区 U+8B96",
+    "general_bs_code": "411125134341211121111534"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "type of creeping plant; turnip"
+        },
+        {
+            "language": "德语",
+            "explanation": "Radieschen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "radis,navet"
+        }
+    ],
+    "general_pinyins": [
+        "luó"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "19",
+        "total_sn": "22"
+    },
+    "general_stc": [
+        "萝"
+    ],
+    "general_ytz": [
+        "萝",
+        "蘿"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "863F",
+            "1222522155444432411121"
+        ],
+        "char_code_wubi": "alxy",
+        "char_code_cangjie": "twlg",
+        "char_code_zhengma": "elzn",
+        "char_code_sijiao": "44915"
+    },
+    "general_unicode": "基本区 U+863F",
+    "general_bs_code": "1222522155444432411121"
+}

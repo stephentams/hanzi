@@ -1,0 +1,33 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "the shafts of a vehicle"
+        }
+    ],
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "車",
+        "non_radical_sn": "19",
+        "total_sn": "26"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨏘",
+        "𩎑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "487D",
+            "12511123121353121352511134"
+        ],
+        "char_code_wubi": "ltfm",
+        "char_code_cangjie": "jjhuc",
+        "char_code_zhengma": "fkrl",
+        "char_code_sijiao": "54086"
+    },
+    "general_unicode": "扩展A U+487D",
+    "general_bs_code": "12511123121353121352511134"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "clean, pure; cleanse"
+        }
+    ],
+    "general_pinyins": [
+        "jìng",
+        "chēng"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄥˋ",
+        "ㄔㄥ"
+    ],
+    "general_radical": {
+        "radical": "冫",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "凈"
+    ],
+    "general_ytz": [
+        "淨",
+        "浄",
+        "凈",
+        "瀞",
+        "𤂅"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "51C0",
+            "41355112"
+        ],
+        "char_code_wubi": "uqvh",
+        "char_code_cangjie": "imnsd",
+        "char_code_zhengma": "tdrx",
+        "char_code_sijiao": "37157"
+    },
+    "general_unicode": "基本区 U+51C0",
+    "general_bs_code": "41355112"
+}

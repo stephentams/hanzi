@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bridge"
+        },
+        {
+            "language": "德语",
+            "explanation": "Mittelteil, Einschraubbrücke  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "zhuó",
+        "bó"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨㄛˊ",
+        "ㄅㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "彳",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F74",
+            "332354"
+        ],
+        "char_code_wubi": "tqyy",
+        "char_code_cangjie": "hopi",
+        "char_code_zhengma": "oirs",
+        "char_code_sijiao": "27220"
+    },
+    "general_unicode": "基本区 U+5F74",
+    "general_bs_code": "332354"
+}

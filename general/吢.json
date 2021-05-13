@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "vomiting of a dog"
+        }
+    ],
+    "general_pinyins": [
+        "qìn"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "吣",
+        "𢙈"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5422",
+            "4544251"
+        ],
+        "char_code_wubi": "nkf",
+        "char_code_cangjie": "pr",
+        "char_code_zhengma": "wzj",
+        "char_code_sijiao": "33600"
+    },
+    "general_unicode": "基本区 U+5422",
+    "general_bs_code": "4544251"
+}

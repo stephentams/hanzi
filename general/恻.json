@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "feel anguish, feel compassion"
+        },
+        {
+            "language": "德语",
+            "explanation": "kummervoll  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "compatir,pitié"
+        }
+    ],
+    "general_pinyins": [
+        "cè"
+    ],
+    "general_zhuyins": [
+        "ㄘㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "惻"
+    ],
+    "general_ytz": [
+        "惻",
+        "𢝔",
+        "𢢥"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "607B",
+            "442253422"
+        ],
+        "char_code_wubi": "nmjh",
+        "char_code_cangjie": "pbon",
+        "char_code_zhengma": "ulkd",
+        "char_code_sijiao": "92000"
+    },
+    "general_unicode": "基本区 U+607B",
+    "general_bs_code": "442253422"
+}

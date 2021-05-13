@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sphere, ball, circle; mass, lump"
+        },
+        {
+            "language": "德语",
+            "explanation": "Brigade  (S)​,Gruppierung; Vereinigung  (S)​,Klumpen  (S)​,Regiment  (S, Mil)"
+        }
+    ],
+    "general_pinyins": [
+        "tuán"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "囗",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "团"
+    ],
+    "general_ytz": [
+        "圃",
+        "团",
+        "団",
+        "摶",
+        "𩜵",
+        "輲"
+    ],
+    "general_structure": "全包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5718",
+            "25125112141241"
+        ],
+        "char_code_wubi": "lgjf",
+        "char_code_cangjie": "wjii",
+        "char_code_zhengma": "jdfd",
+        "char_code_sijiao": "60343"
+    },
+    "general_unicode": "基本区 U+5718",
+    "general_bs_code": "25125112141241"
+}

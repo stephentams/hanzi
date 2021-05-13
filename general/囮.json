@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "inveigle, decoy; cheat"
+        },
+        {
+            "language": "法语",
+            "explanation": "leurre"
+        }
+    ],
+    "general_pinyins": [
+        "é"
+    ],
+    "general_zhuyins": [
+        "ㄜˊ"
+    ],
+    "general_radical": {
+        "radical": "囗",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㘥",
+        "𡈙",
+        "𡈫",
+        "𡈱",
+        "𡈸"
+    ],
+    "general_structure": "全包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "56EE",
+            "2532351"
+        ],
+        "char_code_wubi": "lwxv",
+        "char_code_cangjie": "wop",
+        "char_code_zhengma": "jdnr",
+        "char_code_sijiao": "60214"
+    },
+    "general_unicode": "基本区 U+56EE",
+    "general_bs_code": "2532351"
+}

@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "high, imposing, eminent"
+        }
+    ],
+    "general_pinyins": [
+        "sào"
+    ],
+    "general_zhuyins": [
+        "ㄙㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "高",
+        "non_radical_sn": "13",
+        "total_sn": "23"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𩫦"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9ADE",
+            "41251252512512512511234"
+        ],
+        "char_code_wubi": "ymks",
+        "char_code_cangjie": "ybrrd",
+        "char_code_zhengma": "sjjf",
+        "char_code_sijiao": "06294"
+    },
+    "general_unicode": "基本区 U+9ADE",
+    "general_bs_code": "41251252512512512511234"
+}

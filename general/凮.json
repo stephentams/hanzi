@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wind"
+        }
+    ],
+    "general_pinyins": [
+        "fēng"
+    ],
+    "general_zhuyins": [
+        "ㄈㄥ"
+    ],
+    "general_radical": {
+        "radical": "几",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "風"
+    ],
+    "general_structure": "上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "51EE",
+            "35132511"
+        ],
+        "char_code_wubi": "mdjd|wdjd",
+        "char_code_cangjie": "hnma",
+        "char_code_zhengma": "qdan",
+        "char_code_sijiao": "77210"
+    },
+    "general_unicode": "基本区 U+51EE",
+    "general_bs_code": "35132511"
+}

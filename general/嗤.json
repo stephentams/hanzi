@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "laugh at, ridicule, sneer; snort"
+        },
+        {
+            "language": "法语",
+            "explanation": "rire"
+        }
+    ],
+    "general_pinyins": [
+        "chī"
+    ],
+    "general_zhuyins": [
+        "ㄔ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㰞",
+        "𠱟",
+        "𠷣",
+        "𣢑",
+        "𣣷",
+        "𧏬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "55E4",
+            "2515221251214"
+        ],
+        "char_code_wubi": "kbhj",
+        "char_code_cangjie": "rumi",
+        "char_code_zhengma": "jzai",
+        "char_code_sijiao": "62036"
+    },
+    "general_unicode": "基本区 U+55E4",
+    "general_bs_code": "2515221251214"
+}

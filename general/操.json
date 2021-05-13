@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "conduct, run, control, manage"
+        },
+        {
+            "language": "德语",
+            "explanation": "Drill, Übung  (S)​,Verhalten, Tragen  (S)​,(eine Sprache oder einen Dialekt)​ sprechen  (V)​,drillen, üben, exerzieren, trainieren  (V)​,etwas in der Hand haben, halten, etwas in die Hand nehmen, fassen, packen  (V)​,sich mit etwas befassen, tun, betreiben  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tenir à la main,s'exercer à,s'entraîner à,faire,parler (une langue)​,baiser (vulgaire)​"
+        }
+    ],
+    "general_pinyins": [
+        "cāo"
+    ],
+    "general_zhuyins": [
+        "ㄘㄠ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "撡",
+        "𢮥",
+        "𢿾",
+        "𢻥",
+        "𣀉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "64CD",
+            "1212512512511234"
+        ],
+        "char_code_wubi": "rkks",
+        "char_code_cangjie": "qrrd",
+        "char_code_zhengma": "djjf",
+        "char_code_sijiao": "56094"
+    },
+    "general_unicode": "基本区 U+64CD",
+    "general_bs_code": "1212512512511234"
+}

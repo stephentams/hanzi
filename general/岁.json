@@ -1,0 +1,55 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "year; age; harvest"
+        },
+        {
+            "language": "德语",
+            "explanation": "Zählwort, Jahre (im Zusammenhang mit Alter)​,Lebensalter, … Jahre alt sein\"_x000d_"
+        },
+        {
+            "language": "法语",
+            "explanation": "an,ans,année,âge"
+        }
+    ],
+    "general_pinyins": [
+        "suì"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "歲"
+    ],
+    "general_ytz": [
+        "歲",
+        "亗",
+        "嵗",
+        "歳",
+        "㞸",
+        "𡶣",
+        "𡹖",
+        "𡻕",
+        "𡻷",
+        "𢧁"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5C81",
+            "252354"
+        ],
+        "char_code_wubi": "mqu",
+        "char_code_cangjie": "uni",
+        "char_code_zhengma": "llrs",
+        "char_code_sijiao": "22207"
+    },
+    "general_unicode": "基本区 U+5C81",
+    "general_bs_code": "252354"
+}

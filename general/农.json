@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "agriculture, farming; farmer"
+        },
+        {
+            "language": "德语",
+            "explanation": "Landwirtschaft, Bauer  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "nóng"
+    ],
+    "general_zhuyins": [
+        "ㄋㄨㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "冖",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "農"
+    ],
+    "general_ytz": [
+        "農",
+        "辳",
+        "䢉",
+        "𢖢",
+        "𣊤",
+        "𣎭",
+        "𦦤",
+        "𦦥",
+        "𨑋"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "519C",
+            "453534"
+        ],
+        "char_code_wubi": "pei",
+        "char_code_cangjie": "hbv",
+        "char_code_zhengma": "wwrh",
+        "char_code_sijiao": "40732"
+    },
+    "general_unicode": "基本区 U+519C",
+    "general_bs_code": "453534"
+}

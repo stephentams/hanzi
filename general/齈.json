@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cold in the head; catarrh of the nose; mucus from the nose"
+        }
+    ],
+    "general_pinyins": [
+        "nòng"
+    ],
+    "general_zhuyins": [
+        "ㄋㄨㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "鼻",
+        "non_radical_sn": "13",
+        "total_sn": "27"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9F48",
+            "325111251211322512211311534"
+        ],
+        "char_code_wubi": "thle",
+        "char_code_cangjie": "hltwv",
+        "char_code_zhengma": "nlkg",
+        "char_code_sijiao": "25232"
+    },
+    "general_unicode": "基本区 U+9F48",
+    "general_bs_code": "325111251211322512211311534"
+}

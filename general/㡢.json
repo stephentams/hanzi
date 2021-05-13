@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(a variant of 幔) a curtain, a screen"
+        }
+    ],
+    "general_pinyins": [
+        "màn"
+    ],
+    "general_zhuyins": [
+        "ㄇㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "巾",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "幔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3862",
+            "252251125221153"
+        ],
+        "char_code_wubi": "mhjn|mhjq",
+        "char_code_cangjie": "lbaws",
+        "char_code_zhengma": "liay",
+        "char_code_sijiao": "46227"
+    },
+    "general_unicode": "扩展A U+3862",
+    "general_bs_code": "252251125221153"
+}

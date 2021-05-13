@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "attack, assault; criticize"
+        },
+        {
+            "language": "德语",
+            "explanation": "jmds Beitrag (zu etw)​, Verdienste (um etw)​ ,Arbeit, Leistung  (S)​,Fertigkeit, Geschicklichkeit  (S)​,Leistung, Erfolg, Effekt, Errungenschaft  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "attaquer,accuser,reprocher,étudier de façon approfondie"
+        }
+    ],
+    "general_pinyins": [
+        "gōng"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄥ"
+    ],
+    "general_radical": {
+        "radical": "攵",
+        "non_radical_sn": "3",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "653B",
+            "1213134"
+        ],
+        "char_code_wubi": "aty",
+        "char_code_cangjie": "mok",
+        "char_code_zhengma": "bimo",
+        "char_code_sijiao": "18140"
+    },
+    "general_unicode": "基本区 U+653B",
+    "general_bs_code": "1213134"
+}

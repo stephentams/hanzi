@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "add, increase, attach; low fence"
+        },
+        {
+            "language": "法语",
+            "explanation": "muret,murette,parapet"
+        }
+    ],
+    "general_pinyins": [
+        "pí",
+        "pì"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧˊ",
+        "ㄆㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "壀",
+        "𡌨",
+        "𡌸",
+        "𡌹",
+        "𡐕",
+        "陴",
+        "𡐫",
+        "𣁄"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "57E4",
+            "12132511312"
+        ],
+        "char_code_wubi": "frtf",
+        "char_code_cangjie": "ghwj",
+        "char_code_zhengma": "bned",
+        "char_code_sijiao": "46140"
+    },
+    "general_unicode": "基本区 U+57E4",
+    "general_bs_code": "12132511312"
+}

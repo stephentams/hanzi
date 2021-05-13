@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "exhort or enjoin repeatedly"
+        },
+        {
+            "language": "德语",
+            "explanation": "stechen (Moskito)​  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "piquer,mordre"
+        }
+    ],
+    "general_pinyins": [
+        "dīng"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧㄥ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "2",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "53EE",
+            "25112"
+        ],
+        "char_code_wubi": "ksh",
+        "char_code_cangjie": "rmn",
+        "char_code_zhengma": "jai",
+        "char_code_sijiao": "61020"
+    },
+    "general_unicode": "基本区 U+53EE",
+    "general_bs_code": "25112"
+}

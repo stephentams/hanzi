@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "punish, reprimand; warn"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 disziplinieren  (V)​,strafen  (V)"
+        }
+    ],
+    "general_pinyins": [
+        "chéng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "懲"
+    ],
+    "general_ytz": [
+        "懲"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "60E9",
+            "332121214544"
+        ],
+        "char_code_wubi": "tghn",
+        "char_code_cangjie": "hmp",
+        "char_code_zhengma": "oiiw",
+        "char_code_sijiao": "21331"
+    },
+    "general_unicode": "基本区 U+60E9",
+    "general_bs_code": "332121214544"
+}

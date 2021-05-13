@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fat; plump, physical disease; carnal"
+        }
+    ],
+    "general_pinyins": [
+        "wéi",
+        "wèi"
+    ],
+    "general_zhuyins": [
+        "ㄨㄟˊ",
+        "ㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "15",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "444A",
+            "3511251212511134454"
+        ],
+        "char_code_wubi": "ekhp",
+        "char_code_cangjie": "bylc",
+        "char_code_zhengma": "qwal",
+        "char_code_sijiao": "75238"
+    },
+    "general_unicode": "扩展A U+444A",
+    "general_bs_code": "3511251212511134454"
+}

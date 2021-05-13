@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "write; draw, sketch; compose"
+        }
+    ],
+    "general_pinyins": [
+        "xiě"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄝˇ"
+    ],
+    "general_radical": {
+        "radical": "冖",
+        "non_radical_sn": "12",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "寫"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "51A9",
+            "45321511354444"
+        ],
+        "char_code_wubi": "pvqo|peqo",
+        "char_code_cangjie": "bhxf",
+        "char_code_zhengma": "wwru",
+        "char_code_sijiao": "37327"
+    },
+    "general_unicode": "基本区 U+51A9",
+    "general_bs_code": "45321511354444"
+}

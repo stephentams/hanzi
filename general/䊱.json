@@ -1,0 +1,30 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cakes made of rice-flour"
+        }
+    ],
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "米",
+        "non_radical_sn": "17",
+        "total_sn": "23"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "42B1",
+            "43123434341211121111534"
+        ],
+        "char_code_wubi": "owwg",
+        "char_code_cangjie": "fdoim",
+        "char_code_zhengma": "ufka",
+        "char_code_sijiao": "93950"
+    },
+    "general_unicode": "扩展A U+42B1",
+    "general_bs_code": "43123434341211121111534"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sharpen; carefully, thorough"
+        },
+        {
+            "language": "德语",
+            "explanation": "sorgfältig, sorgsam"
+        },
+        {
+            "language": "法语",
+            "explanation": "soigneusement,modérément"
+        }
+    ],
+    "general_pinyins": [
+        "kǎi"
+    ],
+    "general_zhuyins": [
+        "ㄎㄞˇ"
+    ],
+    "general_radical": {
+        "radical": "刂",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "剴"
+    ],
+    "general_ytz": [
+        "剴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5240",
+            "25251522"
+        ],
+        "char_code_wubi": "mnjh",
+        "char_code_cangjie": "uuln",
+        "char_code_zhengma": "llyk",
+        "char_code_sijiao": "22700"
+    },
+    "general_unicode": "基本区 U+5240",
+    "general_bs_code": "25251522"
+}

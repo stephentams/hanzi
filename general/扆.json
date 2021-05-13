@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "screen"
+        },
+        {
+            "language": "德语",
+            "explanation": "überprüfen, verdecken"
+        }
+    ],
+    "general_pinyins": [
+        "yǐ"
+    ],
+    "general_zhuyins": [
+        "ㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "户",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6246",
+            "4513413534"
+        ],
+        "char_code_wubi": "ynye",
+        "char_code_cangjie": "hsyhv",
+        "char_code_zhengma": "wmsr",
+        "char_code_sijiao": "30232"
+    },
+    "general_unicode": "基本区 U+6246",
+    "general_bs_code": "4513413534"
+}

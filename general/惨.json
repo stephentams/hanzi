@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sad, pitiful, wretched; cruel"
+        },
+        {
+            "language": "德语",
+            "explanation": "entsetzlich, traurig  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "misérable,tragique,lamentable,cruel,brutal,sérieusement,énormément,désastreusement"
+        }
+    ],
+    "general_pinyins": [
+        "cǎn"
+    ],
+    "general_zhuyins": [
+        "ㄘㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "慘"
+    ],
+    "general_ytz": [
+        "慘",
+        "𢡖"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "60E8",
+            "44254134333"
+        ],
+        "char_code_wubi": "ncde",
+        "char_code_cangjie": "pikh",
+        "char_code_zhengma": "uzgp",
+        "char_code_sijiao": "93022"
+    },
+    "general_unicode": "基本区 U+60E8",
+    "general_bs_code": "44254134333"
+}

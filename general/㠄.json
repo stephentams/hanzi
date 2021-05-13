@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "name of a mountain in Yunnan Province"
+        }
+    ],
+    "general_pinyins": [
+        "xí"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3804",
+            "25254154132511"
+        ],
+        "char_code_wubi": "mnrf",
+        "char_code_cangjie": "usma",
+        "char_code_zhengma": "llyn",
+        "char_code_sijiao": "22602"
+    },
+    "general_unicode": "扩展A U+3804",
+    "general_bs_code": "25254154132511"
+}

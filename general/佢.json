@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(Cant.) he, she, it"
+        }
+    ],
+    "general_pinyins": [
+        "qú"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩˊ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "渠",
+        "𠍲"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4F62",
+            "321515"
+        ],
+        "char_code_wubi": "wang",
+        "char_code_cangjie": "oss",
+        "char_code_zhengma": "nhx",
+        "char_code_sijiao": "21217"
+    },
+    "general_unicode": "基本区 U+4F62",
+    "general_bs_code": "321515"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "treat, entertain, receive; wait"
+        },
+        {
+            "language": "德语",
+            "explanation": "sich aufhalten, bleiben, verweilen"
+        },
+        {
+            "language": "法语",
+            "explanation": "rester,demeurer,traiter qqn,recevoir,accueillir,attendre"
+        }
+    ],
+    "general_pinyins": [
+        "dài",
+        "dāi"
+    ],
+    "general_zhuyins": [
+        "ㄉㄞˋ",
+        "ㄉㄞ"
+    ],
+    "general_radical": {
+        "radical": "彳",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥩳"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F85",
+            "332121124"
+        ],
+        "char_code_wubi": "tffy",
+        "char_code_cangjie": "hogdi",
+        "char_code_zhengma": "oibd",
+        "char_code_sijiao": "24241"
+    },
+    "general_unicode": "基本区 U+5F85",
+    "general_bs_code": "332121124"
+}

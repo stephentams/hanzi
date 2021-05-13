@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to put away; to cease; store up"
+        },
+        {
+            "language": "德语",
+            "explanation": "weggelegt, reinmachen ,Ji  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "recueillir"
+        }
+    ],
+    "general_pinyins": [
+        "jí"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "戈",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢨐",
+        "𧥄",
+        "𢧠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6222",
+            "251122111534"
+        ],
+        "char_code_wubi": "kbnt|kbny",
+        "char_code_cangjie": "xrji",
+        "char_code_zhengma": "jchm",
+        "char_code_sijiao": "63450"
+    },
+    "general_unicode": "基本区 U+6222",
+    "general_bs_code": "251122111534"
+}

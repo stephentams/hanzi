@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "i, my, our; resist, impede"
+        },
+        {
+            "language": "德语",
+            "explanation": "ich ,mein ,Wu  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(arch.)​ je,mon"
+        }
+    ],
+    "general_pinyins": [
+        "wú",
+        "yù"
+    ],
+    "general_zhuyins": [
+        "ㄨˊ",
+        "ㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠮣",
+        "𢓲",
+        "𨖍"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "543E",
+            "1251251"
+        ],
+        "char_code_wubi": "gkf",
+        "char_code_cangjie": "mmr",
+        "char_code_zhengma": "bixj",
+        "char_code_sijiao": "10601"
+    },
+    "general_unicode": "基本区 U+543E",
+    "general_bs_code": "1251251"
+}

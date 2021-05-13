@@ -1,0 +1,30 @@
+{
+    "general_pinyins": [
+        "yī"
+    ],
+    "general_zhuyins": [
+        "ㄧ"
+    ],
+    "general_radical": {
+        "radical": "丶",
+        "non_radical_sn": "2",
+        "total_sn": "3"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "伊",
+        "小"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2007C",
+            "444"
+        ],
+        "char_code_wubi": "iyyy",
+        "char_code_cangjie": "iii",
+        "char_code_zhengma": "sss"
+    },
+    "general_unicode": "扩展B U+2007C",
+    "general_bs_code": "444"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "prick, stab; stamp, seal, chop"
+        },
+        {
+            "language": "德语",
+            "explanation": "stechen; hineinstechen; stecken; hineinstecken  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cachet,sceau,piquer,enfoncer"
+        }
+    ],
+    "general_pinyins": [
+        "chuō"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨㄛ"
+    ],
+    "general_radical": {
+        "radical": "戈",
+        "non_radical_sn": "14",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "擢"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6233",
+            "541541324111211534"
+        ],
+        "char_code_wubi": "nwya",
+        "char_code_cangjie": "sgi",
+        "char_code_zhengma": "ytnh",
+        "char_code_sijiao": "13250"
+    },
+    "general_unicode": "基本区 U+6233",
+    "general_bs_code": "541541324111211534"
+}

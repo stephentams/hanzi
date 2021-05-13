@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "destroy, exterminate, annihilate"
+        },
+        {
+            "language": "德语",
+            "explanation": "notschlachten, vernichten ,notschlachten, vernichten"
+        },
+        {
+            "language": "法语",
+            "explanation": "exterminer,anéantir,exterminer,anéantir,exterminer,annihiler,exterminer,annihiler"
+        }
+    ],
+    "general_pinyins": [
+        "jiǎo",
+        "chāo"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄠˇ",
+        "ㄔㄠ"
+    ],
+    "general_radical": {
+        "radical": "力",
+        "non_radical_sn": "11",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䜈",
+        "𠢶",
+        "𣩓",
+        "巢"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "52E6",
+            "5552511123453"
+        ],
+        "char_code_wubi": "vjsl|vjse",
+        "char_code_cangjie": "vdks",
+        "char_code_zhengma": "zdfy",
+        "char_code_sijiao": "24927"
+    },
+    "general_unicode": "基本区 U+52E6",
+    "general_bs_code": "5552511123453"
+}

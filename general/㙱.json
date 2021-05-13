@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "earthenware used to bake cakes in Northern China"
+        }
+    ],
+    "general_pinyins": [
+        "hào"
+    ],
+    "general_zhuyins": [
+        "ㄏㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡎪",
+        "𧇼"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3671",
+            "2511521531535121"
+        ],
+        "char_code_wubi": "kgnf",
+        "char_code_cangjie": "rng",
+        "char_code_zhengma": "jaib",
+        "char_code_sijiao": "61104"
+    },
+    "general_unicode": "扩展A U+3671",
+    "general_bs_code": "2511521531535121"
+}

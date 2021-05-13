@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "precedent, example; regulation"
+        },
+        {
+            "language": "德语",
+            "explanation": "Beispiel  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "exemple,cas,règle"
+        }
+    ],
+    "general_pinyins": [
+        "lì"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "列",
+        "𠊖",
+        "𣖊",
+        "迾",
+        "例"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4F8B",
+            "32135422"
+        ],
+        "char_code_wubi": "wgqj",
+        "char_code_cangjie": "omnn",
+        "char_code_zhengma": "nark",
+        "char_code_sijiao": "22200"
+    },
+    "general_unicode": "基本区 U+4F8B",
+    "general_bs_code": "32135422"
+}

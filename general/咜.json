@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to scold"
+        }
+    ],
+    "general_pinyins": [
+        "tuō"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄛ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "549C",
+            "25144535"
+        ],
+        "char_code_wubi": "kpxn",
+        "char_code_cangjie": "rjp",
+        "char_code_zhengma": "jwrr",
+        "char_code_sijiao": "63012"
+    },
+    "general_unicode": "基本区 U+549C",
+    "general_bs_code": "25144535"
+}

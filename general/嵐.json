@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mountain mist, mountain haze"
+        },
+        {
+            "language": "德语",
+            "explanation": "Dunst im Gebirge  (S, Met)​,feiner Nebel  (S, Met)​,Höhenrauch  (S, Met)​,Arashi ( japanische Boygroup )​  (Eig, Mus)​,Sturm ( in den Bergen )​  (S, Met)​,Unwetter ( in den Bergen )​  (S, Met)"
+        },
+        {
+            "language": "法语",
+            "explanation": "brouillard,vapeur"
+        }
+    ],
+    "general_pinyins": [
+        "lán"
+    ],
+    "general_zhuyins": [
+        "ㄌㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "岚"
+    ],
+    "general_ytz": [
+        "㞩",
+        "岚",
+        "葻",
+        "嵐"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5D50",
+            "252353251214"
+        ],
+        "char_code_wubi": "mmtj|mwtj",
+        "char_code_cangjie": "uhni",
+        "char_code_zhengma": "llqi",
+        "char_code_sijiao": "22217"
+    },
+    "general_unicode": "基本区 U+5D50",
+    "general_bs_code": "252353251214"
+}

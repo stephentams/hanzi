@@ -1,0 +1,29 @@
+{
+    "general_pinyins": [
+        "yù"
+    ],
+    "general_zhuyins": [
+        "ㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "乙",
+        "non_radical_sn": "10",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "豫"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2011B",
+            "545232533252"
+        ],
+        "char_code_wubi": "cbth",
+        "char_code_cangjie": "nnhbb",
+        "char_code_zhengma": "xsol"
+    },
+    "general_unicode": "扩展B U+2011B",
+    "general_bs_code": "545232533252"
+}

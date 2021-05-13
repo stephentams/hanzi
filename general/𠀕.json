@@ -1,0 +1,35 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "Variant of U+4E99 亙"
+        }
+    ],
+    "general_pinyins": [
+        "gèn"
+    ],
+    "general_zhuyins": [
+        "ㄍㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "一",
+        "non_radical_sn": "4",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "互"
+    ],
+    "general_structure": "全包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "20015",
+            "15541"
+        ],
+        "char_code_wubi": "gxgy",
+        "char_code_cangjie": "mvnm",
+        "char_code_zhengma": "bdzs"
+    },
+    "general_unicode": "扩展B U+20015",
+    "general_bs_code": "15541"
+}

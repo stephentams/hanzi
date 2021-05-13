@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "burn; light fire, ignite"
+        },
+        {
+            "language": "德语",
+            "explanation": "brennen, verheizen ,Verbrennung  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "brûler,allumer"
+        }
+    ],
+    "general_pinyins": [
+        "rán"
+    ],
+    "general_zhuyins": [
+        "ㄖㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "12",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "然",
+        "𧆋",
+        "㸐",
+        "䖄",
+        "𤓉",
+        "𤓌"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "71C3",
+            "4334354413444444"
+        ],
+        "char_code_wubi": "oqdo",
+        "char_code_cangjie": "fbkf",
+        "char_code_zhengma": "uosu",
+        "char_code_sijiao": "93838"
+    },
+    "general_unicode": "基本区 U+71C3",
+    "general_bs_code": "4334354413444444"
+}

@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "chemical compound"
+        }
+    ],
+    "general_pinyins": [
+        "kuí"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "55B9",
+            "251134121121"
+        ],
+        "char_code_wubi": "kdff",
+        "char_code_cangjie": "rkgg",
+        "char_code_zhengma": "jgbb",
+        "char_code_sijiao": "64014"
+    },
+    "general_unicode": "基本区 U+55B9",
+    "general_bs_code": "251134121121"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "what?"
+        },
+        {
+            "language": "德语",
+            "explanation": "Was ?  (Int)"
+        },
+        {
+            "language": "法语",
+            "explanation": "quoi,que"
+        }
+    ],
+    "general_pinyins": [
+        "shá"
+    ],
+    "general_zhuyins": [
+        "ㄕㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "倽",
+        "𠍽",
+        "𠺽"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5565",
+            "25134112251"
+        ],
+        "char_code_wubi": "kwfk",
+        "char_code_cangjie": "romr",
+        "char_code_zhengma": "jomi",
+        "char_code_sijiao": "68064"
+    },
+    "general_unicode": "基本区 U+5565",
+    "general_bs_code": "25134112251"
+}

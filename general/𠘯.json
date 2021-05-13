@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "几",
+        "non_radical_sn": "2",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "蹂"
+    ],
+    "general_structure": "嵌套结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2062F",
+            "3554"
+        ],
+        "char_code_wubi": "mci",
+        "char_code_cangjie": "ihn",
+        "char_code_zhengma": "qdzs"
+    },
+    "general_unicode": "扩展B U+2062F",
+    "general_bs_code": "3554"
+}

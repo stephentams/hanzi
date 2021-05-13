@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "roost"
+        },
+        {
+            "language": "法语",
+            "explanation": "perchoir à poule,juc"
+        }
+    ],
+    "general_pinyins": [
+        "shí"
+    ],
+    "general_zhuyins": [
+        "ㄕˊ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "塒"
+    ],
+    "general_ytz": [
+        "塒"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "57D8",
+            "1212511124"
+        ],
+        "char_code_wubi": "fjfy",
+        "char_code_cangjie": "gadi",
+        "char_code_zhengma": "bkds",
+        "char_code_sijiao": "44100"
+    },
+    "general_unicode": "基本区 U+57D8",
+    "general_bs_code": "1212511124"
+}

@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "endure, bear, suffer; forbear"
+        },
+        {
+            "language": "德语",
+            "explanation": "aushalten, ertragen ,dulden, tolerieren ,schlagen, besiegen"
+        },
+        {
+            "language": "法语",
+            "explanation": "subir,supporter,endurer"
+        }
+    ],
+    "general_pinyins": [
+        "rěn"
+    ],
+    "general_zhuyins": [
+        "ㄖㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "3",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㣼",
+        "韌"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5FCD",
+            "5344544"
+        ],
+        "char_code_wubi": "vynu",
+        "char_code_cangjie": "sip",
+        "char_code_zhengma": "ydsw",
+        "char_code_sijiao": "17332"
+    },
+    "general_unicode": "基本区 U+5FCD",
+    "general_bs_code": "5344544"
+}

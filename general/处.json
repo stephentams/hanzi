@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "place, locale; department"
+        },
+        {
+            "language": "德语",
+            "explanation": "Abteilung  (S)​,Platz  (V)​,Ort"
+        },
+        {
+            "language": "法语",
+            "explanation": "s'entendre (bien ou mal)​,se trouver,punir,habiter,lieu,endroit,département,service"
+        }
+    ],
+    "general_pinyins": [
+        "chǔ",
+        "chù"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨˇ",
+        "ㄔㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "夂",
+        "non_radical_sn": "2",
+        "total_sn": "5"
+    },
+    "general_stc": [
+        "處"
+    ],
+    "general_ytz": [
+        "処",
+        "處",
+        "䖏",
+        "𠁅",
+        "𩂫"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5904",
+            "35424"
+        ],
+        "char_code_wubi": "thi",
+        "char_code_cangjie": "heo",
+        "char_code_zhengma": "rsid",
+        "char_code_sijiao": "23400"
+    },
+    "general_unicode": "基本区 U+5904",
+    "general_bs_code": "35424"
+}

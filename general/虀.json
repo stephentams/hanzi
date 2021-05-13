@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "minced pickles; leeks; mix; salt"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bruchstück, Fragment  (S)​,Gewürze  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "fragment,légumes salés,épices"
+        }
+    ],
+    "general_pinyins": [
+        "jī"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "19",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦺅"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8640",
+            "1224143253354211121111"
+        ],
+        "char_code_wubi": "ayvg|ayhg",
+        "char_code_cangjie": "tysm",
+        "char_code_zhengma": "eska",
+        "char_code_sijiao": "44101"
+    },
+    "general_unicode": "基本区 U+8640",
+    "general_bs_code": "1224143253354211121111"
+}

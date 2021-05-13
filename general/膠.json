@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "glue, gum, resin, rubber"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gummi  (S)​,Kleber, Leim  (S)​,leimen  (V)​,leimig, klebrig, zähflüssig  (Adj)​,Jiao  (Eig, Pers)"
+        },
+        {
+            "language": "法语",
+            "explanation": "coller,caoutchouc,colle,collant"
+        }
+    ],
+    "general_pinyins": [
+        "jiāo"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "11",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "胶"
+    ],
+    "general_ytz": [
+        "胶",
+        "㬵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "81A0",
+            "351154154134333"
+        ],
+        "char_code_wubi": "enwe",
+        "char_code_cangjie": "bsmh",
+        "char_code_zhengma": "qyop",
+        "char_code_sijiao": "77222"
+    },
+    "general_unicode": "基本区 U+81A0",
+    "general_bs_code": "351154154134333"
+}

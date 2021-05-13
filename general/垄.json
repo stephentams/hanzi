@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "grave, mound; ridge in field"
+        },
+        {
+            "language": "德语",
+            "explanation": "monopolisieren, an sich reißen"
+        },
+        {
+            "language": "法语",
+            "explanation": "tertre,tombeau"
+        }
+    ],
+    "general_pinyins": [
+        "lǒng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "壟"
+    ],
+    "general_ytz": [
+        "壟",
+        "垅",
+        "篭"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5784",
+            "13534121"
+        ],
+        "char_code_wubi": "dxff|dxyf",
+        "char_code_cangjie": "ipg",
+        "char_code_zhengma": "gmb",
+        "char_code_sijiao": "43104"
+    },
+    "general_unicode": "基本区 U+5784",
+    "general_bs_code": "13534121"
+}

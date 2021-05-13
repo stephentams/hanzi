@@ -1,0 +1,26 @@
+{
+    "general_pinyins": [
+        "qiáo"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "嘺"
+    ],
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2A840"
+        ],
+        "char_code_wubi": "ktdj",
+        "char_code_zhengma": "jkxb"
+    },
+    "general_unicode": "扩展C U+2A840"
+}

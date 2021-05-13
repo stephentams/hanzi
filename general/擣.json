@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hull; thresh; beat, attack"
+        },
+        {
+            "language": "德语",
+            "explanation": "zerstoßen ,anregen, bewegen"
+        },
+        {
+            "language": "法语",
+            "explanation": "remuer,mixer"
+        }
+    ],
+    "general_pinyins": [
+        "dǎo"
+    ],
+    "general_zhuyins": [
+        "ㄉㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "14",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "搗",
+        "捯",
+        "𢭏",
+        "𢶈"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "64E3",
+            "12112151211251124"
+        ],
+        "char_code_wubi": "rfnf",
+        "char_code_cangjie": "qgni",
+        "char_code_zhengma": "dbjd",
+        "char_code_sijiao": "54041"
+    },
+    "general_unicode": "基本区 U+64E3",
+    "general_bs_code": "12112151211251124"
+}

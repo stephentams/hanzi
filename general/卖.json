@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sell; betray; show off"
+        },
+        {
+            "language": "德语",
+            "explanation": "verkaufen  (V)​,etw. zur Schau stellen  (V)​,mit etw. nicht geizen, etw. nicht schonen  (V)​,verraten  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "vendre"
+        }
+    ],
+    "general_pinyins": [
+        "mài"
+    ],
+    "general_zhuyins": [
+        "ㄇㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "十",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "賣"
+    ],
+    "general_ytz": [
+        "賣",
+        "売",
+        "𧶠",
+        "𧷓",
+        "𧷨",
+        "𧷵",
+        "𧷷"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5356",
+            "12544134"
+        ],
+        "char_code_wubi": "fnud",
+        "char_code_cangjie": "jnyk",
+        "char_code_zhengma": "edtg",
+        "char_code_sijiao": "40804"
+    },
+    "general_unicode": "基本区 U+5356",
+    "general_bs_code": "12544134"
+}

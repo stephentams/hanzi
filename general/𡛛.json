@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "惱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "216DB",
+            "53152252"
+        ],
+        "char_code_wubi": "vbmh",
+        "char_code_cangjie": "vuu",
+        "char_code_zhengma": "zmzz"
+    },
+    "general_unicode": "扩展B U+216DB",
+    "general_bs_code": "53152252"
+}

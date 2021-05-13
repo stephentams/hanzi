@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "bèi"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "15",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "20421",
+            "32311121111251112"
+        ],
+        "char_code_wubi": "wdjl",
+        "char_code_cangjie": "olyj",
+        "char_code_zhengma": "nkfk"
+    },
+    "general_unicode": "扩展B U+20421",
+    "general_bs_code": "32311121111251112"
+}

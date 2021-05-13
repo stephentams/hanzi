@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "form, shape, appearance"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gestalt  (S)​,Form"
+        },
+        {
+            "language": "法语",
+            "explanation": "paraître,comparer,forme,corps,silhouette"
+        }
+    ],
+    "general_pinyins": [
+        "xíng"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "彡",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "侀",
+        "𢒈"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F62",
+            "1132333"
+        ],
+        "char_code_wubi": "gaet",
+        "char_code_cangjie": "mthhh",
+        "char_code_zhengma": "aepd",
+        "char_code_sijiao": "12422"
+    },
+    "general_unicode": "基本区 U+5F62",
+    "general_bs_code": "1132333"
+}

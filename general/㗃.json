@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 吻) the lip, the tone of one's speech, to kiss; a kiss"
+        }
+    ],
+    "general_pinyins": [
+        "wěn",
+        "yìn"
+    ],
+    "general_zhuyins": [
+        "ㄨㄣˇ",
+        "ㄧㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "吻"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "35C3",
+            "251515152511"
+        ],
+        "char_code_wubi": "knaj",
+        "char_code_cangjie": "rrpa",
+        "char_code_zhengma": "jyhk",
+        "char_code_sijiao": "67064"
+    },
+    "general_unicode": "扩展A U+35C3",
+    "general_bs_code": "251515152511"
+}

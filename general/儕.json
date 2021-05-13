@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a company, companion; together"
+        },
+        {
+            "language": "法语",
+            "explanation": "égal,espèce,(pluriel)​"
+        }
+    ],
+    "general_pinyins": [
+        "chái"
+    ],
+    "general_zhuyins": [
+        "ㄔㄞˊ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "14",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "侪"
+    ],
+    "general_ytz": [
+        "㑪",
+        "侪",
+        "𠉸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5115",
+            "3241432533543112"
+        ],
+        "char_code_wubi": "wyvf|wyjg",
+        "char_code_cangjie": "oyx",
+        "char_code_zhengma": "nsrn",
+        "char_code_sijiao": "20223"
+    },
+    "general_unicode": "基本区 U+5115",
+    "general_bs_code": "3241432533543112"
+}

@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "huge sea turtle"
+        },
+        {
+            "language": "法语",
+            "explanation": "tortue de mer mythologique"
+        }
+    ],
+    "general_pinyins": [
+        "áo"
+    ],
+    "general_zhuyins": [
+        "ㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "黽",
+        "non_radical_sn": "10",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "鰲",
+        "𪓴",
+        "𪓶",
+        "𪓾"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9F07",
+            "11215331342511251211511"
+        ],
+        "char_code_wubi": "gqtv|gqtx",
+        "char_code_cangjie": "gkrxu",
+        "char_code_zhengma": "cimw",
+        "char_code_sijiao": "58717"
+    },
+    "general_unicode": "基本区 U+9F07",
+    "general_bs_code": "11215331342511251211511"
+}

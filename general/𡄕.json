@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "xiè"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "17",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "21115",
+            "25141112514334433454"
+        ],
+        "char_code_wubi": "koyc",
+        "char_code_cangjie": "rffe",
+        "char_code_zhengma": "juux"
+    },
+    "general_unicode": "扩展B U+21115",
+    "general_bs_code": "25141112514334433454"
+}

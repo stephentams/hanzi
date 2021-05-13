@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "gramme; syllable"
+        },
+        {
+            "language": "法语",
+            "explanation": "grain (unité de mesure 1 grain = 0,053 g)​"
+        }
+    ],
+    "general_pinyins": [
+        "lí"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "55B1",
+            "251132511211"
+        ],
+        "char_code_wubi": "kdjf",
+        "char_code_cangjie": "rmwg",
+        "char_code_zhengma": "jgkb",
+        "char_code_sijiao": "61015"
+    },
+    "general_unicode": "基本区 U+55B1",
+    "general_bs_code": "251132511211"
+}

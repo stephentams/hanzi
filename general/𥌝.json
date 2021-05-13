@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "15",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "瞟"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2531D",
+            "25111321155451114334"
+        ],
+        "char_code_wubi": "hwfo",
+        "char_code_cangjie": "buhmf",
+        "char_code_zhengma": "lnzu"
+    },
+    "general_unicode": "扩展B U+2531D",
+    "general_bs_code": "25111321155451114334"
+}

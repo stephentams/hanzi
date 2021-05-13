@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "comply; complying, agreeable"
+        },
+        {
+            "language": "德语",
+            "explanation": "aktiv, eingeschaltet"
+        },
+        {
+            "language": "法语",
+            "explanation": "complaisant,actif"
+        }
+    ],
+    "general_pinyins": [
+        "wěi"
+    ],
+    "general_zhuyins": [
+        "ㄨㄟˇ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5A13",
+            "5315133115"
+        ],
+        "char_code_wubi": "vntn|vnen",
+        "char_code_cangjie": "vshu",
+        "char_code_zhengma": "zmxm",
+        "char_code_sijiao": "47414"
+    },
+    "general_unicode": "基本区 U+5A13",
+    "general_bs_code": "5315133115"
+}

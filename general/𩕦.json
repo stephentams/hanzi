@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "頁",
+        "non_radical_sn": "13",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "顎"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "29566",
+            "1251112511134132511134"
+        ],
+        "char_code_wubi": "dhhm",
+        "char_code_cangjie": "kumbc",
+        "char_code_zhengma": "gdlg"
+    },
+    "general_unicode": "扩展B U+29566",
+    "general_bs_code": "1251112511134132511134"
+}

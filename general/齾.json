@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "法语",
+            "explanation": "denté,ébréché,édenté,sans dent"
+        }
+    ],
+    "general_pinyins": [
+        "yà"
+    ],
+    "general_zhuyins": [
+        "ㄧㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "齒",
+        "non_radical_sn": "20",
+        "total_sn": "35"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𪚊",
+        "𪚋",
+        "𪙿",
+        "𫜰"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9F7E",
+            "21531512512543121344212134341343452"
+        ],
+        "char_code_wubi": "hagb|hgkb",
+        "char_code_cangjie": "ykymu",
+        "char_code_zhengma": "ihsi",
+        "char_code_sijiao": "23772"
+    },
+    "general_unicode": "基本区 U+9F7E",
+    "general_bs_code": "21531512512543121344212134341343452"
+}

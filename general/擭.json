@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "trap catch animals, snare; seize"
+        },
+        {
+            "language": "德语",
+            "explanation": "fangen, abfangen"
+        },
+        {
+            "language": "法语",
+            "explanation": "piège"
+        }
+    ],
+    "general_pinyins": [
+        "huò"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣡀"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "64ED",
+            "1211223241112154"
+        ],
+        "char_code_wubi": "rawc",
+        "char_code_cangjie": "qtoe",
+        "char_code_zhengma": "denx",
+        "char_code_sijiao": "54047"
+    },
+    "general_unicode": "基本区 U+64ED",
+    "general_bs_code": "1211223241112154"
+}

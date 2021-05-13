@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "surround, encircle, corral"
+        },
+        {
+            "language": "德语",
+            "explanation": "einkreisen, umzingeln, umwickeln, umgeben, umzäunen (V)​,rundum, rundherum, herum, ringsrum, ringsherum (Präp)"
+        },
+        {
+            "language": "法语",
+            "explanation": "entourer,encercler,cerner"
+        }
+    ],
+    "general_pinyins": [
+        "wéi"
+    ],
+    "general_zhuyins": [
+        "ㄨㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "囗",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "围"
+    ],
+    "general_ytz": [
+        "囗",
+        "围"
+    ],
+    "general_structure": "全包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "570D",
+            "255212511521"
+        ],
+        "char_code_wubi": "lnhh|lnkg",
+        "char_code_cangjie": "wdmq",
+        "char_code_zhengma": "jdjm",
+        "char_code_sijiao": "60506"
+    },
+    "general_unicode": "基本区 U+570D",
+    "general_bs_code": "255212511521"
+}

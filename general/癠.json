@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sick"
+        },
+        {
+            "language": "法语",
+            "explanation": "maladie,malade"
+        }
+    ],
+    "general_pinyins": [
+        "jì"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "14",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤸾"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7660",
+            "4134141432533543112"
+        ],
+        "char_code_wubi": "uyvf|uyjd",
+        "char_code_cangjie": "kyx",
+        "char_code_zhengma": "tsrn",
+        "char_code_sijiao": "00123"
+    },
+    "general_unicode": "基本区 U+7660",
+    "general_bs_code": "4134141432533543112"
+}

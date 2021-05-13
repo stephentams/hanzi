@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "一",
+        "non_radical_sn": "5",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "箕"
+    ],
+    "general_structure": "全包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "20020",
+            "122341"
+        ],
+        "char_code_wubi": "aqi",
+        "char_code_cangjie": "tk",
+        "char_code_zhengma": "eaos"
+    },
+    "general_unicode": "扩展B U+20020",
+    "general_bs_code": "122341"
+}

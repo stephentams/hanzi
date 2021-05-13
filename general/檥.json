@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "variant of 艤 U+8264, to moor a boat to the bank"
+        }
+    ],
+    "general_pinyins": [
+        "yǐ"
+    ],
+    "general_zhuyins": [
+        "ㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "13",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "艤"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6AA5",
+            "12344311213121534"
+        ],
+        "char_code_wubi": "sugt|sugy",
+        "char_code_cangjie": "dtgi",
+        "char_code_zhengma": "fumh",
+        "char_code_sijiao": "48953"
+    },
+    "general_unicode": "基本区 U+6AA5",
+    "general_bs_code": "12344311213121534"
+}

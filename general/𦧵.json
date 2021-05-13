@@ -1,0 +1,27 @@
+{
+    "general_pinyins": [
+        "huà"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "舌",
+        "non_radical_sn": "12",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "話"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "269F5",
+            "112251112251112251"
+        ],
+        "char_code_wubi": "tdtd",
+        "char_code_cangjie": "hrhrr",
+        "char_code_zhengma": "mimm"
+    },
+    "general_unicode": "扩展B U+269F5",
+    "general_bs_code": "112251112251112251"
+}

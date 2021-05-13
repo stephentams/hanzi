@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "charming, enchanting"
+        },
+        {
+            "language": "德语",
+            "explanation": "gefallen, bitten ,schmeicheln"
+        },
+        {
+            "language": "法语",
+            "explanation": "flatter"
+        }
+    ],
+    "general_pinyins": [
+        "wǔ"
+    ],
+    "general_zhuyins": [
+        "ㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "嫵"
+    ],
+    "general_ytz": [
+        "嫵",
+        "娬",
+        "𡣆"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "59A9",
+            "5311135"
+        ],
+        "char_code_wubi": "vfqn",
+        "char_code_cangjie": "vmku",
+        "char_code_zhengma": "zmag",
+        "char_code_sijiao": "41412"
+    },
+    "general_unicode": "基本区 U+59A9",
+    "general_bs_code": "5311135"
+}

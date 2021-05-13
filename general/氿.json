@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "spring"
+        },
+        {
+            "language": "法语",
+            "explanation": "printemps montagneux"
+        }
+    ],
+    "general_pinyins": [
+        "guǐ",
+        "jiǔ"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄟˇ",
+        "ㄐㄧㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "2",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㲹",
+        "厬",
+        "𣲄",
+        "汣"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6C3F",
+            "44135"
+        ],
+        "char_code_wubi": "ivn",
+        "char_code_cangjie": "ekn",
+        "char_code_zhengma": "vqy",
+        "char_code_sijiao": "34117"
+    },
+    "general_unicode": "基本区 U+6C3F",
+    "general_bs_code": "44135"
+}

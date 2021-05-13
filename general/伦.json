@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "normal human relationships"
+        },
+        {
+            "language": "德语",
+            "explanation": "Logik, Ordnung (S)​,gleiche Art, ebenbürtig,zwischenmenschliche Beziehungen\"_x000d_"
+        },
+        {
+            "language": "法语",
+            "explanation": "relations sociales,ordre moral,espèce,classe"
+        }
+    ],
+    "general_pinyins": [
+        "lún"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "倫"
+    ],
+    "general_ytz": [
+        "倫"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4F26",
+            "323435"
+        ],
+        "char_code_wubi": "wwxn",
+        "char_code_cangjie": "oop",
+        "char_code_zhengma": "norr",
+        "char_code_sijiao": "28212"
+    },
+    "general_unicode": "基本区 U+4F26",
+    "general_bs_code": "323435"
+}

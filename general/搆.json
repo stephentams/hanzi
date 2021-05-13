@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pull, drag; reach; implicate"
+        },
+        {
+            "language": "德语",
+            "explanation": "beinhalten, anklagen"
+        },
+        {
+            "language": "法语",
+            "explanation": "tirer,faire glisser,impliquer,atteindre"
+        }
+    ],
+    "general_pinyins": [
+        "gòu"
+    ],
+    "general_zhuyins": [
+        "ㄍㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢰎",
+        "𢲱",
+        "構"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6406",
+            "1211122125211"
+        ],
+        "char_code_wubi": "rfjf|ramf",
+        "char_code_cangjie": "qttb",
+        "char_code_zhengma": "delb",
+        "char_code_sijiao": "55047"
+    },
+    "general_unicode": "基本区 U+6406",
+    "general_bs_code": "1211122125211"
+}

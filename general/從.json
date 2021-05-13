@@ -1,0 +1,61 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "from, by, since, whence, through"
+        },
+        {
+            "language": "德语",
+            "explanation": "aus"
+        },
+        {
+            "language": "法语",
+            "explanation": "(à partir)​ de,depuis,jamais,suivre,obéir à,s'engager dans,se joindre à,secondaire,accessoire,relâché,mou,sans hâte,cousin au 2e degré"
+        }
+    ],
+    "general_pinyins": [
+        "cóng",
+        "zòng"
+    ],
+    "general_zhuyins": [
+        "ㄘㄨㄥˊ",
+        "ㄗㄨㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "彳",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "从"
+    ],
+    "general_ytz": [
+        "䢨",
+        "从",
+        "従",
+        "苁",
+        "𠘬",
+        "𠚪",
+        "𠠴",
+        "𢓅",
+        "𨑢",
+        "𨑹",
+        "𨒀",
+        "蹤",
+        "鬃",
+        "徔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F9E",
+            "33234342134"
+        ],
+        "char_code_wubi": "twwh",
+        "char_code_cangjie": "hoooo",
+        "char_code_zhengma": "oioi",
+        "char_code_sijiao": "28281"
+    },
+    "general_unicode": "基本区 U+5F9E",
+    "general_bs_code": "33234342134"
+}

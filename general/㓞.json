@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to engrave, (interchangeable with U+5951 契) a written contract or agreement"
+        }
+    ],
+    "general_pinyins": [
+        "qì",
+        "qià",
+        "yáo"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧˋ",
+        "ㄑㄧㄚˋ",
+        "ㄧㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "刀",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㓤",
+        "𠛉",
+        "𢩬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "34DE",
+            "111253"
+        ],
+        "char_code_wubi": "dhvn|dhvt",
+        "char_code_cangjie": "qjsh",
+        "char_code_zhengma": "ciyd",
+        "char_code_sijiao": "57020"
+    },
+    "general_unicode": "扩展A U+34DE",
+    "general_bs_code": "111253"
+}

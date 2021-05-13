@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "the bleating of sheep; (Cant.) an interrogative particle"
+        },
+        {
+            "language": "德语",
+            "explanation": "Mäh! (Tierlaut von Schaf und Ziege)​ (Int)​,Mie (Eig, Fam)"
+        }
+    ],
+    "general_pinyins": [
+        "miē"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧㄝ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "咪",
+        "哶",
+        "芈",
+        "吀",
+        "𠰖",
+        "𠴟",
+        "𠸱",
+        "𦬒"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "54A9",
+            "251431112"
+        ],
+        "char_code_wubi": "kudh|kuh",
+        "char_code_cangjie": "rtq",
+        "char_code_zhengma": "juc",
+        "char_code_sijiao": "68051"
+    },
+    "general_unicode": "基本区 U+54A9",
+    "general_bs_code": "251431112"
+}

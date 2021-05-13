@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fear; terrified, fearful; fear"
+        },
+        {
+            "language": "德语",
+            "explanation": "erschreckte, erschrocken"
+        },
+        {
+            "language": "法语",
+            "explanation": "terrifié"
+        }
+    ],
+    "general_pinyins": [
+        "shè"
+    ],
+    "general_zhuyins": [
+        "ㄕㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6174",
+            "44254154132511"
+        ],
+        "char_code_wubi": "nnrg",
+        "char_code_cangjie": "psma",
+        "char_code_zhengma": "uyyn",
+        "char_code_sijiao": "97062"
+    },
+    "general_unicode": "基本区 U+6174",
+    "general_bs_code": "44254154132511"
+}

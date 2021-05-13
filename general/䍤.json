@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to strain out; to filter wine; to squeeze juice out of; to draw; to press milk"
+        }
+    ],
+    "general_pinyins": [
+        "jǐ"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "网",
+        "non_radical_sn": "14",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "擠"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4364",
+            "2522141432533543211"
+        ],
+        "char_code_wubi": "lyjf",
+        "char_code_cangjie": "wlyx",
+        "char_code_zhengma": "lkrn",
+        "char_code_sijiao": "60223"
+    },
+    "general_unicode": "扩展A U+4364",
+    "general_bs_code": "2522141432533543211"
+}

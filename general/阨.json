@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "in distress; adverse; strategic; (Cant.) to swindle"
+        },
+        {
+            "language": "德语",
+            "explanation": "Klause  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "en détresse,laisser-passer"
+        }
+    ],
+    "general_pinyins": [
+        "è"
+    ],
+    "general_zhuyins": [
+        "ㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "阸",
+        "隘",
+        "𣲣",
+        "𨸷",
+        "𨹖"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9628",
+            "521355"
+        ],
+        "char_code_wubi": "bdbn",
+        "char_code_cangjie": "nlmsu",
+        "char_code_zhengma": "ygyy",
+        "char_code_sijiao": "71212"
+    },
+    "general_unicode": "基本区 U+9628",
+    "general_bs_code": "521355"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to regret, remorse; dissatisfied"
+        },
+        {
+            "language": "德语",
+            "explanation": "bedauern, Bedauern  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "regret,regretter"
+        }
+    ],
+    "general_pinyins": [
+        "hàn"
+    ],
+    "general_zhuyins": [
+        "ㄏㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "感"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "61BE",
+            "4421312515344544"
+        ],
+        "char_code_wubi": "ndgn",
+        "char_code_cangjie": "pirp",
+        "char_code_zhengma": "uhjw",
+        "char_code_sijiao": "93035"
+    },
+    "general_unicode": "基本区 U+61BE",
+    "general_bs_code": "4421312515344544"
+}

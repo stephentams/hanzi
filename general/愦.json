@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "confused, troubled, muddle-headed"
+        },
+        {
+            "language": "德语",
+            "explanation": "bestürzt, irritiert  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "stupide,hébété,abruti"
+        }
+    ],
+    "general_pinyins": [
+        "kuì"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "憒"
+    ],
+    "general_ytz": [
+        "憒",
+        "𢤳"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6126",
+            "442251212534"
+        ],
+        "char_code_wubi": "nkhm",
+        "char_code_cangjie": "plmo",
+        "char_code_zhengma": "ujal",
+        "char_code_sijiao": "95082"
+    },
+    "general_unicode": "基本区 U+6126",
+    "general_bs_code": "442251212534"
+}

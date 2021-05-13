@@ -1,0 +1,55 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "light, brilliant, shine; only"
+        },
+        {
+            "language": "德语",
+            "explanation": "Glanz, Ehre, Ruhm  (S)​,Licht  (S)​,alle sein, zu Ende sein  (Adj, vulg)​,bloß, nur, allein  (Adj)​,glatt, blank, nackt, kahl  (Adj)​,Guang  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "rayon (de lumière)​,brillant,gloire,nu,épuiser,consommé jusqu'au bout,seulement,rien que,(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "guāng"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄤ"
+    ],
+    "general_radical": {
+        "radical": "儿",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㫕",
+        "灮",
+        "炗",
+        "炚",
+        "炛",
+        "烡",
+        "𠈑",
+        "𤉭",
+        "𤎫",
+        "𤐥",
+        "𤈛",
+        "𤑋"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5149",
+            "243135"
+        ],
+        "char_code_wubi": "iqb|igqb",
+        "char_code_cangjie": "fmu",
+        "char_code_zhengma": "kogr",
+        "char_code_sijiao": "90212"
+    },
+    "general_unicode": "基本区 U+5149",
+    "general_bs_code": "243135"
+}

@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "lè"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "13",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "255AA",
+            "1325121213241112154"
+        ],
+        "char_code_wubi": "dawc",
+        "char_code_cangjie": "mrtoe",
+        "char_code_zhengma": "genx"
+    },
+    "general_unicode": "扩展B U+255AA",
+    "general_bs_code": "1325121213241112154"
+}

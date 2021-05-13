@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "book, volume"
+        },
+        {
+            "language": "德语",
+            "explanation": "Band, Exemplar (Buch)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "tome,volume,exemplaire"
+        }
+    ],
+    "general_pinyins": [
+        "cè"
+    ],
+    "general_zhuyins": [
+        "ㄘㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "冂",
+        "non_radical_sn": "3",
+        "total_sn": "5"
+    },
+    "general_stc": [
+        "册"
+    ],
+    "general_ytz": [
+        "册",
+        "𠕁"
+    ],
+    "general_structure": "嵌套结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "518A",
+            "25221"
+        ],
+        "char_code_wubi": "mak",
+        "char_code_cangjie": "bt",
+        "char_code_zhengma": "lde",
+        "char_code_sijiao": "77440"
+    },
+    "general_unicode": "基本区 U+518A",
+    "general_bs_code": "25221"
+}

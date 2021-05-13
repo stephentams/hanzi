@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "writing tablet; documents, books"
+        },
+        {
+            "language": "法语",
+            "explanation": "tablettes à écrire,lettre"
+        }
+    ],
+    "general_pinyins": [
+        "dú"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "片",
+        "non_radical_sn": "15",
+        "total_sn": "19"
+    },
+    "general_stc": [
+        "牍"
+    ],
+    "general_ytz": [
+        "牍",
+        "𤘄"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7258",
+            "3215121252212511134"
+        ],
+        "char_code_wubi": "thgm",
+        "char_code_cangjie": "llgwc",
+        "char_code_zhengma": "nxll",
+        "char_code_sijiao": "24086"
+    },
+    "general_unicode": "基本区 U+7258",
+    "general_bs_code": "3215121252212511134"
+}

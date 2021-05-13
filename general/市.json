@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "market, fair; city, town; trade"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kommune (S, Rechtsw)​,Markt (S)​,Stadt (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "marché,ville,municipalité"
+        }
+    ],
+    "general_pinyins": [
+        "shì"
+    ],
+    "general_zhuyins": [
+        "ㄕˋ"
+    ],
+    "general_radical": {
+        "radical": "巾",
+        "non_radical_sn": "2",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "芾"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5E02",
+            "41252"
+        ],
+        "char_code_wubi": "ymhj",
+        "char_code_cangjie": "ylb",
+        "char_code_zhengma": "sli",
+        "char_code_sijiao": "00227"
+    },
+    "general_unicode": "基本区 U+5E02",
+    "general_bs_code": "41252"
+}

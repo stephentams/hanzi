@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "léi"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "田",
+        "non_radical_sn": "15",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "24CF4",
+            "25121125122512112512"
+        ],
+        "char_code_wubi": "lskk",
+        "char_code_cangjie": "wwmrr",
+        "char_code_zhengma": "kiaj"
+    },
+    "general_unicode": "扩展B U+24CF4",
+    "general_bs_code": "25121125122512112512"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "argue, dispute; disturb, annoy"
+        },
+        {
+            "language": "德语",
+            "explanation": "jemanden stören, Zank, zanken"
+        },
+        {
+            "language": "法语",
+            "explanation": "faire du bruit,se disputer"
+        }
+    ],
+    "general_pinyins": [
+        "chǎo",
+        "chāo"
+    ],
+    "general_zhuyins": [
+        "ㄔㄠˇ",
+        "ㄔㄠ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "訬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5435",
+            "2512343"
+        ],
+        "char_code_wubi": "kitt",
+        "char_code_cangjie": "rfh",
+        "char_code_zhengma": "jkm",
+        "char_code_sijiao": "69020"
+    },
+    "general_unicode": "基本区 U+5435",
+    "general_bs_code": "2512343"
+}

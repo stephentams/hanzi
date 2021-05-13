@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hall, central room"
+        }
+    ],
+    "general_pinyins": [
+        "tīng"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧㄥ"
+    ],
+    "general_radical": {
+        "radical": "广",
+        "non_radical_sn": "2",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "廳",
+        "𥑈"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5E81",
+            "41312"
+        ],
+        "char_code_wubi": "ysk|osk",
+        "char_code_cangjie": "imn",
+        "char_code_zhengma": "tgai",
+        "char_code_sijiao": "00221"
+    },
+    "general_unicode": "基本区 U+5E81",
+    "general_bs_code": "41312"
+}

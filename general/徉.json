@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wonder, rove, stray; hesitating"
+        },
+        {
+            "language": "法语",
+            "explanation": "marcher d'avant en arrière"
+        }
+    ],
+    "general_pinyins": [
+        "yáng"
+    ],
+    "general_zhuyins": [
+        "ㄧㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "彳",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "佯"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F89",
+            "332431112"
+        ],
+        "char_code_wubi": "tudh|tuh",
+        "char_code_cangjie": "hotq",
+        "char_code_zhengma": "oiuc",
+        "char_code_sijiao": "28251"
+    },
+    "general_unicode": "基本区 U+5F89",
+    "general_bs_code": "332431112"
+}

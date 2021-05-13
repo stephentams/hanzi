@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "same as 單 U+55AE, single, individual, only; lone"
+        }
+    ],
+    "general_pinyins": [
+        "dān"
+    ],
+    "general_zhuyins": [
+        "ㄉㄢ"
+    ],
+    "general_radical": {
+        "radical": "十",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "單"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5358",
+            "443251112"
+        ],
+        "char_code_wubi": "ijfj",
+        "char_code_cangjie": "fwj",
+        "char_code_zhengma": "vdke",
+        "char_code_sijiao": "90500"
+    },
+    "general_unicode": "基本区 U+5358",
+    "general_bs_code": "443251112"
+}

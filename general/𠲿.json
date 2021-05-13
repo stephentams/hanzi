@@ -1,0 +1,35 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to suck in"
+        }
+    ],
+    "general_pinyins": [
+        "shuò"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "欶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "20CBF",
+            "2511251234"
+        ],
+        "char_code_wubi": "kgki",
+        "char_code_cangjie": "rdl",
+        "char_code_zhengma": "jfj"
+    },
+    "general_unicode": "扩展B U+20CBF",
+    "general_bs_code": "2511251234"
+}

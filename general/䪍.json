@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a container for bows and arrows"
+        }
+    ],
+    "general_pinyins": [
+        "lán",
+        "làn"
+    ],
+    "general_zhuyins": [
+        "ㄌㄢˊ",
+        "ㄌㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "革",
+        "non_radical_sn": "17",
+        "total_sn": "26"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "籣"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4A8D",
+            "12212511251122511125431234"
+        ],
+        "char_code_wubi": "afui|aful",
+        "char_code_cangjie": "tjanw",
+        "char_code_zhengma": "eefl",
+        "char_code_sijiao": "47520"
+    },
+    "general_unicode": "扩展A U+4A8D",
+    "general_bs_code": "12212511251122511125431234"
+}

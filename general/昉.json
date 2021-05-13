@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bright dawn, daybreak; appear"
+        },
+        {
+            "language": "德语",
+            "explanation": "anfangen, beginnen ,Anbruch, Beginn  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "aube,commencer"
+        }
+    ],
+    "general_pinyins": [
+        "fǎng"
+    ],
+    "general_zhuyins": [
+        "ㄈㄤ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "昘",
+        "昞"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6609",
+            "25114153"
+        ],
+        "char_code_wubi": "jyn|jyt",
+        "char_code_cangjie": "ayhs",
+        "char_code_zhengma": "ksy",
+        "char_code_sijiao": "60027"
+    },
+    "general_unicode": "基本区 U+6609",
+    "general_bs_code": "25114153"
+}

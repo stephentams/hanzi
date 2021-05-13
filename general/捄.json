@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "long and curved"
+        },
+        {
+            "language": "德语",
+            "explanation": "retten"
+        },
+        {
+            "language": "法语",
+            "explanation": "sauver,secourir"
+        }
+    ],
+    "general_pinyins": [
+        "jiù"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "救",
+        "莍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6344",
+            "1211241344"
+        ],
+        "char_code_wubi": "rfiy|rgiy",
+        "char_code_cangjie": "qije",
+        "char_code_zhengma": "ddvs",
+        "char_code_sijiao": "53099"
+    },
+    "general_unicode": "基本区 U+6344",
+    "general_bs_code": "1211241344"
+}

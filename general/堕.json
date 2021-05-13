@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fall, sink, let fall; degenerate"
+        },
+        {
+            "language": "法语",
+            "explanation": "chute,faire tomber,ruine"
+        }
+    ],
+    "general_pinyins": [
+        "duò",
+        "huī"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨㄛˋ",
+        "ㄏㄨㄟ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "墮"
+    ],
+    "general_ytz": [
+        "墮",
+        "𡐏",
+        "𡐦",
+        "𥪹",
+        "𨼢",
+        "𨼰"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5815",
+            "52132511121"
+        ],
+        "char_code_wubi": "bdef",
+        "char_code_cangjie": "nbg",
+        "char_code_zhengma": "ygqb",
+        "char_code_sijiao": "74104"
+    },
+    "general_unicode": "基本区 U+5815",
+    "general_bs_code": "52132511121"
+}

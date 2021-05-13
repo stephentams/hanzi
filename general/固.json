@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to become solid, solidify; strength"
+        },
+        {
+            "language": "德语",
+            "explanation": "fest, hart"
+        },
+        {
+            "language": "法语",
+            "explanation": "solide,ferme,fermement,résolument,obstiné"
+        }
+    ],
+    "general_pinyins": [
+        "gù"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "囗",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "怘",
+        "痼"
+    ],
+    "general_structure": "全包围结构；先外后内再封口",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "56FA",
+            "25122511"
+        ],
+        "char_code_wubi": "ldd",
+        "char_code_cangjie": "wjr",
+        "char_code_zhengma": "jdej",
+        "char_code_sijiao": "60604"
+    },
+    "general_unicode": "基本区 U+56FA",
+    "general_bs_code": "25122511"
+}

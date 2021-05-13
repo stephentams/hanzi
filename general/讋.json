@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fear; envy; loquacious"
+        },
+        {
+            "language": "德语",
+            "explanation": "sich erschrecken"
+        },
+        {
+            "language": "法语",
+            "explanation": "avoir peur,avoir peur"
+        }
+    ],
+    "general_pinyins": [
+        "zhé"
+    ],
+    "general_zhuyins": [
+        "ㄓㄜˊ"
+    ],
+    "general_radical": {
+        "radical": "言",
+        "non_radical_sn": "17",
+        "total_sn": "24"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧮩",
+        "龘",
+        "詟"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8B8B",
+            "41431251115151114111251"
+        ],
+        "char_code_wubi": "uegy",
+        "char_code_cangjie": "ypymr",
+        "char_code_zhengma": "sis",
+        "char_code_sijiao": "01601"
+    },
+    "general_unicode": "基本区 U+8B8B",
+    "general_bs_code": "41431251115151114111251"
+}

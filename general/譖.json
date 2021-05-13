@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to slander"
+        },
+        {
+            "language": "德语",
+            "explanation": "verleumden, verlästern"
+        },
+        {
+            "language": "法语",
+            "explanation": "dénigrer"
+        }
+    ],
+    "general_pinyins": [
+        "zèn"
+    ],
+    "general_zhuyins": [
+        "ㄗㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "言",
+        "non_radical_sn": "12",
+        "total_sn": "19"
+    },
+    "general_stc": [
+        "谮"
+    ],
+    "general_ytz": [
+        "谮",
+        "𧮂",
+        "譛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8B56",
+            "4111251153515352511"
+        ],
+        "char_code_wubi": "yaqj",
+        "char_code_cangjie": "yrmua",
+        "char_code_zhengma": "shrk",
+        "char_code_sijiao": "01661"
+    },
+    "general_unicode": "基本区 U+8B56",
+    "general_bs_code": "4111251153515352511"
+}

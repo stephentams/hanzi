@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "banner, flag, streamer"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fahne  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "drapeau,bannière"
+        }
+    ],
+    "general_pinyins": [
+        "qí"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "方",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㫅",
+        "𣄃",
+        "𥛏"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "65D7",
+            "41533112211134"
+        ],
+        "char_code_wubi": "ytaw|ytdw",
+        "char_code_cangjie": "ysotc",
+        "char_code_zhengma": "syme",
+        "char_code_sijiao": "08281"
+    },
+    "general_unicode": "基本区 U+65D7",
+    "general_bs_code": "41533112211134"
+}

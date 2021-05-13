@@ -1,0 +1,56 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hold in hand; keep; carry out"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bescheinigug, Bestätigung, Quitung  (S)​,auf etw. bestehen, an etw. festhalten  (V)​,ausführen, durchführen  (V)​,etw. halten, etw. greifen, etw. packen  (V)​,fangen, fassen, festnehmen  (V, Rechtsw)​,in der Hand halten  (V)​,innehaben, habhaben, ausüben  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tenir,persister,appliquer,exécuter"
+        }
+    ],
+    "general_pinyins": [
+        "zhí"
+    ],
+    "general_zhuyins": [
+        "ㄓˊ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "执"
+    ],
+    "general_ytz": [
+        "执",
+        "瓡",
+        "秇",
+        "𠌷",
+        "𠙜",
+        "𡘺",
+        "𡙕",
+        "𢦕",
+        "𥝡",
+        "𦎃",
+        "縶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "57F7",
+            "12143112354"
+        ],
+        "char_code_wubi": "fufy",
+        "char_code_cangjie": "gjkni",
+        "char_code_zhengma": "buqs",
+        "char_code_sijiao": "45417"
+    },
+    "general_unicode": "基本区 U+57F7",
+    "general_bs_code": "12143112354"
+}

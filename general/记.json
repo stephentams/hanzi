@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "record; keep in mind, remember"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufschreiben  (V)​,niederschreiben  (V)​,sich erinnern"
+        },
+        {
+            "language": "法语",
+            "explanation": "se souvenir de,noter,enregistrer"
+        }
+    ],
+    "general_pinyins": [
+        "jì"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "3",
+        "total_sn": "5"
+    },
+    "general_stc": [
+        "記"
+    ],
+    "general_ytz": [
+        "記",
+        "𧪄"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BB0",
+            "45515"
+        ],
+        "char_code_wubi": "ynn",
+        "char_code_cangjie": "ivsu",
+        "char_code_zhengma": "syy",
+        "char_code_sijiao": "37717"
+    },
+    "general_unicode": "基本区 U+8BB0",
+    "general_bs_code": "45515"
+}

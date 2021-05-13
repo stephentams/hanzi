@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "水",
+        "non_radical_sn": "2",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "貨"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "23C77",
+            "132534"
+        ],
+        "char_code_wubi": "dii",
+        "char_code_cangjie": "me",
+        "char_code_zhengma": "ggkv"
+    },
+    "general_unicode": "扩展B U+23C77",
+    "general_bs_code": "132534"
+}

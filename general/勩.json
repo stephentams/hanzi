@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "work hard; belabored; toil"
+        },
+        {
+            "language": "德语",
+            "explanation": "Mühe, Plackerei  (S)​,quälen, schuften"
+        },
+        {
+            "language": "法语",
+            "explanation": "(lit.)​ ardu,laborieux,épuisé,émoussé,labeur"
+        }
+    ],
+    "general_pinyins": [
+        "yì"
+    ],
+    "general_zhuyins": [
+        "ㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "力",
+        "non_radical_sn": "12",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "勚"
+    ],
+    "general_ytz": [
+        "勚",
+        "𠡫",
+        "𠡾",
+        "𠢉",
+        "𦘓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "52E9",
+            "12215251113453"
+        ],
+        "char_code_wubi": "anml|anme",
+        "char_code_cangjie": "pcks",
+        "char_code_zhengma": "ealy",
+        "char_code_sijiao": "44827"
+    },
+    "general_unicode": "基本区 U+52E9",
+    "general_bs_code": "12215251113453"
+}

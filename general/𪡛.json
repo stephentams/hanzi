@@ -1,0 +1,30 @@
+{
+    "general_pinyins": [
+        "hé",
+        "xià",
+        "xiā"
+    ],
+    "general_zhuyins": [
+        "ㄏㄜˊ",
+        "ㄒㄧㄚˋ",
+        "ㄒㄧㄚ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "㗿"
+    ],
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2A85B"
+        ],
+        "char_code_wubi": "kusk",
+        "char_code_zhengma": "jpro"
+    },
+    "general_unicode": "扩展C U+2A85B"
+}

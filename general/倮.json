@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bare, naked, uncovered"
+        },
+        {
+            "language": "德语",
+            "explanation": "unbedeckt, nackt, blank  (Adj)"
+        }
+    ],
+    "general_pinyins": [
+        "luǒ"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄛˇ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "裸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "502E",
+            "3225111234"
+        ],
+        "char_code_wubi": "wjsy",
+        "char_code_cangjie": "owd",
+        "char_code_zhengma": "nkf",
+        "char_code_sijiao": "26294"
+    },
+    "general_unicode": "基本区 U+502E",
+    "general_bs_code": "3225111234"
+}

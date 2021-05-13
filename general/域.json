@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "district, region, boundary; land"
+        },
+        {
+            "language": "德语",
+            "explanation": "Areal (S)​,Domain (S, EDV)​,Gebiet (S)​,Gegend (S)​,Grenzgebiet (S)​,Klassifikation 法语 frontière,région"
+        }
+    ],
+    "general_pinyins": [
+        "yù"
+    ],
+    "general_zhuyins": [
+        "ㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㚜",
+        "㽣",
+        "䧕",
+        "𡌳",
+        "𢨊",
+        "𣾒"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "57DF",
+            "12112511534"
+        ],
+        "char_code_wubi": "fakg",
+        "char_code_cangjie": "girm",
+        "char_code_zhengma": "bhja",
+        "char_code_sijiao": "43150"
+    },
+    "general_unicode": "基本区 U+57DF",
+    "general_bs_code": "12112511534"
+}

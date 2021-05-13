@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "knot, node, joint; section"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fest, Feiertag ,Knoten, Gelenk, Abschnitt, Kapitel  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "raccourcir,épargner,fête,festival,jour férié,joint,section,segment,part,épargner,économiser,raccourcir,abréger,intégrité,(classificateur pour les segments, leçons, wagons, versets, etc.)​"
+        }
+    ],
+    "general_pinyins": [
+        "jié",
+        "jiē"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄝˊ",
+        "ㄐㄧㄝ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "2",
+        "total_sn": "5"
+    },
+    "general_stc": [
+        "節"
+    ],
+    "general_ytz": [
+        "節",
+        "卩",
+        "卪",
+        "㔾",
+        "𠐉",
+        "𢎛"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8282",
+            "12252"
+        ],
+        "char_code_wubi": "abj",
+        "char_code_cangjie": "tsl",
+        "char_code_zhengma": "eyvv",
+        "char_code_sijiao": "44227"
+    },
+    "general_unicode": "基本区 U+8282",
+    "general_bs_code": "12252"
+}

@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "knee"
+        },
+        {
+            "language": "德语",
+            "explanation": "Knie  (S)​,Kniegelenk  (S)​,Kinder  (S)​,Schoß  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "genou"
+        }
+    ],
+    "general_pinyins": [
+        "xī"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "11",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦡩",
+        "𦡀",
+        "𦞃",
+        "𦜔",
+        "𣎌",
+        "厀",
+        "䣛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "819D",
+            "351112343424134"
+        ],
+        "char_code_wubi": "eswi",
+        "char_code_cangjie": "bdoe",
+        "char_code_zhengma": "qfok",
+        "char_code_sijiao": "74299"
+    },
+    "general_unicode": "基本区 U+819D",
+    "general_bs_code": "351112343424134"
+}

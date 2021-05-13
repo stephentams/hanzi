@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "big, great, vast, large, high"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 alt  (Adj)​,groß, bedeutend, gewaltig  (Adj)​,Radikal Nr. 37 = groß, (alt)​  (Sprachw)"
+        }
+    ],
+    "general_pinyins": [
+        "dà",
+        "dài",
+        "tài"
+    ],
+    "general_zhuyins": [
+        "ㄉㄚˋ",
+        "ㄉㄞˋ",
+        "ㄊㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "大",
+        "non_radical_sn": "0",
+        "total_sn": "3"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "亣",
+        "𠘲",
+        "太"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5927",
+            "134"
+        ],
+        "char_code_wubi": "dddd",
+        "char_code_cangjie": "k",
+        "char_code_zhengma": "gd",
+        "char_code_sijiao": "40800"
+    },
+    "general_unicode": "基本区 U+5927",
+    "general_bs_code": "134"
+}

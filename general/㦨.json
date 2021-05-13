@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 嬾) lazy; indolent; idle; inactive; reluctant; disinclined"
+        }
+    ],
+    "general_pinyins": [
+        "lán",
+        "làn"
+    ],
+    "general_zhuyins": [
+        "ㄌㄢˊ",
+        "ㄌㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "17",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "39A8",
+            "44251122511125431234"
+        ],
+        "char_code_wubi": "nugi|nusl",
+        "char_code_cangjie": "panw",
+        "char_code_zhengma": "uxfl",
+        "char_code_sijiao": "97020"
+    },
+    "general_unicode": "扩展A U+39A8",
+    "general_bs_code": "44251122511125431234"
+}

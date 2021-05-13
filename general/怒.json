@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "anger, rage, passion; angry"
+        },
+        {
+            "language": "德语",
+            "explanation": "ungehalten, entrüstet, empört  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "colère,fureur"
+        }
+    ],
+    "general_pinyins": [
+        "nù"
+    ],
+    "general_zhuyins": [
+        "ㄋㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㣽",
+        "𢘂",
+        "𡚿",
+        "怒"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6012",
+            "531544544"
+        ],
+        "char_code_wubi": "vcnu",
+        "char_code_cangjie": "vep",
+        "char_code_zhengma": "zmxw",
+        "char_code_sijiao": "47334"
+    },
+    "general_unicode": "基本区 U+6012",
+    "general_bs_code": "531544544"
+}

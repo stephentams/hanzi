@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "island"
+        },
+        {
+            "language": "德语",
+            "explanation": "Insel (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "île,îlot"
+        }
+    ],
+    "general_pinyins": [
+        "dǎo"
+    ],
+    "general_zhuyins": [
+        "ㄉㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "島"
+    ],
+    "general_ytz": [
+        "島",
+        "陦",
+        "隝",
+        "嶋",
+        "嶌",
+        "隯",
+        "嶹",
+        "㠀"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5C9B",
+            "3545252"
+        ],
+        "char_code_wubi": "qynm|qmk",
+        "char_code_cangjie": "pysu",
+        "char_code_zhengma": "rzll",
+        "char_code_sijiao": "27727"
+    },
+    "general_unicode": "基本区 U+5C9B",
+    "general_bs_code": "3545252"
+}

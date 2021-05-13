@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "happy, pleased, glad, joyous"
+        },
+        {
+            "language": "德语",
+            "explanation": "gefällt"
+        },
+        {
+            "language": "法语",
+            "explanation": "joyeux,content,heureux"
+        }
+    ],
+    "general_pinyins": [
+        "huān"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄢ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "17",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "歡"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "61FD",
+            "44212225125132411121"
+        ],
+        "char_code_wubi": "naky",
+        "char_code_cangjie": "ptrg",
+        "char_code_zhengma": "uejn",
+        "char_code_sijiao": "94015"
+    },
+    "general_unicode": "基本区 U+61FD",
+    "general_bs_code": "44212225125132411121"
+}

@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "厂",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "庇"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "20A3D",
+            "131515"
+        ],
+        "char_code_wubi": "dxxv",
+        "char_code_cangjie": "mpp",
+        "char_code_zhengma": "ggrr"
+    },
+    "general_unicode": "扩展B U+20A3D",
+    "general_bs_code": "131515"
+}

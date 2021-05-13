@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "humble, low, inferior; despise"
+        },
+        {
+            "language": "德语",
+            "explanation": "flach  (Adj)​,niedrig  (Adv)​,vulgär  (Adv)​,ärmlich ,minder"
+        },
+        {
+            "language": "法语",
+            "explanation": "bas,méprisable,vulgaire,humble,inférieur"
+        }
+    ],
+    "general_pinyins": [
+        "bēi"
+    ],
+    "general_zhuyins": [
+        "ㄅㄟ"
+    ],
+    "general_radical": {
+        "radical": "十",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䠋",
+        "𡭼",
+        "𡮁",
+        "𤰞",
+        "卑"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5351",
+            "32511312"
+        ],
+        "char_code_wubi": "rtfj",
+        "char_code_cangjie": "hwhj",
+        "char_code_zhengma": "njed",
+        "char_code_sijiao": "26400"
+    },
+    "general_unicode": "基本区 U+5351",
+    "general_bs_code": "32511312"
+}

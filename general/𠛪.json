@@ -1,0 +1,35 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to cut open, sever"
+        }
+    ],
+    "general_pinyins": [
+        "tiāo",
+        "diāo"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "刂",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠚥",
+        "𠜩"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "206EA",
+            "34153422"
+        ],
+        "char_code_wubi": "iqjh",
+        "char_code_cangjie": "hyuon",
+        "char_code_zhengma": "vrkd"
+    },
+    "general_unicode": "扩展B U+206EA",
+    "general_bs_code": "34153422"
+}

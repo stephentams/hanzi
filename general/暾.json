@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "morning sun, sunrise"
+        },
+        {
+            "language": "法语",
+            "explanation": "Soleil au-dessus de l'horizon"
+        }
+    ],
+    "general_pinyins": [
+        "tūn"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄣ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "12",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "旽",
+        "𣌘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "66BE",
+            "2511412515213134"
+        ],
+        "char_code_wubi": "jybt",
+        "char_code_cangjie": "aydk",
+        "char_code_zhengma": "ksym",
+        "char_code_sijiao": "68040"
+    },
+    "general_unicode": "基本区 U+66BE",
+    "general_bs_code": "2511412515213134"
+}

@@ -1,0 +1,27 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "尞",
+        "𤎚",
+        "燎"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "21F37",
+            "252433425114334"
+        ],
+        "char_code_wubi": "mojo",
+        "char_code_cangjie": "ufaf",
+        "char_code_zhengma": "llku"
+    },
+    "general_unicode": "扩展B U+21F37",
+    "general_bs_code": "252433425114334"
+}

@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "be numerous, brilliant"
+        },
+        {
+            "language": "德语",
+            "explanation": "großartig, billiant, außerordentlich  (Adj)​,zahlreich, viel  (Adj)​,Huan  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "abondant,brillant,éclatant"
+        }
+    ],
+    "general_pinyins": [
+        "huàn"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "大",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "奂"
+    ],
+    "general_ytz": [
+        "喚",
+        "換",
+        "渙",
+        "煥",
+        "奂",
+        "𢍅"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5950",
+            "352534134"
+        ],
+        "char_code_wubi": "qmwd",
+        "char_code_cangjie": "nbk",
+        "char_code_zhengma": "rlgd",
+        "char_code_sijiao": "27804"
+    },
+    "general_unicode": "基本区 U+5950",
+    "general_bs_code": "352534134"
+}

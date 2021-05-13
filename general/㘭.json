@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 坳) a hollow in the ground; a cavity, undulating"
+        }
+    ],
+    "general_pinyins": [
+        "ào"
+    ],
+    "general_zhuyins": [
+        "ㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "坳"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "362D",
+            "1215545"
+        ],
+        "char_code_wubi": "fxnn",
+        "char_code_cangjie": "gvis",
+        "char_code_zhengma": "bzzy",
+        "char_code_sijiao": "47120"
+    },
+    "general_unicode": "扩展A U+362D",
+    "general_bs_code": "1215545"
+}

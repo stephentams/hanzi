@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "resist, oppose, defy, reject"
+        },
+        {
+            "language": "德语",
+            "explanation": "kämpfen  (V)​,widersetzen  (V)​,widerstehen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "résister à,lutter contre,refuser"
+        }
+    ],
+    "general_pinyins": [
+        "kàng"
+    ],
+    "general_zhuyins": [
+        "ㄎㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "扛",
+        "伉",
+        "杭",
+        "𢪨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6297",
+            "1214135"
+        ],
+        "char_code_wubi": "rymn|rywn",
+        "char_code_cangjie": "qyhn",
+        "char_code_zhengma": "dsqd",
+        "char_code_sijiao": "50017"
+    },
+    "general_unicode": "基本区 U+6297",
+    "general_bs_code": "1214135"
+}

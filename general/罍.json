@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "large earthenware wine jar"
+        },
+        {
+            "language": "德语",
+            "explanation": "scheppern,  Gefäß"
+        },
+        {
+            "language": "法语",
+            "explanation": "grande jarre à vin en terre cuite"
+        }
+    ],
+    "general_pinyins": [
+        "léi"
+    ],
+    "general_zhuyins": [
+        "ㄌㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "缶",
+        "non_radical_sn": "15",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "櫑",
+        "𦉩",
+        "𨯔"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F4D",
+            "251212512125121311252"
+        ],
+        "char_code_wubi": "lllm|lllb",
+        "char_code_cangjie": "wwwu",
+        "char_code_zhengma": "kiez",
+        "char_code_sijiao": "60772"
+    },
+    "general_unicode": "基本区 U+7F4D",
+    "general_bs_code": "251212512125121311252"
+}

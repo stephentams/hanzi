@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "half of tree trunk; rad. no. 90"
+        }
+    ],
+    "general_pinyins": [
+        "pán"
+    ],
+    "general_zhuyins": [
+        "ㄆㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "丨",
+        "non_radical_sn": "2",
+        "total_sn": "3"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "单体结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4E2C",
+            "412"
+        ],
+        "char_code_wubi": "uygh",
+        "char_code_cangjie": "xlim",
+        "char_code_zhengma": "tia",
+        "char_code_sijiao": "32100"
+    },
+    "general_unicode": "基本区 U+4E2C",
+    "general_bs_code": "412"
+}

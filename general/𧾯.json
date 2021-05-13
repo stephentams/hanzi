@@ -1,0 +1,27 @@
+{
+    "general_pinyins": [
+        "jié"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "走",
+        "non_radical_sn": "16",
+        "total_sn": "23"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左下包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "27FAF",
+            "121213412123525121444422"
+        ],
+        "char_code_wubi": "fhaj",
+        "char_code_cangjie": "gotnn",
+        "char_code_zhengma": "bork"
+    },
+    "general_unicode": "扩展B U+27FAF",
+    "general_bs_code": "121213412123525121444422"
+}

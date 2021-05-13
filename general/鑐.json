@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bolt of a Chinese lock"
+        }
+    ],
+    "general_pinyins": [
+        "xū"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩ"
+    ],
+    "general_radical": {
+        "radical": "釒",
+        "non_radical_sn": "14",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "鍒",
+        "𨬗"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9450",
+            "3411243114524444132522"
+        ],
+        "char_code_wubi": "qfdj",
+        "char_code_cangjie": "cmbb",
+        "char_code_zhengma": "pfgl",
+        "char_code_sijiao": "81127"
+    },
+    "general_unicode": "基本区 U+9450",
+    "general_bs_code": "3411243114524444132522"
+}

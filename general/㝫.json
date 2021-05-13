@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "shape of the sky"
+        }
+    ],
+    "general_pinyins": [
+        "lóng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "宀",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "376B",
+            "44552354131121"
+        ],
+        "char_code_wubi": "pbtg",
+        "char_code_cangjie": "jnlm",
+        "char_code_zhengma": "wdam",
+        "char_code_sijiao": "30215"
+    },
+    "general_unicode": "扩展A U+376B",
+    "general_bs_code": "44552354131121"
+}

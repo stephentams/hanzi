@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wind; walk out of straight path"
+        }
+    ],
+    "general_pinyins": [
+        "yǐ",
+        "yí"
+    ],
+    "general_zhuyins": [
+        "ㄧˇ",
+        "ㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "也",
+        "迤"
+    ],
+    "general_structure": "左下包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8FC6",
+            "525454"
+        ],
+        "char_code_wubi": "bpv",
+        "char_code_cangjie": "ypd",
+        "char_code_zhengma": "wyi",
+        "char_code_sijiao": "34301"
+    },
+    "general_unicode": "基本区 U+8FC6",
+    "general_bs_code": "525454"
+}

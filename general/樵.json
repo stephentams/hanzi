@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "woodcutter; firewood; gather wood"
+        },
+        {
+            "language": "德语",
+            "explanation": "Brennholz  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bois à brûler,couper du bois"
+        }
+    ],
+    "general_pinyins": [
+        "qiáo"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "12",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䕴",
+        "𣛑",
+        "𣟶",
+        "櫵",
+        "藮",
+        "𦿕",
+        "𧄡"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6A35",
+            "1234324111214444"
+        ],
+        "char_code_wubi": "swyo",
+        "char_code_cangjie": "dogf",
+        "char_code_zhengma": "fnuo",
+        "char_code_sijiao": "40931"
+    },
+    "general_unicode": "基本区 U+6A35",
+    "general_bs_code": "1234324111214444"
+}

@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sigh, alas"
+        },
+        {
+            "language": "德语",
+            "explanation": "Säuseln, Seufzen  (S)​,Seufzer  (S)​,Säuseln, Seufzen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "soupirer,soupirer,hélas!"
+        }
+    ],
+    "general_pinyins": [
+        "jiē"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄝ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䦈",
+        "差",
+        "𠺜",
+        "𧨁",
+        "𧪘",
+        "𧪰",
+        "𧫯",
+        "𧬑",
+        "𨲠",
+        "𨲻"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "55DF",
+            "251431113121"
+        ],
+        "char_code_wubi": "kuda|kuag",
+        "char_code_cangjie": "rtqm",
+        "char_code_zhengma": "jubi",
+        "char_code_sijiao": "68012"
+    },
+    "general_unicode": "基本区 U+55DF",
+    "general_bs_code": "251431113121"
+}

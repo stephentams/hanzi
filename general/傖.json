@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "法语",
+            "explanation": "vulgar person, country man"
+        }
+    ],
+    "general_pinyins": [
+        "cāng",
+        "chen"
+    ],
+    "general_zhuyins": [
+        "ㄘㄤ",
+        "˙ㄔㄣ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "10",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "伧"
+    ],
+    "general_ytz": [
+        "伧"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5096",
+            "323445113251"
+        ],
+        "char_code_wubi": "wwyk",
+        "char_code_cangjie": "ooir",
+        "char_code_zhengma": "noxj",
+        "char_code_sijiao": "28267"
+    },
+    "general_unicode": "基本区 U+5096",
+    "general_bs_code": "323445113251"
+}

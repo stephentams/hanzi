@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "seemingly; absent-minded"
+        },
+        {
+            "language": "德语",
+            "explanation": "beunruhigte ,undeutlich, unklar"
+        },
+        {
+            "language": "法语",
+            "explanation": "trouble"
+        }
+    ],
+    "general_pinyins": [
+        "huǎng"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "怳",
+        "𦬺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "604D",
+            "442243135"
+        ],
+        "char_code_wubi": "niqn|nigq",
+        "char_code_cangjie": "pfmu",
+        "char_code_zhengma": "ukgr",
+        "char_code_sijiao": "99012"
+    },
+    "general_unicode": "基本区 U+604D",
+    "general_bs_code": "442243135"
+}

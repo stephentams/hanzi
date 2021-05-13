@@ -1,0 +1,31 @@
+{
+    "general_pinyins": [
+        "yán"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "喦",
+        "癌"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5D53",
+            "252251251251"
+        ],
+        "char_code_wubi": "mkkk",
+        "char_code_cangjie": "urrr",
+        "char_code_zhengma": "lljj",
+        "char_code_sijiao": "22666"
+    },
+    "general_unicode": "基本区 U+5D53",
+    "general_bs_code": "252251251251"
+}

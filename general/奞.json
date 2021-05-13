@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "the stride made by a man"
+        }
+    ],
+    "general_pinyins": [
+        "xùn",
+        "zhuì"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄣˋ",
+        "ㄓㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "大",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨾮",
+        "㚝"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "595E",
+            "13432411121"
+        ],
+        "char_code_wubi": "dwyf",
+        "char_code_cangjie": "kog",
+        "char_code_zhengma": "gdni",
+        "char_code_sijiao": "40215"
+    },
+    "general_unicode": "基本区 U+595E",
+    "general_bs_code": "13432411121"
+}

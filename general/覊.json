@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "halter; restrain, hold, control"
+        },
+        {
+            "language": "法语",
+            "explanation": "retenir,rênes,réfréner"
+        }
+    ],
+    "general_pinyins": [
+        "jī"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧ"
+    ],
+    "general_radical": {
+        "radical": "覀",
+        "non_radical_sn": "19",
+        "total_sn": "25"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "羈"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "898A",
+            "1252211221251121211254444"
+        ],
+        "char_code_wubi": "safc|safo",
+        "char_code_cangjie": "mbtjf",
+        "char_code_zhengma": "fjec",
+        "char_code_sijiao": "10527"
+    },
+    "general_unicode": "基本区 U+898A",
+    "general_bs_code": "1252211221251121211254444"
+}

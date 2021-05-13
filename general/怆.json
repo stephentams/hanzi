@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sad, broken-hearted, disconsolate"
+        },
+        {
+            "language": "法语",
+            "explanation": "très mélancolique"
+        }
+    ],
+    "general_pinyins": [
+        "chuàng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "愴"
+    ],
+    "general_ytz": [
+        "愴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6006",
+            "4423455"
+        ],
+        "char_code_wubi": "nwbn",
+        "char_code_cangjie": "posu",
+        "char_code_zhengma": "uoyy",
+        "char_code_sijiao": "98012"
+    },
+    "general_unicode": "基本区 U+6006",
+    "general_bs_code": "4423455"
+}

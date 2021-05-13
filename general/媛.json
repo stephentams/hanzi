@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "beauty, beautiful woman"
+        },
+        {
+            "language": "德语",
+            "explanation": "schöne Frau"
+        },
+        {
+            "language": "法语",
+            "explanation": "belle,beauté (n.f.)​,belle femme"
+        }
+    ],
+    "general_pinyins": [
+        "yuàn",
+        "yuán"
+    ],
+    "general_zhuyins": [
+        "ㄩㄢˋ",
+        "ㄩㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5A9B",
+            "531344311354"
+        ],
+        "char_code_wubi": "vefc|vegc",
+        "char_code_cangjie": "vbme",
+        "char_code_zhengma": "zmgx",
+        "char_code_sijiao": "42447"
+    },
+    "general_unicode": "基本区 U+5A9B",
+    "general_bs_code": "531344311354"
+}

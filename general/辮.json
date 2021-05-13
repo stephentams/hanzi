@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "braid; pigtail, plait, queue"
+        },
+        {
+            "language": "法语",
+            "explanation": "tresser,tresse,natter"
+        }
+    ],
+    "general_pinyins": [
+        "biàn"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "辛",
+        "non_radical_sn": "13",
+        "total_sn": "20"
+    },
+    "general_stc": [
+        "辫"
+    ],
+    "general_ytz": [
+        "辫"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8FAE",
+            "41431135542344143112"
+        ],
+        "char_code_wubi": "uxiu",
+        "char_code_cangjie": "yjvfj",
+        "char_code_zhengma": "sezs",
+        "char_code_sijiao": "00441"
+    },
+    "general_unicode": "基本区 U+8FAE",
+    "general_bs_code": "41431135542344143112"
+}

@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ethics, morality, virtue"
+        }
+    ],
+    "general_pinyins": [
+        "dé"
+    ],
+    "general_zhuyins": [
+        "ㄉㄜˊ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "德"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "60B3",
+            "132511154544"
+        ],
+        "char_code_wubi": "fhnn",
+        "char_code_cangjie": "jvp",
+        "char_code_zhengma": "edzw",
+        "char_code_sijiao": "40331"
+    },
+    "general_unicode": "基本区 U+60B3",
+    "general_bs_code": "132511154544"
+}

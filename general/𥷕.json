@@ -1,0 +1,27 @@
+{
+    "general_pinyins": [
+        "dié"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "17",
+        "total_sn": "23"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥶺"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "25DD5",
+            "31431412211134122151234"
+        ],
+        "char_code_wubi": "tads",
+        "char_code_cangjie": "htcd",
+        "char_code_zhengma": "mezf"
+    },
+    "general_unicode": "扩展B U+25DD5",
+    "general_bs_code": "31431412211134122151234"
+}

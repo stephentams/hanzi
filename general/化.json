@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "change, convert, reform; -ize"
+        },
+        {
+            "language": "德语",
+            "explanation": "verändern, verwandeln, umwandeln (V)​,-isierung 法语 changer,transformer,fondre,digérer,se transformer en imitant un modèle,éduquer,transformer les moeurs,convertir,(suffixe)​ -fier,-iser"
+        }
+    ],
+    "general_pinyins": [
+        "huà",
+        "huā"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄚˋ",
+        "ㄏㄨㄚ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "2",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㐶",
+        "𠆧",
+        "𠏁",
+        "𠤎",
+        "𠯒",
+        "𢡺",
+        "花",
+        "貨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5316",
+            "3235"
+        ],
+        "char_code_wubi": "wxn",
+        "char_code_cangjie": "op",
+        "char_code_zhengma": "nrr",
+        "char_code_sijiao": "24210"
+    },
+    "general_unicode": "基本区 U+5316",
+    "general_bs_code": "3235"
+}

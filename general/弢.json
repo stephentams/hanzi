@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bow case; scabbard; sheathe"
+        },
+        {
+            "language": "德语",
+            "explanation": "decken, umfassen"
+        }
+    ],
+    "general_pinyins": [
+        "tāo"
+    ],
+    "general_zhuyins": [
+        "ㄊㄠ"
+    ],
+    "general_radical": {
+        "radical": "弓",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㢭",
+        "套",
+        "韜",
+        "𡸅",
+        "𢎼",
+        "𩎢"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F22",
+            "51552254"
+        ],
+        "char_code_wubi": "xbhc",
+        "char_code_cangjie": "nue",
+        "char_code_zhengma": "yzzx",
+        "char_code_sijiao": "12247"
+    },
+    "general_unicode": "基本区 U+5F22",
+    "general_bs_code": "51552254"
+}

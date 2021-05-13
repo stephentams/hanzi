@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "that, like this, thus, so, such"
+        },
+        {
+            "language": "德语",
+            "explanation": "solch, so"
+        },
+        {
+            "language": "法语",
+            "explanation": "tellement"
+        }
+    ],
+    "general_pinyins": [
+        "nèn",
+        "nín"
+    ],
+    "general_zhuyins": [
+        "ㄋㄣˋ",
+        "ㄋㄧㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㤛",
+        "𢗖",
+        "飪"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6041",
+            "3231214544"
+        ],
+        "char_code_wubi": "wtfn",
+        "char_code_cangjie": "ogp",
+        "char_code_zhengma": "nmbw",
+        "char_code_sijiao": "22331"
+    },
+    "general_unicode": "基本区 U+6041",
+    "general_bs_code": "3231214544"
+}

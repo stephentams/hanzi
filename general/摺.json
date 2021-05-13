@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fold, bend; twisted, curved"
+        },
+        {
+            "language": "德语",
+            "explanation": "einwickeln, falten"
+        },
+        {
+            "language": "法语",
+            "explanation": "briser,plier,diminuer,séparer,déduire,escompter,(après un chiffre, indique une réduction)​,plier,document"
+        }
+    ],
+    "general_pinyins": [
+        "zhé"
+    ],
+    "general_zhuyins": [
+        "ㄓㄜˊ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "拉",
+        "折"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "647A",
+            "12154154132511"
+        ],
+        "char_code_wubi": "rnrg",
+        "char_code_cangjie": "qsma",
+        "char_code_zhengma": "dyyn",
+        "char_code_sijiao": "57062"
+    },
+    "general_unicode": "基本区 U+647A",
+    "general_bs_code": "12154154132511"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "peaceful, quiet; happy, healthy"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gesundheit  (S)​,Kang  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bonne santé"
+        }
+    ],
+    "general_pinyins": [
+        "kāng"
+    ],
+    "general_zhuyins": [
+        "ㄎㄤ"
+    ],
+    "general_radical": {
+        "radical": "广",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠭳",
+        "𩂮",
+        "糠",
+        "𢊪"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5EB7",
+            "41351124134"
+        ],
+        "char_code_wubi": "yvii|ovii",
+        "char_code_cangjie": "ile",
+        "char_code_zhengma": "tgxk",
+        "char_code_sijiao": "00299"
+    },
+    "general_unicode": "基本区 U+5EB7",
+    "general_bs_code": "41351124134"
+}

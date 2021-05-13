@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "climb; pull; hang on to"
+        },
+        {
+            "language": "德语",
+            "explanation": "reißen, zerren  (V)​,klettern, erklettern"
+        },
+        {
+            "language": "法语",
+            "explanation": "grimper"
+        }
+    ],
+    "general_pinyins": [
+        "pān"
+    ],
+    "general_zhuyins": [
+        "ㄆㄢ"
+    ],
+    "general_radical": {
+        "radical": "手",
+        "non_radical_sn": "15",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㐴",
+        "扳",
+        "𠔀",
+        "𠬜",
+        "𡴂",
+        "𢲔",
+        "𢸅",
+        "𧰨",
+        "𢌬",
+        "𣝴"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6500",
+            "1234343412341343112"
+        ],
+        "char_code_wubi": "sqqr|srrr",
+        "char_code_cangjie": "ddkq",
+        "char_code_zhengma": "fogm",
+        "char_code_sijiao": "44502"
+    },
+    "general_unicode": "基本区 U+6500",
+    "general_bs_code": "1234343412341343112"
+}

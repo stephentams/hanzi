@@ -1,0 +1,32 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a winding path"
+        }
+    ],
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "彳",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "逶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "38E6",
+            "33231234531"
+        ],
+        "char_code_wubi": "ttvg",
+        "char_code_cangjie": "hohdv",
+        "char_code_zhengma": "oimz",
+        "char_code_sijiao": "22244"
+    },
+    "general_unicode": "扩展A U+38E6",
+    "general_bs_code": "33231234531"
+}

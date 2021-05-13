@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "just, simply; to come, go to; to approach, near"
+        },
+        {
+            "language": "德语",
+            "explanation": "plötzlich, augenblicklich, nur, gerade (emphatisch)​, dann ,vollenden  (V)​,schon, bereits"
+        },
+        {
+            "language": "法语",
+            "explanation": "déjà,aussitôt,immédiatement,alors,même si,entreprendre,accomplir,s'approcher de,en fonction de"
+        }
+    ],
+    "general_pinyins": [
+        "jiù"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "尢",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡯶",
+        "𡰔",
+        "𡰗",
+        "𡰜"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5C31",
+            "412512341354"
+        ],
+        "char_code_wubi": "yidn|yidy",
+        "char_code_cangjie": "yfiku",
+        "char_code_zhengma": "sjkg",
+        "char_code_sijiao": "03912"
+    },
+    "general_unicode": "基本区 U+5C31",
+    "general_bs_code": "412512341354"
+}

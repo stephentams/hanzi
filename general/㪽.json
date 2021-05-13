@@ -1,0 +1,30 @@
+{
+    "general_pinyins": [
+        "suǒ",
+        "suò"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨㄛˇ",
+        "ㄙㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "斤",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3ABD",
+            "125113312"
+        ],
+        "char_code_wubi": "gjrj",
+        "char_code_cangjie": "mahl",
+        "char_code_zhengma": "akpd",
+        "char_code_sijiao": "10621"
+    },
+    "general_unicode": "扩展A U+3ABD",
+    "general_bs_code": "125113312"
+}

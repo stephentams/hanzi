@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "crawl; lie prostrate"
+        },
+        {
+            "language": "德语",
+            "explanation": "kriechen"
+        },
+        {
+            "language": "法语",
+            "explanation": "prosterné,visage contre terre"
+        }
+    ],
+    "general_pinyins": [
+        "pú"
+    ],
+    "general_zhuyins": [
+        "ㄆㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "勹",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "530D",
+            "351251124"
+        ],
+        "char_code_wubi": "qgey|qsi",
+        "char_code_cangjie": "pijb",
+        "char_code_zhengma": "ryfb",
+        "char_code_sijiao": "27220"
+    },
+    "general_unicode": "基本区 U+530D",
+    "general_bs_code": "351251124"
+}

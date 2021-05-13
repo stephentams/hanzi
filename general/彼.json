@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "that, there, those"
+        },
+        {
+            "language": "德语",
+            "explanation": "er, Gegenseite, die andere Seite  (S)​,jenes, jene, ein anderer, die anderen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "celui-là,l'autre"
+        }
+    ],
+    "general_pinyins": [
+        "bǐ"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "彳",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F7C",
+            "33253254"
+        ],
+        "char_code_wubi": "thcy|tby",
+        "char_code_cangjie": "hodhe",
+        "char_code_zhengma": "oixi",
+        "char_code_sijiao": "24247"
+    },
+    "general_unicode": "基本区 U+5F7C",
+    "general_bs_code": "33253254"
+}

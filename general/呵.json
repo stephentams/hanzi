@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "scold; laughing sound; yawn"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 Umschreibung der Silbe “A” in ausländischen Namen,Vorsilbe um Vertrautheit darzustellen\""
+        }
+    ],
+    "general_pinyins": [
+        "hē",
+        "a",
+        "kē"
+    ],
+    "general_zhuyins": [
+        "ㄏㄜ",
+        "˙ㄚ",
+        "ㄎㄜ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㰤",
+        "𧨂",
+        "哈",
+        "啊",
+        "訶",
+        "嗬",
+        "𠀀"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5475",
+            "25112512"
+        ],
+        "char_code_wubi": "kskg",
+        "char_code_cangjie": "rmnr",
+        "char_code_zhengma": "jaj",
+        "char_code_sijiao": "61020"
+    },
+    "general_unicode": "基本区 U+5475",
+    "general_bs_code": "25112512"
+}

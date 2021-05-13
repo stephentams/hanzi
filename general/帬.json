@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "the skirt of a lady's dress petticoat"
+        }
+    ],
+    "general_pinyins": [
+        "qún"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "巾",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "裙"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5E2C",
+            "5113251252"
+        ],
+        "char_code_wubi": "vtkh",
+        "char_code_cangjie": "srlb",
+        "char_code_zhengma": "xmal",
+        "char_code_sijiao": "17227"
+    },
+    "general_unicode": "基本区 U+5E2C",
+    "general_bs_code": "5113251252"
+}

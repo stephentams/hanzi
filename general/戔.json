@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "small, narrow, tiny, little"
+        },
+        {
+            "language": "德语",
+            "explanation": "klein, unbedeutend"
+        },
+        {
+            "language": "法语",
+            "explanation": "étroit,petit"
+        }
+    ],
+    "general_pinyins": [
+        "jiān"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "戈",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "戋"
+    ],
+    "general_ytz": [
+        "戋",
+        "殘"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6214",
+            "15341534"
+        ],
+        "char_code_wubi": "aar|aau",
+        "char_code_cangjie": "ii",
+        "char_code_zhengma": "hmhm",
+        "char_code_sijiao": "53503"
+    },
+    "general_unicode": "基本区 U+6214",
+    "general_bs_code": "15341534"
+}

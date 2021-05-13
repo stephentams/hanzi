@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "name of a plant, the roots are used for various purposes"
+        },
+        {
+            "language": "法语",
+            "explanation": "orchidée jacinthe,orchidée de jardin,Bletilla hyacinthina"
+        }
+    ],
+    "general_pinyins": [
+        "jī"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦳤"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "82A8",
+            "122354"
+        ],
+        "char_code_wubi": "aeyu|abyu",
+        "char_code_cangjie": "tnhe",
+        "char_code_zhengma": "eyms",
+        "char_code_sijiao": "44247"
+    },
+    "general_unicode": "基本区 U+82A8",
+    "general_bs_code": "122354"
+}

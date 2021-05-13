@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sound of something being smashed"
+        }
+    ],
+    "general_pinyins": [
+        "huò"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "刂",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5268",
+            "11121325122"
+        ],
+        "char_code_wubi": "dhdj",
+        "char_code_cangjie": "qrln",
+        "char_code_zhengma": "cigk",
+        "char_code_sijiao": "52600"
+    },
+    "general_unicode": "基本区 U+5268",
+    "general_bs_code": "11121325122"
+}

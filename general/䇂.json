@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(ancient form) fault; sin"
+        }
+    ],
+    "general_pinyins": [
+        "qiān"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "立",
+        "non_radical_sn": "1",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "愆"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "41C2",
+            "414312"
+        ],
+        "char_code_wubi": "uhk|uhj",
+        "char_code_cangjie": "ytl",
+        "char_code_zhengma": "sui",
+        "char_code_sijiao": "00201"
+    },
+    "general_unicode": "扩展A U+41C2",
+    "general_bs_code": "414312"
+}

@@ -1,0 +1,29 @@
+{
+    "general_pinyins": [
+        "hàn"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "14",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡡽",
+        "𡣊",
+        "𡣤"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "218D4",
+            "53134155425431121"
+        ],
+        "char_code_wubi": "vwyf",
+        "char_code_cangjie": "voiw",
+        "char_code_zhengma": "zmju"
+    },
+    "general_unicode": "扩展B U+218D4",
+    "general_bs_code": "53134155425431121"
+}

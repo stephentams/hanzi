@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "dòu"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "15",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2109B",
+            "251511225111251431"
+        ],
+        "char_code_wubi": "kugu",
+        "char_code_cangjie": "rant",
+        "char_code_zhengma": "jxju"
+    },
+    "general_unicode": "扩展B U+2109B",
+    "general_bs_code": "251511225111251431"
+}

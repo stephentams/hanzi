@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tally; lot; marker"
+        },
+        {
+            "language": "法语",
+            "explanation": "signer,étiquette,fiche de bambou"
+        }
+    ],
+    "general_pinyins": [
+        "qiān"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "17",
+        "total_sn": "23"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "揃",
+        "签",
+        "簽",
+        "籖"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7C64",
+            "31431434341211121111534"
+        ],
+        "char_code_wubi": "twwg",
+        "char_code_cangjie": "hoim",
+        "char_code_zhengma": "moka",
+        "char_code_sijiao": "88153"
+    },
+    "general_unicode": "基本区 U+7C64",
+    "general_bs_code": "31431434341211121111534"
+}

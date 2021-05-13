@@ -1,0 +1,27 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "憊",
+        "𤸶",
+        "𤻚"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2278E",
+            "4421221335112"
+        ],
+        "char_code_wubi": "nate",
+        "char_code_cangjie": "pthb",
+        "char_code_zhengma": "ueml"
+    },
+    "general_unicode": "扩展B U+2278E",
+    "general_bs_code": "4421221335112"
+}

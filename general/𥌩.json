@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "tè"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "15",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "25329",
+            "25111332132522114544"
+        ],
+        "char_code_wubi": "htfn",
+        "char_code_cangjie": "buhop",
+        "char_code_zhengma": "loaw"
+    },
+    "general_unicode": "扩展B U+25329",
+    "general_bs_code": "25111332132522114544"
+}

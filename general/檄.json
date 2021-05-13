@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "call arms; urgency"
+        },
+        {
+            "language": "德语",
+            "explanation": "anordnen, gliedern"
+        },
+        {
+            "language": "法语",
+            "explanation": "déclaration de guerre"
+        }
+    ],
+    "general_pinyins": [
+        "xí"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "13",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣜥"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6A84",
+            "12343251141533134"
+        ],
+        "char_code_wubi": "sryt",
+        "char_code_cangjie": "dhsk",
+        "char_code_zhengma": "fnsm",
+        "char_code_sijiao": "48940"
+    },
+    "general_unicode": "基本区 U+6A84",
+    "general_bs_code": "12343251141533134"
+}

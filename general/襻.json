@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a loop; a belt or band"
+        },
+        {
+            "language": "法语",
+            "explanation": "cordon,bride"
+        }
+    ],
+    "general_pinyins": [
+        "pàn"
+    ],
+    "general_zhuyins": [
+        "ㄆㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "衤",
+        "non_radical_sn": "19",
+        "total_sn": "24"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䙪",
+        "袢",
+        "鑻",
+        "𧘋",
+        "𧘒",
+        "𧘙",
+        "𧘬",
+        "𧘵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "897B",
+            "452341234343412341343112"
+        ],
+        "char_code_wubi": "pusr",
+        "char_code_cangjie": "lddq",
+        "char_code_zhengma": "wtgm",
+        "char_code_sijiao": "34252"
+    },
+    "general_unicode": "基本区 U+897B",
+    "general_bs_code": "452341234343412341343112"
+}

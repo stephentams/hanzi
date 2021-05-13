@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to kill one's superior"
+        },
+        {
+            "language": "法语",
+            "explanation": "tuer"
+        }
+    ],
+    "general_pinyins": [
+        "shì"
+    ],
+    "general_zhuyins": [
+        "ㄕˋ"
+    ],
+    "general_radical": {
+        "radical": "弋",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "弑"
+    ],
+    "general_ytz": [
+        "弑",
+        "殺",
+        "𢎍",
+        "𢦳",
+        "𢨓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F12",
+            "3412344112154"
+        ],
+        "char_code_wubi": "qsya|rsyy",
+        "char_code_cangjie": "kcipm",
+        "char_code_zhengma": "oshb",
+        "char_code_sijiao": "43940"
+    },
+    "general_unicode": "基本区 U+5F12",
+    "general_bs_code": "3412344112154"
+}

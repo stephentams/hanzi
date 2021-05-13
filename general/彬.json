@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cultivated, well-bred"
+        },
+        {
+            "language": "法语",
+            "explanation": "raffiné,distingué,élégant,ornemental"
+        }
+    ],
+    "general_pinyins": [
+        "bīn"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄣ"
+    ],
+    "general_radical": {
+        "radical": "彡",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "份",
+        "斌",
+        "𢒹"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F6C",
+            "12341234333"
+        ],
+        "char_code_wubi": "sset",
+        "char_code_cangjie": "ddhh",
+        "char_code_zhengma": "ffpd",
+        "char_code_sijiao": "42922"
+    },
+    "general_unicode": "基本区 U+5F6C",
+    "general_bs_code": "12341234333"
+}

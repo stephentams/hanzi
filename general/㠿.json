@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a kind of delicate and fine fabric, a napkin; kerchief or towel, a headwear"
+        }
+    ],
+    "general_pinyins": [
+        "cǐ"
+    ],
+    "general_zhuyins": [
+        "ㄘˇ"
+    ],
+    "general_radical": {
+        "radical": "巾",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢃌"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "383F",
+            "212135252"
+        ],
+        "char_code_wubi": "hxmh",
+        "char_code_cangjie": "yplb",
+        "char_code_zhengma": "iirl",
+        "char_code_sijiao": "22227"
+    },
+    "general_unicode": "扩展A U+383F",
+    "general_bs_code": "212135252"
+}

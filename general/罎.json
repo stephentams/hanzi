@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "an earthenware jar, a jug"
+        }
+    ],
+    "general_pinyins": [
+        "tán"
+    ],
+    "general_zhuyins": [
+        "ㄊㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "缶",
+        "non_radical_sn": "16",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "壜",
+        "坛",
+        "𦉡"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F4E",
+            "3112522511145244441154"
+        ],
+        "char_code_wubi": "rmjc|tfbc",
+        "char_code_cangjie": "ouami",
+        "char_code_zhengma": "mabz",
+        "char_code_sijiao": "86731"
+    },
+    "general_unicode": "基本区 U+7F4E",
+    "general_bs_code": "3112522511145244441154"
+}

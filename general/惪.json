@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ethics"
+        },
+        {
+            "language": "法语",
+            "explanation": "vertu,moralité,volonté,bonté,bienveillance,(abrév.)​ Allemagne"
+        }
+    ],
+    "general_pinyins": [
+        "dé"
+    ],
+    "general_zhuyins": [
+        "ㄉㄜˊ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "德"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "60EA",
+            "122511114544"
+        ],
+        "char_code_wubi": "fhnu",
+        "char_code_cangjie": "jmp",
+        "char_code_zhengma": "edlw",
+        "char_code_sijiao": "40331"
+    },
+    "general_unicode": "基本区 U+60EA",
+    "general_bs_code": "122511114544"
+}

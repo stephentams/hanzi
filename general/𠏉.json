@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "人",
+        "non_radical_sn": "13",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "斡"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "203C9",
+            "122511123411234"
+        ],
+        "char_code_wubi": "fjwt",
+        "char_code_cangjie": "jjomd",
+        "char_code_zhengma": "edom"
+    },
+    "general_unicode": "扩展B U+203C9",
+    "general_bs_code": "122511123411234"
+}

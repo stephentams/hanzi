@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "morning sun, sunrise"
+        }
+    ],
+    "general_pinyins": [
+        "tūn",
+        "zhùn"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄣ",
+        "ㄓㄨㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "暾"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "65FD",
+            "25111525"
+        ],
+        "char_code_wubi": "jgbn",
+        "char_code_cangjie": "apu",
+        "char_code_zhengma": "khzi",
+        "char_code_sijiao": "65017"
+    },
+    "general_unicode": "基本区 U+65FD",
+    "general_bs_code": "25111525"
+}

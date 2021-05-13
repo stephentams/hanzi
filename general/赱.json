@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "walk, go on foot; run; leave"
+        }
+    ],
+    "general_pinyins": [
+        "zǒu"
+    ],
+    "general_zhuyins": [
+        "ㄗㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "走"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D71",
+            "121434"
+        ],
+        "char_code_wubi": "fuyu",
+        "char_code_cangjie": "gco",
+        "char_code_zhengma": "bus",
+        "char_code_sijiao": "40308"
+    },
+    "general_unicode": "基本区 U+8D71",
+    "general_bs_code": "121434"
+}

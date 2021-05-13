@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "secretly, stealthily; steal; thief"
+        },
+        {
+            "language": "德语",
+            "explanation": "etw stehlen  (V)​,verstohlen, heimlich  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "secrètement,voler"
+        }
+    ],
+    "general_pinyins": [
+        "qiè"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "穴",
+        "non_radical_sn": "17",
+        "total_sn": "22"
+    },
+    "general_stc": [
+        "窃"
+    ],
+    "general_ytz": [
+        "窃",
+        "𢿑",
+        "𥧼",
+        "𥨛",
+        "𥨱",
+        "𥨷",
+        "𥩓",
+        "𢿝",
+        "𥨵"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7ACA",
+            "4453434312342125342554"
+        ],
+        "char_code_wubi": "pwtc",
+        "char_code_cangjie": "jchdb",
+        "char_code_zhengma": "wolz",
+        "char_code_sijiao": "30927"
+    },
+    "general_unicode": "基本区 U+7ACA",
+    "general_bs_code": "4453434312342125342554"
+}

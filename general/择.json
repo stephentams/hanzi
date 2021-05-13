@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "select, choose, pick out"
+        },
+        {
+            "language": "德语",
+            "explanation": "auswählen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "choisir,sélectionner,choisir,sélectionner"
+        }
+    ],
+    "general_pinyins": [
+        "zé",
+        "zhái"
+    ],
+    "general_zhuyins": [
+        "ㄗㄜˊ",
+        "ㄓㄞˊ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "擇"
+    ],
+    "general_ytz": [
+        "擇",
+        "択"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "62E9",
+            "12154112"
+        ],
+        "char_code_wubi": "rcfh|rcgh",
+        "char_code_cangjie": "qeq",
+        "char_code_zhengma": "dxbi",
+        "char_code_sijiao": "57054"
+    },
+    "general_unicode": "基本区 U+62E9",
+    "general_bs_code": "12154112"
+}

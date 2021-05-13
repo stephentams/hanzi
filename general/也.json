@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "also; classical final particle of strong affirmation or identity"
+        },
+        {
+            "language": "德语",
+            "explanation": "auch  (Adv)"
+        },
+        {
+            "language": "法语",
+            "explanation": "également,aussi,à la fois,même,voire"
+        }
+    ],
+    "general_pinyins": [
+        "yě"
+    ],
+    "general_zhuyins": [
+        "ㄧㄝˇ"
+    ],
+    "general_radical": {
+        "radical": "乙",
+        "non_radical_sn": "2",
+        "total_sn": "3"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠃟",
+        "𦫴",
+        "𦬀",
+        "匜",
+        "迆",
+        "𠔄"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4E5F",
+            "525"
+        ],
+        "char_code_wubi": "bnhn",
+        "char_code_cangjie": "pd",
+        "char_code_zhengma": "yi",
+        "char_code_sijiao": "44712"
+    },
+    "general_unicode": "基本区 U+4E5F",
+    "general_bs_code": "525"
+}

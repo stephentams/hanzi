@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tiny stream; swirl around; eddy"
+        },
+        {
+            "language": "德语",
+            "explanation": "Strudel  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "remous,petite rivière"
+        }
+    ],
+    "general_pinyins": [
+        "yíng"
+    ],
+    "general_zhuyins": [
+        "ㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "16",
+        "total_sn": "19"
+    },
+    "general_stc": [
+        "潆"
+    ],
+    "general_ytz": [
+        "瀯"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7020",
+            "4414334433445554234"
+        ],
+        "char_code_wubi": "iooi",
+        "char_code_cangjie": "efff",
+        "char_code_zhengma": "vuwz",
+        "char_code_sijiao": "39193"
+    },
+    "general_unicode": "基本区 U+7020",
+    "general_bs_code": "4414334433445554234"
+}

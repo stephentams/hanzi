@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(standard, ancient form of U+7E7C 繼) to continue; to carry on, to follow; to inherit; to succeed to"
+        }
+    ],
+    "general_pinyins": [
+        "jì"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "幺",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "繼"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "386D",
+            "55455415545545"
+        ],
+        "char_code_wubi": "xxgn",
+        "char_code_cangjie": "vvii",
+        "char_code_zhengma": "zzzz",
+        "char_code_sijiao": "22713"
+    },
+    "general_unicode": "扩展A U+386D",
+    "general_bs_code": "55455415545545"
+}

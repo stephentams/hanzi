@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "气",
+        "non_radical_sn": "2",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "氣"
+    ],
+    "general_structure": "右上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "23C56",
+            "311541"
+        ],
+        "char_code_wubi": "rnuf",
+        "char_code_cangjie": "onim",
+        "char_code_zhengma": "mytd"
+    },
+    "general_unicode": "扩展B U+23C56",
+    "general_bs_code": "311541"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "temple, shrine, monastary"
+        },
+        {
+            "language": "法语",
+            "explanation": "stopper,arrêter,freiner,pagode"
+        }
+    ],
+    "general_pinyins": [
+        "chà",
+        "shā"
+    ],
+    "general_zhuyins": [
+        "ㄔㄚˋ",
+        "ㄕㄚ"
+    ],
+    "general_radical": {
+        "radical": "刂",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "剎"
+    ],
+    "general_ytz": [
+        "剎",
+        "𠛴",
+        "𠜽"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5239",
+            "34123422"
+        ],
+        "char_code_wubi": "qsjh|rsjh",
+        "char_code_cangjie": "kdln",
+        "char_code_zhengma": "osfk",
+        "char_code_sijiao": "42900"
+    },
+    "general_unicode": "基本区 U+5239",
+    "general_bs_code": "34123422"
+}

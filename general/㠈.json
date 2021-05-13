@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "name of a place"
+        }
+    ],
+    "general_pinyins": [
+        "rùn"
+    ],
+    "general_zhuyins": [
+        "ㄖㄨㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3808",
+            "252511225111121"
+        ],
+        "char_code_wubi": "mugg",
+        "char_code_cangjie": "uang",
+        "char_code_zhengma": "llxc",
+        "char_code_sijiao": "27720"
+    },
+    "general_unicode": "扩展A U+3808",
+    "general_bs_code": "252511225111121"
+}

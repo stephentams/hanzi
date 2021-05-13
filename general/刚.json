@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hard, tough, rigid, strong"
+        },
+        {
+            "language": "德语",
+            "explanation": "hart, stark  (Adj)​,beständig, eben, gerade, kaum  (Adv)"
+        },
+        {
+            "language": "法语",
+            "explanation": "à l'instant,tout à l'heure,à peine,fort,ferme,dur"
+        }
+    ],
+    "general_pinyins": [
+        "gāng"
+    ],
+    "general_zhuyins": [
+        "ㄍㄤ"
+    ],
+    "general_radical": {
+        "radical": "刂",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "剛"
+    ],
+    "general_ytz": [
+        "剛",
+        "㓻",
+        "𠇙",
+        "𠇝",
+        "𠜛",
+        "𠝴",
+        "𡬺",
+        "𣗵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "521A",
+            "253422"
+        ],
+        "char_code_wubi": "mqjh|mrjh",
+        "char_code_cangjie": "bkln",
+        "char_code_zhengma": "ldkd",
+        "char_code_sijiao": "72200"
+    },
+    "general_unicode": "基本区 U+521A",
+    "general_bs_code": "253422"
+}

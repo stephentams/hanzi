@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "seek, search, look for; ancient"
+        },
+        {
+            "language": "德语",
+            "explanation": "um eine Kleinigkeit bitten ,ohne Unterbrechung  (S)​,durchsuchen, forschen  (V)​,erneuern  (V)​,ersuchen  (V)​,nachsehen, suchen  (V)​,positionieren, suchen  (V)​,untersuchen  (V)​,endlos  (Adj)​,gebräuchlich  (Adj)​,plötzlich  (Adj)​,gewöhnlich  (Adv)​,Xun  (Eig, Fam)​,acht Fuß = 1 尋 ,im Begriff zu ... ,meistens ,wie bisher"
+        },
+        {
+            "language": "法语",
+            "explanation": "chercher,rechercher"
+        }
+    ],
+    "general_pinyins": [
+        "xún"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "寸",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "尋"
+    ],
+    "general_ytz": [
+        "尋",
+        "㝷",
+        "𡬰",
+        "𡬶",
+        "𡬻",
+        "𢒫"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5BFB",
+            "511124"
+        ],
+        "char_code_wubi": "vfu",
+        "char_code_cangjie": "smdi",
+        "char_code_zhengma": "xbds",
+        "char_code_sijiao": "17347"
+    },
+    "general_unicode": "基本区 U+5BFB",
+    "general_bs_code": "511124"
+}

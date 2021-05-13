@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "blessings, happiness"
+        },
+        {
+            "language": "德语",
+            "explanation": "Segenswünsche  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "réng"
+    ],
+    "general_zhuyins": [
+        "ㄖㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "礻",
+        "non_radical_sn": "2",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "793D",
+            "452453"
+        ],
+        "char_code_wubi": "pyen|pybt",
+        "char_code_cangjie": "ifnhs",
+        "char_code_zhengma": "wsym",
+        "char_code_sijiao": "37227"
+    },
+    "general_unicode": "基本区 U+793D",
+    "general_bs_code": "452453"
+}

@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "carved or patterned window sills"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gitter, Verband  (S, Math)"
+        }
+    ],
+    "general_pinyins": [
+        "líng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "17",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㯪",
+        "欞",
+        "𢸲"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6AFA",
+            "123414524444251251251"
+        ],
+        "char_code_wubi": "sfkk",
+        "char_code_cangjie": "dmbr",
+        "char_code_zhengma": "ffjj",
+        "char_code_sijiao": "41961"
+    },
+    "general_unicode": "基本区 U+6AFA",
+    "general_bs_code": "123414524444251251251"
+}

@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "column, row or file of troops"
+        },
+        {
+            "language": "德语",
+            "explanation": "Zählwort für eine kurze Zeit (Weile)​ oder Dinge, die eine kurze Zeit andauern (Zähl)​,Front (S, Mil)​,Schlachtordnung (S, Mil)"
+        },
+        {
+            "language": "法语",
+            "explanation": "coup,accès,formation de combat,front,quelque temps"
+        }
+    ],
+    "general_pinyins": [
+        "zhèn"
+    ],
+    "general_zhuyins": [
+        "ㄓㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "陣"
+    ],
+    "general_ytz": [
+        "陣",
+        "塦",
+        "𣃵",
+        "𣃻"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9635",
+            "521512"
+        ],
+        "char_code_wubi": "blh",
+        "char_code_cangjie": "nlkq",
+        "char_code_zhengma": "yhe",
+        "char_code_sijiao": "74250"
+    },
+    "general_unicode": "基本区 U+9635",
+    "general_bs_code": "521512"
+}

@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "scratch; disturb, bother; submit"
+        },
+        {
+            "language": "德语",
+            "explanation": "kratzen  (V)​,löschen, kratzen"
+        },
+        {
+            "language": "法语",
+            "explanation": "gratter,déranger,fléchir"
+        }
+    ],
+    "general_pinyins": [
+        "náo"
+    ],
+    "general_zhuyins": [
+        "ㄋㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "挠"
+    ],
+    "general_ytz": [
+        "挠",
+        "摎",
+        "𢪼",
+        "繞"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6493",
+            "121121121121135"
+        ],
+        "char_code_wubi": "rffq",
+        "char_code_cangjie": "qggu",
+        "char_code_zhengma": "dbbg",
+        "char_code_sijiao": "54012"
+    },
+    "general_unicode": "基本区 U+6493",
+    "general_bs_code": "121121121121135"
+}

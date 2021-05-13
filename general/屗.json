@@ -1,0 +1,28 @@
+{
+    "general_pinyins": [
+        "wěi"
+    ],
+    "general_zhuyins": [
+        "ㄨㄟˇ"
+    ],
+    "general_radical": {
+        "radical": "尸",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左下包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5C57",
+            "5133115124"
+        ],
+        "char_code_wubi": "ntff|nefi",
+        "char_code_cangjie": "sudi",
+        "char_code_zhengma": "xmmd",
+        "char_code_sijiao": "74210"
+    },
+    "general_unicode": "基本区 U+5C57",
+    "general_bs_code": "5133115124"
+}

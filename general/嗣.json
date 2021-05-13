@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to connect, inherit; descendants, heirs"
+        },
+        {
+            "language": "法语",
+            "explanation": "succéder à,hériter de,descendant,postérité"
+        }
+    ],
+    "general_pinyins": [
+        "sì"
+    ],
+    "general_zhuyins": [
+        "ㄙˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "司",
+        "孠",
+        "𢩚",
+        "𠻸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "55E3",
+            "2512512251251"
+        ],
+        "char_code_wubi": "kmak",
+        "char_code_cangjie": "rbsmr",
+        "char_code_zhengma": "jlaj",
+        "char_code_sijiao": "67220"
+    },
+    "general_unicode": "基本区 U+55E3",
+    "general_bs_code": "2512512251251"
+}

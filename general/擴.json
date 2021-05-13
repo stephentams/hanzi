@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "expand, enlarge, stretch"
+        },
+        {
+            "language": "德语",
+            "explanation": "ausdehnen, erweitern"
+        },
+        {
+            "language": "法语",
+            "explanation": "élargir,amplifier"
+        }
+    ],
+    "general_pinyins": [
+        "kuò"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "14",
+        "total_sn": "17"
+    },
+    "general_stc": [
+        "扩"
+    ],
+    "general_ytz": [
+        "㨯",
+        "彉",
+        "彍",
+        "扩",
+        "拡",
+        "挄",
+        "撗",
+        "攩"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "64F4",
+            "12141312212512134"
+        ],
+        "char_code_wubi": "ryaw|roaw",
+        "char_code_cangjie": "qitc",
+        "char_code_zhengma": "dtg",
+        "char_code_sijiao": "50086"
+    },
+    "general_unicode": "基本区 U+64F4",
+    "general_bs_code": "12141312212512134"
+}

@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as U+5237 刷) a brush, to brush; to clean; to scrub, to print, expecially from blocks"
+        }
+    ],
+    "general_pinyins": [
+        "shuā"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨㄚ"
+    ],
+    "general_radical": {
+        "radical": "又",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "刷"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "355E",
+            "51325254"
+        ],
+        "char_code_wubi": "nmhc",
+        "char_code_cangjie": "sbe",
+        "char_code_zhengma": "xmlx",
+        "char_code_sijiao": "77240"
+    },
+    "general_unicode": "扩展A U+355E",
+    "general_bs_code": "51325254"
+}

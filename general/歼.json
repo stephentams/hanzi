@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "annihilate, wipe out, kill off"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufheben, auslöschen"
+        },
+        {
+            "language": "法语",
+            "explanation": "annihiler"
+        }
+    ],
+    "general_pinyins": [
+        "jiān"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "歹",
+        "non_radical_sn": "3",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "殲"
+    ],
+    "general_ytz": [
+        "殲",
+        "殱",
+        "𣨦",
+        "𤒯"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6B7C",
+            "1354312"
+        ],
+        "char_code_wubi": "gqtf",
+        "char_code_cangjie": "mnhj",
+        "char_code_zhengma": "arme",
+        "char_code_sijiao": "12240"
+    },
+    "general_unicode": "基本区 U+6B7C",
+    "general_bs_code": "1354312"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "be jealous of, be envious"
+        },
+        {
+            "language": "德语",
+            "explanation": "neidisch"
+        },
+        {
+            "language": "法语",
+            "explanation": "être jaloux,être envieux"
+        }
+    ],
+    "general_pinyins": [
+        "mào"
+    ],
+    "general_zhuyins": [
+        "ㄇㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "冒"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5AA2",
+            "531251125111"
+        ],
+        "char_code_wubi": "vjhg",
+        "char_code_cangjie": "vabu",
+        "char_code_zhengma": "zmkl",
+        "char_code_sijiao": "46460"
+    },
+    "general_unicode": "基本区 U+5AA2",
+    "general_bs_code": "531251125111"
+}

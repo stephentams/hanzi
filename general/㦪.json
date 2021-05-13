@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "complaint; grudge; unjust"
+        }
+    ],
+    "general_pinyins": [
+        "xiè"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "18",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢥥"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "39AA",
+            "44241112514334433454"
+        ],
+        "char_code_wubi": "noyc|nyoc",
+        "char_code_cangjie": "pffe",
+        "char_code_zhengma": "uuux",
+        "char_code_sijiao": "99047"
+    },
+    "general_unicode": "扩展A U+39AA",
+    "general_bs_code": "44241112514334433454"
+}

@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "calamity, disaster, catastrophe"
+        },
+        {
+            "language": "德语",
+            "explanation": "Unglück  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "zāi"
+    ],
+    "general_zhuyins": [
+        "ㄗㄞ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "3",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "灾"
+    ],
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "707D",
+            "5554334"
+        ],
+        "char_code_wubi": "vou",
+        "char_code_cangjie": "vvf",
+        "char_code_zhengma": "zduo",
+        "char_code_sijiao": "22809"
+    },
+    "general_unicode": "基本区 U+707D",
+    "general_bs_code": "5554334"
+}

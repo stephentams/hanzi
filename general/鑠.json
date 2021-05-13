@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "melt, smelt; shine"
+        },
+        {
+            "language": "德语",
+            "explanation": "schmelzen, verschmelzen, einschmelzen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "fondre"
+        }
+    ],
+    "general_pinyins": [
+        "shuò"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "釒",
+        "non_radical_sn": "15",
+        "total_sn": "23"
+    },
+    "general_stc": [
+        "铄"
+    ],
+    "general_ytz": [
+        "爍",
+        "燿",
+        "铄",
+        "𡤤",
+        "𨰤",
+        "𩟧",
+        "鬲"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9460",
+            "34112431325115545541234"
+        ],
+        "char_code_wubi": "qxrs|qrxs",
+        "char_code_cangjie": "cvid",
+        "char_code_zhengma": "pzzf",
+        "char_code_sijiao": "82194"
+    },
+    "general_unicode": "基本区 U+9460",
+    "general_bs_code": "34112431325115545541234"
+}

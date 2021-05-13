@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "revolve, rotate, turn"
+        },
+        {
+            "language": "德语",
+            "explanation": "drehen, rotieren ,Wo  (Eig, Fam)"
+        }
+    ],
+    "general_pinyins": [
+        "wò",
+        "guǎn"
+    ],
+    "general_zhuyins": [
+        "ㄨㄛˋ",
+        "ㄍㄨㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "斗",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠏉",
+        "𨋼",
+        "𨌝",
+        "𠦷",
+        "龫"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "65A1",
+            "12251112344412"
+        ],
+        "char_code_wubi": "fjwf",
+        "char_code_cangjie": "jjoyj",
+        "char_code_zhengma": "edte",
+        "char_code_sijiao": "48440"
+    },
+    "general_unicode": "基本区 U+65A1",
+    "general_bs_code": "12251112344412"
+}

@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "writing brush, pencil; thereupon"
+        },
+        {
+            "language": "德语",
+            "explanation": "schreiben,  Feder (Variante: 肀)​ ,Yu  (Eig, Fam)​,Radikal Nr. 129 = Schreibpinsel"
+        },
+        {
+            "language": "法语",
+            "explanation": "pinceau,129e radical,instrument d'écriture,pinceau,stylet,vite,particule explétive"
+        }
+    ],
+    "general_pinyins": [
+        "yù"
+    ],
+    "general_zhuyins": [
+        "ㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "聿",
+        "non_radical_sn": "0",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "肀",
+        "𦘒"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "807F",
+            "511112"
+        ],
+        "char_code_wubi": "vfhk|vgk",
+        "char_code_cangjie": "lq",
+        "char_code_zhengma": "xbbd",
+        "char_code_sijiao": "50007"
+    },
+    "general_unicode": "基本区 U+807F",
+    "general_bs_code": "511112"
+}

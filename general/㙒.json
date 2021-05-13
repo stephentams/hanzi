@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 野) wild; uncultivated; a wilderness, rustic, savage"
+        }
+    ],
+    "general_pinyins": [
+        "yě"
+    ],
+    "general_zhuyins": [
+        "ㄧㄝˇ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "野"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3652",
+            "251215452121"
+        ],
+        "char_code_wubi": "lcbf|lcnf",
+        "char_code_cangjie": "wng",
+        "char_code_zhengma": "kiib",
+        "char_code_sijiao": "67104"
+    },
+    "general_unicode": "扩展A U+3652",
+    "general_bs_code": "251215452121"
+}

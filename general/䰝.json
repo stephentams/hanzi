@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a large earthen pot for cooking, a large iron cauldron used to cook in old times"
+        }
+    ],
+    "general_pinyins": [
+        "zèng"
+    ],
+    "general_zhuyins": [
+        "ㄗㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "鬲",
+        "non_radical_sn": "12",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "甑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4C1D",
+            "1251254312432524312511"
+        ],
+        "char_code_wubi": "gkmj",
+        "char_code_cangjie": "mbcwa",
+        "char_code_zhengma": "ajlk",
+        "char_code_sijiao": "18266"
+    },
+    "general_unicode": "扩展A U+4C1D",
+    "general_bs_code": "1251254312432524312511"
+}

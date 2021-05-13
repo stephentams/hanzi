@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "scrape off, pare, trim"
+        },
+        {
+            "language": "德语",
+            "explanation": "kratzen, schaben ,herabsetzen, ermäßigen  (V)​,schälen mit Messer  (V)​,schneiden, kürzen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "racler,effacer,graver,réduire,éplucher,raclage,entamer,peler"
+        }
+    ],
+    "general_pinyins": [
+        "xiāo",
+        "xuē"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄠ",
+        "ㄒㄩㄝ"
+    ],
+    "general_radical": {
+        "radical": "刂",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨨺",
+        "鞘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "524A",
+            "243251122"
+        ],
+        "char_code_wubi": "iejh",
+        "char_code_cangjie": "fbln",
+        "char_code_zhengma": "koqk",
+        "char_code_sijiao": "92200"
+    },
+    "general_unicode": "基本区 U+524A",
+    "general_bs_code": "243251122"
+}

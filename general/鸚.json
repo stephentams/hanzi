@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "parrot"
+        },
+        {
+            "language": "德语",
+            "explanation": "Papagei  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "perroquet"
+        }
+    ],
+    "general_pinyins": [
+        "yīng"
+    ],
+    "general_zhuyins": [
+        "ㄧㄥ"
+    ],
+    "general_radical": {
+        "radical": "鳥",
+        "non_radical_sn": "17",
+        "total_sn": "28"
+    },
+    "general_stc": [
+        "鹦"
+    ],
+    "general_ytz": [
+        "䨉",
+        "鹦",
+        "𪈤"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E1A",
+            "2511134251113453132511154444"
+        ],
+        "char_code_wubi": "mmvo",
+        "char_code_cangjie": "bvhaf",
+        "char_code_zhengma": "lozr",
+        "char_code_sijiao": "67427"
+    },
+    "general_unicode": "基本区 U+9E1A",
+    "general_bs_code": "2511134251113453132511154444"
+}

@@ -1,0 +1,28 @@
+{
+    "general_pinyins": [
+        "ǒu"
+    ],
+    "general_zhuyins": [
+        "ㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5418",
+            "2513112"
+        ],
+        "char_code_wubi": "ktfh",
+        "char_code_cangjie": "roj",
+        "char_code_zhengma": "jmed",
+        "char_code_sijiao": "68040"
+    },
+    "general_unicode": "基本区 U+5418",
+    "general_bs_code": "2513112"
+}

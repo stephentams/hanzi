@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hail, sleet"
+        },
+        {
+            "language": "德语",
+            "explanation": "graupeln, Schneeregen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "neige roulée"
+        }
+    ],
+    "general_pinyins": [
+        "xiàn"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "雨",
+        "non_radical_sn": "12",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䨷",
+        "䨘",
+        "𩃂",
+        "𩃝",
+        "𩄧",
+        "𩅤",
+        "𩆥"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9730",
+            "14524444122125113134"
+        ],
+        "char_code_wubi": "faet",
+        "char_code_cangjie": "mbtbk",
+        "char_code_zhengma": "fvqm",
+        "char_code_sijiao": "10248"
+    },
+    "general_unicode": "基本区 U+9730",
+    "general_bs_code": "14524444122125113134"
+}

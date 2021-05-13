@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "laboring hard, occupied; pursue"
+        },
+        {
+            "language": "德语",
+            "explanation": "entgegenwirkend, feindlich"
+        },
+        {
+            "language": "法语",
+            "explanation": "antagoniste,travaillant dur,débordé"
+        }
+    ],
+    "general_pinyins": [
+        "jié",
+        "jiá"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄝˊ",
+        "ㄐㄧㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "戛",
+        "𢮌",
+        "揭"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "62EE",
+            "121121251"
+        ],
+        "char_code_wubi": "rfkg",
+        "char_code_cangjie": "qgr",
+        "char_code_zhengma": "dbj",
+        "char_code_sijiao": "54061"
+    },
+    "general_unicode": "基本区 U+62EE",
+    "general_bs_code": "121121251"
+}

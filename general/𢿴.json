@@ -1,0 +1,26 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "攴",
+        "non_radical_sn": "12",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㪧",
+        "㩉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "22FF4",
+            "3412515415413134"
+        ],
+        "char_code_wubi": "wgkt",
+        "char_code_cangjie": "oyok",
+        "char_code_zhengma": "odym"
+    },
+    "general_unicode": "扩展B U+22FF4",
+    "general_bs_code": "3412515415413134"
+}

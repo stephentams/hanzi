@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dappled"
+        },
+        {
+            "language": "法语",
+            "explanation": "(cheval)​"
+        }
+    ],
+    "general_pinyins": [
+        "tuó"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "馬",
+        "non_radical_sn": "12",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "騨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A52",
+            "1211254444251251251112"
+        ],
+        "char_code_wubi": "ckkf|cokf",
+        "char_code_cangjie": "sfrrj",
+        "char_code_zhengma": "cuke",
+        "char_code_sijiao": "76356"
+    },
+    "general_unicode": "基本区 U+9A52",
+    "general_bs_code": "1211254444251251251112"
+}

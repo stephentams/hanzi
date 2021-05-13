@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "key; woodwind instrument"
+        },
+        {
+            "language": "德语",
+            "explanation": "Yue (chin. Blasinstrument)​  (S, Mus)​,eingeben, tippen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "flûte,clé"
+        }
+    ],
+    "general_pinyins": [
+        "yuè"
+    ],
+    "general_zhuyins": [
+        "ㄩㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "17",
+        "total_sn": "23"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨷲",
+        "鑰"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7C65",
+            "31431434125125125125122"
+        ],
+        "char_code_wubi": "twga",
+        "char_code_cangjie": "homb",
+        "char_code_zhengma": "mojl",
+        "char_code_sijiao": "88227"
+    },
+    "general_unicode": "基本区 U+7C65",
+    "general_bs_code": "31431434125125125125122"
+}

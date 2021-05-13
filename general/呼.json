@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "breathe sigh, exhale; call, shout"
+        },
+        {
+            "language": "德语",
+            "explanation": "ausatmen, rufen  (V)​,Hu  (Eig, Fam)"
+        }
+    ],
+    "general_pinyins": [
+        "hū"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "唿",
+        "嘑",
+        "虖",
+        "謼",
+        "𠰗",
+        "𡀛",
+        "𢧶",
+        "𧦝",
+        "詨",
+        "𠻢",
+        "𣣍",
+        "𣣕"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "547C",
+            "25134312"
+        ],
+        "char_code_wubi": "ktuh|ktuf",
+        "char_code_cangjie": "rhfd",
+        "char_code_zhengma": "jmua",
+        "char_code_sijiao": "62049"
+    },
+    "general_unicode": "基本区 U+547C",
+    "general_bs_code": "25134312"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "spread, diffuse; apply, paint"
+        },
+        {
+            "language": "法语",
+            "explanation": "appliquer,enduire,être suffisant"
+        }
+    ],
+    "general_pinyins": [
+        "fū"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨ"
+    ],
+    "general_radical": {
+        "radical": "攵",
+        "non_radical_sn": "11",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "尃",
+        "旉",
+        "𢾭",
+        "𢾾",
+        "㩤"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6577",
+            "125112441533134"
+        ],
+        "char_code_wubi": "geht|syty",
+        "char_code_cangjie": "isok",
+        "char_code_zhengma": "fbsm",
+        "char_code_sijiao": "58240"
+    },
+    "general_unicode": "基本区 U+6577",
+    "general_bs_code": "125112441533134"
+}

@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "an interrogative particle"
+        }
+    ],
+    "general_pinyins": [
+        "mó",
+        "mā",
+        "me"
+    ],
+    "general_zhuyins": [
+        "ㄇㄛˊ",
+        "ㄇㄚ",
+        "˙ㄇㄜ"
+    ],
+    "general_radical": {
+        "radical": "广",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5E85",
+            "413354"
+        ],
+        "char_code_wubi": "ytci|otci",
+        "char_code_cangjie": "ihi",
+        "char_code_zhengma": "tgmz",
+        "char_code_sijiao": "00232"
+    },
+    "general_unicode": "基本区 U+5E85",
+    "general_bs_code": "413354"
+}

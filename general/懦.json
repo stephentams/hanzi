@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "weak, timid, cowardly"
+        },
+        {
+            "language": "德语",
+            "explanation": "befangen, furchtsam"
+        },
+        {
+            "language": "法语",
+            "explanation": "faible,imbécile,timide"
+        }
+    ],
+    "general_pinyins": [
+        "nuò"
+    ],
+    "general_zhuyins": [
+        "ㄋㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "14",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㐡",
+        "愞",
+        "懧",
+        "耎",
+        "𢡼",
+        "𠏢",
+        "𢘎",
+        "𢘧"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "61E6",
+            "44214524444132522"
+        ],
+        "char_code_wubi": "nfdj",
+        "char_code_cangjie": "pmbb",
+        "char_code_zhengma": "ufgl",
+        "char_code_sijiao": "91027"
+    },
+    "general_unicode": "基本区 U+61E6",
+    "general_bs_code": "44214524444132522"
+}

@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to smell the fragrants"
+        }
+    ],
+    "general_pinyins": [
+        "xù",
+        "xuè",
+        "yù"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩˋ",
+        "ㄒㄩㄝˋ",
+        "ㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "言",
+        "non_radical_sn": "15",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4721",
+            "4111251132511454544354"
+        ],
+        "char_code_wubi": "ydet",
+        "char_code_cangjie": "yrmbe",
+        "char_code_zhengma": "sawr",
+        "char_code_sijiao": "01647"
+    },
+    "general_unicode": "扩展A U+4721",
+    "general_bs_code": "4111251132511454544354"
+}

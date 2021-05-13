@@ -1,0 +1,56 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bad, spoil(ed), ruin, destroy"
+        },
+        {
+            "language": "德语",
+            "explanation": "schlecht, kaputt, zerbrochen, zerbrechen  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "mauvais,méchant,cassé,très,terriblement,fort,s'abîmer,se détériorer,se détruire,mauvaise intention,mauvais tour"
+        }
+    ],
+    "general_pinyins": [
+        "huài"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "16",
+        "total_sn": "19"
+    },
+    "general_stc": [
+        "坏"
+    ],
+    "general_ytz": [
+        "坏",
+        "坯",
+        "壊",
+        "𡎯",
+        "𢸬",
+        "𢽫",
+        "𣀤",
+        "𣩹",
+        "𣩻",
+        "𣀩",
+        "𦦶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "58DE",
+            "1214125221241343534"
+        ],
+        "char_code_wubi": "fyle",
+        "char_code_cangjie": "gywv",
+        "char_code_zhengma": "bskr",
+        "char_code_sijiao": "40132"
+    },
+    "general_unicode": "基本区 U+58DE",
+    "general_bs_code": "1214125221241343534"
+}

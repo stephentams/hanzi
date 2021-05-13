@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a black ape with long tail, (same as 貁) a kind of animal (of weasel tribe)"
+        }
+    ],
+    "general_pinyins": [
+        "yòu",
+        "yù"
+    ],
+    "general_zhuyins": [
+        "ㄧㄡˋ",
+        "ㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "15",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "狖"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3EA0",
+            "353445343354433544"
+        ],
+        "char_code_wubi": "qtpy",
+        "char_code_cangjie": "khjco",
+        "char_code_zhengma": "qmpp",
+        "char_code_sijiao": "43232"
+    },
+    "general_unicode": "扩展A U+3EA0",
+    "general_bs_code": "353445343354433544"
+}

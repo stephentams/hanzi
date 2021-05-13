@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "granary; stockpile"
+        },
+        {
+            "language": "德语",
+            "explanation": "Getreide, Getreidesilo; Reisspeicher"
+        },
+        {
+            "language": "法语",
+            "explanation": "grenier public"
+        }
+    ],
+    "general_pinyins": [
+        "lǐn"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "广",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "廩"
+    ],
+    "general_ytz": [
+        "廩",
+        "㐭",
+        "𢈺",
+        "𢊣"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5EEA",
+            "4134125251111234"
+        ],
+        "char_code_wubi": "yyli|oyli",
+        "char_code_cangjie": "iywf",
+        "char_code_zhengma": "tgjb",
+        "char_code_sijiao": "00291"
+    },
+    "general_unicode": "基本区 U+5EEA",
+    "general_bs_code": "4134125251111234"
+}

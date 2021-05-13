@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sound of laughter"
+        },
+        {
+            "language": "德语",
+            "explanation": "hauchen, ausatmen  (V)​,ha,ha  (Int)​,Ha  (Eig, Fam)​,aha!"
+        },
+        {
+            "language": "法语",
+            "explanation": "souffler,ha! ha!,ah! ah!,marbre blanc"
+        }
+    ],
+    "general_pinyins": [
+        "hā",
+        "hǎ",
+        "hà"
+    ],
+    "general_zhuyins": [
+        "ㄏㄚ",
+        "ㄏㄚˇ",
+        "ㄏㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "呷",
+        "呵",
+        "𨉣",
+        "喝",
+        "歃",
+        "𪘁"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "54C8",
+            "251341251"
+        ],
+        "char_code_wubi": "kwgk",
+        "char_code_cangjie": "romr",
+        "char_code_zhengma": "joaj",
+        "char_code_sijiao": "68061"
+    },
+    "general_unicode": "基本区 U+54C8",
+    "general_bs_code": "251341251"
+}

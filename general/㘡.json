@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 柙) a pen for wild beasts; a cage for prisoners"
+        }
+    ],
+    "general_pinyins": [
+        "xiá"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "囗",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "柙"
+    ],
+    "general_structure": "全包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3621",
+            "25251121"
+        ],
+        "char_code_wubi": "llk",
+        "char_code_cangjie": "wwl",
+        "char_code_zhengma": "jdki",
+        "char_code_sijiao": "60506"
+    },
+    "general_unicode": "扩展A U+3621",
+    "general_bs_code": "25251121"
+}

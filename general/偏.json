@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "inclined one side; slanting"
+        },
+        {
+            "language": "德语",
+            "explanation": "sich zu einer Seite neigen  (V)​,geneigt, schräg  (Adj)​,parteiisch, voreingenommen, tendenziös  (Adj)​,Pian  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "incliner,incliné,oblique,justement"
+        }
+    ],
+    "general_pinyins": [
+        "piān"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "徧"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "504F",
+            "32451325122"
+        ],
+        "char_code_wubi": "wyna",
+        "char_code_cangjie": "ohsb",
+        "char_code_zhengma": "nwld",
+        "char_code_sijiao": "23227"
+    },
+    "general_unicode": "基本区 U+504F",
+    "general_bs_code": "32451325122"
+}

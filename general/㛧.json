@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "name of a county in today's Shanxi province"
+        }
+    ],
+    "general_pinyins": [
+        "mǎn"
+    ],
+    "general_zhuyins": [
+        "ㄇㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "36E7",
+            "53125213251"
+        ],
+        "char_code_wubi": "vmdg",
+        "char_code_cangjie": "vumr",
+        "char_code_zhengma": "zmlg",
+        "char_code_sijiao": "42462"
+    },
+    "general_unicode": "扩展A U+36E7",
+    "general_bs_code": "53125213251"
+}

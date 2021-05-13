@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "grain basket, bin for grain"
+        },
+        {
+            "language": "法语",
+            "explanation": "grange,grenier,stocker,emmagasiner,mettre en dépôt,panier"
+        }
+    ],
+    "general_pinyins": [
+        "dùn",
+        "tún"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨㄣˋ",
+        "ㄊㄨㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "囗",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥫱",
+        "𥭒",
+        "𦯁",
+        "𡆰"
+    ],
+    "general_structure": "全包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "56E4",
+            "2515251"
+        ],
+        "char_code_wubi": "lgbn",
+        "char_code_cangjie": "wpu",
+        "char_code_zhengma": "jdhz",
+        "char_code_sijiao": "60717"
+    },
+    "general_unicode": "基本区 U+56E4",
+    "general_bs_code": "2515251"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sail; boat"
+        },
+        {
+            "language": "德语",
+            "explanation": "Segel"
+        }
+    ],
+    "general_pinyins": [
+        "fān"
+    ],
+    "general_zhuyins": [
+        "ㄈㄢ"
+    ],
+    "general_radical": {
+        "radical": "巾",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㠶",
+        "䑺",
+        "颿",
+        "𤖫",
+        "𩗋",
+        "忛",
+        "䬚",
+        "䭵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5E06",
+            "252354"
+        ],
+        "char_code_wubi": "mhmy|mhwy",
+        "char_code_cangjie": "lbhni",
+        "char_code_zhengma": "liqd",
+        "char_code_sijiao": "47210"
+    },
+    "general_unicode": "基本区 U+5E06",
+    "general_bs_code": "252354"
+}

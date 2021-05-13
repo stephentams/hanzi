@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a hut; careful"
+        },
+        {
+            "language": "德语",
+            "explanation": "sorgfältig, vorsichtig"
+        },
+        {
+            "language": "法语",
+            "explanation": "jin (empereur)​"
+        }
+    ],
+    "general_pinyins": [
+        "jǐn",
+        "qín"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄣˇ",
+        "ㄑㄧㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "广",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "僅",
+        "勤",
+        "㢙",
+        "厪",
+        "𢋓",
+        "𠪲"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5ED1",
+            "41312212511121"
+        ],
+        "char_code_wubi": "yakg|oakg",
+        "char_code_cangjie": "itlm",
+        "char_code_zhengma": "tgjc",
+        "char_code_sijiao": "00215"
+    },
+    "general_unicode": "基本区 U+5ED1",
+    "general_bs_code": "41312212511121"
+}

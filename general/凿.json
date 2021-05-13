@@ -1,0 +1,59 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "chisel; bore, pierce"
+        },
+        {
+            "language": "德语",
+            "explanation": "graben  (V)​,meißeln  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "burin,creuser,percer"
+        }
+    ],
+    "general_pinyins": [
+        "záo"
+    ],
+    "general_zhuyins": [
+        "ㄗㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "凵",
+        "non_radical_sn": "10",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "鑿"
+    ],
+    "general_ytz": [
+        "鑿",
+        "䥣",
+        "𣪲",
+        "𣫞",
+        "𣫩",
+        "𣫫",
+        "𦦹",
+        "𨖐",
+        "𨗩",
+        "𨯳",
+        "𨰒",
+        "𪗛",
+        "𪚆",
+        "𨰢"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "51FF",
+            "224314311252"
+        ],
+        "char_code_wubi": "ogub|oufb",
+        "char_code_cangjie": "tcuj",
+        "char_code_zhengma": "kuuz",
+        "char_code_sijiao": "32772"
+    },
+    "general_unicode": "基本区 U+51FF",
+    "general_bs_code": "224314311252"
+}

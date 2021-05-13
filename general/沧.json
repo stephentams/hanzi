@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "blue, dark green; cold"
+        },
+        {
+            "language": "德语",
+            "explanation": "dunkelblau  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bleu foncé,vert azuré,glauque"
+        }
+    ],
+    "general_pinyins": [
+        "cāng"
+    ],
+    "general_zhuyins": [
+        "ㄘㄤ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "滄"
+    ],
+    "general_ytz": [
+        "滄",
+        "𣳁",
+        "𣶟",
+        "𤀅"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6CA7",
+            "4413455"
+        ],
+        "char_code_wubi": "iwbn",
+        "char_code_cangjie": "eosu",
+        "char_code_zhengma": "voyy",
+        "char_code_sijiao": "38112"
+    },
+    "general_unicode": "基本区 U+6CA7",
+    "general_bs_code": "4413455"
+}

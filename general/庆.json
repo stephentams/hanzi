@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "congratulate, celebrate"
+        },
+        {
+            "language": "德语",
+            "explanation": "feiern, gratulieren, Festtag  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "fête,célébration,célébrer,fêter"
+        }
+    ],
+    "general_pinyins": [
+        "qìng"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "广",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "慶"
+    ],
+    "general_ytz": [
+        "慶",
+        "𢙎",
+        "𢝑"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5E86",
+            "413134"
+        ],
+        "char_code_wubi": "ydi|odi",
+        "char_code_cangjie": "ik",
+        "char_code_zhengma": "tggd",
+        "char_code_sijiao": "00284"
+    },
+    "general_unicode": "基本区 U+5E86",
+    "general_bs_code": "413134"
+}

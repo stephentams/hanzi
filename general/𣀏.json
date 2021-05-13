@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "chéng"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "攴",
+        "non_radical_sn": "13",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2300F",
+            "24345251122112154"
+        ],
+        "char_code_wubi": "ipkc",
+        "char_code_cangjie": "ftye",
+        "char_code_zhengma": "koix"
+    },
+    "general_unicode": "扩展B U+2300F",
+    "general_bs_code": "24345251122112154"
+}

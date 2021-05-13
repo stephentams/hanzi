@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(ancient form of U+6EBA 溺) sunk; perished, drawned; infatuated"
+        }
+    ],
+    "general_pinyins": [
+        "nì"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "水",
+        "non_radical_sn": "2",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "溺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3CBB",
+            "322534"
+        ],
+        "char_code_wubi": "wiy",
+        "char_code_cangjie": "oe",
+        "char_code_zhengma": "nkv",
+        "char_code_sijiao": "22290"
+    },
+    "general_unicode": "扩展A U+3CBB",
+    "general_bs_code": "322534"
+}

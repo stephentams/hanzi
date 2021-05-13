@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "皿",
+        "non_radical_sn": "15",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "盭"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "250CA",
+            "55413443112313425221"
+        ],
+        "char_code_wubi": "xdul",
+        "char_code_cangjie": "vkbt",
+        "char_code_zhengma": "zzml"
+    },
+    "general_unicode": "扩展B U+250CA",
+    "general_bs_code": "55413443112313425221"
+}

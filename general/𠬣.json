@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "bàng"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "又",
+        "non_radical_sn": "3",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "右上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "20B23",
+            "1554"
+        ],
+        "char_code_wubi": "hncu",
+        "char_code_cangjie": "yse",
+        "char_code_zhengma": "azxs"
+    },
+    "general_unicode": "扩展B U+20B23",
+    "general_bs_code": "1554"
+}

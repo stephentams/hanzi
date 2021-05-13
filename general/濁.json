@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "muddy, turbid, dirty, filthy"
+        },
+        {
+            "language": "德语",
+            "explanation": "unrein, schlammig, schmutzig  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "trouble,rauque"
+        }
+    ],
+    "general_pinyins": [
+        "zhuó"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "浊"
+    ],
+    "general_ytz": [
+        "浊"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6FC1",
+            "4412522135251214"
+        ],
+        "char_code_wubi": "ilqj",
+        "char_code_cangjie": "ewli",
+        "char_code_zhengma": "vlri",
+        "char_code_sijiao": "36127"
+    },
+    "general_unicode": "基本区 U+6FC1",
+    "general_bs_code": "4412522135251214"
+}

@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mountain; hill"
+        }
+    ],
+    "general_pinyins": [
+        "xuè"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡶙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "37BD",
+            "25215534"
+        ],
+        "char_code_wubi": "mant|mann",
+        "char_code_cangjie": "uiv",
+        "char_code_zhengma": "llhz",
+        "char_code_sijiao": "23750"
+    },
+    "general_unicode": "扩展A U+37BD",
+    "general_bs_code": "25215534"
+}

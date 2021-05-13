@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fearful, apprehensive, perturbed"
+        },
+        {
+            "language": "德语",
+            "explanation": "ängstlich, besorgt"
+        },
+        {
+            "language": "法语",
+            "explanation": "palpiter de frayeur,être troublé par la crainte,s'irriter,colère"
+        }
+    ],
+    "general_pinyins": [
+        "jì"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "痵",
+        "㑧"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "60B8",
+            "44231234521"
+        ],
+        "char_code_wubi": "ntbg",
+        "char_code_cangjie": "phdd",
+        "char_code_zhengma": "umya",
+        "char_code_sijiao": "92047"
+    },
+    "general_unicode": "基本区 U+60B8",
+    "general_bs_code": "44231234521"
+}

@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 鸓) flying squirrel; bats"
+        }
+    ],
+    "general_pinyins": [
+        "lěi"
+    ],
+    "general_zhuyins": [
+        "ㄌㄟˇ"
+    ],
+    "general_radical": {
+        "radical": "鳥",
+        "non_radical_sn": "15",
+        "total_sn": "26"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "鸓"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4D0E",
+            "25121251212512132511154444"
+        ],
+        "char_code_wubi": "lllo",
+        "char_code_cangjie": "wwwf",
+        "char_code_zhengma": "kikr",
+        "char_code_sijiao": "60327"
+    },
+    "general_unicode": "扩展A U+4D0E",
+    "general_bs_code": "25121251212512132511154444"
+}

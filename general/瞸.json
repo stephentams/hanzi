@@ -1,0 +1,28 @@
+{
+    "general_pinyins": [
+        "yè"
+    ],
+    "general_zhuyins": [
+        "ㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "12",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "77B8",
+            "25111122122151234"
+        ],
+        "char_code_wubi": "haas",
+        "char_code_cangjie": "butpd",
+        "char_code_zhengma": "lezf",
+        "char_code_sijiao": "64094"
+    },
+    "general_unicode": "基本区 U+77B8",
+    "general_bs_code": "25111122122151234"
+}

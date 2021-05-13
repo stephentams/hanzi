@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "walk carefully; hesitate, falter"
+        },
+        {
+            "language": "德语",
+            "explanation": "vorsichtig gehen  (V)​,zögern, zaudern  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "marcher avec précaution,hésiter,halter"
+        }
+    ],
+    "general_pinyins": [
+        "zhú"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "13",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨄃",
+        "𨅛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E85",
+            "25121212522135251214"
+        ],
+        "char_code_wubi": "khlj",
+        "char_code_cangjie": "rmwli",
+        "char_code_zhengma": "jiri",
+        "char_code_sijiao": "66127"
+    },
+    "general_unicode": "基本区 U+8E85",
+    "general_bs_code": "25121212522135251214"
+}

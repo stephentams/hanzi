@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cause, reason; by; because (of)"
+        },
+        {
+            "language": "德语",
+            "explanation": "Grund, Ursache  (S)​,folgen, fortführen  (V, Lit)​,aufgrund, nach, gemäß  (Konj)​,weil, wegen, infolge  (Konj)​,Yin  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cause,raison,à cause de,selon"
+        }
+    ],
+    "general_pinyins": [
+        "yīn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄣ"
+    ],
+    "general_radical": {
+        "radical": "囗",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㧢",
+        "囙",
+        "𡆬",
+        "𤇀",
+        "𡇂"
+    ],
+    "general_structure": "全包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "56E0",
+            "251341"
+        ],
+        "char_code_wubi": "ldi",
+        "char_code_cangjie": "wk",
+        "char_code_zhengma": "jd",
+        "char_code_sijiao": "60804"
+    },
+    "general_unicode": "基本区 U+56E0",
+    "general_bs_code": "251341"
+}

@@ -1,0 +1,23 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "臼",
+        "non_radical_sn": "15",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "269B8",
+            "321115251113425113533"
+        ],
+        "char_code_wubi": "wfgr",
+        "char_code_cangjie": "hcaph",
+        "char_code_zhengma": "nbro"
+    },
+    "general_unicode": "扩展B U+269B8",
+    "general_bs_code": "321115251113425113533"
+}

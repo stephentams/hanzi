@@ -1,0 +1,35 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to split, rive, crack"
+        }
+    ],
+    "general_pinyins": [
+        "xī",
+        "chí"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˊ",
+        "ㄒㄧ"
+    ],
+    "general_radical": {
+        "radical": "厂",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "20A7A",
+            "11234313413"
+        ],
+        "char_code_wubi": "fitd",
+        "char_code_cangjie": "jkm",
+        "char_code_zhengma": "bdmg"
+    },
+    "general_unicode": "扩展B U+20A7A",
+    "general_bs_code": "11234313413"
+}

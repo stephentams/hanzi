@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "shake, tremble, quake; flutter"
+        },
+        {
+            "language": "德语",
+            "explanation": "bangend, zitternd"
+        },
+        {
+            "language": "法语",
+            "explanation": "secouer"
+        }
+    ],
+    "general_pinyins": [
+        "sòu",
+        "sǒu"
+    ],
+    "general_zhuyins": [
+        "ㄙㄡˋ",
+        "ㄙㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "擻"
+    ],
+    "general_ytz": [
+        "擻"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "64DE",
+            "1214312345313134"
+        ],
+        "char_code_wubi": "rovt",
+        "char_code_cangjie": "qfvk",
+        "char_code_zhengma": "duzm",
+        "char_code_sijiao": "58040"
+    },
+    "general_unicode": "基本区 U+64DE",
+    "general_bs_code": "1214312345313134"
+}

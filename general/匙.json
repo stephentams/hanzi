@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "spoon; surname"
+        },
+        {
+            "language": "德语",
+            "explanation": "Löffel  (S)​,Schlüssel  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "clef,clé,cuiller,cuillère"
+        }
+    ],
+    "general_pinyins": [
+        "chí",
+        "shi"
+    ],
+    "general_zhuyins": [
+        "ㄔˊ",
+        "ㄕ"
+    ],
+    "general_radical": {
+        "radical": "匕",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㔭",
+        "㮛",
+        "䈕",
+        "𢁈",
+        "𥫽",
+        "𨥌"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5319",
+            "25111213435"
+        ],
+        "char_code_wubi": "jghx",
+        "char_code_cangjie": "aop",
+        "char_code_zhengma": "kair",
+        "char_code_sijiao": "62801"
+    },
+    "general_unicode": "基本区 U+5319",
+    "general_bs_code": "25111213435"
+}

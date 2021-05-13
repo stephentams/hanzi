@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "order, tell, instruct, leave word"
+        },
+        {
+            "language": "德语",
+            "explanation": "einschärfen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "ordre,enjoindre"
+        }
+    ],
+    "general_pinyins": [
+        "zhǔ"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "囑"
+    ],
+    "general_ytz": [
+        "囑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5631",
+            "251513325125214"
+        ],
+        "char_code_wubi": "knty",
+        "char_code_cangjie": "rshb",
+        "char_code_zhengma": "jxil",
+        "char_code_sijiao": "67027"
+    },
+    "general_unicode": "基本区 U+5631",
+    "general_bs_code": "251513325125214"
+}

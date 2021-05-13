@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "think, speculate, plan, consider"
+        },
+        {
+            "language": "德语",
+            "explanation": "vermissen (V)​,wollen, möchten (V)​,denken (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "penser,réfléchir,songer,supposer,estimer,vouloir,désirer,penser à,manquer (sentiment)​"
+        }
+    ],
+    "general_pinyins": [
+        "xiǎng"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "60F3",
+            "1234251114544"
+        ],
+        "char_code_wubi": "shnu",
+        "char_code_cangjie": "dup",
+        "char_code_zhengma": "flwz",
+        "char_code_sijiao": "46330"
+    },
+    "general_unicode": "基本区 U+60F3",
+    "general_bs_code": "1234251114544"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "grave, respectful, majestic"
+        },
+        {
+            "language": "德语",
+            "explanation": "hoheitsvoll, majestätisch"
+        },
+        {
+            "language": "法语",
+            "explanation": "gravité,comme si"
+        }
+    ],
+    "general_pinyins": [
+        "yǎn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "儼"
+    ],
+    "general_ytz": [
+        "儼",
+        "𠑊"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4FE8",
+            "321224313"
+        ],
+        "char_code_wubi": "wgod|wgot",
+        "char_code_cangjie": "omth",
+        "char_code_zhengma": "nakm",
+        "char_code_sijiao": "21201"
+    },
+    "general_unicode": "基本区 U+4FE8",
+    "general_bs_code": "321224313"
+}

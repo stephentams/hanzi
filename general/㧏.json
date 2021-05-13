@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(a simplified form of U+6386) to carry on the shouldersof two or more men, to raise"
+        }
+    ],
+    "general_pinyins": [
+        "gāng"
+    ],
+    "general_zhuyins": [
+        "ㄍㄤ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "掆"
+    ],
+    "general_ytz": [
+        "掆"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "39CF",
+            "1212534"
+        ],
+        "char_code_wubi": "rmqy|rmry",
+        "char_code_cangjie": "qbk",
+        "char_code_zhengma": "dlda",
+        "char_code_sijiao": "57020"
+    },
+    "general_unicode": "扩展A U+39CF",
+    "general_bs_code": "1212534"
+}

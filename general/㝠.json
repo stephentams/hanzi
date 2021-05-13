@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 冥) dark; obscure; dim, stupidity, far and high, deep; profound, night"
+        }
+    ],
+    "general_pinyins": [
+        "míng"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "宀",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "冥"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3760",
+            "44525114134"
+        ],
+        "char_code_wubi": "pjuu",
+        "char_code_cangjie": "jayc",
+        "char_code_zhengma": "wdso",
+        "char_code_sijiao": "30800"
+    },
+    "general_unicode": "扩展A U+3760",
+    "general_bs_code": "44525114134"
+}

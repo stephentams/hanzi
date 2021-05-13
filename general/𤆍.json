@@ -1,0 +1,35 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "red; communist, 'red'; bare"
+        }
+    ],
+    "general_pinyins": [
+        "chì"
+    ],
+    "general_zhuyins": [
+        "ㄔˋ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "3",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "赤"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2418D",
+            "1344334"
+        ],
+        "char_code_wubi": "dou",
+        "char_code_cangjie": "kf",
+        "char_code_zhengma": "gduo"
+    },
+    "general_unicode": "扩展B U+2418D",
+    "general_bs_code": "1344334"
+}

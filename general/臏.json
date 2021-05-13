@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "the kneecap"
+        },
+        {
+            "language": "法语",
+            "explanation": "rotulien"
+        }
+    ],
+    "general_pinyins": [
+        "bìn"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "14",
+        "total_sn": "18"
+    },
+    "general_stc": [
+        "膑"
+    ],
+    "general_ytz": [
+        "髕",
+        "膑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "81CF",
+            "351144512332511134"
+        ],
+        "char_code_wubi": "epgm",
+        "char_code_cangjie": "bjmc",
+        "char_code_zhengma": "qwkl",
+        "char_code_sijiao": "73286"
+    },
+    "general_unicode": "基本区 U+81CF",
+    "general_bs_code": "351144512332511134"
+}

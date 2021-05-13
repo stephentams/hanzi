@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "purpose, will, determination; annals"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ideal, Wille, Ziel  (S)​,schriftl. Aufzeichung, Annalen, Geschichte [ auch 誌 ]  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "ambition,idéal,annales"
+        }
+    ],
+    "general_pinyins": [
+        "zhì"
+    ],
+    "general_zhuyins": [
+        "ㄓˋ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "3",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "誌"
+    ],
+    "general_ytz": [
+        "誌",
+        "𢖽",
+        "𢗍",
+        "𢗱",
+        "痣",
+        "𢖿"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5FD7",
+            "1214544"
+        ],
+        "char_code_wubi": "fnu",
+        "char_code_cangjie": "gp",
+        "char_code_zhengma": "bwz",
+        "char_code_sijiao": "40331"
+    },
+    "general_unicode": "基本区 U+5FD7",
+    "general_bs_code": "1214544"
+}

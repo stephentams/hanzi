@@ -1,0 +1,30 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to bump, to strike"
+        }
+    ],
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "尢",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左下包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3780",
+            "135134334"
+        ],
+        "char_code_wubi": "dndo",
+        "char_code_cangjie": "knkf",
+        "char_code_zhengma": "grgu",
+        "char_code_sijiao": "44018"
+    },
+    "general_unicode": "扩展A U+3780",
+    "general_bs_code": "135134334"
+}

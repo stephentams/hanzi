@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "new, recent, fresh, modern"
+        },
+        {
+            "language": "德语",
+            "explanation": "neu (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "nouveau,neuf,récent,actuel,nouvellement,récemment"
+        }
+    ],
+    "general_pinyins": [
+        "xīn"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄣ"
+    ],
+    "general_radical": {
+        "radical": "斤",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢀝",
+        "𣂺",
+        "𤗔",
+        "𤗟",
+        "𨐏",
+        "薪"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "65B0",
+            "4143112343312"
+        ],
+        "char_code_wubi": "usrh",
+        "char_code_cangjie": "ydhml",
+        "char_code_zhengma": "sufp",
+        "char_code_sijiao": "02921"
+    },
+    "general_unicode": "基本区 U+65B0",
+    "general_bs_code": "4143112343312"
+}

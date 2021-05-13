@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "borrow; lend; make pretext of"
+        },
+        {
+            "language": "德语",
+            "explanation": "ausleihen, ausborgen  (V)​,verleihen  (V)"
+        }
+    ],
+    "general_pinyins": [
+        "jiè"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "徣",
+        "藉",
+        "𠎥"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "501F",
+            "3212212511"
+        ],
+        "char_code_wubi": "wajg",
+        "char_code_cangjie": "ota",
+        "char_code_zhengma": "nek",
+        "char_code_sijiao": "24261"
+    },
+    "general_unicode": "基本区 U+501F",
+    "general_bs_code": "3212212511"
+}

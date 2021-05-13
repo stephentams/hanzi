@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "jar, pot, jug, vase; surname"
+        },
+        {
+            "language": "德语",
+            "explanation": "das Gefäß"
+        },
+        {
+            "language": "法语",
+            "explanation": "pot,vase,théière"
+        }
+    ],
+    "general_pinyins": [
+        "hú"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "士",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "壶"
+    ],
+    "general_ytz": [
+        "壶",
+        "壷",
+        "𠻭",
+        "𡐎",
+        "𡔥",
+        "𡔦",
+        "𡔲",
+        "𡔳",
+        "𥁖"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "58FA",
+            "121452155121"
+        ],
+        "char_code_wubi": "fphg|fpfg",
+        "char_code_cangjie": "gblm",
+        "char_code_zhengma": "bwia",
+        "char_code_sijiao": "40107"
+    },
+    "general_unicode": "基本区 U+58FA",
+    "general_bs_code": "121452155121"
+}

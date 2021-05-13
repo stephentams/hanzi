@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(ancient form of 變) to change; to transform; to switch; to alter, rebellion"
+        }
+    ],
+    "general_pinyins": [
+        "biàn"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "彡",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "變"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "38D0",
+            "325112534333"
+        ],
+        "char_code_wubi": "riet",
+        "char_code_cangjie": "hehhh",
+        "char_code_zhengma": "nkkp",
+        "char_code_sijiao": "22922"
+    },
+    "general_unicode": "扩展A U+38D0",
+    "general_bs_code": "325112534333"
+}

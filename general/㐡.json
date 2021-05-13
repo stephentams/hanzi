@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 懦)weak; timid; imbecile"
+        }
+    ],
+    "general_pinyins": [
+        "nuò"
+    ],
+    "general_zhuyins": [
+        "ㄋㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "乙",
+        "non_radical_sn": "10",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "懦"
+    ],
+    "general_structure": "左下包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3421",
+            "35132522134"
+        ],
+        "char_code_wubi": "vdmd",
+        "char_code_cangjie": "knmbk",
+        "char_code_zhengma": "qygg",
+        "char_code_sijiao": "41018"
+    },
+    "general_unicode": "扩展A U+3421",
+    "general_bs_code": "35132522134"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "room, home, house, chamber"
+        },
+        {
+            "language": "德语",
+            "explanation": "Raum  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "salle,pièce"
+        }
+    ],
+    "general_pinyins": [
+        "shì"
+    ],
+    "general_zhuyins": [
+        "ㄕˋ"
+    ],
+    "general_radical": {
+        "radical": "宀",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𩋡"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5BA4",
+            "445154121"
+        ],
+        "char_code_wubi": "pgcf",
+        "char_code_cangjie": "jmig",
+        "char_code_zhengma": "wdhb",
+        "char_code_sijiao": "30104"
+    },
+    "general_unicode": "基本区 U+5BA4",
+    "general_bs_code": "445154121"
+}

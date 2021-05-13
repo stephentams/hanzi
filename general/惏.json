@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "avaricious; greedy cold"
+        },
+        {
+            "language": "法语",
+            "explanation": "cupide,gourmand,froid,glacial,frigide"
+        }
+    ],
+    "general_pinyins": [
+        "lán",
+        "lín"
+    ],
+    "general_zhuyins": [
+        "ㄌㄢˊ",
+        "ㄌㄧㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "60CF",
+            "44212341234"
+        ],
+        "char_code_wubi": "nssy",
+        "char_code_cangjie": "pdd",
+        "char_code_zhengma": "uff",
+        "char_code_sijiao": "94090"
+    },
+    "general_unicode": "基本区 U+60CF",
+    "general_bs_code": "44212341234"
+}

@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "twins"
+        }
+    ],
+    "general_pinyins": [
+        "mián"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "頁",
+        "non_radical_sn": "15",
+        "total_sn": "24"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𩕰"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4AF5",
+            "325111445344153132511134"
+        ],
+        "char_code_wubi": "thpm",
+        "char_code_cangjie": "hsmbc",
+        "char_code_zhengma": "nlsg",
+        "char_code_sijiao": "21286"
+    },
+    "general_unicode": "扩展A U+4AF5",
+    "general_bs_code": "325111445344153132511134"
+}

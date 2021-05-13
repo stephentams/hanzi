@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a large, duck-like waterfowl with red eyes; a young phoenix"
+        },
+        {
+            "language": "法语",
+            "explanation": "jeune Phoenix"
+        }
+    ],
+    "general_pinyins": [
+        "yuè"
+    ],
+    "general_zhuyins": [
+        "ㄩㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "鳥",
+        "non_radical_sn": "14",
+        "total_sn": "25"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𩁓",
+        "𪈡"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E11",
+            "3534111251134432511154444"
+        ],
+        "char_code_wubi": "qtyo",
+        "char_code_cangjie": "kkhaf",
+        "char_code_zhengma": "qmsr",
+        "char_code_sijiao": "43327"
+    },
+    "general_unicode": "基本区 U+9E11",
+    "general_bs_code": "3534111251134432511154444"
+}

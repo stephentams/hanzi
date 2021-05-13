@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "narrow path; diameter; direct"
+        },
+        {
+            "language": "德语",
+            "explanation": "Trasse, Laufweg  (S, Sport)​,Durchmesser"
+        },
+        {
+            "language": "法语",
+            "explanation": "directement,tout droit,sentier,piste,diamètre,méridien"
+        }
+    ],
+    "general_pinyins": [
+        "jìng"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "彳",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "徑"
+    ],
+    "general_ytz": [
+        "徑",
+        "迳",
+        "𢔉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F84",
+            "33254121"
+        ],
+        "char_code_wubi": "tcag",
+        "char_code_cangjie": "honom",
+        "char_code_zhengma": "oixb",
+        "char_code_sijiao": "27212"
+    },
+    "general_unicode": "基本区 U+5F84",
+    "general_bs_code": "33254121"
+}

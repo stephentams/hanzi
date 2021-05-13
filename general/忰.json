@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "suffer, become emaciated, haggard"
+        }
+    ],
+    "general_pinyins": [
+        "cuì"
+    ],
+    "general_zhuyins": [
+        "ㄘㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "悴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5FF0",
+            "4423512"
+        ],
+        "char_code_wubi": "nvfh",
+        "char_code_cangjie": "pknj",
+        "char_code_zhengma": "uqed",
+        "char_code_sijiao": "97041"
+    },
+    "general_unicode": "基本区 U+5FF0",
+    "general_bs_code": "4423512"
+}

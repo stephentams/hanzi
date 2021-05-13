@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "affair, matter; work"
+        }
+    ],
+    "general_pinyins": [
+        "lì"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "又",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "事",
+        "吏"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "53D3",
+            "1251254"
+        ],
+        "char_code_wubi": "gkhc",
+        "char_code_cangjie": "jle",
+        "char_code_zhengma": "ajix",
+        "char_code_sijiao": "50407"
+    },
+    "general_unicode": "基本区 U+53D3",
+    "general_bs_code": "1251254"
+}

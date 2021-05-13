@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "economize; abide by, comply with"
+        },
+        {
+            "language": "德语",
+            "explanation": "regeln, regulieren"
+        },
+        {
+            "language": "法语",
+            "explanation": "frugal"
+        }
+    ],
+    "general_pinyins": [
+        "zǔn"
+    ],
+    "general_zhuyins": [
+        "ㄗㄨㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠟃"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6499",
+            "121431253511124"
+        ],
+        "char_code_wubi": "rusf",
+        "char_code_cangjie": "qtwi",
+        "char_code_zhengma": "dufd",
+        "char_code_sijiao": "58046"
+    },
+    "general_unicode": "基本区 U+6499",
+    "general_bs_code": "121431253511124"
+}

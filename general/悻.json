@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "anger, vexation; angry, indignant"
+        },
+        {
+            "language": "法语",
+            "explanation": "irrité,entêté"
+        }
+    ],
+    "general_pinyins": [
+        "xìng"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢙼"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "60BB",
+            "44212143112"
+        ],
+        "char_code_wubi": "nfuf",
+        "char_code_cangjie": "pgtj",
+        "char_code_zhengma": "ubub",
+        "char_code_sijiao": "94041"
+    },
+    "general_unicode": "基本区 U+60BB",
+    "general_bs_code": "44212143112"
+}

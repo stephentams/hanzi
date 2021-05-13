@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "step with left foot; rad. no 60"
+        },
+        {
+            "language": "德语",
+            "explanation": "langsam gehen"
+        },
+        {
+            "language": "法语",
+            "explanation": "petits pas,60e radical"
+        }
+    ],
+    "general_pinyins": [
+        "chì"
+    ],
+    "general_zhuyins": [
+        "ㄔˋ"
+    ],
+    "general_radical": {
+        "radical": "彳",
+        "non_radical_sn": "0",
+        "total_sn": "3"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F73",
+            "332"
+        ],
+        "char_code_wubi": "ttth",
+        "char_code_cangjie": "ho",
+        "char_code_zhengma": "oiaa",
+        "char_code_sijiao": "20202"
+    },
+    "general_unicode": "基本区 U+5F73",
+    "general_bs_code": "332"
+}

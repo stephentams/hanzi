@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hard, strong, firm; resolute"
+        },
+        {
+            "language": "德语",
+            "explanation": "fest, hart  (V)​,Jian  (Eig, Fam)​,entschlossen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "ferme,dur,fermement,résolument"
+        }
+    ],
+    "general_pinyins": [
+        "jiān"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "坚"
+    ],
+    "general_ytz": [
+        "䋗",
+        "坚",
+        "臤",
+        "𡉢"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5805",
+            "12512554121"
+        ],
+        "char_code_wubi": "ahnf",
+        "char_code_cangjie": "seg",
+        "char_code_zhengma": "hxb",
+        "char_code_sijiao": "77104"
+    },
+    "general_unicode": "基本区 U+5805",
+    "general_bs_code": "12512554121"
+}

@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "theatrical plays, opera, drama"
+        },
+        {
+            "language": "德语",
+            "explanation": "ernst, streng ,Drama  (S)​,Ju  (Eig, Fam)​,Aufführung"
+        },
+        {
+            "language": "法语",
+            "explanation": "pièce de théâtre,scénario,théâtre,opéra,violent,intense"
+        }
+    ],
+    "general_pinyins": [
+        "jù"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "刂",
+        "non_radical_sn": "13",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "剧"
+    ],
+    "general_ytz": [
+        "剧",
+        "勮",
+        "據",
+        "𠟵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5287",
+            "215315135333422"
+        ],
+        "char_code_wubi": "haej|hgej",
+        "char_code_cangjie": "yoln",
+        "char_code_zhengma": "ihgk",
+        "char_code_sijiao": "22200"
+    },
+    "general_unicode": "基本区 U+5287",
+    "general_bs_code": "215315135333422"
+}

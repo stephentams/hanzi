@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to rub or roll between the hands"
+        },
+        {
+            "language": "德语",
+            "explanation": "Hände reiben  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "rouler entre les mains,frotter,tourmenter"
+        }
+    ],
+    "general_pinyins": [
+        "cuō"
+    ],
+    "general_zhuyins": [
+        "ㄘㄨㄛ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢷼"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6413",
+            "121431113121"
+        ],
+        "char_code_wubi": "ruda|ruag",
+        "char_code_cangjie": "qtqm",
+        "char_code_zhengma": "dubi",
+        "char_code_sijiao": "58012"
+    },
+    "general_unicode": "基本区 U+6413",
+    "general_bs_code": "121431113121"
+}

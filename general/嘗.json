@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "taste; experience, experiment"
+        },
+        {
+            "language": "德语",
+            "explanation": "probieren, kosten  (V, Ess)"
+        }
+    ],
+    "general_pinyins": [
+        "cháng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄤ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "尝"
+    ],
+    "general_ytz": [
+        "嚐",
+        "尝",
+        "甞",
+        "𠹉",
+        "𡮢",
+        "𣋈",
+        "𨡔",
+        "𨣛"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5617",
+            "24345251352511"
+        ],
+        "char_code_wubi": "ipkj",
+        "char_code_cangjie": "fbrpa",
+        "char_code_zhengma": "kork",
+        "char_code_sijiao": "90601"
+    },
+    "general_unicode": "基本区 U+5617",
+    "general_bs_code": "24345251352511"
+}

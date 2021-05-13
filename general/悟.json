@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to apprehend, realize, become aware"
+        },
+        {
+            "language": "德语",
+            "explanation": "begreifen, nachvollziehen"
+        },
+        {
+            "language": "法语",
+            "explanation": "comprendre,réaliser,être conscient"
+        }
+    ],
+    "general_pinyins": [
+        "wù"
+    ],
+    "general_zhuyins": [
+        "ㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "忢",
+        "𠵥",
+        "𠼘",
+        "𢛤",
+        "𢤓",
+        "𥄪",
+        "𦤜"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "609F",
+            "4421251251"
+        ],
+        "char_code_wubi": "ngkg",
+        "char_code_cangjie": "pmmr",
+        "char_code_zhengma": "ubxj",
+        "char_code_sijiao": "91061"
+    },
+    "general_unicode": "基本区 U+609F",
+    "general_bs_code": "4421251251"
+}

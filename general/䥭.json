@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 證) evidence, proof, to give evidence, to testify)"
+        }
+    ],
+    "general_pinyins": [
+        "zhèng"
+    ],
+    "general_zhuyins": [
+        "ㄓㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "金",
+        "non_radical_sn": "14",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "證"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "496D",
+            "1241344124134434112341"
+        ],
+        "char_code_wubi": "fiyq|giyq",
+        "char_code_cangjie": "iec",
+        "char_code_zhengma": "dvsp",
+        "char_code_sijiao": "43109"
+    },
+    "general_unicode": "扩展A U+496D",
+    "general_bs_code": "1241344124134434112341"
+}

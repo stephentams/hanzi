@@ -1,0 +1,59 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "collect; overall, altogether"
+        },
+        {
+            "language": "德语",
+            "explanation": "immer, sowieso, führend, leitend"
+        },
+        {
+            "language": "法语",
+            "explanation": "général,chef,total,toujours,en fin de compte,tôt ou tard,en tout cas,réunir,rassembler"
+        }
+    ],
+    "general_pinyins": [
+        "zǒng"
+    ],
+    "general_zhuyins": [
+        "ㄗㄨㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "總"
+    ],
+    "general_ytz": [
+        "總",
+        "緫",
+        "捴",
+        "搃",
+        "摠",
+        "総",
+        "縂",
+        "㹅",
+        "𢝰",
+        "𢭇",
+        "𤙹",
+        "𥡥",
+        "𥾜",
+        "𦀙"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "603B",
+            "432514544"
+        ],
+        "char_code_wubi": "uknu",
+        "char_code_cangjie": "crp",
+        "char_code_zhengma": "udjw",
+        "char_code_sijiao": "80336"
+    },
+    "general_unicode": "基本区 U+603B",
+    "general_bs_code": "432514544"
+}

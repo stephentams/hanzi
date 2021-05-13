@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mountain; a bare hill"
+        },
+        {
+            "language": "法语",
+            "explanation": "colline dénudée"
+        }
+    ],
+    "general_pinyins": [
+        "wù"
+    ],
+    "general_zhuyins": [
+        "ㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "卼",
+        "𡵉",
+        "𡵐"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5C7C",
+            "252135"
+        ],
+        "char_code_wubi": "mgqn",
+        "char_code_cangjie": "umu",
+        "char_code_zhengma": "llgr",
+        "char_code_sijiao": "21712"
+    },
+    "general_unicode": "基本区 U+5C7C",
+    "general_bs_code": "252135"
+}

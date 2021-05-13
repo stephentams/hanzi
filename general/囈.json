@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "talk in one's sleep, somniloquy"
+        },
+        {
+            "language": "法语",
+            "explanation": "parler ou remuer en rêve"
+        }
+    ],
+    "general_pinyins": [
+        "yì"
+    ],
+    "general_zhuyins": [
+        "ㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "18",
+        "total_sn": "21"
+    },
+    "general_stc": [
+        "呓"
+    ],
+    "general_ytz": [
+        "㦣",
+        "䆿",
+        "呓",
+        "寱",
+        "讛",
+        "𠾁",
+        "𡂞"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "56C8",
+            "251122121341213541154"
+        ],
+        "char_code_wubi": "kafc",
+        "char_code_cangjie": "rtgi",
+        "char_code_zhengma": "jebz",
+        "char_code_sijiao": "64031"
+    },
+    "general_unicode": "基本区 U+56C8",
+    "general_bs_code": "251122121341213541154"
+}

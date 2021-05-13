@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "knock against, bump into, collide"
+        },
+        {
+            "language": "法语",
+            "explanation": "heurter,cogner,faire irruption,tomber sur qqn par hasard,surprendre"
+        }
+    ],
+    "general_pinyins": [
+        "zhuàng"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "壯",
+        "𢭩",
+        "𨀵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "649E",
+            "121414312511211"
+        ],
+        "char_code_wubi": "rujf",
+        "char_code_cangjie": "qytg",
+        "char_code_zhengma": "dskb",
+        "char_code_sijiao": "50015"
+    },
+    "general_unicode": "基本区 U+649E",
+    "general_bs_code": "121414312511211"
+}

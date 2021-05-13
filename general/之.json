@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "marks preceding phrase as modifier of following phrase; it, him her, them; go to"
+        },
+        {
+            "language": "德语",
+            "explanation": "dieser,法语 (remplaçant une personne ou une chose comme complément)​,(particule possessive dans différentes expressions)​,aller,se rendre"
+        }
+    ],
+    "general_pinyins": [
+        "zhī"
+    ],
+    "general_zhuyins": [
+        "ㄓ"
+    ],
+    "general_radical": {
+        "radical": "丶",
+        "non_radical_sn": "2",
+        "total_sn": "3"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㞢",
+        "𠔇",
+        "𡳿"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4E4B",
+            "454"
+        ],
+        "char_code_wubi": "pppp",
+        "char_code_cangjie": "ino",
+        "char_code_zhengma": "wa",
+        "char_code_sijiao": "30302"
+    },
+    "general_unicode": "基本区 U+4E4B",
+    "general_bs_code": "454"
+}

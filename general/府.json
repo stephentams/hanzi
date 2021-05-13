@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "prefecture; prefect; government"
+        },
+        {
+            "language": "德语",
+            "explanation": "Präfektur  (S)​,Schloss, Villa"
+        },
+        {
+            "language": "法语",
+            "explanation": "préfecture,résidence,palais"
+        }
+    ],
+    "general_pinyins": [
+        "fǔ"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "广",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢇯",
+        "腑"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5E9C",
+            "41332124"
+        ],
+        "char_code_wubi": "ywfi|owfi",
+        "char_code_cangjie": "iodi",
+        "char_code_zhengma": "tgnd",
+        "char_code_sijiao": "00240"
+    },
+    "general_unicode": "基本区 U+5E9C",
+    "general_bs_code": "41332124"
+}

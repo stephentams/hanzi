@@ -1,0 +1,35 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ebony"
+        }
+    ],
+    "general_pinyins": [
+        "yī"
+    ],
+    "general_zhuyins": [
+        "ㄧ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "11",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "黟"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "23626",
+            "131134535541234"
+        ],
+        "char_code_wubi": "atds",
+        "char_code_cangjie": "sed",
+        "char_code_zhengma": "hmqf"
+    },
+    "general_unicode": "扩展B U+23626",
+    "general_bs_code": "131134535541234"
+}

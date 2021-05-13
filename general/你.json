@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "you, second person pronoun"
+        },
+        {
+            "language": "德语",
+            "explanation": "du (dir, dich)​ 法语 tu,toi"
+        }
+    ],
+    "general_pinyins": [
+        "nǐ"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "伱",
+        "伲",
+        "儞",
+        "妳",
+        "您",
+        "𠑓",
+        "𢘞",
+        "𤙌",
+        "[[2F804|你]]"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4F60",
+            "3235234"
+        ],
+        "char_code_wubi": "wqiy",
+        "char_code_cangjie": "onf",
+        "char_code_zhengma": "nrko",
+        "char_code_sijiao": "27292"
+    },
+    "general_unicode": "基本区 U+4F60",
+    "general_bs_code": "3235234"
+}

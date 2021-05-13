@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "name of a pavilion in today's Hunan Province"
+        }
+    ],
+    "general_pinyins": [
+        "jǔ"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩˇ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨞙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "48B9",
+            "151552"
+        ],
+        "char_code_wubi": "anbh",
+        "char_code_cangjie": "ssnl",
+        "char_code_zhengma": "hxy",
+        "char_code_sijiao": "77727"
+    },
+    "general_unicode": "扩展A U+48B9",
+    "general_bs_code": "151552"
+}

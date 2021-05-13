@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "be lucky; by chance, by luck"
+        },
+        {
+            "language": "法语",
+            "explanation": "fourbe"
+        }
+    ],
+    "general_pinyins": [
+        "jiǎo",
+        "yáo"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄠˇ",
+        "ㄧㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "12",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "侥"
+    ],
+    "general_ytz": [
+        "侥",
+        "儌",
+        "徼",
+        "憢",
+        "憿",
+        "徺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "50E5",
+            "32121121121135"
+        ],
+        "char_code_wubi": "wffq",
+        "char_code_cangjie": "oggu",
+        "char_code_zhengma": "nbbg",
+        "char_code_sijiao": "24212"
+    },
+    "general_unicode": "基本区 U+50E5",
+    "general_bs_code": "32121121121135"
+}

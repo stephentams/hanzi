@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "silk; KangXi radical 120"
+        },
+        {
+            "language": "德语",
+            "explanation": "Radikal Nr. 120 = Seide (Varianten: 糹,纟)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "fil de soie,120e radical"
+        }
+    ],
+    "general_pinyins": [
+        "mì",
+        "sī"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧˋ",
+        "ㄙ"
+    ],
+    "general_radical": {
+        "radical": "糸",
+        "non_radical_sn": "0",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "幺",
+        "𢆯",
+        "絲",
+        "糹",
+        "纟"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7CF8",
+            "554234"
+        ],
+        "char_code_wubi": "xiu",
+        "char_code_cangjie": "vif",
+        "char_code_zhengma": "zaaa",
+        "char_code_sijiao": "22903"
+    },
+    "general_unicode": "基本区 U+7CF8",
+    "general_bs_code": "554234"
+}

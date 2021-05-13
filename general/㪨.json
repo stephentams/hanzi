@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to mend; to repair; to copy; to write out"
+        }
+    ],
+    "general_pinyins": [
+        "shàn"
+    ],
+    "general_zhuyins": [
+        "ㄕㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "攴",
+        "non_radical_sn": "12",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "繕"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3AA8",
+            "4311124312512154"
+        ],
+        "char_code_wubi": "uduc|uukc",
+        "char_code_cangjie": "trye",
+        "char_code_zhengma": "ucix",
+        "char_code_sijiao": "81647"
+    },
+    "general_unicode": "扩展A U+3AA8",
+    "general_bs_code": "4311124312512154"
+}

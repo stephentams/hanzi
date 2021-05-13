@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "register, list, table; musical score"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bandbreite, Skala  (S, Math)​,Liste  (S)​,Spektrum  (S)​,zwanzig  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "partition,spectre,certitude,composer"
+        }
+    ],
+    "general_pinyins": [
+        "pǔ"
+    ],
+    "general_zhuyins": [
+        "ㄆㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "言",
+        "non_radical_sn": "12",
+        "total_sn": "19"
+    },
+    "general_stc": [
+        "谱"
+    ],
+    "general_ytz": [
+        "諩",
+        "谱",
+        "𧨌",
+        "𧪻",
+        "𧫭",
+        "𧭘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8B5C",
+            "4111251431224312511"
+        ],
+        "char_code_wubi": "yuoj",
+        "char_code_cangjie": "yrtca",
+        "char_code_zhengma": "sukk",
+        "char_code_sijiao": "08661"
+    },
+    "general_unicode": "基本区 U+8B5C",
+    "general_bs_code": "4111251431224312511"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "highway; thoroughfare, intersection"
+        },
+        {
+            "language": "德语",
+            "explanation": "Verkehrsstraße, Durchgang  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "rue,passage"
+        }
+    ],
+    "general_pinyins": [
+        "qú"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "行",
+        "non_radical_sn": "18",
+        "total_sn": "24"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧗪",
+        "𧘆",
+        "𩇐",
+        "𢖦",
+        "𧘀"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8862",
+            "332251112511132411121112"
+        ],
+        "char_code_wubi": "thhh|thhs",
+        "char_code_cangjie": "hobgn",
+        "char_code_zhengma": "oiln",
+        "char_code_sijiao": "21221"
+    },
+    "general_unicode": "基本区 U+8862",
+    "general_bs_code": "332251112511132411121112"
+}

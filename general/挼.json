@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rub, stroke with hands; crumple"
+        },
+        {
+            "language": "法语",
+            "explanation": "frotter,froisser"
+        }
+    ],
+    "general_pinyins": [
+        "ruó"
+    ],
+    "general_zhuyins": [
+        "ㄖㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "捰",
+        "捼",
+        "隋"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "633C",
+            "1213443531"
+        ],
+        "char_code_wubi": "revg",
+        "char_code_cangjie": "qbv",
+        "char_code_zhengma": "dpzm",
+        "char_code_sijiao": "52044"
+    },
+    "general_unicode": "基本区 U+633C",
+    "general_bs_code": "1213443531"
+}

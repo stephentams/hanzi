@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "disappointed, forlorn"
+        },
+        {
+            "language": "德语",
+            "explanation": "mutlos, verzagt"
+        },
+        {
+            "language": "法语",
+            "explanation": "fanfaronner,se vanter"
+        }
+    ],
+    "general_pinyins": [
+        "chà"
+    ],
+    "general_zhuyins": [
+        "ㄔㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "詫",
+        "𠊴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4F98",
+            "32445315"
+        ],
+        "char_code_wubi": "wpta",
+        "char_code_cangjie": "ojhp",
+        "char_code_zhengma": "nwmh",
+        "char_code_sijiao": "23214"
+    },
+    "general_unicode": "基本区 U+4F98",
+    "general_bs_code": "32445315"
+}

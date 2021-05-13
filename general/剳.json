@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "brief note; official communique"
+        }
+    ],
+    "general_pinyins": [
+        "dá",
+        "zhá"
+    ],
+    "general_zhuyins": [
+        "ㄉㄚˊ",
+        "ㄓㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "刂",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "札"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5273",
+            "12234125122"
+        ],
+        "char_code_wubi": "awgj",
+        "char_code_cangjie": "trln",
+        "char_code_zhengma": "eojk",
+        "char_code_sijiao": "42600"
+    },
+    "general_unicode": "基本区 U+5273",
+    "general_bs_code": "12234125122"
+}

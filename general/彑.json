@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "snout; KangXi radical 58"
+        }
+    ],
+    "general_pinyins": [
+        "jì"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "彑",
+        "non_radical_sn": "0",
+        "total_sn": "3"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "彐"
+    ],
+    "general_structure": "单体结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F51",
+            "551"
+        ],
+        "char_code_wubi": "xgd|xnng",
+        "char_code_cangjie": "vnm",
+        "char_code_zhengma": "zmaa",
+        "char_code_sijiao": "27102"
+    },
+    "general_unicode": "基本区 U+5F51",
+    "general_bs_code": "551"
+}

@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "music; melody"
+        },
+        {
+            "language": "德语",
+            "explanation": "harmonisch"
+        },
+        {
+            "language": "法语",
+            "explanation": "harmonieuse (musique)​"
+        }
+    ],
+    "general_pinyins": [
+        "jiē"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄝ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5588",
+            "251153532511"
+        ],
+        "char_code_wubi": "kxxr",
+        "char_code_cangjie": "rppa",
+        "char_code_zhengma": "jrrn",
+        "char_code_sijiao": "62062"
+    },
+    "general_unicode": "基本区 U+5588",
+    "general_bs_code": "251153532511"
+}

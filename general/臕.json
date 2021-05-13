@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fat; gross, sleek"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fett, Tierfett  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "graisse (d'un animal)​,graisse,gras,gros,lisse"
+        }
+    ],
+    "general_pinyins": [
+        "biāo"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "15",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "81D5",
+            "3511413522115354444"
+        ],
+        "char_code_wubi": "eyno|eoxo",
+        "char_code_cangjie": "bipf",
+        "char_code_zhengma": "qtuo",
+        "char_code_sijiao": "70231"
+    },
+    "general_unicode": "基本区 U+81D5",
+    "general_bs_code": "3511413522115354444"
+}

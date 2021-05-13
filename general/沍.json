@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "freezing; stopped up, closed off"
+        },
+        {
+            "language": "德语",
+            "explanation": "eingefroren, gefroren"
+        },
+        {
+            "language": "法语",
+            "explanation": "figé,congelé,coagulé"
+        }
+    ],
+    "general_pinyins": [
+        "hù"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "冱",
+        "𠖱",
+        "𣲐",
+        "𣲨",
+        "𣲑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6C8D",
+            "4411551"
+        ],
+        "char_code_wubi": "igxg",
+        "char_code_cangjie": "emvm",
+        "char_code_zhengma": "vbzm",
+        "char_code_sijiao": "31112"
+    },
+    "general_unicode": "基本区 U+6C8D",
+    "general_bs_code": "4411551"
+}

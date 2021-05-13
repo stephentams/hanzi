@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "offer; receive; serve; respect"
+        },
+        {
+            "language": "法语",
+            "explanation": "présenter avec respect,vénérer"
+        }
+    ],
+    "general_pinyins": [
+        "fèng"
+    ],
+    "general_zhuyins": [
+        "ㄈㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "大",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "俸",
+        "捧",
+        "𠬻",
+        "𢱵"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5949",
+            "11134112"
+        ],
+        "char_code_wubi": "dwfh|dwgj",
+        "char_code_cangjie": "qkq",
+        "char_code_zhengma": "cobi",
+        "char_code_sijiao": "50508"
+    },
+    "general_unicode": "基本区 U+5949",
+    "general_bs_code": "11134112"
+}

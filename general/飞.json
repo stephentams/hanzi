@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fly; go quickly; dart; high"
+        },
+        {
+            "language": "德语",
+            "explanation": "fliegen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "voler (avec des ailes)​"
+        }
+    ],
+    "general_pinyins": [
+        "fēi"
+    ],
+    "general_zhuyins": [
+        "ㄈㄟ"
+    ],
+    "general_radical": {
+        "radical": "飞",
+        "non_radical_sn": "0",
+        "total_sn": "3"
+    },
+    "general_stc": [
+        "飛"
+    ],
+    "general_ytz": [
+        "飛",
+        "蜚",
+        "亴",
+        "𠃧",
+        "𦐭",
+        "𦒮"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "98DE",
+            "534"
+        ],
+        "char_code_wubi": "nui",
+        "char_code_cangjie": "no",
+        "char_code_zhengma": "ydat",
+        "char_code_sijiao": "12013"
+    },
+    "general_unicode": "基本区 U+98DE",
+    "general_bs_code": "534"
+}

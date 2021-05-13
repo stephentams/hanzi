@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "evening, dusk, sunset; ending"
+        },
+        {
+            "language": "德语",
+            "explanation": "Abend  (S)​,Abenddämmerung  (S)​,Abendrot  (S)​,Ende  (S)​,Vorabend  (S)​,am Ende, gegen Ende, spät  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "crépuscule,déclin"
+        }
+    ],
+    "general_pinyins": [
+        "mù"
+    ],
+    "general_zhuyins": [
+        "ㄇㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "66AE",
+            "12225111342511"
+        ],
+        "char_code_wubi": "ajdj",
+        "char_code_cangjie": "taka",
+        "char_code_zhengma": "ekgk",
+        "char_code_sijiao": "44608"
+    },
+    "general_unicode": "基本区 U+66AE",
+    "general_bs_code": "12225111342511"
+}

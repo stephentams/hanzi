@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to toss about; to swing; to rock"
+        },
+        {
+            "language": "德语",
+            "explanation": "schütteln, erschüttern ,schütteln  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "remuer,agiter,troubler"
+        }
+    ],
+    "general_pinyins": [
+        "dàng"
+    ],
+    "general_zhuyins": [
+        "ㄉㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "皿",
+        "non_radical_sn": "12",
+        "total_sn": "17"
+    },
+    "general_stc": [
+        "荡"
+    ],
+    "general_ytz": [
+        "燙",
+        "𡐀",
+        "𡑑",
+        "𣻭",
+        "𥂳",
+        "𧑘",
+        "簜"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "76EA",
+            "44125111353325221"
+        ],
+        "char_code_wubi": "ijgl",
+        "char_code_cangjie": "ehbt",
+        "char_code_zhengma": "vkol",
+        "char_code_sijiao": "36102"
+    },
+    "general_unicode": "基本区 U+76EA",
+    "general_bs_code": "44125111353325221"
+}

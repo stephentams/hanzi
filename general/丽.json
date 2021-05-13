@@ -1,0 +1,56 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "beautiful, magnificent, elegant"
+        },
+        {
+            "language": "德语",
+            "explanation": "Korea  (S)​,schön ,schön, hübsch ,Li  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "beau,(phonétique)​"
+        }
+    ],
+    "general_pinyins": [
+        "lì",
+        "lí"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˋ",
+        "ㄌㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "一",
+        "non_radical_sn": "6",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "麗"
+    ],
+    "general_ytz": [
+        "麗",
+        "婯",
+        "𠀙",
+        "𠀞",
+        "䴡",
+        "𠐚",
+        "𠧥",
+        "𡡜",
+        "𪋘"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4E3D",
+            "1254254"
+        ],
+        "char_code_wubi": "gmyy",
+        "char_code_cangjie": "mbib",
+        "char_code_zhengma": "alld",
+        "char_code_sijiao": "10227"
+    },
+    "general_unicode": "基本区 U+4E3D",
+    "general_bs_code": "1254254"
+}

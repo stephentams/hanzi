@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "soft, tender, delicate; young"
+        },
+        {
+            "language": "德语",
+            "explanation": "sanft, weich, zart  (Adj)"
+        }
+    ],
+    "general_pinyins": [
+        "nèn"
+    ],
+    "general_zhuyins": [
+        "ㄋㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "媆",
+        "𤯦",
+        "𤯯",
+        "𦠫",
+        "嫰",
+        "㜛"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5AE9",
+            "53112512343134"
+        ],
+        "char_code_wubi": "vgkt|vskt",
+        "char_code_cangjie": "vdlk",
+        "char_code_zhengma": "zmjm",
+        "char_code_sijiao": "48440"
+    },
+    "general_unicode": "基本区 U+5AE9",
+    "general_bs_code": "53112512343134"
+}

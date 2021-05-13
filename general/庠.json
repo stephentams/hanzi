@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "village school; teach"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fachbereich, Lehranstalt  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "hospice"
+        }
+    ],
+    "general_pinyins": [
+        "xiáng"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "广",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5EA0",
+            "413431112"
+        ],
+        "char_code_wubi": "yudk|ouk",
+        "char_code_cangjie": "itq",
+        "char_code_zhengma": "tguc",
+        "char_code_sijiao": "00251"
+    },
+    "general_unicode": "基本区 U+5EA0",
+    "general_bs_code": "413431112"
+}

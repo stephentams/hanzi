@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fat; rump"
+        }
+    ],
+    "general_pinyins": [
+        "biāo"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "11",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦣁",
+        "臕",
+        "膔",
+        "脿"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8198",
+            "351112522111234"
+        ],
+        "char_code_wubi": "esfi",
+        "char_code_cangjie": "bmwf",
+        "char_code_zhengma": "qfbk",
+        "char_code_sijiao": "71291"
+    },
+    "general_unicode": "基本区 U+8198",
+    "general_bs_code": "351112522111234"
+}

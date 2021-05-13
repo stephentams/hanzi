@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "gigantic strength; hercules"
+        }
+    ],
+    "general_pinyins": [
+        "xì"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "尸",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "屃"
+    ],
+    "general_ytz": [
+        "㞒",
+        "屃",
+        "𠫍",
+        "𡳻"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5C53",
+            "5132511134"
+        ],
+        "char_code_wubi": "nmi",
+        "char_code_cangjie": "sbuc",
+        "char_code_zhengma": "xmlo",
+        "char_code_sijiao": "77286"
+    },
+    "general_unicode": "基本区 U+5C53",
+    "general_bs_code": "5132511134"
+}

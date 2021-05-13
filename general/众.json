@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "multitude, crowd; masses, public"
+        }
+    ],
+    "general_pinyins": [
+        "zhòng"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "人",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "眾",
+        "衆"
+    ],
+    "general_ytz": [
+        "乑",
+        "衆",
+        "眾",
+        "𡿻"
+    ],
+    "general_structure": "品字结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4F17",
+            "343434"
+        ],
+        "char_code_wubi": "wwwu",
+        "char_code_cangjie": "ooo",
+        "char_code_zhengma": "odoo",
+        "char_code_sijiao": "80880"
+    },
+    "general_unicode": "基本区 U+4F17",
+    "general_bs_code": "343434"
+}

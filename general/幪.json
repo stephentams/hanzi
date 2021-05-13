@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cover, shelter, screen; protect"
+        },
+        {
+            "language": "德语",
+            "explanation": "decken, umfassen"
+        }
+    ],
+    "general_pinyins": [
+        "méng"
+    ],
+    "general_zhuyins": [
+        "ㄇㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "巾",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢄐"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5E6A",
+            "2521224511353334"
+        ],
+        "char_code_wubi": "mhae",
+        "char_code_cangjie": "lbtbo",
+        "char_code_zhengma": "liag",
+        "char_code_sijiao": "44232"
+    },
+    "general_unicode": "基本区 U+5E6A",
+    "general_bs_code": "2521224511353334"
+}

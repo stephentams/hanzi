@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "enemy, foe, rival; resist"
+        },
+        {
+            "language": "法语",
+            "explanation": "ennemi,adversaire,s'opposer à,résister à"
+        }
+    ],
+    "general_pinyins": [
+        "dí"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "攵",
+        "non_radical_sn": "11",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "敌"
+    ],
+    "general_ytz": [
+        "敌",
+        "𠢗",
+        "𢿪"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6575",
+            "414325122513234"
+        ],
+        "char_code_wubi": "umdt|yumt",
+        "char_code_cangjie": "ybok",
+        "char_code_zhengma": "sulm",
+        "char_code_sijiao": "08240"
+    },
+    "general_unicode": "基本区 U+6575",
+    "general_bs_code": "414325122513234"
+}

@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dull; dull-minded, simple, stupid"
+        },
+        {
+            "language": "德语",
+            "explanation": "dumm. dümmlich, blöd(e)​  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bête,stupide,stupéfait,rester,demeurer"
+        }
+    ],
+    "general_pinyins": [
+        "dāi"
+    ],
+    "general_zhuyins": [
+        "ㄉㄞ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "獃"
+    ],
+    "general_ytz": [
+        "保",
+        "𠫡",
+        "𣎼",
+        "獃",
+        "𤶗"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5446",
+            "2511234"
+        ],
+        "char_code_wubi": "ksu",
+        "char_code_cangjie": "rd",
+        "char_code_zhengma": "jfvv",
+        "char_code_sijiao": "60904"
+    },
+    "general_unicode": "基本区 U+5446",
+    "general_bs_code": "2511234"
+}

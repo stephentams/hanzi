@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "spit, spit on; saliva"
+        },
+        {
+            "language": "德语",
+            "explanation": "anspeien ,Speichel  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cracher,salive,crachat"
+        }
+    ],
+    "general_pinyins": [
+        "tuò"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠾊",
+        "涶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "553E",
+            "25131212211"
+        ],
+        "char_code_wubi": "ktgf",
+        "char_code_cangjie": "rhjm",
+        "char_code_zhengma": "jmeb",
+        "char_code_sijiao": "62015"
+    },
+    "general_unicode": "基本区 U+553E",
+    "general_bs_code": "25131212211"
+}

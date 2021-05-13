@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "condition or appearance of moon"
+        },
+        {
+            "language": "法语",
+            "explanation": "Lune couchante"
+        }
+    ],
+    "general_pinyins": [
+        "lóng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "17",
+        "total_sn": "21"
+    },
+    "general_stc": [
+        "胧"
+    ],
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6727",
+            "35114143125111515111"
+        ],
+        "char_code_wubi": "eued",
+        "char_code_cangjie": "bybp",
+        "char_code_zhengma": "qsi",
+        "char_code_sijiao": "71211"
+    },
+    "general_unicode": "基本区 U+6727",
+    "general_bs_code": "35114143125111515111"
+}

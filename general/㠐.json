@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "high and pointed mountain, mountain paths (same as 嶠) lofty"
+        }
+    ],
+    "general_pinyins": [
+        "jiào"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "嶠"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3810",
+            "252313425125251"
+        ],
+        "char_code_wubi": "mtdk",
+        "char_code_cangjie": "uhkb",
+        "char_code_zhengma": "lljl",
+        "char_code_sijiao": "22227"
+    },
+    "general_unicode": "扩展A U+3810",
+    "general_bs_code": "252313425125251"
+}

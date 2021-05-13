@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "name of an emperor; saddle part"
+        },
+        {
+            "language": "法语",
+            "explanation": "Di Xin,sangle de selle de cheval"
+        }
+    ],
+    "general_pinyins": [
+        "zhòu"
+    ],
+    "general_zhuyins": [
+        "ㄓㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "紂"
+    ],
+    "general_ytz": [
+        "紂",
+        "𩋰"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EA3",
+            "551124"
+        ],
+        "char_code_wubi": "xfy",
+        "char_code_cangjie": "vmdi",
+        "char_code_zhengma": "zds",
+        "char_code_sijiao": "24100"
+    },
+    "general_unicode": "基本区 U+7EA3",
+    "general_bs_code": "551124"
+}

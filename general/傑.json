@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hero; outstanding, remarkable"
+        },
+        {
+            "language": "德语",
+            "explanation": "Held, Heroin, Heldin  (S)​,außergewöhnlich, überragend, hervorragend  (Adj)"
+        }
+    ],
+    "general_pinyins": [
+        "jié"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "10",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "杰"
+    ],
+    "general_ytz": [
+        "杰",
+        "桀",
+        "𠎀"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5091",
+            "323541521234"
+        ],
+        "char_code_wubi": "wqas|wqgs",
+        "char_code_cangjie": "onqd",
+        "char_code_zhengma": "nrmf",
+        "char_code_sijiao": "25294"
+    },
+    "general_unicode": "基本区 U+5091",
+    "general_bs_code": "323541521234"
+}

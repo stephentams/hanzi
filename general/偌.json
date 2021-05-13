@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "thus, so, like, such"
+        },
+        {
+            "language": "德语",
+            "explanation": "mithin, daher"
+        },
+        {
+            "language": "法语",
+            "explanation": "tellement,à un tel degré"
+        }
+    ],
+    "general_pinyins": [
+        "ruò"
+    ],
+    "general_zhuyins": [
+        "ㄖㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "惹"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "504C",
+            "3212213251"
+        ],
+        "char_code_wubi": "wadk",
+        "char_code_cangjie": "otkr",
+        "char_code_zhengma": "negj",
+        "char_code_sijiao": "24264"
+    },
+    "general_unicode": "基本区 U+504C",
+    "general_bs_code": "3212213251"
+}

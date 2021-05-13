@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "毛",
+        "non_radical_sn": "13",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "睫"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "23C0D",
+            "25111433443343115"
+        ],
+        "char_code_wubi": "hoon",
+        "char_code_cangjie": "bfhqu",
+        "char_code_zhengma": "luum"
+    },
+    "general_unicode": "扩展B U+23C0D",
+    "general_bs_code": "25111433443343115"
+}

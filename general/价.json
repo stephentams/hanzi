@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "price, value"
+        },
+        {
+            "language": "德语",
+            "explanation": "Preis  (S)​,Diener  (S)​,Mittelsmann  (S)​,artig  (Adj)​,bedeutend"
+        },
+        {
+            "language": "法语",
+            "explanation": "prix,valeur,valence (chimie)​,faire (utilisé dans certaines expressions)​"
+        }
+    ],
+    "general_pinyins": [
+        "jià",
+        "jiè",
+        "jie"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄚˋ",
+        "ㄐㄧㄝˋ",
+        "ㄐㄧㄝ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "價"
+    ],
+    "general_ytz": [
+        "價",
+        "㑘",
+        "𠇴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4EF7",
+            "323432"
+        ],
+        "char_code_wubi": "wwjh",
+        "char_code_cangjie": "ooll",
+        "char_code_zhengma": "nond",
+        "char_code_sijiao": "28220"
+    },
+    "general_unicode": "基本区 U+4EF7",
+    "general_bs_code": "323432"
+}

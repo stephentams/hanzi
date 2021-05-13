@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mulberry"
+        }
+    ],
+    "general_pinyins": [
+        "yǎn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "14",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣝓"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6ABF",
+            "132511251113441234"
+        ],
+        "char_code_wubi": "djes",
+        "char_code_cangjie": "mkd",
+        "char_code_zhengma": "ggsf",
+        "char_code_sijiao": "71294"
+    },
+    "general_unicode": "基本区 U+6ABF",
+    "general_bs_code": "132511251113441234"
+}

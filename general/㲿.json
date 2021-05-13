@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "extensive body of water; broad and deep of water; momentum of moving water deep and wide"
+        }
+    ],
+    "general_pinyins": [
+        "wǎng"
+    ],
+    "general_zhuyins": [
+        "ㄨㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "瀇"
+    ],
+    "general_ytz": [
+        "瀇"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3CBF",
+            "441413"
+        ],
+        "char_code_wubi": "iyt|iot",
+        "char_code_cangjie": "ei",
+        "char_code_zhengma": "vtg",
+        "char_code_sijiao": "30100"
+    },
+    "general_unicode": "扩展A U+3CBF",
+    "general_bs_code": "441413"
+}

@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "boundary, bank of stream or river"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bank, Böschung  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "limite,borne,frontière"
+        }
+    ],
+    "general_pinyins": [
+        "yín"
+    ],
+    "general_zhuyins": [
+        "ㄧㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㙬",
+        "圻",
+        "垦",
+        "泿",
+        "𡊷",
+        "𡋳",
+        "𡏴",
+        "𡑃",
+        "𡹊",
+        "𤍂"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "57A0",
+            "121511534"
+        ],
+        "char_code_wubi": "fvey|fvy",
+        "char_code_cangjie": "gav",
+        "char_code_zhengma": "bxo",
+        "char_code_sijiao": "47132"
+    },
+    "general_unicode": "基本区 U+57A0",
+    "general_bs_code": "121511534"
+}

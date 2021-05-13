@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pant, gasp, breathe heavily"
+        },
+        {
+            "language": "德语",
+            "explanation": "keuchen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "haleter,asthme"
+        }
+    ],
+    "general_pinyins": [
+        "chuǎn"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "歂",
+        "𠽴",
+        "𡄠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5598",
+            "251252132522"
+        ],
+        "char_code_wubi": "kmdj",
+        "char_code_cangjie": "rumb",
+        "char_code_zhengma": "jlgl",
+        "char_code_sijiao": "62027"
+    },
+    "general_unicode": "基本区 U+5598",
+    "general_bs_code": "251252132522"
+}

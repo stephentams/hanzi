@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "foundation, base"
+        },
+        {
+            "language": "德语",
+            "explanation": "basisch, grundlegend ,gründlich, radikal ,Gründung  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "fondement,fondation,propriétés"
+        }
+    ],
+    "general_pinyins": [
+        "jī"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "其",
+        "𡉊",
+        "𡉝",
+        "𡉼",
+        "𡋵",
+        "𨄎",
+        "㙋",
+        "𡉨"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "57FA",
+            "12211134121"
+        ],
+        "char_code_wubi": "adwf|dwff",
+        "char_code_cangjie": "tcg",
+        "char_code_zhengma": "ecb",
+        "char_code_sijiao": "44104"
+    },
+    "general_unicode": "基本区 U+57FA",
+    "general_bs_code": "12211134121"
+}

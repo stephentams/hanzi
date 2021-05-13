@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to cut off the feet"
+        },
+        {
+            "language": "德语",
+            "explanation": "glatzköpfig  (Adj)​,kahl  (Adj)​,nackt  (Adj)​,nüchtern  (Adj)​,aufragen  (Adv)​,hervorragen  (Adv)​,hochragen  (Adv)​,Wu  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "haut plateau,(exclamation)​"
+        }
+    ],
+    "general_pinyins": [
+        "wù"
+    ],
+    "general_zhuyins": [
+        "ㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "儿",
+        "non_radical_sn": "1",
+        "total_sn": "3"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㐳",
+        "兀"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5140",
+            "135"
+        ],
+        "char_code_wubi": "gqv",
+        "char_code_cangjie": "mu",
+        "char_code_zhengma": "gr",
+        "char_code_sijiao": "10212"
+    },
+    "general_unicode": "基本区 U+5140",
+    "general_bs_code": "135"
+}

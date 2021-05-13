@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "léi"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "鬼",
+        "non_radical_sn": "15",
+        "total_sn": "24"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "29D3B",
+            "2512125121251213251213554"
+        ],
+        "char_code_wubi": "lllc",
+        "char_code_cangjie": "wwwi",
+        "char_code_zhengma": "kikn"
+    },
+    "general_unicode": "扩展B U+29D3B",
+    "general_bs_code": "2512125121251213251213554"
+}

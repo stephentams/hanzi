@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "the water plantain"
+        }
+    ],
+    "general_pinyins": [
+        "zé"
+    ],
+    "general_zhuyins": [
+        "ㄗㄜˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "16",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "456A",
+            "1224412522112143112"
+        ],
+        "char_code_wubi": "ailf",
+        "char_code_cangjie": "tewj",
+        "char_code_zhengma": "evbu",
+        "char_code_sijiao": "44141"
+    },
+    "general_unicode": "扩展A U+456A",
+    "general_bs_code": "1224412522112143112"
+}

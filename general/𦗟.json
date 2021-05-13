@@ -1,0 +1,28 @@
+{
+    "general_pinyins": [
+        "tīng",
+        "tè"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "耳",
+        "non_radical_sn": "12",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "聽"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "265DF",
+            "122111132522114544"
+        ],
+        "char_code_wubi": "bfln",
+        "char_code_cangjie": "sjjwp",
+        "char_code_zhengma": "ceaw"
+    },
+    "general_unicode": "扩展B U+265DF",
+    "general_bs_code": "122111132522114544"
+}

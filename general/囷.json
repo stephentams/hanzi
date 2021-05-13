@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "round-shaped storage bin for grain"
+        },
+        {
+            "language": "德语",
+            "explanation": "Getreidespeicher, Kornkammer  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "grenier"
+        }
+    ],
+    "general_pinyins": [
+        "qūn"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩㄣ"
+    ],
+    "general_radical": {
+        "radical": "囗",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡈀",
+        "𡈋"
+    ],
+    "general_structure": "全包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "56F7",
+            "25312341"
+        ],
+        "char_code_wubi": "lti",
+        "char_code_cangjie": "whd",
+        "char_code_zhengma": "jdmf",
+        "char_code_sijiao": "60904"
+    },
+    "general_unicode": "基本区 U+56F7",
+    "general_bs_code": "25312341"
+}

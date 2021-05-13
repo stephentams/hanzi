@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "horn, bugle; lama; final particle"
+        },
+        {
+            "language": "德语",
+            "explanation": "La  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(phonétique)​,babiller,jacasser"
+        }
+    ],
+    "general_pinyins": [
+        "lǎ"
+    ],
+    "general_zhuyins": [
+        "ㄌㄚˇ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦎏",
+        "喇"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5587",
+            "251125123422"
+        ],
+        "char_code_wubi": "kgkj|kskj",
+        "char_code_cangjie": "rdln",
+        "char_code_zhengma": "jfjk",
+        "char_code_sijiao": "62000"
+    },
+    "general_unicode": "基本区 U+5587",
+    "general_bs_code": "251125123422"
+}

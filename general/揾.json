@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wipe off; press down with knuckle"
+        },
+        {
+            "language": "法语",
+            "explanation": "presser avec ses doigts,essuyer"
+        }
+    ],
+    "general_pinyins": [
+        "wèn"
+    ],
+    "general_zhuyins": [
+        "ㄨㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "搵"
+    ],
+    "general_ytz": [
+        "搵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "63FE",
+            "121251125221"
+        ],
+        "char_code_wubi": "rjlg",
+        "char_code_cangjie": "qabt",
+        "char_code_zhengma": "dklk",
+        "char_code_sijiao": "56012"
+    },
+    "general_unicode": "基本区 U+63FE",
+    "general_bs_code": "121251125221"
+}

@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "yuán"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "厂",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "20A60",
+            "132511134"
+        ],
+        "char_code_wubi": "dmi",
+        "char_code_cangjie": "mbuc",
+        "char_code_zhengma": "gglo"
+    },
+    "general_unicode": "扩展B U+20A60",
+    "general_bs_code": "132511134"
+}

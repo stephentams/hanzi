@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "affair, matter, business; to serve; accident, incident"
+        },
+        {
+            "language": "德语",
+            "explanation": "Angelegenheit, Ereignis, Geschäft; Unfall  (S)​,Angelegenheit  (S)​,Sache  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "être occupé,être engagé dans,affaire,chose (immatérielle)​,accident,trouble,travail,responsabilité,implication,empêtrement"
+        }
+    ],
+    "general_pinyins": [
+        "shì"
+    ],
+    "general_zhuyins": [
+        "ㄕˋ"
+    ],
+    "general_radical": {
+        "radical": "亅",
+        "non_radical_sn": "7",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㕝",
+        "亊",
+        "叓",
+        "𠁱",
+        "𠫺",
+        "𠭆",
+        "𠭏",
+        "𤔇"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4E8B",
+            "12515112"
+        ],
+        "char_code_wubi": "gkvh",
+        "char_code_cangjie": "jlln",
+        "char_code_zhengma": "djxb",
+        "char_code_sijiao": "50007"
+    },
+    "general_unicode": "基本区 U+4E8B",
+    "general_bs_code": "12515112"
+}

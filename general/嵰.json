@@ -1,0 +1,30 @@
+{
+    "general_pinyins": [
+        "qīn",
+        "qiǎn"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄣ",
+        "ㄑㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5D70",
+            "2524315112234"
+        ],
+        "char_code_wubi": "muvo|muvw",
+        "char_code_cangjie": "utxc",
+        "char_code_zhengma": "llux",
+        "char_code_sijiao": "28737"
+    },
+    "general_unicode": "基本区 U+5D70",
+    "general_bs_code": "2524315112234"
+}

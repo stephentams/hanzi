@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 梐) a stockade; a cheval de frise, a pen; a cage"
+        }
+    ],
+    "general_pinyins": [
+        "bì"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "11",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "梐"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3BC7",
+            "123421112111121"
+        ],
+        "char_code_wubi": "sdjf|shdf",
+        "char_code_cangjie": "dlyg",
+        "char_code_zhengma": "fkb",
+        "char_code_sijiao": "41914"
+    },
+    "general_unicode": "扩展A U+3BC7",
+    "general_bs_code": "123421112111121"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sheep, goat; KangXi radical 123"
+        },
+        {
+            "language": "德语",
+            "explanation": "allg. für Schaf oder Ziege (S, Bio)​,Radikal Nr. 123 = Schaf, Ziege (Variante: 羋)"
+        },
+        {
+            "language": "法语",
+            "explanation": "mouton,chèvre"
+        }
+    ],
+    "general_pinyins": [
+        "yáng",
+        "xiáng"
+    ],
+    "general_zhuyins": [
+        "ㄧㄤˊ",
+        "ㄒㄧㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "羊",
+        "non_radical_sn": "0",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦍋",
+        "羋",
+        "𦍌"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F8A",
+            "431112"
+        ],
+        "char_code_wubi": "udj|uyth",
+        "char_code_cangjie": "tq",
+        "char_code_zhengma": "uc",
+        "char_code_sijiao": "80501"
+    },
+    "general_unicode": "基本区 U+7F8A",
+    "general_bs_code": "431112"
+}

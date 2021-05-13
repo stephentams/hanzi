@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a kind of barley, dust of ferment for brewing; small crumbs of grains from the distillery"
+        }
+    ],
+    "general_pinyins": [
+        "kuàng"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "麥",
+        "non_radical_sn": "11",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𪍿",
+        "䊣"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4D43",
+            "1234343435412212512134"
+        ],
+        "char_code_wubi": "swww",
+        "char_code_cangjie": "jetmc",
+        "char_code_zhengma": "foko",
+        "char_code_sijiao": "44486"
+    },
+    "general_unicode": "扩展A U+4D43",
+    "general_bs_code": "1234343435412212512134"
+}

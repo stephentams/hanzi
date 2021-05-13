@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "smoke, fog, vapor; smoke, cure"
+        },
+        {
+            "language": "德语",
+            "explanation": "duften, riechen  (V)​,etw. räuchern  (V, Ess)​,verräuchern, ausgasen, desinfizieren  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "Fumage"
+        }
+    ],
+    "general_pinyins": [
+        "xūn"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄣ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "14",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "熏"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "71FB",
+            "433431254312114444"
+        ],
+        "char_code_wubi": "otgo",
+        "char_code_cangjie": "fhgf",
+        "char_code_zhengma": "uobu",
+        "char_code_sijiao": "92831"
+    },
+    "general_unicode": "基本区 U+71FB",
+    "general_bs_code": "433431254312114444"
+}

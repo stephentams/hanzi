@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to raise the curtain, a kind of rock"
+        }
+    ],
+    "general_pinyins": [
+        "ài"
+    ],
+    "general_zhuyins": [
+        "ㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "厂",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "354C",
+            "1325111124"
+        ],
+        "char_code_wubi": "djgf",
+        "char_code_cangjie": "mami",
+        "char_code_zhengma": "ggad",
+        "char_code_sijiao": "71241"
+    },
+    "general_unicode": "扩展A U+354C",
+    "general_bs_code": "1325111124"
+}

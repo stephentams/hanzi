@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dried bamboo"
+        }
+    ],
+    "general_pinyins": [
+        "xiàn"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "15",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "426F",
+            "314314125125542511134"
+        ],
+        "char_code_wubi": "tahm",
+        "char_code_cangjie": "hsec",
+        "char_code_zhengma": "mhxl",
+        "char_code_sijiao": "88806"
+    },
+    "general_unicode": "扩展A U+426F",
+    "general_bs_code": "314314125125542511134"
+}

@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cinnabar (native HgS); vermilion (artificial HgS used as pigment)"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kügelchen, Pulver ,Rot, Zinnoberrot"
+        },
+        {
+            "language": "法语",
+            "explanation": "rouge,vermillon,remède"
+        }
+    ],
+    "general_pinyins": [
+        "dān"
+    ],
+    "general_zhuyins": [
+        "ㄉㄢ"
+    ],
+    "general_radical": {
+        "radical": "丿",
+        "non_radical_sn": "3",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㐤",
+        "㣋",
+        "𠁿",
+        "𠂁",
+        "𠕑",
+        "𢒈",
+        "丹"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4E39",
+            "3541"
+        ],
+        "char_code_wubi": "myd",
+        "char_code_cangjie": "by",
+        "char_code_zhengma": "qsvv",
+        "char_code_sijiao": "77440"
+    },
+    "general_unicode": "基本区 U+4E39",
+    "general_bs_code": "3541"
+}

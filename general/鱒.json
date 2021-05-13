@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "barbel"
+        },
+        {
+            "language": "德语",
+            "explanation": "Seeforelle  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "zūn"
+    ],
+    "general_zhuyins": [
+        "ㄗㄨㄣ"
+    ],
+    "general_radical": {
+        "radical": "魚",
+        "non_radical_sn": "12",
+        "total_sn": "23"
+    },
+    "general_stc": [
+        "鳟"
+    ],
+    "general_ytz": [
+        "鳟"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9C52",
+            "35251214444431253511124"
+        ],
+        "char_code_wubi": "qouf",
+        "char_code_cangjie": "nftwi",
+        "char_code_zhengma": "rufd",
+        "char_code_sijiao": "28346"
+    },
+    "general_unicode": "基本区 U+9C52",
+    "general_bs_code": "35251214444431253511124"
+}

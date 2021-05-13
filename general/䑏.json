@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ugly, a legendary animal"
+        }
+    ],
+    "general_pinyins": [
+        "quán"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "17",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦝢"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "444F",
+            "351112225125132411121"
+        ],
+        "char_code_wubi": "eaky",
+        "char_code_cangjie": "btrg",
+        "char_code_zhengma": "qejn",
+        "char_code_sijiao": "74215"
+    },
+    "general_unicode": "扩展A U+444F",
+    "general_bs_code": "351112225125132411121"
+}

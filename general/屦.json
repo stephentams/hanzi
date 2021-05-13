@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "straw sandals; tread on"
+        },
+        {
+            "language": "德语",
+            "explanation": "Sandalen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "sandale"
+        }
+    ],
+    "general_pinyins": [
+        "jù"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "尸",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "屨"
+    ],
+    "general_ytz": [
+        "屨"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5C66",
+            "513332431234531"
+        ],
+        "char_code_wubi": "ntov",
+        "char_code_cangjie": "shov",
+        "char_code_zhengma": "xmuz",
+        "char_code_sijiao": "77244"
+    },
+    "general_unicode": "基本区 U+5C66",
+    "general_bs_code": "513332431234531"
+}

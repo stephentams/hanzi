@@ -1,0 +1,29 @@
+{
+    "general_pinyins": [
+        "jí"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "人",
+        "non_radical_sn": "1",
+        "total_sn": "3"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "集"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "204DB",
+            "341"
+        ],
+        "char_code_wubi": "tygf",
+        "char_code_cangjie": "om",
+        "char_code_zhengma": "odaa"
+    },
+    "general_unicode": "扩展B U+204DB",
+    "general_bs_code": "341"
+}

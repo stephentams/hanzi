@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "13",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "貸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "203DE",
+            "321212511134534"
+        ],
+        "char_code_wubi": "wghm",
+        "char_code_cangjie": "omic",
+        "char_code_zhengma": "nahl"
+    },
+    "general_unicode": "扩展B U+203DE",
+    "general_bs_code": "321212511134534"
+}

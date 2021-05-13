@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "cut or engrave; a grave or tombstone"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 setzen platzieren  (V)​,unterstellen, unterbringen  (V)"
+        }
+    ],
+    "general_pinyins": [
+        "cuò"
+    ],
+    "general_zhuyins": [
+        "ㄘㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "厂",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "瘄",
+        "𠪞",
+        "𥕉"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "539D",
+            "1312212511"
+        ],
+        "char_code_wubi": "dajd",
+        "char_code_cangjie": "mta",
+        "char_code_zhengma": "ggek",
+        "char_code_sijiao": "71261"
+    },
+    "general_unicode": "基本区 U+539D",
+    "general_bs_code": "1312212511"
+}

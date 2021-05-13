@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 髑) human skull"
+        }
+    ],
+    "general_pinyins": [
+        "dú"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "頁",
+        "non_radical_sn": "13",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "髑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4AF3",
+            "2522135251214132511134"
+        ],
+        "char_code_wubi": "lqjm",
+        "char_code_cangjie": "wimbc",
+        "char_code_zhengma": "lkig",
+        "char_code_sijiao": "61186"
+    },
+    "general_unicode": "扩展A U+4AF3",
+    "general_bs_code": "2522135251214132511134"
+}

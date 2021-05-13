@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "jià"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "13",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "252E3",
+            "251111252212511134"
+        ],
+        "char_code_wubi": "hsmy",
+        "char_code_cangjie": "bumwc",
+        "char_code_zhengma": "lflo"
+    },
+    "general_unicode": "扩展B U+252E3",
+    "general_bs_code": "251111252212511134"
+}

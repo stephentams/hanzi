@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wolf; cruel, wicked, mean"
+        }
+    ],
+    "general_pinyins": [
+        "chái"
+    ],
+    "general_zhuyins": [
+        "ㄔㄞˊ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "豺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "72B2",
+            "353123"
+        ],
+        "char_code_wubi": "qtft",
+        "char_code_cangjie": "khdh",
+        "char_code_zhengma": "qmdm",
+        "char_code_sijiao": "44200"
+    },
+    "general_unicode": "基本区 U+72B2",
+    "general_bs_code": "353123"
+}

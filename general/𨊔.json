@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "lán"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "身",
+        "non_radical_sn": "14",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "28294",
+            "325111312512531425221"
+        ],
+        "char_code_wubi": "tmdl",
+        "char_code_cangjie": "hhsit",
+        "char_code_zhengma": "ncml"
+    },
+    "general_unicode": "扩展B U+28294",
+    "general_bs_code": "325111312512531425221"
+}

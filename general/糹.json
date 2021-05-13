@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "silk; KangXi radical 120"
+        }
+    ],
+    "general_pinyins": [
+        "sī"
+    ],
+    "general_zhuyins": [
+        "ㄙ"
+    ],
+    "general_radical": {
+        "radical": "糹",
+        "non_radical_sn": "0",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "纟"
+    ],
+    "general_ytz": [
+        "糸"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7CF9",
+            "554444"
+        ],
+        "char_code_wubi": "xnny",
+        "char_code_cangjie": "vif",
+        "char_code_zhengma": "zaaa",
+        "char_code_sijiao": "22903"
+    },
+    "general_unicode": "基本区 U+7CF9",
+    "general_bs_code": "554444"
+}

@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hut"
+        }
+    ],
+    "general_pinyins": [
+        "zēng",
+        "céng"
+    ],
+    "general_zhuyins": [
+        "ㄗㄥ",
+        "ㄘㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "12",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "竲",
+        "𧲅"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6A67",
+            "1234432524312511"
+        ],
+        "char_code_wubi": "sulj",
+        "char_code_cangjie": "dcwa",
+        "char_code_zhengma": "fulk",
+        "char_code_sijiao": "48966"
+    },
+    "general_unicode": "基本区 U+6A67",
+    "general_bs_code": "1234432524312511"
+}

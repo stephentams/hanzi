@@ -1,0 +1,62 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "earth; soil, ground; region"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 Adverbiale Partikel ,Erde  (Agrar)​,Grund, Boden ,Platz, Stelle ,Land, Terrain"
+        }
+    ],
+    "general_pinyins": [
+        "dì",
+        "de"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧˋ",
+        "˙ㄉㄜ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "坔",
+        "埅",
+        "埊",
+        "墬",
+        "嶳",
+        "𠏂",
+        "𡍑",
+        "𡏇",
+        "𡑸",
+        "𡒰",
+        "𡒴",
+        "𡒿",
+        "𡓬",
+        "𤅴",
+        "𨻐",
+        "𪒉",
+        "𤯓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5730",
+            "121525"
+        ],
+        "char_code_wubi": "fbn",
+        "char_code_cangjie": "gpd",
+        "char_code_zhengma": "byi",
+        "char_code_sijiao": "44112"
+    },
+    "general_unicode": "基本区 U+5730",
+    "general_bs_code": "121525"
+}

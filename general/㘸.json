@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 葬) to bury, (ancient form of 坐) to sit, a seat"
+        }
+    ],
+    "general_pinyins": [
+        "zàng"
+    ],
+    "general_zhuyins": [
+        "ㄗㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "坐",
+        "葬"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3638",
+            "135435121"
+        ],
+        "char_code_wubi": "gqxf",
+        "char_code_cangjie": "mnpg",
+        "char_code_zhengma": "arrb",
+        "char_code_sijiao": "10104"
+    },
+    "general_unicode": "扩展A U+3638",
+    "general_bs_code": "135435121"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "moss, lichen"
+        },
+        {
+            "language": "德语",
+            "explanation": "Moos  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "mousse,lichen,bryophyte"
+        }
+    ],
+    "general_pinyins": [
+        "xiǎn"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "17",
+        "total_sn": "20"
+    },
+    "general_stc": [
+        "藓"
+    ],
+    "general_ytz": [
+        "藓"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "861A",
+            "12235251214444431112"
+        ],
+        "char_code_wubi": "aqod|aqou",
+        "char_code_cangjie": "tnfq",
+        "char_code_zhengma": "eruc",
+        "char_code_sijiao": "44351"
+    },
+    "general_unicode": "基本区 U+861A",
+    "general_bs_code": "12235251214444431112"
+}

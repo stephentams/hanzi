@@ -1,0 +1,30 @@
+{
+    "general_pinyins": [
+        "fú"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "又",
+        "non_radical_sn": "2",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "服",
+        "𢻮"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "20B1D",
+            "5254"
+        ],
+        "char_code_wubi": "bci",
+        "char_code_cangjie": "sle",
+        "char_code_zhengma": "yxs"
+    },
+    "general_unicode": "扩展B U+20B1D",
+    "general_bs_code": "5254"
+}

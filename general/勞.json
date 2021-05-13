@@ -1,0 +1,56 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "labor, toil, do manual work"
+        },
+        {
+            "language": "德语",
+            "explanation": "Arbeit, Mühe  (S)​,damme ??? ,arbeiten, sich abmühen  (V)​,Lao  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "fatigue,peine,mérite,exploit,prendre la peine de,récompenser,consoler"
+        }
+    ],
+    "general_pinyins": [
+        "láo"
+    ],
+    "general_zhuyins": [
+        "ㄌㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "力",
+        "non_radical_sn": "10",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "劳"
+    ],
+    "general_ytz": [
+        "僗",
+        "劳",
+        "労",
+        "憥",
+        "𠣁",
+        "𢥒",
+        "𣬄",
+        "𣬇",
+        "𤛮",
+        "耮",
+        "勞"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "52DE",
+            "433443344553"
+        ],
+        "char_code_wubi": "oopl|oope",
+        "char_code_cangjie": "ffbks",
+        "char_code_zhengma": "uowy",
+        "char_code_sijiao": "99427"
+    },
+    "general_unicode": "基本区 U+52DE",
+    "general_bs_code": "433443344553"
+}

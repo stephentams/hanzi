@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "calf of the leg"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kalbsbein"
+        }
+    ],
+    "general_pinyins": [
+        "lián"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "13",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𩪬"
+    ],
+    "general_structure": "左右结构；右边中间不要写成彐",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "81C1",
+            "35114134315112234"
+        ],
+        "char_code_wubi": "eyuo|eouw",
+        "char_code_cangjie": "bitc",
+        "char_code_zhengma": "qtux",
+        "char_code_sijiao": "70237"
+    },
+    "general_unicode": "基本区 U+81C1",
+    "general_bs_code": "35114134315112234"
+}

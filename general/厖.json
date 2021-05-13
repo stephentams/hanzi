@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bulky; thick and large; confused"
+        },
+        {
+            "language": "德语",
+            "explanation": "riesig, überdimensional"
+        },
+        {
+            "language": "法语",
+            "explanation": "énorme"
+        }
+    ],
+    "general_pinyins": [
+        "máng"
+    ],
+    "general_zhuyins": [
+        "ㄇㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "厂",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "庬",
+        "痝",
+        "𠩇"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5396",
+            "131353334"
+        ],
+        "char_code_wubi": "ddne|ddny",
+        "char_code_cangjie": "miuh",
+        "char_code_zhengma": "gggm",
+        "char_code_sijiao": "71214"
+    },
+    "general_unicode": "基本区 U+5396",
+    "general_bs_code": "131353334"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "slash, cut in two; contradict"
+        },
+        {
+            "language": "德语",
+            "explanation": "drastisch kürzen, drastisch reduzieren ,starrköpfig, hartnäckig"
+        },
+        {
+            "language": "法语",
+            "explanation": "sabrer,couper,taillader"
+        }
+    ],
+    "general_pinyins": [
+        "là",
+        "lá"
+    ],
+    "general_zhuyins": [
+        "ㄌㄚˋ",
+        "ㄌㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "刂",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "瘌"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "524C",
+            "125123422"
+        ],
+        "char_code_wubi": "gkij|skjh",
+        "char_code_cangjie": "dlln",
+        "char_code_zhengma": "fjkd",
+        "char_code_sijiao": "52900"
+    },
+    "general_unicode": "基本区 U+524C",
+    "general_bs_code": "125123422"
+}

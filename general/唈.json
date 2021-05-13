@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to sob"
+        },
+        {
+            "language": "德语",
+            "explanation": "Herzklopfen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "palpitation,souffle court"
+        }
+    ],
+    "general_pinyins": [
+        "yì"
+    ],
+    "general_zhuyins": [
+        "ㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5508",
+            "2512515215"
+        ],
+        "char_code_wubi": "kkcn",
+        "char_code_cangjie": "rrau",
+        "char_code_zhengma": "jjyi",
+        "char_code_sijiao": "66017"
+    },
+    "general_unicode": "基本区 U+5508",
+    "general_bs_code": "2512515215"
+}

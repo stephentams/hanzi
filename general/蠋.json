@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "caterpillar"
+        },
+        {
+            "language": "德语",
+            "explanation": "Raupe  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "larve"
+        }
+    ],
+    "general_pinyins": [
+        "zhú"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "13",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䠱",
+        "蜀",
+        "蠾",
+        "𧑏"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "880B",
+            "2512142522135251214"
+        ],
+        "char_code_wubi": "jlqj",
+        "char_code_cangjie": "liwli",
+        "char_code_zhengma": "ilri",
+        "char_code_sijiao": "56127"
+    },
+    "general_unicode": "基本区 U+880B",
+    "general_bs_code": "2512142522135251214"
+}

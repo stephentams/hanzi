@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "conceal; shun; regard as taboo"
+        },
+        {
+            "language": "德语",
+            "explanation": "für tabu erklären, tabuisieren"
+        },
+        {
+            "language": "法语",
+            "explanation": "cacher,taire,tabou"
+        }
+    ],
+    "general_pinyins": [
+        "huì"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "諱"
+    ],
+    "general_ytz": [
+        "諱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BB3",
+            "451152"
+        ],
+        "char_code_wubi": "yfnh",
+        "char_code_cangjie": "ivqs",
+        "char_code_zhengma": "sby",
+        "char_code_sijiao": "35727"
+    },
+    "general_unicode": "基本区 U+8BB3",
+    "general_bs_code": "451152"
+}

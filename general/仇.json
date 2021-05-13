@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "enemy, hate, hatred, enmity"
+        },
+        {
+            "language": "法语",
+            "explanation": "haine,ennemi,adversaire,(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "chóu",
+        "qiú"
+    ],
+    "general_zhuyins": [
+        "ㄔㄡˊ",
+        "ㄑㄧㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "2",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㐜",
+        "讎"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4EC7",
+            "3235"
+        ],
+        "char_code_wubi": "wvn",
+        "char_code_cangjie": "okn",
+        "char_code_zhengma": "nqy",
+        "char_code_sijiao": "24217"
+    },
+    "general_unicode": "基本区 U+4EC7",
+    "general_bs_code": "3235"
+}

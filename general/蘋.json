@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "apple"
+        },
+        {
+            "language": "德语",
+            "explanation": "(English: clover fern)​ ,Nardu (Marsilia quadrifolia)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "pomme"
+        }
+    ],
+    "general_pinyins": [
+        "pín",
+        "píng"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧㄣˊ",
+        "ㄆㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "16",
+        "total_sn": "19"
+    },
+    "general_stc": [
+        "苹"
+    ],
+    "general_ytz": [
+        "𦿜",
+        "薲",
+        "苹"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "860B",
+            "1222121233132511134"
+        ],
+        "char_code_wubi": "ahim|ahhm",
+        "char_code_cangjie": "tyhc",
+        "char_code_zhengma": "eikg",
+        "char_code_sijiao": "44286"
+    },
+    "general_unicode": "基本区 U+860B",
+    "general_bs_code": "1222121233132511134"
+}

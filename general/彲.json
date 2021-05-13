@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "yellow dragon"
+        }
+    ],
+    "general_pinyins": [
+        "chī"
+    ],
+    "general_zhuyins": [
+        "ㄔ"
+    ],
+    "general_radical": {
+        "radical": "彡",
+        "non_radical_sn": "19",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "彨",
+        "螭"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F72",
+            "1254125441352211535333"
+        ],
+        "char_code_wubi": "gmye",
+        "char_code_cangjie": "mphhh",
+        "char_code_zhengma": "altp",
+        "char_code_sijiao": "12222"
+    },
+    "general_unicode": "基本区 U+5F72",
+    "general_bs_code": "1254125441352211535333"
+}

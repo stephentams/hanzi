@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(Cant.) sick, unwell"
+        }
+    ],
+    "general_pinyins": [
+        "pǒu"
+    ],
+    "general_zhuyins": [
+        "ㄆㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "咅"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "54E3",
+            "2511251431"
+        ],
+        "char_code_wubi": "kgku",
+        "char_code_cangjie": "rmrt",
+        "char_code_zhengma": "jaju",
+        "char_code_sijiao": "61018"
+    },
+    "general_unicode": "基本区 U+54E3",
+    "general_bs_code": "2511251431"
+}

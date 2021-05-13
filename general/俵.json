@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "divide, distribute"
+        },
+        {
+            "language": "德语",
+            "explanation": "verteilen, verteilen, verbreiten"
+        },
+        {
+            "language": "法语",
+            "explanation": "distribuer"
+        }
+    ],
+    "general_pinyins": [
+        "biào"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㧼",
+        "䞄",
+        "脿"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4FF5",
+            "3211213534"
+        ],
+        "char_code_wubi": "wgey",
+        "char_code_cangjie": "oqmv",
+        "char_code_zhengma": "ncrh",
+        "char_code_sijiao": "25232"
+    },
+    "general_unicode": "基本区 U+4FF5",
+    "general_bs_code": "3211213534"
+}

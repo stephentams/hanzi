@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "awkward"
+        },
+        {
+            "language": "德语",
+            "explanation": "tollpatschig, tapsig"
+        },
+        {
+            "language": "法语",
+            "explanation": "incommode,courbé vers l'extérieur"
+        }
+    ],
+    "general_pinyins": [
+        "biè"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "弓",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㢼",
+        "別",
+        "𡚂",
+        "𢏨",
+        "𥏟",
+        "憋"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F46",
+            "43252343134515"
+        ],
+        "char_code_wubi": "umix|itxb",
+        "char_code_cangjie": "fkn",
+        "char_code_zhengma": "kvmy",
+        "char_code_sijiao": "98027"
+    },
+    "general_unicode": "基本区 U+5F46",
+    "general_bs_code": "43252343134515"
+}

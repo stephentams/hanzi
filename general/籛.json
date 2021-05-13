@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "surname"
+        },
+        {
+            "language": "德语",
+            "explanation": "Jian  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom de famille)​,(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "jiǎn",
+        "jiān"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢˇ",
+        "ㄐㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "16",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "篯"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7C5B",
+            "3143143411243115341534"
+        ],
+        "char_code_wubi": "tqaa",
+        "char_code_cangjie": "hcii",
+        "char_code_zhengma": "mphh",
+        "char_code_sijiao": "88153"
+    },
+    "general_unicode": "基本区 U+7C5B",
+    "general_bs_code": "3143143411243115341534"
+}

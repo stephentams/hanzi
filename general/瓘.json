@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "jade"
+        },
+        {
+            "language": "法语",
+            "explanation": "jade utilisé pour fabriquer des gobelets"
+        }
+    ],
+    "general_pinyins": [
+        "guàn"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "17",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "74D8",
+            "112112225125132411121"
+        ],
+        "char_code_wubi": "gaky",
+        "char_code_cangjie": "mgtrg",
+        "char_code_zhengma": "cejn",
+        "char_code_sijiao": "14115"
+    },
+    "general_unicode": "基本区 U+74D8",
+    "general_bs_code": "112112225125132411121"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "old, aged; experienced"
+        },
+        {
+            "language": "德语",
+            "explanation": "alt, sehr, immer,erfahren  (Adj)​,Höfliche Anrede für einen alten Bekannten.  (S)​,Lao  (Eig, Fam)​,Radikal Nr. 125 = alt, betagt, veraltet, überholt, hart, dunkelfarbig"
+        },
+        {
+            "language": "法语",
+            "explanation": "vieux,âgé,ancien,démodé,toujours,dur"
+        }
+    ],
+    "general_pinyins": [
+        "lǎo"
+    ],
+    "general_zhuyins": [
+        "ㄌㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "耂",
+        "non_radical_sn": "2",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠄰",
+        "𠈣",
+        "𦒳",
+        "耂",
+        "老"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8001",
+            "121335"
+        ],
+        "char_code_wubi": "ftxb",
+        "char_code_cangjie": "jkp",
+        "char_code_zhengma": "bmrr",
+        "char_code_sijiao": "44712"
+    },
+    "general_unicode": "基本区 U+8001",
+    "general_bs_code": "121335"
+}

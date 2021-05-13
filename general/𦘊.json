@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "lì"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "耳",
+        "non_radical_sn": "16",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2660A",
+            "1221111331234312342121"
+        ],
+        "char_code_wubi": "bdth",
+        "char_code_cangjie": "sjmhm",
+        "char_code_zhengma": "cemi"
+    },
+    "general_unicode": "扩展B U+2660A",
+    "general_bs_code": "1221111331234312342121"
+}

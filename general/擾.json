@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "disturb, annoy, agitate"
+        },
+        {
+            "language": "德语",
+            "explanation": "(English: shiver with cold or fear)​ ,durcheinander bringen, beunruhigen  (V)​,stören, belästigen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "troubler,déranger"
+        }
+    ],
+    "general_pinyins": [
+        "rǎo"
+    ],
+    "general_zhuyins": [
+        "ㄖㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "15",
+        "total_sn": "18"
+    },
+    "general_stc": [
+        "扰"
+    ],
+    "general_ytz": [
+        "㹛",
+        "扰",
+        "𢹎",
+        "𢺕",
+        "犪"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "64FE",
+            "121132511454544354"
+        ],
+        "char_code_wubi": "rdet",
+        "char_code_cangjie": "qmbe",
+        "char_code_zhengma": "dawr",
+        "char_code_sijiao": "51047"
+    },
+    "general_unicode": "基本区 U+64FE",
+    "general_bs_code": "121132511454544354"
+}

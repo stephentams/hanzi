@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "Mandarin duck, Aix galericulata"
+        },
+        {
+            "language": "德语",
+            "explanation": "Wasservogel  (S, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(espèce d'oiseau d'eau qui ressemble à un canard)​"
+        }
+    ],
+    "general_pinyins": [
+        "xī"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧ"
+    ],
+    "general_radical": {
+        "radical": "鳥",
+        "non_radical_sn": "13",
+        "total_sn": "24"
+    },
+    "general_stc": [
+        "㶉"
+    ],
+    "general_ytz": [
+        "㶉",
+        "䳶",
+        "𤄬"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E02",
+            "441344355413432511154444"
+        ],
+        "char_code_wubi": "iexo",
+        "char_code_cangjie": "ebkf",
+        "char_code_zhengma": "vpgr",
+        "char_code_sijiao": "37127"
+    },
+    "general_unicode": "基本区 U+9E02",
+    "general_bs_code": "441344355413432511154444"
+}

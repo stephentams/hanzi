@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(non-classical form of U+7A3A 稚) young and tender; small; delicate; immature"
+        }
+    ],
+    "general_pinyins": [
+        "zhì"
+    ],
+    "general_zhuyins": [
+        "ㄓˋ"
+    ],
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "15",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "稚"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4188",
+            "31234513241343112454"
+        ],
+        "char_code_wubi": "tnip",
+        "char_code_cangjie": "hdysq",
+        "char_code_zhengma": "mfkm",
+        "char_code_sijiao": "27935"
+    },
+    "general_unicode": "扩展A U+4188",
+    "general_bs_code": "31234513241343112454"
+}

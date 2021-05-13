@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rust, corrode"
+        },
+        {
+            "language": "德语",
+            "explanation": "Rost  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "Rouille (oxyde)​"
+        }
+    ],
+    "general_pinyins": [
+        "xiù"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "釒",
+        "non_radical_sn": "13",
+        "total_sn": "21"
+    },
+    "general_stc": [
+        "锈"
+    ],
+    "general_ytz": [
+        "銹"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "93FD",
+            "341124315112321155212"
+        ],
+        "char_code_wubi": "qvhh|qvfj",
+        "char_code_cangjie": "clx",
+        "char_code_zhengma": "pxnd",
+        "char_code_sijiao": "85127"
+    },
+    "general_unicode": "基本区 U+93FD",
+    "general_bs_code": "341124315112321155212"
+}

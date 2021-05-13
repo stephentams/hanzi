@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "spear; tribe"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufspießen, durchbohren ,zertrampeln"
+        },
+        {
+            "language": "法语",
+            "explanation": "lance,piétiner"
+        }
+    ],
+    "general_pinyins": [
+        "róu",
+        "qiú"
+    ],
+    "general_zhuyins": [
+        "ㄖㄡˊ",
+        "ㄑㄧㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "厶",
+        "non_radical_sn": "2",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "蹂"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "53B9",
+            "3554"
+        ],
+        "char_code_wubi": "vcu",
+        "char_code_cangjie": "kni",
+        "char_code_zhengma": "qyzs",
+        "char_code_sijiao": "40732"
+    },
+    "general_unicode": "基本区 U+53B9",
+    "general_bs_code": "3554"
+}

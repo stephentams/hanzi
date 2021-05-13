@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "servant girl; your servant"
+        },
+        {
+            "language": "法语",
+            "explanation": "jeune servante ou esclave"
+        }
+    ],
+    "general_pinyins": [
+        "bì"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "婢"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5A62",
+            "53132511312"
+        ],
+        "char_code_wubi": "vrtf",
+        "char_code_cangjie": "vhwj",
+        "char_code_zhengma": "zmne",
+        "char_code_sijiao": "46440"
+    },
+    "general_unicode": "基本区 U+5A62",
+    "general_bs_code": "53132511312"
+}

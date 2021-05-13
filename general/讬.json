@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "entrust, rely on; commission"
+        },
+        {
+            "language": "德语",
+            "explanation": "beauftragen, jdn mit etw. betrauen, jdn. mit etw. anvertrauen  (V)​,etw. vorgeben, etw. täuschen  (V)​,sich auf etw. stützen, sich stützen lassen auf  (V)​,sich lehnen auf, sich darauf verlassen, sich zurücklehnen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "soutenir avec la main,faire confiance,confier"
+        }
+    ],
+    "general_pinyins": [
+        "tuō"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄛ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "3",
+        "total_sn": "5"
+    },
+    "general_stc": [
+        "託"
+    ],
+    "general_ytz": [
+        "託",
+        "𨒙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BAC",
+            "45315"
+        ],
+        "char_code_wubi": "ytan",
+        "char_code_cangjie": "ivhp",
+        "char_code_zhengma": "smhd",
+        "char_code_sijiao": "32714"
+    },
+    "general_unicode": "基本区 U+8BAC",
+    "general_bs_code": "45315"
+}

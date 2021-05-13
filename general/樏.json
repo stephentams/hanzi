@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sedan"
+        }
+    ],
+    "general_pinyins": [
+        "léi",
+        "lěi"
+    ],
+    "general_zhuyins": [
+        "ㄌㄟˊ",
+        "ㄌㄟˇ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "11",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "欙",
+        "虆"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6A0F",
+            "123425121554234"
+        ],
+        "char_code_wubi": "slxi",
+        "char_code_cangjie": "dwvf",
+        "char_code_zhengma": "fkz",
+        "char_code_sijiao": "46993"
+    },
+    "general_unicode": "基本区 U+6A0F",
+    "general_bs_code": "123425121554234"
+}

@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pull, drag; seize, hold; lengthen"
+        },
+        {
+            "language": "德语",
+            "explanation": "Geige spielen  (V, Mus)​,ziehen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tirer,traîner,transporter,attirer,gagner,empoigner,jouer d'un instrument à archet"
+        }
+    ],
+    "general_pinyins": [
+        "lā",
+        "lá"
+    ],
+    "general_zhuyins": [
+        "ㄌㄚ",
+        "ㄌㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㩉",
+        "啦",
+        "搚",
+        "摺",
+        "𢰖",
+        "拉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "62C9",
+            "12141431"
+        ],
+        "char_code_wubi": "rug",
+        "char_code_cangjie": "qyt",
+        "char_code_zhengma": "dsu",
+        "char_code_sijiao": "50018"
+    },
+    "general_unicode": "基本区 U+62C9",
+    "general_bs_code": "12141431"
+}

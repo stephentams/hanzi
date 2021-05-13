@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pile; be piled up; fold up"
+        },
+        {
+            "language": "德语",
+            "explanation": "anhäufen, stapeln"
+        },
+        {
+            "language": "法语",
+            "explanation": "entasser,superposer,plier"
+        }
+    ],
+    "general_pinyins": [
+        "dié"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "又",
+        "non_radical_sn": "11",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "疊"
+    ],
+    "general_ytz": [
+        "疊",
+        "畳",
+        "疂",
+        "曡",
+        "㬪",
+        "𣆹",
+        "𣈍",
+        "𤴁"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "53E0",
+            "5454544525111"
+        ],
+        "char_code_wubi": "cccg",
+        "char_code_cangjie": "eeem",
+        "char_code_zhengma": "xswl",
+        "char_code_sijiao": "77102"
+    },
+    "general_unicode": "基本区 U+53E0",
+    "general_bs_code": "5454544525111"
+}

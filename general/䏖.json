@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a wound; a bruise; a sore, scar, muscles of the back"
+        }
+    ],
+    "general_pinyins": [
+        "zhèn"
+    ],
+    "general_zhuyins": [
+        "ㄓㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦙢"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "43D6",
+            "35115152"
+        ],
+        "char_code_wubi": "exhh",
+        "char_code_cangjie": "bnl",
+        "char_code_zhengma": "qyia",
+        "char_code_sijiao": "72200"
+    },
+    "general_unicode": "扩展A U+43D6",
+    "general_bs_code": "35115152"
+}

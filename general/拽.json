@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "drag, tow; throw; twist"
+        },
+        {
+            "language": "德语",
+            "explanation": "schleppen, ziehen  (V)​,schleppen, Luftwiderstand  (S)​,ziehen  (V)​,drehen, Überwurf  (S)​, j-n, etw zerren, schleppen  (S)​,Gezerre  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tirer,entraîner"
+        }
+    ],
+    "general_pinyins": [
+        "zhuài",
+        "zhuāi",
+        "yè"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨㄞˋ",
+        "ㄓㄨㄞ",
+        "ㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡲝",
+        "曳",
+        "捙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "62FD",
+            "121251153"
+        ],
+        "char_code_wubi": "rjxt|rjnt",
+        "char_code_cangjie": "qlwp",
+        "char_code_zhengma": "dkzm",
+        "char_code_sijiao": "55006"
+    },
+    "general_unicode": "基本区 U+62FD",
+    "general_bs_code": "121251153"
+}

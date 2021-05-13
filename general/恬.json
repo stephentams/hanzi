@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "quiet, calm, tranquil, peaceful"
+        },
+        {
+            "language": "德语",
+            "explanation": "ruhig, friedlich  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tranquille,calme"
+        }
+    ],
+    "general_pinyins": [
+        "tián"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢙖"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "606C",
+            "442312251"
+        ],
+        "char_code_wubi": "ntdg",
+        "char_code_cangjie": "phjr",
+        "char_code_zhengma": "umi",
+        "char_code_sijiao": "92064"
+    },
+    "general_unicode": "基本区 U+606C",
+    "general_bs_code": "442312251"
+}

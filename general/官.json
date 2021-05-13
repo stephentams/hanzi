@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "official, public servant"
+        },
+        {
+            "language": "德语",
+            "explanation": "Beamter, Offizier, Amtsperson"
+        },
+        {
+            "language": "法语",
+            "explanation": "mandarin (personne)​,officiel (n.m)​,fonctionnaire,organe (du corps)​"
+        }
+    ],
+    "general_pinyins": [
+        "guān"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄢ"
+    ],
+    "general_radical": {
+        "radical": "宀",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠕍",
+        "𡦹",
+        "𡧺"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5B98",
+            "44525151"
+        ],
+        "char_code_wubi": "pnhn|pnf",
+        "char_code_cangjie": "jrlr",
+        "char_code_zhengma": "wdy",
+        "char_code_sijiao": "30777"
+    },
+    "general_unicode": "基本区 U+5B98",
+    "general_bs_code": "44525151"
+}

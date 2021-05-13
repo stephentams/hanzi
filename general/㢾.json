@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "the curved end of a bow"
+        }
+    ],
+    "general_pinyins": [
+        "juàn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "弓",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "38BE",
+            "515125221121"
+        ],
+        "char_code_wubi": "xsfg",
+        "char_code_cangjie": "nmwg",
+        "char_code_zhengma": "yzfb",
+        "char_code_sijiao": "11214"
+    },
+    "general_unicode": "扩展A U+38BE",
+    "general_bs_code": "515125221121"
+}

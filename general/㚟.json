@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(non-classical form) a kind of animal; with head looks like rabbit and feet deer, small rabbit"
+        }
+    ],
+    "general_pinyins": [
+        "chuò"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "大",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㲋"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "369F",
+            "352511535134"
+        ],
+        "char_code_wubi": "qkxd",
+        "char_code_cangjie": "nrppk",
+        "char_code_zhengma": "rjrg",
+        "char_code_sijiao": "27804"
+    },
+    "general_unicode": "扩展A U+369F",
+    "general_bs_code": "352511535134"
+}

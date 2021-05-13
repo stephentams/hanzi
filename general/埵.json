@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hardened dirt or clay; cluster"
+        },
+        {
+            "language": "法语",
+            "explanation": "terre solide"
+        }
+    ],
+    "general_pinyins": [
+        "duǒ"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨㄛˇ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡑊"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "57F5",
+            "12131212211"
+        ],
+        "char_code_wubi": "ftgf",
+        "char_code_cangjie": "ghjm",
+        "char_code_zhengma": "bmeb",
+        "char_code_sijiao": "42115"
+    },
+    "general_unicode": "基本区 U+57F5",
+    "general_bs_code": "12131212211"
+}

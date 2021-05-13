@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a high house; a high building"
+        }
+    ],
+    "general_pinyins": [
+        "qiào"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "广",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3897",
+            "413313425125251"
+        ],
+        "char_code_wubi": "ytdk|otdk",
+        "char_code_cangjie": "ihkb",
+        "char_code_zhengma": "tgjl",
+        "char_code_sijiao": "00227"
+    },
+    "general_unicode": "扩展A U+3897",
+    "general_bs_code": "413313425125251"
+}

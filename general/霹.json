@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "thunder, crashing thunder"
+        },
+        {
+            "language": "德语",
+            "explanation": "Donnerschlag"
+        },
+        {
+            "language": "法语",
+            "explanation": "bruit du tonnerre"
+        }
+    ],
+    "general_pinyins": [
+        "pī"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧ"
+    ],
+    "general_radical": {
+        "radical": "雨",
+        "non_radical_sn": "13",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "礔",
+        "礕",
+        "𥒂",
+        "𥗲"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9739",
+            "145244445132514143112"
+        ],
+        "char_code_wubi": "fnku",
+        "char_code_cangjie": "mbsrj",
+        "char_code_zhengma": "fvjs",
+        "char_code_sijiao": "10241"
+    },
+    "general_unicode": "基本区 U+9739",
+    "general_bs_code": "145244445132514143112"
+}

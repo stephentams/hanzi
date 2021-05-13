@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "厂",
+        "non_radical_sn": "3",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "仄"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "20A2E",
+            "13514"
+        ],
+        "char_code_wubi": "DGNY",
+        "char_code_cangjie": "mvk",
+        "char_code_zhengma": "ggas"
+    },
+    "general_unicode": "扩展B U+20A2E",
+    "general_bs_code": "13514"
+}

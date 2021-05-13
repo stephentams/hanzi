@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cut, chop, sever; behead"
+        },
+        {
+            "language": "德语",
+            "explanation": "abhacken, abschneiden ,Zhan  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "trancher,décapiter"
+        }
+    ],
+    "general_pinyins": [
+        "zhǎn"
+    ],
+    "general_zhuyins": [
+        "ㄓㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "斤",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "斬"
+    ],
+    "general_ytz": [
+        "斬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "65A9",
+            "15213312"
+        ],
+        "char_code_wubi": "lrh",
+        "char_code_cangjie": "kqhml",
+        "char_code_zhengma": "hepd",
+        "char_code_sijiao": "42521"
+    },
+    "general_unicode": "基本区 U+65A9",
+    "general_bs_code": "15213312"
+}

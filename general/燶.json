@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(Cant.) to scorch, burn"
+        }
+    ],
+    "general_pinyins": [
+        "nóng"
+    ],
+    "general_zhuyins": [
+        "ㄋㄨㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "13",
+        "total_sn": "17"
+    },
+    "general_stc": [
+        "㶶"
+    ],
+    "general_ytz": [
+        "㶶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "71F6",
+            "43342512211311534"
+        ],
+        "char_code_wubi": "omae",
+        "char_code_cangjie": "ftwv",
+        "char_code_zhengma": "uokg",
+        "char_code_sijiao": "95832"
+    },
+    "general_unicode": "基本区 U+71F6",
+    "general_bs_code": "43342512211311534"
+}

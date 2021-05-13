@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mingle with; toilet, lavatory"
+        }
+    ],
+    "general_pinyins": [
+        "cè"
+    ],
+    "general_zhuyins": [
+        "ㄘㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "厂",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "厕"
+    ],
+    "general_ytz": [
+        "厕",
+        "廁"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "53A0",
+            "13251113422"
+        ],
+        "char_code_wubi": "dmjk",
+        "char_code_cangjie": "mbcn",
+        "char_code_zhengma": "gglk",
+        "char_code_sijiao": "71220"
+    },
+    "general_unicode": "基本区 U+53A0",
+    "general_bs_code": "13251113422"
+}

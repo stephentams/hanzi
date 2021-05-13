@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "put aside, put down; discard"
+        },
+        {
+            "language": "德语",
+            "explanation": "ablegen, ausschalten"
+        },
+        {
+            "language": "法语",
+            "explanation": "mis de côté,à l'écart"
+        }
+    ],
+    "general_pinyins": [
+        "zhì"
+    ],
+    "general_zhuyins": [
+        "ㄓˋ"
+    ],
+    "general_radical": {
+        "radical": "宀",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5BD8",
+            "4451225111134"
+        ],
+        "char_code_wubi": "pfhw",
+        "char_code_cangjie": "jjbc",
+        "char_code_zhengma": "wdlo",
+        "char_code_sijiao": "30801"
+    },
+    "general_unicode": "基本区 U+5BD8",
+    "general_bs_code": "4451225111134"
+}

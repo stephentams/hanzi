@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "clause, condition; string, stripe"
+        },
+        {
+            "language": "法语",
+            "explanation": "(classificateur pour les objets longs ou fins : ruban, rivière, route, serpents, dragons, poissons, chiens, pantalons, robes,etc.)​,bande"
+        }
+    ],
+    "general_pinyins": [
+        "tiáo",
+        "tiāo"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧㄠˊ",
+        "ㄊㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "3",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "條"
+    ],
+    "general_ytz": [
+        "條",
+        "樤",
+        "𡠊",
+        "𣒼"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6761",
+            "3541234"
+        ],
+        "char_code_wubi": "tsu",
+        "char_code_cangjie": "hed",
+        "char_code_zhengma": "rsf",
+        "char_code_sijiao": "27904"
+    },
+    "general_unicode": "基本区 U+6761",
+    "general_bs_code": "3541234"
+}

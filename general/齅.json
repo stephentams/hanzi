@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "smell; to smell"
+        }
+    ],
+    "general_pinyins": [
+        "xiù"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "鼻",
+        "non_radical_sn": "10",
+        "total_sn": "24"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "嗅"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9F45",
+            "325111251211323251111344"
+        ],
+        "char_code_wubi": "thld",
+        "char_code_cangjie": "hlhuk",
+        "char_code_zhengma": "nlgs",
+        "char_code_sijiao": "26284"
+    },
+    "general_unicode": "基本区 U+9F45",
+    "general_bs_code": "325111251211323251111344"
+}

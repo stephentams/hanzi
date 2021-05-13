@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "extend, reach; until; till"
+        },
+        {
+            "language": "德语",
+            "explanation": "bis jetzt ,bis, erst wenn"
+        },
+        {
+            "language": "法语",
+            "explanation": "jusqu'à,atteindre à,finalement"
+        }
+    ],
+    "general_pinyins": [
+        "qì"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "汔",
+        "𨑐",
+        "𨑵"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8FC4",
+            "315454"
+        ],
+        "char_code_wubi": "tnpv",
+        "char_code_cangjie": "yon",
+        "char_code_zhengma": "wmyd",
+        "char_code_sijiao": "38301"
+    },
+    "general_unicode": "基本区 U+8FC4",
+    "general_bs_code": "315454"
+}

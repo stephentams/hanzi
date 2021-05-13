@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "bottom, underneath, underside"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 Hintergrund  (S)​,Basis ,Grund"
+        }
+    ],
+    "general_pinyins": [
+        "dǐ",
+        "de"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧˇ",
+        "˙ㄉㄜ"
+    ],
+    "general_radical": {
+        "radical": "广",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢇝",
+        "氐",
+        "㡳",
+        "𢇨",
+        "𢇹"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5E95",
+            "41335154"
+        ],
+        "char_code_wubi": "yqay|oqay",
+        "char_code_cangjie": "ihpm",
+        "char_code_zhengma": "tgrs",
+        "char_code_sijiao": "00242"
+    },
+    "general_unicode": "基本区 U+5E95",
+    "general_bs_code": "41335154"
+}

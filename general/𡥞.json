@@ -1,0 +1,29 @@
+{
+    "general_pinyins": [
+        "jì",
+        "bèi"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "子",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "孛",
+        "季"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2195E",
+            "344345521"
+        ],
+        "char_code_wubi": "epbf",
+        "char_code_cangjie": "bbnd",
+        "char_code_zhengma": "pvwy"
+    },
+    "general_unicode": "扩展B U+2195E",
+    "general_bs_code": "344345521"
+}

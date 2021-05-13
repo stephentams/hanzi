@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to thump"
+        },
+        {
+            "language": "德语",
+            "explanation": "kneten  (V)"
+        }
+    ],
+    "general_pinyins": [
+        "chuāi"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨㄞ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "扡",
+        "拖",
+        "拸",
+        "𢯯",
+        "扠",
+        "𢲽"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "640B",
+            "1213321531535"
+        ],
+        "char_code_wubi": "rrhm|rrhw",
+        "char_code_cangjie": "qhyn",
+        "char_code_zhengma": "dpih",
+        "char_code_sijiao": "52017"
+    },
+    "general_unicode": "基本区 U+640B",
+    "general_bs_code": "1213321531535"
+}

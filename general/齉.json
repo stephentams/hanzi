@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stoppage of the nose to speak with a nasal twang"
+        },
+        {
+            "language": "法语",
+            "explanation": "nasiller,parler d'une voix nasillarde,renifler"
+        }
+    ],
+    "general_pinyins": [
+        "nàng"
+    ],
+    "general_zhuyins": [
+        "ㄋㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "鼻",
+        "non_radical_sn": "22",
+        "total_sn": "36"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "儾"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9F49",
+            "325111251211321251245251251112213524"
+        ],
+        "char_code_wubi": "thle",
+        "char_code_cangjie": "hljbv",
+        "char_code_zhengma": "nler",
+        "char_code_sijiao": "25232"
+    },
+    "general_unicode": "基本区 U+9F49",
+    "general_bs_code": "325111251211321251245251251112213524"
+}

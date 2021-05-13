@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(non-classical form of 韓) a fence, name of a star, a small feudal State, old name for Korea"
+        }
+    ],
+    "general_pinyins": [
+        "hán"
+    ],
+    "general_zhuyins": [
+        "ㄏㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "煒",
+        "韓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3654",
+            "121521251152"
+        ],
+        "char_code_wubi": "fnhh|fnkg",
+        "char_code_cangjie": "gdmq",
+        "char_code_zhengma": "bxjm",
+        "char_code_sijiao": "44156"
+    },
+    "general_unicode": "扩展A U+3654",
+    "general_bs_code": "121521251152"
+}

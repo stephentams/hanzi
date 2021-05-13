@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(Cant.) cover, lid"
+        }
+    ],
+    "general_pinyins": [
+        "kǎn"
+    ],
+    "general_zhuyins": [
+        "ㄎㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "冖",
+        "non_radical_sn": "3",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "519A",
+            "45252"
+        ],
+        "char_code_wubi": "pmj",
+        "char_code_cangjie": "bu",
+        "char_code_zhengma": "wwll",
+        "char_code_sijiao": "37772"
+    },
+    "general_unicode": "基本区 U+519A",
+    "general_bs_code": "45252"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rude; barbarous"
+        },
+        {
+            "language": "德语",
+            "explanation": "unanständig, unhöflich"
+        },
+        {
+            "language": "法语",
+            "explanation": "grossier,barbare"
+        }
+    ],
+    "general_pinyins": [
+        "lǒng",
+        "lóng",
+        "lòng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄥˇ",
+        "ㄌㄨㄥˊ",
+        "ㄌㄨㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "17",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5131",
+            "324143125111515111"
+        ],
+        "char_code_wubi": "wued",
+        "char_code_cangjie": "oybp",
+        "char_code_zhengma": "nsi",
+        "char_code_sijiao": "21211"
+    },
+    "general_unicode": "基本区 U+5131",
+    "general_bs_code": "324143125111515111"
+}

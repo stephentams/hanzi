@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to beat; to strike; to attack"
+        }
+    ],
+    "general_pinyins": [
+        "è"
+    ],
+    "general_zhuyins": [
+        "ㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "20",
+        "total_sn": "23"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "擜"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3A75",
+            "12121531512512543121344"
+        ],
+        "char_code_wubi": "rhad|rhgd",
+        "char_code_cangjie": "qybk",
+        "char_code_zhengma": "digs",
+        "char_code_sijiao": "53084"
+    },
+    "general_unicode": "扩展A U+3A75",
+    "general_bs_code": "12121531512512543121344"
+}

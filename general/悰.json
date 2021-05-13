@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "enjoy, amuse, please; joy"
+        },
+        {
+            "language": "德语",
+            "explanation": "Freude, Wonne (Freude, Vergnügen)​  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "joyeux,heureux"
+        }
+    ],
+    "general_pinyins": [
+        "cóng"
+    ],
+    "general_zhuyins": [
+        "ㄘㄨㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "60B0",
+            "44244511234"
+        ],
+        "char_code_wubi": "npfi",
+        "char_code_cangjie": "pjmf",
+        "char_code_zhengma": "uwbk",
+        "char_code_sijiao": "93091"
+    },
+    "general_unicode": "基本区 U+60B0",
+    "general_bs_code": "44244511234"
+}

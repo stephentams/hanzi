@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "crude bamboo mat"
+        },
+        {
+            "language": "法语",
+            "explanation": "natte en bambou brut"
+        }
+    ],
+    "general_pinyins": [
+        "qú"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩˊ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "16",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7C67",
+            "3143142153151353334454"
+        ],
+        "char_code_wubi": "thap|thgp",
+        "char_code_cangjie": "hyyo",
+        "char_code_zhengma": "migw",
+        "char_code_sijiao": "88303"
+    },
+    "general_unicode": "基本区 U+7C67",
+    "general_bs_code": "3143142153151353334454"
+}

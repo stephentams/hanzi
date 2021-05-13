@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "firewood for sacrifice"
+        },
+        {
+            "language": "法语",
+            "explanation": "feu rituel"
+        }
+    ],
+    "general_pinyins": [
+        "yǒu",
+        "chǎo"
+    ],
+    "general_zhuyins": [
+        "ㄧㄡˇ",
+        "ㄔㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "11",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "楢",
+        "禉",
+        "𣜃",
+        "𥙫",
+        "炒",
+        "梄",
+        "𤍕"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "69F1",
+            "123412535114444"
+        ],
+        "char_code_wubi": "ssgo",
+        "char_code_cangjie": "dmwf",
+        "char_code_zhengma": "ffuo",
+        "char_code_sijiao": "41936"
+    },
+    "general_unicode": "基本区 U+69F1",
+    "general_bs_code": "123412535114444"
+}

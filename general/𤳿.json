@@ -1,0 +1,23 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "田",
+        "non_radical_sn": "17",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "24CFF",
+            "3443512512243123425121"
+        ],
+        "char_code_wubi": "enml",
+        "char_code_cangjie": "bbfdw",
+        "char_code_zhengma": "pvuk"
+    },
+    "general_unicode": "扩展B U+24CFF",
+    "general_bs_code": "3443512512243123425121"
+}

@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "meet"
+        },
+        {
+            "language": "德语",
+            "explanation": "nachkommen, begegnen"
+        }
+    ],
+    "general_pinyins": [
+        "huó"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "括",
+        "𠈲"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4F78",
+            "32312251"
+        ],
+        "char_code_wubi": "wtdg",
+        "char_code_cangjie": "ohjr",
+        "char_code_zhengma": "nmi",
+        "char_code_sijiao": "22264"
+    },
+    "general_unicode": "基本区 U+4F78",
+    "general_bs_code": "32312251"
+}

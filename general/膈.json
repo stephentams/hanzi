@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "diaphragm"
+        },
+        {
+            "language": "德语",
+            "explanation": "Blende, Diaphragma  (S)​,Membran  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "diaphragme,incapable d'avaler"
+        }
+    ],
+    "general_pinyins": [
+        "gé"
+    ],
+    "general_zhuyins": [
+        "ㄍㄜˊ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨍮",
+        "鞷",
+        "隔",
+        "䐙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8188",
+            "35111251254312"
+        ],
+        "char_code_wubi": "egkh",
+        "char_code_cangjie": "bmrb",
+        "char_code_zhengma": "qajl",
+        "char_code_sijiao": "71227"
+    },
+    "general_unicode": "基本区 U+8188",
+    "general_bs_code": "35111251254312"
+}

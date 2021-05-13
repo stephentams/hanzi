@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "spade, trowel"
+        },
+        {
+            "language": "法语",
+            "explanation": "truelle,outil pointu pour creuser"
+        }
+    ],
+    "general_pinyins": [
+        "chán"
+    ],
+    "general_zhuyins": [
+        "ㄔㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "17",
+        "total_sn": "22"
+    },
+    "general_stc": [
+        "鑱"
+    ],
+    "general_ytz": [
+        "鑱",
+        "䤫"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9575",
+            "3111535251153535251354"
+        ],
+        "char_code_wubi": "qqky",
+        "char_code_cangjie": "opnri",
+        "char_code_zhengma": "prrs",
+        "char_code_sijiao": "87713"
+    },
+    "general_unicode": "基本区 U+9575",
+    "general_bs_code": "3111535251153535251354"
+}

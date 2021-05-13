@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "look back; look at; look after"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufpassen, pfleglich behandeln ,berücksichtigen, in Betracht ziehen ,bedienen  (V)​,Gu  (Eig, Fam)​,sich auf etw. konzentrieren; sich um etw. kümmern, etw. berücksichtigen"
+        },
+        {
+            "language": "法语",
+            "explanation": "regarder,prendre soin de,se préoccuper de,rendre visite à"
+        }
+    ],
+    "general_pinyins": [
+        "gù"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "頁",
+        "non_radical_sn": "12",
+        "total_sn": "21"
+    },
+    "general_stc": [
+        "顾"
+    ],
+    "general_ytz": [
+        "雇",
+        "顾",
+        "𩒒",
+        "𪄮"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9867",
+            "451332411121132511134"
+        ],
+        "char_code_wubi": "ynwm",
+        "char_code_cangjie": "hgmbc",
+        "char_code_zhengma": "wmng",
+        "char_code_sijiao": "31286"
+    },
+    "general_unicode": "基本区 U+9867",
+    "general_bs_code": "451332411121132511134"
+}

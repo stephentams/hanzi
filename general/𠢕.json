@@ -1,0 +1,30 @@
+{
+    "general_pinyins": [
+        "háo"
+    ],
+    "general_zhuyins": [
+        "ㄏㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "力",
+        "non_radical_sn": "10",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "豪",
+        "𠞪"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "20895",
+            "1214153313453"
+        ],
+        "char_code_wubi": "gqtl",
+        "char_code_cangjie": "qkks",
+        "char_code_zhengma": "cimy"
+    },
+    "general_unicode": "扩展B U+20895",
+    "general_bs_code": "1214153313453"
+}

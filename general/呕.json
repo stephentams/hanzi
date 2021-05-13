@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "vomit; annoy, enrage"
+        },
+        {
+            "language": "法语",
+            "explanation": "vomir"
+        }
+    ],
+    "general_pinyins": [
+        "ǒu",
+        "ōu",
+        "òu"
+    ],
+    "general_zhuyins": [
+        "ㄡˇ",
+        "ㄡ",
+        "ㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "嘔"
+    ],
+    "general_ytz": [
+        "嘔",
+        "𣢨",
+        "𧖼"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5455",
+            "2511345"
+        ],
+        "char_code_wubi": "kaqy|kary",
+        "char_code_cangjie": "rsk",
+        "char_code_zhengma": "jhos",
+        "char_code_sijiao": "61014"
+    },
+    "general_unicode": "基本区 U+5455",
+    "general_bs_code": "2511345"
+}

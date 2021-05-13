@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "laugh heartily, laugh aloud"
+        },
+        {
+            "language": "法语",
+            "explanation": "rire"
+        }
+    ],
+    "general_pinyins": [
+        "jué",
+        "xué"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄝˊ",
+        "ㄒㄩㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㖸",
+        "㘌",
+        "谷",
+        "𠻔",
+        "𠼥"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5671",
+            "2512153151353334"
+        ],
+        "char_code_wubi": "khae|khge",
+        "char_code_cangjie": "rypo",
+        "char_code_zhengma": "jigq",
+        "char_code_sijiao": "61032"
+    },
+    "general_unicode": "基本区 U+5671",
+    "general_bs_code": "2512153151353334"
+}

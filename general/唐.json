@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "Tang dynasty; Chinese"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 Tang-Dynastie (618-907)​; daneben kleinere Dynastien desselben Namens  (S, Gesch)​,übertrieben  (Adj)​,umsonst  (Adj)​,Tang  (Eig, Fam)"
+        }
+    ],
+    "general_pinyins": [
+        "táng"
+    ],
+    "general_zhuyins": [
+        "ㄊㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "啺",
+        "𡃯",
+        "𣉺",
+        "𥏬",
+        "塘"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5510",
+            "4135112251"
+        ],
+        "char_code_wubi": "yvhk|ovhk",
+        "char_code_cangjie": "ilr",
+        "char_code_zhengma": "tgxj",
+        "char_code_sijiao": "00265"
+    },
+    "general_unicode": "基本区 U+5510",
+    "general_bs_code": "4135112251"
+}

@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "roll"
+        },
+        {
+            "language": "德语",
+            "explanation": "Stein werfen; schlagen"
+        }
+    ],
+    "general_pinyins": [
+        "léi",
+        "lěi",
+        "lèi"
+    ],
+    "general_zhuyins": [
+        "ㄌㄟˊ",
+        "ㄌㄟˇ",
+        "ㄌㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "15",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㠥",
+        "壘",
+        "檑",
+        "礌",
+        "礨",
+        "𡻭",
+        "𥑶",
+        "𥗬",
+        "𡽭"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7927",
+            "13251251212512125121"
+        ],
+        "char_code_wubi": "dlll",
+        "char_code_cangjie": "mrwww",
+        "char_code_zhengma": "gkkk",
+        "char_code_sijiao": "16660"
+    },
+    "general_unicode": "基本区 U+7927",
+    "general_bs_code": "13251251212512125121"
+}

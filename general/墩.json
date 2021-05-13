@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "heap, mound, block of stone"
+        }
+    ],
+    "general_pinyins": [
+        "dūn"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨㄣ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "墪",
+        "敦",
+        "𡔋"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "58A9",
+            "121412515213134"
+        ],
+        "char_code_wubi": "fybt",
+        "char_code_cangjie": "gydk",
+        "char_code_zhengma": "bsym",
+        "char_code_sijiao": "48140"
+    },
+    "general_unicode": "基本区 U+58A9",
+    "general_bs_code": "121412515213134"
+}

@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "deep in the mountain"
+        }
+    ],
+    "general_pinyins": [
+        "cén"
+    ],
+    "general_zhuyins": [
+        "ㄘㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "2",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "37A5",
+            "25234"
+        ],
+        "char_code_wubi": "mtyu",
+        "char_code_cangjie": "uo",
+        "char_code_zhengma": "llod",
+        "char_code_sijiao": "22807"
+    },
+    "general_unicode": "扩展A U+37A5",
+    "general_bs_code": "25234"
+}

@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sentence"
+        },
+        {
+            "language": "德语",
+            "explanation": "Satz  (S, Sprachw)​,ZEW für Satz, Vers, Strophe; Sätze, Linien, ...  (Zähl)​,Ju  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "phrase,proposition,(classificateur pour les phrases, les vers)​"
+        }
+    ],
+    "general_pinyins": [
+        "jù",
+        "gōu"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩˋ",
+        "ㄍㄡ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "2",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "勾",
+        "鉤",
+        "𠯶",
+        "絇",
+        "鈎",
+        "𤖮",
+        "句"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "53E5",
+            "35251"
+        ],
+        "char_code_wubi": "qkd",
+        "char_code_cangjie": "pr",
+        "char_code_zhengma": "ryj",
+        "char_code_sijiao": "27620"
+    },
+    "general_unicode": "基本区 U+53E5",
+    "general_bs_code": "35251"
+}

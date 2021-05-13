@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "disappeared, not supported by, to avoid, unable to see"
+        }
+    ],
+    "general_pinyins": [
+        "mì",
+        "miǎn"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧˋ",
+        "ㄇㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㸓",
+        "𣆇"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3AD8",
+            "13242511"
+        ],
+        "char_code_wubi": "gijf|dhjf",
+        "char_code_cangjie": "mfa",
+        "char_code_zhengma": "gik",
+        "char_code_sijiao": "10609"
+    },
+    "general_unicode": "扩展A U+3AD8",
+    "general_bs_code": "13242511"
+}

@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "child's hairstyle bound in two tufts; ore"
+        },
+        {
+            "language": "德语",
+            "explanation": "Haarbüschel  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "touffes des cheveux"
+        }
+    ],
+    "general_pinyins": [
+        "guàn",
+        "kuàng",
+        "luăn"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄢˋ",
+        "ㄎㄨㄤˋ",
+        "ㄌㄨㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "丨",
+        "non_radical_sn": "4",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "卵",
+        "礦"
+    ],
+    "general_structure": "单体结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4E31",
+            "53212"
+        ],
+        "char_code_wubi": "njhg|jnhg",
+        "char_code_cangjie": "vlllm",
+        "char_code_zhengma": "ziaa",
+        "char_code_sijiao": "22770"
+    },
+    "general_unicode": "基本区 U+4E31",
+    "general_bs_code": "53212"
+}

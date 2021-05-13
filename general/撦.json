@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rip up, tear down; raise; haul"
+        },
+        {
+            "language": "德语",
+            "explanation": "reißen, zerreißen"
+        },
+        {
+            "language": "法语",
+            "explanation": "tirer,déchirer,bavarder,déchirer"
+        }
+    ],
+    "general_pinyins": [
+        "chě"
+    ],
+    "general_zhuyins": [
+        "ㄔㄜˇ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "扯"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "64A6",
+            "12113412132511"
+        ],
+        "char_code_wubi": "rdfj",
+        "char_code_cangjie": "qkja",
+        "char_code_zhengma": "dgbm",
+        "char_code_sijiao": "54064"
+    },
+    "general_unicode": "基本区 U+64A6",
+    "general_bs_code": "12113412132511"
+}

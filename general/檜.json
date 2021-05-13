@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "Chinese cypress, Chinese juniper"
+        },
+        {
+            "language": "德语",
+            "explanation": "Chinesischer Wacholder, Juniperus chinensis  (S, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cyprès"
+        }
+    ],
+    "general_pinyins": [
+        "guì",
+        "huì"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄟˋ",
+        "ㄏㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "13",
+        "total_sn": "17"
+    },
+    "general_stc": [
+        "桧"
+    ],
+    "general_ytz": [
+        "桧",
+        "桰",
+        "鄶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6A9C",
+            "12343412524312511"
+        ],
+        "char_code_wubi": "swgj",
+        "char_code_cangjie": "doma",
+        "char_code_zhengma": "folk",
+        "char_code_sijiao": "48966"
+    },
+    "general_unicode": "基本区 U+6A9C",
+    "general_bs_code": "12343412524312511"
+}

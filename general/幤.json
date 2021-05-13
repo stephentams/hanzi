@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "evil, wrong, bad; criminal"
+        }
+    ],
+    "general_pinyins": [
+        "bì"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "巾",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "幣"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5E64",
+            "243251513134252"
+        ],
+        "char_code_wubi": "imkh",
+        "char_code_cangjie": "fklb",
+        "char_code_zhengma": "koml",
+        "char_code_sijiao": "98227"
+    },
+    "general_unicode": "基本区 U+5E64",
+    "general_bs_code": "243251513134252"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pen up; limit, constrain"
+        },
+        {
+            "language": "德语",
+            "explanation": "begrenzen, beschränken ,abstellen, Grünanlage  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "parc pour élever des animaux,lieu de rassemblement,lieu de concentration"
+        }
+    ],
+    "general_pinyins": [
+        "yòu"
+    ],
+    "general_zhuyins": [
+        "ㄧㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "囗",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡈹"
+    ],
+    "general_structure": "全包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "56FF",
+            "251325111"
+        ],
+        "char_code_wubi": "lded",
+        "char_code_cangjie": "wkb",
+        "char_code_zhengma": "jdgq",
+        "char_code_sijiao": "60227"
+    },
+    "general_unicode": "基本区 U+56FF",
+    "general_bs_code": "251325111"
+}

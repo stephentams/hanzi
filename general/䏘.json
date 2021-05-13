@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a big abdomen, a female animal with a fat belly"
+        }
+    ],
+    "general_pinyins": [
+        "pǐ",
+        "pì"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧˇ",
+        "ㄆㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦙬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "43D8",
+            "35111355"
+        ],
+        "char_code_wubi": "eaqn",
+        "char_code_cangjie": "bsc",
+        "char_code_zhengma": "qhrd",
+        "char_code_sijiao": "71211"
+    },
+    "general_unicode": "扩展A U+43D8",
+    "general_bs_code": "35111355"
+}

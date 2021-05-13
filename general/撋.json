@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to rub between the hands"
+        }
+    ],
+    "general_pinyins": [
+        "ruán"
+    ],
+    "general_zhuyins": [
+        "ㄖㄨㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "捼"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "648B",
+            "121251125111121"
+        ],
+        "char_code_wubi": "rugg",
+        "char_code_cangjie": "qang",
+        "char_code_zhengma": "dxc",
+        "char_code_sijiao": "57020"
+    },
+    "general_unicode": "基本区 U+648B",
+    "general_bs_code": "121251125111121"
+}

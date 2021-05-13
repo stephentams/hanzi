@@ -1,0 +1,28 @@
+{
+    "general_pinyins": [
+        "cóng",
+        "xuán"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "匚",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㔯"
+    ],
+    "general_structure": "左包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "20930",
+            "135545"
+        ],
+        "char_code_wubi": "awci",
+        "char_code_cangjie": "sci",
+        "char_code_zhengma": "hozs"
+    },
+    "general_unicode": "扩展B U+20930",
+    "general_bs_code": "135545"
+}

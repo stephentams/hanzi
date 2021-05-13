@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "工",
+        "non_radical_sn": "17",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "初"
+    ],
+    "general_structure": "上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "22030",
+            "12125251112511134121"
+        ],
+        "char_code_wubi": "ghga",
+        "char_code_cangjie": "mnbum",
+        "char_code_zhengma": "aiob"
+    },
+    "general_unicode": "扩展B U+22030",
+    "general_bs_code": "12125251112511134121"
+}

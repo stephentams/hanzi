@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "immerse, moisten; wet, damp"
+        },
+        {
+            "language": "德语",
+            "explanation": "anfeuchten, befeuchten ,aufschiebend"
+        },
+        {
+            "language": "法语",
+            "explanation": "imbiber,tremper,humide,souiller"
+        }
+    ],
+    "general_pinyins": [
+        "rú"
+    ],
+    "general_zhuyins": [
+        "ㄖㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "14",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "渜",
+        "渪",
+        "溽",
+        "𠠐",
+        "𠤦",
+        "𣽈",
+        "𣽉",
+        "胹",
+        "軟",
+        "𩄋"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6FE1",
+            "44114524444132522"
+        ],
+        "char_code_wubi": "ifdj",
+        "char_code_cangjie": "embb",
+        "char_code_zhengma": "vfgl",
+        "char_code_sijiao": "31127"
+    },
+    "general_unicode": "基本区 U+6FE1",
+    "general_bs_code": "44114524444132522"
+}

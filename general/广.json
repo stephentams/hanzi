@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wide, extensive, broad; rad. 53"
+        },
+        {
+            "language": "德语",
+            "explanation": "breit, umfangreich, weit reichend ,weit ,Radikal Nr. 53 = Schrägdach, Schutz, Unterschlupf, Unterbringung  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "vaste,immense,nombreux"
+        }
+    ],
+    "general_pinyins": [
+        "guǎng",
+        "ān"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄤˇ",
+        "ㄢ"
+    ],
+    "general_radical": {
+        "radical": "广",
+        "non_radical_sn": "0",
+        "total_sn": "3"
+    },
+    "general_stc": [
+        "廣"
+    ],
+    "general_ytz": [
+        "庵",
+        "廣"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5E7F",
+            "413"
+        ],
+        "char_code_wubi": "yygt|oygt",
+        "char_code_cangjie": "yh",
+        "char_code_zhengma": "tg",
+        "char_code_sijiao": "00200"
+    },
+    "general_unicode": "基本区 U+5E7F",
+    "general_bs_code": "413"
+}

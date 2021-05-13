@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "curse, damn, incantation"
+        },
+        {
+            "language": "德语",
+            "explanation": "Beschwörung  (S)​,beschwören  (V)​,verfluchen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "incantation,imprécation,maudire"
+        }
+    ],
+    "general_pinyins": [
+        "zhòu"
+    ],
+    "general_zhuyins": [
+        "ㄓㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "呪",
+        "詋",
+        "䛆"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5492",
+            "25125135"
+        ],
+        "char_code_wubi": "kkmb|kkwb",
+        "char_code_cangjie": "rrhn",
+        "char_code_zhengma": "jjqd",
+        "char_code_sijiao": "66217"
+    },
+    "general_unicode": "基本区 U+5492",
+    "general_bs_code": "25125135"
+}

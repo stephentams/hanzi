@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "court"
+        },
+        {
+            "language": "德语",
+            "explanation": "der Hof ( eines Monarchen )​  (S)​,der Regierungssitz eines feudalen Herrschers  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cour,palais du souverain"
+        }
+    ],
+    "general_pinyins": [
+        "tíng"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "廴",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "庭",
+        "閮",
+        "𢌜",
+        "𨑳"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5EF7",
+            "312154"
+        ],
+        "char_code_wubi": "tfpd",
+        "char_code_cangjie": "nkhg",
+        "char_code_zhengma": "mby",
+        "char_code_sijiao": "12401"
+    },
+    "general_unicode": "基本区 U+5EF7",
+    "general_bs_code": "312154"
+}

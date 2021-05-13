@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "only; but, however, yet, still"
+        },
+        {
+            "language": "德语",
+            "explanation": "aber, doch dennoch ,nur, bloß"
+        },
+        {
+            "language": "法语",
+            "explanation": "mais,cependant,seulement"
+        }
+    ],
+    "general_pinyins": [
+        "dàn"
+    ],
+    "general_zhuyins": [
+        "ㄉㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "儃",
+        "袒"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4F46",
+            "3225111"
+        ],
+        "char_code_wubi": "wjgg",
+        "char_code_cangjie": "oam",
+        "char_code_zhengma": "nka",
+        "char_code_sijiao": "26210"
+    },
+    "general_unicode": "基本区 U+4F46",
+    "general_bs_code": "3225111"
+}

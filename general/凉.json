@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cool, cold; disheartened"
+        },
+        {
+            "language": "德语",
+            "explanation": "enttäuscht  (Adj)​,kühl  (Adv)​,Liang  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "laisser refroidir qch,Liang (royaume)​,frais"
+        }
+    ],
+    "general_pinyins": [
+        "liáng",
+        "liàng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄤˊ",
+        "ㄌㄧㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "冫",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "涼"
+    ],
+    "general_ytz": [
+        "涼",
+        "𠒨",
+        "凉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "51C9",
+            "4141251234"
+        ],
+        "char_code_wubi": "uyiy",
+        "char_code_cangjie": "imyrf",
+        "char_code_zhengma": "tdjk",
+        "char_code_sijiao": "30196"
+    },
+    "general_unicode": "基本区 U+51C9",
+    "general_bs_code": "4141251234"
+}

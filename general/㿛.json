@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "carbuncle, sallow and emaciated, scrofulous swellings"
+        }
+    ],
+    "general_pinyins": [
+        "lí",
+        "lì"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˊ",
+        "ㄌㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "19",
+        "total_sn": "24"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "癧"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3FDB",
+            "413411254125441352211535"
+        ],
+        "char_code_wubi": "ugmx",
+        "char_code_cangjie": "kmmp",
+        "char_code_zhengma": "talt",
+        "char_code_sijiao": "00112"
+    },
+    "general_unicode": "扩展A U+3FDB",
+    "general_bs_code": "413411254125441352211535"
+}

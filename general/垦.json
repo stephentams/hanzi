@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cultivate, reclaim, to farm land"
+        },
+        {
+            "language": "德语",
+            "explanation": "bessern, reklamieren"
+        },
+        {
+            "language": "法语",
+            "explanation": "défricher"
+        }
+    ],
+    "general_pinyins": [
+        "kěn",
+        "yín"
+    ],
+    "general_zhuyins": [
+        "ㄎㄣˇ",
+        "〡ㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "墾"
+    ],
+    "general_ytz": [
+        "垠",
+        "墾",
+        "𡍭"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "57A6",
+            "511534121"
+        ],
+        "char_code_wubi": "veff|vff",
+        "char_code_cangjie": "avg",
+        "char_code_zhengma": "xob",
+        "char_code_sijiao": "77104"
+    },
+    "general_unicode": "基本区 U+57A6",
+    "general_bs_code": "511534121"
+}

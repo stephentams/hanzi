@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "idle, relaxed, remiss"
+        },
+        {
+            "language": "德语",
+            "explanation": "locker ,schlaff"
+        },
+        {
+            "language": "法语",
+            "explanation": "paresseux"
+        }
+    ],
+    "general_pinyins": [
+        "xiè"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "解",
+        "𠢲",
+        "𢢣"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "61C8",
+            "4423535112533112"
+        ],
+        "char_code_wubi": "nqeh|nqeg",
+        "char_code_cangjie": "pnbq",
+        "char_code_zhengma": "urym",
+        "char_code_sijiao": "97052"
+    },
+    "general_unicode": "基本区 U+61C8",
+    "general_bs_code": "4423535112533112"
+}

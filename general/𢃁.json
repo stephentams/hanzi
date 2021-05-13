@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "巾",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "尹"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "220C1",
+            "3252533252"
+        ],
+        "char_code_wubi": "tmmh",
+        "char_code_cangjie": "hbbb",
+        "char_code_zhengma": "nlol"
+    },
+    "general_unicode": "扩展B U+220C1",
+    "general_bs_code": "3252533252"
+}

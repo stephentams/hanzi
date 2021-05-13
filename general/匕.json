@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "spoon, ladle; knife, dirk"
+        },
+        {
+            "language": "德语",
+            "explanation": "Dolch  (S)​,Löffel  (S)​,Radikal Nr. 21 = Löffel  (S, Sprachw)​,Kelle, alte Form eines Löffels  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cuillère,cuiller,21e radical"
+        }
+    ],
+    "general_pinyins": [
+        "bǐ"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "匕",
+        "non_radical_sn": "0",
+        "total_sn": "2"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "枇",
+        "鈚",
+        "比",
+        "牝"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5315",
+            "35"
+        ],
+        "char_code_wubi": "xtn",
+        "char_code_cangjie": "uh",
+        "char_code_zhengma": "rra",
+        "char_code_sijiao": "22710"
+    },
+    "general_unicode": "基本区 U+5315",
+    "general_bs_code": "35"
+}

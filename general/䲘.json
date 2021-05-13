@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a kind of fish; with a long cylinder body"
+        }
+    ],
+    "general_pinyins": [
+        "guǎn",
+        "kàng",
+        "wéi"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄢˇ",
+        "ㄎㄤˋ",
+        "ㄨㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "魚",
+        "non_radical_sn": "14",
+        "total_sn": "25"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "鳤"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4C98",
+            "3525121444431431444525151"
+        ],
+        "char_code_wubi": "qotn",
+        "char_code_cangjie": "nfhjr",
+        "char_code_zhengma": "rmwi",
+        "char_code_sijiao": "28377"
+    },
+    "general_unicode": "扩展A U+4C98",
+    "general_bs_code": "3525121444431431444525151"
+}

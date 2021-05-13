@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hawk; Butastur indicus"
+        },
+        {
+            "language": "德语",
+            "explanation": "Sperber  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "épervier"
+        }
+    ],
+    "general_pinyins": [
+        "zhān"
+    ],
+    "general_zhuyins": [
+        "ㄓㄢ"
+    ],
+    "general_radical": {
+        "radical": "鳥",
+        "non_radical_sn": "13",
+        "total_sn": "24"
+    },
+    "general_stc": [
+        "鹯"
+    ],
+    "general_ytz": [
+        "鷶",
+        "鹯",
+        "𩁉",
+        "𪃋",
+        "𪄃",
+        "𪄐",
+        "𪄟",
+        "𪇮"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E07",
+            "412525112511132511154444"
+        ],
+        "char_code_wubi": "ylko",
+        "char_code_cangjie": "ymhaf",
+        "char_code_zhengma": "sjar",
+        "char_code_sijiao": "07127"
+    },
+    "general_unicode": "基本区 U+9E07",
+    "general_bs_code": "412525112511132511154444"
+}

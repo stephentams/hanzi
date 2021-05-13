@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(non-classical form of 岡) ridge (of a hill or mountain)"
+        }
+    ],
+    "general_pinyins": [
+        "gǎng"
+    ],
+    "general_zhuyins": [
+        "ㄍㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "岡"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "37F5",
+            "2522522112121"
+        ],
+        "char_code_wubi": "mlgh",
+        "char_code_cangjie": "uwlm",
+        "char_code_zhengma": "llai",
+        "char_code_sijiao": "22101"
+    },
+    "general_unicode": "扩展A U+37F5",
+    "general_bs_code": "2522522112121"
+}

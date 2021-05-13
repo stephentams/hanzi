@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sound of laughter; bad, malevolent"
+        }
+    ],
+    "general_pinyins": [
+        "gā",
+        "gá",
+        "gǎ"
+    ],
+    "general_zhuyins": [
+        "ㄍㄚ",
+        "ㄍㄚˊ",
+        "ㄍㄚˇ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "嘠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "560E",
+            "25113251111534"
+        ],
+        "char_code_wubi": "kdha",
+        "char_code_cangjie": "rmui",
+        "char_code_zhengma": "janh",
+        "char_code_sijiao": "61053"
+    },
+    "general_unicode": "基本区 U+560E",
+    "general_bs_code": "25113251111534"
+}

@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dog's hair"
+        }
+    ],
+    "general_pinyins": [
+        "nèng"
+    ],
+    "general_zhuyins": [
+        "ㄋㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "毛",
+        "non_radical_sn": "2",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左下包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3C8C",
+            "311553"
+        ],
+        "char_code_wubi": "tfne|ebe",
+        "char_code_cangjie": "hunhs",
+        "char_code_zhengma": "mhym",
+        "char_code_sijiao": "27712"
+    },
+    "general_unicode": "扩展A U+3C8C",
+    "general_bs_code": "311553"
+}

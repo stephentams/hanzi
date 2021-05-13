@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "silk fabrics; surname"
+        }
+    ],
+    "general_pinyins": [
+        "zēng",
+        "zèng"
+    ],
+    "general_zhuyins": [
+        "ㄗㄥ",
+        "ㄗㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "糹",
+        "non_radical_sn": "12",
+        "total_sn": "18"
+    },
+    "general_stc": [
+        "缯"
+    ],
+    "general_ytz": [
+        "縡",
+        "缯",
+        "𥃙",
+        "𦀓",
+        "罾"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7E52",
+            "554444432524312511"
+        ],
+        "char_code_wubi": "xulj",
+        "char_code_cangjie": "vfcwa",
+        "char_code_zhengma": "zulk",
+        "char_code_sijiao": "28966"
+    },
+    "general_unicode": "基本区 U+7E52",
+    "general_bs_code": "554444432524312511"
+}

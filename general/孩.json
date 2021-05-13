@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "baby, child; children"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kind  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "enfant"
+        }
+    ],
+    "general_pinyins": [
+        "hái"
+    ],
+    "general_zhuyins": [
+        "ㄏㄞˊ"
+    ],
+    "general_radical": {
+        "radical": "子",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "咳",
+        "㜾",
+        "䪱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5B69",
+            "521415334"
+        ],
+        "char_code_wubi": "bynw",
+        "char_code_cangjie": "ndyvo",
+        "char_code_zhengma": "yazo",
+        "char_code_sijiao": "10482"
+    },
+    "general_unicode": "基本区 U+5B69",
+    "general_bs_code": "521415334"
+}

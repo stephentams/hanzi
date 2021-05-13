@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "blow; puff; brag, boast"
+        },
+        {
+            "language": "德语",
+            "explanation": "blasen, wehen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "souffler,jouer (d'un instrument à vent)​,se vanter de qch,rater,tomber à l'eau,rompre une relation"
+        }
+    ],
+    "general_pinyins": [
+        "chuī"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨㄟ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䶴",
+        "龡",
+        "𠷕",
+        "𪛐",
+        "𪛑",
+        "弞"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5439",
+            "2513534"
+        ],
+        "char_code_wubi": "kqwy",
+        "char_code_cangjie": "rno",
+        "char_code_zhengma": "jro",
+        "char_code_sijiao": "67082"
+    },
+    "general_unicode": "基本区 U+5439",
+    "general_bs_code": "2513534"
+}

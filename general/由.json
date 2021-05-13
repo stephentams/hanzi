@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cause, reason; from"
+        },
+        {
+            "language": "德语",
+            "explanation": "durch, es ist für… zu, es zu lassen, folgen Sie, Grund, passendes zu, Ursache, von, wegen, zu"
+        },
+        {
+            "language": "法语",
+            "explanation": "cause,raison,suivre,se conformer à,laisser faire,à cause de,en raison de,par,de"
+        }
+    ],
+    "general_pinyins": [
+        "yóu"
+    ],
+    "general_zhuyins": [
+        "ㄧㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "田",
+        "non_radical_sn": "0",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㽕",
+        "凷",
+        "甴",
+        "逌",
+        "𣓐",
+        "𥛅"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7531",
+            "25121"
+        ],
+        "char_code_wubi": "mhng",
+        "char_code_cangjie": "lw",
+        "char_code_zhengma": "kia",
+        "char_code_sijiao": "50600"
+    },
+    "general_unicode": "基本区 U+7531",
+    "general_bs_code": "25121"
+}

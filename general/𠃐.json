@@ -1,0 +1,29 @@
+{
+    "general_pinyins": [
+        "huì"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "乙",
+        "non_radical_sn": "1",
+        "total_sn": "2"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "會"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "200D0",
+            "55"
+        ],
+        "char_code_wubi": "nnn",
+        "char_code_cangjie": "nn",
+        "char_code_zhengma": "yday"
+    },
+    "general_unicode": "扩展B U+200D0",
+    "general_bs_code": "55"
+}

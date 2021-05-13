@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ancient barbarian tribes"
+        },
+        {
+            "language": "德语",
+            "explanation": "Barbar  (S)​,Yi  (Eig, Fam)​,Stämme im Osten"
+        },
+        {
+            "language": "法语",
+            "explanation": "raser,exterminer,sauf,étranger"
+        }
+    ],
+    "general_pinyins": [
+        "yí"
+    ],
+    "general_zhuyins": [
+        "ㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "大",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㹫",
+        "侇",
+        "跠",
+        "𡗝",
+        "𡰥",
+        "𢎯",
+        "𢓡",
+        "恞",
+        "痍"
+    ],
+    "general_structure": "嵌套结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5937",
+            "151534"
+        ],
+        "char_code_wubi": "gxwi",
+        "char_code_cangjie": "kn",
+        "char_code_zhengma": "gdyz",
+        "char_code_sijiao": "50802"
+    },
+    "general_unicode": "基本区 U+5937",
+    "general_bs_code": "151534"
+}

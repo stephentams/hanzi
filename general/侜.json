@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lies"
+        },
+        {
+            "language": "德语",
+            "explanation": "decken, umfassen ,verbergen, verhehlen"
+        },
+        {
+            "language": "法语",
+            "explanation": "masquer,couvrir"
+        }
+    ],
+    "general_pinyins": [
+        "zhōu"
+    ],
+    "general_zhuyins": [
+        "ㄓㄡ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "譸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4F9C",
+            "32335414"
+        ],
+        "char_code_wubi": "wtey|wtuy",
+        "char_code_cangjie": "ohby",
+        "char_code_zhengma": "npy",
+        "char_code_sijiao": "27240"
+    },
+    "general_unicode": "基本区 U+4F9C",
+    "general_bs_code": "32335414"
+}

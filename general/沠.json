@@ -1,0 +1,30 @@
+{
+    "general_pinyins": [
+        "pài"
+    ],
+    "general_zhuyins": [
+        "ㄆㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "派"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6CA0",
+            "4413324"
+        ],
+        "char_code_wubi": "irhy",
+        "char_code_cangjie": "ehlo",
+        "char_code_zhengma": "vpv",
+        "char_code_sijiao": "32130"
+    },
+    "general_unicode": "基本区 U+6CA0",
+    "general_bs_code": "4413324"
+}

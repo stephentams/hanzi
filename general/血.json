@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "blood; radical number 143"
+        },
+        {
+            "language": "德语",
+            "explanation": "Blut  (S)​,Blut  (S)​,blutig  (Adj)​,Radikal Nr. 143 = Blut"
+        },
+        {
+            "language": "法语",
+            "explanation": "sang,sang"
+        }
+    ],
+    "general_pinyins": [
+        "xiě",
+        "xuè"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄝˇ",
+        "ㄒㄩㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "血",
+        "non_radical_sn": "0",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8840",
+            "325221"
+        ],
+        "char_code_wubi": "tld",
+        "char_code_cangjie": "hbt",
+        "char_code_zhengma": "mlka",
+        "char_code_sijiao": "27102"
+    },
+    "general_unicode": "基本区 U+8840",
+    "general_bs_code": "325221"
+}

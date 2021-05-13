@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mourning; mourn; funeral"
+        },
+        {
+            "language": "德语",
+            "explanation": "Trauer ,etw. verlieren  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "deuil,funérailles,perdre"
+        }
+    ],
+    "general_pinyins": [
+        "sāng",
+        "sàng"
+    ],
+    "general_zhuyins": [
+        "ㄙㄤ",
+        "ㄙㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "一",
+        "non_radical_sn": "7",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "喪"
+    ],
+    "general_ytz": [
+        "喪",
+        "䘮",
+        "𠸶",
+        "𡂤",
+        "𡚏",
+        "𡴧"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4E27",
+            "12431534"
+        ],
+        "char_code_wubi": "fueu",
+        "char_code_cangjie": "gcv",
+        "char_code_zhengma": "eduh",
+        "char_code_sijiao": "40732"
+    },
+    "general_unicode": "基本区 U+4E27",
+    "general_bs_code": "12431534"
+}

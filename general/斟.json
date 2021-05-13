@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to pour wine or tea into a cup; to gauge"
+        },
+        {
+            "language": "德语",
+            "explanation": "überlegen ,einschenken, gießen"
+        },
+        {
+            "language": "法语",
+            "explanation": "verser"
+        }
+    ],
+    "general_pinyins": [
+        "zhēn"
+    ],
+    "general_zhuyins": [
+        "ㄓㄣ"
+    ],
+    "general_radical": {
+        "radical": "斗",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㪸",
+        "酙",
+        "𣁱",
+        "𨠇"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "659F",
+            "1221113454412"
+        ],
+        "char_code_wubi": "adwf|dwnf",
+        "char_code_cangjie": "tvyj",
+        "char_code_zhengma": "ecte",
+        "char_code_sijiao": "44700"
+    },
+    "general_unicode": "基本区 U+659F",
+    "general_bs_code": "1221113454412"
+}

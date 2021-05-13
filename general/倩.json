@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "beautiful, lovely; son-in-law"
+        },
+        {
+            "language": "德语",
+            "explanation": "Nichte  (S)​,Qian  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "beau,joli"
+        }
+    ],
+    "general_pinyins": [
+        "qiàn"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5029",
+            "3211212511"
+        ],
+        "char_code_wubi": "wgeg",
+        "char_code_cangjie": "oqmb",
+        "char_code_zhengma": "ncq",
+        "char_code_sijiao": "25227"
+    },
+    "general_unicode": "基本区 U+5029",
+    "general_bs_code": "3211212511"
+}

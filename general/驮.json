@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "carry on back"
+        },
+        {
+            "language": "德语",
+            "explanation": "auf dem Rücken tragen"
+        },
+        {
+            "language": "法语",
+            "explanation": "porter sur le dos,charger sur une bête de somme,porter sur le dos,charger sur une bête de somme"
+        }
+    ],
+    "general_pinyins": [
+        "tuó"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "马",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "馱"
+    ],
+    "general_ytz": [
+        "馱",
+        "駄",
+        "䭾",
+        "𨈷"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A6E",
+            "551134"
+        ],
+        "char_code_wubi": "cdy|cgdy",
+        "char_code_cangjie": "nmk",
+        "char_code_zhengma": "xgd",
+        "char_code_sijiao": "74180"
+    },
+    "general_unicode": "基本区 U+9A6E",
+    "general_bs_code": "551134"
+}

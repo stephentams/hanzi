@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to spread (name, news); to be known"
+        },
+        {
+            "language": "德语",
+            "explanation": "auftragen, ausbreiten ,handhaben"
+        },
+        {
+            "language": "法语",
+            "explanation": "déplier,dérouler,narrer en détail"
+        }
+    ],
+    "general_pinyins": [
+        "chī"
+    ],
+    "general_zhuyins": [
+        "ㄔ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "攡"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "645B",
+            "1214134522554"
+        ],
+        "char_code_wubi": "rybc|ryrc",
+        "char_code_cangjie": "qyub",
+        "char_code_zhengma": "dslz",
+        "char_code_sijiao": "50027"
+    },
+    "general_unicode": "基本区 U+645B",
+    "general_bs_code": "1214134522554"
+}

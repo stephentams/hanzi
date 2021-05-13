@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "medicinal herb; a kind of vegetable, salted vegetables"
+        }
+    ],
+    "general_pinyins": [
+        "niàng"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "24",
+        "total_sn": "27"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧅼"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4586",
+            "122125351141251251112213534"
+        ],
+        "char_code_wubi": "asge",
+        "char_code_cangjie": "tmwv",
+        "char_code_zhengma": "efer",
+        "char_code_sijiao": "44632"
+    },
+    "general_unicode": "扩展A U+4586",
+    "general_bs_code": "122125351141251251112213534"
+}
