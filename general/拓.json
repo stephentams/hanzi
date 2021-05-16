@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "expand; open up; support or push"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufmachen ,ausweiten, erweitern ,entwickeln, entfalten"
+        },
+        {
+            "language": "法语",
+            "explanation": "défricher,développer,construire,décalquer (par exemple une inscription)​"
+        }
+    ],
+    "general_pinyins": [
+        "tuò",
+        "tà",
+        "zhí"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄛˋ",
+        "ㄊㄚˋ",
+        "ㄓˊ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "托",
+        "搨",
+        "𢫳",
+        "𢷌",
+        "𢸨",
+        "摭",
+        "拓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "62D3",
+            "12113251"
+        ],
+        "char_code_wubi": "rdg",
+        "char_code_cangjie": "qmr",
+        "char_code_zhengma": "dgvv",
+        "char_code_sijiao": "51062"
+    },
+    "general_unicode": "基本区 U+62D3",
+    "general_bs_code": "12113251"
+}

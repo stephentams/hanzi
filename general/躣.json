@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "法语",
+            "explanation": "(manière de marcher)​"
+        }
+    ],
+    "general_pinyins": [
+        "qú"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩˊ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "18",
+        "total_sn": "25"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "忂"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8EA3",
+            "2512121251112511132411121"
+        ],
+        "char_code_wubi": "khhy",
+        "char_code_cangjie": "rmbug",
+        "char_code_zhengma": "jiln",
+        "char_code_sijiao": "66115"
+    },
+    "general_unicode": "基本区 U+8EA3",
+    "general_bs_code": "2512121251112511132411121"
+}

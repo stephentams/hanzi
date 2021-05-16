@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 顎) the jowl; the cheek bones, high cheek-boned"
+        }
+    ],
+    "general_pinyins": [
+        "è"
+    ],
+    "general_zhuyins": [
+        "ㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "頁",
+        "non_radical_sn": "16",
+        "total_sn": "25"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "顎"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4AF7",
+            "1251251122512511132511134"
+        ],
+        "char_code_wubi": "gkkm",
+        "char_code_cangjie": "mrmbc",
+        "char_code_zhengma": "cjjg",
+        "char_code_sijiao": "11186"
+    },
+    "general_unicode": "扩展A U+4AF7",
+    "general_bs_code": "1251251122512511132511134"
+}

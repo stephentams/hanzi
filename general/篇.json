@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "chapter, section, essay, article"
+        },
+        {
+            "language": "德语",
+            "explanation": "Zählwort für Texte  (Zähl)​,Aufsatz, Text  (S, Lit)​,Blatt ( mit Text )​  (S)​,ein beschriebens, bedrucktes Papier  (S)​,Zählwort für Texte, Artikel, Seite, Papieseite, Buchseite  (Zähl)"
+        },
+        {
+            "language": "法语",
+            "explanation": "article,essai,composition littéraire,écrit,feuille,chapitre,feuillet,(classificateur pour les oeuvres littéraires, les articles de presse ou de revues)​"
+        }
+    ],
+    "general_pinyins": [
+        "piān"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "9",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7BC7",
+            "314314451325122"
+        ],
+        "char_code_wubi": "tyna",
+        "char_code_cangjie": "hhsb",
+        "char_code_zhengma": "mwld",
+        "char_code_sijiao": "88227"
+    },
+    "general_unicode": "基本区 U+7BC7",
+    "general_bs_code": "314314451325122"
+}

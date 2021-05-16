@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mound, lump; stealthily"
+        },
+        {
+            "language": "德语",
+            "explanation": "groß, bedeutend"
+        },
+        {
+            "language": "法语",
+            "explanation": "grande fortune"
+        }
+    ],
+    "general_pinyins": [
+        "pǐ"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "16",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "噽",
+        "𡀆",
+        "𧯻"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "56AD",
+            "1212514312511324251"
+        ],
+        "char_code_wubi": "fkuk",
+        "char_code_cangjie": "grmfr",
+        "char_code_zhengma": "bjgj",
+        "char_code_sijiao": "41669"
+    },
+    "general_unicode": "基本区 U+56AD",
+    "general_bs_code": "1212514312511324251"
+}

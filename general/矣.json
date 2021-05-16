@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "particle of completed action"
+        },
+        {
+            "language": "德语",
+            "explanation": "Partikel (der klassischern chinesischen Sprache, ähnlich dem heute gebrauchten了lè, zeigt Vollendung eines Vorgangs an )​"
+        },
+        {
+            "language": "法语",
+            "explanation": "(finale)​ : c'est tout"
+        }
+    ],
+    "general_pinyins": [
+        "yǐ"
+    ],
+    "general_zhuyins": [
+        "ㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "矢",
+        "non_radical_sn": "2",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠤘",
+        "𢦕"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "77E3",
+            "5431134"
+        ],
+        "char_code_wubi": "ctdu",
+        "char_code_cangjie": "iok",
+        "char_code_zhengma": "zsma",
+        "char_code_sijiao": "23804"
+    },
+    "general_unicode": "基本区 U+77E3",
+    "general_bs_code": "5431134"
+}

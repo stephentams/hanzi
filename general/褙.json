@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "paper or cloth pasted together"
+        },
+        {
+            "language": "法语",
+            "explanation": "monter sur papier fort,entoiler"
+        }
+    ],
+    "general_pinyins": [
+        "bèi"
+    ],
+    "general_zhuyins": [
+        "ㄅㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "衤",
+        "non_radical_sn": "9",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "背",
+        "䋳",
+        "禙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8919",
+            "45234211352511"
+        ],
+        "char_code_wubi": "puue",
+        "char_code_cangjie": "llpb",
+        "char_code_zhengma": "wtrq",
+        "char_code_sijiao": "32227"
+    },
+    "general_unicode": "基本区 U+8919",
+    "general_bs_code": "45234211352511"
+}

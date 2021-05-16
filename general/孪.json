@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "twins"
+        },
+        {
+            "language": "德语",
+            "explanation": "Zwillinge  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "jumeaux"
+        }
+    ],
+    "general_pinyins": [
+        "luán"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "子",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "孿"
+    ],
+    "general_ytz": [
+        "孿",
+        "㝈",
+        "𤲶"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5B6A",
+            "412234521"
+        ],
+        "char_code_wubi": "yobf",
+        "char_code_cangjie": "ycnd",
+        "char_code_zhengma": "skya",
+        "char_code_sijiao": "00407"
+    },
+    "general_unicode": "基本区 U+5B6A",
+    "general_bs_code": "412234521"
+}

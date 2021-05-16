@@ -1,0 +1,66 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fry, saute, roast, boil, cook"
+        },
+        {
+            "language": "德语",
+            "explanation": "etwas in der Pfanne kurz braten, sautieren; hochzüchten,  Krach schlagen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "faire sauter,sauté (cuisine)​,frit,jeter au feu,livrer aux flammes"
+        }
+    ],
+    "general_pinyins": [
+        "chǎo"
+    ],
+    "general_zhuyins": [
+        "ㄔㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㶤",
+        "㷅",
+        "槱",
+        "焣",
+        "煼",
+        "𢐨",
+        "𢐺",
+        "𤈓",
+        "𤈗",
+        "𤈨",
+        "𤊛",
+        "𤊝",
+        "𤌉",
+        "𤌝",
+        "𤌽",
+        "𤑡",
+        "𤑵",
+        "𩰸",
+        "𩱂",
+        "𩱈",
+        "𩱦",
+        "𤌖",
+        "𧺩"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7092",
+            "43342343"
+        ],
+        "char_code_wubi": "oitt",
+        "char_code_cangjie": "ffh",
+        "char_code_zhengma": "uokm",
+        "char_code_sijiao": "99820"
+    },
+    "general_unicode": "基本区 U+7092",
+    "general_bs_code": "43342343"
+}

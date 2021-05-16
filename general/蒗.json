@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "德语",
+            "explanation": "Ortsname  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(herbe)​,(nom de lieu)​"
+        }
+    ],
+    "general_pinyins": [
+        "làng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8497",
+            "1224414511534"
+        ],
+        "char_code_wubi": "aiye|aiyv",
+        "char_code_cangjie": "teiv",
+        "char_code_zhengma": "evsx",
+        "char_code_sijiao": "44132"
+    },
+    "general_unicode": "基本区 U+8497",
+    "general_bs_code": "1224414511534"
+}

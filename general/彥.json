@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "elegant, handsome; learned"
+        },
+        {
+            "language": "德语",
+            "explanation": "intelligenter und ehrenhafter Mensch  (S, Gesch)"
+        },
+        {
+            "language": "法语",
+            "explanation": "lettré"
+        }
+    ],
+    "general_pinyins": [
+        "yàn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "彡",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "彦"
+    ],
+    "general_ytz": [
+        "彦",
+        "𢒊"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F65",
+            "413413333"
+        ],
+        "char_code_wubi": "yder",
+        "char_code_cangjie": "ykmhh",
+        "char_code_zhengma": "sogp",
+        "char_code_sijiao": "00222"
+    },
+    "general_unicode": "基本区 U+5F65",
+    "general_bs_code": "413413333"
+}

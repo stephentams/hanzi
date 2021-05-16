@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hysterical"
+        },
+        {
+            "language": "德语",
+            "explanation": "Hysterie  (S, Med)​,hysterisch  (Adj, Med)"
+        },
+        {
+            "language": "法语",
+            "explanation": "Hystérie"
+        }
+    ],
+    "general_pinyins": [
+        "yì"
+    ],
+    "general_zhuyins": [
+        "ㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "13",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7654",
+            "413414143125114544"
+        ],
+        "char_code_wubi": "uujn",
+        "char_code_cangjie": "kytp",
+        "char_code_zhengma": "tskw",
+        "char_code_sijiao": "00136"
+    },
+    "general_unicode": "基本区 U+7654",
+    "general_bs_code": "413414143125114544"
+}

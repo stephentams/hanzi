@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "宀",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "貧"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "219CB",
+            "4453553"
+        ],
+        "char_code_wubi": "pwvb",
+        "char_code_cangjie": "jcsh",
+        "char_code_zhengma": "woyd"
+    },
+    "general_unicode": "扩展B U+219CB",
+    "general_bs_code": "4453553"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "perform, put on; exercise"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufführen, (eine Rolle)​ spielen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "évoluer,se développer,représenter,jouer (un rôle)​,projeter (un film)​"
+        }
+    ],
+    "general_pinyins": [
+        "yǎn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤀋"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6F14",
+            "44144512512134"
+        ],
+        "char_code_wubi": "ipgw",
+        "char_code_cangjie": "ejmc",
+        "char_code_zhengma": "vwko",
+        "char_code_sijiao": "33186"
+    },
+    "general_unicode": "基本区 U+6F14",
+    "general_bs_code": "44144512512134"
+}

@@ -1,0 +1,55 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "illness, disease, sickness; to hate"
+        },
+        {
+            "language": "德语",
+            "explanation": "Erkrankung  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "maladie,peine,douleur,haïr,détester,rapide,vif"
+        }
+    ],
+    "general_pinyins": [
+        "jí"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠥻",
+        "𤕬",
+        "𤕺",
+        "𤕼",
+        "𤖏",
+        "𤶅",
+        "𤶥",
+        "𥏂",
+        "𥏦",
+        "𥏴",
+        "𨕾",
+        "𥐃"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "75BE",
+            "4134131134"
+        ],
+        "char_code_wubi": "utdi",
+        "char_code_cangjie": "kok",
+        "char_code_zhengma": "tma",
+        "char_code_sijiao": "00184"
+    },
+    "general_unicode": "基本区 U+75BE",
+    "general_bs_code": "4134131134"
+}

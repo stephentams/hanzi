@@ -1,0 +1,57 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "oysters, mussels; mother-of-pearl"
+        },
+        {
+            "language": "德语",
+            "explanation": "Muschel  (S, Tech)"
+        },
+        {
+            "language": "法语",
+            "explanation": "moule (n.f)​,palourde"
+        }
+    ],
+    "general_pinyins": [
+        "bàng",
+        "bèng"
+    ],
+    "general_zhuyins": [
+        "ㄅㄤ",
+        "ㄅㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "螷",
+        "蜂",
+        "𩷙",
+        "𧎞",
+        "𧉻",
+        "𧉳",
+        "蜯",
+        "蛖",
+        "蚄",
+        "硥",
+        "䰷",
+        "䖫"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "868C",
+            "2512141112"
+        ],
+        "char_code_wubi": "jdhh",
+        "char_code_cangjie": "liqj",
+        "char_code_zhengma": "ici",
+        "char_code_sijiao": "55100"
+    },
+    "general_unicode": "基本区 U+868C",
+    "general_bs_code": "2512141112"
+}

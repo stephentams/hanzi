@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "KangXi radical 153; legless insects; a legendary beast"
+        },
+        {
+            "language": "德语",
+            "explanation": "Radikal Nr. 153 = Reptil, Katze, kleines haariges Tier, mystisches Tier    (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "insecte rampant,153e radical"
+        }
+    ],
+    "general_pinyins": [
+        "zhì"
+    ],
+    "general_zhuyins": [
+        "ㄓˋ"
+    ],
+    "general_radical": {
+        "radical": "豸",
+        "non_radical_sn": "0",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤞝",
+        "𦎋",
+        "𧋈",
+        "𧳃",
+        "𪺏"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C78",
+            "3443533"
+        ],
+        "char_code_wubi": "eer|etyt",
+        "char_code_cangjie": "bshh",
+        "char_code_zhengma": "pqa",
+        "char_code_sijiao": "20222"
+    },
+    "general_unicode": "基本区 U+8C78",
+    "general_bs_code": "3443533"
+}

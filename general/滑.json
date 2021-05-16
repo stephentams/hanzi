@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "slip, slide; slippery, polished"
+        },
+        {
+            "language": "德语",
+            "explanation": "komisch ,glatt, schlau, gleiten  (V)​,Hua  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "glisser,lisse,glissant,rusé"
+        }
+    ],
+    "general_pinyins": [
+        "huá"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "抇",
+        "磆",
+        "猾",
+        "滑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6ED1",
+            "441255452511"
+        ],
+        "char_code_wubi": "imeg",
+        "char_code_cangjie": "ebbb",
+        "char_code_zhengma": "vlw",
+        "char_code_sijiao": "37127"
+    },
+    "general_unicode": "基本区 U+6ED1",
+    "general_bs_code": "441255452511"
+}

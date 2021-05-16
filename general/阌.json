@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wen xiang, Henan province"
+        }
+    ],
+    "general_pinyins": [
+        "wén"
+    ],
+    "general_zhuyins": [
+        "ㄨㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "门",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "閿"
+    ],
+    "general_ytz": [
+        "閿",
+        "𨳶"
+    ],
+    "general_structure": "上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "960C",
+            "42534434554"
+        ],
+        "char_code_wubi": "uepc",
+        "char_code_cangjie": "lsbbe",
+        "char_code_zhengma": "tlwx",
+        "char_code_sijiao": "37407"
+    },
+    "general_unicode": "基本区 U+960C",
+    "general_bs_code": "42534434554"
+}

@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "jujube"
+        },
+        {
+            "language": "法语",
+            "explanation": "variété acide de jujube"
+        }
+    ],
+    "general_pinyins": [
+        "èr"
+    ],
+    "general_zhuyins": [
+        "ㄦˋ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "12",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6A32",
+            "1234111251113454"
+        ],
+        "char_code_wubi": "safm|safy",
+        "char_code_cangjie": "dipc",
+        "char_code_zhengma": "fhbl",
+        "char_code_sijiao": "43940"
+    },
+    "general_unicode": "基本区 U+6A32",
+    "general_bs_code": "1234111251113454"
+}

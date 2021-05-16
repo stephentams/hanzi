@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "heft, hold or weigh in palm"
+        },
+        {
+            "language": "法语",
+            "explanation": "soupeser,estimer"
+        }
+    ],
+    "general_pinyins": [
+        "diān"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "玷"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6382",
+            "12141321251"
+        ],
+        "char_code_wubi": "ryhk|rohk",
+        "char_code_cangjie": "qiyr",
+        "char_code_zhengma": "dtij",
+        "char_code_sijiao": "50061"
+    },
+    "general_unicode": "基本区 U+6382",
+    "general_bs_code": "12141321251"
+}

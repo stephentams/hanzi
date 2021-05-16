@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ulcers, sores; infection"
+        },
+        {
+            "language": "德语",
+            "explanation": "Geschwür  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "ulcère,plaie"
+        }
+    ],
+    "general_pinyins": [
+        "yáng"
+    ],
+    "general_zhuyins": [
+        "ㄧㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "3",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "瘍"
+    ],
+    "general_ytz": [
+        "瘍",
+        "𤺹",
+        "𤻈"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "75A1",
+            "41341533"
+        ],
+        "char_code_wubi": "unre",
+        "char_code_cangjie": "knsh",
+        "char_code_zhengma": "tyod",
+        "char_code_sijiao": "00127"
+    },
+    "general_unicode": "基本区 U+75A1",
+    "general_bs_code": "41341533"
+}

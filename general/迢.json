@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "far; distant"
+        },
+        {
+            "language": "德语",
+            "explanation": "fern, abgelegen"
+        },
+        {
+            "language": "法语",
+            "explanation": "inaccessible"
+        }
+    ],
+    "general_pinyins": [
+        "tiáo"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨒄",
+        "𨔴"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8FE2",
+            "53251454"
+        ],
+        "char_code_wubi": "vkpd",
+        "char_code_cangjie": "yshr",
+        "char_code_zhengma": "ydjw",
+        "char_code_sijiao": "37306"
+    },
+    "general_unicode": "基本区 U+8FE2",
+    "general_bs_code": "53251454"
+}

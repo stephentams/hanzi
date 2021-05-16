@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a raft, to hew, to fell trees"
+        },
+        {
+            "language": "德语",
+            "explanation": "Hagedorn, Weißdorn  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "azerolier,cheveux ou barbe courts ou raides,barbe de trois jours"
+        }
+    ],
+    "general_pinyins": [
+        "zhā",
+        "chá"
+    ],
+    "general_zhuyins": [
+        "ㄓㄚ",
+        "ㄔㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "柤",
+        "查",
+        "槎",
+        "樝"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6942",
+            "1234123425111"
+        ],
+        "char_code_wubi": "ssjg",
+        "char_code_cangjie": "ddam",
+        "char_code_zhengma": "ffka",
+        "char_code_sijiao": "44916"
+    },
+    "general_unicode": "基本区 U+6942",
+    "general_bs_code": "1234123425111"
+}

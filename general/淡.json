@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "weak, watery; insipid, tasteless"
+        },
+        {
+            "language": "法语",
+            "explanation": "faible,pâle,léger,doux,clair,indifférent"
+        }
+    ],
+    "general_pinyins": [
+        "dàn"
+    ],
+    "general_zhuyins": [
+        "ㄉㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "氮",
+        "灩",
+        "痰"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6DE1",
+            "44143344334"
+        ],
+        "char_code_wubi": "iooy",
+        "char_code_cangjie": "eff",
+        "char_code_zhengma": "vuuo",
+        "char_code_sijiao": "39189"
+    },
+    "general_unicode": "基本区 U+6DE1",
+    "general_bs_code": "44143344334"
+}

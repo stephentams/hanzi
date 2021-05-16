@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "strain out, filter"
+        },
+        {
+            "language": "德语",
+            "explanation": "abseihen, strapazieren ,filtern"
+        },
+        {
+            "language": "法语",
+            "explanation": "filtrer"
+        }
+    ],
+    "general_pinyins": [
+        "lǜ"
+    ],
+    "general_zhuyins": [
+        "ㄌㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "濾"
+    ],
+    "general_ytz": [
+        "濾",
+        "𤄦"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6EE4",
+            "4412153154544"
+        ],
+        "char_code_wubi": "ihan|ihny",
+        "char_code_cangjie": "eypp",
+        "char_code_zhengma": "viwz",
+        "char_code_sijiao": "31131"
+    },
+    "general_unicode": "基本区 U+6EE4",
+    "general_bs_code": "4412153154544"
+}

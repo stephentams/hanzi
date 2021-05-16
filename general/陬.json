@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "corner, cranny, nook, niche"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ecke  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "angle"
+        }
+    ],
+    "general_pinyins": [
+        "zōu"
+    ],
+    "general_zhuyins": [
+        "ㄗㄡ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨽁"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "966C",
+            "5212211154"
+        ],
+        "char_code_wubi": "bbcy",
+        "char_code_cangjie": "nlsje",
+        "char_code_zhengma": "ycxs",
+        "char_code_sijiao": "77240"
+    },
+    "general_unicode": "基本区 U+966C",
+    "general_bs_code": "5212211154"
+}

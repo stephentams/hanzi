@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "charger, steed; swift, valiant"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schimmel (weißes Pferd)​  (S, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "Pyu,cheval blanc"
+        }
+    ],
+    "general_pinyins": [
+        "piào",
+        "biāo"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧㄠˋ",
+        "ㄅㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "马",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "驃"
+    ],
+    "general_ytz": [
+        "驃",
+        "𩦈",
+        "𩦾",
+        "𩧙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9AA0",
+            "55112522111234"
+        ],
+        "char_code_wubi": "csfi|cgsi",
+        "char_code_cangjie": "nmmwf",
+        "char_code_zhengma": "xfbk",
+        "char_code_sijiao": "71191"
+    },
+    "general_unicode": "基本区 U+9AA0",
+    "general_bs_code": "55112522111234"
+}

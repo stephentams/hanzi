@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "talk indistinctly and falteringly"
+        },
+        {
+            "language": "德语",
+            "explanation": "plappernd, Plappern  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "rú"
+    ],
+    "general_zhuyins": [
+        "ㄖㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "14",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "咮"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5685",
+            "25114524444132522"
+        ],
+        "char_code_wubi": "kfdj",
+        "char_code_cangjie": "rmbb",
+        "char_code_zhengma": "jfgl",
+        "char_code_sijiao": "61027"
+    },
+    "general_unicode": "基本区 U+5685",
+    "general_bs_code": "25114524444132522"
+}

@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "track, rut, path"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bahn, Weg, Kurs  (S)​,Gleis  (S, Tech)​,Schiene  (S, Tech)"
+        },
+        {
+            "language": "法语",
+            "explanation": "rail,voie"
+        }
+    ],
+    "general_pinyins": [
+        "guǐ"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄟˇ"
+    ],
+    "general_radical": {
+        "radical": "车",
+        "non_radical_sn": "2",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "軌"
+    ],
+    "general_ytz": [
+        "軌",
+        "䡄",
+        "𧗢",
+        "𨑍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8F68",
+            "152135"
+        ],
+        "char_code_wubi": "lvn",
+        "char_code_cangjie": "kqkn",
+        "char_code_zhengma": "heqy",
+        "char_code_sijiao": "44517"
+    },
+    "general_unicode": "基本区 U+8F68",
+    "general_bs_code": "152135"
+}

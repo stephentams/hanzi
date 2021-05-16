@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to select; to take; to carry"
+        },
+        {
+            "language": "德语",
+            "explanation": "etwas für jemanden (hin)​bringen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "porter qch à qqn,livrer"
+        }
+    ],
+    "general_pinyins": [
+        "shāo",
+        "shào"
+    ],
+    "general_zhuyins": [
+        "ㄕㄠ",
+        "ㄕㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢾐"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "634E",
+            "1212432511"
+        ],
+        "char_code_wubi": "rieg",
+        "char_code_cangjie": "qfb",
+        "char_code_zhengma": "dkq",
+        "char_code_sijiao": "59027"
+    },
+    "general_unicode": "基本区 U+634E",
+    "general_bs_code": "1212432511"
+}

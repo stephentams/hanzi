@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a raised path between fields, a dike"
+        },
+        {
+            "language": "法语",
+            "explanation": "levée de terre entre les champs"
+        }
+    ],
+    "general_pinyins": [
+        "chéng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "堘",
+        "塖",
+        "畻",
+        "𣎒",
+        "𤳁",
+        "𤳔",
+        "𤳮",
+        "𡏕",
+        "𦩱",
+        "𧑥"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "584D",
+            "2511431134121"
+        ],
+        "char_code_wubi": "eudf|eugf",
+        "char_code_cangjie": "bfqg",
+        "char_code_zhengma": "qub",
+        "char_code_sijiao": "79214"
+    },
+    "general_unicode": "基本区 U+584D",
+    "general_bs_code": "2511431134121"
+}

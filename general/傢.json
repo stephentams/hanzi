@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stubborn, obstinate, intransigent"
+        }
+    ],
+    "general_pinyins": [
+        "jiā"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄚ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "10",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "家",
+        "像"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "50A2",
+            "324451353334"
+        ],
+        "char_code_wubi": "wpey|wpge",
+        "char_code_cangjie": "ojmo",
+        "char_code_zhengma": "nwgq",
+        "char_code_sijiao": "23232"
+    },
+    "general_unicode": "基本区 U+50A2",
+    "general_bs_code": "324451353334"
+}

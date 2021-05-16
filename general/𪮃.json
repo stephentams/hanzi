@@ -1,0 +1,26 @@
+{
+    "general_pinyins": [
+        "cán"
+    ],
+    "general_zhuyins": [
+        "ㄘㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "手",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "㨻"
+    ],
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2AB83"
+        ],
+        "char_code_wubi": "lrrj",
+        "char_code_zhengma": "dgli"
+    },
+    "general_unicode": "扩展C U+2AB83"
+}

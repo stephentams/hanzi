@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "come upon, happen meet; flatter"
+        },
+        {
+            "language": "德语",
+            "explanation": "jederzeit  (Adv)"
+        },
+        {
+            "language": "法语",
+            "explanation": "rencontrer"
+        }
+    ],
+    "general_pinyins": [
+        "féng"
+    ],
+    "general_zhuyins": [
+        "ㄈㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "逄",
+        "夆"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9022",
+            "3541112454"
+        ],
+        "char_code_wubi": "tdhp",
+        "char_code_cangjie": "yhej",
+        "char_code_zhengma": "rscw",
+        "char_code_sijiao": "37305"
+    },
+    "general_unicode": "基本区 U+9022",
+    "general_bs_code": "3541112454"
+}

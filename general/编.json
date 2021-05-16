@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "knit, weave; arrange; compile"
+        },
+        {
+            "language": "德语",
+            "explanation": "flechten  (V)​,verfassen  (V)​,komponieren"
+        },
+        {
+            "language": "法语",
+            "explanation": "tresser,tisser,arranger,rédiger,écrire,éditer,compiler,composer,fabriquer,forger,inventer"
+        }
+    ],
+    "general_pinyins": [
+        "biān"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "編"
+    ],
+    "general_ytz": [
+        "編"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F16",
+            "551451325122"
+        ],
+        "char_code_wubi": "xyna",
+        "char_code_cangjie": "vmisb",
+        "char_code_zhengma": "zwld",
+        "char_code_sijiao": "23127"
+    },
+    "general_unicode": "基本区 U+7F16",
+    "general_bs_code": "551451325122"
+}

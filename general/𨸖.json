@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "3",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨹁"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "28E16",
+            "52121"
+        ],
+        "char_code_wubi": "bag",
+        "char_code_cangjie": "nlm",
+        "char_code_zhengma": "ybi"
+    },
+    "general_unicode": "扩展B U+28E16",
+    "general_bs_code": "52121"
+}

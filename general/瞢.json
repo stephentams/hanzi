@@ -1,0 +1,56 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "eyesight obscured; to feel ashamed"
+        },
+        {
+            "language": "德语",
+            "explanation": "sich beschämt fühlen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "vue obscurcie,avoir honte"
+        }
+    ],
+    "general_pinyins": [
+        "méng",
+        "měng"
+    ],
+    "general_zhuyins": [
+        "ㄇㄥˊ",
+        "ㄇㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "10",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "矒",
+        "𥉞",
+        "𥊃",
+        "𥊄",
+        "𥌋",
+        "𦱛",
+        "𦴁",
+        "𦴔",
+        "夢",
+        "盲",
+        "㬝"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "77A2",
+            "122252214525111"
+        ],
+        "char_code_wubi": "alph",
+        "char_code_cangjie": "twlu",
+        "char_code_zhengma": "elwl",
+        "char_code_sijiao": "44602"
+    },
+    "general_unicode": "基本区 U+77A2",
+    "general_bs_code": "122252214525111"
+}

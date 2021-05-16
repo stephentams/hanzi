@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a cliff; a precipice"
+        }
+    ],
+    "general_pinyins": [
+        "è",
+        "niè",
+        "xùn"
+    ],
+    "general_zhuyins": [
+        "ㄝˋ",
+        "ㄋㄧㄝˋ",
+        "ㄒㄩㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "崿"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "37E7",
+            "252251251115"
+        ],
+        "char_code_wubi": "mkkn",
+        "char_code_cangjie": "urrs",
+        "char_code_zhengma": "llbz",
+        "char_code_sijiao": "22027"
+    },
+    "general_unicode": "扩展A U+37E7",
+    "general_bs_code": "252251251115"
+}

@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "darnels, weeds, tares small"
+        }
+    ],
+    "general_pinyins": [
+        "bài"
+    ],
+    "general_zhuyins": [
+        "ㄅㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥟑",
+        "𥟗",
+        "薭",
+        "𦓸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7A17",
+            "3123432511312"
+        ],
+        "char_code_wubi": "trtf",
+        "char_code_cangjie": "hdhwj",
+        "char_code_zhengma": "mfne",
+        "char_code_sijiao": "26940"
+    },
+    "general_unicode": "基本区 U+7A17",
+    "general_bs_code": "3123432511312"
+}

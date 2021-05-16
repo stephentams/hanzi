@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "young brother; junior; i, me"
+        },
+        {
+            "language": "法语",
+            "explanation": "frère cadet,petit frère"
+        }
+    ],
+    "general_pinyins": [
+        "dì",
+        "tì",
+        "tuí"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧˋ",
+        "ㄊㄧˋ",
+        "ㄊㄨㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "弓",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠂖",
+        "𢦢",
+        "悌",
+        "第",
+        "弚"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F1F",
+            "4351523"
+        ],
+        "char_code_wubi": "uxht",
+        "char_code_cangjie": "cnlh",
+        "char_code_zhengma": "udyz",
+        "char_code_sijiao": "80227"
+    },
+    "general_unicode": "基本区 U+5F1F",
+    "general_bs_code": "4351523"
+}

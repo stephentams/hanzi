@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "concrete"
+        }
+    ],
+    "general_pinyins": [
+        "tóng"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "783C",
+            "1325134121"
+        ],
+        "char_code_wubi": "dwag",
+        "char_code_cangjie": "mrom",
+        "char_code_zhengma": "gobi",
+        "char_code_sijiao": "18612"
+    },
+    "general_unicode": "基本区 U+783C",
+    "general_bs_code": "1325134121"
+}

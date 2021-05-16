@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "assist, aid, rescue"
+        },
+        {
+            "language": "法语",
+            "explanation": "aider,assistant"
+        }
+    ],
+    "general_pinyins": [
+        "chéng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "一",
+        "non_radical_sn": "5",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㞼",
+        "𤇏",
+        "𤉋",
+        "拯"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4E1E",
+            "525341"
+        ],
+        "char_code_wubi": "bigf",
+        "char_code_cangjie": "nem",
+        "char_code_zhengma": "xka",
+        "char_code_sijiao": "17109"
+    },
+    "general_unicode": "基本区 U+4E1E",
+    "general_bs_code": "525341"
+}

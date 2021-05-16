@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cut, mince, slice, carve"
+        },
+        {
+            "language": "德语",
+            "explanation": "schneiden, zerschneiden  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "couper,hacher,tangente (math.)​,définitivement,absolument (pas)​,(interjection méprisante)​ Ouais, c'est ça.,proche de,impatient,correspondre à"
+        }
+    ],
+    "general_pinyins": [
+        "qiē",
+        "qiè"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄝ",
+        "ㄑㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "刀",
+        "non_radical_sn": "2",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "砌",
+        "切"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5207",
+            "1553"
+        ],
+        "char_code_wubi": "avn|avt",
+        "char_code_cangjie": "psh",
+        "char_code_zhengma": "hdyd",
+        "char_code_sijiao": "47720"
+    },
+    "general_unicode": "基本区 U+5207",
+    "general_bs_code": "1553"
+}

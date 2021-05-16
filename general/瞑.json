@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "close eyes"
+        },
+        {
+            "language": "德语",
+            "explanation": "in Frieden sterben  (V)​,zufrieden sterben  (V)​,die Augen für immer schließen  ( und zufrieden sterben )​  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "oeil clos"
+        }
+    ],
+    "general_pinyins": [
+        "míng",
+        "mián"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧㄥˊ",
+        "ㄇ〡ㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "10",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "眠",
+        "冥",
+        "𥌯"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7791",
+            "251114525114134"
+        ],
+        "char_code_wubi": "hpju",
+        "char_code_cangjie": "bubac",
+        "char_code_zhengma": "lwso",
+        "char_code_sijiao": "67080"
+    },
+    "general_unicode": "基本区 U+7791",
+    "general_bs_code": "251114525114134"
+}

@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "skeleton"
+        },
+        {
+            "language": "德语",
+            "explanation": "provisorisch, Gerippe  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "squelette,omoplate,rotule"
+        }
+    ],
+    "general_pinyins": [
+        "kū"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨ"
+    ],
+    "general_radical": {
+        "radical": "骨",
+        "non_radical_sn": "5",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9AB7",
+            "25545251112251"
+        ],
+        "char_code_wubi": "medg",
+        "char_code_cangjie": "bbjr",
+        "char_code_zhengma": "lwej",
+        "char_code_sijiao": "74260"
+    },
+    "general_unicode": "基本区 U+9AB7",
+    "general_bs_code": "25545251112251"
+}

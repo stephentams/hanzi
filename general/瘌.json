@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "severe; poisonous; dangerous; itch and other skin diseases"
+        },
+        {
+            "language": "德语",
+            "explanation": "Krätze  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "lèpre,gale"
+        }
+    ],
+    "general_pinyins": [
+        "là"
+    ],
+    "general_zhuyins": [
+        "ㄌㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "9",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "剌",
+        "癩",
+        "痢",
+        "辢",
+        "辣",
+        "鬎",
+        "𤷫"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "760C",
+            "41341125123422"
+        ],
+        "char_code_wubi": "ugkj|uskj",
+        "char_code_cangjie": "kdln",
+        "char_code_zhengma": "tfjk",
+        "char_code_sijiao": "00120"
+    },
+    "general_unicode": "基本区 U+760C",
+    "general_bs_code": "41341125123422"
+}

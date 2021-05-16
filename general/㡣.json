@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 龍) dragon, or the emperor; imperial, a Chinese family name"
+        }
+    ],
+    "general_pinyins": [
+        "lóng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "巾",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "龍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3863",
+            "4143452521515111"
+        ],
+        "char_code_wubi": "upmd|yupd",
+        "char_code_cangjie": "ybysp",
+        "char_code_zhengma": "suyc",
+        "char_code_sijiao": "01211"
+    },
+    "general_unicode": "扩展A U+3863",
+    "general_bs_code": "4143452521515111"
+}

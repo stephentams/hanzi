@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sell grains"
+        },
+        {
+            "language": "德语",
+            "explanation": "absetzen, verkaufen"
+        },
+        {
+            "language": "法语",
+            "explanation": "vendre des grains"
+        }
+    ],
+    "general_pinyins": [
+        "tiào"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "米",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "糶"
+    ],
+    "general_ytz": [
+        "糶",
+        "𥺋",
+        "𥽀"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7C9C",
+            "52252431234"
+        ],
+        "char_code_wubi": "bmou",
+        "char_code_cangjie": "uufd",
+        "char_code_zhengma": "zizu",
+        "char_code_sijiao": "22904"
+    },
+    "general_unicode": "基本区 U+7C9C",
+    "general_bs_code": "52252431234"
+}

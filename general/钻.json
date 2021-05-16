@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "drill, bore; pierce; diamond"
+        },
+        {
+            "language": "德语",
+            "explanation": "bohren  (V)​,Bohrer  (V)​,Diamant, Brillant, Stein (in der Uhr)​  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "percer un trou,s'insinuer,réfléchir,vrille,tarière"
+        }
+    ],
+    "general_pinyins": [
+        "zuān",
+        "zuàn"
+    ],
+    "general_zhuyins": [
+        "ㄗㄨㄢ",
+        "ㄗㄨㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "鑽"
+    ],
+    "general_ytz": [
+        "鑽",
+        "鉆",
+        "𨉖"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94BB",
+            "3111521251"
+        ],
+        "char_code_wubi": "qhkg",
+        "char_code_cangjie": "opyr",
+        "char_code_zhengma": "pij",
+        "char_code_sijiao": "81760"
+    },
+    "general_unicode": "基本区 U+94BB",
+    "general_bs_code": "3111521251"
+}

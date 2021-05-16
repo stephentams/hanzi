@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "epidemic, plague, pestilence"
+        },
+        {
+            "language": "德语",
+            "explanation": "akute Infektionskrankheit, Infektion [ TCM ]  (S, Med)​,Seuche, Epidemie  (S, Med)"
+        },
+        {
+            "language": "法语",
+            "explanation": "épidémie,peste"
+        }
+    ],
+    "general_pinyins": [
+        "wēn"
+    ],
+    "general_zhuyins": [
+        "ㄨㄣ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "9",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "瘟"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "761F",
+            "41341251125221"
+        ],
+        "char_code_wubi": "ujld",
+        "char_code_cangjie": "kabt",
+        "char_code_zhengma": "tklk",
+        "char_code_sijiao": "00112"
+    },
+    "general_unicode": "基本区 U+761F",
+    "general_bs_code": "41341251125221"
+}

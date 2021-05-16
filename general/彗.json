@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "broomstick; comet"
+        },
+        {
+            "language": "德语",
+            "explanation": "Komet  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "comète"
+        }
+    ],
+    "general_pinyins": [
+        "huì"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "彐",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥶙",
+        "𥱵",
+        "蔧",
+        "篲"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F57",
+            "11121112511"
+        ],
+        "char_code_wubi": "dhdv",
+        "char_code_cangjie": "qjsm",
+        "char_code_zhengma": "cicx",
+        "char_code_sijiao": "55177"
+    },
+    "general_unicode": "基本区 U+5F57",
+    "general_bs_code": "11121112511"
+}

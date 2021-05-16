@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "blunt, obtuse; dull; flat; dull-witted"
+        },
+        {
+            "language": "德语",
+            "explanation": "stumpf (z.B. Messer)​  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "émoussé,stupide"
+        }
+    ],
+    "general_pinyins": [
+        "dùn"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "鈍"
+    ],
+    "general_ytz": [
+        "鈍",
+        "䤜",
+        "𫒇"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "949D",
+            "311151525"
+        ],
+        "char_code_wubi": "qgbn",
+        "char_code_cangjie": "oppu",
+        "char_code_zhengma": "phzi",
+        "char_code_sijiao": "85717"
+    },
+    "general_unicode": "基本区 U+949D",
+    "general_bs_code": "311151525"
+}

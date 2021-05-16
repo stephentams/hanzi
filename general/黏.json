@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stick to; glutinous, sticky; glue"
+        },
+        {
+            "language": "德语",
+            "explanation": "klebrig, pappig\""
+        },
+        {
+            "language": "法语",
+            "explanation": "collant,glutineux"
+        }
+    ],
+    "general_pinyins": [
+        "nián"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "黍",
+        "non_radical_sn": "5",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䴴",
+        "粘",
+        "𥹽",
+        "𪏹"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9ECF",
+            "31234342413421251"
+        ],
+        "char_code_wubi": "twik",
+        "char_code_cangjie": "heyr",
+        "char_code_zhengma": "mfij",
+        "char_code_sijiao": "21960"
+    },
+    "general_unicode": "基本区 U+9ECF",
+    "general_bs_code": "31234342413421251"
+}

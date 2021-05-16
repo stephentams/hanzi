@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a hamper, wicker basket"
+        },
+        {
+            "language": "德语",
+            "explanation": "behindern, hemmen"
+        },
+        {
+            "language": "法语",
+            "explanation": "récipient carré en bambou pour la nourriture ou les vêtements"
+        }
+    ],
+    "general_pinyins": [
+        "sì"
+    ],
+    "general_zhuyins": [
+        "ㄙˋ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥯱"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7B25",
+            "31431451251"
+        ],
+        "char_code_wubi": "tngk",
+        "char_code_cangjie": "hsmr",
+        "char_code_zhengma": "myaj",
+        "char_code_sijiao": "88627"
+    },
+    "general_unicode": "基本区 U+7B25",
+    "general_bs_code": "31431451251"
+}

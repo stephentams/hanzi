@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "desire, want, long for; intend"
+        },
+        {
+            "language": "法语",
+            "explanation": "envie,désir,désirer,vouloir"
+        }
+    ],
+    "general_pinyins": [
+        "yù"
+    ],
+    "general_zhuyins": [
+        "ㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "欠",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡟔",
+        "𣣔",
+        "慾",
+        "𢓑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6B32",
+            "34342513534"
+        ],
+        "char_code_wubi": "wwkw",
+        "char_code_cangjie": "crno",
+        "char_code_zhengma": "oojr",
+        "char_code_sijiao": "87682"
+    },
+    "general_unicode": "基本区 U+6B32",
+    "general_bs_code": "34342513534"
+}

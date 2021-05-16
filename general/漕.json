@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "transport by water; canal transportation"
+        },
+        {
+            "language": "法语",
+            "explanation": "transport par l'eau,canal,cours d'eau"
+        }
+    ],
+    "general_pinyins": [
+        "cáo"
+    ],
+    "general_zhuyins": [
+        "ㄘㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "曹",
+        "𤅍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6F15",
+            "44112512212511"
+        ],
+        "char_code_wubi": "igmj",
+        "char_code_cangjie": "etwa",
+        "char_code_zhengma": "vekk",
+        "char_code_sijiao": "35166"
+    },
+    "general_unicode": "基本区 U+6F15",
+    "general_bs_code": "44112512212511"
+}

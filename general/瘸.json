@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lameness, paralysis of hands, leg"
+        },
+        {
+            "language": "法语",
+            "explanation": "boiter"
+        }
+    ],
+    "general_pinyins": [
+        "qué"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "11",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠌳"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7638",
+            "4134153251253434"
+        ],
+        "char_code_wubi": "ulkw|uekw",
+        "char_code_cangjie": "kkrb",
+        "char_code_zhengma": "tyoo",
+        "char_code_sijiao": "00127"
+    },
+    "general_unicode": "基本区 U+7638",
+    "general_bs_code": "4134153251253434"
+}

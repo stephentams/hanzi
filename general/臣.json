@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "minister, statesman, official"
+        },
+        {
+            "language": "德语",
+            "explanation": "Würdenträger  (S)​,Beamte(r)​ ,Vasall"
+        },
+        {
+            "language": "法语",
+            "explanation": "sujet (personne)​,ministre"
+        }
+    ],
+    "general_pinyins": [
+        "chén"
+    ],
+    "general_zhuyins": [
+        "ㄔㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "臣",
+        "non_radical_sn": "0",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢘑",
+        "𢘗"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "81E3",
+            "125125"
+        ],
+        "char_code_wubi": "ahnh",
+        "char_code_cangjie": "slsl",
+        "char_code_zhengma": "ha",
+        "char_code_sijiao": "71712"
+    },
+    "general_unicode": "基本区 U+81E3",
+    "general_bs_code": "125125"
+}

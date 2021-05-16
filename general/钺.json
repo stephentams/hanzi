@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "broad-axe, a battle axe, halberd"
+        },
+        {
+            "language": "德语",
+            "explanation": "Streitaxt im alten China, Kampfaxt, Hellebarde  (S, Mil)​,Streitaxt im alten China, Kampfaxt, Hellebarde [ auch 戉 ]  (S, Mil)​,Schreckschraube [ auch 戉 ]  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "hache de guerre"
+        }
+    ],
+    "general_pinyins": [
+        "yuè"
+    ],
+    "general_zhuyins": [
+        "ㄩㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "鉞"
+    ],
+    "general_ytz": [
+        "鉞",
+        "戉",
+        "鈅",
+        "䤦",
+        "𨬓",
+        "龯"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94BA",
+            "3111515534"
+        ],
+        "char_code_wubi": "qant|qann",
+        "char_code_cangjie": "opiv",
+        "char_code_zhengma": "phz",
+        "char_code_sijiao": "83750"
+    },
+    "general_unicode": "基本区 U+94BA",
+    "general_bs_code": "3111515534"
+}

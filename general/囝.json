@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "baby, infant"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kind  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "enfant"
+        }
+    ],
+    "general_pinyins": [
+        "jiǎn",
+        "nān"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢˇ",
+        "ㄋㄢ"
+    ],
+    "general_radical": {
+        "radical": "囗",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "月"
+    ],
+    "general_structure": "全包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "56DD",
+            "255211"
+        ],
+        "char_code_wubi": "lbd",
+        "char_code_cangjie": "wnd",
+        "char_code_zhengma": "jdya",
+        "char_code_sijiao": "60407"
+    },
+    "general_unicode": "基本区 U+56DD",
+    "general_bs_code": "255211"
+}

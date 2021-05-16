@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "embryo; unfinished things"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fötus  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "embryon"
+        }
+    ],
+    "general_pinyins": [
+        "pēi"
+    ],
+    "general_zhuyins": [
+        "ㄆㄟ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦙂",
+        "衃",
+        "肧",
+        "妚",
+        "㚰"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "80DA",
+            "351113241"
+        ],
+        "char_code_wubi": "egig|edhg",
+        "char_code_cangjie": "bmfm",
+        "char_code_zhengma": "qga",
+        "char_code_sijiao": "71219"
+    },
+    "general_unicode": "基本区 U+80DA",
+    "general_bs_code": "351113241"
+}

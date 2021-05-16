@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "persimmon"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kaki, Honigapfel, Persimone, Sharonfrucht  (S, Ess)"
+        },
+        {
+            "language": "法语",
+            "explanation": "kaki (diospyros)​"
+        }
+    ],
+    "general_pinyins": [
+        "shì"
+    ],
+    "general_zhuyins": [
+        "ㄕˋ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "拔",
+        "枾",
+        "柹",
+        "𣐈"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "67FF",
+            "123441252"
+        ],
+        "char_code_wubi": "symh",
+        "char_code_cangjie": "dylb",
+        "char_code_zhengma": "fsli",
+        "char_code_sijiao": "40927"
+    },
+    "general_unicode": "基本区 U+67FF",
+    "general_bs_code": "123441252"
+}

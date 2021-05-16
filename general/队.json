@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "team, group; army unit"
+        },
+        {
+            "language": "德语",
+            "explanation": "Geschwader, Gruppe, Mannschaft  (S, Wirtsch)"
+        },
+        {
+            "language": "法语",
+            "explanation": "colonne,rang,équipe,brigade"
+        }
+    ],
+    "general_pinyins": [
+        "duì"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "2",
+        "total_sn": "4"
+    },
+    "general_stc": [
+        "隊"
+    ],
+    "general_ytz": [
+        "隊",
+        "𨺵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "961F",
+            "5234"
+        ],
+        "char_code_wubi": "bwy",
+        "char_code_cangjie": "nlo",
+        "char_code_zhengma": "yod",
+        "char_code_sijiao": "78200"
+    },
+    "general_unicode": "基本区 U+961F",
+    "general_bs_code": "5234"
+}

@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "xenon"
+        },
+        {
+            "language": "德语",
+            "explanation": "Stickstoff (Element 7, N)​ (S, Chem)​,Nitrogenium 法语 azote"
+        }
+    ],
+    "general_pinyins": [
+        "dàn"
+    ],
+    "general_zhuyins": [
+        "ㄉㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "气",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㲷",
+        "淡"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6C2E",
+            "311543344334"
+        ],
+        "char_code_wubi": "rnoo|rooi",
+        "char_code_cangjie": "onff",
+        "char_code_zhengma": "myuu",
+        "char_code_sijiao": "80817"
+    },
+    "general_unicode": "基本区 U+6C2E",
+    "general_bs_code": "311543344334"
+}

@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "embroider; embroidery; ornament"
+        }
+    ],
+    "general_pinyins": [
+        "xiù"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "綉",
+        "繡"
+    ],
+    "general_ytz": [
+        "綉",
+        "繡"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EE3",
+            "5513123453"
+        ],
+        "char_code_wubi": "xten|xtbt",
+        "char_code_cangjie": "vmhds",
+        "char_code_zhengma": "zmym",
+        "char_code_sijiao": "22127"
+    },
+    "general_unicode": "基本区 U+7EE3",
+    "general_bs_code": "5513123453"
+}

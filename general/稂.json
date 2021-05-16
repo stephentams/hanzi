@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "grass; weeds"
+        },
+        {
+            "language": "德语",
+            "explanation": "eine besondere Gras-Sorte  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "mauvaise herbe"
+        }
+    ],
+    "general_pinyins": [
+        "láng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "蓈"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7A02",
+            "312344511534"
+        ],
+        "char_code_wubi": "tyve|tyvy",
+        "char_code_cangjie": "hdiav",
+        "char_code_zhengma": "mfsx",
+        "char_code_sijiao": "23932"
+    },
+    "general_unicode": "基本区 U+7A02",
+    "general_bs_code": "312344511534"
+}

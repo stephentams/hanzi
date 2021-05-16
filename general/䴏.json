@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 燕) a swallow"
+        }
+    ],
+    "general_pinyins": [
+        "yàn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "鳥",
+        "non_radical_sn": "16",
+        "total_sn": "27"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "燕"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4D0F",
+            "122125121115444432511154444"
+        ],
+        "char_code_wubi": "auko|akuo",
+        "char_code_cangjie": "tfhaf",
+        "char_code_zhengma": "eaur",
+        "char_code_sijiao": "47327"
+    },
+    "general_unicode": "扩展A U+4D0F",
+    "general_bs_code": "122125121115444432511154444"
+}

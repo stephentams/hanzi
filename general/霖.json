@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "long spell of rain, copious rain"
+        },
+        {
+            "language": "德语",
+            "explanation": "Dauerregen (S, Met)"
+        },
+        {
+            "language": "法语",
+            "explanation": "pluie persistante"
+        }
+    ],
+    "general_pinyins": [
+        "lín"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "雨",
+        "non_radical_sn": "8",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "淋"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9716",
+            "1452444412341234"
+        ],
+        "char_code_wubi": "fssu",
+        "char_code_cangjie": "mbdd",
+        "char_code_zhengma": "fvff",
+        "char_code_sijiao": "10994"
+    },
+    "general_unicode": "基本区 U+9716",
+    "general_bs_code": "1452444412341234"
+}

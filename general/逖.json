@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "far, distant; keep at distance"
+        },
+        {
+            "language": "德语",
+            "explanation": "fern, weit"
+        }
+    ],
+    "general_pinyins": [
+        "tì"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "逷"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9016",
+            "3534334454"
+        ],
+        "char_code_wubi": "qtop",
+        "char_code_cangjie": "ykhf",
+        "char_code_zhengma": "qmuw",
+        "char_code_sijiao": "39308"
+    },
+    "general_unicode": "基本区 U+9016",
+    "general_bs_code": "3534334454"
+}

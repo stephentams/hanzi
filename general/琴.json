@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "Chinese lute or guitar"
+        },
+        {
+            "language": "德语",
+            "explanation": "allgemeine Bezeichnung für Streichinstrumente"
+        }
+    ],
+    "general_pinyins": [
+        "qín"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䥅",
+        "䥆",
+        "䦦",
+        "珡",
+        "琹",
+        "𣗜",
+        "𤦡",
+        "𤩟",
+        "𤫍",
+        "𤫒",
+        "𨨖",
+        "𨪖",
+        "𨫹",
+        "𩰔"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7434",
+            "112111213445"
+        ],
+        "char_code_wubi": "ggwn",
+        "char_code_cangjie": "mgoin",
+        "char_code_zhengma": "ccsx",
+        "char_code_sijiao": "11207"
+    },
+    "general_unicode": "基本区 U+7434",
+    "general_bs_code": "112111213445"
+}

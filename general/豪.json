@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "brave, heroic, chivalrous"
+        },
+        {
+            "language": "德语",
+            "explanation": "gewaltig, großartig  (Adj)​,hehr, erhaben"
+        },
+        {
+            "language": "法语",
+            "explanation": "homme de talent,généreux,tyrannique"
+        }
+    ],
+    "general_pinyins": [
+        "háo"
+    ],
+    "general_zhuyins": [
+        "ㄏㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "豕",
+        "non_radical_sn": "7",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "嚎",
+        "儫",
+        "𠢕",
+        "𢑸",
+        "𩫎",
+        "𩫒",
+        "𩫕",
+        "𩫚",
+        "𩫞"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C6A",
+            "41251451353334"
+        ],
+        "char_code_wubi": "ypeu|ypge",
+        "char_code_cangjie": "yrbo",
+        "char_code_zhengma": "sjwg",
+        "char_code_sijiao": "00232"
+    },
+    "general_unicode": "基本区 U+8C6A",
+    "general_bs_code": "41251451353334"
+}

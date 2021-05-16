@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "spin; achievements"
+        },
+        {
+            "language": "德语",
+            "explanation": "Tat ,Verdienst  (S)​,Leistung"
+        },
+        {
+            "language": "法语",
+            "explanation": "mérite,exploit"
+        }
+    ],
+    "general_pinyins": [
+        "jì"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "績"
+    ],
+    "general_ytz": [
+        "績",
+        "勣"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EE9",
+            "55111212534"
+        ],
+        "char_code_wubi": "xgmy",
+        "char_code_cangjie": "vmqmo",
+        "char_code_zhengma": "zclo",
+        "char_code_sijiao": "25182"
+    },
+    "general_unicode": "基本区 U+7EE9",
+    "general_bs_code": "55111212534"
+}

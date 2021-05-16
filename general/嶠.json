@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "high pointed mountain"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gipfel, Bergspitze (highest peak)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "plus haut sommet"
+        }
+    ],
+    "general_pinyins": [
+        "jiào",
+        "qiáo"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄠˋ",
+        "ㄑㄧㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "峤"
+    ],
+    "general_ytz": [
+        "喬",
+        "㠐",
+        "峤"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5DA0",
+            "252313425125251"
+        ],
+        "char_code_wubi": "mtdk",
+        "char_code_cangjie": "uhkb",
+        "char_code_zhengma": "lljl",
+        "char_code_sijiao": "22727"
+    },
+    "general_unicode": "基本区 U+5DA0",
+    "general_bs_code": "252313425125251"
+}

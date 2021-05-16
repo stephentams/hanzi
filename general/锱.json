@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "8 oz; an ancient unit of weight"
+        },
+        {
+            "language": "德语",
+            "explanation": "Zi  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "poids antique,un huitième d'un taël"
+        }
+    ],
+    "general_pinyins": [
+        "zī"
+    ],
+    "general_zhuyins": [
+        "ㄗ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "錙"
+    ],
+    "general_ytz": [
+        "錙",
+        "鍿",
+        "𨪲"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9531",
+            "3111555525121"
+        ],
+        "char_code_wubi": "qvlg",
+        "char_code_cangjie": "opvvw",
+        "char_code_zhengma": "pzki",
+        "char_code_sijiao": "82763"
+    },
+    "general_unicode": "基本区 U+9531",
+    "general_bs_code": "3111555525121"
+}

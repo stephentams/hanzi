@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stalks of grasses, etc."
+        },
+        {
+            "language": "法语",
+            "explanation": "tige,brin d'herbe"
+        }
+    ],
+    "general_pinyins": [
+        "tíng"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨓍"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "839B",
+            "122312154"
+        ],
+        "char_code_wubi": "atfp",
+        "char_code_cangjie": "tnkg",
+        "char_code_zhengma": "emby",
+        "char_code_sijiao": "44401"
+    },
+    "general_unicode": "基本区 U+839B",
+    "general_bs_code": "122312154"
+}

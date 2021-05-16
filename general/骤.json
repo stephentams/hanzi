@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "procedure; gallop; sudden(ly)"
+        },
+        {
+            "language": "德语",
+            "explanation": "plötzlich, unvermittelt  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "soudain,subit"
+        }
+    ],
+    "general_pinyins": [
+        "zhòu"
+    ],
+    "general_zhuyins": [
+        "ㄓㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "马",
+        "non_radical_sn": "14",
+        "total_sn": "17"
+    },
+    "general_stc": [
+        "驟"
+    ],
+    "general_ytz": [
+        "驟",
+        "𩧁"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9AA4",
+            "55112211154323334"
+        ],
+        "char_code_wubi": "cbci|cgbi",
+        "char_code_cangjie": "nmseo",
+        "char_code_zhengma": "xcxg",
+        "char_code_sijiao": "77132"
+    },
+    "general_unicode": "基本区 U+9AA4",
+    "general_bs_code": "55112211154323334"
+}

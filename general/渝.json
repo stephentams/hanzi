@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "change; chongqing"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 Chongqing  (S)​,ändern, widerrufen  (V)"
+        }
+    ],
+    "general_pinyins": [
+        "yú"
+    ],
+    "general_zhuyins": [
+        "ㄩˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠔡"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6E1D",
+            "441341251122"
+        ],
+        "char_code_wubi": "iwgj",
+        "char_code_cangjie": "eomn",
+        "char_code_zhengma": "voqk",
+        "char_code_sijiao": "38121"
+    },
+    "general_unicode": "基本区 U+6E1D",
+    "general_bs_code": "441341251122"
+}

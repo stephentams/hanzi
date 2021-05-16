@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "nephew"
+        },
+        {
+            "language": "德语",
+            "explanation": "Neffe  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "zhí"
+    ],
+    "general_zhuyins": [
+        "ㄓˊ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "姪"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4F84",
+            "32154121"
+        ],
+        "char_code_wubi": "wgcf",
+        "char_code_cangjie": "omig",
+        "char_code_zhengma": "nhb",
+        "char_code_sijiao": "21214"
+    },
+    "general_unicode": "基本区 U+4F84",
+    "general_bs_code": "32154121"
+}

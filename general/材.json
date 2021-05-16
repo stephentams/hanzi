@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "material, stuff; timber; talent"
+        },
+        {
+            "language": "德语",
+            "explanation": "Material  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "matière,matériaux,capacité,aptitude"
+        }
+    ],
+    "general_pinyins": [
+        "cái"
+    ],
+    "general_zhuyins": [
+        "ㄘㄞˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "3",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "扐"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6750",
+            "1234123"
+        ],
+        "char_code_wubi": "sftt",
+        "char_code_cangjie": "ddh",
+        "char_code_zhengma": "fdm",
+        "char_code_sijiao": "44900"
+    },
+    "general_unicode": "基本区 U+6750",
+    "general_bs_code": "1234123"
+}

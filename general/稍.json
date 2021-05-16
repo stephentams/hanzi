@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "little, slightly; rather"
+        },
+        {
+            "language": "德语",
+            "explanation": "ein wenig, ein bisschen, ein Augenblick"
+        },
+        {
+            "language": "法语",
+            "explanation": "un peu,légèrement"
+        }
+    ],
+    "general_pinyins": [
+        "shāo",
+        "shào"
+    ],
+    "general_zhuyins": [
+        "ㄕㄠ",
+        "ㄕㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7A0D",
+            "312342432511"
+        ],
+        "char_code_wubi": "tieg",
+        "char_code_cangjie": "hdfb",
+        "char_code_zhengma": "mfkq",
+        "char_code_sijiao": "29927"
+    },
+    "general_unicode": "基本区 U+7A0D",
+    "general_bs_code": "312342432511"
+}

@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a wine flagon"
+        }
+    ],
+    "general_pinyins": [
+        "dǒu"
+    ],
+    "general_zhuyins": [
+        "ㄉㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "鈄"
+    ],
+    "general_ytz": [
+        "鈄",
+        "𨥪"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94AD",
+            "311154412"
+        ],
+        "char_code_wubi": "qufh",
+        "char_code_cangjie": "opyj",
+        "char_code_zhengma": "pted",
+        "char_code_sijiao": "84700"
+    },
+    "general_unicode": "基本区 U+94AD",
+    "general_bs_code": "311154412"
+}

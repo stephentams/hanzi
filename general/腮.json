@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lower part of face; jaw; gills of a fish"
+        },
+        {
+            "language": "德语",
+            "explanation": "Doppelkinn  (S)​,Kieme  (S)​,Lamelle  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "sāi"
+    ],
+    "general_zhuyins": [
+        "ㄙㄞ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "顋"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "816E",
+            "3511251214544"
+        ],
+        "char_code_wubi": "elny",
+        "char_code_cangjie": "bwp",
+        "char_code_zhengma": "qkwz",
+        "char_code_sijiao": "76230"
+    },
+    "general_unicode": "基本区 U+816E",
+    "general_bs_code": "3511251214544"
+}

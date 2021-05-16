@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cook"
+        },
+        {
+            "language": "德语",
+            "explanation": "kochen, sieden  (V, Ess)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cuire à l'eau,faire bouillir"
+        }
+    ],
+    "general_pinyins": [
+        "zhǔ"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "灬",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䰞",
+        "煑",
+        "𢐼",
+        "𤆯",
+        "𤑜",
+        "𤑨",
+        "𩱰",
+        "煮",
+        "煮"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "716E",
+            "121325114444"
+        ],
+        "char_code_wubi": "ftjo",
+        "char_code_cangjie": "jaf",
+        "char_code_zhengma": "bmuo",
+        "char_code_sijiao": "44336"
+    },
+    "general_unicode": "基本区 U+716E",
+    "general_bs_code": "121325114444"
+}

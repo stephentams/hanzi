@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "excessive; superfluous"
+        },
+        {
+            "language": "德语",
+            "explanation": "überflüssig, überschüssig, überzählig  (Adj)​,belanglos, irrelevant  (Adj)"
+        }
+    ],
+    "general_pinyins": [
+        "rǒng"
+    ],
+    "general_zhuyins": [
+        "ㄖㄨㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "冖",
+        "non_radical_sn": "2",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "宂"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5197",
+            "4535"
+        ],
+        "char_code_wubi": "pmb|pwb",
+        "char_code_cangjie": "bhn",
+        "char_code_zhengma": "wwqd",
+        "char_code_sijiao": "37217"
+    },
+    "general_unicode": "基本区 U+5197",
+    "general_bs_code": "4535"
+}

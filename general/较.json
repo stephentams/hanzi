@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "compare; comparatively, more"
+        },
+        {
+            "language": "德语",
+            "explanation": "vergleichen  (V)​,relativ  (Adj)​,vergleichsweise  (Adv)"
+        },
+        {
+            "language": "法语",
+            "explanation": "relativement,plus,moins,comparer"
+        }
+    ],
+    "general_pinyins": [
+        "jiào"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "车",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "較"
+    ],
+    "general_ytz": [
+        "較",
+        "䡈"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8F83",
+            "1521413434"
+        ],
+        "char_code_wubi": "luqy|lury",
+        "char_code_cangjie": "kqyck",
+        "char_code_zhengma": "heoo",
+        "char_code_sijiao": "40548"
+    },
+    "general_unicode": "基本区 U+8F83",
+    "general_bs_code": "1521413434"
+}

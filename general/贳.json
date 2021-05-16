@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "borrow; pardon; loan"
+        },
+        {
+            "language": "德语",
+            "explanation": "entleihen, leihen"
+        },
+        {
+            "language": "法语",
+            "explanation": "emprunter,acheter à crédit,louer"
+        }
+    ],
+    "general_pinyins": [
+        "shì"
+    ],
+    "general_zhuyins": [
+        "ㄕˋ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "貰"
+    ],
+    "general_ytz": [
+        "貰",
+        "𧴹"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D33",
+            "122152534"
+        ],
+        "char_code_wubi": "anmu",
+        "char_code_cangjie": "ptbo",
+        "char_code_zhengma": "eazl",
+        "char_code_sijiao": "44802"
+    },
+    "general_unicode": "基本区 U+8D33",
+    "general_bs_code": "122152534"
+}

@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "the sun are dimmed; darkness"
+        }
+    ],
+    "general_pinyins": [
+        "mǎng",
+        "mào"
+    ],
+    "general_zhuyins": [
+        "ㄇㄤˇ",
+        "ㄇㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3B12",
+            "25111221344132"
+        ],
+        "char_code_wubi": "jada",
+        "char_code_cangjie": "atit",
+        "char_code_zhengma": "kese",
+        "char_code_sijiao": "64048"
+    },
+    "general_unicode": "扩展A U+3B12",
+    "general_bs_code": "25111221344132"
+}

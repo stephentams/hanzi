@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a kind of china"
+        }
+    ],
+    "general_pinyins": [
+        "shí"
+    ],
+    "general_zhuyins": [
+        "ㄕˊ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤇈"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "70BB",
+            "433413251"
+        ],
+        "char_code_wubi": "odg",
+        "char_code_cangjie": "fmr",
+        "char_code_zhengma": "uog",
+        "char_code_sijiao": "91862"
+    },
+    "general_unicode": "基本区 U+70BB",
+    "general_bs_code": "433413251"
+}

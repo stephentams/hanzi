@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "crockery, porcelain, chinaware"
+        },
+        {
+            "language": "德语",
+            "explanation": "Porzellan  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "porcelaine"
+        }
+    ],
+    "general_pinyins": [
+        "cí"
+    ],
+    "general_zhuyins": [
+        "ㄘˊ"
+    ],
+    "general_radical": {
+        "radical": "瓦",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "甆",
+        "磁",
+        "𤮀",
+        "𦈱",
+        "珁"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "74F7",
+            "4135341554"
+        ],
+        "char_code_wubi": "uqwn|uqwy",
+        "char_code_cangjie": "iomvn",
+        "char_code_zhengma": "tdys",
+        "char_code_sijiao": "37717"
+    },
+    "general_unicode": "基本区 U+74F7",
+    "general_bs_code": "4135341554"
+}

@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "gather together, collect; harvest"
+        }
+    ],
+    "general_pinyins": [
+        "shōu"
+    ],
+    "general_zhuyins": [
+        "ㄕㄡ"
+    ],
+    "general_radical": {
+        "radical": "又",
+        "non_radical_sn": "2",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "收"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "53CE",
+            "5254"
+        ],
+        "char_code_wubi": "nhcy",
+        "char_code_cangjie": "vle",
+        "char_code_zhengma": "zixs",
+        "char_code_sijiao": "27740"
+    },
+    "general_unicode": "基本区 U+53CE",
+    "general_bs_code": "5254"
+}

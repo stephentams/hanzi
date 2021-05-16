@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "flea; louse"
+        },
+        {
+            "language": "德语",
+            "explanation": "Floh  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "puce"
+        }
+    ],
+    "general_pinyins": [
+        "zǎo"
+    ],
+    "general_zhuyins": [
+        "ㄗㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "3",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧎮",
+        "𧈡",
+        "𧈠",
+        "䗢",
+        "䖣",
+        "𧒮"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "86A4",
+            "544251214"
+        ],
+        "char_code_wubi": "cyju",
+        "char_code_cangjie": "eilmi",
+        "char_code_zhengma": "xssi",
+        "char_code_sijiao": "77136"
+    },
+    "general_unicode": "基本区 U+86A4",
+    "general_bs_code": "544251214"
+}

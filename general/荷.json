@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lotus, water lily, holland"
+        },
+        {
+            "language": "法语",
+            "explanation": "porter sur son épaule ou son dos,charge,responsabilité,lotus"
+        }
+    ],
+    "general_pinyins": [
+        "hé"
+    ],
+    "general_zhuyins": [
+        "ㄏㄜˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "何",
+        "抲",
+        "𢬲",
+        "𦽅"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8377",
+            "1223212512"
+        ],
+        "char_code_wubi": "awsk",
+        "char_code_cangjie": "tomr",
+        "char_code_zhengma": "enaj",
+        "char_code_sijiao": "44221"
+    },
+    "general_unicode": "基本区 U+8377",
+    "general_bs_code": "1223212512"
+}

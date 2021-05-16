@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "brave; martial; hasty; scudding"
+        },
+        {
+            "language": "德语",
+            "explanation": "kräftig, kraftvoll"
+        },
+        {
+            "language": "法语",
+            "explanation": "brave,fort,verset chanté du bouddhisme"
+        }
+    ],
+    "general_pinyins": [
+        "jì",
+        "jié"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˋ",
+        "ㄐㄧㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5048",
+            "32251135345"
+        ],
+        "char_code_wubi": "wjqn",
+        "char_code_cangjie": "oapv",
+        "char_code_zhengma": "nkry",
+        "char_code_sijiao": "26227"
+    },
+    "general_unicode": "基本区 U+5048",
+    "general_bs_code": "32251135345"
+}

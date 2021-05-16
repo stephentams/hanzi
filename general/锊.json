@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "6 oz; ancient measurement"
+        },
+        {
+            "language": "法语",
+            "explanation": "ancienne unité de poids (équivalent à 6 taels)​"
+        }
+    ],
+    "general_pinyins": [
+        "lüè"
+    ],
+    "general_zhuyins": [
+        "ㄌㄩㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "鋝"
+    ],
+    "general_ytz": [
+        "鋝",
+        "鋢",
+        "䤣"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "950A",
+            "311153443124"
+        ],
+        "char_code_wubi": "qefy",
+        "char_code_cangjie": "opbdi",
+        "char_code_zhengma": "ppds",
+        "char_code_sijiao": "82749"
+    },
+    "general_unicode": "基本区 U+950A",
+    "general_bs_code": "311153443124"
+}

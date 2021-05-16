@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "talk; conversation; surname"
+        },
+        {
+            "language": "德语",
+            "explanation": "Tan  (Eig, Fam)​,reden, sich unterhalten ,sprechen (über)​, besprechen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "parler,causer,discuter,négocier"
+        }
+    ],
+    "general_pinyins": [
+        "tán"
+    ],
+    "general_zhuyins": [
+        "ㄊㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "談"
+    ],
+    "general_ytz": [
+        "談"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C08",
+            "4543344334"
+        ],
+        "char_code_wubi": "yooy",
+        "char_code_cangjie": "ivff",
+        "char_code_zhengma": "suuo",
+        "char_code_sijiao": "39789"
+    },
+    "general_unicode": "基本区 U+8C08",
+    "general_bs_code": "4543344334"
+}

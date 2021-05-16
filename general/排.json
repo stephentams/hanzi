@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "row, rank, line"
+        },
+        {
+            "language": "德语",
+            "explanation": "Steak  (S, Ess)​,Rippe  (S, Ess)​,ordnen, Reihe  (Zähl)"
+        },
+        {
+            "language": "法语",
+            "explanation": "disposer,arranger,expulser,rejeter,chasser,pousser,file,peloton,rangée,radeau,charrette à 2 roues"
+        }
+    ],
+    "general_pinyins": [
+        "pái",
+        "pǎi"
+    ],
+    "general_zhuyins": [
+        "ㄆㄞˊ",
+        "ㄆㄞˇ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣝁"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6392",
+            "12121112111"
+        ],
+        "char_code_wubi": "rdjd|rhdd",
+        "char_code_cangjie": "qlmy",
+        "char_code_zhengma": "dkc",
+        "char_code_sijiao": "51011"
+    },
+    "general_unicode": "基本区 U+6392",
+    "general_bs_code": "12121112111"
+}

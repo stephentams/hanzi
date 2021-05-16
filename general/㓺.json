@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "castration, to pare; to scrape; to sharpen to a point"
+        }
+    ],
+    "general_pinyins": [
+        "jiàn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "刂",
+        "non_radical_sn": "10",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "犍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "34FA",
+            "215315413422"
+        ],
+        "char_code_wubi": "hayj|hyjh",
+        "char_code_cangjie": "ykln",
+        "char_code_zhengma": "ihsk",
+        "char_code_sijiao": "22200"
+    },
+    "general_unicode": "扩展A U+34FA",
+    "general_bs_code": "215315413422"
+}

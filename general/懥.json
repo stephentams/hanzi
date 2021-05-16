@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "angry, enraged, resentful; hate"
+        },
+        {
+            "language": "法语",
+            "explanation": "furieux,fâché"
+        }
+    ],
+    "general_pinyins": [
+        "zhì"
+    ],
+    "general_zhuyins": [
+        "ㄓˋ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "14",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "61E5",
+            "44212452512152134"
+        ],
+        "char_code_wubi": "nfph",
+        "char_code_cangjie": "pjbo",
+        "char_code_zhengma": "uexi",
+        "char_code_sijiao": "94081"
+    },
+    "general_unicode": "基本区 U+61E5",
+    "general_bs_code": "44212452512152134"
+}

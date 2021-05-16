@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mountain peak; mountain top; summit"
+        }
+    ],
+    "general_pinyins": [
+        "jué",
+        "yuán"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄝˊ",
+        "ㄩㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㟶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "37F2",
+            "2521332511234"
+        ],
+        "char_code_wubi": "mdri",
+        "char_code_cangjie": "umhf",
+        "char_code_zhengma": "llnk",
+        "char_code_sijiao": "21796"
+    },
+    "general_unicode": "扩展A U+37F2",
+    "general_bs_code": "2521332511234"
+}

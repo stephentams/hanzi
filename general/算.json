@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "count, calculate, figure; plan"
+        },
+        {
+            "language": "德语",
+            "explanation": "rechnen, berechnen  (V)​,Suan  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "compter,calculer,être considéré comme,(fig.)​ régler son compte à qqn,(fig.)​ tuer,compter (faire qqc)​,projeter,plan,calcul"
+        }
+    ],
+    "general_pinyins": [
+        "suàn"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "8",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "撰",
+        "祘",
+        "笇",
+        "筭",
+        "𥮅",
+        "𢌺",
+        "𥫫"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7B97",
+            "31431425111132"
+        ],
+        "char_code_wubi": "thaj",
+        "char_code_cangjie": "hbut",
+        "char_code_zhengma": "mle",
+        "char_code_sijiao": "88446"
+    },
+    "general_unicode": "基本区 U+7B97",
+    "general_bs_code": "31431425111132"
+}

@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wet, moist, humid, damp; illness"
+        },
+        {
+            "language": "德语",
+            "explanation": "Nässe, Feuchtigkeit  (S)​,naß, feucht"
+        },
+        {
+            "language": "法语",
+            "explanation": "humide,mouillé,moite,imbibé d'eau"
+        }
+    ],
+    "general_pinyins": [
+        "shī"
+    ],
+    "general_zhuyins": [
+        "ㄕ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "濕"
+    ],
+    "general_ytz": [
+        "濕",
+        "溼",
+        "𣶖",
+        "𣺯",
+        "𤂽",
+        "𤃁"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6E7F",
+            "441251122431"
+        ],
+        "char_code_wubi": "ijog",
+        "char_code_cangjie": "eatc",
+        "char_code_zhengma": "vkku",
+        "char_code_sijiao": "36112"
+    },
+    "general_unicode": "基本区 U+6E7F",
+    "general_bs_code": "441251122431"
+}

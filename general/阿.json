@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "prefix for people's names; used in transliteration"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 Partikel"
+        }
+    ],
+    "general_pinyins": [
+        "ā",
+        "ē"
+    ],
+    "general_zhuyins": [
+        "ㄚ",
+        "ㄜ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "963F",
+            "5212512"
+        ],
+        "char_code_wubi": "bskg",
+        "char_code_cangjie": "nlmnr",
+        "char_code_zhengma": "yaj",
+        "char_code_sijiao": "71220"
+    },
+    "general_unicode": "基本区 U+963F",
+    "general_bs_code": "5212512"
+}

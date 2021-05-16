@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "flag ornament; flags, banners"
+        },
+        {
+            "language": "德语",
+            "explanation": "Wimpel  (S)​,Banner"
+        },
+        {
+            "language": "法语",
+            "explanation": "bannière,banderole"
+        }
+    ],
+    "general_pinyins": [
+        "pèi"
+    ],
+    "general_zhuyins": [
+        "ㄆㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "方",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "斾",
+        "𣃩"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "65C6",
+            "4153311252"
+        ],
+        "char_code_wubi": "ytgh",
+        "char_code_cangjie": "ysojb",
+        "char_code_zhengma": "syal",
+        "char_code_sijiao": "08227"
+    },
+    "general_unicode": "基本区 U+65C6",
+    "general_bs_code": "4153311252"
+}

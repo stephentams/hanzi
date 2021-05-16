@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sickle; cut, carve, engrave"
+        },
+        {
+            "language": "德语",
+            "explanation": "etw gravieren  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "sculpter,graver,ciseler"
+        }
+    ],
+    "general_pinyins": [
+        "qiè"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "9",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "鍥"
+    ],
+    "general_ytz": [
+        "鍥",
+        "鐑",
+        "㓶",
+        "䤿"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9532",
+            "31115111253134"
+        ],
+        "char_code_wubi": "qdhd",
+        "char_code_cangjie": "opqhk",
+        "char_code_zhengma": "pcyg",
+        "char_code_sijiao": "87784"
+    },
+    "general_unicode": "基本区 U+9532",
+    "general_bs_code": "31115111253134"
+}

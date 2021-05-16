@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bite, chew; (Cant.) like this, in this way"
+        },
+        {
+            "language": "德语",
+            "explanation": "essen, fressen"
+        },
+        {
+            "language": "法语",
+            "explanation": "manger,nourrir,alimenter,attirer,séduire,entraîner,allécher,mordre,mâcher"
+        }
+    ],
+    "general_pinyins": [
+        "dàn"
+    ],
+    "general_zhuyins": [
+        "ㄉㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5649",
+            "25151221113134"
+        ],
+        "char_code_wubi": "knbt",
+        "char_code_cangjie": "rmjk",
+        "char_code_zhengma": "jxcm",
+        "char_code_sijiao": "68040"
+    },
+    "general_unicode": "基本区 U+5649",
+    "general_bs_code": "25151221113134"
+}

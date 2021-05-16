@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stretch, extend, expand; sheet"
+        },
+        {
+            "language": "德语",
+            "explanation": "ZEW für Gegenstände mit flacher Oberfläche z.B. Papier, Tisch, Schallplatte, Briefmarke  (Zähl)​,Zhang  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(classificateur pour les objets plats ou pouvant se déployer : feuilles, bulletins de vote, timbres, billets, tickets, dessins, tables, bouches, visages, etc. )​,(nom de famille)​,ouvrir,s'étendre"
+        }
+    ],
+    "general_pinyins": [
+        "zhāng"
+    ],
+    "general_zhuyins": [
+        "ㄓㄤ"
+    ],
+    "general_radical": {
+        "radical": "弓",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "張"
+    ],
+    "general_ytz": [
+        "張"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F20",
+            "5153154"
+        ],
+        "char_code_wubi": "xtay",
+        "char_code_cangjie": "npo",
+        "char_code_zhengma": "yzch",
+        "char_code_sijiao": "12234"
+    },
+    "general_unicode": "基本区 U+5F20",
+    "general_bs_code": "5153154"
+}

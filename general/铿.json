@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "strike, beat, stroke; jingling"
+        },
+        {
+            "language": "德语",
+            "explanation": "drücken, treffen"
+        },
+        {
+            "language": "法语",
+            "explanation": "(onom.)​ tintement de métaux"
+        }
+    ],
+    "general_pinyins": [
+        "kēng"
+    ],
+    "general_zhuyins": [
+        "ㄎㄥ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "鏗"
+    ],
+    "general_ytz": [
+        "鏗",
+        "鍞"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94FF",
+            "311152254121"
+        ],
+        "char_code_wubi": "qjcf",
+        "char_code_cangjie": "opleg",
+        "char_code_zhengma": "pkxb",
+        "char_code_sijiao": "87714"
+    },
+    "general_unicode": "基本区 U+94FF",
+    "general_bs_code": "311152254121"
+}

@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bulgle"
+        },
+        {
+            "language": "德语",
+            "explanation": "Horn, Horn (Hobelgriff)​  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "lì"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "10",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7BE5",
+            "3143141252211234"
+        ],
+        "char_code_wubi": "tssu",
+        "char_code_cangjie": "hmwd",
+        "char_code_zhengma": "mff",
+        "char_code_sijiao": "88904"
+    },
+    "general_unicode": "基本区 U+7BE5",
+    "general_bs_code": "3143141252211234"
+}

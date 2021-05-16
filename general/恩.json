@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "kindness, mercy, charity"
+        },
+        {
+            "language": "德语",
+            "explanation": "Güte  (Rel)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bienfait,faveur"
+        }
+    ],
+    "general_pinyins": [
+        "ēn"
+    ],
+    "general_zhuyins": [
+        "ㄣ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㤙"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6069",
+            "2513414544"
+        ],
+        "char_code_wubi": "ldnu",
+        "char_code_cangjie": "wkp",
+        "char_code_zhengma": "jdwz",
+        "char_code_sijiao": "60330"
+    },
+    "general_unicode": "基本区 U+6069",
+    "general_bs_code": "2513414544"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cross board at rear of carriage"
+        },
+        {
+            "language": "德语",
+            "explanation": "stark, tief"
+        },
+        {
+            "language": "法语",
+            "explanation": "tourner,labeur,douleur"
+        }
+    ],
+    "general_pinyins": [
+        "zhěn"
+    ],
+    "general_zhuyins": [
+        "ㄓㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "车",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "軫"
+    ],
+    "general_ytz": [
+        "軫",
+        "𨋎",
+        "𨋏"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8F78",
+            "152134333"
+        ],
+        "char_code_wubi": "lwet",
+        "char_code_cangjie": "kqohh",
+        "char_code_zhengma": "heop",
+        "char_code_sijiao": "48522"
+    },
+    "general_unicode": "基本区 U+8F78",
+    "general_bs_code": "152134333"
+}

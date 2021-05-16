@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sunstroke"
+        },
+        {
+            "language": "德语",
+            "explanation": "scharf, heiß"
+        },
+        {
+            "language": "法语",
+            "explanation": "insolation"
+        }
+    ],
+    "general_pinyins": [
+        "yē"
+    ],
+    "general_zhuyins": [
+        "ㄧㄝ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㬞",
+        "㷎",
+        "𤸎"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "668D",
+            "2511251135345"
+        ],
+        "char_code_wubi": "jjqn",
+        "char_code_cangjie": "aapv",
+        "char_code_zhengma": "kkry",
+        "char_code_sijiao": "66027"
+    },
+    "general_unicode": "基本区 U+668D",
+    "general_bs_code": "2511251135345"
+}

@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "crisp; fragile, frail; brittle"
+        },
+        {
+            "language": "德语",
+            "explanation": "(声音清脆)​ klar und hell  (Adj)​,knusperig, knusprig, frisch, bröckelig  (Adj)​,schnell und ordentlich\t<方&gt  (Adj)​,zerbrechlich, brüchig, spröde  (Adj)​,bröckelig  (Adj)​,gebrechlich  (Adj)​,knusprig  (Adj)​,spröde  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "fragile,cassant,croquant,croustillant,sonore,éclatant"
+        }
+    ],
+    "general_pinyins": [
+        "cuì"
+    ],
+    "general_zhuyins": [
+        "ㄘㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦙈",
+        "膬",
+        "脺",
+        "脃",
+        "𣈐",
+        "𨉆",
+        "𨊉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8106",
+            "3511351355"
+        ],
+        "char_code_wubi": "eqdb",
+        "char_code_cangjie": "bnmu",
+        "char_code_zhengma": "qrgy",
+        "char_code_sijiao": "77212"
+    },
+    "general_unicode": "基本区 U+8106",
+    "general_bs_code": "3511351355"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "drain off, leak; flow, pour down"
+        },
+        {
+            "language": "德语",
+            "explanation": "Diarrhö, Diarrhöe, Durchfall  (S)​,fliessen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "couler,diarrhée,dysenterie,assécher"
+        }
+    ],
+    "general_pinyins": [
+        "xiè"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "瀉"
+    ],
+    "general_ytz": [
+        "瀉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6CFB",
+            "44145151"
+        ],
+        "char_code_wubi": "ipgg",
+        "char_code_cangjie": "ebym",
+        "char_code_zhengma": "vwza",
+        "char_code_sijiao": "37127"
+    },
+    "general_unicode": "基本区 U+6CFB",
+    "general_bs_code": "44145151"
+}

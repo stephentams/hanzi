@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lofty, towering"
+        },
+        {
+            "language": "德语",
+            "explanation": "hoch aufragend  (Adj)​,Erhabenheit  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "grandeur (d'une montagne)​,hauteur (de montagne)​"
+        }
+    ],
+    "general_pinyins": [
+        "qīn"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄣ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "嶔"
+    ],
+    "general_ytz": [
+        "嶔",
+        "䃢",
+        "𡼲"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5D5A",
+            "252311153534"
+        ],
+        "char_code_wubi": "mqqw",
+        "char_code_cangjie": "uopo",
+        "char_code_zhengma": "llpr",
+        "char_code_sijiao": "22782"
+    },
+    "general_unicode": "基本区 U+5D5A",
+    "general_bs_code": "252311153534"
+}

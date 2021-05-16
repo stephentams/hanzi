@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "vegetables, greens"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gemüse  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "légumes"
+        }
+    ],
+    "general_pinyins": [
+        "shū"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "疏"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "852C",
+            "122521214154325"
+        ],
+        "char_code_wubi": "anhq|anhk",
+        "char_code_cangjie": "tnmu",
+        "char_code_zhengma": "exzn",
+        "char_code_sijiao": "44112"
+    },
+    "general_unicode": "基本区 U+852C",
+    "general_bs_code": "122521214154325"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "long time (ago); time passage, grow late"
+        },
+        {
+            "language": "德语",
+            "explanation": "lange (Zeit)​  (Adj, Sprachw)"
+        },
+        {
+            "language": "法语",
+            "explanation": "longtemps,de longue date"
+        }
+    ],
+    "general_pinyins": [
+        "jiǔ"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "丿",
+        "non_radical_sn": "2",
+        "total_sn": "3"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "乆",
+        "镹",
+        "灸"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4E45",
+            "354"
+        ],
+        "char_code_wubi": "qyi",
+        "char_code_cangjie": "no",
+        "char_code_zhengma": "rsvv",
+        "char_code_sijiao": "27800"
+    },
+    "general_unicode": "基本区 U+4E45",
+    "general_bs_code": "354"
+}

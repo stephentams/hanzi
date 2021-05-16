@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "whisper"
+        },
+        {
+            "language": "德语",
+            "explanation": "geschwätzig, schwatzhaft"
+        },
+        {
+            "language": "法语",
+            "explanation": "grommeler,marmotter"
+        }
+    ],
+    "general_pinyins": [
+        "nóng"
+    ],
+    "general_zhuyins": [
+        "ㄋㄨㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "哝"
+    ],
+    "general_ytz": [
+        "哝",
+        "譨",
+        "濃"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5665",
+            "2512512211311534"
+        ],
+        "char_code_wubi": "kmae",
+        "char_code_cangjie": "rtwv",
+        "char_code_zhengma": "jkkg",
+        "char_code_sijiao": "65032"
+    },
+    "general_unicode": "基本区 U+5665",
+    "general_bs_code": "2512512211311534"
+}

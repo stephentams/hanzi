@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "thin silk, damask silk"
+        },
+        {
+            "language": "德语",
+            "explanation": "Damast  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "soierie fine"
+        }
+    ],
+    "general_pinyins": [
+        "líng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "綾"
+    ],
+    "general_ytz": [
+        "綾"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EEB",
+            "55112134354"
+        ],
+        "char_code_wubi": "xfwt",
+        "char_code_cangjie": "vmgce",
+        "char_code_zhengma": "zbor",
+        "char_code_sijiao": "24147"
+    },
+    "general_unicode": "基本区 U+7EEB",
+    "general_bs_code": "55112134354"
+}

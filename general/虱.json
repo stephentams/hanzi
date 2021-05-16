@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "louse; bug; parasite"
+        },
+        {
+            "language": "德语",
+            "explanation": "Laus  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "shī"
+    ],
+    "general_zhuyins": [
+        "ㄕ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "2",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "蝨",
+        "𠤋",
+        "𧈲",
+        "𧋜",
+        "𧌡",
+        "𧍀",
+        "𧒢",
+        "𧓎"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8671",
+            "53251214"
+        ],
+        "char_code_wubi": "ntji",
+        "char_code_cangjie": "nhli",
+        "char_code_zhengma": "ydai",
+        "char_code_sijiao": "17110"
+    },
+    "general_unicode": "基本区 U+8671",
+    "general_bs_code": "53251214"
+}

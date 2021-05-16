@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pretend, feign; false, deceitful"
+        },
+        {
+            "language": "德语",
+            "explanation": "vorgeben, heucheln"
+        },
+        {
+            "language": "法语",
+            "explanation": "feindre,faux"
+        }
+    ],
+    "general_pinyins": [
+        "yáng"
+    ],
+    "general_zhuyins": [
+        "ㄧㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "徉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4F6F",
+            "32431112"
+        ],
+        "char_code_wubi": "wudh|wuh",
+        "char_code_cangjie": "otq",
+        "char_code_zhengma": "nuc",
+        "char_code_sijiao": "28251"
+    },
+    "general_unicode": "基本区 U+4F6F",
+    "general_bs_code": "32431112"
+}

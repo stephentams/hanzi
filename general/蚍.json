@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mussels; various shellfish"
+        },
+        {
+            "language": "德语",
+            "explanation": "Muschelsorte  (S, Bio)"
+        }
+    ],
+    "general_pinyins": [
+        "pí"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "螕",
+        "𧔆",
+        "𧔯",
+        "𧔻",
+        "𧖈",
+        "𧖎",
+        "𧖕"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "868D",
+            "2512141535"
+        ],
+        "char_code_wubi": "jxxn",
+        "char_code_cangjie": "lipp",
+        "char_code_zhengma": "irrr",
+        "char_code_sijiao": "52110"
+    },
+    "general_unicode": "基本区 U+868D",
+    "general_bs_code": "2512141535"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "disease of the eyes; crime, fault"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fehler, Irrtum  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cataracte de l'oeil,erreur"
+        }
+    ],
+    "general_pinyins": [
+        "shěng"
+    ],
+    "general_zhuyins": [
+        "ㄕㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "姓"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "771A",
+            "3112125111"
+        ],
+        "char_code_wubi": "tghf",
+        "char_code_cangjie": "hmbu",
+        "char_code_zhengma": "mcl",
+        "char_code_sijiao": "25601"
+    },
+    "general_unicode": "基本区 U+771A",
+    "general_bs_code": "3112125111"
+}

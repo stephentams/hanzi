@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "esteem; honest, candid, sincere"
+        },
+        {
+            "language": "法语",
+            "explanation": "sincère"
+        }
+    ],
+    "general_pinyins": [
+        "dūn",
+        "duì"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨㄣ",
+        "ㄉㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "攵",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "墩",
+        "憞",
+        "㪟",
+        "𠧈",
+        "𢼪",
+        "𣀦",
+        "𤮩",
+        "𥂦",
+        "𦎧",
+        "𠧉",
+        "𤭞",
+        "𦎫"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6566",
+            "412515213134"
+        ],
+        "char_code_wubi": "ybty",
+        "char_code_cangjie": "ydok",
+        "char_code_zhengma": "sjym",
+        "char_code_sijiao": "08440"
+    },
+    "general_unicode": "基本区 U+6566",
+    "general_bs_code": "412515213134"
+}

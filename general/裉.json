@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "s seam in a garment"
+        },
+        {
+            "language": "法语",
+            "explanation": "couture latérale d'un vêtement supérieur,surpiqûre"
+        }
+    ],
+    "general_pinyins": [
+        "kèn"
+    ],
+    "general_zhuyins": [
+        "ㄎㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "衤",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "褃"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "88C9",
+            "45234511534"
+        ],
+        "char_code_wubi": "puve|puvy",
+        "char_code_cangjie": "lav",
+        "char_code_zhengma": "wtxo",
+        "char_code_sijiao": "37232"
+    },
+    "general_unicode": "基本区 U+88C9",
+    "general_bs_code": "45234511534"
+}

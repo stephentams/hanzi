@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lanthanum"
+        },
+        {
+            "language": "德语",
+            "explanation": "Lanthan (Element 57, La)​ (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "lanthane"
+        }
+    ],
+    "general_pinyins": [
+        "lán"
+    ],
+    "general_zhuyins": [
+        "ㄌㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "12",
+        "total_sn": "17"
+    },
+    "general_stc": [
+        "鑭"
+    ],
+    "general_ytz": [
+        "鑭",
+        "钄"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9567",
+            "31115425125341234"
+        ],
+        "char_code_wubi": "qugi|qusl",
+        "char_code_cangjie": "oplsw",
+        "char_code_zhengma": "ptfl",
+        "char_code_sijiao": "87720"
+    },
+    "general_unicode": "基本区 U+9567",
+    "general_bs_code": "31115425125341234"
+}

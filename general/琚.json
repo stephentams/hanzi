@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "法语",
+            "explanation": "gemmes ornementales pour ceinture"
+        }
+    ],
+    "general_pinyins": [
+        "jū"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤩵",
+        "𤪬",
+        "𤫓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "741A",
+            "112151312251"
+        ],
+        "char_code_wubi": "gndg",
+        "char_code_cangjie": "mgsjr",
+        "char_code_zhengma": "cxej",
+        "char_code_sijiao": "17164"
+    },
+    "general_unicode": "基本区 U+741A",
+    "general_bs_code": "112151312251"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hungry; greedy for; hunger"
+        },
+        {
+            "language": "德语",
+            "explanation": "hungrig sein, Hunger haben, hungern  (Adj, Ess)"
+        },
+        {
+            "language": "法语",
+            "explanation": "avoir faim,être affamé"
+        }
+    ],
+    "general_pinyins": [
+        "è"
+    ],
+    "general_zhuyins": [
+        "ㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "饣",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "餓"
+    ],
+    "general_ytz": [
+        "餓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "997F",
+            "3553121534"
+        ],
+        "char_code_wubi": "qntt|qnty",
+        "char_code_cangjie": "nvhqi",
+        "char_code_zhengma": "oxmh",
+        "char_code_sijiao": "23750"
+    },
+    "general_unicode": "基本区 U+997F",
+    "general_bs_code": "3553121534"
+}

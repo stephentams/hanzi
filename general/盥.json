@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wash"
+        },
+        {
+            "language": "德语",
+            "explanation": "waschen, wässern"
+        },
+        {
+            "language": "法语",
+            "explanation": "laver"
+        }
+    ],
+    "general_pinyins": [
+        "guàn"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "皿",
+        "non_radical_sn": "11",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "泴",
+        "灌",
+        "𣹉",
+        "𤃗",
+        "𥁉"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "76E5",
+            "3211253451125221"
+        ],
+        "char_code_wubi": "qgil|eilf",
+        "char_code_cangjie": "hxbt",
+        "char_code_zhengma": "nbkl",
+        "char_code_sijiao": "77102"
+    },
+    "general_unicode": "基本区 U+76E5",
+    "general_bs_code": "3211253451125221"
+}

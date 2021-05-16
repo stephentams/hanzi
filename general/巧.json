@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "skillful, ingenious, clever"
+        },
+        {
+            "language": "德语",
+            "explanation": "geschickt, gewandt  (Adj)​,zufällig, gerade, ausgerechnet  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "par hasard,opportunément,en temps opportun,habile,ingénieux,adroit"
+        }
+    ],
+    "general_pinyins": [
+        "qiǎo"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "工",
+        "non_radical_sn": "2",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㤍",
+        "𢩨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5DE7",
+            "12115"
+        ],
+        "char_code_wubi": "agnn",
+        "char_code_cangjie": "mmvs",
+        "char_code_zhengma": "biaz",
+        "char_code_sijiao": "11127"
+    },
+    "general_unicode": "基本区 U+5DE7",
+    "general_bs_code": "12115"
+}

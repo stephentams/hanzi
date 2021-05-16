@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "great, robust; extraordinary"
+        },
+        {
+            "language": "德语",
+            "explanation": "groß, bedeutend  (Adj)​,Wei  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "grand,grandiose"
+        }
+    ],
+    "general_pinyins": [
+        "wěi"
+    ],
+    "general_zhuyins": [
+        "ㄨㄟˇ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "偉"
+    ],
+    "general_ytz": [
+        "偉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4F1F",
+            "321152"
+        ],
+        "char_code_wubi": "wfnh",
+        "char_code_cangjie": "oqs",
+        "char_code_zhengma": "nby",
+        "char_code_sijiao": "25227"
+    },
+    "general_unicode": "基本区 U+4F1F",
+    "general_bs_code": "321152"
+}

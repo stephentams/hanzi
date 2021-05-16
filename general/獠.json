@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to hunt at night by torches"
+        },
+        {
+            "language": "德语",
+            "explanation": "durchsuchen, forschen"
+        }
+    ],
+    "general_pinyins": [
+        "liáo"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䝤",
+        "㺐",
+        "僚",
+        "𤜶",
+        "𤢙",
+        "𤢸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7360",
+            "353134432511234"
+        ],
+        "char_code_wubi": "qtdi",
+        "char_code_cangjie": "khkcf",
+        "char_code_zhengma": "qmkk",
+        "char_code_sijiao": "44296"
+    },
+    "general_unicode": "基本区 U+7360",
+    "general_bs_code": "353134432511234"
+}

@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "insert, stick into; plant"
+        },
+        {
+            "language": "德语",
+            "explanation": "hineinstecken, einführen  (V)"
+        }
+    ],
+    "general_pinyins": [
+        "chā"
+    ],
+    "general_zhuyins": [
+        "ㄔㄚ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "挿",
+        "捷",
+        "揷",
+        "臿",
+        "𢭉",
+        "𢰔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "63D2",
+            "121312321511"
+        ],
+        "char_code_wubi": "rtfv|rtfe",
+        "char_code_cangjie": "qhjx",
+        "char_code_zhengma": "dmnb",
+        "char_code_sijiao": "52077"
+    },
+    "general_unicode": "基本区 U+63D2",
+    "general_bs_code": "121312321511"
+}

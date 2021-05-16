@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "self, private, personal; from"
+        },
+        {
+            "language": "德语",
+            "explanation": "aus, von, von...aus, seit ,Radikal Nr. 132 = selbst, selber, selbstverständlich, aus, von, seit ,von, selber, selbst, seit ,selbst, selber, persönlich, in eigener Person  (Adj)​,selbstverständlich, natürlich  (Adj)​,Zi  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "depuis,à partir de,soi-même,naturellement"
+        }
+    ],
+    "general_pinyins": [
+        "zì"
+    ],
+    "general_zhuyins": [
+        "ㄗˋ"
+    ],
+    "general_radical": {
+        "radical": "自",
+        "non_radical_sn": "0",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦣹",
+        "𦣼",
+        "𨈻",
+        "𥃭",
+        "𩐍"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "81EA",
+            "325111"
+        ],
+        "char_code_wubi": "thd",
+        "char_code_cangjie": "hbu",
+        "char_code_zhengma": "nl",
+        "char_code_sijiao": "26000"
+    },
+    "general_unicode": "基本区 U+81EA",
+    "general_bs_code": "325111"
+}

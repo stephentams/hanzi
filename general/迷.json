@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bewitch, charm, infatuate"
+        },
+        {
+            "language": "法语",
+            "explanation": "fan (de)​,passionné (de)​,-phile,être fasciné par,s'égarer,désorienté,perdu,se perdre,charmer,séduire"
+        }
+    ],
+    "general_pinyins": [
+        "mí"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢞞",
+        "𨒲",
+        "謎"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8FF7",
+            "431234454"
+        ],
+        "char_code_wubi": "opi",
+        "char_code_cangjie": "yfd",
+        "char_code_zhengma": "ufw",
+        "char_code_sijiao": "39309"
+    },
+    "general_unicode": "基本区 U+8FF7",
+    "general_bs_code": "431234454"
+}

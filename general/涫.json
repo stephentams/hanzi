@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "法语",
+            "explanation": "(classique)​ bouillir"
+        }
+    ],
+    "general_pinyins": [
+        "guān"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄢ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㴦"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6DAB",
+            "44144525151"
+        ],
+        "char_code_wubi": "ipnn|ipng",
+        "char_code_cangjie": "ejrr",
+        "char_code_zhengma": "vwy",
+        "char_code_sijiao": "33177"
+    },
+    "general_unicode": "基本区 U+6DAB",
+    "general_bs_code": "44144525151"
+}

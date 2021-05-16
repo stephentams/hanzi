@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "entertain victorious soldiers"
+        },
+        {
+            "language": "法语",
+            "explanation": "rémunération en vivre ou en argent"
+        }
+    ],
+    "general_pinyins": [
+        "kào"
+    ],
+    "general_zhuyins": [
+        "ㄎㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "牜",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䐧",
+        "槀",
+        "槁",
+        "𩝝",
+        "𤚸",
+        "𨢓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7292",
+            "31214125125251"
+        ],
+        "char_code_wubi": "tryk|cymk",
+        "char_code_cangjie": "hqyrb",
+        "char_code_zhengma": "mbjl",
+        "char_code_sijiao": "20527"
+    },
+    "general_unicode": "基本区 U+7292",
+    "general_bs_code": "31214125125251"
+}

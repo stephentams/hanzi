@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a hearse; a carriage"
+        }
+    ],
+    "general_pinyins": [
+        "liáng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "车",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "輬"
+    ],
+    "general_ytz": [
+        "輬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8F8C",
+            "152141251234"
+        ],
+        "char_code_wubi": "lyiy",
+        "char_code_cangjie": "kqyrf",
+        "char_code_zhengma": "hejk",
+        "char_code_sijiao": "40596"
+    },
+    "general_unicode": "基本区 U+8F8C",
+    "general_bs_code": "152141251234"
+}

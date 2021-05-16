@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "slander, libel"
+        },
+        {
+            "language": "法语",
+            "explanation": "médire,vilipender,diffamer"
+        }
+    ],
+    "general_pinyins": [
+        "bàng"
+    ],
+    "general_zhuyins": [
+        "ㄅㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "10",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "謗"
+    ],
+    "general_ytz": [
+        "謗",
+        "𧩂"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C24",
+            "454143454153"
+        ],
+        "char_code_wubi": "yupy|yyuy",
+        "char_code_cangjie": "ivybs",
+        "char_code_zhengma": "ssws",
+        "char_code_sijiao": "30727"
+    },
+    "general_unicode": "基本区 U+8C24",
+    "general_bs_code": "454143454153"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "feeble, tiny, young and weak"
+        },
+        {
+            "language": "法语",
+            "explanation": "extrême,limite,faible et petit,hautain,dédaigneux"
+        }
+    ],
+    "general_pinyins": [
+        "ní"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "兒",
+        "淣",
+        "𨺙",
+        "睨",
+        "隉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "502A",
+            "3232151135"
+        ],
+        "char_code_wubi": "wvqn|weqn",
+        "char_code_cangjie": "ohxu",
+        "char_code_zhengma": "nnrd",
+        "char_code_sijiao": "27212"
+    },
+    "general_unicode": "基本区 U+502A",
+    "general_bs_code": "3232151135"
+}

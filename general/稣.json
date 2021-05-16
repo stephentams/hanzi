@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "revive, to rise again; collect"
+        },
+        {
+            "language": "德语",
+            "explanation": "auferstehen, beleben"
+        },
+        {
+            "language": "法语",
+            "explanation": "recueillir,revivre"
+        }
+    ],
+    "general_pinyins": [
+        "sū"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨ"
+    ],
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "穌"
+    ],
+    "general_ytz": [
+        "穌",
+        "鯂",
+        "䲆"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7A23",
+            "3525121131234"
+        ],
+        "char_code_wubi": "qgty",
+        "char_code_cangjie": "nmhd",
+        "char_code_zhengma": "rmf",
+        "char_code_sijiao": "22194"
+    },
+    "general_unicode": "基本区 U+7A23",
+    "general_bs_code": "3525121131234"
+}

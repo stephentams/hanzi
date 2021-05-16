@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "drag aside, pull; drag one foot"
+        },
+        {
+            "language": "德语",
+            "explanation": "schleppen, Luftwiderstand  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "traîner,tirer"
+        }
+    ],
+    "general_pinyins": [
+        "jǐ"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢰤",
+        "𢷔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "638E",
+            "12113412512"
+        ],
+        "char_code_wubi": "rdsk",
+        "char_code_cangjie": "qkmr",
+        "char_code_zhengma": "dgaj",
+        "char_code_sijiao": "54021"
+    },
+    "general_unicode": "基本区 U+638E",
+    "general_bs_code": "12113412512"
+}

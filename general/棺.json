@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "coffin"
+        },
+        {
+            "language": "德语",
+            "explanation": "Sarg, Totenschrein (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cercueil"
+        }
+    ],
+    "general_pinyins": [
+        "guān"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄢ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣑄"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "68FA",
+            "123444525151"
+        ],
+        "char_code_wubi": "spnn|spng",
+        "char_code_cangjie": "djrr",
+        "char_code_zhengma": "fwy",
+        "char_code_sijiao": "43977"
+    },
+    "general_unicode": "基本区 U+68FA",
+    "general_bs_code": "123444525151"
+}

@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wander about, walk around; revolve"
+        },
+        {
+            "language": "法语",
+            "explanation": "la manière de danser,marcher autour"
+        }
+    ],
+    "general_pinyins": [
+        "xiān"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "6",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "躚"
+    ],
+    "general_ytz": [
+        "躚",
+        "蹮",
+        "𨇫",
+        "𨇴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8DF9",
+            "2512121312454"
+        ],
+        "char_code_wubi": "khtp",
+        "char_code_cangjie": "rmyhj",
+        "char_code_zhengma": "jimw",
+        "char_code_sijiao": "62134"
+    },
+    "general_unicode": "基本区 U+8DF9",
+    "general_bs_code": "2512121312454"
+}

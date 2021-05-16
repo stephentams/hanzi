@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "school"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schule (veraltet)​  (Adj, Lit)"
+        }
+    ],
+    "general_pinyins": [
+        "hóng"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "黄",
+        "non_radical_sn": "5",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "黌"
+    ],
+    "general_ytz": [
+        "黌",
+        "𣍜",
+        "𪏬"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9EC9",
+            "4434512212512134"
+        ],
+        "char_code_wubi": "ipaw",
+        "char_code_cangjie": "fbtlc",
+        "char_code_zhengma": "vdko",
+        "char_code_sijiao": "90806"
+    },
+    "general_unicode": "基本区 U+9EC9",
+    "general_bs_code": "4434512212512134"
+}

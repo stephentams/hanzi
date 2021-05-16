@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "moss, lichen"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kuvertüre, Anstrich. Belag  (S)​,lava  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "surface de la langue,mousse,lichen"
+        }
+    ],
+    "general_pinyins": [
+        "tái",
+        "tāi"
+    ],
+    "general_zhuyins": [
+        "ㄊㄞˊ",
+        "ㄊㄞ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "薹",
+        "菭",
+        "箈",
+        "䈚"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "82D4",
+            "12254251"
+        ],
+        "char_code_wubi": "ackf",
+        "char_code_cangjie": "tir",
+        "char_code_zhengma": "ezj",
+        "char_code_sijiao": "44603"
+    },
+    "general_unicode": "基本区 U+82D4",
+    "general_bs_code": "12254251"
+}

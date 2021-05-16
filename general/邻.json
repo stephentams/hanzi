@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "neighbor; neighborhood"
+        },
+        {
+            "language": "德语",
+            "explanation": "angrenzend, benachbart ,Lin  (Eig, Fam)​,Nachbar"
+        }
+    ],
+    "general_pinyins": [
+        "lín"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "鄰"
+    ],
+    "general_ytz": [
+        "鄰",
+        "隣",
+        "阾",
+        "𠳵",
+        "𨞁",
+        "𨞧",
+        "𨼺",
+        "𨽃",
+        "𪌛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "90BB",
+            "3445452"
+        ],
+        "char_code_wubi": "wycb",
+        "char_code_cangjie": "oinl",
+        "char_code_zhengma": "odwy",
+        "char_code_sijiao": "87327"
+    },
+    "general_unicode": "基本区 U+90BB",
+    "general_bs_code": "3445452"
+}

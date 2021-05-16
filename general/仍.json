@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "yet, still, as ever; again; keep -ing, continuing"
+        },
+        {
+            "language": "德语",
+            "explanation": "dennoch, doch,bleiben, übrig bleiben (V)​,weiterhin sein\""
+        },
+        {
+            "language": "法语",
+            "explanation": "encore,toujours,comme à l'ordinaire,suivre,selon"
+        }
+    ],
+    "general_pinyins": [
+        "réng"
+    ],
+    "general_zhuyins": [
+        "ㄖㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "2",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4ECD",
+            "3253"
+        ],
+        "char_code_wubi": "wen|wbt",
+        "char_code_cangjie": "onhs",
+        "char_code_zhengma": "nym",
+        "char_code_sijiao": "27227"
+    },
+    "general_unicode": "基本区 U+4ECD",
+    "general_bs_code": "3253"
+}

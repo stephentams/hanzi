@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "god of the soil and altars to him; group of families; company, society"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gesellschaft (S)​,Vereinigung, Verein (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "association,société,dieu de la terre (arch.)​"
+        }
+    ],
+    "general_pinyins": [
+        "shè"
+    ],
+    "general_zhuyins": [
+        "ㄕㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "礻",
+        "non_radical_sn": "3",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䄕",
+        "土",
+        "𡉹",
+        "𣒮",
+        "𣴳",
+        "𥙭",
+        "𥙲",
+        "社"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "793E",
+            "4524121"
+        ],
+        "char_code_wubi": "pyfg",
+        "char_code_cangjie": "ifg",
+        "char_code_zhengma": "wsb",
+        "char_code_sijiao": "34210"
+    },
+    "general_unicode": "基本区 U+793E",
+    "general_bs_code": "4524121"
+}

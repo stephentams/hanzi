@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sores from cold"
+        },
+        {
+            "language": "德语",
+            "explanation": "Frostbeule  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "engelure"
+        }
+    ],
+    "general_pinyins": [
+        "zhú"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤷚"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7603",
+            "4134113533434"
+        ],
+        "char_code_wubi": "ueyi|ugey",
+        "char_code_cangjie": "kmso",
+        "char_code_zhengma": "tgs",
+        "char_code_sijiao": "00132"
+    },
+    "general_unicode": "基本区 U+7603",
+    "general_bs_code": "4134113533434"
+}

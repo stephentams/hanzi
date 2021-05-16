@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "reward, grant, bestow; appreciate"
+        },
+        {
+            "language": "法语",
+            "explanation": "récompense,récompenser,admirer,apprécier"
+        }
+    ],
+    "general_pinyins": [
+        "shǎng"
+    ],
+    "general_zhuyins": [
+        "ㄕㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "賞"
+    ],
+    "general_ytz": [
+        "賞",
+        "贘"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D4F",
+            "243452512534"
+        ],
+        "char_code_wubi": "ipkm",
+        "char_code_cangjie": "fbrbo",
+        "char_code_zhengma": "kojl",
+        "char_code_sijiao": "90802"
+    },
+    "general_unicode": "基本区 U+8D4F",
+    "general_bs_code": "243452512534"
+}

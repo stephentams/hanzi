@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fishing-line; cord; string of coi"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kordel, Kord  (S)​,Min  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "corde"
+        }
+    ],
+    "general_pinyins": [
+        "mín"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "緡"
+    ],
+    "general_ytz": [
+        "緡"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F17",
+            "551515152511"
+        ],
+        "char_code_wubi": "xnaj",
+        "char_code_cangjie": "vmrpa",
+        "char_code_zhengma": "zyhk",
+        "char_code_sijiao": "27164"
+    },
+    "general_unicode": "基本区 U+7F17",
+    "general_bs_code": "551515152511"
+}

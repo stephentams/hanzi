@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "exterior rim of wheel, felly"
+        },
+        {
+            "language": "德语",
+            "explanation": "ermüden, Pneu  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "jante"
+        }
+    ],
+    "general_pinyins": [
+        "wǎng"
+    ],
+    "general_zhuyins": [
+        "ㄨㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "车",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "輞"
+    ],
+    "general_ytz": [
+        "輞",
+        "棢",
+        "𨋹"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8F8B",
+            "152125431415"
+        ],
+        "char_code_wubi": "lmun",
+        "char_code_cangjie": "kqbtv",
+        "char_code_zhengma": "held",
+        "char_code_sijiao": "47520"
+    },
+    "general_unicode": "基本区 U+8F8B",
+    "general_bs_code": "152125431415"
+}

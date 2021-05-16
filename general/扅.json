@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "gate bar, bolt"
+        }
+    ],
+    "general_pinyins": [
+        "yí"
+    ],
+    "general_zhuyins": [
+        "ㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "户",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㢁",
+        "㦾",
+        "𢨴",
+        "𢨹",
+        "㞔"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6245",
+            "4513354354"
+        ],
+        "char_code_wubi": "ynqq",
+        "char_code_cangjie": "hsnin",
+        "char_code_zhengma": "wmrr",
+        "char_code_sijiao": "30227"
+    },
+    "general_unicode": "基本区 U+6245",
+    "general_bs_code": "4513354354"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "leak, drip; funnel; hour glass"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ärgernis; Sache, die Kopfschmerzen bereitet (Buddhistischer Terminus)​  (S, Buddh)​,Leck, Loch in einem Gefäß  (S)​,Sanduhr, Wasseruhr  (S, Tech)​,auslaufen, tropfen (an einer undichten Stelle)​  (V)​,entweichen, verflüchtigen (aus einem Netz, Behälter, etc)​  (V)​,lecken  (V)​,sickern, auslaufen  (V)​,verraten, durchsickern  (V)​,undicht, leck sein  (Adj)​,übersehen, auslassen, vergessen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "fuir,suinter,omettre,révéler"
+        }
+    ],
+    "general_pinyins": [
+        "lòu"
+    ],
+    "general_zhuyins": [
+        "ㄌㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "屚",
+        "𢉀",
+        "𣼣",
+        "𣾡",
+        "漏"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6F0F",
+            "44151312524444"
+        ],
+        "char_code_wubi": "infy",
+        "char_code_cangjie": "esmb",
+        "char_code_zhengma": "vxfv",
+        "char_code_sijiao": "37127"
+    },
+    "general_unicode": "基本区 U+6F0F",
+    "general_bs_code": "44151312524444"
+}

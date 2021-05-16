@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "name of a famous horse"
+        },
+        {
+            "language": "法语",
+            "explanation": "(cheval)​"
+        }
+    ],
+    "general_pinyins": [
+        "sù"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "馬",
+        "non_radical_sn": "13",
+        "total_sn": "23"
+    },
+    "general_stc": [
+        "骕"
+    ],
+    "general_ytz": [
+        "骕",
+        "𩥶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A4C",
+            "12112544445112321155122"
+        ],
+        "char_code_wubi": "cvhh|covj",
+        "char_code_cangjie": "sflx",
+        "char_code_zhengma": "cuxn",
+        "char_code_sijiao": "75327"
+    },
+    "general_unicode": "基本区 U+9A4C",
+    "general_bs_code": "12112544445112321155122"
+}

@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "probe, poke, prick, pierce"
+        },
+        {
+            "language": "德语",
+            "explanation": "schuften, Schiebung  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "ficher,insérer,greffer"
+        }
+    ],
+    "general_pinyins": [
+        "qiān"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢳍",
+        "𢸯"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6266",
+            "121312"
+        ],
+        "char_code_wubi": "rtfh",
+        "char_code_cangjie": "qhj",
+        "char_code_zhengma": "dme",
+        "char_code_sijiao": "52040"
+    },
+    "general_unicode": "基本区 U+6266",
+    "general_bs_code": "121312"
+}

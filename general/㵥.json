@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(a variant) water currents; flow water"
+        }
+    ],
+    "general_pinyins": [
+        "bì",
+        "mì"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧˋ",
+        "ㄇㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㴵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3D65",
+            "4414454543425221"
+        ],
+        "char_code_wubi": "ipnl",
+        "char_code_cangjie": "ejpt",
+        "char_code_zhengma": "vwml",
+        "char_code_sijiao": "33112"
+    },
+    "general_unicode": "扩展A U+3D65",
+    "general_bs_code": "4414454543425221"
+}

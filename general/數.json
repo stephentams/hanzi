@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "number; several; count; fate"
+        },
+        {
+            "language": "德语",
+            "explanation": "zählen, abzählen, gelten  (V)​,häufig, oft,Numerus, Numeri (Zählform; Singular, Dual od. Plural)​ 法语 nombre,nombre,quelques,plusieurs,compter"
+        }
+    ],
+    "general_pinyins": [
+        "shù",
+        "shǔ",
+        "shuò"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨˋ",
+        "ㄕㄨˇ",
+        "ㄕㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "攵",
+        "non_radical_sn": "11",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "数"
+    ],
+    "general_ytz": [
+        "数",
+        "𡢏",
+        "𢿘",
+        "𢿙",
+        "𣀭",
+        "𣯫",
+        "數"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6578",
+            "251125125313134"
+        ],
+        "char_code_wubi": "kgkt|lvty",
+        "char_code_cangjie": "lvok",
+        "char_code_zhengma": "kjzm",
+        "char_code_sijiao": "58440"
+    },
+    "general_unicode": "基本区 U+6578",
+    "general_bs_code": "251125125313134"
+}

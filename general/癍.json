@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "unhealthy marks on the skin"
+        }
+    ],
+    "general_pinyins": [
+        "bān"
+    ],
+    "general_zhuyins": [
+        "ㄅㄢ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "12",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㿀"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "764D",
+            "41341112141341121"
+        ],
+        "char_code_wubi": "ugyg",
+        "char_code_cangjie": "kmgg",
+        "char_code_zhengma": "tcsc",
+        "char_code_sijiao": "00114"
+    },
+    "general_unicode": "基本区 U+764D",
+    "general_bs_code": "41341112141341121"
+}

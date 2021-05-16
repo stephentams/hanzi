@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "assemble, collect together"
+        },
+        {
+            "language": "德语",
+            "explanation": "Band (einer Bücherreihe)​ ,sammeln, Sammlung  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "rassembler,réunir,collection,tome,volume,partie,épisode,réunion,rassemblement"
+        }
+    ],
+    "general_pinyins": [
+        "jí"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "隹",
+        "non_radical_sn": "4",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "亼",
+        "輯",
+        "雦",
+        "雧",
+        "𠍱",
+        "𠓛",
+        "𠦫"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "96C6",
+            "324111211234"
+        ],
+        "char_code_wubi": "wysu",
+        "char_code_cangjie": "ogd",
+        "char_code_zhengma": "nif",
+        "char_code_sijiao": "20904"
+    },
+    "general_unicode": "基本区 U+96C6",
+    "general_bs_code": "324111211234"
+}

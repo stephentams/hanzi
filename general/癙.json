@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ill"
+        },
+        {
+            "language": "德语",
+            "explanation": "heimlich, hintergründig  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "caché,secret,scrofule"
+        }
+    ],
+    "general_pinyins": [
+        "shǔ"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "13",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7659",
+            "413413215115445445"
+        ],
+        "char_code_wubi": "uvnn|uenn",
+        "char_code_cangjie": "khxv",
+        "char_code_zhengma": "tnzd",
+        "char_code_sijiao": "00112"
+    },
+    "general_unicode": "基本区 U+7659",
+    "general_bs_code": "413413215115445445"
+}

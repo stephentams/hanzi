@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "surname; name of an ancient state"
+        },
+        {
+            "language": "德语",
+            "explanation": "Liào  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "liào"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "广",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㡻",
+        "廫"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5ED6",
+            "41354154134333"
+        ],
+        "char_code_wubi": "ynwe|onwe",
+        "char_code_cangjie": "ismh",
+        "char_code_zhengma": "tgop",
+        "char_code_sijiao": "00222"
+    },
+    "general_unicode": "基本区 U+5ED6",
+    "general_bs_code": "41354154134333"
+}

@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "chóu"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "田",
+        "non_radical_sn": "12",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "24CDD",
+            "25121312343123422"
+        ],
+        "char_code_wubi": "lttj",
+        "char_code_cangjie": "whdn",
+        "char_code_zhengma": "kimk"
+    },
+    "general_unicode": "扩展B U+24CDD",
+    "general_bs_code": "25121312343123422"
+}

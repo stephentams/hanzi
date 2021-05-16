@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "religious service; Daoist or Buddhist ceremony"
+        },
+        {
+            "language": "法语",
+            "explanation": "sacrifice,noce"
+        }
+    ],
+    "general_pinyins": [
+        "jiào"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "酉",
+        "non_radical_sn": "12",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥛲",
+        "𨣐"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "91AE",
+            "1253511324111214444"
+        ],
+        "char_code_wubi": "sgwo",
+        "char_code_cangjie": "mwogf",
+        "char_code_zhengma": "fdnu",
+        "char_code_sijiao": "10631"
+    },
+    "general_unicode": "基本区 U+91AE",
+    "general_bs_code": "1253511324111214444"
+}

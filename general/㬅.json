@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(non-classical form of 曼) long, extended, large"
+        }
+    ],
+    "general_pinyins": [
+        "màn"
+    ],
+    "general_zhuyins": [
+        "ㄇㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "曼"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3B05",
+            "251125221153"
+        ],
+        "char_code_wubi": "jldn|jlgq",
+        "char_code_cangjie": "awls",
+        "char_code_zhengma": "klay",
+        "char_code_sijiao": "60227"
+    },
+    "general_unicode": "扩展A U+3B05",
+    "general_bs_code": "251125221153"
+}

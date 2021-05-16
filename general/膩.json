@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "greasy, oily, dirty; smooth"
+        },
+        {
+            "language": "法语",
+            "explanation": "gras,graisseux,en avoir assez"
+        }
+    ],
+    "general_pinyins": [
+        "nì"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "12",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "腻"
+    ],
+    "general_ytz": [
+        "𧸐",
+        "𦡸",
+        "貳",
+        "腻"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "81A9",
+            "3511111251113454"
+        ],
+        "char_code_wubi": "eafm|eafy",
+        "char_code_cangjie": "bipc",
+        "char_code_zhengma": "qhbl",
+        "char_code_sijiao": "73240"
+    },
+    "general_unicode": "基本区 U+81A9",
+    "general_bs_code": "3511111251113454"
+}

@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tumor, lump, goiter"
+        },
+        {
+            "language": "德语",
+            "explanation": "Geschwulst, Tumor  (S)​,Wucherung  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "liú"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "10",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "癅",
+        "𥏵",
+        "𦠝",
+        "𦞧"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7624",
+            "413413545325121"
+        ],
+        "char_code_wubi": "uqyl",
+        "char_code_cangjie": "khhw",
+        "char_code_zhengma": "tryk",
+        "char_code_sijiao": "00162"
+    },
+    "general_unicode": "基本区 U+7624",
+    "general_bs_code": "413413545325121"
+}

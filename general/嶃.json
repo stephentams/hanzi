@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a cliff, a peak"
+        }
+    ],
+    "general_pinyins": [
+        "zhǎn",
+        "chán"
+    ],
+    "general_zhuyins": [
+        "ㄓㄢˇ",
+        "ㄔㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "嶄"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5D83",
+            "25212511123312"
+        ],
+        "char_code_wubi": "mlrh",
+        "char_code_cangjie": "ujjl",
+        "char_code_zhengma": "llfp",
+        "char_code_sijiao": "22721"
+    },
+    "general_unicode": "基本区 U+5D83",
+    "general_bs_code": "25212511123312"
+}

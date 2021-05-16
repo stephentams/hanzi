@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "large stringed musical instrument; dignified, massive; sound of wind"
+        },
+        {
+            "language": "德语",
+            "explanation": "Se (chin. Saiteninstrument)​ (S, Mus)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cithare à 25 (ou 16)​ cordes"
+        }
+    ],
+    "general_pinyins": [
+        "sè"
+    ],
+    "general_zhuyins": [
+        "ㄙㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㻎",
+        "鉍",
+        "𡘼",
+        "𡚉",
+        "𢊎",
+        "𢜈",
+        "𤨝",
+        "𩇰"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "745F",
+            "1121112145434"
+        ],
+        "char_code_wubi": "ggnt",
+        "char_code_cangjie": "mgph",
+        "char_code_zhengma": "ccwm",
+        "char_code_sijiao": "11334"
+    },
+    "general_unicode": "基本区 U+745F",
+    "general_bs_code": "1121112145434"
+}

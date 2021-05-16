@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to flood; a puddle; without care"
+        },
+        {
+            "language": "德语",
+            "explanation": "überflutet, überschwemmte ,heftige Regenfälle, starker Regen"
+        },
+        {
+            "language": "法语",
+            "explanation": "grande pluie"
+        }
+    ],
+    "general_pinyins": [
+        "lǎo",
+        "lào",
+        "liáo"
+    ],
+    "general_zhuyins": [
+        "ㄌㄠˇ",
+        "ㄌㄠˋ",
+        "ㄌㄧㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣿳",
+        "澇"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6F66",
+            "441134432511234"
+        ],
+        "char_code_wubi": "idui",
+        "char_code_cangjie": "ekcf",
+        "char_code_zhengma": "vgkk",
+        "char_code_sijiao": "34196"
+    },
+    "general_unicode": "基本区 U+6F66",
+    "general_bs_code": "441134432511234"
+}

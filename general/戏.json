@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "theatrical play, show"
+        },
+        {
+            "language": "德语",
+            "explanation": "Akt  (S, Kunst)​,Drama  (S)​,Schauspiel  (S)​,Theaterstück  (S)​,scherzen, einen Spaß machen, sich über jdn lustig machen  (V)​,spielen  (V)​,Xi  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "pièce de théâtre,spectacle,s'amuser avec,jouer"
+        }
+    ],
+    "general_pinyins": [
+        "xì",
+        "hū"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧˋ",
+        "ㄏㄨ"
+    ],
+    "general_radical": {
+        "radical": "戈",
+        "non_radical_sn": "2",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "戲"
+    ],
+    "general_ytz": [
+        "戲",
+        "戱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "620F",
+            "541534"
+        ],
+        "char_code_wubi": "cat|cay",
+        "char_code_cangjie": "ei",
+        "char_code_zhengma": "xshm",
+        "char_code_sijiao": "73450"
+    },
+    "general_unicode": "基本区 U+620F",
+    "general_bs_code": "541534"
+}

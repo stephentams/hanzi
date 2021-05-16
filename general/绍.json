@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "continue, carry on; join"
+        },
+        {
+            "language": "德语",
+            "explanation": "fortsetzen, weiterführen"
+        },
+        {
+            "language": "法语",
+            "explanation": "continuer,(abrév.)​ Shaoxing,(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "shào"
+    ],
+    "general_zhuyins": [
+        "ㄕㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "紹"
+    ],
+    "general_ytz": [
+        "紹",
+        "綤",
+        "佋",
+        "𦀧"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7ECD",
+            "55153251"
+        ],
+        "char_code_wubi": "xvkg",
+        "char_code_cangjie": "vmshr",
+        "char_code_zhengma": "zyj",
+        "char_code_sijiao": "27162"
+    },
+    "general_unicode": "基本区 U+7ECD",
+    "general_bs_code": "55153251"
+}

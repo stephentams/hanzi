@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a kind of mineral"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gesteinsart"
+        }
+    ],
+    "general_pinyins": [
+        "náo"
+    ],
+    "general_zhuyins": [
+        "ㄋㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䃩",
+        "碙",
+        "磠",
+        "𠬦",
+        "𣲿",
+        "𣳦",
+        "𥐻",
+        "𥐼",
+        "𥑨",
+        "𥑩",
+        "𥒚",
+        "𥓁",
+        "𥗰",
+        "𥗸",
+        "𥑪"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7847",
+            "13251325341"
+        ],
+        "char_code_wubi": "dtlq|dtlr",
+        "char_code_cangjie": "mrhwk",
+        "char_code_zhengma": "gnos",
+        "char_code_sijiao": "16602"
+    },
+    "general_unicode": "基本区 U+7847",
+    "general_bs_code": "13251325341"
+}

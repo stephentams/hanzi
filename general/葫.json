@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bottle-gourd"
+        },
+        {
+            "language": "德语",
+            "explanation": "Flaschenkürbis, Kalebasse [Siehe 葫芦,  lat. Allium scorodoprasum ]  (S, Agrar)"
+        },
+        {
+            "language": "法语",
+            "explanation": "calebasse"
+        }
+    ],
+    "general_pinyins": [
+        "hú"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "瓠"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "846B",
+            "122122513511"
+        ],
+        "char_code_wubi": "adef",
+        "char_code_cangjie": "tjrb",
+        "char_code_zhengma": "eejq",
+        "char_code_sijiao": "44627"
+    },
+    "general_unicode": "基本区 U+846B",
+    "general_bs_code": "122122513511"
+}

@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "alkaline, alkali, lye, salt"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bettrost, Etappe  (S)​,kohlensaures Natron, Natriumcarbonat  (S, Chem)​,Alkali  (S)​,Base  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "base (chimie)​,alcali"
+        }
+    ],
+    "general_pinyins": [
+        "jiǎn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "9",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "鹼"
+    ],
+    "general_ytz": [
+        "鹼",
+        "硷",
+        "堿",
+        "𥃡",
+        "𨣇"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "78B1",
+            "13251131251534"
+        ],
+        "char_code_wubi": "ddgt|ddgk",
+        "char_code_cangjie": "mrihr",
+        "char_code_zhengma": "ghaj",
+        "char_code_sijiao": "13650"
+    },
+    "general_unicode": "基本区 U+78B1",
+    "general_bs_code": "13251131251534"
+}

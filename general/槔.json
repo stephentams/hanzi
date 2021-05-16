@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "法语",
+            "explanation": "poulie"
+        }
+    ],
+    "general_pinyins": [
+        "gāo"
+    ],
+    "general_zhuyins": [
+        "ㄍㄠ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "槹",
+        "橰",
+        "𣓌"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "69D4",
+            "12343251113412"
+        ],
+        "char_code_wubi": "srdf",
+        "char_code_cangjie": "dhaj",
+        "char_code_zhengma": "fnge",
+        "char_code_sijiao": "46948"
+    },
+    "general_unicode": "基本区 U+69D4",
+    "general_bs_code": "12343251113412"
+}

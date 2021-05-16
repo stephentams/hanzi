@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stand up; a stand, station"
+        },
+        {
+            "language": "德语",
+            "explanation": "Haltestelle, Bahnhof, Station  (S)​,stehen, stehen bleiben  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "se tenir debout,rester debout,s'arrêter,gare,arrêt,station"
+        }
+    ],
+    "general_pinyins": [
+        "zhàn"
+    ],
+    "general_zhuyins": [
+        "ㄓㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "立",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "佔",
+        "趈",
+        "跕",
+        "𥩠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7AD9",
+            "4143121251"
+        ],
+        "char_code_wubi": "uhkg",
+        "char_code_cangjie": "ytyr",
+        "char_code_zhengma": "suij",
+        "char_code_sijiao": "01160"
+    },
+    "general_unicode": "基本区 U+7AD9",
+    "general_bs_code": "4143121251"
+}

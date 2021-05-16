@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tear; snivel, nasal mucus"
+        },
+        {
+            "language": "德语",
+            "explanation": "Nasenschleim  (S)​,reißt, Tränen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "larmes,pleurer"
+        }
+    ],
+    "general_pinyins": [
+        "tì"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6D95",
+            "4414351523"
+        ],
+        "char_code_wubi": "iuxt",
+        "char_code_cangjie": "ecnh",
+        "char_code_zhengma": "vuyz",
+        "char_code_sijiao": "38127"
+    },
+    "general_unicode": "基本区 U+6D95",
+    "general_bs_code": "4414351523"
+}

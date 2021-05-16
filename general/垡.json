@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "plow soil; place name"
+        }
+    ],
+    "general_pinyins": [
+        "fá"
+    ],
+    "general_zhuyins": [
+        "ㄈㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㘺",
+        "坺",
+        "墢",
+        "𡓊"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "57A1",
+            "321534121"
+        ],
+        "char_code_wubi": "waff",
+        "char_code_cangjie": "oig",
+        "char_code_zhengma": "nhb",
+        "char_code_sijiao": "23104"
+    },
+    "general_unicode": "基本区 U+57A1",
+    "general_bs_code": "321534121"
+}

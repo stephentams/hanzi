@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "inquire, consult, discuss; plan"
+        },
+        {
+            "language": "德语",
+            "explanation": "konsultieren, Befragen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "consulter"
+        }
+    ],
+    "general_pinyins": [
+        "zī"
+    ],
+    "general_zhuyins": [
+        "ㄗ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "嗞",
+        "諮",
+        "谘",
+        "𪡌"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "54A8",
+            "413534251"
+        ],
+        "char_code_wubi": "uqwk",
+        "char_code_cangjie": "ior",
+        "char_code_zhengma": "tdrj",
+        "char_code_sijiao": "37608"
+    },
+    "general_unicode": "基本区 U+54A8",
+    "general_bs_code": "413534251"
+}

@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bind, tie, fasten"
+        },
+        {
+            "language": "法语",
+            "explanation": "lier,ligoter,attacher,ficeler,kidnapper,enlever"
+        }
+    ],
+    "general_pinyins": [
+        "bǎng"
+    ],
+    "general_zhuyins": [
+        "ㄅㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "綁"
+    ],
+    "general_ytz": [
+        "綁",
+        "𦆫"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7ED1",
+            "551111352"
+        ],
+        "char_code_wubi": "xdtb",
+        "char_code_cangjie": "vmqjl",
+        "char_code_zhengma": "zcy",
+        "char_code_sijiao": "27127"
+    },
+    "general_unicode": "基本区 U+7ED1",
+    "general_bs_code": "551111352"
+}

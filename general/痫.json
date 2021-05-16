@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "epilepsy, convulsions"
+        },
+        {
+            "language": "德语",
+            "explanation": "Epilepsie  (S)​,Sinn  (S)​,Wahnsinn  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "épilepsie,folie"
+        }
+    ],
+    "general_pinyins": [
+        "xián"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "癇"
+    ],
+    "general_ytz": [
+        "癇",
+        "癎",
+        "𣩝",
+        "𣩞",
+        "𤺛"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "75EB",
+            "413414251234"
+        ],
+        "char_code_wubi": "uusi",
+        "char_code_cangjie": "klsd",
+        "char_code_zhengma": "ttf",
+        "char_code_sijiao": "00127"
+    },
+    "general_unicode": "基本区 U+75EB",
+    "general_bs_code": "413414251234"
+}

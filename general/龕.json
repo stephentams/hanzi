@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "niche, shrine"
+        },
+        {
+            "language": "德语",
+            "explanation": "heilig  (S)​,Nische  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cassette,niche,contenir"
+        }
+    ],
+    "general_pinyins": [
+        "kān"
+    ],
+    "general_zhuyins": [
+        "ㄎㄢ"
+    ],
+    "general_radical": {
+        "radical": "龍",
+        "non_radical_sn": "6",
+        "total_sn": "22"
+    },
+    "general_stc": [
+        "龛"
+    ],
+    "general_ytz": [
+        "龛",
+        "𪚕",
+        "𪚡"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9F95",
+            "3412514143125111515111"
+        ],
+        "char_code_wubi": "wgkd",
+        "char_code_cangjie": "orybp",
+        "char_code_zhengma": "odjs",
+        "char_code_sijiao": "80211"
+    },
+    "general_unicode": "基本区 U+9F95",
+    "general_bs_code": "3412514143125111515111"
+}

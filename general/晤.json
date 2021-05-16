@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "have interview with; meet"
+        },
+        {
+            "language": "德语",
+            "explanation": "nachkommen, begegnen"
+        },
+        {
+            "language": "法语",
+            "explanation": "se voir,avoir une entrevue"
+        }
+    ],
+    "general_pinyins": [
+        "wù"
+    ],
+    "general_zhuyins": [
+        "ㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "旿",
+        "𣅎"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6664",
+            "25111251251"
+        ],
+        "char_code_wubi": "jgkg",
+        "char_code_cangjie": "ammr",
+        "char_code_zhengma": "kbxj",
+        "char_code_sijiao": "61061"
+    },
+    "general_unicode": "基本区 U+6664",
+    "general_bs_code": "25111251251"
+}

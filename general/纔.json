@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "talent, ability; just, only"
+        },
+        {
+            "language": "法语",
+            "explanation": "capacité,talent,tout juste,à peine,ne... que,seulement,(utilisé pour renforcer le ton)​"
+        }
+    ],
+    "general_pinyins": [
+        "cái"
+    ],
+    "general_zhuyins": [
+        "ㄘㄞˊ"
+    ],
+    "general_radical": {
+        "radical": "糹",
+        "non_radical_sn": "17",
+        "total_sn": "23"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "才",
+        "毚",
+        "𦂯",
+        "𦆵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7E94",
+            "55444435251153535251354"
+        ],
+        "char_code_wubi": "xqky",
+        "char_code_cangjie": "vfnri",
+        "char_code_zhengma": "zrrs",
+        "char_code_sijiao": "27913"
+    },
+    "general_unicode": "基本区 U+7E94",
+    "general_bs_code": "55444435251153535251354"
+}

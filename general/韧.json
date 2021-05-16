@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "strong and pliable, resilient"
+        },
+        {
+            "language": "法语",
+            "explanation": "flexible,tenace"
+        }
+    ],
+    "general_pinyins": [
+        "rèn"
+    ],
+    "general_zhuyins": [
+        "ㄖㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "韦",
+        "non_radical_sn": "3",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "韌"
+    ],
+    "general_ytz": [
+        "韌",
+        "肕",
+        "靭",
+        "靱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "97E7",
+            "1152534"
+        ],
+        "char_code_wubi": "fnhy",
+        "char_code_cangjie": "qsshi",
+        "char_code_zhengma": "biys",
+        "char_code_sijiao": "57020"
+    },
+    "general_unicode": "基本区 U+97E7",
+    "general_bs_code": "1152534"
+}

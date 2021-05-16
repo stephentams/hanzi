@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "type of raspberry; fairyland"
+        },
+        {
+            "language": "德语",
+            "explanation": "Plane ( für Auto, Boote etc )​  (S)​,Segel  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "échevelé,touffu"
+        }
+    ],
+    "general_pinyins": [
+        "péng"
+    ],
+    "general_zhuyins": [
+        "ㄆㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣟀",
+        "𦿪",
+        "莑",
+        "纄",
+        "鑝"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "84EC",
+            "1223541112454"
+        ],
+        "char_code_wubi": "atdp",
+        "char_code_cangjie": "tyhj",
+        "char_code_zhengma": "ercw",
+        "char_code_sijiao": "44305"
+    },
+    "general_unicode": "基本区 U+84EC",
+    "general_bs_code": "1223541112454"
+}

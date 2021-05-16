@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bracelet, armlet"
+        },
+        {
+            "language": "法语",
+            "explanation": "bracelet"
+        }
+    ],
+    "general_pinyins": [
+        "chuàn"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "3",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "釧"
+    ],
+    "general_ytz": [
+        "釧",
+        "玔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "948F",
+            "31115322"
+        ],
+        "char_code_wubi": "qkh",
+        "char_code_cangjie": "oplll",
+        "char_code_zhengma": "pnd",
+        "char_code_sijiao": "82700"
+    },
+    "general_unicode": "基本区 U+948F",
+    "general_bs_code": "31115322"
+}

@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dig, excavate; excavate cave"
+        },
+        {
+            "language": "法语",
+            "explanation": "creuser"
+        }
+    ],
+    "general_pinyins": [
+        "jué"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "撅",
+        "欮",
+        "𢴺",
+        "𢶵",
+        "𢬝",
+        "𣔭"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6398",
+            "12151352252"
+        ],
+        "char_code_wubi": "rnbm",
+        "char_code_cangjie": "qsuu",
+        "char_code_zhengma": "dxzz",
+        "char_code_sijiao": "57072"
+    },
+    "general_unicode": "基本区 U+6398",
+    "general_bs_code": "12151352252"
+}

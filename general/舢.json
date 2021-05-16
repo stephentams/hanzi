@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sampan"
+        },
+        {
+            "language": "德语",
+            "explanation": "Sampan  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "sampan"
+        }
+    ],
+    "general_pinyins": [
+        "shān"
+    ],
+    "general_zhuyins": [
+        "ㄕㄢ"
+    ],
+    "general_radical": {
+        "radical": "舟",
+        "non_radical_sn": "3",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8222",
+            "335414251"
+        ],
+        "char_code_wubi": "temh|tumh",
+        "char_code_cangjie": "hyu",
+        "char_code_zhengma": "pyll",
+        "char_code_sijiao": "22470"
+    },
+    "general_unicode": "基本区 U+8222",
+    "general_bs_code": "335414251"
+}

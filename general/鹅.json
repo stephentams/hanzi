@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "goose"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gans, Gänse (S, Bio)"
+        }
+    ],
+    "general_pinyins": [
+        "é"
+    ],
+    "general_zhuyins": [
+        "ㄜˊ"
+    ],
+    "general_radical": {
+        "radical": "鸟",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "鵝"
+    ],
+    "general_ytz": [
+        "鵝",
+        "鵞",
+        "䳗",
+        "䳘",
+        "𨿍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E45",
+            "312153435451"
+        ],
+        "char_code_wubi": "trng",
+        "char_code_cangjie": "hipym",
+        "char_code_zhengma": "mdhr",
+        "char_code_sijiao": "27527"
+    },
+    "general_unicode": "基本区 U+9E45",
+    "general_bs_code": "312153435451"
+}

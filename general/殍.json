@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to starve to death"
+        },
+        {
+            "language": "法语",
+            "explanation": "mourir de faim"
+        }
+    ],
+    "general_pinyins": [
+        "piǎo"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "歹",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣧶",
+        "𣨈",
+        "𦖀",
+        "𦹡",
+        "𩛞"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6B8D",
+            "13543443521"
+        ],
+        "char_code_wubi": "gqeb",
+        "char_code_cangjie": "mnbnd",
+        "char_code_zhengma": "arpy",
+        "char_code_sijiao": "12247"
+    },
+    "general_unicode": "基本区 U+6B8D",
+    "general_bs_code": "13543443521"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "old man; father, father-in-law"
+        },
+        {
+            "language": "德语",
+            "explanation": "Weng  (Eig, Fam)​,alter Mann"
+        },
+        {
+            "language": "法语",
+            "explanation": "vieillard"
+        }
+    ],
+    "general_pinyins": [
+        "wēng"
+    ],
+    "general_zhuyins": [
+        "ㄨㄥ"
+    ],
+    "general_radical": {
+        "radical": "羽",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣸜",
+        "𩔚",
+        "𪂔"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7FC1",
+            "3454541541"
+        ],
+        "char_code_wubi": "wcnf",
+        "char_code_cangjie": "cism",
+        "char_code_zhengma": "ozyy",
+        "char_code_sijiao": "80127"
+    },
+    "general_unicode": "基本区 U+7FC1",
+    "general_bs_code": "3454541541"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "coarse woolen cloth; dull, dark"
+        },
+        {
+            "language": "德语",
+            "explanation": "braun gebraten ,braun  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "brun (couleur)​"
+        }
+    ],
+    "general_pinyins": [
+        "hè"
+    ],
+    "general_zhuyins": [
+        "ㄏㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "衤",
+        "non_radical_sn": "9",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧝶",
+        "𧝽",
+        "𣮷",
+        "𣯇",
+        "褐"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8910",
+            "45234251135345"
+        ],
+        "char_code_wubi": "pujn",
+        "char_code_cangjie": "lapv",
+        "char_code_zhengma": "wtkr",
+        "char_code_sijiao": "36227"
+    },
+    "general_unicode": "基本区 U+8910",
+    "general_bs_code": "45234251135345"
+}

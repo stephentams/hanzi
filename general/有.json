@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "have, own, possess; exist"
+        },
+        {
+            "language": "德语",
+            "explanation": "existieren  (V)​,haben  (V)​,es gibt"
+        },
+        {
+            "language": "法语",
+            "explanation": "avoir,posséder,il y a,exister"
+        }
+    ],
+    "general_pinyins": [
+        "yǒu",
+        "yòu"
+    ],
+    "general_zhuyins": [
+        "ㄧㄡˇ",
+        "ㄧㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "2",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢇔",
+        "洧",
+        "𠂇",
+        "𪠥"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6709",
+            "132511"
+        ],
+        "char_code_wubi": "def",
+        "char_code_cangjie": "kb",
+        "char_code_zhengma": "gdq",
+        "char_code_sijiao": "40227"
+    },
+    "general_unicode": "基本区 U+6709",
+    "general_bs_code": "132511"
+}

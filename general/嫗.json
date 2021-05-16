@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "old woman, hag"
+        },
+        {
+            "language": "德语",
+            "explanation": "beschützen, protektieren"
+        },
+        {
+            "language": "法语",
+            "explanation": "vieille femme"
+        }
+    ],
+    "general_pinyins": [
+        "yù"
+    ],
+    "general_zhuyins": [
+        "ㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "妪"
+    ],
+    "general_ytz": [
+        "妪"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5AD7",
+            "53112512512515"
+        ],
+        "char_code_wubi": "vakk",
+        "char_code_cangjie": "vsrr",
+        "char_code_zhengma": "zmjj",
+        "char_code_sijiao": "41416"
+    },
+    "general_unicode": "基本区 U+5AD7",
+    "general_bs_code": "53112512512515"
+}

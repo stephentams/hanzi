@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hesitate, waver, falter"
+        },
+        {
+            "language": "法语",
+            "explanation": "irrésolu,indécis"
+        }
+    ],
+    "general_pinyins": [
+        "chú"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "12",
+        "total_sn": "19"
+    },
+    "general_stc": [
+        "躕"
+    ],
+    "general_ytz": [
+        "䟞",
+        "躕",
+        "𢣵",
+        "𨅒",
+        "𨆼"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E70",
+            "2512121131251431124"
+        ],
+        "char_code_wubi": "khdf",
+        "char_code_cangjie": "rmmmi",
+        "char_code_zhengma": "jiud",
+        "char_code_sijiao": "61140"
+    },
+    "general_unicode": "基本区 U+8E70",
+    "general_bs_code": "2512121131251431124"
+}

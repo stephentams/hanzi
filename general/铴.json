@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "gong"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kleiner Gong (Musikinstrument)​  (S, Mus)"
+        }
+    ],
+    "general_pinyins": [
+        "tàng",
+        "tāng"
+    ],
+    "general_zhuyins": [
+        "ㄊㄤˋ",
+        "ㄊㄤ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "鐋"
+    ],
+    "general_ytz": [
+        "鐋",
+        "𨧩"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94F4",
+            "31115441533"
+        ],
+        "char_code_wubi": "qinr",
+        "char_code_cangjie": "openh",
+        "char_code_zhengma": "pvyo",
+        "char_code_sijiao": "87727"
+    },
+    "general_unicode": "基本区 U+94F4",
+    "general_bs_code": "31115441533"
+}

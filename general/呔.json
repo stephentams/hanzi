@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(Cant.) a necktie, a tire"
+        },
+        {
+            "language": "德语",
+            "explanation": "ein lauter und plötzlicher Ruf oder Schrei, um Aufmerksamkeit auf sich zu ziehen (Int)"
+        },
+        {
+            "language": "法语",
+            "explanation": "Peptide"
+        }
+    ],
+    "general_pinyins": [
+        "dāi"
+    ],
+    "general_zhuyins": [
+        "ㄉㄞ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠯪"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5454",
+            "2511344"
+        ],
+        "char_code_wubi": "kdyy",
+        "char_code_cangjie": "rki",
+        "char_code_zhengma": "jgs",
+        "char_code_sijiao": "64030"
+    },
+    "general_unicode": "基本区 U+5454",
+    "general_bs_code": "2511344"
+}

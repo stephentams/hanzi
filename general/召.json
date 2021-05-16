@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "imperial decree; summon"
+        },
+        {
+            "language": "德语",
+            "explanation": "auffordern, herbeizitieren ,berufen, versammeln ,zusammenberufen ,Zhao  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "convoquer,faire venir,(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "zhào",
+        "shào"
+    ],
+    "general_zhuyins": [
+        "ㄓㄠˋ",
+        "ㄕㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "2",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠮥",
+        "𠮦",
+        "𥃝",
+        "邵"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "53EC",
+            "53251"
+        ],
+        "char_code_wubi": "vkf",
+        "char_code_cangjie": "shr",
+        "char_code_zhengma": "ydj",
+        "char_code_sijiao": "17602"
+    },
+    "general_unicode": "基本区 U+53EC",
+    "general_bs_code": "53251"
+}

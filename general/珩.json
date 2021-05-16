@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "the top gem of the pendants"
+        },
+        {
+            "language": "法语",
+            "explanation": "bijoux de ceinture"
+        }
+    ],
+    "general_pinyins": [
+        "héng"
+    ],
+    "general_zhuyins": [
+        "ㄏㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "73E9",
+            "1121332112"
+        ],
+        "char_code_wubi": "gtfh|gtgs",
+        "char_code_cangjie": "mghon",
+        "char_code_zhengma": "coi",
+        "char_code_sijiao": "11121"
+    },
+    "general_unicode": "基本区 U+73E9",
+    "general_bs_code": "1121332112"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "flying; assist, help; respect"
+        },
+        {
+            "language": "德语",
+            "explanation": "achten, respektieren"
+        },
+        {
+            "language": "法语",
+            "explanation": "assister,épauler,respecter,honorer,voltigeant,prochain,suivant"
+        }
+    ],
+    "general_pinyins": [
+        "yì"
+    ],
+    "general_zhuyins": [
+        "ㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "羽",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "翌"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7FCA",
+            "41431541541"
+        ],
+        "char_code_wubi": "ung",
+        "char_code_cangjie": "ytsmm",
+        "char_code_zhengma": "suyy",
+        "char_code_sijiao": "07120"
+    },
+    "general_unicode": "基本区 U+7FCA",
+    "general_bs_code": "41431541541"
+}

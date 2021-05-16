@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "contract, draw in, reduce"
+        },
+        {
+            "language": "德语",
+            "explanation": "annullieren, abziehen ,einschrumpfen, schrumpfen ,erkranken an, Vertrag abschließen ,herabsetzen, ermäßigen ,Suo  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "réduire,contracter,se pelotonner,se retirer"
+        }
+    ],
+    "general_pinyins": [
+        "suō",
+        "sù"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨㄛ",
+        "ㄙㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "縮"
+    ],
+    "general_ytz": [
+        "縮",
+        "𣩐",
+        "𦄲",
+        "𦟱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F29",
+            "55144532132511"
+        ],
+        "char_code_wubi": "xpwj",
+        "char_code_cangjie": "vmjoa",
+        "char_code_zhengma": "zwan",
+        "char_code_sijiao": "23162"
+    },
+    "general_unicode": "基本区 U+7F29",
+    "general_bs_code": "55144532132511"
+}

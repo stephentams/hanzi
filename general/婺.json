@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "name of a star"
+        },
+        {
+            "language": "德语",
+            "explanation": "schön"
+        },
+        {
+            "language": "法语",
+            "explanation": "constellation"
+        }
+    ],
+    "general_pinyins": [
+        "wù"
+    ],
+    "general_zhuyins": [
+        "ㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5A7A",
+            "545233134531"
+        ],
+        "char_code_wubi": "cbtv|cnhv",
+        "char_code_cangjie": "nkv",
+        "char_code_zhengma": "xsmz",
+        "char_code_sijiao": "18404"
+    },
+    "general_unicode": "基本区 U+5A7A",
+    "general_bs_code": "545233134531"
+}

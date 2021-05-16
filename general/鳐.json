@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "the nautilus; the ray"
+        },
+        {
+            "language": "德语",
+            "explanation": "Rochen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "batoïde"
+        }
+    ],
+    "general_pinyins": [
+        "yáo"
+    ],
+    "general_zhuyins": [
+        "ㄧㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "10",
+        "total_sn": "18"
+    },
+    "general_stc": [
+        "鰩"
+    ],
+    "general_ytz": [
+        "鰩"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9CD0",
+            "352512113443311252"
+        ],
+        "char_code_wubi": "qgem|qgeb",
+        "char_code_cangjie": "nmbou",
+        "char_code_zhengma": "rpez",
+        "char_code_sijiao": "22172"
+    },
+    "general_unicode": "基本区 U+9CD0",
+    "general_bs_code": "352512113443311252"
+}

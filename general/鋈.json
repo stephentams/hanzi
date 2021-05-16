@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "silver plating"
+        },
+        {
+            "language": "德语",
+            "explanation": "platinieren ,plattieren, überziehen (Z. B. mit Gold oder Silber überziehen)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "argenter,plaquer (métal)​"
+        }
+    ],
+    "general_pinyins": [
+        "wù"
+    ],
+    "general_zhuyins": [
+        "ㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "金",
+        "non_radical_sn": "7",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "92C8",
+            "441313434112431"
+        ],
+        "char_code_wubi": "itdq",
+        "char_code_cangjie": "ekc",
+        "char_code_zhengma": "vmgp",
+        "char_code_sijiao": "32109"
+    },
+    "general_unicode": "基本区 U+92C8",
+    "general_bs_code": "441313434112431"
+}

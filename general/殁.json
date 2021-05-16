@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "die; death; dead"
+        },
+        {
+            "language": "德语",
+            "explanation": "beenden, beendigen  (V)​,krepieren, verenden  (V)​,sterben  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "mourir"
+        }
+    ],
+    "general_pinyins": [
+        "mò"
+    ],
+    "general_zhuyins": [
+        "ㄇㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "歹",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "歿"
+    ],
+    "general_ytz": [
+        "刎",
+        "歾",
+        "歿",
+        "没",
+        "𣧒",
+        "𣨏",
+        "圽"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6B81",
+            "13543554"
+        ],
+        "char_code_wubi": "gqmc|gqwc",
+        "char_code_cangjie": "mnhne",
+        "char_code_zhengma": "arqx",
+        "char_code_sijiao": "17247"
+    },
+    "general_unicode": "基本区 U+6B81",
+    "general_bs_code": "13543554"
+}

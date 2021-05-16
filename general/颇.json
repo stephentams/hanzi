@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lean one side; very, rather"
+        },
+        {
+            "language": "德语",
+            "explanation": "ganz, vollständig  (Adj)​,parteiisch  (Adj)​,recht  (Adj)​,ziemlich  (Adj)​,ziemlich, beträchtlich  (Adj)​,beträchtlich ,zu einer Seite geneigt"
+        },
+        {
+            "language": "法语",
+            "explanation": "assez,plutôt,quelque peu,un peu"
+        }
+    ],
+    "general_pinyins": [
+        "pō"
+    ],
+    "general_zhuyins": [
+        "ㄆㄛ"
+    ],
+    "general_radical": {
+        "radical": "页",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "頗"
+    ],
+    "general_ytz": [
+        "頗",
+        "𩑼"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9887",
+            "53254132534"
+        ],
+        "char_code_wubi": "hcdm|bdmy",
+        "char_code_cangjie": "dembo",
+        "char_code_zhengma": "xigo",
+        "char_code_sijiao": "41282"
+    },
+    "general_unicode": "基本区 U+9887",
+    "general_bs_code": "53254132534"
+}

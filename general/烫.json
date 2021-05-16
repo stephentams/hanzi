@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "scald, heat; wash; iron clothes"
+        },
+        {
+            "language": "德语",
+            "explanation": "scharf, heiß ,bügeln, plätten  (V)​,blanchieren, überbrühen, brühen  (V, Ess)​,verbrühen, verbrennen, verheizen  (V)​,heiß, scharf  (Adj)​,verbrannt, verbrüht  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "très chaud,brûlant,brûler,chauffer,repasser"
+        }
+    ],
+    "general_pinyins": [
+        "tàng"
+    ],
+    "general_zhuyins": [
+        "ㄊㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "燙"
+    ],
+    "general_ytz": [
+        "燙"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "70EB",
+            "4415334334"
+        ],
+        "char_code_wubi": "inro",
+        "char_code_cangjie": "ehf",
+        "char_code_zhengma": "vyou",
+        "char_code_sijiao": "37809"
+    },
+    "general_unicode": "基本区 U+70EB",
+    "general_bs_code": "4415334334"
+}

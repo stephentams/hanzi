@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stove; bright"
+        },
+        {
+            "language": "德语",
+            "explanation": "Hacke  (S, Tech)​,Haue  (S, Tech)​,hell, klar  (S)​,Picke  (S, Tech)"
+        },
+        {
+            "language": "法语",
+            "explanation": "lumineux,nom de lieu,poêle"
+        }
+    ],
+    "general_pinyins": [
+        "gǎo",
+        "hào"
+    ],
+    "general_zhuyins": [
+        "ㄍㄠˇ",
+        "ㄏㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "10",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "鎬"
+    ],
+    "general_ytz": [
+        "鎬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9550",
+            "311154125125251"
+        ],
+        "char_code_wubi": "qymk",
+        "char_code_cangjie": "opyrb",
+        "char_code_zhengma": "psjl",
+        "char_code_sijiao": "80727"
+    },
+    "general_unicode": "基本区 U+9550",
+    "general_bs_code": "311154125125251"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "relieve, aid distressed; rich"
+        },
+        {
+            "language": "德语",
+            "explanation": "befreien, erleichtern ,helfen, materiell unterstützen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "secourir par charité"
+        }
+    ],
+    "general_pinyins": [
+        "zhèn"
+    ],
+    "general_zhuyins": [
+        "ㄓㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "賑"
+    ],
+    "general_ytz": [
+        "賑",
+        "䝩",
+        "𧵉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D48",
+            "25341311534"
+        ],
+        "char_code_wubi": "mdfe",
+        "char_code_cangjie": "bommv",
+        "char_code_zhengma": "logh",
+        "char_code_sijiao": "71832"
+    },
+    "general_unicode": "基本区 U+8D48",
+    "general_bs_code": "25341311534"
+}

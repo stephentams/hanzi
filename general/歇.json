@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rest, stop, lodge"
+        },
+        {
+            "language": "德语",
+            "explanation": "ausruhen, bleiben"
+        },
+        {
+            "language": "法语",
+            "explanation": "se reposer,cesser,faire une pause"
+        }
+    ],
+    "general_pinyins": [
+        "xiē"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄝ"
+    ],
+    "general_radical": {
+        "radical": "欠",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6B47",
+            "2511353453534"
+        ],
+        "char_code_wubi": "jqww",
+        "char_code_cangjie": "avno",
+        "char_code_zhengma": "krro",
+        "char_code_sijiao": "67782"
+    },
+    "general_unicode": "基本区 U+6B47",
+    "general_bs_code": "2511353453534"
+}

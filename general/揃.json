@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "shear; (Cant.) to skin an animal"
+        }
+    ],
+    "general_pinyins": [
+        "jiǎn",
+        "jiān"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢˇ",
+        "ㄐㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㨵",
+        "𢵏",
+        "𢶕",
+        "𢸄",
+        "箋",
+        "籤"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "63C3",
+            "121431251122"
+        ],
+        "char_code_wubi": "ruej",
+        "char_code_cangjie": "qtbn",
+        "char_code_zhengma": "duqk",
+        "char_code_sijiao": "58021"
+    },
+    "general_unicode": "基本区 U+63C3",
+    "general_bs_code": "121431251122"
+}

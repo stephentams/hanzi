@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wether, castrated ram; deer skin"
+        },
+        {
+            "language": "法语",
+            "explanation": "bélier castré,branche des Huns vivant dans le nord de la Chine antique"
+        }
+    ],
+    "general_pinyins": [
+        "jié"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "羊",
+        "non_radical_sn": "9",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦍨",
+        "𦍾"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7FAF",
+            "431113251135345"
+        ],
+        "char_code_wubi": "udjn|ujqn",
+        "char_code_cangjie": "tqapv",
+        "char_code_zhengma": "uckr",
+        "char_code_sijiao": "86527"
+    },
+    "general_unicode": "基本区 U+7FAF",
+    "general_bs_code": "431113251135345"
+}

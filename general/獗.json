@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "unruly, wild, violent, lawless"
+        },
+        {
+            "language": "德语",
+            "explanation": "unanständig, unhöflich"
+        },
+        {
+            "language": "法语",
+            "explanation": "féroce"
+        }
+    ],
+    "general_pinyins": [
+        "jué"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7357",
+            "353134315233534"
+        ],
+        "char_code_wubi": "qtdw",
+        "char_code_cangjie": "khmto",
+        "char_code_zhengma": "qmzr",
+        "char_code_sijiao": "41282"
+    },
+    "general_unicode": "基本区 U+7357",
+    "general_bs_code": "353134315233534"
+}

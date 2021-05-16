@@ -1,0 +1,59 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "old man; elder"
+        },
+        {
+            "language": "德语",
+            "explanation": "(English: old gentleman)​ ,alter Herr"
+        },
+        {
+            "language": "法语",
+            "explanation": "vieillard,Mr"
+        }
+    ],
+    "general_pinyins": [
+        "sǒu"
+    ],
+    "general_zhuyins": [
+        "ㄙㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "又",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "傁",
+        "叜",
+        "𠊗",
+        "𠊯",
+        "𠋢",
+        "𠌌",
+        "𠪇",
+        "𠬲",
+        "𡨎",
+        "𡨙",
+        "𡨝",
+        "𡨨",
+        "𡨼",
+        "搜",
+        "𠌞",
+        "𠌟"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "53DF",
+            "321511254"
+        ],
+        "char_code_wubi": "vhcu|ehcu",
+        "char_code_cangjie": "hxle",
+        "char_code_zhengma": "nbxs",
+        "char_code_sijiao": "77407"
+    },
+    "general_unicode": "基本区 U+53DF",
+    "general_bs_code": "321511254"
+}

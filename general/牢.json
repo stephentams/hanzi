@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "prison; stable, pen; secure"
+        },
+        {
+            "language": "德语",
+            "explanation": "fest ,Lao  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "enclos,sacrifice,prison,solide"
+        }
+    ],
+    "general_pinyins": [
+        "láo"
+    ],
+    "general_zhuyins": [
+        "ㄌㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "牛",
+        "non_radical_sn": "3",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "窂",
+        "𡕘",
+        "𡘠",
+        "𤘰",
+        "𥥑",
+        "牢"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7262",
+            "4453112"
+        ],
+        "char_code_wubi": "prhj|ptgj",
+        "char_code_cangjie": "jhq",
+        "char_code_zhengma": "wdmb",
+        "char_code_sijiao": "30502"
+    },
+    "general_unicode": "基本区 U+7262",
+    "general_bs_code": "4453112"
+}

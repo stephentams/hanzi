@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "seal, close; bind; letter"
+        },
+        {
+            "language": "德语",
+            "explanation": "abschließen, schließen ,Buchstaben  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cacheter,sceller,fermer"
+        }
+    ],
+    "general_pinyins": [
+        "jiān"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "緘"
+    ],
+    "general_ytz": [
+        "緘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F04",
+            "551131251534"
+        ],
+        "char_code_wubi": "xdgt|xdgk",
+        "char_code_cangjie": "vmihr",
+        "char_code_zhengma": "zhaj",
+        "char_code_sijiao": "23150"
+    },
+    "general_unicode": "基本区 U+7F04",
+    "general_bs_code": "551131251534"
+}

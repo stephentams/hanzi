@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "detailed, fine; closely woven"
+        }
+    ],
+    "general_pinyins": [
+        "zhěn"
+    ],
+    "general_zhuyins": [
+        "ㄓㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "縝"
+    ],
+    "general_ytz": [
+        "縝",
+        "𣞟"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F1C",
+            "5511225111134"
+        ],
+        "char_code_wubi": "xfhw",
+        "char_code_cangjie": "vmjbc",
+        "char_code_zhengma": "zelo",
+        "char_code_sijiao": "24181"
+    },
+    "general_unicode": "基本区 U+7F1C",
+    "general_bs_code": "5511225111134"
+}

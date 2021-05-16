@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rise, steam; many, numerous"
+        },
+        {
+            "language": "德语",
+            "explanation": "fortschreiten, vorrücken"
+        }
+    ],
+    "general_pinyins": [
+        "zhēng"
+    ],
+    "general_zhuyins": [
+        "ㄓㄥ"
+    ],
+    "general_radical": {
+        "radical": "灬",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㷥",
+        "𤇏",
+        "𤇶",
+        "蒸"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "70DD",
+            "5253414444"
+        ],
+        "char_code_wubi": "bigo",
+        "char_code_cangjie": "nemf",
+        "char_code_zhengma": "xkau",
+        "char_code_sijiao": "17331"
+    },
+    "general_unicode": "基本区 U+70DD",
+    "general_bs_code": "5253414444"
+}

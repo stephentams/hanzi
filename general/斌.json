@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "refined, having both appearance"
+        },
+        {
+            "language": "法语",
+            "explanation": "poli,qui observe les règles de la politesse,courtois"
+        }
+    ],
+    "general_pinyins": [
+        "bīn"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄣ"
+    ],
+    "general_radical": {
+        "radical": "文",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "彬",
+        "份"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "658C",
+            "413411212154"
+        ],
+        "char_code_wubi": "ygah|ygay",
+        "char_code_cangjie": "ykmpm",
+        "char_code_zhengma": "sohi",
+        "char_code_sijiao": "03440"
+    },
+    "general_unicode": "基本区 U+658C",
+    "general_bs_code": "413411212154"
+}

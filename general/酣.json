@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "enjoy intoxicants"
+        },
+        {
+            "language": "德语",
+            "explanation": "betrunken, betäubte"
+        },
+        {
+            "language": "法语",
+            "explanation": "ivre,s'enivrer"
+        }
+    ],
+    "general_pinyins": [
+        "hān"
+    ],
+    "general_zhuyins": [
+        "ㄏㄢ"
+    ],
+    "general_radical": {
+        "radical": "酉",
+        "non_radical_sn": "5",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䣻",
+        "佄",
+        "甘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9163",
+            "125351112211"
+        ],
+        "char_code_wubi": "sgaf|sgfg",
+        "char_code_cangjie": "mwtm",
+        "char_code_zhengma": "fdeb",
+        "char_code_sijiao": "14670"
+    },
+    "general_unicode": "基本区 U+9163",
+    "general_bs_code": "125351112211"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "德语",
+            "explanation": "lacken, lackieren  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "laque rouge,laquer"
+        }
+    ],
+    "general_pinyins": [
+        "xiū"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄡ"
+    ],
+    "general_radical": {
+        "radical": "髟",
+        "non_radical_sn": "6",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "髤",
+        "𩮥",
+        "䰍",
+        "𩭘",
+        "𩮄"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9AF9",
+            "1211154333321234"
+        ],
+        "char_code_wubi": "dews",
+        "char_code_cangjie": "shod",
+        "char_code_zhengma": "chnf",
+        "char_code_sijiao": "72294"
+    },
+    "general_unicode": "基本区 U+9AF9",
+    "general_bs_code": "1211154333321234"
+}

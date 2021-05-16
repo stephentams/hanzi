@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "leisure, leisurely; hurry about"
+        },
+        {
+            "language": "德语",
+            "explanation": "Freizeit"
+        },
+        {
+            "language": "法语",
+            "explanation": "loisir,repos,inoccupé,insouciant"
+        }
+    ],
+    "general_pinyins": [
+        "huáng"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "徨",
+        "偟",
+        "𪪱"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9051",
+            "325111121454"
+        ],
+        "char_code_wubi": "rgpd",
+        "char_code_cangjie": "yhag",
+        "char_code_zhengma": "nkcw",
+        "char_code_sijiao": "36301"
+    },
+    "general_unicode": "基本区 U+9051",
+    "general_bs_code": "325111121454"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dress corpse for burial"
+        },
+        {
+            "language": "德语",
+            "explanation": "einsargen, aufbahren  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "habiller un mort,ensevelir"
+        }
+    ],
+    "general_pinyins": [
+        "liàn"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "歹",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "殮"
+    ],
+    "general_ytz": [
+        "殮",
+        "㱨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6B93",
+            "13543414431"
+        ],
+        "char_code_wubi": "gqwi|gqwg",
+        "char_code_cangjie": "mnomm",
+        "char_code_zhengma": "arbv",
+        "char_code_sijiao": "18219"
+    },
+    "general_unicode": "基本区 U+6B93",
+    "general_bs_code": "13543414431"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "blocked or separated; to prevent"
+        },
+        {
+            "language": "德语",
+            "explanation": "versperren"
+        },
+        {
+            "language": "法语",
+            "explanation": "faire obstacle,empêcher,obstruer"
+        }
+    ],
+    "general_pinyins": [
+        "hé"
+    ],
+    "general_zhuyins": [
+        "ㄏㄜˊ"
+    ],
+    "general_radical": {
+        "radical": "门",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "閡"
+    ],
+    "general_ytz": [
+        "閡",
+        "𨵵"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9602",
+            "425415334"
+        ],
+        "char_code_wubi": "uynw",
+        "char_code_cangjie": "lsyvo",
+        "char_code_zhengma": "tlzo",
+        "char_code_sijiao": "37802"
+    },
+    "general_unicode": "基本区 U+9602",
+    "general_bs_code": "425415334"
+}

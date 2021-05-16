@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "meet or see unexpectedly"
+        },
+        {
+            "language": "德语",
+            "explanation": "begegnen, treffen  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "rencontrer"
+        }
+    ],
+    "general_pinyins": [
+        "gòu"
+    ],
+    "general_zhuyins": [
+        "ㄍㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "见",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "覯"
+    ],
+    "general_ytz": [
+        "覯",
+        "𧡔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "89CF",
+            "11221252112535"
+        ],
+        "char_code_wubi": "fjgq|amfq",
+        "char_code_cangjie": "tbbhu",
+        "char_code_zhengma": "ebbl",
+        "char_code_sijiao": "57412"
+    },
+    "general_unicode": "基本区 U+89CF",
+    "general_bs_code": "11221252112535"
+}

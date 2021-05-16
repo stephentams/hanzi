@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "name of a state; surname"
+        },
+        {
+            "language": "德语",
+            "explanation": "Zou (Familienname)​  (Eig)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bourg natal de Confucius"
+        }
+    ],
+    "general_pinyins": [
+        "zōu"
+    ],
+    "general_zhuyins": [
+        "ㄗㄡ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "14",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "郰",
+        "𨜈",
+        "聚",
+        "鄒",
+        "𨝮",
+        "𨞮"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9139",
+            "1221115432333452"
+        ],
+        "char_code_wubi": "bctb|bcib",
+        "char_code_cangjie": "sonl",
+        "char_code_zhengma": "cegy",
+        "char_code_sijiao": "17227"
+    },
+    "general_unicode": "基本区 U+9139",
+    "general_bs_code": "1221115432333452"
+}

@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "the rising moon"
+        },
+        {
+            "language": "德语",
+            "explanation": "das Licht des aufgehenden Mondes"
+        }
+    ],
+    "general_pinyins": [
+        "tóng",
+        "chuáng"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄥˊ",
+        "ㄔㄨㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "12",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6723",
+            "3511414312511211"
+        ],
+        "char_code_wubi": "eujf",
+        "char_code_cangjie": "bytg",
+        "char_code_zhengma": "qskb",
+        "char_code_sijiao": "70215"
+    },
+    "general_unicode": "基本区 U+6723",
+    "general_bs_code": "3511414312511211"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "say, tell; call, name; be called"
+        },
+        {
+            "language": "德语",
+            "explanation": "sagen, nennen, heißen, Sinn, Bedeutung  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "dire,adresser la parole,désigner,sens"
+        }
+    ],
+    "general_pinyins": [
+        "wèi"
+    ],
+    "general_zhuyins": [
+        "ㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "謂"
+    ],
+    "general_ytz": [
+        "謂",
+        "𧬴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C13",
+            "45251212511"
+        ],
+        "char_code_wubi": "yleg",
+        "char_code_cangjie": "ivwb",
+        "char_code_zhengma": "skq",
+        "char_code_sijiao": "36727"
+    },
+    "general_unicode": "基本区 U+8C13",
+    "general_bs_code": "45251212511"
+}

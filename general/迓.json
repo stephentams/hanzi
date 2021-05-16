@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to go to meet, to receive, as a guest"
+        },
+        {
+            "language": "德语",
+            "explanation": "erhalten, retten"
+        },
+        {
+            "language": "法语",
+            "explanation": "aller au devant,rencontrer"
+        }
+    ],
+    "general_pinyins": [
+        "yà"
+    ],
+    "general_zhuyins": [
+        "ㄧㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨓃",
+        "訝",
+        "𨓴"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8FD3",
+            "1523454"
+        ],
+        "char_code_wubi": "ahtp",
+        "char_code_cangjie": "ymvh",
+        "char_code_zhengma": "hiw",
+        "char_code_sijiao": "31304"
+    },
+    "general_unicode": "基本区 U+8FD3",
+    "general_bs_code": "1523454"
+}

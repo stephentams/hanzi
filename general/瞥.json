@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "take fleeting glance at"
+        },
+        {
+            "language": "德语",
+            "explanation": "mit den Augen blinzeln ,Glanz  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "entr'apercevoir"
+        }
+    ],
+    "general_pinyins": [
+        "piē"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧㄝ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "11",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "撇",
+        "覕",
+        "𧢍",
+        "𥋗"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "77A5",
+            "4325234313425111"
+        ],
+        "char_code_wubi": "umih|ithf",
+        "char_code_cangjie": "fkbu",
+        "char_code_zhengma": "kvml",
+        "char_code_sijiao": "98604"
+    },
+    "general_unicode": "基本区 U+77A5",
+    "general_bs_code": "4325234313425111"
+}

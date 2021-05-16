@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rocky; plenty of stones and rocks (same as 磈) piles of rugged stones; lumpy and uneven rocks"
+        }
+    ],
+    "general_pinyins": [
+        "wěi"
+    ],
+    "general_zhuyins": [
+        "ㄨㄟˇ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "12",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡼊",
+        "磈"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "40EC",
+            "13251252325113554"
+        ],
+        "char_code_wubi": "dmrc",
+        "char_code_cangjie": "mruhi",
+        "char_code_zhengma": "glnj",
+        "char_code_sijiao": "12613"
+    },
+    "general_unicode": "扩展A U+40EC",
+    "general_bs_code": "13251252325113554"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tartar horn; chilly wind"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fieber  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cor tartare"
+        }
+    ],
+    "general_pinyins": [
+        "bì"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "角",
+        "non_radical_sn": "9",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧤅",
+        "𧥀",
+        "𧥑",
+        "𥷑"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "89F1",
+            "1312515343535112"
+        ],
+        "char_code_wubi": "dgke",
+        "char_code_cangjie": "irnbg",
+        "char_code_zhengma": "hmrl",
+        "char_code_sijiao": "53227"
+    },
+    "general_unicode": "基本区 U+89F1",
+    "general_bs_code": "1312515343535112"
+}

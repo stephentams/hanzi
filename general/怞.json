@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to grieve; sorrowful"
+        }
+    ],
+    "general_pinyins": [
+        "yóu",
+        "chóu"
+    ],
+    "general_zhuyins": [
+        "ㄧㄡˊ",
+        "ㄔㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㾄"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "601E",
+            "44225121"
+        ],
+        "char_code_wubi": "nmg",
+        "char_code_cangjie": "plw",
+        "char_code_zhengma": "ukia",
+        "char_code_sijiao": "95060"
+    },
+    "general_unicode": "基本区 U+601E",
+    "general_bs_code": "44225121"
+}

@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "shape, form, pattern, style"
+        },
+        {
+            "language": "德语",
+            "explanation": "Art, Typ, Sorte  (S)​,Form, Stil  (S)​,Gestalt, Aussehen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "forme,modèle,aspect,air,sorte,espèce"
+        }
+    ],
+    "general_pinyins": [
+        "yàng"
+    ],
+    "general_zhuyins": [
+        "ㄧㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "樣"
+    ],
+    "general_ytz": [
+        "樣",
+        "様",
+        "㨾",
+        "𪮲"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6837",
+            "1234431112"
+        ],
+        "char_code_wubi": "sudh|suh",
+        "char_code_cangjie": "dtq",
+        "char_code_zhengma": "fuc",
+        "char_code_sijiao": "48951"
+    },
+    "general_unicode": "基本区 U+6837",
+    "general_bs_code": "1234431112"
+}

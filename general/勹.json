@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wrap; KangXi radical 20"
+        },
+        {
+            "language": "德语",
+            "explanation": "Radikal Nr. 20 = einwickeln, umarmen, umfassen"
+        },
+        {
+            "language": "法语",
+            "explanation": "envelopper (radical)​"
+        }
+    ],
+    "general_pinyins": [
+        "bāo"
+    ],
+    "general_zhuyins": [
+        "ㄅㄠ"
+    ],
+    "general_radical": {
+        "radical": "勹",
+        "non_radical_sn": "0",
+        "total_sn": "2"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "包"
+    ],
+    "general_structure": "单体结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "52F9",
+            "35"
+        ],
+        "char_code_wubi": "qtn",
+        "char_code_cangjie": "hs",
+        "char_code_zhengma": "ryaa",
+        "char_code_sijiao": "27020"
+    },
+    "general_unicode": "基本区 U+52F9",
+    "general_bs_code": "35"
+}

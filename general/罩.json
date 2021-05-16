@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "basket for catching fish; cover"
+        },
+        {
+            "language": "法语",
+            "explanation": "couvrir,couvercle,gaine,étui"
+        }
+    ],
+    "general_pinyins": [
+        "zhào"
+    ],
+    "general_zhuyins": [
+        "ㄓㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "罒",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䍜",
+        "箌",
+        "羄",
+        "𠟅",
+        "𥵢",
+        "𥵤",
+        "𦋇",
+        "𦋐",
+        "𦋚",
+        "𩷹",
+        "䈇",
+        "𠕭",
+        "𦋜"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F69",
+            "2522121251112"
+        ],
+        "char_code_wubi": "lhjj",
+        "char_code_cangjie": "wlyaj",
+        "char_code_zhengma": "lkke",
+        "char_code_sijiao": "60406"
+    },
+    "general_unicode": "基本区 U+7F69",
+    "general_bs_code": "2522121251112"
+}

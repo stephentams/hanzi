@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "boards which support tiles on roof"
+        },
+        {
+            "language": "德语",
+            "explanation": "beschränken, eng ,Ze  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "zuó",
+        "zé"
+    ],
+    "general_zhuyins": [
+        "ㄗㄨㄛˊ",
+        "ㄗㄜˊ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䇥",
+        "柞",
+        "𥬚",
+        "𥬛",
+        "𥯧",
+        "筰"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7B2E",
+            "31431431211"
+        ],
+        "char_code_wubi": "tthf",
+        "char_code_cangjie": "hos",
+        "char_code_zhengma": "mmid",
+        "char_code_sijiao": "88211"
+    },
+    "general_unicode": "基本区 U+7B2E",
+    "general_bs_code": "31431431211"
+}

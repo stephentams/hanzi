@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "glance, peep; roar, growl"
+        },
+        {
+            "language": "德语",
+            "explanation": "piepsen,  gucken ,Kan  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "regarder furtivement,jeter un coup d'oeil,lancer un regard"
+        }
+    ],
+    "general_pinyins": [
+        "kàn"
+    ],
+    "general_zhuyins": [
+        "ㄎㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "门",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "闞"
+    ],
+    "general_ytz": [
+        "闞",
+        "𨶞"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "961A",
+            "42551221113134"
+        ],
+        "char_code_wubi": "unbt",
+        "char_code_cangjie": "lsnjk",
+        "char_code_zhengma": "tlcm",
+        "char_code_sijiao": "37448"
+    },
+    "general_unicode": "基本区 U+961A",
+    "general_bs_code": "42551221113134"
+}

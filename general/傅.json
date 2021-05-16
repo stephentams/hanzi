@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tutor, teacher; assist; surname"
+        },
+        {
+            "language": "法语",
+            "explanation": "appliquer,mettre sur,maître"
+        }
+    ],
+    "general_pinyins": [
+        "fù"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "10",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠌽"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5085",
+            "321251124124"
+        ],
+        "char_code_wubi": "wgef|wsfy",
+        "char_code_cangjie": "oibi",
+        "char_code_zhengma": "nfds",
+        "char_code_sijiao": "23242"
+    },
+    "general_unicode": "基本区 U+5085",
+    "general_bs_code": "321251124124"
+}

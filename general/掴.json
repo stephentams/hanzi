@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "box one's ears, slap"
+        },
+        {
+            "language": "德语",
+            "explanation": "schlagen"
+        },
+        {
+            "language": "法语",
+            "explanation": "gifler,gifler"
+        }
+    ],
+    "general_pinyins": [
+        "guó",
+        "guāi"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄛˊ",
+        "ㄍㄨㄞˉ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "摑"
+    ],
+    "general_ytz": [
+        "摑",
+        "𢐚",
+        "𢧷",
+        "𢮎",
+        "𢹖",
+        "𢼛",
+        "𧤯"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "63B4",
+            "12125112141"
+        ],
+        "char_code_wubi": "rlgy",
+        "char_code_cangjie": "qwmi",
+        "char_code_zhengma": "djcs",
+        "char_code_sijiao": "56000"
+    },
+    "general_unicode": "基本区 U+63B4",
+    "general_bs_code": "12125112141"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "restrict, prohibit, forbid"
+        },
+        {
+            "language": "德语",
+            "explanation": "aushalten, ertragen  (V)​,untersagen, verbieten  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "interdire,défendre,contenir,empêcher,résister,supporter,endurer,se contenir"
+        }
+    ],
+    "general_pinyins": [
+        "jīn",
+        "jìn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄣ",
+        "ㄐㄧㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "示",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7981",
+            "1234123411234"
+        ],
+        "char_code_wubi": "ssfi",
+        "char_code_cangjie": "ddmmf",
+        "char_code_zhengma": "ffbk",
+        "char_code_sijiao": "44901"
+    },
+    "general_unicode": "基本区 U+7981",
+    "general_bs_code": "1234123411234"
+}

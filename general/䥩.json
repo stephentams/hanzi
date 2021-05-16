@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hooks to hang; to suspend something"
+        }
+    ],
+    "general_pinyins": [
+        "wéi"
+    ],
+    "general_zhuyins": [
+        "ㄨㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "釒",
+        "non_radical_sn": "13",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨱖"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4969",
+            "341123413322521353134"
+        ],
+        "char_code_wubi": "qtmt",
+        "char_code_cangjie": "chok",
+        "char_code_zhengma": "poqm",
+        "char_code_sijiao": "88140"
+    },
+    "general_unicode": "扩展A U+4969",
+    "general_bs_code": "341123413322521353134"
+}

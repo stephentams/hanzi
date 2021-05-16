@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "guitar-like instrument"
+        },
+        {
+            "language": "德语",
+            "explanation": "(English: (mus. instr.)​)​Laute"
+        },
+        {
+            "language": "法语",
+            "explanation": "guitare"
+        }
+    ],
+    "general_pinyins": [
+        "pá"
+    ],
+    "general_zhuyins": [
+        "ㄆㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤧲"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7436",
+            "112111215215"
+        ],
+        "char_code_wubi": "ggcb",
+        "char_code_cangjie": "mgau",
+        "char_code_zhengma": "ccyi",
+        "char_code_sijiao": "11717"
+    },
+    "general_unicode": "基本区 U+7436",
+    "general_bs_code": "112111215215"
+}

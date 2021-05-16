@@ -1,0 +1,55 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "province; save, economize"
+        },
+        {
+            "language": "德语",
+            "explanation": "Provinz  (V)​,sparen ,begreifen, nachvollziehen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "examiner,percevoir,province,économiser,diminuer"
+        }
+    ],
+    "general_pinyins": [
+        "shěng",
+        "xǐng"
+    ],
+    "general_zhuyins": [
+        "ㄕㄥˇ",
+        "ㄒㄧㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㗂",
+        "䁞",
+        "䚇",
+        "渻",
+        "𡞞",
+        "𡮀",
+        "𥄾",
+        "𥅱",
+        "𨵥",
+        "省"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7701",
+            "234325111"
+        ],
+        "char_code_wubi": "ithf",
+        "char_code_cangjie": "fhbu",
+        "char_code_zhengma": "koml",
+        "char_code_sijiao": "90602"
+    },
+    "general_unicode": "基本区 U+7701",
+    "general_bs_code": "234325111"
+}

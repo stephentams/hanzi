@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "grass; KangXi radical 140"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gras, Rasen  (S)​,Radikal Nr. 140 = Gras (Variante: 艹)​  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "herbe,gazon"
+        }
+    ],
+    "general_pinyins": [
+        "cǎo"
+    ],
+    "general_zhuyins": [
+        "ㄘㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "艸",
+        "non_radical_sn": "0",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "草",
+        "莎",
+        "艹"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8278",
+            "523522"
+        ],
+        "char_code_wubi": "btbh",
+        "char_code_cangjie": "uu",
+        "char_code_zhengma": "zizi",
+        "char_code_sijiao": "22447"
+    },
+    "general_unicode": "基本区 U+8278",
+    "general_bs_code": "523522"
+}

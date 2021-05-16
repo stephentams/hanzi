@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 穀) grains; corns; cereals"
+        }
+    ],
+    "general_pinyins": [
+        "gǔ"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "11",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "穀"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3BCF",
+            "121521335541234"
+        ],
+        "char_code_wubi": "fnms|fnws",
+        "char_code_cangjie": "ged",
+        "char_code_zhengma": "bxqf",
+        "char_code_sijiao": "47904"
+    },
+    "general_unicode": "扩展A U+3BCF",
+    "general_bs_code": "121521335541234"
+}

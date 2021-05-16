@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "summer time; sky; heaven"
+        },
+        {
+            "language": "德语",
+            "explanation": "gewaltig, ausgedehnt"
+        },
+        {
+            "language": "法语",
+            "explanation": "vaste et sans limites,(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "hào"
+    ],
+    "general_zhuyins": [
+        "ㄏㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "夰",
+        "昦",
+        "暤",
+        "𠕫",
+        "𣆧"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "660A",
+            "25111134"
+        ],
+        "char_code_wubi": "jgdu",
+        "char_code_cangjie": "amk",
+        "char_code_zhengma": "kagd",
+        "char_code_sijiao": "60804"
+    },
+    "general_unicode": "基本区 U+660A",
+    "general_bs_code": "25111134"
+}

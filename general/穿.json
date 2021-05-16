@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "penetrate, pierce, drill; wear"
+        },
+        {
+            "language": "德语",
+            "explanation": "tragen, anziehen, anhaben (Kleidung)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "percer,pénétrer,passer par,traverser,s'habiller,vêtir,porter"
+        }
+    ],
+    "general_pinyins": [
+        "chuān"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨㄢ"
+    ],
+    "general_radical": {
+        "radical": "穴",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "串",
+        "䆤",
+        "䆥",
+        "𥥢",
+        "𥥯"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7A7F",
+            "445341523"
+        ],
+        "char_code_wubi": "pwat",
+        "char_code_cangjie": "jcmvh",
+        "char_code_zhengma": "wohi",
+        "char_code_sijiao": "30241"
+    },
+    "general_unicode": "基本区 U+7A7F",
+    "general_bs_code": "445341523"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "paper"
+        },
+        {
+            "language": "德语",
+            "explanation": "Papier (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "papier,document"
+        }
+    ],
+    "general_pinyins": [
+        "zhǐ"
+    ],
+    "general_zhuyins": [
+        "ㄓˇ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "紙"
+    ],
+    "general_ytz": [
+        "紙",
+        "帋",
+        "𦀦"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EB8",
+            "5513515"
+        ],
+        "char_code_wubi": "xqan",
+        "char_code_cangjie": "vmhvp",
+        "char_code_zhengma": "zrh",
+        "char_code_sijiao": "22140"
+    },
+    "general_unicode": "基本区 U+7EB8",
+    "general_bs_code": "5513515"
+}

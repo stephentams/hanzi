@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a female rhinoceros"
+        },
+        {
+            "language": "德语",
+            "explanation": "Nashorn  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "rhinocéros"
+        }
+    ],
+    "general_pinyins": [
+        "sì"
+    ],
+    "general_zhuyins": [
+        "ㄙˋ"
+    ],
+    "general_radical": {
+        "radical": "儿",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "雉",
+        "𠒃",
+        "𠒅",
+        "𠒊",
+        "𠙃",
+        "𤉡",
+        "𧣶",
+        "𧤄",
+        "𧰽",
+        "𧱃"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5155",
+            "2525135"
+        ],
+        "char_code_wubi": "mmgq|hnhq",
+        "char_code_cangjie": "ssuu",
+        "char_code_zhengma": "iyar",
+        "char_code_sijiao": "77212"
+    },
+    "general_unicode": "基本区 U+5155",
+    "general_bs_code": "2525135"
+}

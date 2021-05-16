@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "expanse of water, lake, pond"
+        },
+        {
+            "language": "德语",
+            "explanation": "Binnensee, See  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "flaque,mare"
+        }
+    ],
+    "general_pinyins": [
+        "huáng",
+        "guāng"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄤˊ",
+        "ㄍㄨㄤ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "洸",
+        "滉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6F62",
+            "44112212512134"
+        ],
+        "char_code_wubi": "iamw",
+        "char_code_cangjie": "etlc",
+        "char_code_zhengma": "veko",
+        "char_code_sijiao": "34186"
+    },
+    "general_unicode": "基本区 U+6F62",
+    "general_bs_code": "44112212512134"
+}

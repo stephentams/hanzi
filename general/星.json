@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a star, planet; any point of light"
+        },
+        {
+            "language": "德语",
+            "explanation": "Stern, Planet  (S)​,Xing  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "étoile"
+        }
+    ],
+    "general_pinyins": [
+        "xīng"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄥ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㽮",
+        "曐",
+        "皨",
+        "𠻖",
+        "𤯢",
+        "𤽛",
+        "𤾪",
+        "𣅨"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "661F",
+            "251131121"
+        ],
+        "char_code_wubi": "jtgf",
+        "char_code_cangjie": "ahqm",
+        "char_code_zhengma": "kmc",
+        "char_code_sijiao": "60105"
+    },
+    "general_unicode": "基本区 U+661F",
+    "general_bs_code": "251131121"
+}

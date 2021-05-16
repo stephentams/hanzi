@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stop, suspend, delay; suitable"
+        },
+        {
+            "language": "德语",
+            "explanation": "anhalten, halten, stoppen, aufhören, stehenbleiben, stillstehen; Teil, Teilstück; fertig  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "arrêter,cesser,stationner,mouiller"
+        }
+    ],
+    "general_pinyins": [
+        "tíng"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "亭"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "505C",
+            "32412514512"
+        ],
+        "char_code_wubi": "wyps",
+        "char_code_cangjie": "oyrn",
+        "char_code_zhengma": "nswa",
+        "char_code_sijiao": "20221"
+    },
+    "general_unicode": "基本区 U+505C",
+    "general_bs_code": "32412514512"
+}

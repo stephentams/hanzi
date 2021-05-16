@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "chess; any game similar to chess"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schach  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "qí"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㯦",
+        "棊",
+        "檱",
+        "櫀",
+        "碁",
+        "䃆"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "68CB",
+            "123412211134"
+        ],
+        "char_code_wubi": "sadw|sdwy",
+        "char_code_cangjie": "dtmc",
+        "char_code_zhengma": "fec",
+        "char_code_sijiao": "44981"
+    },
+    "general_unicode": "基本区 U+68CB",
+    "general_bs_code": "123412211134"
+}

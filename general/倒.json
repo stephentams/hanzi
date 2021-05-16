@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fall over; lie down; take turns"
+        },
+        {
+            "language": "德语",
+            "explanation": "zu Fall bringen (trans.)​, einstürzen (intrans.)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "tomber,être renversé,se renverser,renverser,verser,retourner,contraire,cependant"
+        }
+    ],
+    "general_pinyins": [
+        "dǎo",
+        "dào"
+    ],
+    "general_zhuyins": [
+        "ㄉㄠˇ",
+        "ㄉㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "到"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5012",
+            "3215412122"
+        ],
+        "char_code_wubi": "wgcj",
+        "char_code_cangjie": "omgn",
+        "char_code_zhengma": "nhkd",
+        "char_code_sijiao": "22200"
+    },
+    "general_unicode": "基本区 U+5012",
+    "general_bs_code": "3215412122"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "congratulate; send present"
+        },
+        {
+            "language": "德语",
+            "explanation": "gratulieren, beglückwünschen  (V)​,He  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "féliciter"
+        }
+    ],
+    "general_pinyins": [
+        "hè"
+    ],
+    "general_zhuyins": [
+        "ㄏㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "賀"
+    ],
+    "general_ytz": [
+        "賀"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D3A",
+            "532512534"
+        ],
+        "char_code_wubi": "lkmu|ekmu",
+        "char_code_cangjie": "krbo",
+        "char_code_zhengma": "ymjl",
+        "char_code_sijiao": "46802"
+    },
+    "general_unicode": "基本区 U+8D3A",
+    "general_bs_code": "532512534"
+}

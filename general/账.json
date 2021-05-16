@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "accounts; bill, debt; credit"
+        },
+        {
+            "language": "法语",
+            "explanation": "compte,dette"
+        }
+    ],
+    "general_pinyins": [
+        "zhàng"
+    ],
+    "general_zhuyins": [
+        "ㄓㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "賬"
+    ],
+    "general_ytz": [
+        "賬",
+        "𧹔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D26",
+            "25343154"
+        ],
+        "char_code_wubi": "mtay",
+        "char_code_cangjie": "bopo",
+        "char_code_zhengma": "loch",
+        "char_code_sijiao": "72834"
+    },
+    "general_unicode": "基本区 U+8D26",
+    "general_bs_code": "25343154"
+}

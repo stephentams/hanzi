@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "order; orderly; salary; decade"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ordnung  (S)​,Reihenfolge  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "ordre"
+        }
+    ],
+    "general_pinyins": [
+        "zhì"
+    ],
+    "general_zhuyins": [
+        "ㄓˋ"
+    ],
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢧤",
+        "𡙮",
+        "豒",
+        "𢊭"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "79E9",
+            "3123431134"
+        ],
+        "char_code_wubi": "trwy|ttgy",
+        "char_code_cangjie": "hdhqo",
+        "char_code_zhengma": "mfmo",
+        "char_code_sijiao": "25980"
+    },
+    "general_unicode": "基本区 U+79E9",
+    "general_bs_code": "3123431134"
+}

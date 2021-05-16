@@ -1,0 +1,55 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "alone; without friends or relativ"
+        },
+        {
+            "language": "德语",
+            "explanation": "allein, einsam"
+        },
+        {
+            "language": "法语",
+            "explanation": "délaissé,triste"
+        }
+    ],
+    "general_pinyins": [
+        "qióng"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "煢"
+    ],
+    "general_ytz": [
+        "煢",
+        "惸",
+        "焭",
+        "㒌",
+        "㷀",
+        "𠊫",
+        "𠌻",
+        "𠎽",
+        "𡞦",
+        "𡦃"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8315",
+            "12245512"
+        ],
+        "char_code_wubi": "apnf",
+        "char_code_cangjie": "tbnj",
+        "char_code_zhengma": "ewye",
+        "char_code_sijiao": "44417"
+    },
+    "general_unicode": "基本区 U+8315",
+    "general_bs_code": "12245512"
+}

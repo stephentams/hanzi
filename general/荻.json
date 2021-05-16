@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "reed, Miscanthus saccariflorus"
+        },
+        {
+            "language": "法语",
+            "explanation": "roseau"
+        }
+    ],
+    "general_pinyins": [
+        "dí"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧁱",
+        "藡",
+        "蔐"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "837B",
+            "1223534334"
+        ],
+        "char_code_wubi": "aqto",
+        "char_code_cangjie": "tkhf",
+        "char_code_zhengma": "equo",
+        "char_code_sijiao": "44289"
+    },
+    "general_unicode": "基本区 U+837B",
+    "general_bs_code": "1223534334"
+}

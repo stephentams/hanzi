@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "weaver's shuttle; go to and fro"
+        },
+        {
+            "language": "德语",
+            "explanation": "pendeln, Pendelverkehr  (S)​,Weberschiffchen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "navette"
+        }
+    ],
+    "general_pinyins": [
+        "suō"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨㄛ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣜤",
+        "𥭟"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "68AD",
+            "12345434354"
+        ],
+        "char_code_wubi": "scwt",
+        "char_code_cangjie": "dice",
+        "char_code_zhengma": "fzor",
+        "char_code_sijiao": "43947"
+    },
+    "general_unicode": "基本区 U+68AD",
+    "general_bs_code": "12345434354"
+}

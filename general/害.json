@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "injure, harm; destroy, kill"
+        },
+        {
+            "language": "德语",
+            "explanation": "schädigen, Unheil  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "nuisible,mal,dommage,désastre,calamité,nuire à,tuer,assassiner"
+        }
+    ],
+    "general_pinyins": [
+        "hài"
+    ],
+    "general_zhuyins": [
+        "ㄏㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "宀",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠕛",
+        "𡧱",
+        "𤇵"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5BB3",
+            "4451112251"
+        ],
+        "char_code_wubi": "pdhk",
+        "char_code_cangjie": "jqjr",
+        "char_code_zhengma": "wdcj",
+        "char_code_sijiao": "30605"
+    },
+    "general_unicode": "基本区 U+5BB3",
+    "general_bs_code": "4451112251"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a sacrifice at the beginning of a military campaign"
+        },
+        {
+            "language": "德语",
+            "explanation": "Opfer  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(arch.)​ rituel religieux pour partir à la guerre,d (22e)​,sacrifice au dieu de la guerre"
+        }
+    ],
+    "general_pinyins": [
+        "mà"
+    ],
+    "general_zhuyins": [
+        "ㄇㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "礻",
+        "non_radical_sn": "3",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "禡"
+    ],
+    "general_ytz": [
+        "禡",
+        "𢒴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7943",
+            "4524551"
+        ],
+        "char_code_wubi": "pycg",
+        "char_code_cangjie": "ifnvm",
+        "char_code_zhengma": "wsx",
+        "char_code_sijiao": "37227"
+    },
+    "general_unicode": "基本区 U+7943",
+    "general_bs_code": "4524551"
+}

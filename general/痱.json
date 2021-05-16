@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "heat rash, prickly heat; ulcers"
+        },
+        {
+            "language": "法语",
+            "explanation": "fièvre miliaire,chaleur épineuse"
+        }
+    ],
+    "general_pinyins": [
+        "fèi",
+        "féi"
+    ],
+    "general_zhuyins": [
+        "ㄈㄟˋ",
+        "ㄈㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤷂",
+        "腓",
+        "疿"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "75F1",
+            "4134121112111"
+        ],
+        "char_code_wubi": "udjd|uhdd",
+        "char_code_cangjie": "klmy",
+        "char_code_zhengma": "tkc",
+        "char_code_sijiao": "00111"
+    },
+    "general_unicode": "基本区 U+75F1",
+    "general_bs_code": "4134121112111"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tiger; KangXi radical 141"
+        },
+        {
+            "language": "德语",
+            "explanation": "Radikal Nr. 141 = Tiger  (Sprachw)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tigre,141e radical,rayures d'un tigre"
+        }
+    ],
+    "general_pinyins": [
+        "hū"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨ"
+    ],
+    "general_radical": {
+        "radical": "虍",
+        "non_radical_sn": "0",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧇁"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "864D",
+            "215315"
+        ],
+        "char_code_wubi": "hav|hhgn",
+        "char_code_cangjie": "yp",
+        "char_code_zhengma": "ihaa",
+        "char_code_sijiao": "21214"
+    },
+    "general_unicode": "基本区 U+864D",
+    "general_bs_code": "215315"
+}

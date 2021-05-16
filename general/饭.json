@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cooked rice; food, meal"
+        },
+        {
+            "language": "德语",
+            "explanation": "gekochter Reis ,Mahlzeit"
+        },
+        {
+            "language": "法语",
+            "explanation": "riz cuit,repas"
+        }
+    ],
+    "general_pinyins": [
+        "fàn"
+    ],
+    "general_zhuyins": [
+        "ㄈㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "饣",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "飯"
+    ],
+    "general_ytz": [
+        "飯",
+        "飰",
+        "𩚳"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "996D",
+            "3553354"
+        ],
+        "char_code_wubi": "qnrc",
+        "char_code_cangjie": "nvhe",
+        "char_code_zhengma": "oxpx",
+        "char_code_sijiao": "22747"
+    },
+    "general_unicode": "基本区 U+996D",
+    "general_bs_code": "3553354"
+}

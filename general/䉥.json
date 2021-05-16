@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as U+6AA7) a small basket for chopsticks"
+        }
+    ],
+    "general_pinyins": [
+        "sǒng"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "14",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "檧",
+        "𥵅"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4265",
+            "31431412132535414544"
+        ],
+        "char_code_wubi": "trtn",
+        "char_code_cangjie": "hqhp",
+        "char_code_zhengma": "mdrw",
+        "char_code_sijiao": "88536"
+    },
+    "general_unicode": "扩展A U+4265",
+    "general_bs_code": "31431412132535414544"
+}

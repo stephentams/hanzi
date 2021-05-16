@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "engage, employ; betroth"
+        },
+        {
+            "language": "德语",
+            "explanation": "anstellen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "engager,recruter"
+        }
+    ],
+    "general_pinyins": [
+        "pìn"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "耳",
+        "non_radical_sn": "7",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡞐",
+        "𦕊",
+        "𦖳",
+        "𨉂",
+        "𨉯",
+        "𨊀"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8058",
+            "1221112512115"
+        ],
+        "char_code_wubi": "bmgn",
+        "char_code_cangjie": "sjlws",
+        "char_code_zhengma": "ceaz",
+        "char_code_sijiao": "15427"
+    },
+    "general_unicode": "基本区 U+8058",
+    "general_bs_code": "1221112512115"
+}

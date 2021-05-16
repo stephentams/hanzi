@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "the gloom of the grave a tomb or grave; death"
+        },
+        {
+            "language": "德语",
+            "explanation": "Tod  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tombeau"
+        }
+    ],
+    "general_pinyins": [
+        "xī"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧ"
+    ],
+    "general_radical": {
+        "radical": "穴",
+        "non_radical_sn": "3",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "夕"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7A78",
+            "44534354"
+        ],
+        "char_code_wubi": "pwqu",
+        "char_code_cangjie": "jcni",
+        "char_code_zhengma": "wors",
+        "char_code_sijiao": "30207"
+    },
+    "general_unicode": "基本区 U+7A78",
+    "general_bs_code": "44534354"
+}

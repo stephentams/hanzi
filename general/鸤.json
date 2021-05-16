@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "turtledove, cuckoo"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kuckuck  (S, Bio)​,Turteltaube  (S, Bio)​,Wiedehopf  (S, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tourterelle,tourterelle"
+        }
+    ],
+    "general_pinyins": [
+        "shī"
+    ],
+    "general_zhuyins": [
+        "ㄕ"
+    ],
+    "general_radical": {
+        "radical": "鸟",
+        "non_radical_sn": "3",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "鳲"
+    ],
+    "general_ytz": [
+        "鳲",
+        "䲩",
+        "𨾈",
+        "𨾋"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E24",
+            "51335451"
+        ],
+        "char_code_wubi": "nqyg|nqgg",
+        "char_code_cangjie": "spym",
+        "char_code_zhengma": "xmrz",
+        "char_code_sijiao": "77227"
+    },
+    "general_unicode": "基本区 U+9E24",
+    "general_bs_code": "51335451"
+}

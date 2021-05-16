@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "one's deceased father"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bethaus  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "plaque commémorative dans un temple pour un père décédé,tu (en s'adressant à Dieu)​,toi (Dieu)​,(nom de famille)​,temple du père décédé"
+        }
+    ],
+    "general_pinyins": [
+        "mí"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "礻",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "禰"
+    ],
+    "general_ytz": [
+        "禰",
+        "袮",
+        "𥙄"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7962",
+            "452435234"
+        ],
+        "char_code_wubi": "pyqi",
+        "char_code_cangjie": "ifnf",
+        "char_code_zhengma": "wsrk",
+        "char_code_sijiao": "37292"
+    },
+    "general_unicode": "基本区 U+7962",
+    "general_bs_code": "452435234"
+}

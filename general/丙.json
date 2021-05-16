@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "third; 3rd heavenly stem"
+        },
+        {
+            "language": "德语",
+            "explanation": "dritter der zehn Himmelsstämme"
+        },
+        {
+            "language": "法语",
+            "explanation": "bing (tronc céleste)​,troisième"
+        }
+    ],
+    "general_pinyins": [
+        "bǐng"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "一",
+        "non_radical_sn": "4",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠰳",
+        "炳"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4E19",
+            "12534"
+        ],
+        "char_code_wubi": "gmwi",
+        "char_code_cangjie": "mob",
+        "char_code_zhengma": "alod",
+        "char_code_sijiao": "10227"
+    },
+    "general_unicode": "基本区 U+4E19",
+    "general_bs_code": "12534"
+}

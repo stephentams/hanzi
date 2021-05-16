@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "kind of white wine; rivers in Hebei and Shandong"
+        },
+        {
+            "language": "法语",
+            "explanation": "vin clair,(nom d'une rivière)​"
+        }
+    ],
+    "general_pinyins": [
+        "jǐ"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "濟"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6CF2",
+            "4413523"
+        ],
+        "char_code_wubi": "itnt",
+        "char_code_cangjie": "elxh",
+        "char_code_zhengma": "vmim",
+        "char_code_sijiao": "35127"
+    },
+    "general_unicode": "基本区 U+6CF2",
+    "general_bs_code": "4413523"
+}

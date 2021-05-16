@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cheek bone; protective; assist"
+        },
+        {
+            "language": "法语",
+            "explanation": "complémentaire,subsidiaire,aider,assiter"
+        }
+    ],
+    "general_pinyins": [
+        "fǔ"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "车",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "輔"
+    ],
+    "general_ytz": [
+        "輔",
+        "俌",
+        "䩉",
+        "𥙳",
+        "𨊽",
+        "𩒺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8F85",
+            "15211251124"
+        ],
+        "char_code_wubi": "lgey|lsy",
+        "char_code_cangjie": "kqijb",
+        "char_code_zhengma": "hefb",
+        "char_code_sijiao": "43527"
+    },
+    "general_unicode": "基本区 U+8F85",
+    "general_bs_code": "15211251124"
+}

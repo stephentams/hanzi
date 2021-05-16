@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cool breeze of autumn"
+        },
+        {
+            "language": "法语",
+            "explanation": "brise d'automne,brise automnale"
+        }
+    ],
+    "general_pinyins": [
+        "sī"
+    ],
+    "general_zhuyins": [
+        "ㄙ"
+    ],
+    "general_radical": {
+        "radical": "风",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "颸"
+    ],
+    "general_ytz": [
+        "颸",
+        "𩗮",
+        "𪕳"
+    ],
+    "general_structure": "左下包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "98D4",
+            "3534251214544"
+        ],
+        "char_code_wubi": "mqln|wrln",
+        "char_code_cangjie": "hnwp",
+        "char_code_zhengma": "qdkw",
+        "char_code_sijiao": "76213"
+    },
+    "general_unicode": "基本区 U+98D4",
+    "general_bs_code": "3534251214544"
+}

@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "place name in Hunan province"
+        }
+    ],
+    "general_pinyins": [
+        "gàng"
+    ],
+    "general_zhuyins": [
+        "ㄍㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "7",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7B7B",
+            "3143141251134"
+        ],
+        "char_code_wubi": "tgjq|tgjr",
+        "char_code_cangjie": "hmlk",
+        "char_code_zhengma": "mako",
+        "char_code_sijiao": "88506"
+    },
+    "general_unicode": "基本区 U+7B7B",
+    "general_bs_code": "3143141251134"
+}

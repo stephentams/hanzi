@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hang, suspend, hoist; be hung"
+        },
+        {
+            "language": "德语",
+            "explanation": "hängen  (V)​,ungelöst, ergebnislos"
+        },
+        {
+            "language": "法语",
+            "explanation": "suspendu,en suspens,suspendre,pendre"
+        }
+    ],
+    "general_pinyins": [
+        "xuán"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "懸"
+    ],
+    "general_ytz": [
+        "懸",
+        "𠐴"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "60AC",
+            "25111544544"
+        ],
+        "char_code_wubi": "egcn",
+        "char_code_cangjie": "bip",
+        "char_code_zhengma": "lczw",
+        "char_code_sijiao": "77333"
+    },
+    "general_unicode": "基本区 U+60AC",
+    "general_bs_code": "25111544544"
+}

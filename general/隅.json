@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "corner, nook, remote place"
+        },
+        {
+            "language": "德语",
+            "explanation": "abgelegener Ort, Rand  (S)​,Ecke, Winkel  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "coin,bord"
+        }
+    ],
+    "general_pinyins": [
+        "yú"
+    ],
+    "general_zhuyins": [
+        "ㄩˊ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨺁",
+        "𨺷",
+        "堣"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9685",
+            "52251125214"
+        ],
+        "char_code_wubi": "bjmy",
+        "char_code_cangjie": "nlwlb",
+        "char_code_zhengma": "yklz",
+        "char_code_sijiao": "76227"
+    },
+    "general_unicode": "基本区 U+9685",
+    "general_bs_code": "52251125214"
+}

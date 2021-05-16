@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "long; dangling; kerchief; rope"
+        }
+    ],
+    "general_pinyins": [
+        "lí",
+        "xǐ",
+        "lǐ",
+        "sǎ"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˊ",
+        "ㄒㄧˇ",
+        "ㄌㄧˇ",
+        "ㄙㄚˇ"
+    ],
+    "general_radical": {
+        "radical": "糹",
+        "non_radical_sn": "19",
+        "total_sn": "25"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "斯",
+        "縰",
+        "𫄥"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7E9A",
+            "5544441254125441352211535"
+        ],
+        "char_code_wubi": "xgmx",
+        "char_code_cangjie": "vfmmp",
+        "char_code_zhengma": "zalt",
+        "char_code_sijiao": "21912"
+    },
+    "general_unicode": "基本区 U+7E9A",
+    "general_bs_code": "5544441254125441352211535"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "oven, cooking stove; cook"
+        },
+        {
+            "language": "法语",
+            "explanation": "cuire,fourneau de cuisine"
+        }
+    ],
+    "general_pinyins": [
+        "cuàn"
+    ],
+    "general_zhuyins": [
+        "ㄘㄨㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "26",
+        "total_sn": "30"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㸑",
+        "熶",
+        "𠆡",
+        "𤍾",
+        "𤏷",
+        "𤑇",
+        "𤑖",
+        "𤓟",
+        "𤓥"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7228",
+            "321125125151145123412341344334"
+        ],
+        "char_code_wubi": "wfmo|emgo",
+        "char_code_cangjie": "hbddf",
+        "char_code_zhengma": "nbgu",
+        "char_code_sijiao": "77809"
+    },
+    "general_unicode": "基本区 U+7228",
+    "general_bs_code": "321125125151145123412341344334"
+}

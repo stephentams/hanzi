@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "oil, fat, grease, lard; paints"
+        },
+        {
+            "language": "德语",
+            "explanation": "Öl  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "huile,graisse,essence,huiler,peindre à l'huile"
+        }
+    ],
+    "general_pinyins": [
+        "yóu"
+    ],
+    "general_zhuyins": [
+        "ㄧㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "釉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6CB9",
+            "44125121"
+        ],
+        "char_code_wubi": "img",
+        "char_code_cangjie": "elw",
+        "char_code_zhengma": "vkia",
+        "char_code_sijiao": "35160"
+    },
+    "general_unicode": "基本区 U+6CB9",
+    "general_bs_code": "44125121"
+}

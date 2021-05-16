@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "德语",
+            "explanation": "Radon (Element 86, Rn)​ (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "radon"
+        }
+    ],
+    "general_pinyins": [
+        "dōng"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨㄥ"
+    ],
+    "general_radical": {
+        "radical": "气",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "氭"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6C21",
+            "311535444"
+        ],
+        "char_code_wubi": "rntu|rtui",
+        "char_code_cangjie": "onhey",
+        "char_code_zhengma": "myrt",
+        "char_code_sijiao": "80317"
+    },
+    "general_unicode": "基本区 U+6C21",
+    "general_bs_code": "311535444"
+}

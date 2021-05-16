@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ride horseback; mount; cavalry"
+        },
+        {
+            "language": "德语",
+            "explanation": "(Fahrrad, Motorrad)​ fahren  (V)​,reiten  (V)​,Qi  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "chevaucher,monter à califourchon,monter à (vélo,...)​"
+        }
+    ],
+    "general_pinyins": [
+        "qí"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "马",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "騎"
+    ],
+    "general_ytz": [
+        "騎"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A91",
+            "55113412512"
+        ],
+        "char_code_wubi": "cdsk|cgdk",
+        "char_code_cangjie": "nmkmr",
+        "char_code_zhengma": "xgaj",
+        "char_code_sijiao": "74121"
+    },
+    "general_unicode": "基本区 U+9A91",
+    "general_bs_code": "55113412512"
+}

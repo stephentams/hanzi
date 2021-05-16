@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bud, sprout, shoot"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ableger  (S)​,Knospen treiben, Knospe  (S)​,Schössling  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bourgeon,germe"
+        }
+    ],
+    "general_pinyins": [
+        "yá"
+    ],
+    "general_zhuyins": [
+        "ㄧㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "牙",
+        "䄰"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "82BD",
+            "1221523"
+        ],
+        "char_code_wubi": "aaht",
+        "char_code_cangjie": "tmvh",
+        "char_code_zhengma": "ehi",
+        "char_code_sijiao": "44241"
+    },
+    "general_unicode": "基本区 U+82BD",
+    "general_bs_code": "1221523"
+}

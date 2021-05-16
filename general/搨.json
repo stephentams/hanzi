@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rub, make rubbings of inscription"
+        }
+    ],
+    "general_pinyins": [
+        "tà"
+    ],
+    "general_zhuyins": [
+        "ㄊㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㧺",
+        "拓",
+        "㩉",
+        "搭",
+        "𢴄"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6428",
+            "1212511541541"
+        ],
+        "char_code_wubi": "rjng",
+        "char_code_cangjie": "qasm",
+        "char_code_zhengma": "dkyy",
+        "char_code_sijiao": "56027"
+    },
+    "general_unicode": "基本区 U+6428",
+    "general_bs_code": "1212511541541"
+}

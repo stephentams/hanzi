@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "earthworm"
+        },
+        {
+            "language": "德语",
+            "explanation": "Regenwurm  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "ver"
+        }
+    ],
+    "general_pinyins": [
+        "qiū"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄡ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "86AF",
+            "25121432121"
+        ],
+        "char_code_wubi": "jrgg|jrg",
+        "char_code_cangjie": "liom",
+        "char_code_zhengma": "ipda",
+        "char_code_sijiao": "52112"
+    },
+    "general_unicode": "基本区 U+86AF",
+    "general_bs_code": "25121432121"
+}

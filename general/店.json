@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "shop, store; inn, hotel"
+        },
+        {
+            "language": "德语",
+            "explanation": "Laden, Geschäft"
+        },
+        {
+            "language": "法语",
+            "explanation": "boutique,magasin,auberge,hôtel"
+        }
+    ],
+    "general_pinyins": [
+        "diàn"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "广",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "坫"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5E97",
+            "41321251"
+        ],
+        "char_code_wubi": "yhkd|ohkd",
+        "char_code_cangjie": "iyr",
+        "char_code_zhengma": "tgij",
+        "char_code_sijiao": "00261"
+    },
+    "general_unicode": "基本区 U+5E97",
+    "general_bs_code": "41321251"
+}

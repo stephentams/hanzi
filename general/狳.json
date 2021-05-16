@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "德语",
+            "explanation": "Gürteltier  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tatou"
+        }
+    ],
+    "general_pinyins": [
+        "yú"
+    ],
+    "general_zhuyins": [
+        "ㄩˊ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㺄"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "72F3",
+            "3533411234"
+        ],
+        "char_code_wubi": "qtwt|qtws",
+        "char_code_cangjie": "khomd",
+        "char_code_zhengma": "qmom",
+        "char_code_sijiao": "48294"
+    },
+    "general_unicode": "基本区 U+72F3",
+    "general_bs_code": "3533411234"
+}

@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mayfly; kind of large insect"
+        },
+        {
+            "language": "法语",
+            "explanation": "grosse fourmi"
+        }
+    ],
+    "general_pinyins": [
+        "fú"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "7",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧉈",
+        "𧕰",
+        "𧖚"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8709",
+            "2512143443521"
+        ],
+        "char_code_wubi": "jebg",
+        "char_code_cangjie": "libnd",
+        "char_code_zhengma": "ipya",
+        "char_code_sijiao": "52147"
+    },
+    "general_unicode": "基本区 U+8709",
+    "general_bs_code": "2512143443521"
+}

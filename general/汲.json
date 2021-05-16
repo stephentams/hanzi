@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "draw water from well; imbibe"
+        },
+        {
+            "language": "法语",
+            "explanation": "puiser"
+        }
+    ],
+    "general_pinyins": [
+        "jí"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6C72",
+            "441354"
+        ],
+        "char_code_wubi": "ieyy|ibyy",
+        "char_code_cangjie": "enhe",
+        "char_code_zhengma": "vyms",
+        "char_code_sijiao": "37147"
+    },
+    "general_unicode": "基本区 U+6C72",
+    "general_bs_code": "441354"
+}

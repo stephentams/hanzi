@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "god of cereals; minister of agriculture"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ji  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "millet,Panicum milliaceum"
+        }
+    ],
+    "general_pinyins": [
+        "jì"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "10",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "畟",
+        "禝",
+        "𥞷",
+        "𥟄",
+        "𥟛",
+        "𥠈",
+        "𥣊",
+        "𥠎",
+        "𥠰"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7A37",
+            "312342512134354"
+        ],
+        "char_code_wubi": "tlwt",
+        "char_code_cangjie": "hdwce",
+        "char_code_zhengma": "mfor",
+        "char_code_sijiao": "26947"
+    },
+    "general_unicode": "基本区 U+7A37",
+    "general_bs_code": "312342512134354"
+}

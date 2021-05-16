@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "servant; to make a disturbance"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 gemeinsam  (S)​,Diener, Dienstmädchen  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "sī"
+    ],
+    "general_zhuyins": [
+        "ㄙ"
+    ],
+    "general_radical": {
+        "radical": "厂",
+        "non_radical_sn": "12",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "廝"
+    ],
+    "general_ytz": [
+        "廝",
+        "㒋"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "53AE",
+            "13122111343312"
+        ],
+        "char_code_wubi": "dadr|ddwr",
+        "char_code_cangjie": "mtcl",
+        "char_code_zhengma": "ggep",
+        "char_code_sijiao": "71221"
+    },
+    "general_unicode": "基本区 U+53AE",
+    "general_bs_code": "13122111343312"
+}

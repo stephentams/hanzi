@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "milk; woman's breasts; nurse"
+        },
+        {
+            "language": "德语",
+            "explanation": "Brüste  (S)​,Milch  (S)​,stillen  (V)"
+        }
+    ],
+    "general_pinyins": [
+        "nǎi"
+    ],
+    "general_zhuyins": [
+        "ㄋㄞˇ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "2",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "嬭",
+        "𠂏",
+        "𡇲",
+        "𣍨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5976",
+            "53153"
+        ],
+        "char_code_wubi": "ven|vbt",
+        "char_code_cangjie": "vnhs",
+        "char_code_zhengma": "zmym",
+        "char_code_sijiao": "47427"
+    },
+    "general_unicode": "基本区 U+5976",
+    "general_bs_code": "53153"
+}

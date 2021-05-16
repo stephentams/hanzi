@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "search, seek, look for; find"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufsuchen  (V)​,heranziehen (zu Diensten)​  (V)​,jemanden,etwas suchen  (V)​,nachsehen  (V)​,zurückkehren  (V)​,(Wechselgeld)​ herausgeben  (V)​,jdn. rufen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "chercher,rechercher,rendre la monnaie"
+        }
+    ],
+    "general_pinyins": [
+        "zhǎo"
+    ],
+    "general_zhuyins": [
+        "ㄓㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "划",
+        "爪"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "627E",
+            "1211534"
+        ],
+        "char_code_wubi": "rat|ray",
+        "char_code_cangjie": "qi",
+        "char_code_zhengma": "dhm",
+        "char_code_sijiao": "53050"
+    },
+    "general_unicode": "基本区 U+627E",
+    "general_bs_code": "1211534"
+}

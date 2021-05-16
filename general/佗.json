@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "other, he; surname; a load"
+        },
+        {
+            "language": "法语",
+            "explanation": "charger,porter sur le dos"
+        }
+    ],
+    "general_pinyins": [
+        "tuó"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "馱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4F57",
+            "3244535"
+        ],
+        "char_code_wubi": "wpxn",
+        "char_code_cangjie": "ojp",
+        "char_code_zhengma": "nwrr",
+        "char_code_sijiao": "23212"
+    },
+    "general_unicode": "基本区 U+4F57",
+    "general_bs_code": "3244535"
+}

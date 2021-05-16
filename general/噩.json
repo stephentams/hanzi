@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "bad, ill-omened, unlucky"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 schrecklich, entsetzlich  (Adj)"
+        }
+    ],
+    "general_pinyins": [
+        "è"
+    ],
+    "general_zhuyins": [
+        "ㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡅡",
+        "愕"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5669",
+            "1225125112512511"
+        ],
+        "char_code_wubi": "gkkk",
+        "char_code_cangjie": "mgrr",
+        "char_code_zhengma": "cjjj",
+        "char_code_sijiao": "10106"
+    },
+    "general_unicode": "基本区 U+5669",
+    "general_bs_code": "1225125112512511"
+}

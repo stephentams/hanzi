@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to write; to indite; veins in minerals"
+        },
+        {
+            "language": "德语",
+            "explanation": "schreiben, anschreiben"
+        },
+        {
+            "language": "法语",
+            "explanation": "fendre,graver,écrire"
+        }
+    ],
+    "general_pinyins": [
+        "lè"
+    ],
+    "general_zhuyins": [
+        "ㄌㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣲒"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6CD0",
+            "4415253"
+        ],
+        "char_code_wubi": "ibln|ibet",
+        "char_code_cangjie": "enls",
+        "char_code_zhengma": "vyym",
+        "char_code_sijiao": "34127"
+    },
+    "general_unicode": "基本区 U+6CD0",
+    "general_bs_code": "4415253"
+}

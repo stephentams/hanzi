@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "look at, glance at; stare at"
+        },
+        {
+            "language": "法语",
+            "explanation": "regarder d'un air hautain,regarder de haut"
+        }
+    ],
+    "general_pinyins": [
+        "dì"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "眱",
+        "𥄿",
+        "睼"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7747",
+            "251114351523"
+        ],
+        "char_code_wubi": "huxt",
+        "char_code_cangjie": "bucnh",
+        "char_code_zhengma": "luyz",
+        "char_code_sijiao": "68027"
+    },
+    "general_unicode": "基本区 U+7747",
+    "general_bs_code": "251114351523"
+}

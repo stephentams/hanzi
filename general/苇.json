@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "reed"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schilf, Ried, Reet, Rohr, Schilfrohr  (S, Bio)​,drängen, hetzen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "roseau"
+        }
+    ],
+    "general_pinyins": [
+        "wěi"
+    ],
+    "general_zhuyins": [
+        "ㄨㄟˇ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "葦"
+    ],
+    "general_ytz": [
+        "葦"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "82C7",
+            "1221152"
+        ],
+        "char_code_wubi": "afnh",
+        "char_code_cangjie": "tqs",
+        "char_code_zhengma": "eby",
+        "char_code_sijiao": "44527"
+    },
+    "general_unicode": "基本区 U+82C7",
+    "general_bs_code": "1221152"
+}

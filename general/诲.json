@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "teach, instruct; encourage, urge"
+        },
+        {
+            "language": "德语",
+            "explanation": "instruieren, belehren"
+        },
+        {
+            "language": "法语",
+            "explanation": "enseigner,avertir"
+        }
+    ],
+    "general_pinyins": [
+        "huì"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "誨"
+    ],
+    "general_ytz": [
+        "誨",
+        "𠲯"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BF2",
+            "453155414"
+        ],
+        "char_code_wubi": "ytxu|ytxy",
+        "char_code_cangjie": "ivowy",
+        "char_code_zhengma": "smzy",
+        "char_code_sijiao": "38757"
+    },
+    "general_unicode": "基本区 U+8BF2",
+    "general_bs_code": "453155414"
+}

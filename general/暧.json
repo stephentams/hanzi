@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "obscure, dim, ambiguous, vague"
+        },
+        {
+            "language": "法语",
+            "explanation": "voilé (soleil)​,couvert (ciel)​,obscurci,obscur,clandestin,douteux"
+        }
+    ],
+    "general_pinyins": [
+        "ài"
+    ],
+    "general_zhuyins": [
+        "ㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "曖"
+    ],
+    "general_ytz": [
+        "曖",
+        "𪒱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "66A7",
+            "25113443451354"
+        ],
+        "char_code_wubi": "jepc",
+        "char_code_cangjie": "abbe",
+        "char_code_zhengma": "kpgx",
+        "char_code_sijiao": "62047"
+    },
+    "general_unicode": "基本区 U+66A7",
+    "general_bs_code": "25113443451354"
+}

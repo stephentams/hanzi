@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cauldron, large iron pot"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kessel ,Wok"
+        },
+        {
+            "language": "法语",
+            "explanation": "Wok"
+        }
+    ],
+    "general_pinyins": [
+        "huò"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "13",
+        "total_sn": "18"
+    },
+    "general_stc": [
+        "鑊"
+    ],
+    "general_ytz": [
+        "鑊",
+        "𨯟"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "956C",
+            "311151223241112154"
+        ],
+        "char_code_wubi": "qawc",
+        "char_code_cangjie": "optoe",
+        "char_code_zhengma": "penx",
+        "char_code_sijiao": "84747"
+    },
+    "general_unicode": "基本区 U+956C",
+    "general_bs_code": "311151223241112154"
+}

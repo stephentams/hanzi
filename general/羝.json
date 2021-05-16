@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ram, he-goat"
+        },
+        {
+            "language": "德语",
+            "explanation": "einrammen, festrammen"
+        },
+        {
+            "language": "法语",
+            "explanation": "bélier"
+        }
+    ],
+    "general_pinyins": [
+        "dī"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧ"
+    ],
+    "general_radical": {
+        "radical": "羊",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "牴",
+        "𦍿",
+        "𦍫",
+        "𦍞",
+        "𦍝"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F9D",
+            "43111335154"
+        ],
+        "char_code_wubi": "udqy|uqay",
+        "char_code_cangjie": "tqhpm",
+        "char_code_zhengma": "ucrs",
+        "char_code_sijiao": "82540"
+    },
+    "general_unicode": "基本区 U+7F9D",
+    "general_bs_code": "43111335154"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "slice, splinter, strip; rad. 91"
+        },
+        {
+            "language": "德语",
+            "explanation": "Scheibe, Tablett, Stück (S)​,Zähleinheitswort für dünne Scheibe und Schnitte (Zähl)​,Karte,Radikal Nr. 91 = gespaltenes Holz (steht immer rechts)​, Scheibe, Platte\""
+        },
+        {
+            "language": "法语",
+            "explanation": "disque,feuille,tranche,morceau,pièce,flocon,feuille,plaque,carte,mince,partiel,incomplet,comprimé,(classificateur pour les disques, CD, les comprimés,...)​"
+        }
+    ],
+    "general_pinyins": [
+        "piàn",
+        "piān"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧㄢˋ",
+        "ㄆㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "片",
+        "non_radical_sn": "0",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢙧",
+        "牉"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7247",
+            "3215"
+        ],
+        "char_code_wubi": "thgn",
+        "char_code_cangjie": "llml",
+        "char_code_zhengma": "nx",
+        "char_code_sijiao": "22027"
+    },
+    "general_unicode": "基本区 U+7247",
+    "general_bs_code": "3215"
+}

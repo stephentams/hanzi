@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ramble, roam; travel for pleasure"
+        },
+        {
+            "language": "法语",
+            "explanation": "se promener,flâner,errer à l'aventure"
+        }
+    ],
+    "general_pinyins": [
+        "áo"
+    ],
+    "general_zhuyins": [
+        "ㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "傲",
+        "敖",
+        "𨗯"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9068",
+            "1121533134454"
+        ],
+        "char_code_wubi": "gqtp",
+        "char_code_cangjie": "ygsk",
+        "char_code_zhengma": "cimw",
+        "char_code_sijiao": "38304"
+    },
+    "general_unicode": "基本区 U+9068",
+    "general_bs_code": "1121533134454"
+}

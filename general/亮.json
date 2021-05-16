@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "bright, brilliant, radiant, light"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 aufgeweckt (Adj)​,hell (Adj)"
+        }
+    ],
+    "general_pinyins": [
+        "liàng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "亠",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "倞",
+        "𠅙",
+        "亮"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4EAE",
+            "412514535"
+        ],
+        "char_code_wubi": "ypmb|ypwb",
+        "char_code_cangjie": "yrbn",
+        "char_code_zhengma": "sjwq",
+        "char_code_sijiao": "00217"
+    },
+    "general_unicode": "基本区 U+4EAE",
+    "general_bs_code": "412514535"
+}

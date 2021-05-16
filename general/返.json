@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "return, revert to, restore"
+        },
+        {
+            "language": "德语",
+            "explanation": "zurück"
+        },
+        {
+            "language": "法语",
+            "explanation": "rentrer,retourner,revenir"
+        }
+    ],
+    "general_pinyins": [
+        "fǎn"
+    ],
+    "general_zhuyins": [
+        "ㄈㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "反",
+        "𢓉"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8FD4",
+            "3354454"
+        ],
+        "char_code_wubi": "rcpi",
+        "char_code_cangjie": "yhe",
+        "char_code_zhengma": "pdxw",
+        "char_code_sijiao": "32304"
+    },
+    "general_unicode": "基本区 U+8FD4",
+    "general_bs_code": "3354454"
+}

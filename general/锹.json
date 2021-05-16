@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "shovel"
+        },
+        {
+            "language": "德语",
+            "explanation": "Spaten"
+        },
+        {
+            "language": "法语",
+            "explanation": "pelle,bêche"
+        }
+    ],
+    "general_pinyins": [
+        "qiāo"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "9",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "鍬"
+    ],
+    "general_ytz": [
+        "鍬",
+        "鍫",
+        "鐰",
+        "𠝡"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9539",
+            "31115312344334"
+        ],
+        "char_code_wubi": "qtoy",
+        "char_code_cangjie": "ophdf",
+        "char_code_zhengma": "pmuo",
+        "char_code_sijiao": "89780"
+    },
+    "general_unicode": "基本区 U+9539",
+    "general_bs_code": "31115312344334"
+}

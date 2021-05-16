@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "flourishing, thriving, abundant"
+        },
+        {
+            "language": "法语",
+            "explanation": "pêle-mêle,couleurs mélangées,dans la confusion"
+        }
+    ],
+    "general_pinyins": [
+        "bīn"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄣ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "繽"
+    ],
+    "general_ytz": [
+        "繽",
+        "𦆯"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F24",
+            "5514453212134"
+        ],
+        "char_code_wubi": "xprw",
+        "char_code_cangjie": "vmjoc",
+        "char_code_zhengma": "zwpo",
+        "char_code_sijiao": "23181"
+    },
+    "general_unicode": "基本区 U+7F24",
+    "general_bs_code": "5514453212134"
+}

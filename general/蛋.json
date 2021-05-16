@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "eggs; term of abuse"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ei (S, Ess)"
+        },
+        {
+            "language": "法语",
+            "explanation": "oeuf,de forme ovale"
+        }
+    ],
+    "general_pinyins": [
+        "dàn"
+    ],
+    "general_zhuyins": [
+        "ㄉㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "疍",
+        "蜑",
+        "鴠"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "86CB",
+            "52134251214"
+        ],
+        "char_code_wubi": "nhju",
+        "char_code_cangjie": "nolmi",
+        "char_code_zhengma": "xii",
+        "char_code_sijiao": "17136"
+    },
+    "general_unicode": "基本区 U+86CB",
+    "general_bs_code": "52134251214"
+}

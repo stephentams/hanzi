@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to give"
+        },
+        {
+            "language": "法语",
+            "explanation": "conférer à,donner à,confier à"
+        }
+    ],
+    "general_pinyins": [
+        "bì"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "田",
+        "non_radical_sn": "3",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "畁",
+        "𢌿",
+        "𢍁",
+        "𢍉",
+        "𢮅"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7540",
+            "25121132"
+        ],
+        "char_code_wubi": "lgjj",
+        "char_code_cangjie": "wml",
+        "char_code_zhengma": "kian",
+        "char_code_sijiao": "60221"
+    },
+    "general_unicode": "基本区 U+7540",
+    "general_bs_code": "25121132"
+}

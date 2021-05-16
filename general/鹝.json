@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pheasant"
+        },
+        {
+            "language": "法语",
+            "explanation": "faisan"
+        }
+    ],
+    "general_pinyins": [
+        "yì"
+    ],
+    "general_zhuyins": [
+        "ㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "鸟",
+        "non_radical_sn": "10",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "鷊"
+    ],
+    "general_ytz": [
+        "鷊",
+        "䳬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E5D",
+            "125125431235451"
+        ],
+        "char_code_wubi": "gkmg",
+        "char_code_cangjie": "mbpym",
+        "char_code_zhengma": "ajlr",
+        "char_code_sijiao": "17227"
+    },
+    "general_unicode": "基本区 U+9E5D",
+    "general_bs_code": "125125431235451"
+}

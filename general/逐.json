@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "chase, expel; one by one"
+        },
+        {
+            "language": "德语",
+            "explanation": "einzelne, individuell ,fortsetzen, jemandem nachsetzen ,jagen, punzen"
+        },
+        {
+            "language": "法语",
+            "explanation": "poursuivre,chasser,un à un,tour à tour"
+        }
+    ],
+    "general_pinyins": [
+        "zhú"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "豚",
+        "𢄘"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9010",
+            "1353334454"
+        ],
+        "char_code_wubi": "epi|gepi",
+        "char_code_cangjie": "ymso",
+        "char_code_zhengma": "gqw",
+        "char_code_sijiao": "31303"
+    },
+    "general_unicode": "基本区 U+9010",
+    "general_bs_code": "1353334454"
+}

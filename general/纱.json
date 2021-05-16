@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "gauze, thin silk; yarn, thread"
+        },
+        {
+            "language": "德语",
+            "explanation": "Baumwollgarn  (S)​,Musselin, Mousselin (eine Stoffart)​  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "filé,gaze"
+        }
+    ],
+    "general_pinyins": [
+        "shā"
+    ],
+    "general_zhuyins": [
+        "ㄕㄚ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "紗"
+    ],
+    "general_ytz": [
+        "紗",
+        "𦀛",
+        "𦀟"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EB1",
+            "5512343"
+        ],
+        "char_code_wubi": "xitt",
+        "char_code_cangjie": "vmfh",
+        "char_code_zhengma": "zkm",
+        "char_code_sijiao": "29120"
+    },
+    "general_unicode": "基本区 U+7EB1",
+    "general_bs_code": "5512343"
+}

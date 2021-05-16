@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "narrow, small; dirty"
+        },
+        {
+            "language": "德语",
+            "explanation": "dreckig, schmutzig"
+        },
+        {
+            "language": "法语",
+            "explanation": "étroit,sale"
+        }
+    ],
+    "general_pinyins": [
+        "wò"
+    ],
+    "general_zhuyins": [
+        "ㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "齿",
+        "non_radical_sn": "9",
+        "total_sn": "17"
+    },
+    "general_stc": [
+        "齷"
+    ],
+    "general_ytz": [
+        "齷",
+        "䠎"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9F8C",
+            "21213452513154121"
+        ],
+        "char_code_wubi": "hwbf",
+        "char_code_cangjie": "yusmg",
+        "char_code_zhengma": "ioxh",
+        "char_code_sijiao": "27714"
+    },
+    "general_unicode": "基本区 U+9F8C",
+    "general_bs_code": "21213452513154121"
+}

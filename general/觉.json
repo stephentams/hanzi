@@ -1,0 +1,55 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to wake up from sleep; conscious"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schlaf  (S)​,fühlen， spüren, empfinden  (V)​,Sinn, Empfindung  (S)​,erwachen, aufwachen, sich bewusst werden, zur Einsicht kommen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "éprouver,sentir,penser,éveiller,dormir,s'éveiller"
+        }
+    ],
+    "general_pinyins": [
+        "jué",
+        "jiào"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄝˊ",
+        "ㄐㄧㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "见",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "覺"
+    ],
+    "general_ytz": [
+        "覺",
+        "斍",
+        "覐",
+        "覚",
+        "𡕚",
+        "𧠔",
+        "𧠭",
+        "𧠷"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "89C9",
+            "443452535"
+        ],
+        "char_code_wubi": "ipmq",
+        "char_code_cangjie": "fbbhu",
+        "char_code_zhengma": "vdwl",
+        "char_code_sijiao": "90212"
+    },
+    "general_unicode": "基本区 U+89C9",
+    "general_bs_code": "443452535"
+}

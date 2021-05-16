@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "shoulders; to shoulder; bear"
+        },
+        {
+            "language": "德语",
+            "explanation": "Achsel  (S)​,Schulter  (S)​,Schulterblatt  (S)​,Seitenstreifen, Bankett  (S)​,Jian  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "épaule,soutenir"
+        }
+    ],
+    "general_pinyins": [
+        "jiān"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦚑",
+        "𦙪",
+        "𢩌",
+        "𡱎"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "80A9",
+            "45132511"
+        ],
+        "char_code_wubi": "yned",
+        "char_code_cangjie": "hsb",
+        "char_code_zhengma": "wmq",
+        "char_code_sijiao": "30227"
+    },
+    "general_unicode": "基本区 U+80A9",
+    "general_bs_code": "45132511"
+}

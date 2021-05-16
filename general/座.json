@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "seat; stand, base"
+        },
+        {
+            "language": "德语",
+            "explanation": "ZEW für hohe Bauten, Gebirge  (Zähl)"
+        },
+        {
+            "language": "法语",
+            "explanation": "siège,place,support,socle,(classificateur pour les objets grands et stables : immeubles, montagnes, ...)​"
+        }
+    ],
+    "general_pinyins": [
+        "zuò"
+    ],
+    "general_zhuyins": [
+        "ㄗㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "广",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "坐",
+        "𠱯"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5EA7",
+            "4133434121"
+        ],
+        "char_code_wubi": "ywwf|owwf",
+        "char_code_cangjie": "ioog",
+        "char_code_zhengma": "tgob",
+        "char_code_sijiao": "00214"
+    },
+    "general_unicode": "基本区 U+5EA7",
+    "general_bs_code": "4133434121"
+}

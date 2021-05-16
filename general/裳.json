@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "法语",
+            "explanation": "clothes; skirt; beautiful"
+        }
+    ],
+    "general_pinyins": [
+        "cháng",
+        "shang"
+    ],
+    "general_zhuyins": [
+        "ㄔㄤˊ",
+        "ㄕㄤ"
+    ],
+    "general_radical": {
+        "radical": "衣",
+        "non_radical_sn": "8",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "常"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "88F3",
+            "24345251413534"
+        ],
+        "char_code_wubi": "ipke",
+        "char_code_cangjie": "fbryv",
+        "char_code_zhengma": "kosr",
+        "char_code_sijiao": "90732"
+    },
+    "general_unicode": "基本区 U+88F3",
+    "general_bs_code": "24345251413534"
+}

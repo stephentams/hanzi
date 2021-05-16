@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pellet, bullet, shot, shell"
+        },
+        {
+            "language": "法语",
+            "explanation": "jouer du piano ou d'un instrument à corde,lancer,sauter,élastique,balle,boulette,obus,bombe"
+        }
+    ],
+    "general_pinyins": [
+        "dàn",
+        "tán"
+    ],
+    "general_zhuyins": [
+        "ㄉㄢˋ",
+        "ㄊㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "弓",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "彈"
+    ],
+    "general_ytz": [
+        "彈",
+        "弾",
+        "𢎚",
+        "𢎝",
+        "𢎟",
+        "𢎩",
+        "𢎫",
+        "𢎬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F39",
+            "51543251112"
+        ],
+        "char_code_wubi": "xujf",
+        "char_code_cangjie": "ncwj",
+        "char_code_zhengma": "yzke",
+        "char_code_sijiao": "18256"
+    },
+    "general_unicode": "基本区 U+5F39",
+    "general_bs_code": "51543251112"
+}

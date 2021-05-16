@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "moult"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufspießen, durchbohren"
+        },
+        {
+            "language": "法语",
+            "explanation": "lance longue"
+        }
+    ],
+    "general_pinyins": [
+        "shā"
+    ],
+    "general_zhuyins": [
+        "ㄕㄚ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "鎩"
+    ],
+    "general_ytz": [
+        "鎩",
+        "𨦅",
+        "𨭝"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94E9",
+            "31115341234"
+        ],
+        "char_code_wubi": "qqsy|qrsy",
+        "char_code_cangjie": "opkd",
+        "char_code_zhengma": "pof",
+        "char_code_sijiao": "84794"
+    },
+    "general_unicode": "基本区 U+94E9",
+    "general_bs_code": "31115341234"
+}

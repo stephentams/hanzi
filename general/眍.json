@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sunken"
+        },
+        {
+            "language": "德语",
+            "explanation": "eingesunken, hohl  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "pénétrer (regard)​"
+        }
+    ],
+    "general_pinyins": [
+        "kōu"
+    ],
+    "general_zhuyins": [
+        "ㄎㄡ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "瞘"
+    ],
+    "general_ytz": [
+        "瞘",
+        "䁱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "770D",
+            "251111345"
+        ],
+        "char_code_wubi": "haqy|hary",
+        "char_code_cangjie": "busk",
+        "char_code_zhengma": "lhos",
+        "char_code_sijiao": "61014"
+    },
+    "general_unicode": "基本区 U+770D",
+    "general_bs_code": "251111345"
+}

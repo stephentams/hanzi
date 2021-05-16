@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "vulgar, low, cheap; wanton; obscene"
+        },
+        {
+            "language": "德语",
+            "explanation": "gewöhnlich, alltäglich  (Adj)​,kunterbunt  (Adj)​,ordinär  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "libre"
+        }
+    ],
+    "general_pinyins": [
+        "wěi"
+    ],
+    "general_zhuyins": [
+        "ㄨㄟˇ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "猬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7325",
+            "353251211534"
+        ],
+        "char_code_wubi": "qtle",
+        "char_code_cangjie": "khwmv",
+        "char_code_zhengma": "qmkh",
+        "char_code_sijiao": "46232"
+    },
+    "general_unicode": "基本区 U+7325",
+    "general_bs_code": "353251211534"
+}

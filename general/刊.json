@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "publication, periodical; publish"
+        },
+        {
+            "language": "德语",
+            "explanation": "ausdrucken, drucken ,publizieren, verlegen"
+        }
+    ],
+    "general_pinyins": [
+        "kān"
+    ],
+    "general_zhuyins": [
+        "ㄎㄢ"
+    ],
+    "general_radical": {
+        "radical": "刂",
+        "non_radical_sn": "3",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "栞",
+        "𣓁"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "520A",
+            "11222"
+        ],
+        "char_code_wubi": "fjh",
+        "char_code_cangjie": "mjln",
+        "char_code_zhengma": "aekd",
+        "char_code_sijiao": "12400"
+    },
+    "general_unicode": "基本区 U+520A",
+    "general_bs_code": "11222"
+}

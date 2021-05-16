@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "morning, dawn; surname"
+        },
+        {
+            "language": "法语",
+            "explanation": "cour,dynastie,vers,saluer,(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "cháo"
+    ],
+    "general_zhuyins": [
+        "ㄔㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "鼂",
+        "鼌",
+        "𣆷",
+        "朝"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6641",
+            "2511341534"
+        ],
+        "char_code_wubi": "jiqb|jqiu",
+        "char_code_cangjie": "almo",
+        "char_code_zhengma": "kvrd",
+        "char_code_sijiao": "60113"
+    },
+    "general_unicode": "基本区 U+6641",
+    "general_bs_code": "2511341534"
+}

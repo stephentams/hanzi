@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "well rope"
+        },
+        {
+            "language": "德语",
+            "explanation": "Seil, Strang ( zum Wasser holen am  Brunnen )​  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "corde de puits"
+        }
+    ],
+    "general_pinyins": [
+        "gěng"
+    ],
+    "general_zhuyins": [
+        "ㄍㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "綆"
+    ],
+    "general_ytz": [
+        "綆",
+        "䋁",
+        "䌄",
+        "𥿒"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EE0",
+            "5511251134"
+        ],
+        "char_code_wubi": "xgjq|xgjr",
+        "char_code_cangjie": "vmmlk",
+        "char_code_zhengma": "zako",
+        "char_code_sijiao": "21146"
+    },
+    "general_unicode": "基本区 U+7EE0",
+    "general_bs_code": "5511251134"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "compel, pressure, force; bother"
+        },
+        {
+            "language": "德语",
+            "explanation": "zwingen, nötigen, bedrohen, Druck ausüben  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "forcer,contraindre,exiger,presser,exhorter,chatte (vulgaire)​"
+        }
+    ],
+    "general_pinyins": [
+        "bī"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "偪",
+        "畐",
+        "劸"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "903C",
+            "125125121454"
+        ],
+        "char_code_wubi": "gklp",
+        "char_code_cangjie": "ymrw",
+        "char_code_zhengma": "ajkw",
+        "char_code_sijiao": "31306"
+    },
+    "general_unicode": "基本区 U+903C",
+    "general_bs_code": "125125121454"
+}

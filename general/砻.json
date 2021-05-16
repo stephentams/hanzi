@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "grind, sharpen; mill"
+        },
+        {
+            "language": "德语",
+            "explanation": "schleifen, abschleifen"
+        },
+        {
+            "language": "法语",
+            "explanation": "frotter,meule"
+        }
+    ],
+    "general_pinyins": [
+        "lóng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "礱"
+    ],
+    "general_ytz": [
+        "礱",
+        "礲",
+        "𤮨"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "783B",
+            "1353413251"
+        ],
+        "char_code_wubi": "dxdf|dxyd",
+        "char_code_cangjie": "ipmr",
+        "char_code_zhengma": "gmg",
+        "char_code_sijiao": "43602"
+    },
+    "general_unicode": "基本区 U+783B",
+    "general_bs_code": "1353413251"
+}

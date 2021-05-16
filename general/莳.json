@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "transplant; plant; dill, Anethum graveolens"
+        },
+        {
+            "language": "德语",
+            "explanation": "errichten, setzen"
+        },
+        {
+            "language": "法语",
+            "explanation": "croître,transplanter"
+        }
+    ],
+    "general_pinyins": [
+        "shì",
+        "shí"
+    ],
+    "general_zhuyins": [
+        "ㄕˋ",
+        "ㄕˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "蒔"
+    ],
+    "general_ytz": [
+        "蒔",
+        "𦱎",
+        "𦱗",
+        "𦸎"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "83B3",
+            "1222511124"
+        ],
+        "char_code_wubi": "ajfu",
+        "char_code_cangjie": "tadi",
+        "char_code_zhengma": "ekds",
+        "char_code_sijiao": "44640"
+    },
+    "general_unicode": "基本区 U+83B3",
+    "general_bs_code": "1222511124"
+}

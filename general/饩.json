@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sacrficial victim; gift; grain"
+        },
+        {
+            "language": "法语",
+            "explanation": "don de vivres"
+        }
+    ],
+    "general_pinyins": [
+        "xì"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "饣",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "餼"
+    ],
+    "general_ytz": [
+        "餼",
+        "䊠",
+        "𩚤",
+        "𩛹"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9969",
+            "3553115"
+        ],
+        "char_code_wubi": "qnrn",
+        "char_code_cangjie": "nvomn",
+        "char_code_zhengma": "oxmy",
+        "char_code_sijiao": "28717"
+    },
+    "general_unicode": "基本区 U+9969",
+    "general_bs_code": "3553115"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sound of beating wind and rain"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom d'une rivière)​,bruit de la pluie et du vent"
+        }
+    ],
+    "general_pinyins": [
+        "xiāo"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "瀟"
+    ],
+    "general_ytz": [
+        "瀟",
+        "𤂣",
+        "𤄙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6F47",
+            "44112251123234"
+        ],
+        "char_code_wubi": "iavj|iavw",
+        "char_code_cangjie": "etll",
+        "char_code_zhengma": "veno",
+        "char_code_sijiao": "34127"
+    },
+    "general_unicode": "基本区 U+6F47",
+    "general_bs_code": "44112251123234"
+}

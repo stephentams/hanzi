@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stop, halt; stay, detain, keep"
+        },
+        {
+            "language": "德语",
+            "explanation": "bleiben, behalten, zurücklassen  (V)​,hinterlassen  (V)​,j-n. zurückhalten, zurückbleiben  (V)​,Liu  (Eig, Fam)"
+        }
+    ],
+    "general_pinyins": [
+        "liú"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "田",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "榴",
+        "㽞",
+        "畄",
+        "畱",
+        "𤰛",
+        "𤱊",
+        "𤲢",
+        "𪽋",
+        "留"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7559",
+            "3545325121"
+        ],
+        "char_code_wubi": "qyvl",
+        "char_code_cangjie": "hhw",
+        "char_code_zhengma": "rhyk",
+        "char_code_sijiao": "77602"
+    },
+    "general_unicode": "基本区 U+7559",
+    "general_bs_code": "3545325121"
+}

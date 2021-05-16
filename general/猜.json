@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "guess, conjecture, suppose; feel"
+        },
+        {
+            "language": "德语",
+            "explanation": "raten  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "deviner,supposer,soupçonner"
+        }
+    ],
+    "general_pinyins": [
+        "cāi"
+    ],
+    "general_zhuyins": [
+        "ㄘㄞ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㥒",
+        "啋"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "731C",
+            "35311212511"
+        ],
+        "char_code_wubi": "qtge",
+        "char_code_cangjie": "khqmb",
+        "char_code_zhengma": "qmcq",
+        "char_code_sijiao": "45227"
+    },
+    "general_unicode": "基本区 U+731C",
+    "general_bs_code": "35311212511"
+}

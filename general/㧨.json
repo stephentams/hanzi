@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(ancient form of U+624F) slow; gradual; tardy; leisurely, to delay; to put off; to defer"
+        }
+    ],
+    "general_pinyins": [
+        "qiú"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "扏"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "39E8",
+            "121331251"
+        ],
+        "char_code_wubi": "rrgk",
+        "char_code_cangjie": "qhmr",
+        "char_code_zhengma": "dpaj",
+        "char_code_sijiao": "52061"
+    },
+    "general_unicode": "扩展A U+39E8",
+    "general_bs_code": "121331251"
+}

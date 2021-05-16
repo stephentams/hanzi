@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "burn; bake; heat; roast"
+        },
+        {
+            "language": "德语",
+            "explanation": "brutzeln, backen, braten, brennen, fiebern, kochen, schmoren  (V, Ess)"
+        },
+        {
+            "language": "法语",
+            "explanation": "brûler,cuire,chauffer,avoir de la fièvre"
+        }
+    ],
+    "general_pinyins": [
+        "shāo"
+    ],
+    "general_zhuyins": [
+        "ㄕㄠ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "燒"
+    ],
+    "general_ytz": [
+        "燒",
+        "焼",
+        "㶮",
+        "𤌸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "70E7",
+            "4334153135"
+        ],
+        "char_code_wubi": "oatq",
+        "char_code_cangjie": "fjpu",
+        "char_code_zhengma": "uohg",
+        "char_code_sijiao": "95812"
+    },
+    "general_unicode": "基本区 U+70E7",
+    "general_bs_code": "4334153135"
+}

@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "class, group, kind, category"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kategorie  (S)​,Klasse  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "genre,espèce,ressembler"
+        }
+    ],
+    "general_pinyins": [
+        "lèi"
+    ],
+    "general_zhuyins": [
+        "ㄌㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "米",
+        "non_radical_sn": "3",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "類"
+    ],
+    "general_ytz": [
+        "類",
+        "𣈪",
+        "𩔧",
+        "类"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7C7B",
+            "431234134"
+        ],
+        "char_code_wubi": "odu",
+        "char_code_cangjie": "fdk",
+        "char_code_zhengma": "ufgd",
+        "char_code_sijiao": "90804"
+    },
+    "general_unicode": "基本区 U+7C7B",
+    "general_bs_code": "431234134"
+}

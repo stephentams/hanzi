@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "destroy"
+        },
+        {
+            "language": "德语",
+            "explanation": "zerstören  (V)"
+        }
+    ],
+    "general_pinyins": [
+        "huō"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄛ"
+    ],
+    "general_radical": {
+        "radical": "刂",
+        "non_radical_sn": "13",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "劃",
+        "穫"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5290",
+            "122324111215422"
+        ],
+        "char_code_wubi": "awyj",
+        "char_code_cangjie": "teln",
+        "char_code_zhengma": "enxk",
+        "char_code_sijiao": "42400"
+    },
+    "general_unicode": "基本区 U+5290",
+    "general_bs_code": "122324111215422"
+}

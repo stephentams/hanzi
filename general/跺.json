@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stamp feet, step"
+        },
+        {
+            "language": "法语",
+            "explanation": "taper (du pied)​"
+        }
+    ],
+    "general_pinyins": [
+        "duò"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "6",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "跥"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8DFA",
+            "2512121351234"
+        ],
+        "char_code_wubi": "khms|khws",
+        "char_code_cangjie": "rmhnd",
+        "char_code_zhengma": "jiqf",
+        "char_code_sijiao": "67194"
+    },
+    "general_unicode": "基本区 U+8DFA",
+    "general_bs_code": "2512121351234"
+}

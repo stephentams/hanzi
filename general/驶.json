@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sail, drive, pilot; fast, quick"
+        },
+        {
+            "language": "德语",
+            "explanation": "fahren  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "aller vite,courir,piloter"
+        }
+    ],
+    "general_pinyins": [
+        "shǐ"
+    ],
+    "general_zhuyins": [
+        "ㄕˇ"
+    ],
+    "general_radical": {
+        "radical": "马",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "駛"
+    ],
+    "general_ytz": [
+        "駛",
+        "𩢲",
+        "𩣬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A76",
+            "55125134"
+        ],
+        "char_code_wubi": "ckqy|cgkr",
+        "char_code_cangjie": "nmlk",
+        "char_code_zhengma": "xjos",
+        "char_code_sijiao": "75106"
+    },
+    "general_unicode": "基本区 U+9A76",
+    "general_bs_code": "55125134"
+}

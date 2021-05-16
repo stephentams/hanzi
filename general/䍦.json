@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(traditional form of VEA4360) a kind of turban used in ancient times"
+        }
+    ],
+    "general_pinyins": [
+        "lí"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "网",
+        "non_radical_sn": "0",
+        "total_sn": "23"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㒿",
+        "䍠",
+        "𣯤"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4366",
+            "25221413452255432411121"
+        ],
+        "char_code_wubi": "lyby|lyry",
+        "char_code_cangjie": "wlybg",
+        "char_code_zhengma": "lkzn",
+        "char_code_sijiao": "60215"
+    },
+    "general_unicode": "扩展A U+4366",
+    "general_bs_code": "25221413452255432411121"
+}

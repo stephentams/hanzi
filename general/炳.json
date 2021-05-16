@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bright, luminous; glorious"
+        },
+        {
+            "language": "法语",
+            "explanation": "brillant,splendide,éclatant,lumineux,illustre,remarquable,splendeur"
+        }
+    ],
+    "general_pinyins": [
+        "bǐng"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "丙",
+        "昞",
+        "昺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "70B3",
+            "433412534"
+        ],
+        "char_code_wubi": "ogmw",
+        "char_code_cangjie": "fmob",
+        "char_code_zhengma": "uolo",
+        "char_code_sijiao": "91827"
+    },
+    "general_unicode": "基本区 U+70B3",
+    "general_bs_code": "433412534"
+}

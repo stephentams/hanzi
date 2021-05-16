@@ -1,0 +1,23 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "人",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "202C1",
+            "34344325122"
+        ],
+        "char_code_wubi": "wema",
+        "char_code_cangjie": "omfb",
+        "char_code_zhengma": "odpl"
+    },
+    "general_unicode": "扩展B U+202C1",
+    "general_bs_code": "34344325122"
+}

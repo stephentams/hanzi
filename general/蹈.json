@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stamp feet; dance"
+        },
+        {
+            "language": "法语",
+            "explanation": "marcher sur,fouler du pied,sautiller,gambader"
+        }
+    ],
+    "general_pinyins": [
+        "dǎo"
+    ],
+    "general_zhuyins": [
+        "ㄉㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "10",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨂆",
+        "𨂻"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E48",
+            "25121213443321511"
+        ],
+        "char_code_wubi": "khev|khee",
+        "char_code_cangjie": "rmbhx",
+        "char_code_zhengma": "jipn",
+        "char_code_sijiao": "62177"
+    },
+    "general_unicode": "基本区 U+8E48",
+    "general_bs_code": "25121213443321511"
+}

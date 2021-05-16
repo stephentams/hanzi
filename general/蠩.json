@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a toad"
+        }
+    ],
+    "general_pinyins": [
+        "zhū"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "15",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "蜍",
+        "蝫",
+        "鯺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8829",
+            "251214411125112132511"
+        ],
+        "char_code_wubi": "jyfj",
+        "char_code_cangjie": "liyra",
+        "char_code_zhengma": "isbm",
+        "char_code_sijiao": "54160"
+    },
+    "general_unicode": "基本区 U+8829",
+    "general_bs_code": "251214411125112132511"
+}

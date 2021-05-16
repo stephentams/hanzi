@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "incense tripod"
+        },
+        {
+            "language": "法语",
+            "explanation": "chaudière"
+        }
+    ],
+    "general_pinyins": [
+        "nài"
+    ],
+    "general_zhuyins": [
+        "ㄋㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "鼎",
+        "non_radical_sn": "2",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9F10",
+            "53251115132125"
+        ],
+        "char_code_wubi": "ehnn|bhnn",
+        "char_code_cangjie": "nsbul",
+        "char_code_zhengma": "ymzn",
+        "char_code_sijiao": "17227"
+    },
+    "general_unicode": "基本区 U+9F10",
+    "general_bs_code": "53251115132125"
+}

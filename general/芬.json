@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fragrance, aroma; perfume"
+        },
+        {
+            "language": "法语",
+            "explanation": "parfum,odeur agréable"
+        }
+    ],
+    "general_pinyins": [
+        "fēn"
+    ],
+    "general_zhuyins": [
+        "ㄈㄣ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡴚",
+        "㞣",
+        "𡵳"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "82AC",
+            "1223453"
+        ],
+        "char_code_wubi": "awvb|awvr",
+        "char_code_cangjie": "tcsh",
+        "char_code_zhengma": "eoyd",
+        "char_code_sijiao": "44227"
+    },
+    "general_unicode": "基本区 U+82AC",
+    "general_bs_code": "1223453"
+}

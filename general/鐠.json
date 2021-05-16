@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "praseodymium"
+        },
+        {
+            "language": "德语",
+            "explanation": "Praseodym (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "praséodyme"
+        }
+    ],
+    "general_pinyins": [
+        "pǔ"
+    ],
+    "general_zhuyins": [
+        "ㄆㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "釒",
+        "non_radical_sn": "12",
+        "total_sn": "20"
+    },
+    "general_stc": [
+        "镨"
+    ],
+    "general_ytz": [
+        "镨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9420",
+            "34112431431224312511"
+        ],
+        "char_code_wubi": "quoj",
+        "char_code_cangjie": "ctca",
+        "char_code_zhengma": "pukk",
+        "char_code_sijiao": "88161"
+    },
+    "general_unicode": "基本区 U+9420",
+    "general_bs_code": "34112431431224312511"
+}

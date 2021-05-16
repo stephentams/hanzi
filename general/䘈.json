@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(corrupted form of 蠣) oyster"
+        }
+    ],
+    "general_pinyins": [
+        "lì"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "16",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4608",
+            "2512141312225112521453"
+        ],
+        "char_code_wubi": "jdal|jdae",
+        "char_code_cangjie": "limbs",
+        "char_code_zhengma": "igzy",
+        "char_code_sijiao": "54127"
+    },
+    "general_unicode": "扩展A U+4608",
+    "general_bs_code": "2512141312225112521453"
+}

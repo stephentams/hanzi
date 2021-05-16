@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "middle brother; go between, mediator; surname"
+        },
+        {
+            "language": "德语",
+            "explanation": "mittel  (Adj)​,der Zweitälteste (unter Brüdern)​ ,sekundär  (Adj, Chem)​,der zweite Monat einer Jahreszeit"
+        },
+        {
+            "language": "法语",
+            "explanation": "intermédiaire,second"
+        }
+    ],
+    "general_pinyins": [
+        "zhòng"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "中",
+        "狆"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4EF2",
+            "322512"
+        ],
+        "char_code_wubi": "wkhh",
+        "char_code_cangjie": "ol",
+        "char_code_zhengma": "nji",
+        "char_code_sijiao": "25206"
+    },
+    "general_unicode": "基本区 U+4EF2",
+    "general_bs_code": "322512"
+}

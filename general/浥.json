@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "moist, wet, dampen"
+        },
+        {
+            "language": "德语",
+            "explanation": "feucht"
+        },
+        {
+            "language": "法语",
+            "explanation": "humide,moite"
+        }
+    ],
+    "general_pinyins": [
+        "yì"
+    ],
+    "general_zhuyins": [
+        "ㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "潝"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6D65",
+            "4412515215"
+        ],
+        "char_code_wubi": "ikcn",
+        "char_code_cangjie": "erau",
+        "char_code_zhengma": "vjyi",
+        "char_code_sijiao": "36117"
+    },
+    "general_unicode": "基本区 U+6D65",
+    "general_bs_code": "4412515215"
+}

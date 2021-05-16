@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "grain ready for grinding; grain"
+        },
+        {
+            "language": "法语",
+            "explanation": "orge du Tibet"
+        }
+    ],
+    "general_pinyins": [
+        "kē"
+    ],
+    "general_zhuyins": [
+        "ㄎㄜ"
+    ],
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "粿",
+        "𥠁"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7A1E",
+            "3123425111234"
+        ],
+        "char_code_wubi": "tjsy",
+        "char_code_cangjie": "hdwd",
+        "char_code_zhengma": "mfkf",
+        "char_code_sijiao": "26994"
+    },
+    "general_unicode": "基本区 U+7A1E",
+    "general_bs_code": "3123425111234"
+}

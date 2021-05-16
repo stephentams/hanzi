@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "covet, long for, desire"
+        },
+        {
+            "language": "德语",
+            "explanation": "begehren ,ersehnen, verlangen nach"
+        },
+        {
+            "language": "法语",
+            "explanation": "espérer,désirer"
+        }
+    ],
+    "general_pinyins": [
+        "jì"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "见",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "覬"
+    ],
+    "general_ytz": [
+        "覬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "89CA",
+            "2525152535"
+        ],
+        "char_code_wubi": "mnmq",
+        "char_code_cangjie": "uubhu",
+        "char_code_zhengma": "llyl",
+        "char_code_sijiao": "27712"
+    },
+    "general_unicode": "基本区 U+89CA",
+    "general_bs_code": "2525152535"
+}

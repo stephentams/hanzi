@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hawser, heavy-duty rope, cable"
+        },
+        {
+            "language": "法语",
+            "explanation": "câble,amarre"
+        }
+    ],
+    "general_pinyins": [
+        "lǎn"
+    ],
+    "general_zhuyins": [
+        "ㄌㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "纜"
+    ],
+    "general_ytz": [
+        "纜",
+        "䌫"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F06",
+            "551223142535"
+        ],
+        "char_code_wubi": "xjtq",
+        "char_code_cangjie": "vmliu",
+        "char_code_zhengma": "zkml",
+        "char_code_sijiao": "28112"
+    },
+    "general_unicode": "基本区 U+7F06",
+    "general_bs_code": "551223142535"
+}

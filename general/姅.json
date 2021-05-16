@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "woman at time of menstruation"
+        }
+    ],
+    "general_pinyins": [
+        "bàn"
+    ],
+    "general_zhuyins": [
+        "ㄅㄢ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "59C5",
+            "53143112"
+        ],
+        "char_code_wubi": "vufh|vugh",
+        "char_code_cangjie": "vfq",
+        "char_code_zhengma": "zmub",
+        "char_code_sijiao": "49450"
+    },
+    "general_unicode": "基本区 U+59C5",
+    "general_bs_code": "53143112"
+}

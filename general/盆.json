@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "basin, tub, pot, bowl"
+        },
+        {
+            "language": "德语",
+            "explanation": "Becken, Wanne  (S)​,Topf, Schüssel, Blumentopf  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bassin,pot"
+        }
+    ],
+    "general_pinyins": [
+        "pén"
+    ],
+    "general_zhuyins": [
+        "ㄆㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "皿",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "湓",
+        "瓫"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "76C6",
+            "345325221"
+        ],
+        "char_code_wubi": "wvlf",
+        "char_code_cangjie": "csht",
+        "char_code_zhengma": "oylk",
+        "char_code_sijiao": "80102"
+    },
+    "general_unicode": "基本区 U+76C6",
+    "general_bs_code": "345325221"
+}

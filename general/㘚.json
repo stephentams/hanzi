@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "angry air of look; to look furious, the roars of a tiger"
+        }
+    ],
+    "general_pinyins": [
+        "hǎn"
+    ],
+    "general_zhuyins": [
+        "ㄏㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "19",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㘎"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "361A",
+            "2515112251151221113134"
+        ],
+        "char_code_wubi": "kunt|Kunt",
+        "char_code_cangjie": "rank",
+        "char_code_zhengma": "jxcm",
+        "char_code_sijiao": "67020"
+    },
+    "general_unicode": "扩展A U+361A",
+    "general_bs_code": "2515112251151221113134"
+}

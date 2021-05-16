@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "look at, inspect, observe, see"
+        },
+        {
+            "language": "德语",
+            "explanation": "anschauen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "vue,vision,regarder,voir,regarder attentivement,inspecter,considérer"
+        }
+    ],
+    "general_pinyins": [
+        "shì"
+    ],
+    "general_zhuyins": [
+        "ㄕˋ"
+    ],
+    "general_radical": {
+        "radical": "见",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "視"
+    ],
+    "general_ytz": [
+        "視",
+        "眂",
+        "眎",
+        "𤋇",
+        "𥄙",
+        "𥄚",
+        "𥅭"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "89C6",
+            "45242535"
+        ],
+        "char_code_wubi": "pymq",
+        "char_code_cangjie": "ifbhu",
+        "char_code_zhengma": "wslr",
+        "char_code_sijiao": "37212"
+    },
+    "general_unicode": "基本区 U+89C6",
+    "general_bs_code": "45242535"
+}

@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as U+986C) a part of the skull"
+        }
+    ],
+    "general_pinyins": [
+        "ná",
+        "rú"
+    ],
+    "general_zhuyins": [
+        "ㄋㄚˊ",
+        "ㄖㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "頁",
+        "non_radical_sn": "12",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "顬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4AF1",
+            "132522132522132511134"
+        ],
+        "char_code_wubi": "dmjm",
+        "char_code_cangjie": "mbmbc",
+        "char_code_zhengma": "glgg",
+        "char_code_sijiao": "11286"
+    },
+    "general_unicode": "扩展A U+4AF1",
+    "general_bs_code": "132522132522132511134"
+}

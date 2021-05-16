@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "village gate; surname"
+        },
+        {
+            "language": "德语",
+            "explanation": "Eingang zu einer Gasse  (S, Arch)​,Yan  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "porte,hameau,rue,(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "yán"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "门",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "閻"
+    ],
+    "general_ytz": [
+        "閻",
+        "𨵻"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "960E",
+            "42535321511"
+        ],
+        "char_code_wubi": "uqvd|uqed",
+        "char_code_cangjie": "lsnhx",
+        "char_code_zhengma": "tlrn",
+        "char_code_sijiao": "37777"
+    },
+    "general_unicode": "基本区 U+960E",
+    "general_bs_code": "42535321511"
+}

@@ -1,0 +1,26 @@
+{
+    "general_pinyins": [
+        "hàn",
+        "yán"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "21EE1",
+            "25234151253511"
+        ],
+        "char_code_wubi": "mwyg",
+        "char_code_cangjie": "uoiw",
+        "char_code_zhengma": "llxf"
+    },
+    "general_unicode": "扩展B U+21EE1",
+    "general_bs_code": "25234151253511"
+}

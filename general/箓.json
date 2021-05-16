@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "book"
+        },
+        {
+            "language": "德语",
+            "explanation": "Diagramm  (S)​,aufführen, auflisten"
+        },
+        {
+            "language": "法语",
+            "explanation": "amulette,Amulette"
+        }
+    ],
+    "general_pinyins": [
+        "lù"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "8",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "籙"
+    ],
+    "general_ytz": [
+        "簏",
+        "𥭼",
+        "籙"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7B93",
+            "31431451124134"
+        ],
+        "char_code_wubi": "tviu",
+        "char_code_cangjie": "hnme",
+        "char_code_zhengma": "mxkv",
+        "char_code_sijiao": "88909"
+    },
+    "general_unicode": "基本区 U+7B93",
+    "general_bs_code": "31431451124134"
+}

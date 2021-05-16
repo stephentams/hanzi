@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "light; easy, simple; gentle"
+        },
+        {
+            "language": "德语",
+            "explanation": "leicht (Gewicht)​  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "léger,jeune,peu important,doucement,à la légère,mépriser"
+        }
+    ],
+    "general_pinyins": [
+        "qīng"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄥ"
+    ],
+    "general_radical": {
+        "radical": "车",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "輕"
+    ],
+    "general_ytz": [
+        "輕",
+        "軽",
+        "䡖",
+        "𨌷",
+        "𨓷"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8F7B",
+            "152154121"
+        ],
+        "char_code_wubi": "lcag",
+        "char_code_cangjie": "kqnom",
+        "char_code_zhengma": "hexb",
+        "char_code_sijiao": "47512"
+    },
+    "general_unicode": "基本区 U+8F7B",
+    "general_bs_code": "152154121"
+}

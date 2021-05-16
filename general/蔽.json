@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cover, hide, conceal; shelter"
+        },
+        {
+            "language": "法语",
+            "explanation": "couvrir,abriter"
+        }
+    ],
+    "general_pinyins": [
+        "bì"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢅷",
+        "𦽗",
+        "𦿔",
+        "撇",
+        "𦷥",
+        "𦿝"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "853D",
+            "12243252343134"
+        ],
+        "char_code_wubi": "aumt|aitu",
+        "char_code_cangjie": "tfbk",
+        "char_code_zhengma": "eklm",
+        "char_code_sijiao": "44248"
+    },
+    "general_unicode": "基本区 U+853D",
+    "general_bs_code": "12243252343134"
+}

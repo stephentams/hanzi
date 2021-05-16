@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bite, gnaw"
+        }
+    ],
+    "general_pinyins": [
+        "niè"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "嚙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "565B",
+            "251212143123452"
+        ],
+        "char_code_wubi": "khob",
+        "char_code_cangjie": "xxrym",
+        "char_code_zhengma": "jiuz",
+        "char_code_sijiao": "61072"
+    },
+    "general_unicode": "基本区 U+565B",
+    "general_bs_code": "251212143123452"
+}

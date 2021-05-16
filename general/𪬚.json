@@ -1,0 +1,26 @@
+{
+    "general_pinyins": [
+        "pīn"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧㄣ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "𢣐"
+    ],
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2AB1A"
+        ],
+        "char_code_wubi": "nprw",
+        "char_code_zhengma": "uwlc"
+    },
+    "general_unicode": "扩展C U+2AB1A"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "waves, ripples; overflow"
+        },
+        {
+            "language": "德语",
+            "explanation": "Mulde  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "plein d'eau,auge"
+        }
+    ],
+    "general_pinyins": [
+        "liàn"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "瀲"
+    ],
+    "general_ytz": [
+        "瀲",
+        "㶑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6F4B",
+            "44134144313134"
+        ],
+        "char_code_wubi": "iwgt",
+        "char_code_cangjie": "eomk",
+        "char_code_zhengma": "vovm",
+        "char_code_sijiao": "38140"
+    },
+    "general_unicode": "基本区 U+6F4B",
+    "general_bs_code": "44134144313134"
+}

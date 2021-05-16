@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(a dialect) low-lying (ground) on the side of a river or lake, (a variant 塱) name of a place in Guangdong"
+        }
+    ],
+    "general_pinyins": [
+        "lǎng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "塱",
+        "𤨡"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "365F",
+            "1214511543511"
+        ],
+        "char_code_wubi": "fyve",
+        "char_code_cangjie": "giib",
+        "char_code_zhengma": "bsxq",
+        "char_code_sijiao": "47120"
+    },
+    "general_unicode": "扩展A U+365F",
+    "general_bs_code": "1214511543511"
+}

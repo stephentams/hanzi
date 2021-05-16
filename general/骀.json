@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "an old, tired horse, a jade; tired, exhausted"
+        },
+        {
+            "language": "法语",
+            "explanation": "(arch.)​ fatigué,épuisé"
+        }
+    ],
+    "general_pinyins": [
+        "tái"
+    ],
+    "general_zhuyins": [
+        "ㄊㄞˊ"
+    ],
+    "general_radical": {
+        "radical": "马",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "駘"
+    ],
+    "general_ytz": [
+        "駘",
+        "𩢠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A80",
+            "55154251"
+        ],
+        "char_code_wubi": "cckg|cgck",
+        "char_code_cangjie": "nmir",
+        "char_code_zhengma": "xzj",
+        "char_code_sijiao": "73160"
+    },
+    "general_unicode": "基本区 U+9A80",
+    "general_bs_code": "55154251"
+}

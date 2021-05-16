@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "grain, kernel"
+        },
+        {
+            "language": "德语",
+            "explanation": "ZEW für runde kleine Dinge (z.B. Perlen, Diamanten)​ bzw. klein wirkende Dinge (z.B. ferne Sterne, Planeten)​ (Zähl)"
+        },
+        {
+            "language": "法语",
+            "explanation": "grain,(classificateur pour les petits objets sphériques, les dents, les satellites)​"
+        }
+    ],
+    "general_pinyins": [
+        "kē"
+    ],
+    "general_zhuyins": [
+        "ㄎㄜ"
+    ],
+    "general_radical": {
+        "radical": "页",
+        "non_radical_sn": "8",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "顆"
+    ],
+    "general_ytz": [
+        "顆"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9897",
+            "25111234132534"
+        ],
+        "char_code_wubi": "jsdm",
+        "char_code_cangjie": "wdmbo",
+        "char_code_zhengma": "kfgo",
+        "char_code_sijiao": "61982"
+    },
+    "general_unicode": "基本区 U+9897",
+    "general_bs_code": "25111234132534"
+}

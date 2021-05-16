@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to grasp or hold with both hands"
+        },
+        {
+            "language": "德语",
+            "explanation": "packen, fassen, ergreifen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "prendre avec les deux mains jointes"
+        }
+    ],
+    "general_pinyins": [
+        "jū"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㧦",
+        "匊",
+        "揈",
+        "𡙳",
+        "𢱬",
+        "𥵱",
+        "𥸭",
+        "𥸶",
+        "𢌻"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "63AC",
+            "12135431234"
+        ],
+        "char_code_wubi": "rqoy",
+        "char_code_cangjie": "qpfd",
+        "char_code_zhengma": "druf",
+        "char_code_sijiao": "57020"
+    },
+    "general_unicode": "基本区 U+63AC",
+    "general_bs_code": "12135431234"
+}

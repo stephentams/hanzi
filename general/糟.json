@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sediment, dregs; pickle"
+        },
+        {
+            "language": "法语",
+            "explanation": "pourri,gâté,mauvais,désastreux,lie,céréales fermentées,gâchis"
+        }
+    ],
+    "general_pinyins": [
+        "zāo"
+    ],
+    "general_zhuyins": [
+        "ㄗㄠ"
+    ],
+    "general_radical": {
+        "radical": "米",
+        "non_radical_sn": "11",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "醩",
+        "𦵩",
+        "𨠷",
+        "𨣹",
+        "𨤇",
+        "𨤈",
+        "蹧",
+        "𥽾"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7CDF",
+            "43123412512212511"
+        ],
+        "char_code_wubi": "ogmj",
+        "char_code_cangjie": "fdtwa",
+        "char_code_zhengma": "ufkk",
+        "char_code_sijiao": "95966"
+    },
+    "general_unicode": "基本区 U+7CDF",
+    "general_bs_code": "43123412512212511"
+}

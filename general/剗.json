@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to level off; to trim; to pare down"
+        },
+        {
+            "language": "德语",
+            "explanation": "beschneiden (Pflanzen)​  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "pelle"
+        }
+    ],
+    "general_pinyins": [
+        "chǎn",
+        "chàn"
+    ],
+    "general_zhuyins": [
+        "ㄔㄢˇ",
+        "ㄔㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "刂",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "刬"
+    ],
+    "general_ytz": [
+        "刬",
+        "𠠮",
+        "𣂧"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5257",
+            "1534153422"
+        ],
+        "char_code_wubi": "aajh",
+        "char_code_cangjie": "iiln",
+        "char_code_zhengma": "hmhk",
+        "char_code_sijiao": "52500"
+    },
+    "general_unicode": "基本区 U+5257",
+    "general_bs_code": "1534153422"
+}

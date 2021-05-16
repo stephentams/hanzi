@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sweet wine; sweet spring"
+        },
+        {
+            "language": "德语",
+            "explanation": "Südwein  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "vin doux"
+        }
+    ],
+    "general_pinyins": [
+        "lǐ"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "酉",
+        "non_radical_sn": "13",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "澧",
+        "醴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "91B4",
+            "12535112512211251431"
+        ],
+        "char_code_wubi": "sgmu",
+        "char_code_cangjie": "mwtwt",
+        "char_code_zhengma": "fdju",
+        "char_code_sijiao": "15618"
+    },
+    "general_unicode": "基本区 U+91B4",
+    "general_bs_code": "12535112512211251431"
+}

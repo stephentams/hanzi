@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "shoulders, upper arms"
+        },
+        {
+            "language": "法语",
+            "explanation": "bras,épaule"
+        }
+    ],
+    "general_pinyins": [
+        "bó"
+    ],
+    "general_zhuyins": [
+        "ㄅㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦣈",
+        "𦢸",
+        "髆",
+        "𦡰"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "818A",
+            "35111251124124"
+        ],
+        "char_code_wubi": "egef|esfy",
+        "char_code_cangjie": "bibi",
+        "char_code_zhengma": "qfds",
+        "char_code_sijiao": "73242"
+    },
+    "general_unicode": "基本区 U+818A",
+    "general_bs_code": "35111251124124"
+}

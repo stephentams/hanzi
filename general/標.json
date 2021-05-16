@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a mark, symbol, label, sign; standard"
+        },
+        {
+            "language": "法语",
+            "explanation": "marquer,étiqueter,marque,signe,étiquette,prix,récompense"
+        }
+    ],
+    "general_pinyins": [
+        "biāo"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "11",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "标"
+    ],
+    "general_ytz": [
+        "墂",
+        "幖",
+        "标",
+        "𢲗",
+        "𣗖",
+        "𣠙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6A19",
+            "123412522111234"
+        ],
+        "char_code_wubi": "ssfi",
+        "char_code_cangjie": "dmwf",
+        "char_code_zhengma": "ffbk",
+        "char_code_sijiao": "41991"
+    },
+    "general_unicode": "基本区 U+6A19",
+    "general_bs_code": "123412522111234"
+}

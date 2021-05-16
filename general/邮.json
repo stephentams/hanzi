@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "postal, mail; post office"
+        },
+        {
+            "language": "德语",
+            "explanation": "etw. mit der Post schicken  (V)​,postalisch  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "envoyer par la poste,postal"
+        }
+    ],
+    "general_pinyins": [
+        "yóu"
+    ],
+    "general_zhuyins": [
+        "ㄧㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "郵"
+    ],
+    "general_ytz": [
+        "𨛕",
+        "郵",
+        "𨜚",
+        "𨞄",
+        "𨛀",
+        "𨜲"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "90AE",
+            "2512152"
+        ],
+        "char_code_wubi": "mbh",
+        "char_code_cangjie": "lwnl",
+        "char_code_zhengma": "kiay",
+        "char_code_sijiao": "57627"
+    },
+    "general_unicode": "基本区 U+90AE",
+    "general_bs_code": "2512152"
+}

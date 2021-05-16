@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "flee, escape, break loose"
+        },
+        {
+            "language": "德语",
+            "explanation": "entgehen, entkommen"
+        },
+        {
+            "language": "法语",
+            "explanation": "repos,loisir,s'enfuir,exceller,surpasser"
+        }
+    ],
+    "general_pinyins": [
+        "yì"
+    ],
+    "general_zhuyins": [
+        "ㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨓜",
+        "𤖚",
+        "𤖍",
+        "𠡓",
+        "劮",
+        "逸",
+        "逸"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9038",
+            "35251354454"
+        ],
+        "char_code_wubi": "qkqp",
+        "char_code_cangjie": "ynai",
+        "char_code_zhengma": "rrsw",
+        "char_code_sijiao": "37301"
+    },
+    "general_unicode": "基本区 U+9038",
+    "general_bs_code": "35251354454"
+}

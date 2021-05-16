@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stick, cudgel; scoundrel"
+        },
+        {
+            "language": "德语",
+            "explanation": "Prügel  (S)​,Stock  (S)​,legen, befestigen  (V)​,Schurke, Halunke  (S, vulg)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bâton"
+        }
+    ],
+    "general_pinyins": [
+        "gùn",
+        "hùn"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄣˋ",
+        "ㄏㄨㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "68CD",
+            "123425111535"
+        ],
+        "char_code_wubi": "sjxx",
+        "char_code_cangjie": "dapp",
+        "char_code_zhengma": "fkrr",
+        "char_code_sijiao": "46912"
+    },
+    "general_unicode": "基本区 U+68CD",
+    "general_bs_code": "123425111535"
+}

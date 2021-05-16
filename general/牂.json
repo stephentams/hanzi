@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "female sheep, ewe"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ortsname  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "brebis,(nom de lieu)​"
+        }
+    ],
+    "general_pinyins": [
+        "zāng"
+    ],
+    "general_zhuyins": [
+        "ㄗㄤ"
+    ],
+    "general_radical": {
+        "radical": "爿",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䍧",
+        "䍭",
+        "戕",
+        "𤖁",
+        "𦎆",
+        "𤙢"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7242",
+            "5213431112"
+        ],
+        "char_code_wubi": "nhdd|uuh",
+        "char_code_cangjie": "vmtq",
+        "char_code_zhengma": "ziuc",
+        "char_code_sijiao": "28251"
+    },
+    "general_unicode": "基本区 U+7242",
+    "general_bs_code": "5213431112"
+}

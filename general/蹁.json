@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to walk with a limp"
+        },
+        {
+            "language": "德语",
+            "explanation": "hinken, lahmen"
+        },
+        {
+            "language": "法语",
+            "explanation": "boiter"
+        }
+    ],
+    "general_pinyins": [
+        "pián"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "9",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "徧",
+        "𨆭",
+        "𨇱",
+        "𨆩"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E41",
+            "2512121451325122"
+        ],
+        "char_code_wubi": "khya",
+        "char_code_cangjie": "rmhsb",
+        "char_code_zhengma": "jiwl",
+        "char_code_sijiao": "63127"
+    },
+    "general_unicode": "基本区 U+8E41",
+    "general_bs_code": "2512121451325122"
+}

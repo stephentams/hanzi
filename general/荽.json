@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "coriander"
+        },
+        {
+            "language": "德语",
+            "explanation": "Koriander  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "coriandre"
+        }
+    ],
+    "general_pinyins": [
+        "suī"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨㄟ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "葰",
+        "萎",
+        "𦯩",
+        "荾"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "837D",
+            "1223443531"
+        ],
+        "char_code_wubi": "aevf",
+        "char_code_cangjie": "tbv",
+        "char_code_zhengma": "epzm",
+        "char_code_sijiao": "44404"
+    },
+    "general_unicode": "基本区 U+837D",
+    "general_bs_code": "1223443531"
+}

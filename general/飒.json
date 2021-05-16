@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "the sound of the wind; bleak; melancholy"
+        },
+        {
+            "language": "德语",
+            "explanation": "ablehnend, abwinkend"
+        },
+        {
+            "language": "法语",
+            "explanation": "bruit du vent,vaillant,mélancolie"
+        }
+    ],
+    "general_pinyins": [
+        "sà"
+    ],
+    "general_zhuyins": [
+        "ㄙㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "风",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "颯"
+    ],
+    "general_ytz": [
+        "颯",
+        "䬃",
+        "𩗁"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "98D2",
+            "414313534"
+        ],
+        "char_code_wubi": "umqy|uwry",
+        "char_code_cangjie": "ythnk",
+        "char_code_zhengma": "suqo",
+        "char_code_sijiao": "07110"
+    },
+    "general_unicode": "基本区 U+98D2",
+    "general_bs_code": "414313534"
+}

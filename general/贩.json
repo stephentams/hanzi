@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "peddler, hawker, street merchant"
+        },
+        {
+            "language": "德语",
+            "explanation": "Straßenhändler  (S)​,kaufen für Wiederverkauf  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "trafiquer,transporter des marchandises,petit commerçant,marchand ambulant"
+        }
+    ],
+    "general_pinyins": [
+        "fàn"
+    ],
+    "general_zhuyins": [
+        "ㄈㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "販"
+    ],
+    "general_ytz": [
+        "販",
+        "𧶶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D29",
+            "25343354"
+        ],
+        "char_code_wubi": "mrcy",
+        "char_code_cangjie": "bohe",
+        "char_code_zhengma": "lopx",
+        "char_code_sijiao": "72847"
+    },
+    "general_unicode": "基本区 U+8D29",
+    "general_bs_code": "25343354"
+}

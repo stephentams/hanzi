@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to rise; contracted; cramped"
+        },
+        {
+            "language": "德语",
+            "explanation": "drücken, drängen ,eilen, Eile  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "étroit"
+        }
+    ],
+    "general_pinyins": [
+        "zé"
+    ],
+    "general_zhuyins": [
+        "ㄗㄜˊ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨕠",
+        "窄"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8FEE",
+            "31211454"
+        ],
+        "char_code_wubi": "thfp",
+        "char_code_cangjie": "yos",
+        "char_code_zhengma": "maiw",
+        "char_code_sijiao": "38301"
+    },
+    "general_unicode": "基本区 U+8FEE",
+    "general_bs_code": "31211454"
+}

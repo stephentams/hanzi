@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "flaw, fault, defect; disease"
+        },
+        {
+            "language": "法语",
+            "explanation": "défaut,tache,faute"
+        }
+    ],
+    "general_pinyins": [
+        "cī"
+    ],
+    "general_zhuyins": [
+        "ㄘ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "啙"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "75B5",
+            "41341212135"
+        ],
+        "char_code_wubi": "uhxv",
+        "char_code_cangjie": "kymp",
+        "char_code_zhengma": "tirr",
+        "char_code_sijiao": "00112"
+    },
+    "general_unicode": "基本区 U+75B5",
+    "general_bs_code": "41341212135"
+}

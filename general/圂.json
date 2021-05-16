@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pig-sty; privy"
+        },
+        {
+            "language": "德语",
+            "explanation": "Saustall, Schweinestall  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "porcherie,animaux nourris au grain"
+        }
+    ],
+    "general_pinyins": [
+        "hùn"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "囗",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "溷",
+        "豢"
+    ],
+    "general_structure": "全包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5702",
+            "2513533341"
+        ],
+        "char_code_wubi": "lei|lgei",
+        "char_code_cangjie": "wmso",
+        "char_code_zhengma": "jdgq",
+        "char_code_sijiao": "60232"
+    },
+    "general_unicode": "基本区 U+5702",
+    "general_bs_code": "2513533341"
+}

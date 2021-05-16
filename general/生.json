@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "life, living, lifetime; birth"
+        },
+        {
+            "language": "德语",
+            "explanation": "gebären  (V)​,geboren werden  (V)​,leben  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "être né,naître,donner naissance,accoucher,vie,existence,élève,cru,pousser (grandir)​"
+        }
+    ],
+    "general_pinyins": [
+        "shēng"
+    ],
+    "general_zhuyins": [
+        "ㄕㄥ"
+    ],
+    "general_radical": {
+        "radical": "生",
+        "non_radical_sn": "0",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "性",
+        "𠤵",
+        "𠥱",
+        "𤯓",
+        "甥"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "751F",
+            "31121"
+        ],
+        "char_code_wubi": "tgd",
+        "char_code_cangjie": "hqm",
+        "char_code_zhengma": "mc",
+        "char_code_sijiao": "25100"
+    },
+    "general_unicode": "基本区 U+751F",
+    "general_bs_code": "31121"
+}

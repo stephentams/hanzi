@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "happiness, blessings, good luck"
+        },
+        {
+            "language": "德语",
+            "explanation": "Glück  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "félicité,bien-être"
+        }
+    ],
+    "general_pinyins": [
+        "zhǐ"
+    ],
+    "general_zhuyins": [
+        "ㄓˇ"
+    ],
+    "general_radical": {
+        "radical": "礻",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "祉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7949",
+            "45242121"
+        ],
+        "char_code_wubi": "pyhg",
+        "char_code_cangjie": "ifylm",
+        "char_code_zhengma": "wsii",
+        "char_code_sijiao": "31210"
+    },
+    "general_unicode": "基本区 U+7949",
+    "general_bs_code": "45242121"
+}

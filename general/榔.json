@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "betel-nut tree"
+        },
+        {
+            "language": "法语",
+            "explanation": "marteau"
+        }
+    ],
+    "general_pinyins": [
+        "láng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "桹",
+        "樠"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6994",
+            "123445115452"
+        ],
+        "char_code_wubi": "syvb",
+        "char_code_cangjie": "diil",
+        "char_code_zhengma": "fsxy",
+        "char_code_sijiao": "47927"
+    },
+    "general_unicode": "基本区 U+6994",
+    "general_bs_code": "123445115452"
+}

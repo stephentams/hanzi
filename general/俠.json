@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "chivalrous person; knight-errant"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schwertkämpfer, Kämpfer für Gerechtigkeit, Held  (S, Gesch)​,ritterlich gesinnt, gerechtigkeitsliebend, heldenhaft  (Adj)​,Xia  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "chevaleresque,chevalier,paladin"
+        }
+    ],
+    "general_pinyins": [
+        "xiá"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "侠"
+    ],
+    "general_ytz": [
+        "侠",
+        "夾"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4FE0",
+            "321343434"
+        ],
+        "char_code_wubi": "wdww",
+        "char_code_cangjie": "okoo",
+        "char_code_zhengma": "ngoo",
+        "char_code_sijiao": "24288"
+    },
+    "general_unicode": "基本区 U+4FE0",
+    "general_bs_code": "321343434"
+}

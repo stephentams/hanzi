@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "piebald horse"
+        }
+    ],
+    "general_pinyins": [
+        "zhuī"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨㄟ"
+    ],
+    "general_radical": {
+        "radical": "马",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "騅"
+    ],
+    "general_ytz": [
+        "騅"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A93",
+            "55132411121"
+        ],
+        "char_code_wubi": "cwyg|cgwy",
+        "char_code_cangjie": "nmog",
+        "char_code_zhengma": "xni",
+        "char_code_sijiao": "70115"
+    },
+    "general_unicode": "基本区 U+9A93",
+    "general_bs_code": "55132411121"
+}

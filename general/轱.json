@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wheel; to turn; to revolve"
+        }
+    ],
+    "general_pinyins": [
+        "gū"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨ"
+    ],
+    "general_radical": {
+        "radical": "车",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "軲"
+    ],
+    "general_ytz": [
+        "軲"
+    ],
+    "general_structure": "形声；从车、古声",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8F71",
+            "152112251"
+        ],
+        "char_code_wubi": "ldg",
+        "char_code_cangjie": "kqjr",
+        "char_code_zhengma": "heej",
+        "char_code_sijiao": "44560"
+    },
+    "general_unicode": "基本区 U+8F71",
+    "general_bs_code": "152112251"
+}

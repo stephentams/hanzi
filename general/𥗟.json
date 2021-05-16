@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "pò"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "16",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "255DF",
+            "1325125111221344111251"
+        ],
+        "char_code_wubi": "djay",
+        "char_code_cangjie": "mratr",
+        "char_code_zhengma": "gkos"
+    },
+    "general_unicode": "扩展B U+255DF",
+    "general_bs_code": "1325125111221344111251"
+}

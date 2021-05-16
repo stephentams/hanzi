@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "an enlarged bag, to wrap up, a parcel; a bundle; a package"
+        }
+    ],
+    "general_pinyins": [
+        "biǎo",
+        "piáo",
+        "pāo"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄠˇ",
+        "ㄆㄧㄠˊ",
+        "ㄆㄠ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "13",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣞈",
+        "𣙲",
+        "𣚇"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3BF1",
+            "12512453112521234"
+        ],
+        "char_code_wubi": "gkhs",
+        "char_code_cangjie": "jboud",
+        "char_code_zhengma": "ajzf",
+        "char_code_sijiao": "50904"
+    },
+    "general_unicode": "扩展A U+3BF1",
+    "general_bs_code": "12512453112521234"
+}

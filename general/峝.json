@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "Mountain in Gansu province"
+        },
+        {
+            "language": "法语",
+            "explanation": "mont Kongtong"
+        }
+    ],
+    "general_pinyins": [
+        "tóng"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "峒"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5CDD",
+            "252251251"
+        ],
+        "char_code_wubi": "mmgk",
+        "char_code_cangjie": "ubmr",
+        "char_code_zhengma": "llld",
+        "char_code_sijiao": "22227"
+    },
+    "general_unicode": "基本区 U+5CDD",
+    "general_bs_code": "252251251"
+}

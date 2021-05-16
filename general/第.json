@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sequence, number; grade, degree"
+        },
+        {
+            "language": "德语",
+            "explanation": "Hilfswort zur Bildung von Ordinalzahlen (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(préfixe formant les nombres ordinaux)​,numéro..."
+        }
+    ],
+    "general_pinyins": [
+        "dì"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "弟",
+        "苐"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7B2C",
+            "31431451523"
+        ],
+        "char_code_wubi": "txht",
+        "char_code_cangjie": "hnlh",
+        "char_code_zhengma": "myz",
+        "char_code_sijiao": "88227"
+    },
+    "general_unicode": "基本区 U+7B2C",
+    "general_bs_code": "31431451523"
+}

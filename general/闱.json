@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "gate, door; living quarters"
+        },
+        {
+            "language": "法语",
+            "explanation": "portes du palais,portes de l'appartement des femmes"
+        }
+    ],
+    "general_pinyins": [
+        "wéi"
+    ],
+    "general_zhuyins": [
+        "ㄨㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "门",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "闈"
+    ],
+    "general_ytz": [
+        "闈",
+        "𨵾"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "95F1",
+            "4251152"
+        ],
+        "char_code_wubi": "ufnh",
+        "char_code_cangjie": "lsqs",
+        "char_code_zhengma": "tlby",
+        "char_code_sijiao": "37527"
+    },
+    "general_unicode": "基本区 U+95F1",
+    "general_bs_code": "4251152"
+}

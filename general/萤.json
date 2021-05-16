@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "glow-worm, luminous insect"
+        },
+        {
+            "language": "德语",
+            "explanation": "Leuchtkäfer  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "ver luisant,luciole"
+        }
+    ],
+    "general_pinyins": [
+        "yíng"
+    ],
+    "general_zhuyins": [
+        "ㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "螢"
+    ],
+    "general_ytz": [
+        "螢",
+        "蛍",
+        "𧓌"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8424",
+            "12245251214"
+        ],
+        "char_code_wubi": "apju",
+        "char_code_cangjie": "tbli",
+        "char_code_zhengma": "ewi",
+        "char_code_sijiao": "44136"
+    },
+    "general_unicode": "基本区 U+8424",
+    "general_bs_code": "12245251214"
+}

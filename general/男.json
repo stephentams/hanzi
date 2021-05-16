@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "male, man; son; baron; surname"
+        },
+        {
+            "language": "德语",
+            "explanation": "Mann, männlich  (Adj)​,♂ (Symbol für männlich)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "masculin,homme (en opposition à femme)​"
+        }
+    ],
+    "general_pinyins": [
+        "nán"
+    ],
+    "general_zhuyins": [
+        "ㄋㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "田",
+        "non_radical_sn": "2",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㑲",
+        "㽖",
+        "侽",
+        "𧇙",
+        "𤰛",
+        "𰢽"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7537",
+            "2512153"
+        ],
+        "char_code_wubi": "llb|ler",
+        "char_code_cangjie": "wks",
+        "char_code_zhengma": "kiym",
+        "char_code_sijiao": "60427"
+    },
+    "general_unicode": "基本区 U+7537",
+    "general_bs_code": "2512153"
+}

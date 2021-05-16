@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sickle"
+        },
+        {
+            "language": "德语",
+            "explanation": "Sichel, Sense  (S, Agrar)"
+        },
+        {
+            "language": "法语",
+            "explanation": "faucille"
+        }
+    ],
+    "general_pinyins": [
+        "lián"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "釒",
+        "non_radical_sn": "13",
+        "total_sn": "21"
+    },
+    "general_stc": [
+        "镰"
+    ],
+    "general_ytz": [
+        "礦",
+        "䥥",
+        "劆",
+        "鎌",
+        "镰"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "942E",
+            "341124314134315112234"
+        ],
+        "char_code_wubi": "qyuo|qouw",
+        "char_code_cangjie": "citc",
+        "char_code_zhengma": "ptux",
+        "char_code_sijiao": "80137"
+    },
+    "general_unicode": "基本区 U+942E",
+    "general_bs_code": "341124314134315112234"
+}

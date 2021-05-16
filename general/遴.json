@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "select, choose; surname"
+        },
+        {
+            "language": "法语",
+            "explanation": "marcher ou agir avec peine,choisir"
+        }
+    ],
+    "general_pinyins": [
+        "lín"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨗄",
+        "𨖉",
+        "僯",
+        "䢯"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9074",
+            "431234354152454"
+        ],
+        "char_code_wubi": "oqap|oqgp",
+        "char_code_cangjie": "yfdq",
+        "char_code_zhengma": "ufmw",
+        "char_code_sijiao": "39305"
+    },
+    "general_unicode": "基本区 U+9074",
+    "general_bs_code": "431234354152454"
+}

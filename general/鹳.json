@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "crane, grus japonensis; stork; Ciconia species (various)"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fluggerät, Fluggestell (Bühnentechnik, Teil des Flugwerks)​  (S)​,Kran  (S)​,Krane  (S)​,Kranich  (S)​,Marabu  (S)​,Storch  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cigogne"
+        }
+    ],
+    "general_pinyins": [
+        "guàn"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "鸟",
+        "non_radical_sn": "17",
+        "total_sn": "22"
+    },
+    "general_stc": [
+        "鸛"
+    ],
+    "general_ytz": [
+        "鸛",
+        "鵍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E73",
+            "1222512513241112135451"
+        ],
+        "char_code_wubi": "akkg",
+        "char_code_cangjie": "tgpym",
+        "char_code_zhengma": "ejnr",
+        "char_code_sijiao": "47227"
+    },
+    "general_unicode": "基本区 U+9E73",
+    "general_bs_code": "1222512513241112135451"
+}

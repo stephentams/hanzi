@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "baby; doll; pretty girl"
+        },
+        {
+            "language": "德语",
+            "explanation": "Baby, Säugling, Kleinkind  (S)​,Junges 法语 poupée,bébé"
+        }
+    ],
+    "general_pinyins": [
+        "wá"
+    ],
+    "general_zhuyins": [
+        "ㄨㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5A03",
+            "531121121"
+        ],
+        "char_code_wubi": "vffg",
+        "char_code_cangjie": "vgg",
+        "char_code_zhengma": "zmbb",
+        "char_code_sijiao": "44414"
+    },
+    "general_unicode": "基本区 U+5A03",
+    "general_bs_code": "531121121"
+}

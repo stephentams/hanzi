@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "meditation, contemplation (DKW: 24787')"
+        },
+        {
+            "language": "德语",
+            "explanation": "Dhyana, Zen (höherer Bewusstseinszustand der Meditation)​  (S)​,Meditation  (S, Buddh)​,abdanken, zurücktreten  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "abdiquer,méditation (bouddhisme)​,contemplation,Zen,dhyana,dhyana"
+        }
+    ],
+    "general_pinyins": [
+        "chán",
+        "shàn"
+    ],
+    "general_zhuyins": [
+        "ㄔㄢˊ",
+        "ㄕㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "礻",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "禪"
+    ],
+    "general_ytz": [
+        "禪",
+        "䄠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7985",
+            "452443251112"
+        ],
+        "char_code_wubi": "pyuf",
+        "char_code_cangjie": "ifcwj",
+        "char_code_zhengma": "wske",
+        "char_code_sijiao": "38256"
+    },
+    "general_unicode": "基本区 U+7985",
+    "general_bs_code": "452443251112"
+}

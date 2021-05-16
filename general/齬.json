@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "uneven teeth; to disagree"
+        },
+        {
+            "language": "德语",
+            "explanation": "(English: irregular teeth)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "arcade dentaire irrégulière"
+        }
+    ],
+    "general_pinyins": [
+        "yǔ"
+    ],
+    "general_zhuyins": [
+        "ㄩˇ"
+    ],
+    "general_radical": {
+        "radical": "齒",
+        "non_radical_sn": "7",
+        "total_sn": "22"
+    },
+    "general_stc": [
+        "龉"
+    ],
+    "general_ytz": [
+        "龉",
+        "𦥉",
+        "𪘚"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9F6C",
+            "2121343413434521251251"
+        ],
+        "char_code_wubi": "hwwk|hbgk",
+        "char_code_cangjie": "yummr",
+        "char_code_zhengma": "ioxj",
+        "char_code_sijiao": "21761"
+    },
+    "general_unicode": "基本区 U+9F6C",
+    "general_bs_code": "2121343413434521251251"
+}

@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "the panther; the tapir"
+        },
+        {
+            "language": "德语",
+            "explanation": "Tapir  (S)​,Tapir  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tapir"
+        }
+    ],
+    "general_pinyins": [
+        "mò"
+    ],
+    "general_zhuyins": [
+        "ㄇㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "豸",
+        "non_radical_sn": "10",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "獏",
+        "㹮"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C98",
+            "34435331222511134"
+        ],
+        "char_code_wubi": "eead|eajd",
+        "char_code_cangjie": "bhtak",
+        "char_code_zhengma": "pqkg",
+        "char_code_sijiao": "24284"
+    },
+    "general_unicode": "基本区 U+8C98",
+    "general_bs_code": "34435331222511134"
+}

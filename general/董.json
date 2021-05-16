@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "direct, supervise; surname"
+        },
+        {
+            "language": "德语",
+            "explanation": "Dong  (Eig)​,Chef; Direktor"
+        },
+        {
+            "language": "法语",
+            "explanation": "administrer,diriger,surveiller,superviser,administrateur,directeur"
+        }
+    ],
+    "general_pinyins": [
+        "dǒng"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦱦",
+        "蕫",
+        "菫"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8463",
+            "122312511211"
+        ],
+        "char_code_wubi": "atgf",
+        "char_code_cangjie": "thjg",
+        "char_code_zhengma": "emkb",
+        "char_code_sijiao": "44105"
+    },
+    "general_unicode": "基本区 U+8463",
+    "general_bs_code": "122312511211"
+}

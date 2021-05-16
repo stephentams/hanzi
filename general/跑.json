@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "run, flee, leave in hurry"
+        },
+        {
+            "language": "德语",
+            "explanation": "rennen, schnell laufen  (V)​,entkommen, entgehen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "courir,s'enfuir,s'échapper,gratter le sol (pour un animal)​"
+        }
+    ],
+    "general_pinyins": [
+        "pǎo",
+        "páo"
+    ],
+    "general_zhuyins": [
+        "ㄆㄠˇ",
+        "ㄆㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "5",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "趵",
+        "𨀓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8DD1",
+            "251212135515"
+        ],
+        "char_code_wubi": "khqn",
+        "char_code_cangjie": "rmpru",
+        "char_code_zhengma": "jiry",
+        "char_code_sijiao": "67112"
+    },
+    "general_unicode": "基本区 U+8DD1",
+    "general_bs_code": "251212135515"
+}

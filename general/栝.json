@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a builder's frame for measuring"
+        },
+        {
+            "language": "德语",
+            "explanation": "(English: measuring-frame)​ ,Chinesischer Wacholder  (Eig, Bio)​,Juniperus chinensis  (Eig, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "Juniperus chinensis,outil de mesure pour les maçons"
+        }
+    ],
+    "general_pinyins": [
+        "guā",
+        "tiǎn"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄚ",
+        "ㄊㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㮇",
+        "桰",
+        "𣐸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "681D",
+            "1234312251"
+        ],
+        "char_code_wubi": "stdg",
+        "char_code_cangjie": "dhjr",
+        "char_code_zhengma": "fmi",
+        "char_code_sijiao": "42964"
+    },
+    "general_unicode": "基本区 U+681D",
+    "general_bs_code": "1234312251"
+}

@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mythological wingless dragon of"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gemeiner Flugdrache"
+        },
+        {
+            "language": "法语",
+            "explanation": "dragon volant"
+        }
+    ],
+    "general_pinyins": [
+        "téng"
+    ],
+    "general_zhuyins": [
+        "ㄊㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "10",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦢅",
+        "𧑞",
+        "𧑥",
+        "𧔟",
+        "𧔶",
+        "𧖍",
+        "蟘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "87A3",
+            "3511431134251214"
+        ],
+        "char_code_wubi": "eudj|eugj",
+        "char_code_cangjie": "bfqi",
+        "char_code_zhengma": "qui",
+        "char_code_sijiao": "79236"
+    },
+    "general_unicode": "基本区 U+87A3",
+    "general_bs_code": "3511431134251214"
+}

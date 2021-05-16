@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "border, boundary, juncture"
+        },
+        {
+            "language": "德语",
+            "explanation": "Grenze, Rand  (S)​,im Inneren, im Kopf, im Sinn  (S)​,Los, Geschick  (S)​,Zeit, Gelegenheit  (S)​,zwischen, unter  (S)​,aus Anlass, anlässlich  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "limite,frontière,entre,terme,rencontre"
+        }
+    ],
+    "general_pinyins": [
+        "jì"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "際"
+    ],
+    "general_ytz": [
+        "際"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9645",
+            "5211234"
+        ],
+        "char_code_wubi": "bfiy",
+        "char_code_cangjie": "nlmmf",
+        "char_code_zhengma": "ybk",
+        "char_code_sijiao": "71291"
+    },
+    "general_unicode": "基本区 U+9645",
+    "general_bs_code": "5211234"
+}

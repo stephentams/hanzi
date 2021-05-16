@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "net; snare; pressure come or go"
+        },
+        {
+            "language": "德语",
+            "explanation": "beinhalten, anklagen"
+        },
+        {
+            "language": "法语",
+            "explanation": "filet,châtier"
+        }
+    ],
+    "general_pinyins": [
+        "gǔ"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "罒",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䇢",
+        "𦊖",
+        "𦊙",
+        "𦊟"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F5F",
+            "2522112251"
+        ],
+        "char_code_wubi": "ldf",
+        "char_code_cangjie": "wljr",
+        "char_code_zhengma": "lkej",
+        "char_code_sijiao": "60604"
+    },
+    "general_unicode": "基本区 U+7F5F",
+    "general_bs_code": "2522112251"
+}

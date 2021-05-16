@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "err, make mistake; interfere"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufhalten, aufschieben ,fehlen, fehlschlagen ,schädigen ,verabsäumen, vernachlässigen ,Fehler  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "manquer,rater,nuire à,erreur"
+        }
+    ],
+    "general_pinyins": [
+        "wù"
+    ],
+    "general_zhuyins": [
+        "ㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "誤"
+    ],
+    "general_ytz": [
+        "誤",
+        "悮"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BEF",
+            "452511134"
+        ],
+        "char_code_wubi": "ykgd",
+        "char_code_cangjie": "ivrmk",
+        "char_code_zhengma": "sjag",
+        "char_code_sijiao": "36784"
+    },
+    "general_unicode": "基本区 U+8BEF",
+    "general_bs_code": "452511134"
+}

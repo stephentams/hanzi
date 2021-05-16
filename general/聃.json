@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ears without rims; a personal name"
+        },
+        {
+            "language": "德语",
+            "explanation": "Dan (Einer der Namen des Laozi: 老聃 - Altes Langohr)​  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(prénom)​"
+        }
+    ],
+    "general_pinyins": [
+        "dān"
+    ],
+    "general_zhuyins": [
+        "ㄉㄢ"
+    ],
+    "general_radical": {
+        "radical": "耳",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "耽",
+        "冉",
+        "耼",
+        "𣅧",
+        "𦕐",
+        "𨈜",
+        "𨈭",
+        "𨉄"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8043",
+            "12211125211"
+        ],
+        "char_code_wubi": "bmfg",
+        "char_code_cangjie": "sjgb",
+        "char_code_zhengma": "celb",
+        "char_code_sijiao": "15447"
+    },
+    "general_unicode": "基本区 U+8043",
+    "general_bs_code": "12211125211"
+}

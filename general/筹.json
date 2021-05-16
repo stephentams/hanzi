@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "chip, tally, token; raise money"
+        },
+        {
+            "language": "德语",
+            "explanation": "vorbereiten  (V)​,planen"
+        },
+        {
+            "language": "法语",
+            "explanation": "préparer,combiner,projeter"
+        }
+    ],
+    "general_pinyins": [
+        "chóu"
+    ],
+    "general_zhuyins": [
+        "ㄔㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "7",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "籌"
+    ],
+    "general_ytz": [
+        "籌",
+        "𥵽"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7B79",
+            "3143141113124"
+        ],
+        "char_code_wubi": "tdtf",
+        "char_code_cangjie": "hqki",
+        "char_code_zhengma": "mcds",
+        "char_code_sijiao": "88344"
+    },
+    "general_unicode": "基本区 U+7B79",
+    "general_bs_code": "3143141113124"
+}

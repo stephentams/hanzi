@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "saddle; any saddle-shaped object"
+        },
+        {
+            "language": "德语",
+            "explanation": "Sattel 法语 selle (équitation)​"
+        }
+    ],
+    "general_pinyins": [
+        "ān"
+    ],
+    "general_zhuyins": [
+        "ㄢ"
+    ],
+    "general_radical": {
+        "radical": "革",
+        "non_radical_sn": "6",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "鞌",
+        "𩣑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "978D",
+            "122125112445531"
+        ],
+        "char_code_wubi": "afpv",
+        "char_code_cangjie": "tjjv",
+        "char_code_zhengma": "eewz",
+        "char_code_sijiao": "43544"
+    },
+    "general_unicode": "基本区 U+978D",
+    "general_bs_code": "122125112445531"
+}

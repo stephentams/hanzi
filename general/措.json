@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "place; collect, arrange; employ"
+        },
+        {
+            "language": "德语",
+            "explanation": "anordnen, einrichten  (V)​,auftreiben, beschaffen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "arranger,ménager,manier"
+        }
+    ],
+    "general_pinyins": [
+        "cuò"
+    ],
+    "general_zhuyins": [
+        "ㄘㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "刺",
+        "𢵄"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "63AA",
+            "12112212511"
+        ],
+        "char_code_wubi": "rajg",
+        "char_code_cangjie": "qta",
+        "char_code_zhengma": "dek",
+        "char_code_sijiao": "54061"
+    },
+    "general_unicode": "基本区 U+63AA",
+    "general_bs_code": "12112212511"
+}

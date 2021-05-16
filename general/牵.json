@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "drag, pull, lead by hand"
+        },
+        {
+            "language": "德语",
+            "explanation": "ziehen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "conduire par la main (une personne ou un animal)​,se tenir la main,s'impliquer"
+        }
+    ],
+    "general_pinyins": [
+        "qiān"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "牛",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "牽"
+    ],
+    "general_ytz": [
+        "牽",
+        "撁",
+        "𢫀",
+        "𢴡",
+        "𤙺"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7275",
+            "134453112"
+        ],
+        "char_code_wubi": "dprh|dptg",
+        "char_code_cangjie": "kbhq",
+        "char_code_zhengma": "gdwm",
+        "char_code_sijiao": "40502"
+    },
+    "general_unicode": "基本区 U+7275",
+    "general_bs_code": "134453112"
+}

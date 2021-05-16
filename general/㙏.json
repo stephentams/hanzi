@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "caverns; a grotto, a cellar, a cave-dwelling, to make a cave -- for dwelling"
+        }
+    ],
+    "general_pinyins": [
+        "fù"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥨍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "364F",
+            "121312511354"
+        ],
+        "char_code_wubi": "ftjt",
+        "char_code_cangjie": "goae",
+        "char_code_zhengma": "bmkr",
+        "char_code_sijiao": "48147"
+    },
+    "general_unicode": "扩展A U+364F",
+    "general_bs_code": "121312511354"
+}

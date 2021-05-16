@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dye; be contagious; infect"
+        },
+        {
+            "language": "德语",
+            "explanation": "abtönen (V)​,anstecken (V, Med)​,färben (V)​,verunreinigen, beschmutzen (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "teindre,colorer,attraper une maladie,prendre une mauvaise habitude,contaminer"
+        }
+    ],
+    "general_pinyins": [
+        "rǎn"
+    ],
+    "general_zhuyins": [
+        "ㄖㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𩃵"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "67D3",
+            "441351234"
+        ],
+        "char_code_wubi": "ivsu",
+        "char_code_cangjie": "end",
+        "char_code_zhengma": "vqf",
+        "char_code_sijiao": "34904"
+    },
+    "general_unicode": "基本区 U+67D3",
+    "general_bs_code": "441351234"
+}

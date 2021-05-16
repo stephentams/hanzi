@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as U+3021 HANGZHOU NUMERAL ONE 〡) number one; line; KangXi radical 2"
+        },
+        {
+            "language": "德语",
+            "explanation": "Radikal Nr. 2 = Stock"
+        },
+        {
+            "language": "法语",
+            "explanation": "radical dans les caractères chinois (radical 2 Kangxi)​,ligne (radical)​"
+        }
+    ],
+    "general_pinyins": [
+        "gǔn"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "丨",
+        "non_radical_sn": "0",
+        "total_sn": "1"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "单体结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4E28",
+            "2"
+        ],
+        "char_code_wubi": "hhll",
+        "char_code_cangjie": "l",
+        "char_code_zhengma": "iaaa",
+        "char_code_sijiao": "20000"
+    },
+    "general_unicode": "基本区 U+4E28",
+    "general_bs_code": "2"
+}

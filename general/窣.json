@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to rush out of a den; rustling, whispering"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gesäusel, raschelnd  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "s'enfuir d'un repaire,bruissement"
+        }
+    ],
+    "general_pinyins": [
+        "sū"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨ"
+    ],
+    "general_radical": {
+        "radical": "穴",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥤿",
+        "𥦑"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7AA3",
+            "4453441343412"
+        ],
+        "char_code_wubi": "pwyf",
+        "char_code_cangjie": "jcyoj",
+        "char_code_zhengma": "wooe",
+        "char_code_sijiao": "30408"
+    },
+    "general_unicode": "基本区 U+7AA3",
+    "general_bs_code": "4453441343412"
+}

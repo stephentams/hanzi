@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "be defeated, decline, fail"
+        },
+        {
+            "language": "德语",
+            "explanation": "Niederlage  (S)​,Verlust  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "échec,insuccès,être vaincu,battu,subir une défaite,infliger une défaite,échouer,subir un échec,gâter,neutraliser,dessécher,flétrir,faner,fané,desséché"
+        }
+    ],
+    "general_pinyins": [
+        "bài"
+    ],
+    "general_zhuyins": [
+        "ㄅㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "敗"
+    ],
+    "general_ytz": [
+        "敗",
+        "贁",
+        "䢙",
+        "𢼷",
+        "𣀕",
+        "𤖐"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D25",
+            "25343134"
+        ],
+        "char_code_wubi": "mty",
+        "char_code_cangjie": "book",
+        "char_code_zhengma": "lomo",
+        "char_code_sijiao": "78840"
+    },
+    "general_unicode": "基本区 U+8D25",
+    "general_bs_code": "25343134"
+}

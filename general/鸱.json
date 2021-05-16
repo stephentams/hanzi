@@ -1,0 +1,55 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "kite, horned owl; wine cups"
+        },
+        {
+            "language": "德语",
+            "explanation": "&gt"
+        },
+        {
+            "language": "法语",
+            "explanation": "épervier,hibou"
+        }
+    ],
+    "general_pinyins": [
+        "chī"
+    ],
+    "general_zhuyins": [
+        "ㄔ"
+    ],
+    "general_radical": {
+        "radical": "鸟",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "鴟"
+    ],
+    "general_ytz": [
+        "鴟",
+        "殦",
+        "鵄",
+        "䲭",
+        "𨾦",
+        "𨾽",
+        "𩿍",
+        "𩿒",
+        "𩿨",
+        "𪂑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E31",
+            "3515435451"
+        ],
+        "char_code_wubi": "qayg",
+        "char_code_cangjie": "hipym",
+        "char_code_zhengma": "rhsr",
+        "char_code_sijiao": "77727"
+    },
+    "general_unicode": "基本区 U+9E31",
+    "general_bs_code": "3515435451"
+}

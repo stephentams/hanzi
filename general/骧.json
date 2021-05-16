@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "gallop about with head uplifted"
+        },
+        {
+            "language": "德语",
+            "explanation": "herumhüpfen, herumtanzen"
+        },
+        {
+            "language": "法语",
+            "explanation": "bondir"
+        }
+    ],
+    "general_pinyins": [
+        "xiāng"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄤ"
+    ],
+    "general_radical": {
+        "radical": "马",
+        "non_radical_sn": "17",
+        "total_sn": "20"
+    },
+    "general_stc": [
+        "驤"
+    ],
+    "general_ytz": [
+        "驤",
+        "𩦪"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9AA7",
+            "55141251251112213534"
+        ],
+        "char_code_wubi": "cyke|cgye",
+        "char_code_cangjie": "nmyrv",
+        "char_code_zhengma": "xser",
+        "char_code_sijiao": "70132"
+    },
+    "general_unicode": "基本区 U+9AA7",
+    "general_bs_code": "55141251251112213534"
+}

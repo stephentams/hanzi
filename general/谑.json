@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "jeer"
+        },
+        {
+            "language": "德语",
+            "explanation": "Vergnügen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "joie,blaguer,plaisanter,moquer"
+        }
+    ],
+    "general_pinyins": [
+        "xuè"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "謔"
+    ],
+    "general_ytz": [
+        "謔",
+        "𧫪"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C11",
+            "45215315151"
+        ],
+        "char_code_wubi": "yhag",
+        "char_code_cangjie": "ivypm",
+        "char_code_zhengma": "sih",
+        "char_code_sijiao": "31714"
+    },
+    "general_unicode": "基本区 U+8C11",
+    "general_bs_code": "45215315151"
+}

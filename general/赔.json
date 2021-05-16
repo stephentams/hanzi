@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "indemnify, suffer loss"
+        },
+        {
+            "language": "德语",
+            "explanation": "Geld verlieren, Kapital einbüßen (V)​,kompensieren, jdn entschädigen, etw. ersetzen (V)​,Verluste machen, mit Verlust arbeiten, einen Verlust erleiden (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "indemniser,rembourser,perdre"
+        }
+    ],
+    "general_pinyins": [
+        "péi"
+    ],
+    "general_zhuyins": [
+        "ㄆㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "賠"
+    ],
+    "general_ytz": [
+        "賠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D54",
+            "253441431251"
+        ],
+        "char_code_wubi": "mukg",
+        "char_code_cangjie": "boytr",
+        "char_code_zhengma": "losj",
+        "char_code_sijiao": "70861"
+    },
+    "general_unicode": "基本区 U+8D54",
+    "general_bs_code": "253441431251"
+}

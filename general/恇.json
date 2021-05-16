@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fear"
+        },
+        {
+            "language": "德语",
+            "explanation": "Angst haben, befürchten ,bedenklich, begreifend"
+        },
+        {
+            "language": "法语",
+            "explanation": "craindre,appréhension"
+        }
+    ],
+    "general_pinyins": [
+        "kuāng"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄤ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢝎"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6047",
+            "442111215"
+        ],
+        "char_code_wubi": "nagg",
+        "char_code_cangjie": "psmg",
+        "char_code_zhengma": "uhc",
+        "char_code_sijiao": "91011"
+    },
+    "general_unicode": "基本区 U+6047",
+    "general_bs_code": "442111215"
+}

@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "glistening plumage; reflection of the sun on water"
+        },
+        {
+            "language": "法语",
+            "explanation": "plumage luisant,reflet du Soleil sur l'eau"
+        }
+    ],
+    "general_pinyins": [
+        "hè"
+    ],
+    "general_zhuyins": [
+        "ㄏㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "羽",
+        "non_radical_sn": "10",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𩫉"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7FEF",
+            "5415414125125251"
+        ],
+        "char_code_wubi": "nymk",
+        "char_code_cangjie": "smyrb",
+        "char_code_zhengma": "ytjl",
+        "char_code_sijiao": "17227"
+    },
+    "general_unicode": "基本区 U+7FEF",
+    "general_bs_code": "5415414125125251"
+}

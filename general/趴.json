@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lying prone, leaning over"
+        },
+        {
+            "language": "德语",
+            "explanation": "sich auf den Bauch legen  (V)​,sich nach vorn lehnen, sich über etwas beugen  (V)​,auf dem Bauch liegen"
+        },
+        {
+            "language": "法语",
+            "explanation": "se coucher à plat ventre,se pencher sur"
+        }
+    ],
+    "general_pinyins": [
+        "pā"
+    ],
+    "general_zhuyins": [
+        "ㄆㄚ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "2",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8DB4",
+            "251212134"
+        ],
+        "char_code_wubi": "khwy",
+        "char_code_cangjie": "rmc",
+        "char_code_zhengma": "jio",
+        "char_code_sijiao": "68100"
+    },
+    "general_unicode": "基本区 U+8DB4",
+    "general_bs_code": "251212134"
+}

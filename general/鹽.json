@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as of U+5869 塩) salt"
+        },
+        {
+            "language": "德语",
+            "explanation": "Salz (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "sel,salé,saler"
+        }
+    ],
+    "general_pinyins": [
+        "yán"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "鹵",
+        "non_radical_sn": "13",
+        "total_sn": "24"
+    },
+    "general_stc": [
+        "盐"
+    ],
+    "general_ytz": [
+        "䀋",
+        "塩",
+        "盐",
+        "𥂁",
+        "𨣎",
+        "𪉟",
+        "𪉩",
+        "𪉹"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E7D",
+            "125125312125344444125221"
+        ],
+        "char_code_wubi": "ahnl",
+        "char_code_cangjie": "swbt",
+        "char_code_zhengma": "hmol",
+        "char_code_sijiao": "78102"
+    },
+    "general_unicode": "基本区 U+9E7D",
+    "general_bs_code": "125125312125344444125221"
+}

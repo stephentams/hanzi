@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "skirt, apron, petticoat"
+        },
+        {
+            "language": "德语",
+            "explanation": "Rock  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "qún"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "衤",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "帬",
+        "裠",
+        "𢂽",
+        "𢃆",
+        "𧛬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "88D9",
+            "452345113251"
+        ],
+        "char_code_wubi": "puvk",
+        "char_code_cangjie": "lskr",
+        "char_code_zhengma": "wtxj",
+        "char_code_sijiao": "37267"
+    },
+    "general_unicode": "基本区 U+88D9",
+    "general_bs_code": "452345113251"
+}

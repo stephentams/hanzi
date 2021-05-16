@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pail, bucket, tub; cask, keg"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bütte  (S)​,Eimer  (S)​,Kübel  (S)​,Sprung  (S)​,Tank  (S)​,Tankfüllung  (S)​,Barrel, Faß"
+        },
+        {
+            "language": "法语",
+            "explanation": "tonneau,seau"
+        }
+    ],
+    "general_pinyins": [
+        "tǒng"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢳟"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6876",
+            "12345425112"
+        ],
+        "char_code_wubi": "sceh",
+        "char_code_cangjie": "dnib",
+        "char_code_zhengma": "fxld",
+        "char_code_sijiao": "47927"
+    },
+    "general_unicode": "基本区 U+6876",
+    "general_bs_code": "12345425112"
+}

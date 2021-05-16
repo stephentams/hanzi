@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cage, pen for wild animals"
+        },
+        {
+            "language": "德语",
+            "explanation": "Käfig  (S)​,Steg, Kabine (eines Aufzugs)​  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "enclos"
+        }
+    ],
+    "general_pinyins": [
+        "xiá"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㘡",
+        "𣘭",
+        "𧆥"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "67D9",
+            "123425112"
+        ],
+        "char_code_wubi": "slh",
+        "char_code_cangjie": "dwl",
+        "char_code_zhengma": "fkib",
+        "char_code_sijiao": "46950"
+    },
+    "general_unicode": "基本区 U+67D9",
+    "general_bs_code": "123425112"
+}

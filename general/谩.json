@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "deceive, insult"
+        },
+        {
+            "language": "德语",
+            "explanation": "betrügen, täuschen ,unbedeutend, klein ,Vernachlässigung  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "duper,impoli,grossier,rude"
+        }
+    ],
+    "general_pinyins": [
+        "mán"
+    ],
+    "general_zhuyins": [
+        "ㄇㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "11",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "謾"
+    ],
+    "general_ytz": [
+        "謾",
+        "㗄",
+        "㗈",
+        "䛲",
+        "𠼦",
+        "𠿐",
+        "𧫩",
+        "𧬒"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C29",
+            "4525112522154"
+        ],
+        "char_code_wubi": "yjlc",
+        "char_code_cangjie": "ivawe",
+        "char_code_zhengma": "sklx",
+        "char_code_sijiao": "36747"
+    },
+    "general_unicode": "基本区 U+8C29",
+    "general_bs_code": "4525112522154"
+}

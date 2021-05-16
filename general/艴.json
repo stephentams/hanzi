@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "the countenance changing"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufgebracht, ärgerlich, verärgert"
+        },
+        {
+            "language": "法语",
+            "explanation": "air mécontent"
+        }
+    ],
+    "general_pinyins": [
+        "fú"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "色",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "昢",
+        "𦫛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8274",
+            "51532355215"
+        ],
+        "char_code_wubi": "xjqc",
+        "char_code_cangjie": "lnnau",
+        "char_code_zhengma": "yzry",
+        "char_code_sijiao": "57017"
+    },
+    "general_unicode": "基本区 U+8274",
+    "general_bs_code": "51532355215"
+}

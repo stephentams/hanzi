@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to divine"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufspüren  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "divination par la baguette écrivant sur du sable"
+        }
+    ],
+    "general_pinyins": [
+        "jī"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧ"
+    ],
+    "general_radical": {
+        "radical": "乙",
+        "non_radical_sn": "5",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "卟",
+        "稽"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4E69",
+            "212515"
+        ],
+        "char_code_wubi": "hknn",
+        "char_code_cangjie": "xyru",
+        "char_code_zhengma": "idjz",
+        "char_code_sijiao": "22610"
+    },
+    "general_unicode": "基本区 U+4E69",
+    "general_bs_code": "212515"
+}

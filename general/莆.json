@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a kind of legendary tree"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ortsname  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom de lieu)​"
+        }
+    ],
+    "general_pinyins": [
+        "pú"
+    ],
+    "general_zhuyins": [
+        "ㄆㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8386",
+            "1221251124"
+        ],
+        "char_code_wubi": "agey|asu",
+        "char_code_cangjie": "tijb",
+        "char_code_zhengma": "efb",
+        "char_code_sijiao": "44227"
+    },
+    "general_unicode": "基本区 U+8386",
+    "general_bs_code": "1221251124"
+}

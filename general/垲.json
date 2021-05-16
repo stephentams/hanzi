@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "high and dry place"
+        }
+    ],
+    "general_pinyins": [
+        "kǎi"
+    ],
+    "general_zhuyins": [
+        "ㄎㄞˇ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "塏"
+    ],
+    "general_ytz": [
+        "塏",
+        "𧯧"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "57B2",
+            "121252515"
+        ],
+        "char_code_wubi": "fmnn",
+        "char_code_cangjie": "gusu",
+        "char_code_zhengma": "blyy",
+        "char_code_sijiao": "42117"
+    },
+    "general_unicode": "基本区 U+57B2",
+    "general_bs_code": "121252515"
+}

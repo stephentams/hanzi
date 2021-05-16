@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to sink"
+        }
+    ],
+    "general_pinyins": [
+        "cáng"
+    ],
+    "general_zhuyins": [
+        "ㄘㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "14",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㶓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3D74",
+            "44113513125125534"
+        ],
+        "char_code_wubi": "idnt|iauh",
+        "char_code_cangjie": "eims",
+        "char_code_zhengma": "vhzh",
+        "char_code_sijiao": "33150"
+    },
+    "general_unicode": "扩展A U+3D74",
+    "general_bs_code": "44113513125125534"
+}

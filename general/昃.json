@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "afternoon; the sun in the afternoon sky; to decline"
+        },
+        {
+            "language": "德语",
+            "explanation": "Nachmittag  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "baisse"
+        }
+    ],
+    "general_pinyins": [
+        "zè"
+    ],
+    "general_zhuyins": [
+        "ㄗㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "昗",
+        "𣅔",
+        "𣅛",
+        "𣅦",
+        "𣅳",
+        "𪰖"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6603",
+            "25111334"
+        ],
+        "char_code_wubi": "jdwu",
+        "char_code_cangjie": "amo",
+        "char_code_zhengma": "kgod",
+        "char_code_sijiao": "60281"
+    },
+    "general_unicode": "基本区 U+6603",
+    "general_bs_code": "25111334"
+}

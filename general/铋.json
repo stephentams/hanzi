@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bismuth"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bismut (Element 83, Bi)​ (S)​,Wismut 法语 bismuth"
+        }
+    ],
+    "general_pinyins": [
+        "bì"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "鉍"
+    ],
+    "general_ytz": [
+        "鉍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94CB",
+            "3111545434"
+        ],
+        "char_code_wubi": "qntt",
+        "char_code_cangjie": "opph",
+        "char_code_zhengma": "pwm",
+        "char_code_sijiao": "83704"
+    },
+    "general_unicode": "基本区 U+94CB",
+    "general_bs_code": "3111545434"
+}

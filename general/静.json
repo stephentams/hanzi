@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "quiet, still, motionless; gentle"
+        },
+        {
+            "language": "德语",
+            "explanation": "still, ruhig  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "calme,silencieux,serein,immobile"
+        }
+    ],
+    "general_pinyins": [
+        "jìng"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "青",
+        "non_radical_sn": "6",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "靜"
+    ],
+    "general_ytz": [
+        "靜",
+        "㣏"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9759",
+            "11212511355112"
+        ],
+        "char_code_wubi": "geqh",
+        "char_code_cangjie": "qbnsd",
+        "char_code_zhengma": "cirx",
+        "char_code_sijiao": "57257"
+    },
+    "general_unicode": "基本区 U+9759",
+    "general_bs_code": "11212511355112"
+}

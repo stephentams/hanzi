@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lofty; majestic, name of a mountain"
+        }
+    ],
+    "general_pinyins": [
+        "jí",
+        "jié",
+        "qì"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˊ",
+        "ㄐㄧㄝˊ",
+        "ㄑㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㠎",
+        "崨"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "380D",
+            "252324111211234"
+        ],
+        "char_code_wubi": "mwys",
+        "char_code_cangjie": "uogd",
+        "char_code_zhengma": "llnf",
+        "char_code_sijiao": "20904"
+    },
+    "general_unicode": "扩展A U+380D",
+    "general_bs_code": "252324111211234"
+}

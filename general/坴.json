@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a clod of earth; land"
+        }
+    ],
+    "general_pinyins": [
+        "lù"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "陸"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5774",
+            "12134121"
+        ],
+        "char_code_wubi": "fwff",
+        "char_code_cangjie": "gcg",
+        "char_code_zhengma": "bob",
+        "char_code_sijiao": "40104"
+    },
+    "general_unicode": "基本区 U+5774",
+    "general_bs_code": "12134121"
+}

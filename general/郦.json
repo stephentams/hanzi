@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "place in today's Henan province"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 Li  (Eig, Fam)"
+        }
+    ],
+    "general_pinyins": [
+        "lì",
+        "zhí"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˋ",
+        "ㄓˊ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "酈"
+    ],
+    "general_ytz": [
+        "酈",
+        "𨜥",
+        "𨼓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "90E6",
+            "125425452"
+        ],
+        "char_code_wubi": "gmyb",
+        "char_code_cangjie": "mbnl",
+        "char_code_zhengma": "ally",
+        "char_code_sijiao": "17227"
+    },
+    "general_unicode": "基本区 U+90E6",
+    "general_bs_code": "125425452"
+}

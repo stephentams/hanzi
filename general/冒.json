@@ -1,0 +1,59 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "risk, brave, dare"
+        },
+        {
+            "language": "德语",
+            "explanation": "emporsteigen (Rauch, Qualm)​  (V)​,quellen (Wasser)​  (V)​,vorschnell, betrügerisch  (Adj)​,ohne Rücksicht auf"
+        },
+        {
+            "language": "法语",
+            "explanation": "émettre,brave,courageux,oser"
+        }
+    ],
+    "general_pinyins": [
+        "mào",
+        "mò"
+    ],
+    "general_zhuyins": [
+        "ㄇㄠˋ",
+        "ㄇㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "冂",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㒻",
+        "㫯",
+        "冐",
+        "覍",
+        "𠕙",
+        "𠕚",
+        "𠕬",
+        "𡇾",
+        "𡈌",
+        "𡈘",
+        "媢",
+        "帽",
+        "瑁",
+        "𧠊"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5192",
+            "251125111"
+        ],
+        "char_code_wubi": "jhf",
+        "char_code_cangjie": "abu",
+        "char_code_zhengma": "klvv",
+        "char_code_sijiao": "60600"
+    },
+    "general_unicode": "基本区 U+5192",
+    "general_bs_code": "251125111"
+}

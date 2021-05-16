@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tend cattle, shepherd"
+        },
+        {
+            "language": "德语",
+            "explanation": "führen, umsorgen  (V)​,Vieh hüten; weiden  (V)​,Mu  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "faire paître"
+        }
+    ],
+    "general_pinyins": [
+        "mù"
+    ],
+    "general_zhuyins": [
+        "ㄇㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "牜",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤘴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7267",
+            "31213134"
+        ],
+        "char_code_wubi": "trty|cty",
+        "char_code_cangjie": "hqok",
+        "char_code_zhengma": "mbmo",
+        "char_code_sijiao": "28540"
+    },
+    "general_unicode": "基本区 U+7267",
+    "general_bs_code": "31213134"
+}

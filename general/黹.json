@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "embroidery, needlework; radical"
+        },
+        {
+            "language": "德语",
+            "explanation": "Stickerei  (S)​,Radikal Nr. 204 = sticken, Näharbeit"
+        },
+        {
+            "language": "法语",
+            "explanation": "broder,204e radical"
+        }
+    ],
+    "general_pinyins": [
+        "zhǐ"
+    ],
+    "general_zhuyins": [
+        "ㄓˇ"
+    ],
+    "general_radical": {
+        "radical": "黹",
+        "non_radical_sn": "0",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "絺",
+        "𧝉"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9EF9",
+            "224314325234"
+        ],
+        "char_code_wubi": "ogui|oiu",
+        "char_code_cangjie": "tcfb",
+        "char_code_zhengma": "kukl",
+        "char_code_sijiao": "32227"
+    },
+    "general_unicode": "基本区 U+9EF9",
+    "general_bs_code": "224314325234"
+}

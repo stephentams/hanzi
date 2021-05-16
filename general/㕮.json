@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to chew; to masticate, to dwell on, Chinese medicine term"
+        }
+    ],
+    "general_pinyins": [
+        "fǔ"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "哺",
+        "餔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "356E",
+            "2513434"
+        ],
+        "char_code_wubi": "kwqy|kwry",
+        "char_code_cangjie": "rck",
+        "char_code_zhengma": "joos",
+        "char_code_sijiao": "68040"
+    },
+    "general_unicode": "扩展A U+356E",
+    "general_bs_code": "2513434"
+}

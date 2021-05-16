@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "year end sacrifice; dried meat"
+        },
+        {
+            "language": "德语",
+            "explanation": "Dezember im chin. Kalender  (S)​,etwas gepöcketes, geräuchtes  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "viande séchée"
+        }
+    ],
+    "general_pinyins": [
+        "là",
+        "xī"
+    ],
+    "general_zhuyins": [
+        "ㄌㄚˋ",
+        "ㄒㄧ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "臘"
+    ],
+    "general_ytz": [
+        "臘",
+        "𦠪",
+        "𦝙",
+        "昔",
+        "𦞽"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "814A",
+            "351112212511"
+        ],
+        "char_code_wubi": "eajg",
+        "char_code_cangjie": "bta",
+        "char_code_zhengma": "qek",
+        "char_code_sijiao": "74261"
+    },
+    "general_unicode": "基本区 U+814A",
+    "general_bs_code": "351112212511"
+}

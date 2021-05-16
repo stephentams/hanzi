@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fruit; result"
+        },
+        {
+            "language": "德语",
+            "explanation": "Frucht  (S)​,Obst  (S)​,Ergebnis, Resultat  (S)​,wirklich, tatsächlich, wie erwartet  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "guǒ"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄛˇ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "惈",
+        "菓",
+        "𣐭",
+        "𤬁"
+    ],
+    "general_structure": "嵌套结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "679C",
+            "25111234"
+        ],
+        "char_code_wubi": "jsi",
+        "char_code_cangjie": "wd",
+        "char_code_zhengma": "kfvv",
+        "char_code_sijiao": "60904"
+    },
+    "general_unicode": "基本区 U+679C",
+    "general_bs_code": "25111234"
+}

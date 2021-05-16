@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "palate, roof of mouth"
+        },
+        {
+            "language": "法语",
+            "explanation": "palais (bouche)​,palais (bouche)​"
+        }
+    ],
+    "general_pinyins": [
+        "è"
+    ],
+    "general_zhuyins": [
+        "ㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "齶"
+    ],
+    "general_ytz": [
+        "齶",
+        "鄂",
+        "卾",
+        "㗁",
+        "𦠍",
+        "𪘰",
+        "𪘽"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "816D",
+            "3511251251115"
+        ],
+        "char_code_wubi": "ekkn",
+        "char_code_cangjie": "brrs",
+        "char_code_zhengma": "qjbz",
+        "char_code_sijiao": "76227"
+    },
+    "general_unicode": "基本区 U+816D",
+    "general_bs_code": "3511251251115"
+}

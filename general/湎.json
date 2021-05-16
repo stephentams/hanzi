@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "flushed with drink, drunk"
+        },
+        {
+            "language": "德语",
+            "explanation": "berauscht, betrunken"
+        },
+        {
+            "language": "法语",
+            "explanation": "se plonger"
+        }
+    ],
+    "general_pinyins": [
+        "miǎn"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䤄",
+        "𨟺",
+        "𨡞",
+        "𩈳"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6E4E",
+            "441132522111"
+        ],
+        "char_code_wubi": "idmd|idlf",
+        "char_code_cangjie": "emwl",
+        "char_code_zhengma": "vgjk",
+        "char_code_sijiao": "31162"
+    },
+    "general_unicode": "基本区 U+6E4E",
+    "general_bs_code": "441132522111"
+}

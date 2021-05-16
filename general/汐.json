@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "night tides, evening ebb tide"
+        },
+        {
+            "language": "德语",
+            "explanation": "Abend Gezeiten (Ebbe-Flut)​"
+        }
+    ],
+    "general_pinyins": [
+        "xī"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "夕",
+        "𣲠",
+        "𣴁"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6C50",
+            "441354"
+        ],
+        "char_code_wubi": "iqy",
+        "char_code_cangjie": "eni",
+        "char_code_zhengma": "vrs",
+        "char_code_sijiao": "37120"
+    },
+    "general_unicode": "基本区 U+6C50",
+    "general_bs_code": "441354"
+}

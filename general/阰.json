@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "法语",
+            "explanation": "(nom d'une ancienne montagne)​"
+        }
+    ],
+    "general_pinyins": [
+        "pí"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨻀"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9630",
+            "521535"
+        ],
+        "char_code_wubi": "bxxn",
+        "char_code_cangjie": "nlpp",
+        "char_code_zhengma": "yrrr",
+        "char_code_sijiao": "72210"
+    },
+    "general_unicode": "基本区 U+9630",
+    "general_bs_code": "521535"
+}

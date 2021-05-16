@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "simmer, cook over slow fire"
+        },
+        {
+            "language": "德语",
+            "explanation": "schmoren ( etw. zähes in zugedeckeltem Topf in schwachem Feuer kochen )​  (V, Ess)"
+        },
+        {
+            "language": "法语",
+            "explanation": "daube,étuver,cuire,cuisson"
+        }
+    ],
+    "general_pinyins": [
+        "mèn"
+    ],
+    "general_zhuyins": [
+        "ㄇㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "12",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "焖"
+    ],
+    "general_ytz": [
+        "焖"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "71DC",
+            "4334251125114544"
+        ],
+        "char_code_wubi": "ouny",
+        "char_code_cangjie": "fanp",
+        "char_code_zhengma": "uoxw",
+        "char_code_sijiao": "97820"
+    },
+    "general_unicode": "基本区 U+71DC",
+    "general_bs_code": "4334251125114544"
+}

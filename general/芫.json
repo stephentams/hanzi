@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "daphne genkwa, poisonous plant"
+        },
+        {
+            "language": "法语",
+            "explanation": "daphné"
+        }
+    ],
+    "general_pinyins": [
+        "yuán",
+        "yán"
+    ],
+    "general_zhuyins": [
+        "ㄩㄢˊ",
+        "ㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "杬"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "82AB",
+            "1221135"
+        ],
+        "char_code_wubi": "afqb",
+        "char_code_cangjie": "tmmu",
+        "char_code_zhengma": "ebrd",
+        "char_code_sijiao": "44212"
+    },
+    "general_unicode": "基本区 U+82AB",
+    "general_bs_code": "1221135"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "weld, solder"
+        },
+        {
+            "language": "德语",
+            "explanation": "schweißen; verlöten, löten, Lotverbindung  (V)"
+        }
+    ],
+    "general_pinyins": [
+        "hàn"
+    ],
+    "general_zhuyins": [
+        "ㄏㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "暵",
+        "汗",
+        "熯",
+        "釬",
+        "銲"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "710A",
+            "43342511112"
+        ],
+        "char_code_wubi": "ojfh",
+        "char_code_cangjie": "famj",
+        "char_code_zhengma": "uoae",
+        "char_code_sijiao": "96841"
+    },
+    "general_unicode": "基本区 U+710A",
+    "general_bs_code": "43342511112"
+}

@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to harmonize, to rhyme; to unite; (borrowed for) leaf"
+        },
+        {
+            "language": "德语",
+            "explanation": "Blatt  (S)​,Blättern  (S)​,Seite  (S)​,Seiten...  (S)​,Seitenrand  (S)​,Seitentür  (S)​,Seitenzahl  (S)​,Startseite  (S)​,Ye  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "être en harmonie"
+        }
+    ],
+    "general_pinyins": [
+        "yè",
+        "xié"
+    ],
+    "general_zhuyins": [
+        "ㄧㄝˋ",
+        "ㄒㄧㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "2",
+        "total_sn": "5"
+    },
+    "general_stc": [
+        "葉"
+    ],
+    "general_ytz": [
+        "協",
+        "葉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "53F6",
+            "25112"
+        ],
+        "char_code_wubi": "kfh",
+        "char_code_cangjie": "rj",
+        "char_code_zhengma": "jed",
+        "char_code_sijiao": "64000"
+    },
+    "general_unicode": "基本区 U+53F6",
+    "general_bs_code": "25112"
+}

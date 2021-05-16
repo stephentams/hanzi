@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "small box or case; casket"
+        },
+        {
+            "language": "德语",
+            "explanation": "Büchse, Box, Schachtel, Kiste, Kasten  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "boîte,coffret"
+        }
+    ],
+    "general_pinyins": [
+        "hé"
+    ],
+    "general_zhuyins": [
+        "ㄏㄜˊ"
+    ],
+    "general_radical": {
+        "radical": "皿",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "合"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "76D2",
+            "34125125221"
+        ],
+        "char_code_wubi": "wgkl",
+        "char_code_cangjie": "orbt",
+        "char_code_zhengma": "odjl",
+        "char_code_sijiao": "80102"
+    },
+    "general_unicode": "基本区 U+76D2",
+    "general_bs_code": "34125125221"
+}

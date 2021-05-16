@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "separate, partition"
+        },
+        {
+            "language": "德语",
+            "explanation": "abstellen, abschneiden ,aufteilen, spalten ,trennen, ausscheiden"
+        },
+        {
+            "language": "法语",
+            "explanation": "séparer,diviser,distancer,espacer,cloison"
+        }
+    ],
+    "general_pinyins": [
+        "gé"
+    ],
+    "general_zhuyins": [
+        "ㄍㄜˊ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "10",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "膈",
+        "融",
+        "𤗦",
+        "𨼣",
+        "𨼥"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9694",
+            "521251254312"
+        ],
+        "char_code_wubi": "bgkh",
+        "char_code_cangjie": "nlmrb",
+        "char_code_zhengma": "yajl",
+        "char_code_sijiao": "71227"
+    },
+    "general_unicode": "基本区 U+9694",
+    "general_bs_code": "521251254312"
+}

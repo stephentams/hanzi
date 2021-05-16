@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "I; you; family name"
+        },
+        {
+            "language": "德语",
+            "explanation": "du (Shanghai-Dialekt)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "vous (dial. Wu)​,je (arch.)​,moi (arch.)​"
+        }
+    ],
+    "general_pinyins": [
+        "nóng"
+    ],
+    "general_zhuyins": [
+        "ㄋㄨㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "13",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "侬"
+    ],
+    "general_ytz": [
+        "侬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5102",
+            "322512211311534"
+        ],
+        "char_code_wubi": "wmae",
+        "char_code_cangjie": "otwv",
+        "char_code_zhengma": "nkkg",
+        "char_code_sijiao": "25232"
+    },
+    "general_unicode": "基本区 U+5102",
+    "general_bs_code": "322512211311534"
+}

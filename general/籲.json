@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "appeal; request; implore"
+        },
+        {
+            "language": "德语",
+            "explanation": "anflehen, flehen ,Yu  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "appeler,plaider,implorer,invoquer"
+        }
+    ],
+    "general_pinyins": [
+        "yù"
+    ],
+    "general_zhuyins": [
+        "ㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "26",
+        "total_sn": "32"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "吁"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7C72",
+            "31431434125125125125122132511134"
+        ],
+        "char_code_wubi": "twgm",
+        "char_code_cangjie": "hobc",
+        "char_code_zhengma": "molg",
+        "char_code_sijiao": "88286"
+    },
+    "general_unicode": "基本区 U+7C72",
+    "general_bs_code": "31431434125125125125122132511134"
+}

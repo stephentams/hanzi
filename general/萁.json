@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "kind of grasses"
+        },
+        {
+            "language": "法语",
+            "explanation": "tige de légumineuse"
+        }
+    ],
+    "general_pinyins": [
+        "qí"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧯯",
+        "𦮼",
+        "𦬟",
+        "稘"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8401",
+            "12212211134"
+        ],
+        "char_code_wubi": "aadw|adwu",
+        "char_code_cangjie": "ttmc",
+        "char_code_zhengma": "eec",
+        "char_code_sijiao": "44801"
+    },
+    "general_unicode": "基本区 U+8401",
+    "general_bs_code": "12212211134"
+}

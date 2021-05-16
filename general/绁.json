@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to contract, draw in, reduce, shorten"
+        },
+        {
+            "language": "德语",
+            "explanation": "Leine, anleinen  (S)​,troika"
+        }
+    ],
+    "general_pinyins": [
+        "xiè"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "紲"
+    ],
+    "general_ytz": [
+        "紲",
+        "絏",
+        "𥾰"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EC1",
+            "55112215"
+        ],
+        "char_code_wubi": "xann",
+        "char_code_cangjie": "vmpt",
+        "char_code_zhengma": "zev",
+        "char_code_sijiao": "24117"
+    },
+    "general_unicode": "基本区 U+7EC1",
+    "general_bs_code": "55112215"
+}

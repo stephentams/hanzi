@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to be ashamed"
+        },
+        {
+            "language": "德语",
+            "explanation": "beschämt  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "être honteux,confus,changer d'expression"
+        }
+    ],
+    "general_pinyins": [
+        "zuò",
+        "zhà"
+    ],
+    "general_zhuyins": [
+        "ㄗㄨㄛˋ",
+        "ㄓㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㤰"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "600D",
+            "44231211"
+        ],
+        "char_code_wubi": "nthf",
+        "char_code_cangjie": "pos",
+        "char_code_zhengma": "umid",
+        "char_code_sijiao": "98011"
+    },
+    "general_unicode": "基本区 U+600D",
+    "general_bs_code": "44231211"
+}

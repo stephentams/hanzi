@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "thick, lush, dense; talented"
+        },
+        {
+            "language": "德语",
+            "explanation": "reich und prachvoll  (Adj)​,wuchernd  (Adj)​,üppig, reichlich, prächtig  (Adv)"
+        },
+        {
+            "language": "法语",
+            "explanation": "luxuriant,touffu,riche"
+        }
+    ],
+    "general_pinyins": [
+        "mào"
+    ],
+    "general_zhuyins": [
+        "ㄇㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8302",
+            "12213534"
+        ],
+        "char_code_wubi": "adnt|adu",
+        "char_code_cangjie": "tih",
+        "char_code_zhengma": "ehm",
+        "char_code_sijiao": "44253"
+    },
+    "general_unicode": "基本区 U+8302",
+    "general_bs_code": "12213534"
+}

@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "go; walk; move, travel; circulate"
+        },
+        {
+            "language": "德语",
+            "explanation": "Linie ,ZEW ,fähig, in Ordnung, kompetent, okay, temporär  (S)​,gehen, reisen, etw. ausführen, Reise, Verhalten"
+        },
+        {
+            "language": "法语",
+            "explanation": "classe,sorte,rang,maison de commerce,marcher,agir,faire,pratiquer,appliquer,d'accord,c'est bon !,bagages,quitter la maison,ballade,voyage,action,comportement,conduite (personnelle)​"
+        }
+    ],
+    "general_pinyins": [
+        "háng",
+        "xíng"
+    ],
+    "general_zhuyins": [
+        "ㄏㄤˊ",
+        "ㄒㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "行",
+        "non_radical_sn": "0",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧗞",
+        "𧗟",
+        "𠎢",
+        "行"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "884C",
+            "332112"
+        ],
+        "char_code_wubi": "tfhh|tgsh",
+        "char_code_cangjie": "hommn",
+        "char_code_zhengma": "oi",
+        "char_code_sijiao": "21221"
+    },
+    "general_unicode": "基本区 U+884C",
+    "general_bs_code": "332112"
+}

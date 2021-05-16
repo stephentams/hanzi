@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stalks of millet, corn"
+        },
+        {
+            "language": "德语",
+            "explanation": "Stroh"
+        }
+    ],
+    "general_pinyins": [
+        "jiē"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄝ"
+    ],
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䕸",
+        "𥟠",
+        "𦷓",
+        "𧅡",
+        "稭",
+        "鞂",
+        "𥞨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "79F8",
+            "31234121251"
+        ],
+        "char_code_wubi": "tfkg",
+        "char_code_cangjie": "hdgr",
+        "char_code_zhengma": "mfbj",
+        "char_code_sijiao": "24961"
+    },
+    "general_unicode": "基本区 U+79F8",
+    "general_bs_code": "31234121251"
+}

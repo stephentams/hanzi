@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "egg; ovum; roe; spawn"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ei, Ovum, Ovulum  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "oeuf,ovule,bite (argot)​"
+        }
+    ],
+    "general_pinyins": [
+        "luǎn"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "卩",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "丱",
+        "卝",
+        "𠨫",
+        "鯤",
+        "𡖉",
+        "𤓲",
+        "卵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5375",
+            "3543524"
+        ],
+        "char_code_wubi": "qyty",
+        "char_code_cangjie": "hhsli",
+        "char_code_zhengma": "rhys",
+        "char_code_sijiao": "77720"
+    },
+    "general_unicode": "基本区 U+5375",
+    "general_bs_code": "3543524"
+}

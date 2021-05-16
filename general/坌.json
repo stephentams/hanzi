@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dust, earth; a bank of earth; to dig; to bring together"
+        },
+        {
+            "language": "德语",
+            "explanation": "zusammen bringen, zusammenbringen [alt]"
+        },
+        {
+            "language": "法语",
+            "explanation": "bêcher"
+        }
+    ],
+    "general_pinyins": [
+        "bèn"
+    ],
+    "general_zhuyins": [
+        "ㄅㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "坋",
+        "𡛑"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "574C",
+            "3453121"
+        ],
+        "char_code_wubi": "wvff",
+        "char_code_cangjie": "cshg",
+        "char_code_zhengma": "oyb",
+        "char_code_sijiao": "80104"
+    },
+    "general_unicode": "基本区 U+574C",
+    "general_bs_code": "3453121"
+}

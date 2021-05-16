@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as U+64EA) to press with a finger; to tuck in; to put the finger into; to put in; to stow away"
+        }
+    ],
+    "general_pinyins": [
+        "yè"
+    ],
+    "general_zhuyins": [
+        "ㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "擪"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3A4E",
+            "121251125111344"
+        ],
+        "char_code_wubi": "rjed",
+        "char_code_cangjie": "qabk",
+        "char_code_zhengma": "dkgs",
+        "char_code_sijiao": "53084"
+    },
+    "general_unicode": "扩展A U+3A4E",
+    "general_bs_code": "121251125111344"
+}

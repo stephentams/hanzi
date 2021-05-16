@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dark; obscure; in secret, covert"
+        },
+        {
+            "language": "德语",
+            "explanation": "dunkel, finster (Adj)​,geheim, heimlich (Adj)​,unheimlich (Adj)"
+        }
+    ],
+    "general_pinyins": [
+        "àn"
+    ],
+    "general_zhuyins": [
+        "ㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "晻",
+        "隌",
+        "𣆛",
+        "𣈇",
+        "闇",
+        "𠽨",
+        "𪿠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6697",
+            "2511414312511"
+        ],
+        "char_code_wubi": "jujg",
+        "char_code_cangjie": "ayta",
+        "char_code_zhengma": "ksk",
+        "char_code_sijiao": "60061"
+    },
+    "general_unicode": "基本区 U+6697",
+    "general_bs_code": "2511414312511"
+}

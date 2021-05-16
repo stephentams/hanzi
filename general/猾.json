@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "crafty, cunning, shrewd; deceitful"
+        },
+        {
+            "language": "德语",
+            "explanation": "listig, schlau"
+        },
+        {
+            "language": "法语",
+            "explanation": "rusé,troubler"
+        }
+    ],
+    "general_pinyins": [
+        "huá"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "滑",
+        "獪"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "733E",
+            "353255452511"
+        ],
+        "char_code_wubi": "qtme",
+        "char_code_cangjie": "khbbb",
+        "char_code_zhengma": "qmlw",
+        "char_code_sijiao": "47227"
+    },
+    "general_unicode": "基本区 U+733E",
+    "general_bs_code": "353255452511"
+}

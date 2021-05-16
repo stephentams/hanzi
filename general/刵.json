@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "punishment by cutting off ears"
+        },
+        {
+            "language": "法语",
+            "explanation": "couper les oreilles en guise de punition"
+        }
+    ],
+    "general_pinyins": [
+        "èr"
+    ],
+    "general_zhuyins": [
+        "ㄦˋ"
+    ],
+    "general_radical": {
+        "radical": "刂",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠠨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5235",
+            "12211122"
+        ],
+        "char_code_wubi": "bjh",
+        "char_code_cangjie": "sjln",
+        "char_code_zhengma": "cekd",
+        "char_code_sijiao": "12400"
+    },
+    "general_unicode": "基本区 U+5235",
+    "general_bs_code": "12211122"
+}

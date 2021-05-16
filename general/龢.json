@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "in harmony; calm, peaceful"
+        },
+        {
+            "language": "德语",
+            "explanation": "harmonisch"
+        },
+        {
+            "language": "法语",
+            "explanation": "et,avec,harmonie,paix,union,aimable,doux,harmonieux,concilier,addition"
+        }
+    ],
+    "general_pinyins": [
+        "hé"
+    ],
+    "general_zhuyins": [
+        "ㄏㄜˊ"
+    ],
+    "general_radical": {
+        "radical": "龠",
+        "non_radical_sn": "5",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "和",
+        "𥤉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9FA2",
+            "3412512512512512231234"
+        ],
+        "char_code_wubi": "wgkt",
+        "char_code_cangjie": "obhd",
+        "char_code_zhengma": "odlm",
+        "char_code_sijiao": "82294"
+    },
+    "general_unicode": "基本区 U+9FA2",
+    "general_bs_code": "3412512512512512231234"
+}

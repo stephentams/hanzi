@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to vomit; annoy, enrage"
+        },
+        {
+            "language": "法语",
+            "explanation": "vomir"
+        }
+    ],
+    "general_pinyins": [
+        "ǒu",
+        "ōu",
+        "òu"
+    ],
+    "general_zhuyins": [
+        "ㄡˇ",
+        "ㄡˉ",
+        "ㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "呕"
+    ],
+    "general_ytz": [
+        "㰶",
+        "呕",
+        "歐",
+        "𠴰",
+        "𣢨",
+        "𧖼"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5614",
+            "25112512512515"
+        ],
+        "char_code_wubi": "kakk",
+        "char_code_cangjie": "rsrr",
+        "char_code_zhengma": "jhjj",
+        "char_code_sijiao": "61016"
+    },
+    "general_unicode": "基本区 U+5614",
+    "general_bs_code": "25112512512515"
+}

@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "shift, move, turn"
+        },
+        {
+            "language": "德语",
+            "explanation": "wenden, sich verwandeln, sich verändern; überbringen, weitergeben  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "transformer,changer,transmettre,tourner,tournoyer,tour,se promener"
+        }
+    ],
+    "general_pinyins": [
+        "zhuǎn",
+        "zhuàn",
+        "zhuǎi"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨㄢˇ",
+        "ㄓㄨㄢˋ",
+        "ㄓㄨㄞˇ"
+    ],
+    "general_radical": {
+        "radical": "车",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "轉"
+    ],
+    "general_ytz": [
+        "轉",
+        "転",
+        "䡱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8F6C",
+            "15211154"
+        ],
+        "char_code_wubi": "lfny",
+        "char_code_cangjie": "kqqni",
+        "char_code_zhengma": "hezs",
+        "char_code_sijiao": "45532"
+    },
+    "general_unicode": "基本区 U+8F6C",
+    "general_bs_code": "15211154"
+}

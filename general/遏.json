@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stop, suppress, curb, check; a bar"
+        },
+        {
+            "language": "法语",
+            "explanation": "contenir,empêcher"
+        }
+    ],
+    "general_pinyins": [
+        "è"
+    ],
+    "general_zhuyins": [
+        "ㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨔹"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "904F",
+            "251135345454"
+        ],
+        "char_code_wubi": "jqwp",
+        "char_code_cangjie": "yapv",
+        "char_code_zhengma": "wkry",
+        "char_code_sijiao": "36302"
+    },
+    "general_unicode": "基本区 U+904F",
+    "general_bs_code": "251135345454"
+}

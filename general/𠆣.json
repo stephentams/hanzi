@@ -1,0 +1,30 @@
+{
+    "general_pinyins": [
+        "guǎ",
+        "zhuǎ"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄚˇ"
+    ],
+    "general_radical": {
+        "radical": "人",
+        "non_radical_sn": "1",
+        "total_sn": "3"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "寡"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "201A3",
+            "134"
+        ],
+        "char_code_wubi": "gwu",
+        "char_code_cangjie": "mo",
+        "char_code_zhengma": "aod"
+    },
+    "general_unicode": "扩展B U+201A3",
+    "general_bs_code": "134"
+}

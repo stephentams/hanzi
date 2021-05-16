@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mutual, reciprocal, each other"
+        },
+        {
+            "language": "德语",
+            "explanation": "besehen, beschauen, etw , jdn. unter die Lupe nehmen  (V)​,gegenüber  (Adj)​,gegenseitig, einander  (Adj)​,Xiang  (Eig, Fam)​,Erscheinung, Portrait, Bild"
+        },
+        {
+            "language": "法语",
+            "explanation": "mutuellement,l'un l'autre,examiner,évaluer,voir de ses propres yeux,apparence,air,photo"
+        }
+    ],
+    "general_pinyins": [
+        "xiāng",
+        "xiàng"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄤ",
+        "ㄒㄧㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "伒",
+        "𥄢"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "76F8",
+            "123425111"
+        ],
+        "char_code_wubi": "shg",
+        "char_code_cangjie": "dbu",
+        "char_code_zhengma": "flvv",
+        "char_code_sijiao": "46900"
+    },
+    "general_unicode": "基本区 U+76F8",
+    "general_bs_code": "123425111"
+}

@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "duò"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "13",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "28185",
+            "25121212522112143112"
+        ],
+        "char_code_wubi": "khlf",
+        "char_code_cangjie": "rmwlj",
+        "char_code_zhengma": "jibu"
+    },
+    "general_unicode": "扩展B U+28185",
+    "general_bs_code": "25121212522112143112"
+}

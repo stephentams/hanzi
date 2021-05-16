@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "几",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "夜"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "20651",
+            "212135435"
+        ],
+        "char_code_wubi": "hqmn",
+        "char_code_cangjie": "ynhn",
+        "char_code_zhengma": "iirq"
+    },
+    "general_unicode": "扩展B U+20651",
+    "general_bs_code": "212135435"
+}

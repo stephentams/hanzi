@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sparrow"
+        },
+        {
+            "language": "德语",
+            "explanation": "Spatz (S)​,Spatz, Sperling (S)​,Que (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "rousseur,lentigo,moineau,petit oiseau,moineau,petit oiseau"
+        }
+    ],
+    "general_pinyins": [
+        "què",
+        "qiāo",
+        "qiǎo"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩㄝˋ",
+        "ㄑㄧㄠ",
+        "ㄑㄧㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "隹",
+        "non_radical_sn": "3",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䲵",
+        "𠋓",
+        "𩾟"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "96C0",
+            "23432411121"
+        ],
+        "char_code_wubi": "iwyf",
+        "char_code_cangjie": "fog",
+        "char_code_zhengma": "koni",
+        "char_code_sijiao": "90215"
+    },
+    "general_unicode": "基本区 U+96C0",
+    "general_bs_code": "23432411121"
+}

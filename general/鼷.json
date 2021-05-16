@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a mouse"
+        },
+        {
+            "language": "德语",
+            "explanation": "Maus  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "souris"
+        }
+    ],
+    "general_pinyins": [
+        "xī"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧ"
+    ],
+    "general_radical": {
+        "radical": "鼠",
+        "non_radical_sn": "10",
+        "total_sn": "23"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9F37",
+            "32151154454453223554134"
+        ],
+        "char_code_wubi": "vnud|enud",
+        "char_code_cangjie": "hvbvk",
+        "char_code_zhengma": "nbzg",
+        "char_code_sijiao": "72784"
+    },
+    "general_unicode": "基本区 U+9F37",
+    "general_bs_code": "32151154454453223554134"
+}

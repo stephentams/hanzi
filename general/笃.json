@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "deep, true, sincere, genuine"
+        },
+        {
+            "language": "德语",
+            "explanation": "ehrlich, aufrichtig; schwer (bei Krankheit)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "sincère,ardent,grave"
+        }
+    ],
+    "general_pinyins": [
+        "dǔ"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "3",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "篤"
+    ],
+    "general_ytz": [
+        "篤",
+        "䈞",
+        "䔍"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7B03",
+            "314314551"
+        ],
+        "char_code_wubi": "tcf|tcgf",
+        "char_code_cangjie": "hnvm",
+        "char_code_zhengma": "mxvv",
+        "char_code_sijiao": "88127"
+    },
+    "general_unicode": "基本区 U+7B03",
+    "general_bs_code": "314314551"
+}

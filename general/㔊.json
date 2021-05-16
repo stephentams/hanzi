@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to cut; to hack; to reap, to strike; to attack, to chastise rebels"
+        }
+    ],
+    "general_pinyins": [
+        "dǎn"
+    ],
+    "general_zhuyins": [
+        "ㄉㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "刂",
+        "non_radical_sn": "13",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨭖"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "350A",
+            "412525112511122"
+        ],
+        "char_code_wubi": "ylkj",
+        "char_code_cangjie": "ymln",
+        "char_code_zhengma": "sjak",
+        "char_code_sijiao": "02100"
+    },
+    "general_unicode": "扩展A U+350A",
+    "general_bs_code": "412525112511122"
+}

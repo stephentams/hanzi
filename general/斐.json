@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "graceful, elegant, beautiful"
+        },
+        {
+            "language": "德语",
+            "explanation": "&gt ,elegant, elegante"
+        },
+        {
+            "language": "法语",
+            "explanation": "brillant,remarquable"
+        }
+    ],
+    "general_pinyins": [
+        "fěi",
+        "fēi"
+    ],
+    "general_zhuyins": [
+        "ㄈㄟˇ",
+        "ㄈㄟ"
+    ],
+    "general_radical": {
+        "radical": "文",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "奜",
+        "婔"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6590",
+            "211121114134"
+        ],
+        "char_code_wubi": "djdy|hdhy",
+        "char_code_cangjie": "lyyk",
+        "char_code_zhengma": "kcso",
+        "char_code_sijiao": "11400"
+    },
+    "general_unicode": "基本区 U+6590",
+    "general_bs_code": "211121114134"
+}

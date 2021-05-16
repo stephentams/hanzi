@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rock land"
+        }
+    ],
+    "general_pinyins": [
+        "jìng",
+        "qín"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄥˋ",
+        "ㄑㄧㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "厂",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㕂"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "354B",
+            "1334112431"
+        ],
+        "char_code_wubi": "dqd",
+        "char_code_cangjie": "mc",
+        "char_code_zhengma": "ggp",
+        "char_code_sijiao": "71219"
+    },
+    "general_unicode": "扩展A U+354B",
+    "general_bs_code": "1334112431"
+}

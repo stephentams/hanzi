@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "德语",
+            "explanation": "Tellur (Element 52, Te)​ (Eig, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tellure"
+        }
+    ],
+    "general_pinyins": [
+        "dì"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "9",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "78B2",
+            "13251414345252"
+        ],
+        "char_code_wubi": "duph|dyuh",
+        "char_code_cangjie": "mrybb",
+        "char_code_zhengma": "gswl",
+        "char_code_sijiao": "10627"
+    },
+    "general_unicode": "基本区 U+78B2",
+    "general_bs_code": "13251414345252"
+}

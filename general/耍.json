@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "frolic, play, amuse, play with"
+        },
+        {
+            "language": "德语",
+            "explanation": "jonglieren"
+        },
+        {
+            "language": "法语",
+            "explanation": "jouer,s'amuser"
+        }
+    ],
+    "general_pinyins": [
+        "shuǎ"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨㄚˇ"
+    ],
+    "general_radical": {
+        "radical": "而",
+        "non_radical_sn": "3",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "800D",
+            "132522531"
+        ],
+        "char_code_wubi": "dmjv",
+        "char_code_cangjie": "mbv",
+        "char_code_zhengma": "glzm",
+        "char_code_sijiao": "10404"
+    },
+    "general_unicode": "基本区 U+800D",
+    "general_bs_code": "132522531"
+}

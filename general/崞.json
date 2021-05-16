@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mountain in Shanxi"
+        },
+        {
+            "language": "法语",
+            "explanation": "Mont Guo"
+        }
+    ],
+    "general_pinyins": [
+        "guō"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄛ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䧐",
+        "𡾘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5D1E",
+            "25241251521"
+        ],
+        "char_code_wubi": "mybg",
+        "char_code_cangjie": "uyrd",
+        "char_code_zhengma": "lljy",
+        "char_code_sijiao": "20747"
+    },
+    "general_unicode": "基本区 U+5D1E",
+    "general_bs_code": "25241251521"
+}

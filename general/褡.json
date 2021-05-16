@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "girdle; loincloth; pouch, bag"
+        },
+        {
+            "language": "法语",
+            "explanation": "large ceinture"
+        }
+    ],
+    "general_pinyins": [
+        "dā"
+    ],
+    "general_zhuyins": [
+        "ㄉㄚ"
+    ],
+    "general_radical": {
+        "radical": "衤",
+        "non_radical_sn": "9",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䌋"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8921",
+            "45234122341251"
+        ],
+        "char_code_wubi": "puak",
+        "char_code_cangjie": "ltor",
+        "char_code_zhengma": "wtaj",
+        "char_code_sijiao": "34261"
+    },
+    "general_unicode": "基本区 U+8921",
+    "general_bs_code": "45234122341251"
+}

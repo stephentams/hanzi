@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "river in Henan"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom d'une rivière)​"
+        }
+    ],
+    "general_pinyins": [
+        "zhēn",
+        "qín"
+    ],
+    "general_zhuyins": [
+        "ㄓㄣ",
+        "ㄑㄧㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "潧"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6EB1",
+            "4411113431234"
+        ],
+        "char_code_wubi": "idwt",
+        "char_code_cangjie": "eqkd",
+        "char_code_zhengma": "vcmf",
+        "char_code_sijiao": "35194"
+    },
+    "general_unicode": "基本区 U+6EB1",
+    "general_bs_code": "4411113431234"
+}

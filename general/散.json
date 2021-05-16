@@ -1,0 +1,59 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "scatter, disperse, break up"
+        },
+        {
+            "language": "德语",
+            "explanation": "Pulver  (S)​,pulverförmiges Medikament  (S, Med)​,sich auflösen, aufgehen in, zerstreuen, verbreiten, sich verteilen  (V)​,sich lockern, sich lösen, auseinander gehen  (V)​,aufgelöst, auseinander, zerstreut, verteilt, verbreitet, aufgegangen in  (Adj)​,San  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "se détacher,se disperser,se séparer,dispersé,éparpillé,se détacher,se disperser,se séparer,dispersé,éparpillé"
+        }
+    ],
+    "general_pinyins": [
+        "sàn",
+        "sǎn"
+    ],
+    "general_zhuyins": [
+        "ㄙㄢˋ",
+        "ㄙㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "攵",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㪚",
+        "𢻞",
+        "𢻦",
+        "𢻾",
+        "𢽳",
+        "𢿨",
+        "𢿷",
+        "𢿺",
+        "𣀙",
+        "𣪚",
+        "㪔",
+        "𢻎",
+        "𢿱",
+        "𣮠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6563",
+            "122125113134"
+        ],
+        "char_code_wubi": "aety",
+        "char_code_cangjie": "tbok",
+        "char_code_zhengma": "eaqm",
+        "char_code_sijiao": "48240"
+    },
+    "general_unicode": "基本区 U+6563",
+    "general_bs_code": "122125113134"
+}

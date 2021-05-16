@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "squint at; sidelong glance"
+        },
+        {
+            "language": "德语",
+            "explanation": "anstarren"
+        },
+        {
+            "language": "法语",
+            "explanation": "battement de paupières,clignotement de paupières,pétillement du regard"
+        }
+    ],
+    "general_pinyins": [
+        "lài"
+    ],
+    "general_zhuyins": [
+        "ㄌㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "睞"
+    ],
+    "general_ytz": [
+        "睞"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7750",
+            "251111431234"
+        ],
+        "char_code_wubi": "hgoy|hgus",
+        "char_code_cangjie": "budt",
+        "char_code_zhengma": "lbkv",
+        "char_code_sijiao": "65090"
+    },
+    "general_unicode": "基本区 U+7750",
+    "general_bs_code": "251111431234"
+}

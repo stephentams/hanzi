@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bow down, face down, look down"
+        },
+        {
+            "language": "德语",
+            "explanation": "hinunterblicken  (V)"
+        }
+    ],
+    "general_pinyins": [
+        "fǔ"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "俛",
+        "頫",
+        "𨵃",
+        "𩒙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4FEF",
+            "3241332124"
+        ],
+        "char_code_wubi": "wywf|wowf",
+        "char_code_cangjie": "oioi",
+        "char_code_zhengma": "ntnd",
+        "char_code_sijiao": "20240"
+    },
+    "general_unicode": "基本区 U+4FEF",
+    "general_bs_code": "3241332124"
+}

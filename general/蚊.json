@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mosquito; gnat"
+        },
+        {
+            "language": "德语",
+            "explanation": "Mücke  (S, Bio)​,Stechmücken  (S, Bio)"
+        }
+    ],
+    "general_pinyins": [
+        "wén"
+    ],
+    "general_zhuyins": [
+        "ㄨㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䘇",
+        "蚉",
+        "螡",
+        "蟁",
+        "𧉬",
+        "𧊈",
+        "𧏎",
+        "𧓢",
+        "𧓹",
+        "𧖁"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "868A",
+            "2512144134"
+        ],
+        "char_code_wubi": "jyy",
+        "char_code_cangjie": "liyk",
+        "char_code_zhengma": "iso",
+        "char_code_sijiao": "50140"
+    },
+    "general_unicode": "基本区 U+868A",
+    "general_bs_code": "2512144134"
+}

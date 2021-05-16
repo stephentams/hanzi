@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "path, road, street; method, way"
+        },
+        {
+            "language": "德语",
+            "explanation": "Dao (chinesische Philosophie)​ ; Passage, Weg  (Eig)"
+        },
+        {
+            "language": "法语",
+            "explanation": "doctrine,raison,voie,dire,circuit,intendance,(classificateur pour : lignes, rivières, ponts, passes, objets longs, plats cuisinés)​"
+        }
+    ],
+    "general_pinyins": [
+        "dào"
+    ],
+    "general_zhuyins": [
+        "ㄉㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨗓",
+        "𨖁",
+        "𨕥",
+        "𨔞",
+        "𡬹",
+        "衟",
+        "衜",
+        "噵",
+        "𠐵"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9053",
+            "431325111454"
+        ],
+        "char_code_wubi": "uthp",
+        "char_code_cangjie": "ythu",
+        "char_code_zhengma": "uanw",
+        "char_code_sijiao": "38306"
+    },
+    "general_unicode": "基本区 U+9053",
+    "general_bs_code": "431325111454"
+}

@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "suburbs; waste land, open spaces"
+        },
+        {
+            "language": "德语",
+            "explanation": "Vorort, Vorstadt (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "banlieue,faubourg"
+        }
+    ],
+    "general_pinyins": [
+        "jiāo"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "90CA",
+            "41343452"
+        ],
+        "char_code_wubi": "uqbh|urbh",
+        "char_code_cangjie": "yknl",
+        "char_code_zhengma": "sooy",
+        "char_code_sijiao": "07427"
+    },
+    "general_unicode": "基本区 U+90CA",
+    "general_bs_code": "41343452"
+}

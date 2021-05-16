@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "river and county in Hebei province"
+        },
+        {
+            "language": "法语",
+            "explanation": "(rivière et comté de la province du Hebei)​"
+        }
+    ],
+    "general_pinyins": [
+        "luán"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "灤"
+    ],
+    "general_ytz": [
+        "灤"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6EE6",
+            "4414122341234"
+        ],
+        "char_code_wubi": "iyos",
+        "char_code_cangjie": "eycd",
+        "char_code_zhengma": "vsf",
+        "char_code_sijiao": "30194"
+    },
+    "general_unicode": "基本区 U+6EE6",
+    "general_bs_code": "4414122341234"
+}

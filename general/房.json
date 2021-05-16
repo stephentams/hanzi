@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "house, building; room"
+        },
+        {
+            "language": "德语",
+            "explanation": "Haus"
+        },
+        {
+            "language": "法语",
+            "explanation": "maison,bâtiment,logement,chambre,pièce"
+        }
+    ],
+    "general_pinyins": [
+        "fáng"
+    ],
+    "general_zhuyins": [
+        "ㄈㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "户",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠩝",
+        "𢨲",
+        "𣃞"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "623F",
+            "45134153"
+        ],
+        "char_code_wubi": "ynyv|ynye",
+        "char_code_cangjie": "hsyhs",
+        "char_code_zhengma": "wmsy",
+        "char_code_sijiao": "30227"
+    },
+    "general_unicode": "基本区 U+623F",
+    "general_bs_code": "45134153"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "sand and gravel"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 Moräne  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "qì"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "磧"
+    ],
+    "general_ytz": [
+        "磧"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "789B",
+            "1325111212534"
+        ],
+        "char_code_wubi": "dgmy",
+        "char_code_cangjie": "mrqmo",
+        "char_code_zhengma": "gclo",
+        "char_code_sijiao": "15682"
+    },
+    "general_unicode": "基本区 U+789B",
+    "general_bs_code": "1325111212534"
+}

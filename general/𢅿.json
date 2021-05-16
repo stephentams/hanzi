@@ -1,0 +1,24 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "巾",
+        "non_radical_sn": "19",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "幠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2217F",
+            "2521341221123412211234"
+        ],
+        "char_code_wubi": "mhds",
+        "char_code_zhengma": "lief"
+    },
+    "general_unicode": "扩展B U+2217F",
+    "general_bs_code": "2521341221123412211234"
+}

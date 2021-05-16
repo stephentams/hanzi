@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "can not walk normally"
+        }
+    ],
+    "general_pinyins": [
+        "zuǒ"
+    ],
+    "general_zhuyins": [
+        "ㄗㄨㄛˇ"
+    ],
+    "general_radical": {
+        "radical": "尢",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡯛"
+    ],
+    "general_structure": "左下包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "377E",
+            "13513121"
+        ],
+        "char_code_wubi": "dnda",
+        "char_code_cangjie": "knkm",
+        "char_code_zhengma": "grgb",
+        "char_code_sijiao": "44011"
+    },
+    "general_unicode": "扩展A U+377E",
+    "general_bs_code": "13513121"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "grind; polish; rub; wear out; a millstone"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schleifstein, Mühle, mahlen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "frotter,polir,aiguiser,broyer,moudre,moulin,moudre"
+        }
+    ],
+    "general_pinyins": [
+        "mó",
+        "mò"
+    ],
+    "general_zhuyins": [
+        "ㄇㄛˊ",
+        "ㄇㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "11",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䃺",
+        "𢉳",
+        "𥖤"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "78E8",
+            "4131234123413251"
+        ],
+        "char_code_wubi": "yssd|ossd",
+        "char_code_cangjie": "icmr",
+        "char_code_zhengma": "tgfg",
+        "char_code_sijiao": "00262"
+    },
+    "general_unicode": "基本区 U+78E8",
+    "general_bs_code": "4131234123413251"
+}

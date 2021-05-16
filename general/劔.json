@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sword, dagger, saber"
+        }
+    ],
+    "general_pinyins": [
+        "jiàn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "刀",
+        "non_radical_sn": "14",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "劍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5294",
+            "3412512513434534"
+        ],
+        "char_code_wubi": "wgky",
+        "char_code_cangjie": "oosk",
+        "char_code_zhengma": "odys",
+        "char_code_sijiao": "87840"
+    },
+    "general_unicode": "基本区 U+5294",
+    "general_bs_code": "3412512513434534"
+}

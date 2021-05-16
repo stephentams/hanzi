@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "glutinous millet; KangXi radical number 202"
+        },
+        {
+            "language": "德语",
+            "explanation": "Hirsekorn, Hirse  (S)​,Radikal Nr. 202 = Hirse"
+        },
+        {
+            "language": "法语",
+            "explanation": "millet,202e radical"
+        }
+    ],
+    "general_pinyins": [
+        "shǔ"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "黍",
+        "non_radical_sn": "0",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥞆",
+        "𥞫"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9ECD",
+            "312343424134"
+        ],
+        "char_code_wubi": "twiu",
+        "char_code_cangjie": "hdoe",
+        "char_code_zhengma": "mfok",
+        "char_code_sijiao": "20909"
+    },
+    "general_unicode": "基本区 U+9ECD",
+    "general_bs_code": "312343424134"
+}

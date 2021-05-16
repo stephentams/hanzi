@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "jade's streaks"
+        }
+    ],
+    "general_pinyins": [
+        "bīn",
+        "pián"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄣ",
+        "ㄆㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "14",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "玢",
+        "玭",
+        "瑸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "74B8",
+            "112144512332511134"
+        ],
+        "char_code_wubi": "gpgm",
+        "char_code_cangjie": "mgjmc",
+        "char_code_zhengma": "cwkl",
+        "char_code_sijiao": "13186"
+    },
+    "general_unicode": "基本区 U+74B8",
+    "general_bs_code": "112144512332511134"
+}

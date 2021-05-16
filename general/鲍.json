@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "abalone; dried fish; surname"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bao  (Eig, Fam)​,Seeohr, Ohrschnecke  (Eig, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "ormeau"
+        }
+    ],
+    "general_pinyins": [
+        "bào"
+    ],
+    "general_zhuyins": [
+        "ㄅㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "5",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "鮑"
+    ],
+    "general_ytz": [
+        "鮑",
+        "蚫"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9C8D",
+            "3525121135515"
+        ],
+        "char_code_wubi": "qgqn",
+        "char_code_cangjie": "nmpru",
+        "char_code_zhengma": "rry",
+        "char_code_sijiao": "27112"
+    },
+    "general_unicode": "基本区 U+9C8D",
+    "general_bs_code": "3525121135515"
+}

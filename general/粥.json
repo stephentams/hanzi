@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rice gruel, congee"
+        },
+        {
+            "language": "德语",
+            "explanation": "Reisbrei, Reis-Congee  (S, Ess)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bouillie de riz"
+        }
+    ],
+    "general_pinyins": [
+        "zhōu",
+        "yù"
+    ],
+    "general_zhuyins": [
+        "ㄓㄡ",
+        "ㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "米",
+        "non_radical_sn": "6",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "鬻",
+        "𥺞",
+        "𢐫",
+        "𥼫"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7CA5",
+            "515431234515"
+        ],
+        "char_code_wubi": "xoxn",
+        "char_code_cangjie": "nfdn",
+        "char_code_zhengma": "yzuy",
+        "char_code_sijiao": "17227"
+    },
+    "general_unicode": "基本区 U+7CA5",
+    "general_bs_code": "515431234515"
+}

@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ladder, steps, stairs; lean"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fahrt ( im Bergwerk )​  (S, Tech)​,Laufmasche  (S)​,Leiter, Treppe  (S, Arch)"
+        },
+        {
+            "language": "法语",
+            "explanation": "échelle"
+        }
+    ],
+    "general_pinyins": [
+        "tī"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "68AF",
+            "12344351523"
+        ],
+        "char_code_wubi": "suxt",
+        "char_code_cangjie": "dcnh",
+        "char_code_zhengma": "fuyz",
+        "char_code_sijiao": "48927"
+    },
+    "general_unicode": "基本区 U+68AF",
+    "general_bs_code": "12344351523"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cat"
+        },
+        {
+            "language": "德语",
+            "explanation": "Katze, Kater  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "chat"
+        }
+    ],
+    "general_pinyins": [
+        "māo",
+        "máo"
+    ],
+    "general_zhuyins": [
+        "ㄇㄠ",
+        "ㄇㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "貓"
+    ],
+    "general_ytz": [
+        "貓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "732B",
+            "35312225121"
+        ],
+        "char_code_wubi": "qtal",
+        "char_code_cangjie": "khtw",
+        "char_code_zhengma": "qmek",
+        "char_code_sijiao": "44260"
+    },
+    "general_unicode": "基本区 U+732B",
+    "general_bs_code": "35312225121"
+}

@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(non-classical form of 勃) sudden; suddenly; quick; to change as the countenance"
+        }
+    ],
+    "general_pinyins": [
+        "bá",
+        "bó"
+    ],
+    "general_zhuyins": [
+        "ㄅㄚˊ",
+        "ㄅㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "力",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "勃"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "351C",
+            "344352153"
+        ],
+        "char_code_wubi": "ebln|ebet",
+        "char_code_cangjie": "bdks",
+        "char_code_zhengma": "pvyy",
+        "char_code_sijiao": "24427"
+    },
+    "general_unicode": "扩展A U+351C",
+    "general_bs_code": "344352153"
+}

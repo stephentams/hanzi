@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "heart; mind, intelligence; soul"
+        },
+        {
+            "language": "德语",
+            "explanation": "Radikal Nr. 61 = Herz (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "coeur,pensée,esprit,intention"
+        }
+    ],
+    "general_pinyins": [
+        "xīn"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄣ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "0",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "忄",
+        "㣺"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5FC3",
+            "4544"
+        ],
+        "char_code_wubi": "nyny",
+        "char_code_cangjie": "p",
+        "char_code_zhengma": "wz",
+        "char_code_sijiao": "33000"
+    },
+    "general_unicode": "基本区 U+5FC3",
+    "general_bs_code": "4544"
+}

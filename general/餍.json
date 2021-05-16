@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "be satiated, eat one's full"
+        },
+        {
+            "language": "法语",
+            "explanation": "sasiété"
+        }
+    ],
+    "general_pinyins": [
+        "yàn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "飠",
+        "non_radical_sn": "7",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "饜"
+    ],
+    "general_ytz": [
+        "饜",
+        "𤞣",
+        "𤹍",
+        "𤻩",
+        "𤼛",
+        "𩞚",
+        "𩞹",
+        "𩩶",
+        "𩪴"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "990D",
+            "131344344511534"
+        ],
+        "char_code_wubi": "ddwe|ddwv",
+        "char_code_cangjie": "mikv",
+        "char_code_zhengma": "ggso",
+        "char_code_sijiao": "71232"
+    },
+    "general_unicode": "基本区 U+990D",
+    "general_bs_code": "131344344511534"
+}

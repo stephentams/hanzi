@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "madder, rubia cordifolia; reeds"
+        },
+        {
+            "language": "法语",
+            "explanation": "garance,(utilisé dans la translittération des noms des personnes)​"
+        }
+    ],
+    "general_pinyins": [
+        "qiàn",
+        "xī"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄢˋ",
+        "ㄒ〡"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧀈",
+        "𦵻",
+        "𦴛",
+        "蒨"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "831C",
+            "122125351"
+        ],
+        "char_code_wubi": "asf",
+        "char_code_cangjie": "tmcw",
+        "char_code_zhengma": "efj",
+        "char_code_sijiao": "44604"
+    },
+    "general_unicode": "基本区 U+831C",
+    "general_bs_code": "122125351"
+}

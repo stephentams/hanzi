@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "obey, comply with, follow; honor"
+        },
+        {
+            "language": "德语",
+            "explanation": "bemerken, beobachten ,befolgen, gehorchen, einhalten  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "observer,se conformer"
+        }
+    ],
+    "general_pinyins": [
+        "zūn"
+    ],
+    "general_zhuyins": [
+        "ㄗㄨㄣ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨘊",
+        "𨗖",
+        "𨗕",
+        "𢕰",
+        "𢍲"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9075",
+            "431253511124454"
+        ],
+        "char_code_wubi": "usgp",
+        "char_code_cangjie": "ytwi",
+        "char_code_zhengma": "uddw",
+        "char_code_sijiao": "38304"
+    },
+    "general_unicode": "基本区 U+9075",
+    "general_bs_code": "431253511124454"
+}

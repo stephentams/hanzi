@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "assume, usurp"
+        },
+        {
+            "language": "法语",
+            "explanation": "usurper,outrepasser son autorité"
+        }
+    ],
+    "general_pinyins": [
+        "tiě",
+        "jiàn"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧㄝˇ",
+        "ㄐㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "12",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "僭",
+        "𦅦"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "50E3",
+            "32113411342511"
+        ],
+        "char_code_wubi": "wfwj|wggj",
+        "char_code_cangjie": "oqoa",
+        "char_code_zhengma": "nbok",
+        "char_code_sijiao": "25268"
+    },
+    "general_unicode": "基本区 U+50E3",
+    "general_bs_code": "32113411342511"
+}

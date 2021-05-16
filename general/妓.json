@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "prostitute"
+        },
+        {
+            "language": "德语",
+            "explanation": "Prostituierte, Dirne, Freudenmädchen, Straßenmädchen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "prostituée"
+        }
+    ],
+    "general_pinyins": [
+        "jì"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "姼",
+        "𪥩"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5993",
+            "5311254"
+        ],
+        "char_code_wubi": "vfcy",
+        "char_code_cangjie": "vje",
+        "char_code_zhengma": "zmex",
+        "char_code_sijiao": "44447"
+    },
+    "general_unicode": "基本区 U+5993",
+    "general_bs_code": "5311254"
+}

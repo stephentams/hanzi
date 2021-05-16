@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ostrich"
+        },
+        {
+            "language": "德语",
+            "explanation": "Strauß  (S, Bio)​,Vogel Strauß (Struthio camelus)​  (S, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "autruche"
+        }
+    ],
+    "general_pinyins": [
+        "tuó"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "鸟",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "鴕"
+    ],
+    "general_ytz": [
+        "鴕",
+        "𪂊"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E35",
+            "3545144535"
+        ],
+        "char_code_wubi": "qynx|qgpx",
+        "char_code_cangjie": "pmjp",
+        "char_code_zhengma": "rzwr",
+        "char_code_sijiao": "23112"
+    },
+    "general_unicode": "基本区 U+9E35",
+    "general_bs_code": "3545144535"
+}

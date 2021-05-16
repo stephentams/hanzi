@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "light; airy"
+        },
+        {
+            "language": "德语",
+            "explanation": ""
+        },
+        {
+            "language": "法语",
+            "explanation": "léger,aérien"
+        }
+    ],
+    "general_pinyins": [
+        "piào",
+        "biāo"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧㄠˋ",
+        "ㄅㄧㄠˉ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "11",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠎼",
+        "𠐆",
+        "𠑎",
+        "𤡑",
+        "𩪊"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "50C4",
+            "3212522111234"
+        ],
+        "char_code_wubi": "wsfi",
+        "char_code_cangjie": "omwf",
+        "char_code_zhengma": "nfbk",
+        "char_code_sijiao": "21291"
+    },
+    "general_unicode": "基本区 U+50C4",
+    "general_bs_code": "3212522111234"
+}

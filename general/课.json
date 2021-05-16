@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lesson; course; classwork"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fach, Kurs, Kursus (S)​,Lektion (S)​,Unterricht, Vorlesung, Unterrichtsstunde, Schulstunde (S)​,Unterricht, Unterrichtsstunde, Lektion (Zähl)"
+        },
+        {
+            "language": "法语",
+            "explanation": "leçon,cours,classe (éducation)​"
+        }
+    ],
+    "general_pinyins": [
+        "kè"
+    ],
+    "general_zhuyins": [
+        "ㄎㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "課"
+    ],
+    "general_ytz": [
+        "課"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BFE",
+            "4525111234"
+        ],
+        "char_code_wubi": "yjsy",
+        "char_code_cangjie": "ivwd",
+        "char_code_zhengma": "skf",
+        "char_code_sijiao": "36794"
+    },
+    "general_unicode": "基本区 U+8BFE",
+    "general_bs_code": "4525111234"
+}

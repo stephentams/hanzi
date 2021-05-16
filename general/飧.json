@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "evening meal, supper; cooked food"
+        },
+        {
+            "language": "德语",
+            "explanation": "Abendessen  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "sūn"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨㄣ"
+    ],
+    "general_radical": {
+        "radical": "飠",
+        "non_radical_sn": "3",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "喰",
+        "飱",
+        "𩚏",
+        "𩛈"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "98E7",
+            "354344511534"
+        ],
+        "char_code_wubi": "qwye|qwyv",
+        "char_code_cangjie": "nioiv",
+        "char_code_zhengma": "rsox",
+        "char_code_sijiao": "28232"
+    },
+    "general_unicode": "基本区 U+98E7",
+    "general_bs_code": "354344511534"
+}

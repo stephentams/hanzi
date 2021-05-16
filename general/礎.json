@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "foundation stone, plinth"
+        },
+        {
+            "language": "法语",
+            "explanation": "fondation,base"
+        }
+    ],
+    "general_pinyins": [
+        "chǔ"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "13",
+        "total_sn": "18"
+    },
+    "general_stc": [
+        "础"
+    ],
+    "general_ytz": [
+        "础",
+        "𥗈"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "790E",
+            "132511234123452134"
+        ],
+        "char_code_wubi": "dssh",
+        "char_code_cangjie": "mrddo",
+        "char_code_zhengma": "gfxi",
+        "char_code_sijiao": "14681"
+    },
+    "general_unicode": "基本区 U+790E",
+    "general_bs_code": "132511234123452134"
+}

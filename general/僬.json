@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "clever; alert in mind pigmies"
+        },
+        {
+            "language": "德语",
+            "explanation": "klug, geschickt"
+        },
+        {
+            "language": "法语",
+            "explanation": "nain mythologique,gnome"
+        }
+    ],
+    "general_pinyins": [
+        "jiāo"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "12",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "50EC",
+            "32324111214444"
+        ],
+        "char_code_wubi": "wwyo",
+        "char_code_cangjie": "oogf",
+        "char_code_zhengma": "nnuo",
+        "char_code_sijiao": "20231"
+    },
+    "general_unicode": "基本区 U+50EC",
+    "general_bs_code": "32324111214444"
+}

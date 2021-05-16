@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rub, scour, grind; friction"
+        },
+        {
+            "language": "德语",
+            "explanation": "reiben, einreiben  (V)​,studieren; nach etw. forschen; über etw. nachgrübeln  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "frotter,gratter,encouragement,amélioration,exercice"
+        }
+    ],
+    "general_pinyins": [
+        "mó",
+        "mā"
+    ],
+    "general_zhuyins": [
+        "ㄇㄛˊ",
+        "ㄇㄚ"
+    ],
+    "general_radical": {
+        "radical": "手",
+        "non_radical_sn": "11",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "擵",
+        "攠",
+        "𢣾",
+        "𢳀",
+        "𥗂",
+        "𥗘",
+        "𦇑",
+        "𪎚"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6469",
+            "413123412343112"
+        ],
+        "char_code_wubi": "yssr|ossr",
+        "char_code_cangjie": "icq",
+        "char_code_zhengma": "tgfm",
+        "char_code_sijiao": "00252"
+    },
+    "general_unicode": "基本区 U+6469",
+    "general_bs_code": "413123412343112"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "be healed, be cured; recover"
+        },
+        {
+            "language": "德语",
+            "explanation": "entdecken, wiederherstellen"
+        },
+        {
+            "language": "法语",
+            "explanation": "récupérer (d'une maladie)​"
+        }
+    ],
+    "general_pinyins": [
+        "quán"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "全"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "75CA",
+            "41341341121"
+        ],
+        "char_code_wubi": "uwgd",
+        "char_code_cangjie": "komg",
+        "char_code_zhengma": "toc",
+        "char_code_sijiao": "00114"
+    },
+    "general_unicode": "基本区 U+75CA",
+    "general_bs_code": "41341341121"
+}

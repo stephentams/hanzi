@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "eye; eyelet, hole, opening"
+        },
+        {
+            "language": "德语",
+            "explanation": "Auge  (Zähl)"
+        },
+        {
+            "language": "法语",
+            "explanation": "oeil,regard,trou,chas"
+        }
+    ],
+    "general_pinyins": [
+        "yǎn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥃩",
+        "𥆢"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "773C",
+            "25111511534"
+        ],
+        "char_code_wubi": "hvey|hvy",
+        "char_code_cangjie": "buav",
+        "char_code_zhengma": "lxo",
+        "char_code_sijiao": "67032"
+    },
+    "general_unicode": "基本区 U+773C",
+    "general_bs_code": "25111511534"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fujian province; a river; a tribe"
+        },
+        {
+            "language": "德语",
+            "explanation": "Abkürzung für Fujian Provinz (Eig, Geo)​,Reich Min (eins der Zehn Köngsreiche im historischen China, 909-945)​ (Eig, Gesch)"
+        },
+        {
+            "language": "法语",
+            "explanation": "autre nom de la province de Fujian"
+        }
+    ],
+    "general_pinyins": [
+        "mǐn"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "门",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "閩"
+    ],
+    "general_ytz": [
+        "閩",
+        "𨷷"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "95FD",
+            "425251214"
+        ],
+        "char_code_wubi": "uji",
+        "char_code_cangjie": "lslmi",
+        "char_code_zhengma": "tli",
+        "char_code_sijiao": "37136"
+    },
+    "general_unicode": "基本区 U+95FD",
+    "general_bs_code": "425251214"
+}

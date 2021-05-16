@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "the snarling of dogs"
+        },
+        {
+            "language": "法语",
+            "explanation": "chien hargneux"
+        }
+    ],
+    "general_pinyins": [
+        "yín"
+    ],
+    "general_zhuyins": [
+        "ㄧㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㹞"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "72FA",
+            "3534111251"
+        ],
+        "char_code_wubi": "qtyg",
+        "char_code_cangjie": "khymr",
+        "char_code_zhengma": "qms",
+        "char_code_sijiao": "40261"
+    },
+    "general_unicode": "基本区 U+72FA",
+    "general_bs_code": "3534111251"
+}

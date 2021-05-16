@@ -1,0 +1,56 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a painting, picture, drawing; to draw"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bild, Gemälde, Zeichnung  (S)​,malen, zeichnen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "dessin,peinture,magazine,dessiner,peindre"
+        }
+    ],
+    "general_pinyins": [
+        "huà"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "田",
+        "non_radical_sn": "3",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "畫"
+    ],
+    "general_ytz": [
+        "畫",
+        "畵",
+        "𠚇",
+        "𡇍",
+        "𤰱",
+        "𤱪",
+        "𤲯",
+        "𦘕",
+        "𦘚",
+        "𨽶",
+        "画"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "753B",
+            "12512152"
+        ],
+        "char_code_wubi": "glbj",
+        "char_code_cangjie": "muw",
+        "char_code_zhengma": "akzi",
+        "char_code_sijiao": "10772"
+    },
+    "general_unicode": "基本区 U+753B",
+    "general_bs_code": "12512152"
+}

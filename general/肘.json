@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "the elbow; help a person shoulder a load"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ellbogen  (S)​,Ellenbogen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "coude"
+        }
+    ],
+    "general_pinyins": [
+        "zhǒu"
+    ],
+    "general_zhuyins": [
+        "ㄓㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "3",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "胕",
+        "䏔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8098",
+            "3511124"
+        ],
+        "char_code_wubi": "efy",
+        "char_code_cangjie": "bdi",
+        "char_code_zhengma": "qds",
+        "char_code_sijiao": "74200"
+    },
+    "general_unicode": "基本区 U+8098",
+    "general_bs_code": "3511124"
+}

@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to twist or nip with the fingers"
+        },
+        {
+            "language": "德语",
+            "explanation": "drehen, wirbeln"
+        },
+        {
+            "language": "法语",
+            "explanation": "pincer,prendre entre les doigts,prendre avec une pince,tordre"
+        }
+    ],
+    "general_pinyins": [
+        "niǎn",
+        "niē"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧㄢˇ",
+        "ㄋㄧㄝ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "敜",
+        "㩶",
+        "𢰀",
+        "捻"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "637B",
+            "12134454544"
+        ],
+        "char_code_wubi": "rwyn",
+        "char_code_cangjie": "qoip",
+        "char_code_zhengma": "doxw",
+        "char_code_sijiao": "58032"
+    },
+    "general_unicode": "基本区 U+637B",
+    "general_bs_code": "12134454544"
+}

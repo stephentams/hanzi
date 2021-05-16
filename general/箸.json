@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "chopsticks"
+        },
+        {
+            "language": "德语",
+            "explanation": "Essstäbchen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bâtonnets pour manger"
+        }
+    ],
+    "general_pinyins": [
+        "zhù"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "8",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "櫡",
+        "筯",
+        "著",
+        "𥯄"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7BB8",
+            "31431412132511"
+        ],
+        "char_code_wubi": "tftj",
+        "char_code_cangjie": "hjka",
+        "char_code_zhengma": "mbm",
+        "char_code_sijiao": "88604"
+    },
+    "general_unicode": "基本区 U+7BB8",
+    "general_bs_code": "31431412132511"
+}

@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "act with reverence; reverent"
+        },
+        {
+            "language": "德语",
+            "explanation": "fromm"
+        },
+        {
+            "language": "法语",
+            "explanation": "sincère,ferme,déterminé,respectueux"
+        }
+    ],
+    "general_pinyins": [
+        "qián"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "虍",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䖍",
+        "𠧘",
+        "𠧺",
+        "𠧾",
+        "𡨊",
+        "𧆛",
+        "𦴋"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8654",
+            "2153154134"
+        ],
+        "char_code_wubi": "hayi|hyi",
+        "char_code_cangjie": "ypyk",
+        "char_code_zhengma": "ihso",
+        "char_code_sijiao": "21240"
+    },
+    "general_unicode": "基本区 U+8654",
+    "general_bs_code": "2153154134"
+}

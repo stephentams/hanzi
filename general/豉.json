@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fermented beans"
+        },
+        {
+            "language": "法语",
+            "explanation": "graines de soja fermenté et salé"
+        }
+    ],
+    "general_pinyins": [
+        "chǐ"
+    ],
+    "general_zhuyins": [
+        "ㄔˇ"
+    ],
+    "general_radical": {
+        "radical": "豆",
+        "non_radical_sn": "4",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䜴",
+        "䜵",
+        "䜻",
+        "敊",
+        "𢻃",
+        "𩚡"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C49",
+            "12514311254"
+        ],
+        "char_code_wubi": "gkuc",
+        "char_code_cangjie": "mtje",
+        "char_code_zhengma": "ajex",
+        "char_code_sijiao": "14147"
+    },
+    "general_unicode": "基本区 U+8C49",
+    "general_bs_code": "12514311254"
+}

@@ -1,0 +1,33 @@
+{
+    "general_pinyins": [
+        "huàn",
+        "huān"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄢˋ",
+        "ㄏㄨㄢ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "17",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡅻",
+        "喚"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "56BE",
+            "25112225125132411121"
+        ],
+        "char_code_wubi": "kaky",
+        "char_code_cangjie": "rtrg",
+        "char_code_zhengma": "jejn",
+        "char_code_sijiao": "64015"
+    },
+    "general_unicode": "基本区 U+56BE",
+    "general_bs_code": "25112225125132411121"
+}

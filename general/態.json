@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "manner, bearing, attitude"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gesinnung  (S)​,Haltung  (S)​,Verhältnis  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "conduite,tenue,manières,mine (expression)​"
+        }
+    ],
+    "general_pinyins": [
+        "tài"
+    ],
+    "general_zhuyins": [
+        "ㄊㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "态"
+    ],
+    "general_ytz": [
+        "态",
+        "㑷"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "614B",
+            "54251135354544"
+        ],
+        "char_code_wubi": "cexn",
+        "char_code_cangjie": "ipp",
+        "char_code_zhengma": "zsrw",
+        "char_code_sijiao": "22331"
+    },
+    "general_unicode": "基本区 U+614B",
+    "general_bs_code": "54251135354544"
+}

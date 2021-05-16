@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 卷) a book or painting which can be easily folded or rolled up, a division of a book"
+        }
+    ],
+    "general_pinyins": [
+        "juàn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "弓",
+        "non_radical_sn": "1",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "卷"
+    ],
+    "general_structure": "右上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "38A7",
+            "5151"
+        ],
+        "char_code_wubi": "xgd",
+        "char_code_cangjie": "nm",
+        "char_code_zhengma": "yzaa",
+        "char_code_sijiao": "17127"
+    },
+    "general_unicode": "扩展A U+38A7",
+    "general_bs_code": "5151"
+}

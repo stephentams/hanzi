@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "food, meal; eat; offer"
+        },
+        {
+            "language": "德语",
+            "explanation": "Delikatessen, Leckerbissen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "mets exquis,offrir"
+        }
+    ],
+    "general_pinyins": [
+        "xiū"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄡ"
+    ],
+    "general_radical": {
+        "radical": "饣",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "饈"
+    ],
+    "general_ytz": [
+        "饈",
+        "䐰",
+        "𦟤"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9990",
+            "3554311135211"
+        ],
+        "char_code_wubi": "qnuf|qnug",
+        "char_code_cangjie": "nvtqg",
+        "char_code_zhengma": "oxxe",
+        "char_code_sijiao": "28712"
+    },
+    "general_unicode": "基本区 U+9990",
+    "general_bs_code": "3554311135211"
+}

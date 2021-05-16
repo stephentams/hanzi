@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cooking-pot, saucepan"
+        },
+        {
+            "language": "德语",
+            "explanation": "Topf  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "marmite,casserole,poêle"
+        }
+    ],
+    "general_pinyins": [
+        "guō"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄛ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "鍋"
+    ],
+    "general_ytz": [
+        "鍋",
+        "𢧘",
+        "𩰫",
+        "𩰭",
+        "𩰮"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9505",
+            "311152512534"
+        ],
+        "char_code_wubi": "qkmw",
+        "char_code_cangjie": "oprob",
+        "char_code_zhengma": "pjlo",
+        "char_code_sijiao": "86727"
+    },
+    "general_unicode": "基本区 U+9505",
+    "general_bs_code": "311152512534"
+}

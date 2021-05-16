@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a rush, of which various things are made"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kuai  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "jonc"
+        }
+    ],
+    "general_pinyins": [
+        "kuǎi"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄞˇ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "塊",
+        "𨛖",
+        "𦳋",
+        "𦰵",
+        "𦮍",
+        "𦬿",
+        "𠣲",
+        "䓒",
+        "𠣯",
+        "𦹣"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "84AF",
+            "1223511351122"
+        ],
+        "char_code_wubi": "aeej",
+        "char_code_cangjie": "tbln",
+        "char_code_zhengma": "eqqk",
+        "char_code_sijiao": "42200"
+    },
+    "general_unicode": "基本区 U+84AF",
+    "general_bs_code": "1223511351122"
+}

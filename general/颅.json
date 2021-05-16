@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "skull"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schädel  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "crâne"
+        }
+    ],
+    "general_pinyins": [
+        "lú"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "页",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "顱"
+    ],
+    "general_ytz": [
+        "顱",
+        "髗",
+        "𩔺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9885",
+            "21513132534"
+        ],
+        "char_code_wubi": "hndm",
+        "char_code_cangjie": "ysmbo",
+        "char_code_zhengma": "idxg",
+        "char_code_sijiao": "21282"
+    },
+    "general_unicode": "基本区 U+9885",
+    "general_bs_code": "21513132534"
+}

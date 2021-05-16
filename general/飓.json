@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cyclone, typhoon, gale"
+        },
+        {
+            "language": "德语",
+            "explanation": "Orkan (S, Met)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cyclone,typhon"
+        }
+    ],
+    "general_pinyins": [
+        "jù"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "风",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "颶"
+    ],
+    "general_ytz": [
+        "颶",
+        "𩗗"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "98D3",
+            "353425111134"
+        ],
+        "char_code_wubi": "mqhw|wrhw",
+        "char_code_cangjie": "hnbmc",
+        "char_code_zhengma": "qdlo",
+        "char_code_sijiao": "77218"
+    },
+    "general_unicode": "基本区 U+98D3",
+    "general_bs_code": "353425111134"
+}

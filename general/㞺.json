@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(ancient form of 族) a tribe; a clan; relatives, race (of people), a class; a family (of animals)"
+        }
+    ],
+    "general_pinyins": [
+        "zú"
+    ],
+    "general_zhuyins": [
+        "ㄗㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "族"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "37BA",
+            "25231134"
+        ],
+        "char_code_wubi": "mtdu",
+        "char_code_cangjie": "uok",
+        "char_code_zhengma": "llma",
+        "char_code_sijiao": "22804"
+    },
+    "general_unicode": "扩展A U+37BA",
+    "general_bs_code": "25231134"
+}

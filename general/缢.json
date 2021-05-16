@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hang, strangle"
+        },
+        {
+            "language": "德语",
+            "explanation": "hängen, Hänger  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "étrangler"
+        }
+    ],
+    "general_pinyins": [
+        "yì"
+    ],
+    "general_zhuyins": [
+        "ㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "縊"
+    ],
+    "general_ytz": [
+        "縊"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F22",
+            "5514313425221"
+        ],
+        "char_code_wubi": "xuwl",
+        "char_code_cangjie": "vmtct",
+        "char_code_zhengma": "zuol",
+        "char_code_sijiao": "28112"
+    },
+    "general_unicode": "基本区 U+7F22",
+    "general_bs_code": "5514313425221"
+}

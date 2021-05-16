@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a kind of grain, (same as U+7A34) trees producing no fruit"
+        }
+    ],
+    "general_pinyins": [
+        "lián",
+        "qiàn"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄢˊ",
+        "ㄑㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "13",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "稴",
+        "𥣹"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4182",
+            "312344134315112234"
+        ],
+        "char_code_wubi": "tyuo|touw",
+        "char_code_cangjie": "hditc",
+        "char_code_zhengma": "mfux",
+        "char_code_sijiao": "20937"
+    },
+    "general_unicode": "扩展A U+4182",
+    "general_bs_code": "312344134315112234"
+}

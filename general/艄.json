@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stern of a vessel"
+        },
+        {
+            "language": "法语",
+            "explanation": "poupe"
+        }
+    ],
+    "general_pinyins": [
+        "shāo"
+    ],
+    "general_zhuyins": [
+        "ㄕㄠ"
+    ],
+    "general_radical": {
+        "radical": "舟",
+        "non_radical_sn": "7",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8244",
+            "3354142432511"
+        ],
+        "char_code_wubi": "teie|tuie",
+        "char_code_cangjie": "hyfb",
+        "char_code_zhengma": "pykq",
+        "char_code_sijiao": "29427"
+    },
+    "general_unicode": "基本区 U+8244",
+    "general_bs_code": "3354142432511"
+}

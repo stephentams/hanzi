@@ -1,0 +1,57 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stable, firm, solid, steady"
+        },
+        {
+            "language": "德语",
+            "explanation": "fest, stetig"
+        },
+        {
+            "language": "法语",
+            "explanation": "stable,ferme,sûr,assuré"
+        }
+    ],
+    "general_pinyins": [
+        "wěn"
+    ],
+    "general_zhuyins": [
+        "ㄨㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "9",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "穩"
+    ],
+    "general_ytz": [
+        "穩",
+        "桽",
+        "穏",
+        "㝧",
+        "㒚",
+        "𡘫",
+        "𡨠",
+        "𤯗",
+        "𥡷",
+        "𥦊",
+        "𥧚",
+        "𨆲"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7A33",
+            "31234355114544"
+        ],
+        "char_code_wubi": "tqvn",
+        "char_code_cangjie": "hdnsp",
+        "char_code_zhengma": "mfxw",
+        "char_code_sijiao": "27937"
+    },
+    "general_unicode": "基本区 U+7A33",
+    "general_bs_code": "31234355114544"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "part, division, section"
+        },
+        {
+            "language": "德语",
+            "explanation": "Amt, Ministerium, Abteilung, Einheit (S, Pol)​,Teil, Abschnitt (S)​,ZEW für Kinofilme, Romane, einzelne Folgen einer Serie (Zähl)"
+        },
+        {
+            "language": "法语",
+            "explanation": "classe,partie,section,catégorie,un ensemble,ministère,département,unité,quartier général,(classificateur pour les films, les romans, certaines machines de petites tailles comme le téléphone portable)​"
+        }
+    ],
+    "general_pinyins": [
+        "bù"
+    ],
+    "general_zhuyins": [
+        "ㄅㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "郶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "90E8",
+            "4143125152"
+        ],
+        "char_code_wubi": "ukbh",
+        "char_code_cangjie": "yrnl",
+        "char_code_zhengma": "sujy",
+        "char_code_sijiao": "07627"
+    },
+    "general_unicode": "基本区 U+90E8",
+    "general_bs_code": "4143125152"
+}

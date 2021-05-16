@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a cup made of horn obstinate"
+        },
+        {
+            "language": "法语",
+            "explanation": "coupe à vin"
+        }
+    ],
+    "general_pinyins": [
+        "gōng"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄥ"
+    ],
+    "general_radical": {
+        "radical": "角",
+        "non_radical_sn": "6",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "觵",
+        "侊",
+        "𧣥",
+        "𨠵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "89E5",
+            "3535112243135"
+        ],
+        "char_code_wubi": "qeiq",
+        "char_code_cangjie": "nbfmu",
+        "char_code_zhengma": "rlkg",
+        "char_code_sijiao": "29212"
+    },
+    "general_unicode": "基本区 U+89E5",
+    "general_bs_code": "3535112243135"
+}

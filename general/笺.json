@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "note, memo; stationery; comments"
+        },
+        {
+            "language": "德语",
+            "explanation": "Brief (bogen)​  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "papier à lettre de fantaisie,lettre,document"
+        }
+    ],
+    "general_pinyins": [
+        "jiān"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "箋"
+    ],
+    "general_ytz": [
+        "箋",
+        "牋",
+        "椾",
+        "㮍",
+        "䔐"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7B3A",
+            "31431411534"
+        ],
+        "char_code_wubi": "tgr|tgau",
+        "char_code_cangjie": "hij",
+        "char_code_zhengma": "mhm",
+        "char_code_sijiao": "88503"
+    },
+    "general_unicode": "基本区 U+7B3A",
+    "general_bs_code": "31431411534"
+}

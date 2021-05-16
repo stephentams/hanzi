@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "frighten, surprise, startle"
+        },
+        {
+            "language": "德语",
+            "explanation": "ängstigen, beunruhigen  (V)​,sich erschrecken, bestürzt sein, stören  (V)​,überrascht sein  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "être effrayé,prendre,surprendre"
+        }
+    ],
+    "general_pinyins": [
+        "jīng"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄥ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "驚"
+    ],
+    "general_ytz": [
+        "悢",
+        "驚"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "60CA",
+            "44241251234"
+        ],
+        "char_code_wubi": "nyiy",
+        "char_code_cangjie": "pyrf",
+        "char_code_zhengma": "usjk",
+        "char_code_sijiao": "90096"
+    },
+    "general_unicode": "基本区 U+60CA",
+    "general_bs_code": "44241251234"
+}

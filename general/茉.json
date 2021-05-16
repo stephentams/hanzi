@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "white jasmine"
+        },
+        {
+            "language": "德语",
+            "explanation": "Jasmin  (Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "jasmin"
+        }
+    ],
+    "general_pinyins": [
+        "mò"
+    ],
+    "general_zhuyins": [
+        "ㄇㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8309",
+            "12211234"
+        ],
+        "char_code_wubi": "agsu",
+        "char_code_cangjie": "tdj",
+        "char_code_zhengma": "eaf",
+        "char_code_sijiao": "44905"
+    },
+    "general_unicode": "基本区 U+8309",
+    "general_bs_code": "12211234"
+}

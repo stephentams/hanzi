@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "thoroughfare, crossroads"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kreuzung oder Einmündung mit Vorfahrt, Querstraßen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "voie,chemin"
+        }
+    ],
+    "general_pinyins": [
+        "kuí"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨘫",
+        "馗",
+        "㙺"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9035",
+            "12134121454"
+        ],
+        "char_code_wubi": "fwfp",
+        "char_code_cangjie": "ygcg",
+        "char_code_zhengma": "bobw",
+        "char_code_sijiao": "34301"
+    },
+    "general_unicode": "基本区 U+9035",
+    "general_bs_code": "12134121454"
+}

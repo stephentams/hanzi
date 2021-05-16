@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "plantain or banana palm; fragrant"
+        },
+        {
+            "language": "法语",
+            "explanation": "(type de plante parfumée)​,banane"
+        }
+    ],
+    "general_pinyins": [
+        "bā"
+    ],
+    "general_zhuyins": [
+        "ㄅㄚ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "82AD",
+            "1225215"
+        ],
+        "char_code_wubi": "acb",
+        "char_code_cangjie": "tau",
+        "char_code_zhengma": "eyia",
+        "char_code_sijiao": "44717"
+    },
+    "general_unicode": "基本区 U+82AD",
+    "general_bs_code": "1225215"
+}

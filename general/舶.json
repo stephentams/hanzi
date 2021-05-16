@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "large, ocean-going vessel"
+        },
+        {
+            "language": "法语",
+            "explanation": "navire de haute mer,bateau hauturier"
+        }
+    ],
+    "general_pinyins": [
+        "bó"
+    ],
+    "general_zhuyins": [
+        "ㄅㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "舟",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "艊"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8236",
+            "33541432511"
+        ],
+        "char_code_wubi": "terg|turg",
+        "char_code_cangjie": "hyha",
+        "char_code_zhengma": "pynk",
+        "char_code_sijiao": "26402"
+    },
+    "general_unicode": "基本区 U+8236",
+    "general_bs_code": "33541432511"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mountain stream, creek"
+        },
+        {
+            "language": "德语",
+            "explanation": "Flüsschen  (S)​,Bach  (S)​,Flüsschen  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "xī"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "渓",
+        "谿",
+        "嵠",
+        "𤲺",
+        "𥡙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6EAA",
+            "4413443554134"
+        ],
+        "char_code_wubi": "iexd",
+        "char_code_cangjie": "ebvk",
+        "char_code_zhengma": "vpzg",
+        "char_code_sijiao": "32184"
+    },
+    "general_unicode": "基本区 U+6EAA",
+    "general_bs_code": "4413443554134"
+}

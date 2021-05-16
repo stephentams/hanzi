@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "anger, rage"
+        },
+        {
+            "language": "德语",
+            "explanation": "Rage, Rasen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "rage"
+        }
+    ],
+    "general_pinyins": [
+        "huì"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㤬",
+        "𢗣"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "605A",
+            "1211214544"
+        ],
+        "char_code_wubi": "ffnu",
+        "char_code_cangjie": "ggp",
+        "char_code_zhengma": "bbwz",
+        "char_code_sijiao": "40331"
+    },
+    "general_unicode": "基本区 U+605A",
+    "general_bs_code": "1211214544"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "water used wash rice; to wash ric"
+        },
+        {
+            "language": "德语",
+            "explanation": "rein waschen  (V)​,reinigen  (V)​,Xi (Flussname)​  (Eig, Geo)​,(English: sleet etc.)​ ,klar ,rein ,Reis waschen ,= xi1"
+        },
+        {
+            "language": "法语",
+            "explanation": "(onom.)​ bruit de la pluie"
+        }
+    ],
+    "general_pinyins": [
+        "xī"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "析",
+        "𣶁",
+        "𥺚",
+        "𥼔"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6DC5",
+            "44112343312"
+        ],
+        "char_code_wubi": "isrh",
+        "char_code_cangjie": "edhl",
+        "char_code_zhengma": "vfpd",
+        "char_code_sijiao": "32121"
+    },
+    "general_unicode": "基本区 U+6DC5",
+    "general_bs_code": "44112343312"
+}

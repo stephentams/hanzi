@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "phlegm, mucus, spittle"
+        },
+        {
+            "language": "德语",
+            "explanation": "Phlegma  (S, Med)​,Schleim  (S, Med)"
+        },
+        {
+            "language": "法语",
+            "explanation": "crachat,mucus"
+        }
+    ],
+    "general_pinyins": [
+        "tán"
+    ],
+    "general_zhuyins": [
+        "ㄊㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "淡"
+    ],
+    "general_structure": "半包围结构；先外后内",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "75F0",
+            "4134143344334"
+        ],
+        "char_code_wubi": "uooi",
+        "char_code_cangjie": "kff",
+        "char_code_zhengma": "tuuo",
+        "char_code_sijiao": "00189"
+    },
+    "general_unicode": "基本区 U+75F0",
+    "general_bs_code": "4134143344334"
+}

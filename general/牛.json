@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cow, ox, bull; KangXi radical93"
+        },
+        {
+            "language": "德语",
+            "explanation": "Rind; eingebildet, störrisch (中国似乎有一点“牛”起来的感觉)​  (S, Bio)​,Radikal Nr. 3 = Rind, Ochse (Variante: 牜)​  (S, Sprachw)"
+        },
+        {
+            "language": "法语",
+            "explanation": "boeuf,buffle,vache,(argot)​ fantastique"
+        }
+    ],
+    "general_pinyins": [
+        "niú"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "牛",
+        "non_radical_sn": "0",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "牜"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "725B",
+            "3112"
+        ],
+        "char_code_wubi": "rhk|tgk",
+        "char_code_cangjie": "hq",
+        "char_code_zhengma": "mb",
+        "char_code_sijiao": "25000"
+    },
+    "general_unicode": "基本区 U+725B",
+    "general_bs_code": "3112"
+}

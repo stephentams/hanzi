@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ancient aboriginal tribe"
+        },
+        {
+            "language": "法语",
+            "explanation": "ethnie Bo"
+        }
+    ],
+    "general_pinyins": [
+        "bó"
+    ],
+    "general_zhuyins": [
+        "ㄅㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "人",
+        "non_radical_sn": "12",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠍷",
+        "𠒧",
+        "𢣡",
+        "𤏡",
+        "𢣱",
+        "𣕾"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "50F0",
+            "12523412523434"
+        ],
+        "char_code_wubi": "gmiw|smsw",
+        "char_code_cangjie": "dbo",
+        "char_code_zhengma": "fllo",
+        "char_code_sijiao": "55809"
+    },
+    "general_unicode": "基本区 U+50F0",
+    "general_bs_code": "12523412523434"
+}

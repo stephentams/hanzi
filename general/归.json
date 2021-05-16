@@ -1,0 +1,58 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "return; return to, revert to"
+        },
+        {
+            "language": "德语",
+            "explanation": "für etw. verantwortlich sein, gehören  (V)​,zurückgehen, zurückreichen, zurückgeben  (V)​,zurückkehren  (V)​,zurücklaufen  (V)​,Gui  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "retourner,rentrer,rendre,appartenir,vers"
+        }
+    ],
+    "general_pinyins": [
+        "guī"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄟ"
+    ],
+    "general_radical": {
+        "radical": "彐",
+        "non_radical_sn": "2",
+        "total_sn": "5"
+    },
+    "general_stc": [
+        "歸"
+    ],
+    "general_ytz": [
+        "歸",
+        "帰",
+        "㱕",
+        "䢜",
+        "𡚖",
+        "𡹙",
+        "𢅦",
+        "𣦨",
+        "𤾤",
+        "𥇳",
+        "𨓼",
+        "𨺔",
+        "𨺜"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F52",
+            "23511"
+        ],
+        "char_code_wubi": "jvg",
+        "char_code_cangjie": "llsm",
+        "char_code_zhengma": "kdxb",
+        "char_code_sijiao": "27070"
+    },
+    "general_unicode": "基本区 U+5F52",
+    "general_bs_code": "23511"
+}

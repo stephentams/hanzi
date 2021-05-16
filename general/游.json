@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to swim; float, drift; wander, roam"
+        },
+        {
+            "language": "德语",
+            "explanation": "schwimmen, reisen  (V)"
+        }
+    ],
+    "general_pinyins": [
+        "yóu"
+    ],
+    "general_zhuyins": [
+        "ㄧㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "旒",
+        "㳺",
+        "汓",
+        "𠾈",
+        "𨒣",
+        "𨒰",
+        "遊",
+        "𣸯"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6E38",
+            "441415331521"
+        ],
+        "char_code_wubi": "iytb",
+        "char_code_cangjie": "eysd",
+        "char_code_zhengma": "vsmy",
+        "char_code_sijiao": "38147"
+    },
+    "general_unicode": "基本区 U+6E38",
+    "general_bs_code": "441415331521"
+}

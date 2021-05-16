@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "irritable, nervous, impatient"
+        },
+        {
+            "language": "德语",
+            "explanation": "bedauerlich, betrübt ,begierig, ungehalten, unduldsam"
+        },
+        {
+            "language": "法语",
+            "explanation": "en colère,furieux,triste,impatient"
+        }
+    ],
+    "general_pinyins": [
+        "yuān",
+        "juàn"
+    ],
+    "general_zhuyins": [
+        "ㄩㄢ",
+        "ㄐㄩㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢛋",
+        "𢞈"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6081",
+            "4422512511"
+        ],
+        "char_code_wubi": "nkeg",
+        "char_code_cangjie": "prb",
+        "char_code_zhengma": "ujq",
+        "char_code_sijiao": "96027"
+    },
+    "general_unicode": "基本区 U+6081",
+    "general_bs_code": "4422512511"
+}

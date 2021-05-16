@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "the Yangtze porpoise"
+        }
+    ],
+    "general_pinyins": [
+        "pǔ",
+        "pù"
+    ],
+    "general_zhuyins": [
+        "ㄆㄨˇ",
+        "ㄆㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "魚",
+        "non_radical_sn": "12",
+        "total_sn": "23"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4C95",
+            "35251214444431224312511"
+        ],
+        "char_code_wubi": "qouj",
+        "char_code_cangjie": "nftca",
+        "char_code_zhengma": "rukk",
+        "char_code_sijiao": "28361"
+    },
+    "general_unicode": "扩展A U+4C95",
+    "general_bs_code": "35251214444431224312511"
+}

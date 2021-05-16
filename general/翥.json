@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to soar; to take off"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufsteigen, sich erheben"
+        },
+        {
+            "language": "法语",
+            "explanation": "monter en flèche"
+        }
+    ],
+    "general_pinyins": [
+        "zhù"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "羽",
+        "non_radical_sn": "8",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䘄",
+        "䎝",
+        "䬡",
+        "𦑥"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7FE5",
+            "12132511541541"
+        ],
+        "char_code_wubi": "ftjn",
+        "char_code_cangjie": "jasmm",
+        "char_code_zhengma": "bmyy",
+        "char_code_sijiao": "44127"
+    },
+    "general_unicode": "基本区 U+7FE5",
+    "general_bs_code": "12132511541541"
+}

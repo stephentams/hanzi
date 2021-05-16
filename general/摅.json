@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "spread, disperse; vent, set forth"
+        },
+        {
+            "language": "德语",
+            "explanation": "auftragen, ausbreiten ,darlegen"
+        },
+        {
+            "language": "法语",
+            "explanation": "exprimer,répandre,déployer"
+        }
+    ],
+    "general_pinyins": [
+        "shū"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "攄"
+    ],
+    "general_ytz": [
+        "攄"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6445",
+            "1212153154544"
+        ],
+        "char_code_wubi": "rhan|rhny",
+        "char_code_cangjie": "qypp",
+        "char_code_zhengma": "diwz",
+        "char_code_sijiao": "51031"
+    },
+    "general_unicode": "基本区 U+6445",
+    "general_bs_code": "1212153154544"
+}

@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "see; interview; be admitted to audience"
+        },
+        {
+            "language": "法语",
+            "explanation": "voir de face,visiter,regarder"
+        }
+    ],
+    "general_pinyins": [
+        "dí"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "见",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "覿"
+    ],
+    "general_ytz": [
+        "覿"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "89CC",
+            "125441342535"
+        ],
+        "char_code_wubi": "fnuq",
+        "char_code_cangjie": "jkbhu",
+        "char_code_zhengma": "edgl",
+        "char_code_sijiao": "47812"
+    },
+    "general_unicode": "基本区 U+89CC",
+    "general_bs_code": "125441342535"
+}

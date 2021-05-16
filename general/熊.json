@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a bear; brilliant; bright; surname"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bär  (S)​,Xiong  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "ours,ourse"
+        }
+    ],
+    "general_pinyins": [
+        "xióng"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "灬",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "熋",
+        "能",
+        "𤠗",
+        "𧰯",
+        "𪏛",
+        "㷱",
+        "𤌶"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "718A",
+            "54251135354444"
+        ],
+        "char_code_wubi": "cexo",
+        "char_code_cangjie": "ipf",
+        "char_code_zhengma": "zsru",
+        "char_code_sijiao": "22331"
+    },
+    "general_unicode": "基本区 U+718A",
+    "general_bs_code": "54251135354444"
+}

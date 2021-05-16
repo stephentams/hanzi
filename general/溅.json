@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sprinkle, spray; spill, splash"
+        },
+        {
+            "language": "德语",
+            "explanation": "anspritzen, bespritzen"
+        },
+        {
+            "language": "法语",
+            "explanation": "jaillir"
+        }
+    ],
+    "general_pinyins": [
+        "jiàn",
+        "jiān"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢˋ",
+        "ㄐㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "濺"
+    ],
+    "general_ytz": [
+        "濺",
+        "𠵖"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6E85",
+            "441253411534"
+        ],
+        "char_code_wubi": "imgt|imga",
+        "char_code_cangjie": "eboj",
+        "char_code_zhengma": "vlhm",
+        "char_code_sijiao": "33150"
+    },
+    "general_unicode": "基本区 U+6E85",
+    "general_bs_code": "441253411534"
+}

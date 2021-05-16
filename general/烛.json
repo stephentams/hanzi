@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "candle, taper; shine, illuminate"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kerze  (S)​,erleuchten  (V)​,Zhu  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bougie"
+        }
+    ],
+    "general_pinyins": [
+        "zhú"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "燭"
+    ],
+    "general_ytz": [
+        "燭",
+        "爞",
+        "曯",
+        "爥"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "70DB",
+            "4334251214"
+        ],
+        "char_code_wubi": "ojy",
+        "char_code_cangjie": "flmi",
+        "char_code_zhengma": "uoi",
+        "char_code_sijiao": "95836"
+    },
+    "general_unicode": "基本区 U+70DB",
+    "general_bs_code": "4334251214"
+}

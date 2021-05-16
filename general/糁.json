@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a grain of rice; rice gruel mixed with meat"
+        },
+        {
+            "language": "德语",
+            "explanation": "mischen, mixen"
+        }
+    ],
+    "general_pinyins": [
+        "sǎn",
+        "shēn"
+    ],
+    "general_zhuyins": [
+        "ㄙㄢˇ",
+        "ㄕㄣ"
+    ],
+    "general_radical": {
+        "radical": "米",
+        "non_radical_sn": "8",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "糝"
+    ],
+    "general_ytz": [
+        "糝",
+        "糂",
+        "糣",
+        "籸",
+        "䊏",
+        "𥹪",
+        "𥹾",
+        "𥻕",
+        "𥼾",
+        "𩞀"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7CC1",
+            "43123454134333"
+        ],
+        "char_code_wubi": "ocde",
+        "char_code_cangjie": "fdikh",
+        "char_code_zhengma": "ufgp",
+        "char_code_sijiao": "93922"
+    },
+    "general_unicode": "基本区 U+7CC1",
+    "general_bs_code": "43123454134333"
+}

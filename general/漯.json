@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "river in northern Shandong"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom d'une rivière)​"
+        }
+    ],
+    "general_pinyins": [
+        "luò",
+        "tà"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄛˋ",
+        "ㄊㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㶟",
+        "濕",
+        "灅"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6F2F",
+            "44125121554234"
+        ],
+        "char_code_wubi": "ilxi",
+        "char_code_cangjie": "ewvf",
+        "char_code_zhengma": "vkz",
+        "char_code_sijiao": "36193"
+    },
+    "general_unicode": "基本区 U+6F2F",
+    "general_bs_code": "44125121554234"
+}

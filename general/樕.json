@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "shrub"
+        },
+        {
+            "language": "德语",
+            "explanation": "Busch, Staude  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "sù"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "11",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㯈",
+        "𣙙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6A15",
+            "123412512343534"
+        ],
+        "char_code_wubi": "sgkw|sskw",
+        "char_code_cangjie": "ddlo",
+        "char_code_zhengma": "ffjr",
+        "char_code_sijiao": "47982"
+    },
+    "general_unicode": "基本区 U+6A15",
+    "general_bs_code": "123412512343534"
+}

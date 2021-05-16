@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "give birth to; bring up, educate"
+        },
+        {
+            "language": "德语",
+            "explanation": "Hinter..., hinterster"
+        },
+        {
+            "language": "法语",
+            "explanation": "élever,éduquer"
+        }
+    ],
+    "general_pinyins": [
+        "yù"
+    ],
+    "general_zhuyins": [
+        "ㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "母",
+        "non_radical_sn": "9",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "育"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6BD3",
+            "31554144154325"
+        ],
+        "char_code_wubi": "txgq|txyk",
+        "char_code_cangjie": "oyyiu",
+        "char_code_zhengma": "mazn",
+        "char_code_sijiao": "80712"
+    },
+    "general_unicode": "基本区 U+6BD3",
+    "general_bs_code": "31554144154325"
+}

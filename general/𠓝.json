@@ -1,0 +1,27 @@
+{
+    "general_pinyins": [
+        "tāo"
+    ],
+    "general_zhuyins": [
+        "ㄊㄠ"
+    ],
+    "general_radical": {
+        "radical": "人",
+        "non_radical_sn": "2",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "204DD",
+            "3412"
+        ],
+        "char_code_wubi": "tyfj",
+        "char_code_cangjie": "oj",
+        "char_code_zhengma": "odae"
+    },
+    "general_unicode": "扩展B U+204DD",
+    "general_bs_code": "3412"
+}

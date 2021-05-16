@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "essential oil of butter"
+        },
+        {
+            "language": "德语",
+            "explanation": "Butterfett  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "huile essentielle de beurre"
+        }
+    ],
+    "general_pinyins": [
+        "tí",
+        "tǐ"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧˊ",
+        "ㄊㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "酉",
+        "non_radical_sn": "9",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䣽",
+        "䬫",
+        "𨠏",
+        "𩝊"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "918D",
+            "1253511251112134"
+        ],
+        "char_code_wubi": "sgjh",
+        "char_code_cangjie": "mwamo",
+        "char_code_zhengma": "fdai",
+        "char_code_sijiao": "16681"
+    },
+    "general_unicode": "基本区 U+918D",
+    "general_bs_code": "1253511251112134"
+}

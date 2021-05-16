@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tip toe"
+        },
+        {
+            "language": "法语",
+            "explanation": "se dresser sur la pointe des pieds"
+        }
+    ],
+    "general_pinyins": [
+        "diǎn"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "8",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E2E",
+            "251212141321251"
+        ],
+        "char_code_wubi": "khyk|khok",
+        "char_code_cangjie": "rmiyr",
+        "char_code_zhengma": "jiij",
+        "char_code_sijiao": "60161"
+    },
+    "general_unicode": "基本区 U+8E2E",
+    "general_bs_code": "251212141321251"
+}

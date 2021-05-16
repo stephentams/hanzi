@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "turtle"
+        },
+        {
+            "language": "德语",
+            "explanation": "Weichschildkröten"
+        }
+    ],
+    "general_pinyins": [
+        "biē"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄝ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "11",
+        "total_sn": "19"
+    },
+    "general_stc": [
+        "鱉"
+    ],
+    "general_ytz": [
+        "鱉",
+        "鼈",
+        "龞",
+        "𪔀"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9CD6",
+            "4325234313435251211"
+        ],
+        "char_code_wubi": "umig|itqg",
+        "char_code_cangjie": "fknwm",
+        "char_code_zhengma": "kvmr",
+        "char_code_sijiao": "98106"
+    },
+    "general_unicode": "基本区 U+9CD6",
+    "general_bs_code": "4325234313435251211"
+}

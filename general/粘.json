@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "viscous, mucous; glutinous"
+        },
+        {
+            "language": "法语",
+            "explanation": "visqueux,collant,coller"
+        }
+    ],
+    "general_pinyins": [
+        "nián",
+        "zhān"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧㄢˊ",
+        "ㄓㄢ"
+    ],
+    "general_radical": {
+        "radical": "米",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "沾",
+        "霑",
+        "黏"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7C98",
+            "43123421251"
+        ],
+        "char_code_wubi": "ohkg",
+        "char_code_cangjie": "fdyr",
+        "char_code_zhengma": "ufij",
+        "char_code_sijiao": "91960"
+    },
+    "general_unicode": "基本区 U+7C98",
+    "general_bs_code": "43123421251"
+}

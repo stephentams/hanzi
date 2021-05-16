@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fence; palisade; grid"
+        },
+        {
+            "language": "德语",
+            "explanation": "Anschlag, Einzäunung  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "palissade,grille"
+        }
+    ],
+    "general_pinyins": [
+        "zhà",
+        "shān",
+        "shi",
+        "cè"
+    ],
+    "general_zhuyins": [
+        "ㄓㄚˋ",
+        "ㄕㄢ",
+        "ㄕㄚ",
+        "ㄘㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "柵"
+    ],
+    "general_ytz": [
+        "柵",
+        "𣑭",
+        "𨴕"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6805",
+            "123435351"
+        ],
+        "char_code_wubi": "smmg",
+        "char_code_cangjie": "dbbm",
+        "char_code_zhengma": "fqqa",
+        "char_code_sijiao": "47940"
+    },
+    "general_unicode": "基本区 U+6805",
+    "general_bs_code": "123435351"
+}

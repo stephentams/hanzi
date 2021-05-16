@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "spread out, open; apportion"
+        },
+        {
+            "language": "德语",
+            "explanation": "auseinander spreizen ,Verkaufsstand  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "étaler,étal"
+        }
+    ],
+    "general_pinyins": [
+        "tān"
+    ],
+    "general_zhuyins": [
+        "ㄊㄢ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "19",
+        "total_sn": "22"
+    },
+    "general_stc": [
+        "摊"
+    ],
+    "general_ytz": [
+        "摊",
+        "擹",
+        "𢺋"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6524",
+            "1211221251113432411121"
+        ],
+        "char_code_wubi": "raky",
+        "char_code_cangjie": "qtog",
+        "char_code_zhengma": "deon",
+        "char_code_sijiao": "50015"
+    },
+    "general_unicode": "基本区 U+6524",
+    "general_bs_code": "1211221251113432411121"
+}

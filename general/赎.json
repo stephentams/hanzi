@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "buy, redeem; ransome; atone for"
+        },
+        {
+            "language": "德语",
+            "explanation": "auslösen ,einlösen, amortisieren"
+        },
+        {
+            "language": "法语",
+            "explanation": "racheter,réparer"
+        }
+    ],
+    "general_pinyins": [
+        "shú"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "贖"
+    ],
+    "general_ytz": [
+        "贖",
+        "𧹎"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D4E",
+            "253412544134"
+        ],
+        "char_code_wubi": "mfnd",
+        "char_code_cangjie": "bojnk",
+        "char_code_zhengma": "lotg",
+        "char_code_sijiao": "74884"
+    },
+    "general_unicode": "基本区 U+8D4E",
+    "general_bs_code": "253412544134"
+}

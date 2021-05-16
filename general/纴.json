@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "weave, lay warp"
+        },
+        {
+            "language": "德语",
+            "explanation": "verflechten  (V)"
+        }
+    ],
+    "general_pinyins": [
+        "rèn"
+    ],
+    "general_zhuyins": [
+        "ㄖㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "紝"
+    ],
+    "general_ytz": [
+        "紝",
+        "絍",
+        "䋕"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EB4",
+            "5513121"
+        ],
+        "char_code_wubi": "xtfg",
+        "char_code_cangjie": "vmhg",
+        "char_code_zhengma": "zmb",
+        "char_code_sijiao": "22114"
+    },
+    "general_unicode": "基本区 U+7EB4",
+    "general_bs_code": "5513121"
+}

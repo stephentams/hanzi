@@ -1,0 +1,58 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "salted or pickled vegetables"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gepökeltes Gemüse  (S, Ess)"
+        },
+        {
+            "language": "法语",
+            "explanation": "Saumure"
+        }
+    ],
+    "general_pinyins": [
+        "zū"
+    ],
+    "general_zhuyins": [
+        "ㄗㄨ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧂚",
+        "𧀽",
+        "𦿘",
+        "𦼬",
+        "𦵔",
+        "𦳎",
+        "𦯓",
+        "𥷟",
+        "𥶎",
+        "𥂯",
+        "葅",
+        "苴",
+        "𧄗",
+        "𧗎",
+        "𧗘"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "83F9",
+            "12244125111"
+        ],
+        "char_code_wubi": "aieg",
+        "char_code_cangjie": "tebm",
+        "char_code_zhengma": "evlc",
+        "char_code_sijiao": "44112"
+    },
+    "general_unicode": "基本区 U+83F9",
+    "general_bs_code": "12244125111"
+}

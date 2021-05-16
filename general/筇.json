@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bamboo name; bamboo staff"
+        },
+        {
+            "language": "法语",
+            "explanation": "espèces de bambou"
+        }
+    ],
+    "general_pinyins": [
+        "qióng"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "笻"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7B47",
+            "31431412152"
+        ],
+        "char_code_wubi": "tabj",
+        "char_code_cangjie": "hmnl",
+        "char_code_zhengma": "mby",
+        "char_code_sijiao": "88127"
+    },
+    "general_unicode": "基本区 U+7B47",
+    "general_bs_code": "31431412152"
+}

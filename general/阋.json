@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "feud, fight, quarrel"
+        },
+        {
+            "language": "德语",
+            "explanation": "diskutieren, streiten  (V)"
+        }
+    ],
+    "general_pinyins": [
+        "xì"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "门",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "鬩"
+    ],
+    "general_ytz": [
+        "鬩",
+        "䦧"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "960B",
+            "42532151135"
+        ],
+        "char_code_wubi": "uvqv|ueqv",
+        "char_code_cangjie": "lshxu",
+        "char_code_zhengma": "tlnr",
+        "char_code_sijiao": "37212"
+    },
+    "general_unicode": "基本区 U+960B",
+    "general_bs_code": "42532151135"
+}

@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bequeath, pass on to future generations"
+        },
+        {
+            "language": "德语",
+            "explanation": "vermachen"
+        },
+        {
+            "language": "法语",
+            "explanation": "transmettre,léguer"
+        }
+    ],
+    "general_pinyins": [
+        "yí",
+        "dài"
+    ],
+    "general_zhuyins": [
+        "ㄧˊ",
+        "ㄉㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "詒"
+    ],
+    "general_ytz": [
+        "詒",
+        "𣣢",
+        "𧦫"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BD2",
+            "4554251"
+        ],
+        "char_code_wubi": "yckg",
+        "char_code_cangjie": "ivir",
+        "char_code_zhengma": "szj",
+        "char_code_sijiao": "33760"
+    },
+    "general_unicode": "基本区 U+8BD2",
+    "general_bs_code": "4554251"
+}

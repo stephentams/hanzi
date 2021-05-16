@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fine hair; measure of length"
+        },
+        {
+            "language": "德语",
+            "explanation": "Milli...  (Math)​, feines Haar  (S)​,tausendstel  (S, Math)"
+        },
+        {
+            "language": "法语",
+            "explanation": "pas le (la)​ moindre,poil,pinceau,milli-"
+        }
+    ],
+    "general_pinyins": [
+        "háo"
+    ],
+    "general_zhuyins": [
+        "ㄏㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "毛",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡨉",
+        "乚"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6BEB",
+            "41251453115"
+        ],
+        "char_code_wubi": "yptn|ypeb",
+        "char_code_cangjie": "xyrbu",
+        "char_code_zhengma": "sjwm",
+        "char_code_sijiao": "00714"
+    },
+    "general_unicode": "基本区 U+6BEB",
+    "general_bs_code": "41251453115"
+}

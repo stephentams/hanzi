@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "weeds, tares; undesirable, evil"
+        },
+        {
+            "language": "德语",
+            "explanation": "lasterhaft"
+        },
+        {
+            "language": "法语",
+            "explanation": "vicieux,setaria viridis"
+        }
+    ],
+    "general_pinyins": [
+        "yǒu"
+    ],
+    "general_zhuyins": [
+        "ㄧㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦽧"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "83A0",
+            "1223123453"
+        ],
+        "char_code_wubi": "ateb|atbr",
+        "char_code_cangjie": "thds",
+        "char_code_zhengma": "emym",
+        "char_code_sijiao": "44227"
+    },
+    "general_unicode": "基本区 U+83A0",
+    "general_bs_code": "1223123453"
+}

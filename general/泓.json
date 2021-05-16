@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "clear, deep pool of water"
+        },
+        {
+            "language": "德语",
+            "explanation": "klar, frei"
+        },
+        {
+            "language": "法语",
+            "explanation": "étendue,nappe"
+        }
+    ],
+    "general_pinyins": [
+        "hóng"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "汪",
+        "浤",
+        "𣴦"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6CD3",
+            "44151554"
+        ],
+        "char_code_wubi": "ixcy",
+        "char_code_cangjie": "eni",
+        "char_code_zhengma": "vyzs",
+        "char_code_sijiao": "32130"
+    },
+    "general_unicode": "基本区 U+6CD3",
+    "general_bs_code": "44151554"
+}

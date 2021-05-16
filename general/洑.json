@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "whirlpool, undercurrent"
+        },
+        {
+            "language": "法语",
+            "explanation": "bain à remous,sous-jacent"
+        }
+    ],
+    "general_pinyins": [
+        "fú",
+        "fù"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˊ",
+        "ㄈㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "汱",
+        "澓"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6D11",
+            "441321344"
+        ],
+        "char_code_wubi": "iwdy",
+        "char_code_cangjie": "eoik",
+        "char_code_zhengma": "vngs",
+        "char_code_sijiao": "33184"
+    },
+    "general_unicode": "基本区 U+6D11",
+    "general_bs_code": "441321344"
+}

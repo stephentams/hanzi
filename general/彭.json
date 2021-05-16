@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "name of ancient country; surname"
+        },
+        {
+            "language": "德语",
+            "explanation": "ein Nachname  (S, Fam)​,Peng  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "péng",
+        "bāng"
+    ],
+    "general_zhuyins": [
+        "ㄆㄥˊ",
+        "ㄅㄤ"
+    ],
+    "general_radical": {
+        "radical": "彡",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F6D",
+            "121251431333"
+        ],
+        "char_code_wubi": "fkue",
+        "char_code_cangjie": "gthhh",
+        "char_code_zhengma": "bjup",
+        "char_code_sijiao": "42122"
+    },
+    "general_unicode": "基本区 U+5F6D",
+    "general_bs_code": "121251431333"
+}

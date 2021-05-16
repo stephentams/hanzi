@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "vanish, die out; melt away"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufbrauchen, verbrauchen ,untertauchen, verschwinden ,verschwinden"
+        },
+        {
+            "language": "法语",
+            "explanation": "disparaître,dissiper,disperser"
+        }
+    ],
+    "general_pinyins": [
+        "xiāo"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㴅",
+        "痟",
+        "逍",
+        "銷",
+        "𣱩",
+        "硝"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6D88",
+            "4412432511"
+        ],
+        "char_code_wubi": "iieg",
+        "char_code_cangjie": "efb",
+        "char_code_zhengma": "vkq",
+        "char_code_sijiao": "39127"
+    },
+    "general_unicode": "基本区 U+6D88",
+    "general_bs_code": "4412432511"
+}

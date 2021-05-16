@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mulberry fruit"
+        },
+        {
+            "language": "德语",
+            "explanation": "Maulbeere (shen4)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "mûre (fruit)​,mûre (fruit)​"
+        }
+    ],
+    "general_pinyins": [
+        "shèn"
+    ],
+    "general_zhuyins": [
+        "ㄕㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "椹",
+        "𣞵"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "845A",
+            "122122111345"
+        ],
+        "char_code_wubi": "aadn|adwn",
+        "char_code_cangjie": "ttmv",
+        "char_code_zhengma": "eez",
+        "char_code_sijiao": "44718"
+    },
+    "general_unicode": "基本区 U+845A",
+    "general_bs_code": "122122111345"
+}

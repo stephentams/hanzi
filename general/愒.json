@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rest, stop"
+        },
+        {
+            "language": "德语",
+            "explanation": "begehren, wünschen"
+        },
+        {
+            "language": "法语",
+            "explanation": "désirer"
+        }
+    ],
+    "general_pinyins": [
+        "qì",
+        "kài"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧˋ",
+        "ㄎㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "曷",
+        "渴",
+        "𢢚"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6112",
+            "442251135345"
+        ],
+        "char_code_wubi": "njqn",
+        "char_code_cangjie": "papv",
+        "char_code_zhengma": "ukry",
+        "char_code_sijiao": "96027"
+    },
+    "general_unicode": "基本区 U+6112",
+    "general_bs_code": "442251135345"
+}

@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as U+3FC9 㿉) disease of the private part of the human body"
+        }
+    ],
+    "general_pinyins": [
+        "tuí"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "16",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤻊",
+        "㿉"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3FD7",
+            "413413123435132511134"
+        ],
+        "char_code_wubi": "utmm|utwm",
+        "char_code_cangjie": "khuc",
+        "char_code_zhengma": "tmqg",
+        "char_code_sijiao": "00186"
+    },
+    "general_unicode": "扩展A U+3FD7",
+    "general_bs_code": "413413123435132511134"
+}

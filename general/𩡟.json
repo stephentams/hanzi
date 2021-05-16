@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "bié"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "香",
+        "non_radical_sn": "12",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2985F",
+            "312342511224312524134"
+        ],
+        "char_code_wubi": "tjoi",
+        "char_code_cangjie": "hatcb",
+        "char_code_zhengma": "mfkl"
+    },
+    "general_unicode": "扩展B U+2985F",
+    "general_bs_code": "312342511224312524134"
+}

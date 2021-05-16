@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fringes of pearls on crowns"
+        },
+        {
+            "language": "德语",
+            "explanation": "Quast  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "franges garnies de jade tombant à l'avant et à l'arrière de la couronne de l'empereur"
+        }
+    ],
+    "general_pinyins": [
+        "liú"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "方",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㐬",
+        "㫍",
+        "斿",
+        "旈",
+        "游",
+        "瑬",
+        "𣽩",
+        "𦀠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "65D2",
+            "4153314154325"
+        ],
+        "char_code_wubi": "ytyq|ytyk",
+        "char_code_cangjie": "ysoyu",
+        "char_code_zhengma": "syzn",
+        "char_code_sijiao": "08212"
+    },
+    "general_unicode": "基本区 U+65D2",
+    "general_bs_code": "4153314154325"
+}

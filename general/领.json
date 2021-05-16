@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "neck; collar; lead, guide"
+        },
+        {
+            "language": "德语",
+            "explanation": "Genick  (S)​,knutschen, Ausschnitt  (S)​,Kragen  (S)​,erhalten, bekommen  (V)​,führen, leiten  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cou,col,mener,guider,conduire,diriger,recevoir (de l'argent, etc.)​"
+        }
+    ],
+    "general_pinyins": [
+        "lǐng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "页",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "領"
+    ],
+    "general_ytz": [
+        "領"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9886",
+            "34454132534"
+        ],
+        "char_code_wubi": "wycm",
+        "char_code_cangjie": "oimbo",
+        "char_code_zhengma": "odwg",
+        "char_code_sijiao": "81382"
+    },
+    "general_unicode": "基本区 U+9886",
+    "general_bs_code": "34454132534"
+}

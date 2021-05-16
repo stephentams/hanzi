@@ -1,0 +1,55 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pity, feel sorry for, show sympat"
+        },
+        {
+            "language": "德语",
+            "explanation": "sich rühmen können mit, stolz sein auf etw. ,Prahlerei  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "avoir pitié,épargner,se vanter,ferme,vigoureux"
+        }
+    ],
+    "general_pinyins": [
+        "jīn",
+        "qín",
+        "guān"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄣ",
+        "ㄑㄧㄣˊ",
+        "ㄍㄨㄢ"
+    ],
+    "general_radical": {
+        "radical": "矛",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㥤",
+        "㮗",
+        "仱",
+        "矝",
+        "𥍵",
+        "𥎊",
+        "𥎚",
+        "鰥"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "77DC",
+            "545233445"
+        ],
+        "char_code_wubi": "cbtn|cnhn",
+        "char_code_cangjie": "nhoin",
+        "char_code_zhengma": "xssx",
+        "char_code_sijiao": "18227"
+    },
+    "general_unicode": "基本区 U+77DC",
+    "general_bs_code": "545233445"
+}

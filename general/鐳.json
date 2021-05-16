@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "radium"
+        },
+        {
+            "language": "德语",
+            "explanation": "Radium (Element 88, Ra)​ (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "radium"
+        }
+    ],
+    "general_pinyins": [
+        "léi"
+    ],
+    "general_zhuyins": [
+        "ㄌㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "釒",
+        "non_radical_sn": "13",
+        "total_sn": "21"
+    },
+    "general_stc": [
+        "镭"
+    ],
+    "general_ytz": [
+        "镭"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9433",
+            "341124311452444425121"
+        ],
+        "char_code_wubi": "qflg",
+        "char_code_cangjie": "cmbw",
+        "char_code_zhengma": "pfki",
+        "char_code_sijiao": "81161"
+    },
+    "general_unicode": "基本区 U+9433",
+    "general_bs_code": "341124311452444425121"
+}

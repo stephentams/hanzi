@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "enamel, cloissoné"
+        },
+        {
+            "language": "法语",
+            "explanation": "émaux,émail cloisonné"
+        }
+    ],
+    "general_pinyins": [
+        "fà"
+    ],
+    "general_zhuyins": [
+        "ㄈㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "琺"
+    ],
+    "general_ytz": [
+        "琺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "73D0",
+            "112112154"
+        ],
+        "char_code_wubi": "gfcy",
+        "char_code_cangjie": "mggi",
+        "char_code_zhengma": "cbzs",
+        "char_code_sijiao": "14132"
+    },
+    "general_unicode": "基本区 U+73D0",
+    "general_bs_code": "112112154"
+}

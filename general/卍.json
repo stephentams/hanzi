@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "swastika, one of the auspicious signs recognized (e.g. in Chinese Tathagata Buddhism) as being on the chest of Buddha (and variously seen in statuary on the chest, soles of the feet, or palms of the hands)"
+        },
+        {
+            "language": "法语",
+            "explanation": "Svastika"
+        }
+    ],
+    "general_pinyins": [
+        "wàn"
+    ],
+    "general_zhuyins": [
+        "ㄨㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "十",
+        "non_radical_sn": "2",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "卐"
+    ],
+    "general_structure": "单体结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "534D",
+            "5212"
+        ],
+        "char_code_wubi": "nhgh",
+        "char_code_cangjie": "nx",
+        "char_code_zhengma": "yiai",
+        "char_code_sijiao": "12217"
+    },
+    "general_unicode": "基本区 U+534D",
+    "general_bs_code": "5212"
+}

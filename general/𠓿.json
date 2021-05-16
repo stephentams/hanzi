@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "qín"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "人",
+        "non_radical_sn": "18",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "204FF",
+            "34111221111111221115"
+        ],
+        "char_code_wubi": "tydd",
+        "char_code_cangjie": "omys",
+        "char_code_zhengma": "odak"
+    },
+    "general_unicode": "扩展B U+204FF",
+    "general_bs_code": "34111221111111221115"
+}

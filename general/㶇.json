@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a ferry, to across the river in a boat, a ferry boat, a raft"
+        }
+    ],
+    "general_pinyins": [
+        "héng"
+    ],
+    "general_zhuyins": [
+        "ㄏㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "15",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦪗"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3D87",
+            "441123412212512134"
+        ],
+        "char_code_wubi": "isaw",
+        "char_code_cangjie": "edtc",
+        "char_code_zhengma": "vfko",
+        "char_code_sijiao": "34186"
+    },
+    "general_unicode": "扩展A U+3D87",
+    "general_bs_code": "441123412212512134"
+}

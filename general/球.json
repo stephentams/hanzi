@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ball, sphere, globe; round"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ball, Kugel  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "globe,balle,ballon"
+        }
+    ],
+    "general_pinyins": [
+        "qiú"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "毬",
+        "璆",
+        "𤥲"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7403",
+            "11211241344"
+        ],
+        "char_code_wubi": "gfiy|ggiy",
+        "char_code_cangjie": "mgije",
+        "char_code_zhengma": "cdvs",
+        "char_code_sijiao": "13199"
+    },
+    "general_unicode": "基本区 U+7403",
+    "general_bs_code": "11211241344"
+}

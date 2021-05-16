@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "yeast, leaven"
+        },
+        {
+            "language": "德语",
+            "explanation": "Backhefe, Hefe  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "ferment"
+        }
+    ],
+    "general_pinyins": [
+        "jiào"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "酉",
+        "non_radical_sn": "7",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨡆",
+        "𨢀",
+        "𨣑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9175",
+            "12535111213521"
+        ],
+        "char_code_wubi": "sgfb",
+        "char_code_cangjie": "mwjkd",
+        "char_code_zhengma": "fdby",
+        "char_code_sijiao": "14647"
+    },
+    "general_unicode": "基本区 U+9175",
+    "general_bs_code": "12535111213521"
+}

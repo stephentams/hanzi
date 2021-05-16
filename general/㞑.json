@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(standard form of 尾) the tail; the rear, last; final"
+        }
+    ],
+    "general_pinyins": [
+        "wěi"
+    ],
+    "general_zhuyins": [
+        "ㄨㄟˇ"
+    ],
+    "general_radical": {
+        "radical": "尸",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "尾"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3791",
+            "51311511"
+        ],
+        "char_code_wubi": "nffn",
+        "char_code_cangjie": "seu",
+        "char_code_zhengma": "xmzb",
+        "char_code_sijiao": "77211"
+    },
+    "general_unicode": "扩展A U+3791",
+    "general_bs_code": "51311511"
+}

@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to press or extract juices; a press to extract juices; a vegetable"
+        },
+        {
+            "language": "德语",
+            "explanation": "Presse  (V, Tech)"
+        },
+        {
+            "language": "法语",
+            "explanation": "presser,extraire"
+        }
+    ],
+    "general_pinyins": [
+        "zhà"
+    ],
+    "general_zhuyins": [
+        "ㄓㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "搾",
+        "窄",
+        "苲",
+        "醡",
+        "𨢃",
+        "𨢛",
+        "𨢦",
+        "𨢧",
+        "𨣜",
+        "𨣮"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "69A8",
+            "12344453431211"
+        ],
+        "char_code_wubi": "spwf",
+        "char_code_cangjie": "djcs",
+        "char_code_zhengma": "fwmi",
+        "char_code_sijiao": "43911"
+    },
+    "general_unicode": "基本区 U+69A8",
+    "general_bs_code": "12344453431211"
+}

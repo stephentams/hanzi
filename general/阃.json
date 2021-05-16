@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "threshold; women's quarters"
+        },
+        {
+            "language": "德语",
+            "explanation": "Türschwelle  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "seuil,porte de l'appartement des femmes"
+        }
+    ],
+    "general_pinyins": [
+        "kǔn"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "门",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "閫"
+    ],
+    "general_ytz": [
+        "閫",
+        "𠢷"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9603",
+            "4252512341"
+        ],
+        "char_code_wubi": "ulsi",
+        "char_code_cangjie": "lswd",
+        "char_code_zhengma": "tljf",
+        "char_code_sijiao": "37601"
+    },
+    "general_unicode": "基本区 U+9603",
+    "general_bs_code": "4252512341"
+}

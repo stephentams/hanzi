@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ditch; pool"
+        }
+    ],
+    "general_pinyins": [
+        "dàng"
+    ],
+    "general_zhuyins": [
+        "ㄉㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "凵",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "壋",
+        "氹"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "51FC",
+            "253452"
+        ],
+        "char_code_wubi": "ibk",
+        "char_code_cangjie": "ue",
+        "char_code_zhengma": "kvzi",
+        "char_code_sijiao": "22770"
+    },
+    "general_unicode": "基本区 U+51FC",
+    "general_bs_code": "253452"
+}

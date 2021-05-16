@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "insubordinate, stubborn; wrong"
+        },
+        {
+            "language": "德语",
+            "explanation": "respektlos ,ungehorsam, unfolgsam"
+        },
+        {
+            "language": "法语",
+            "explanation": "rebelle,obstiné"
+        }
+    ],
+    "general_pinyins": [
+        "wǔ"
+    ],
+    "general_zhuyins": [
+        "ㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "啎"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5FE4",
+            "4423112"
+        ],
+        "char_code_wubi": "ntfh",
+        "char_code_cangjie": "poj",
+        "char_code_zhengma": "umed",
+        "char_code_sijiao": "98040"
+    },
+    "general_unicode": "基本区 U+5FE4",
+    "general_bs_code": "4423112"
+}

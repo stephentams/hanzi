@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "species of parrot"
+        },
+        {
+            "language": "德语",
+            "explanation": "Papagei  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "perroquet"
+        }
+    ],
+    "general_pinyins": [
+        "wǔ"
+    ],
+    "general_zhuyins": [
+        "ㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "鸟",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "鵡"
+    ],
+    "general_ytz": [
+        "鵡",
+        "䳇",
+        "𨾥"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E49",
+            "1121215435451"
+        ],
+        "char_code_wubi": "gahg",
+        "char_code_cangjie": "mmpym",
+        "char_code_zhengma": "ahir",
+        "char_code_sijiao": "17127"
+    },
+    "general_unicode": "基本区 U+9E49",
+    "general_bs_code": "1121215435451"
+}

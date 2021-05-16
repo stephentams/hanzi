@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "minnow"
+        },
+        {
+            "language": "法语",
+            "explanation": "Hemiculter leucisculus (cyprinidés)​"
+        }
+    ],
+    "general_pinyins": [
+        "tiáo"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "7",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "鰷"
+    ],
+    "general_ytz": [
+        "鰷",
+        "鯈",
+        "䱔",
+        "𩵌"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9CA6",
+            "352512113541234"
+        ],
+        "char_code_wubi": "qgts",
+        "char_code_cangjie": "nmhed",
+        "char_code_zhengma": "rrf",
+        "char_code_sijiao": "27194"
+    },
+    "general_unicode": "基本区 U+9CA6",
+    "general_bs_code": "352512113541234"
+}

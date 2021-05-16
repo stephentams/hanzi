@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dwarf bamboo; diminutive in person's name"
+        },
+        {
+            "language": "法语",
+            "explanation": "bambou nain,bambou fin"
+        }
+    ],
+    "general_pinyins": [
+        "xiǎo"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "7",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "篠",
+        "𥭪",
+        "𥭸",
+        "𥴽"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7B71",
+            "3143143223134"
+        ],
+        "char_code_wubi": "twht",
+        "char_code_cangjie": "holk",
+        "char_code_zhengma": "mnim",
+        "char_code_sijiao": "88248"
+    },
+    "general_unicode": "基本区 U+7B71",
+    "general_bs_code": "3143143223134"
+}

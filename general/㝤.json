@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "night, the dark part of a room"
+        }
+    ],
+    "general_pinyins": [
+        "gòu"
+    ],
+    "general_zhuyins": [
+        "ㄍㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "宀",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3764",
+            "4451122125211"
+        ],
+        "char_code_wubi": "pfjf|pamf",
+        "char_code_cangjie": "jttb",
+        "char_code_zhengma": "wdlb",
+        "char_code_sijiao": "30447"
+    },
+    "general_unicode": "扩展A U+3764",
+    "general_bs_code": "4451122125211"
+}

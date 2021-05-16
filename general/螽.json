@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "katydid"
+        },
+        {
+            "language": "法语",
+            "explanation": "sauterelle"
+        }
+    ],
+    "general_pinyins": [
+        "zhōng"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨㄥ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "11",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧍸",
+        "𧑄",
+        "𧑬",
+        "𧒟",
+        "𧕠",
+        "𧑆",
+        "𧔔"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "87BD",
+            "35444251214251214"
+        ],
+        "char_code_wubi": "tujj",
+        "char_code_cangjie": "hylii",
+        "char_code_zhengma": "rsii",
+        "char_code_sijiao": "27136"
+    },
+    "general_unicode": "基本区 U+87BD",
+    "general_bs_code": "35444251214251214"
+}

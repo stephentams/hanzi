@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fast, quick, clever, smart"
+        },
+        {
+            "language": "德语",
+            "explanation": "scharf, eifrig  (Adj)​,empfindlich, sensibel"
+        },
+        {
+            "language": "法语",
+            "explanation": "prompt,rapide"
+        }
+    ],
+    "general_pinyins": [
+        "mǐn"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "攵",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "勄",
+        "𢽒",
+        "敏"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "654F",
+            "31554143134"
+        ],
+        "char_code_wubi": "txgt|txty",
+        "char_code_cangjie": "oyok",
+        "char_code_zhengma": "mazm",
+        "char_code_sijiao": "88740"
+    },
+    "general_unicode": "基本区 U+654F",
+    "general_bs_code": "31554143134"
+}

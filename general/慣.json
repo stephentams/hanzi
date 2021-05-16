@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "habit, custom; habitually, usually"
+        },
+        {
+            "language": "德语",
+            "explanation": "gewöhnt"
+        },
+        {
+            "language": "法语",
+            "explanation": "avoir l'habitude de,s'habituer à,habitué,accoutumé,gâter (un enfant)​,avoir trop d'indulgence"
+        }
+    ],
+    "general_pinyins": [
+        "guàn"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "惯"
+    ],
+    "general_ytz": [
+        "惯",
+        "摜",
+        "貫",
+        "遦"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6163",
+            "44255212511134"
+        ],
+        "char_code_wubi": "nxfm|nxmy",
+        "char_code_cangjie": "pwjc",
+        "char_code_zhengma": "uzlo",
+        "char_code_sijiao": "97086"
+    },
+    "general_unicode": "基本区 U+6163",
+    "general_bs_code": "44255212511134"
+}

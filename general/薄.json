@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "thin, slight, weak; poor, stingy"
+        },
+        {
+            "language": "德语",
+            "explanation": "dünn"
+        },
+        {
+            "language": "法语",
+            "explanation": "fin,mince,insipide,peu accueillant,faible,léger,chiche,mépriser,menthe"
+        }
+    ],
+    "general_pinyins": [
+        "báo",
+        "bó",
+        "bò"
+    ],
+    "general_zhuyins": [
+        "ㄅㄠˊ",
+        "ㄅㄛˊ",
+        "ㄅㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䙏",
+        "泊",
+        "簿",
+        "𦻈",
+        "亳",
+        "箔"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8584",
+            "1224411251124124"
+        ],
+        "char_code_wubi": "aigf|aisf",
+        "char_code_cangjie": "teii",
+        "char_code_zhengma": "evfd",
+        "char_code_sijiao": "44142"
+    },
+    "general_unicode": "基本区 U+8584",
+    "general_bs_code": "1224411251124124"
+}

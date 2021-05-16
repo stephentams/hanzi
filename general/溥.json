@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "big, great, vast, wide; widespread"
+        },
+        {
+            "language": "德语",
+            "explanation": "ausgiebig, eingehend"
+        },
+        {
+            "language": "法语",
+            "explanation": "étendu,envahissant"
+        }
+    ],
+    "general_pinyins": [
+        "pǔ"
+    ],
+    "general_zhuyins": [
+        "ㄆㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "普",
+        "𣷼"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6EA5",
+            "4411251124124"
+        ],
+        "char_code_wubi": "igef|isfy",
+        "char_code_cangjie": "eibi",
+        "char_code_zhengma": "vfds",
+        "char_code_sijiao": "33142"
+    },
+    "general_unicode": "基本区 U+6EA5",
+    "general_bs_code": "4411251124124"
+}

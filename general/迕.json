@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "obstinate, perverse"
+        },
+        {
+            "language": "德语",
+            "explanation": "hartnäckig, halsstarrig  (Adj)"
+        }
+    ],
+    "general_pinyins": [
+        "wǔ"
+    ],
+    "general_zhuyins": [
+        "ㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "逜",
+        "俉"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8FD5",
+            "3112454"
+        ],
+        "char_code_wubi": "tfpk",
+        "char_code_cangjie": "yoj",
+        "char_code_zhengma": "maew",
+        "char_code_sijiao": "38304"
+    },
+    "general_unicode": "基本区 U+8FD5",
+    "general_bs_code": "3112454"
+}

@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "so that, in order that; cause"
+        },
+        {
+            "language": "法语",
+            "explanation": "accorder,suivre"
+        }
+    ],
+    "general_pinyins": [
+        "bǐ"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠈷",
+        "𢔌",
+        "裨",
+        "㑭"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4FFE",
+            "3232511312"
+        ],
+        "char_code_wubi": "wrtf",
+        "char_code_cangjie": "ohwj",
+        "char_code_zhengma": "nned",
+        "char_code_sijiao": "26240"
+    },
+    "general_unicode": "基本区 U+4FFE",
+    "general_bs_code": "3232511312"
+}

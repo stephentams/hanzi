@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "molds on liquids; scum"
+        },
+        {
+            "language": "法语",
+            "explanation": "voile blanchâtre qui se forme à la surface du vinaigre"
+        }
+    ],
+    "general_pinyins": [
+        "bú"
+    ],
+    "general_zhuyins": [
+        "ㄅㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "酉",
+        "non_radical_sn": "12",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢴁"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "91AD",
+            "1253511224314311134"
+        ],
+        "char_code_wubi": "sgoy|sgog",
+        "char_code_cangjie": "mwtco",
+        "char_code_zhengma": "fdku",
+        "char_code_sijiao": "12685"
+    },
+    "general_unicode": "基本区 U+91AD",
+    "general_bs_code": "1253511224314311134"
+}

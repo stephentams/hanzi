@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "waves, breakers; undulations"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schwingung, Welle"
+        },
+        {
+            "language": "法语",
+            "explanation": "onde,vague (d'eau)​,sein,poitrine"
+        }
+    ],
+    "general_pinyins": [
+        "bō"
+    ],
+    "general_zhuyins": [
+        "ㄅㄛ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣴫",
+        "溊"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6CE2",
+            "44153254"
+        ],
+        "char_code_wubi": "ihcy|iby",
+        "char_code_cangjie": "edhe",
+        "char_code_zhengma": "vxi",
+        "char_code_sijiao": "34147"
+    },
+    "general_unicode": "基本区 U+6CE2",
+    "general_bs_code": "44153254"
+}

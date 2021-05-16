@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sow grain; sheaves of grain"
+        },
+        {
+            "language": "德语",
+            "explanation": "( Getreide )​ säen, aussäen  (V, Agrar)"
+        },
+        {
+            "language": "法语",
+            "explanation": "céréales,planter"
+        }
+    ],
+    "general_pinyins": [
+        "jià"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "10",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7A3C",
+            "312344451353334"
+        ],
+        "char_code_wubi": "tpey|tpge",
+        "char_code_cangjie": "hdjmo",
+        "char_code_zhengma": "mfwg",
+        "char_code_sijiao": "23932"
+    },
+    "general_unicode": "基本区 U+7A3C",
+    "general_bs_code": "312344451353334"
+}

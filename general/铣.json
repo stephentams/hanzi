@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mill"
+        },
+        {
+            "language": "德语",
+            "explanation": "fräsen, Fräsarbeiten"
+        },
+        {
+            "language": "法语",
+            "explanation": "fraiser"
+        }
+    ],
+    "general_pinyins": [
+        "xiǎn",
+        "xǐ"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄢˇ",
+        "ㄒㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "銑"
+    ],
+    "general_ytz": [
+        "銑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94E3",
+            "31115312135"
+        ],
+        "char_code_wubi": "qtfq",
+        "char_code_cangjie": "ophgu",
+        "char_code_zhengma": "pmrd",
+        "char_code_sijiao": "84712"
+    },
+    "general_unicode": "基本区 U+94E3",
+    "general_bs_code": "31115312135"
+}

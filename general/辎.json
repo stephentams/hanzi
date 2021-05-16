@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a supply cart, covered wagon, dray"
+        }
+    ],
+    "general_pinyins": [
+        "zī"
+    ],
+    "general_zhuyins": [
+        "ㄗ"
+    ],
+    "general_radical": {
+        "radical": "车",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "輜"
+    ],
+    "general_ytz": [
+        "輜",
+        "輺",
+        "𨍟",
+        "𨎏",
+        "𨎜"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8F8E",
+            "152155525121"
+        ],
+        "char_code_wubi": "lvlg",
+        "char_code_cangjie": "kqvvw",
+        "char_code_zhengma": "hezk",
+        "char_code_sijiao": "42563"
+    },
+    "general_unicode": "基本区 U+8F8E",
+    "general_bs_code": "152155525121"
+}

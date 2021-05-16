@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "age; years"
+        },
+        {
+            "language": "德语",
+            "explanation": "Alter, Jahre  (S)​,ablagern lassen, altern  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "âge,ancienneté"
+        }
+    ],
+    "general_pinyins": [
+        "líng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "齿",
+        "non_radical_sn": "5",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "齡"
+    ],
+    "general_ytz": [
+        "齡",
+        "齢",
+        "𠎜"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9F84",
+            "2121345234454"
+        ],
+        "char_code_wubi": "hwbc",
+        "char_code_cangjie": "yuoii",
+        "char_code_zhengma": "ioow",
+        "char_code_sijiao": "28732"
+    },
+    "general_unicode": "基本区 U+9F84",
+    "general_bs_code": "2121345234454"
+}

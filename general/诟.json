@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "abuse, scold, berate, insult"
+        },
+        {
+            "language": "德语",
+            "explanation": "missbrauchen, beschimpfen ,Schamgefühl  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "honte,outrage,injure,insulte,outrager,faire honte,couvrir de honte,injurier avec colère,insulter,s'emporter contre"
+        }
+    ],
+    "general_pinyins": [
+        "gòu"
+    ],
+    "general_zhuyins": [
+        "ㄍㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "詬"
+    ],
+    "general_ytz": [
+        "詬",
+        "訽"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BDF",
+            "45331251"
+        ],
+        "char_code_wubi": "yrgk",
+        "char_code_cangjie": "ivhmr",
+        "char_code_zhengma": "spaj",
+        "char_code_sijiao": "32761"
+    },
+    "general_unicode": "基本区 U+8BDF",
+    "general_bs_code": "45331251"
+}

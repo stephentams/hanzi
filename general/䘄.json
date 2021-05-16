@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cicada famiy; a poisonous insect"
+        }
+    ],
+    "general_pinyins": [
+        "fù",
+        "zhù"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˋ",
+        "ㄓㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "14",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "翥"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4604",
+            "12132511251214251214"
+        ],
+        "char_code_wubi": "ftjj",
+        "char_code_cangjie": "jalii",
+        "char_code_zhengma": "bmii",
+        "char_code_sijiao": "44136"
+    },
+    "general_unicode": "扩展A U+4604",
+    "general_bs_code": "12132511251214251214"
+}

@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "large tripod caldron with small"
+        },
+        {
+            "language": "法语",
+            "explanation": "trépied avec une petite ouverture sur le dessus"
+        }
+    ],
+    "general_pinyins": [
+        "zī"
+    ],
+    "general_zhuyins": [
+        "ㄗ"
+    ],
+    "general_radical": {
+        "radical": "鼎",
+        "non_radical_sn": "3",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "鎡",
+        "𪔄"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9F12",
+            "123251115132125"
+        ],
+        "char_code_wubi": "fthn",
+        "char_code_cangjie": "dhbul",
+        "char_code_zhengma": "dmzn",
+        "char_code_sijiao": "40227"
+    },
+    "general_unicode": "基本区 U+9F12",
+    "general_bs_code": "123251115132125"
+}

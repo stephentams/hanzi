@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "法语",
+            "explanation": "laver (dial.)​"
+        }
+    ],
+    "general_pinyins": [
+        "tài",
+        "dà"
+    ],
+    "general_zhuyins": [
+        "ㄊㄞˋ",
+        "ㄉㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣴒",
+        "汰"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6C4F",
+            "441134"
+        ],
+        "char_code_wubi": "idy",
+        "char_code_cangjie": "ek",
+        "char_code_zhengma": "vgd",
+        "char_code_sijiao": "34180"
+    },
+    "general_unicode": "基本区 U+6C4F",
+    "general_bs_code": "441134"
+}

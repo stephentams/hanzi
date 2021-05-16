@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "strong, unyielding, tough, power"
+        },
+        {
+            "language": "德语",
+            "explanation": "robust, fest  (Adj)​,stark, kräftig, stämmig  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "fort,robuste,musculeux,puissant,inflexible,force physique,énergie,vigueur,entrain,enthousiasme,air,manière,expression,fort,robuste,ferme,solide,énergique,vigoureux,puissant"
+        }
+    ],
+    "general_pinyins": [
+        "jìn",
+        "jìng"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄣˋ",
+        "ㄐㄧㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "力",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "勁"
+    ],
+    "general_ytz": [
+        "勁",
+        "劤",
+        "𠡍",
+        "𠡕"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "52B2",
+            "5412153"
+        ],
+        "char_code_wubi": "caln|caet",
+        "char_code_cangjie": "nmks",
+        "char_code_zhengma": "xsby",
+        "char_code_sijiao": "14127"
+    },
+    "general_unicode": "基本区 U+52B2",
+    "general_bs_code": "5412153"
+}

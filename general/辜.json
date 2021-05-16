@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "crime, criminal offense"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schuld, Sünde  (S)​,Untat, Verbrechen  (S)​,Gu  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "crime,faute"
+        }
+    ],
+    "general_pinyins": [
+        "gū"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨ"
+    ],
+    "general_radical": {
+        "radical": "辛",
+        "non_radical_sn": "5",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㱠",
+        "𡱨",
+        "𡲞",
+        "𢩍",
+        "𢪿",
+        "𤿛",
+        "𦍬",
+        "𨐞",
+        "𨑀",
+        "𢻄",
+        "𧬕"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8F9C",
+            "122514143112"
+        ],
+        "char_code_wubi": "duj",
+        "char_code_cangjie": "jrytj",
+        "char_code_zhengma": "edjs",
+        "char_code_sijiao": "40401"
+    },
+    "general_unicode": "基本区 U+8F9C",
+    "general_bs_code": "122514143112"
+}

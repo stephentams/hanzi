@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mound; used in place names"
+        }
+    ],
+    "general_pinyins": [
+        "fù"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "桴",
+        "附"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "577F",
+            "12132124"
+        ],
+        "char_code_wubi": "fwfy",
+        "char_code_cangjie": "godi",
+        "char_code_zhengma": "bnds",
+        "char_code_sijiao": "44100"
+    },
+    "general_unicode": "基本区 U+577F",
+    "general_bs_code": "12132124"
+}

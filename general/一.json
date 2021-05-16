@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "one; a, an; alone"
+        },
+        {
+            "language": "德语",
+            "explanation": "eins (1)​ (Num)​,Radikal Nr. 1 = eins (1)​,sobald (Adv)"
+        },
+        {
+            "language": "法语",
+            "explanation": "1 (nombre)​,un"
+        }
+    ],
+    "general_pinyins": [
+        "yī"
+    ],
+    "general_zhuyins": [
+        "ㄧ"
+    ],
+    "general_radical": {
+        "radical": "一",
+        "non_radical_sn": "0",
+        "total_sn": "1"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "壹",
+        "弌",
+        "𠤪"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4E00",
+            "1"
+        ],
+        "char_code_wubi": "ggll",
+        "char_code_cangjie": "m",
+        "char_code_zhengma": "a",
+        "char_code_sijiao": "10000"
+    },
+    "general_unicode": "基本区 U+4E00",
+    "general_bs_code": "1"
+}

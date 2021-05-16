@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "spiral shell; conch; spiral"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fingerabdruck, Fingerlinien; Muschelhorn, Schnecke  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "conque,escargot,spirale"
+        }
+    ],
+    "general_pinyins": [
+        "luó"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "11",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "蝸",
+        "蠃",
+        "𤨴",
+        "𥛧",
+        "螺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "87BA",
+            "25121425121554234"
+        ],
+        "char_code_wubi": "jlxi",
+        "char_code_cangjie": "liwvf",
+        "char_code_zhengma": "ikz",
+        "char_code_sijiao": "56193"
+    },
+    "general_unicode": "基本区 U+87BA",
+    "general_bs_code": "25121425121554234"
+}

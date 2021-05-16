@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "employ, to hire"
+        },
+        {
+            "language": "德语",
+            "explanation": "anstellen, leihen"
+        },
+        {
+            "language": "法语",
+            "explanation": "louer,employer"
+        }
+    ],
+    "general_pinyins": [
+        "gù"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "隹",
+        "non_radical_sn": "4",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "僱",
+        "𪄮",
+        "故",
+        "顧"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "96C7",
+            "451332411121"
+        ],
+        "char_code_wubi": "ynwy",
+        "char_code_cangjie": "hsog",
+        "char_code_zhengma": "wmni",
+        "char_code_sijiao": "30215"
+    },
+    "general_unicode": "基本区 U+96C7",
+    "general_bs_code": "451332411121"
+}

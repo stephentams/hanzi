@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mischevious, one footed spirit that dwells in the mountains"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kobold  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "elfe,démon"
+        }
+    ],
+    "general_pinyins": [
+        "xiāo"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "鬼",
+        "non_radical_sn": "7",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㺑",
+        "𤢖",
+        "𧳍"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9B48",
+            "3251135542432511"
+        ],
+        "char_code_wubi": "rqce",
+        "char_code_cangjie": "hifb",
+        "char_code_zhengma": "njkq",
+        "char_code_sijiao": "29512"
+    },
+    "general_unicode": "基本区 U+9B48",
+    "general_bs_code": "3251135542432511"
+}

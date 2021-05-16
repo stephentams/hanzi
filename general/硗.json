@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "barren land; sandy soil"
+        },
+        {
+            "language": "法语",
+            "explanation": "sol pierreux et stérile"
+        }
+    ],
+    "general_pinyins": [
+        "qiāo"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "磽"
+    ],
+    "general_ytz": [
+        "磽",
+        "墝",
+        "墽",
+        "䂪"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7857",
+            "13251153135"
+        ],
+        "char_code_wubi": "datq",
+        "char_code_cangjie": "mrjpu",
+        "char_code_zhengma": "ghgr",
+        "char_code_sijiao": "15612"
+    },
+    "general_unicode": "基本区 U+7857",
+    "general_bs_code": "13251153135"
+}

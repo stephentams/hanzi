@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "question-forming particle, why? how? what?; to bite; loud"
+        },
+        {
+            "language": "德语",
+            "explanation": "abnagen, nagen ,plötzlich, unvermittelt ,Schrei  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "équivalent de (zen3 me)​,crier,vociférer,mordre"
+        }
+    ],
+    "general_pinyins": [
+        "zǎ",
+        "zé",
+        "zhā"
+    ],
+    "general_zhuyins": [
+        "ㄗㄚˇ",
+        "ㄗㄜˊ",
+        "ㄓㄚ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "囃",
+        "𠷆",
+        "𠷿"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "548B",
+            "25131211"
+        ],
+        "char_code_wubi": "kthf",
+        "char_code_cangjie": "ros",
+        "char_code_zhengma": "jmid",
+        "char_code_sijiao": "68011"
+    },
+    "general_unicode": "基本区 U+548B",
+    "general_bs_code": "25131211"
+}

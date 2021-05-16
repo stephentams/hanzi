@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "fear; fearful, apprehensive"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 Angst haben, befürchten ,ängstlich, besorgt"
+        }
+    ],
+    "general_pinyins": [
+        "kǒng"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢟈",
+        "𢟃",
+        "𢝭",
+        "𢙷",
+        "𢙢",
+        "𢘠",
+        "𢖶",
+        "㤟"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6050",
+            "1213544544"
+        ],
+        "char_code_wubi": "amyn|awyn",
+        "char_code_cangjie": "mnp",
+        "char_code_zhengma": "biqw",
+        "char_code_sijiao": "17331"
+    },
+    "general_unicode": "基本区 U+6050",
+    "general_bs_code": "1213544544"
+}

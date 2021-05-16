@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hairpin, clasp; wear in hair"
+        },
+        {
+            "language": "德语",
+            "explanation": "Haarnadel  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "zān"
+    ],
+    "general_zhuyins": [
+        "ㄗㄢ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "14",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "兂",
+        "簮",
+        "𠒀",
+        "𥯓",
+        "𥸢"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7C2A",
+            "314314153515352511"
+        ],
+        "char_code_wubi": "taqj",
+        "char_code_cangjie": "hmua",
+        "char_code_zhengma": "mhrk",
+        "char_code_sijiao": "88601"
+    },
+    "general_unicode": "基本区 U+7C2A",
+    "general_bs_code": "314314153515352511"
+}

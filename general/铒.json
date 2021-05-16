@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "erbium"
+        },
+        {
+            "language": "德语",
+            "explanation": "Erbium (Element 68, Er)​ (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "erbium"
+        }
+    ],
+    "general_pinyins": [
+        "ěr"
+    ],
+    "general_zhuyins": [
+        "ㄦˇ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "鉺"
+    ],
+    "general_ytz": [
+        "鉺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94D2",
+            "31115122111"
+        ],
+        "char_code_wubi": "qbg",
+        "char_code_cangjie": "opsj",
+        "char_code_zhengma": "pce",
+        "char_code_sijiao": "81740"
+    },
+    "general_unicode": "基本区 U+94D2",
+    "general_bs_code": "31115122111"
+}

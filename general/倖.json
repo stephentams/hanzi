@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lucky, fortunate; dote on, spoil"
+        },
+        {
+            "language": "德语",
+            "explanation": "froh"
+        }
+    ],
+    "general_pinyins": [
+        "xìng"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "婞",
+        "幸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5016",
+            "3212143112"
+        ],
+        "char_code_wubi": "wfuf",
+        "char_code_cangjie": "ogtj",
+        "char_code_zhengma": "nbub",
+        "char_code_sijiao": "24241"
+    },
+    "general_unicode": "基本区 U+5016",
+    "general_bs_code": "3212143112"
+}

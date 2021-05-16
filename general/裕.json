@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "abundant, rich, plentiful"
+        },
+        {
+            "language": "德语",
+            "explanation": "jdn. reich machen  (V, Lit)​,reichlich, opulent, im Überfluß vorhanden  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "abondant,riche"
+        }
+    ],
+    "general_pinyins": [
+        "yù"
+    ],
+    "general_zhuyins": [
+        "ㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "衤",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "极",
+        "䘱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "88D5",
+            "452343434251"
+        ],
+        "char_code_wubi": "puwk",
+        "char_code_cangjie": "lcor",
+        "char_code_zhengma": "wtoj",
+        "char_code_sijiao": "38268"
+    },
+    "general_unicode": "基本区 U+88D5",
+    "general_bs_code": "452343434251"
+}

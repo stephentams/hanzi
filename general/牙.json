@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tooth, molars, teeth; serrated"
+        },
+        {
+            "language": "德语",
+            "explanation": "Zahn  (S)​,Zahnarzt  (S)​,Zahnfleisch  (S)​,Ya  (Eig, Fam)​,Radikal Nr. 92 = Eckzahn, Zahn, Zähne"
+        },
+        {
+            "language": "法语",
+            "explanation": "dent"
+        }
+    ],
+    "general_pinyins": [
+        "yá"
+    ],
+    "general_zhuyins": [
+        "ㄧㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "牙",
+        "non_radical_sn": "0",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "伢",
+        "齖",
+        "𤘈",
+        "𤘉",
+        "𤘍",
+        "𨈏",
+        "芽",
+        "衙"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7259",
+            "1523"
+        ],
+        "char_code_wubi": "ahte",
+        "char_code_cangjie": "mvdh",
+        "char_code_zhengma": "hi",
+        "char_code_sijiao": "71240"
+    },
+    "general_unicode": "基本区 U+7259",
+    "general_bs_code": "1523"
+}

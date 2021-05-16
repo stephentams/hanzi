@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "riddle, conundrum; puzzle"
+        },
+        {
+            "language": "德语",
+            "explanation": "Rätsel  (S)​,Geheimnis"
+        },
+        {
+            "language": "法语",
+            "explanation": "énigme,devinette"
+        }
+    ],
+    "general_pinyins": [
+        "mí"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "謎"
+    ],
+    "general_ytz": [
+        "謎",
+        "詸",
+        "䛧"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C1C",
+            "45431234454"
+        ],
+        "char_code_wubi": "yopy",
+        "char_code_cangjie": "ivyfd",
+        "char_code_zhengma": "swuf",
+        "char_code_sijiao": "39739"
+    },
+    "general_unicode": "基本区 U+8C1C",
+    "general_bs_code": "45431234454"
+}

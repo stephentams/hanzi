@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "all, together, mutually"
+        },
+        {
+            "language": "德语",
+            "explanation": "alle, ganz ,speichern, aufbewahren ,Xu  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "aider,tous"
+        }
+    ],
+    "general_pinyins": [
+        "xū"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "疋",
+        "稰",
+        "縃",
+        "𦙃",
+        "偦",
+        "楈",
+        "諝"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "80E5",
+            "521342511"
+        ],
+        "char_code_wubi": "nhef",
+        "char_code_cangjie": "nob",
+        "char_code_zhengma": "xiq",
+        "char_code_sijiao": "17227"
+    },
+    "general_unicode": "基本区 U+80E5",
+    "general_bs_code": "521342511"
+}

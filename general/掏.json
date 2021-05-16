@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "take out; pull out; clean out"
+        },
+        {
+            "language": "德语",
+            "explanation": "herausziehen (aus der Tasche, - meist verwendet 掏出)​"
+        }
+    ],
+    "general_pinyins": [
+        "tāo"
+    ],
+    "general_zhuyins": [
+        "ㄊㄠ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "搯",
+        "𣖑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "638F",
+            "12135311252"
+        ],
+        "char_code_wubi": "rqrm|rqtb",
+        "char_code_cangjie": "qpou",
+        "char_code_zhengma": "drez",
+        "char_code_sijiao": "57020"
+    },
+    "general_unicode": "基本区 U+638F",
+    "general_bs_code": "12135311252"
+}

@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "nervous, fearful"
+        },
+        {
+            "language": "法语",
+            "explanation": "nerveux,peureux"
+        }
+    ],
+    "general_pinyins": [
+        "xǐn"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "懍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4F08",
+            "324544"
+        ],
+        "char_code_wubi": "wny",
+        "char_code_cangjie": "op",
+        "char_code_zhengma": "nwz",
+        "char_code_sijiao": "23200"
+    },
+    "general_unicode": "基本区 U+4F08",
+    "general_bs_code": "324544"
+}

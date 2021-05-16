@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "desire strongly, covet, long for"
+        },
+        {
+            "language": "法语",
+            "explanation": "désirer passionnellement"
+        }
+    ],
+    "general_pinyins": [
+        "yú"
+    ],
+    "general_zhuyins": [
+        "ㄩˊ"
+    ],
+    "general_radical": {
+        "radical": "见",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "覦"
+    ],
+    "general_ytz": [
+        "覦"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "89CE",
+            "3412511222535"
+        ],
+        "char_code_wubi": "wgeq",
+        "char_code_cangjie": "onbhu",
+        "char_code_zhengma": "odkl",
+        "char_code_sijiao": "87212"
+    },
+    "general_unicode": "基本区 U+89CE",
+    "general_bs_code": "3412511222535"
+}

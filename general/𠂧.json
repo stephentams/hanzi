@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "shèn"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "丿",
+        "non_radical_sn": "5",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左下包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "200A7",
+            "335154"
+        ],
+        "char_code_wubi": "tqgc",
+        "char_code_cangjie": "humi",
+        "char_code_zhengma": "mraz"
+    },
+    "general_unicode": "扩展B U+200A7",
+    "general_bs_code": "335154"
+}

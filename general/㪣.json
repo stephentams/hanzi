@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a place in Han dynasty, (same as U+6572 敲) to beat; to knock"
+        }
+    ],
+    "general_pinyins": [
+        "qiào"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "攴",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "敲"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3AA3",
+            "41251252513134"
+        ],
+        "char_code_wubi": "ymkt",
+        "char_code_cangjie": "ybok",
+        "char_code_zhengma": "sjlm",
+        "char_code_sijiao": "08240"
+    },
+    "general_unicode": "扩展A U+3AA3",
+    "general_bs_code": "41251252513134"
+}

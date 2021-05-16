@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "argonium"
+        },
+        {
+            "language": "德语",
+            "explanation": "Argon (Element 18, Ar)​ (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "argon"
+        }
+    ],
+    "general_pinyins": [
+        "yà"
+    ],
+    "general_zhuyins": [
+        "ㄧㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "气",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "氬"
+    ],
+    "general_ytz": [
+        "氬"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6C29",
+            "3115122431"
+        ],
+        "char_code_wubi": "rngg|rgod",
+        "char_code_cangjie": "onmtc",
+        "char_code_zhengma": "myak",
+        "char_code_sijiao": "80117"
+    },
+    "general_unicode": "基本区 U+6C29",
+    "general_bs_code": "3115122431"
+}

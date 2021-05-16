@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bother, vex, trouble; troublesome"
+        },
+        {
+            "language": "德语",
+            "explanation": "behelligen  (V)​,belästigen  (V)​,Plage"
+        },
+        {
+            "language": "法语",
+            "explanation": "ennuyé,irrité,ennuyeux,confus,déranger,épuisé par le travail"
+        }
+    ],
+    "general_pinyins": [
+        "fán"
+    ],
+    "general_zhuyins": [
+        "ㄈㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "煩"
+    ],
+    "general_ytz": [
+        "煩"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "70E6",
+            "4334132534"
+        ],
+        "char_code_wubi": "odmy",
+        "char_code_cangjie": "fmbo",
+        "char_code_zhengma": "uogo",
+        "char_code_sijiao": "91882"
+    },
+    "general_unicode": "基本区 U+70E6",
+    "general_bs_code": "4334132534"
+}

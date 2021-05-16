@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "root, base(d on); foundation"
+        },
+        {
+            "language": "德语",
+            "explanation": "Wurzel  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "racine (botanique)​,racine (math.)​,radical chimique,base,fondement,pied (d'une montagne)​,origine des choses,(classificateur des objets longs et minces : cigarettes, troncs d'arbre, cordes, ceintures, épingles, aiguilles, etc.)​"
+        }
+    ],
+    "general_pinyins": [
+        "gēn"
+    ],
+    "general_zhuyins": [
+        "ㄍㄣ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣏄",
+        "𣒨",
+        "𡉤",
+        "𣏅"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6839",
+            "1234511534"
+        ],
+        "char_code_wubi": "svey|svy",
+        "char_code_cangjie": "dav",
+        "char_code_zhengma": "fxo",
+        "char_code_sijiao": "47932"
+    },
+    "general_unicode": "基本区 U+6839",
+    "general_bs_code": "1234511534"
+}

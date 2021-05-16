@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "chop"
+        },
+        {
+            "language": "德语",
+            "explanation": "drücken, treffen ,spalten, abschneiden"
+        },
+        {
+            "language": "法语",
+            "explanation": "couper,hacher"
+        }
+    ],
+    "general_pinyins": [
+        "fú"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "刂",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "521C",
+            "5153222"
+        ],
+        "char_code_wubi": "xjjh",
+        "char_code_cangjie": "lnln",
+        "char_code_zhengma": "yznk",
+        "char_code_sijiao": "52000"
+    },
+    "general_unicode": "基本区 U+521C",
+    "general_bs_code": "5153222"
+}

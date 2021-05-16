@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bent or twisted piece of wood"
+        },
+        {
+            "language": "法语",
+            "explanation": "rame courte,radius"
+        }
+    ],
+    "general_pinyins": [
+        "ráo",
+        "náo"
+    ],
+    "general_zhuyins": [
+        "ㄖㄠˊ",
+        "ㄋㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "橈"
+    ],
+    "general_ytz": [
+        "橈",
+        "𦪛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6861",
+            "1234153135"
+        ],
+        "char_code_wubi": "satq",
+        "char_code_cangjie": "djpu",
+        "char_code_zhengma": "fhgr",
+        "char_code_sijiao": "45912"
+    },
+    "general_unicode": "基本区 U+6861",
+    "general_bs_code": "1234153135"
+}

@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "slander, defame, misrepresent"
+        },
+        {
+            "language": "法语",
+            "explanation": "médire,calomnie"
+        }
+    ],
+    "general_pinyins": [
+        "chán"
+    ],
+    "general_zhuyins": [
+        "ㄔㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "讒"
+    ],
+    "general_ytz": [
+        "讒",
+        "䜛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C17",
+            "45352513544"
+        ],
+        "char_code_wubi": "yqku",
+        "char_code_cangjie": "ivnuy",
+        "char_code_zhengma": "srrt",
+        "char_code_sijiao": "37733"
+    },
+    "general_unicode": "基本区 U+8C17",
+    "general_bs_code": "45352513544"
+}

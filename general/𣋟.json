@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "mǒ"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "14",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "232DF",
+            "251141312351235554"
+        ],
+        "char_code_wubi": "jysx",
+        "char_code_cangjie": "aidi",
+        "char_code_zhengma": "ktzz"
+    },
+    "general_unicode": "扩展B U+232DF",
+    "general_bs_code": "251141312351235554"
+}

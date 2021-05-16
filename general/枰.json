@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "smooth board; chessboard; chess"
+        },
+        {
+            "language": "德语",
+            "explanation": "Damebrett  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "échiquier,damier"
+        }
+    ],
+    "general_pinyins": [
+        "píng"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "檘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "67B0",
+            "123414312"
+        ],
+        "char_code_wubi": "sguh|sguf",
+        "char_code_cangjie": "dmfj",
+        "char_code_zhengma": "faua",
+        "char_code_sijiao": "41949"
+    },
+    "general_unicode": "基本区 U+67B0",
+    "general_bs_code": "123414312"
+}

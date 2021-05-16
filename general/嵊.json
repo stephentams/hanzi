@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "district in Shaohsing, Chekiang"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom d'un quartier dans le Zhejiang)​"
+        }
+    ],
+    "general_pinyins": [
+        "shèng"
+    ],
+    "general_zhuyins": [
+        "ㄕㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡹴",
+        "𡼺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5D4A",
+            "2523122113534"
+        ],
+        "char_code_wubi": "mtux",
+        "char_code_cangjie": "uhdp",
+        "char_code_zhengma": "lltr",
+        "char_code_sijiao": "22791"
+    },
+    "general_unicode": "基本区 U+5D4A",
+    "general_bs_code": "2523122113534"
+}

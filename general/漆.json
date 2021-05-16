@@ -1,0 +1,56 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "varnish, lacquer, paint"
+        },
+        {
+            "language": "德语",
+            "explanation": "bemalen, anstreichen ,Farbe  (S)​,Lack  (S)​,Qi  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "vernis,laque,peinture,vernir,peindre,noir"
+        }
+    ],
+    "general_pinyins": [
+        "qī"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "柒",
+        "桼",
+        "𢒡",
+        "𢽮",
+        "𣑰",
+        "𣴶",
+        "𣷦",
+        "𣷵",
+        "𣸡",
+        "𣾰",
+        "㯃",
+        "𣶠",
+        "𪶰"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6F06",
+            "44112343424134"
+        ],
+        "char_code_wubi": "iswi",
+        "char_code_cangjie": "edoe",
+        "char_code_zhengma": "vfok",
+        "char_code_sijiao": "34199"
+    },
+    "general_unicode": "基本区 U+6F06",
+    "general_bs_code": "44112343424134"
+}

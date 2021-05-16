@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "place in today's Hebei province"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 Ye  (Eig, Fam)"
+        }
+    ],
+    "general_pinyins": [
+        "yè"
+    ],
+    "general_zhuyins": [
+        "ㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "鄴"
+    ],
+    "general_ytz": [
+        "邱",
+        "鄴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "90BA",
+            "2243152"
+        ],
+        "char_code_wubi": "ogbh|obh",
+        "char_code_cangjie": "tcnl",
+        "char_code_zhengma": "kuy",
+        "char_code_sijiao": "37127"
+    },
+    "general_unicode": "基本区 U+90BA",
+    "general_bs_code": "2243152"
+}

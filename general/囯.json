@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "variant of U+56FD 国, nation, country, nation-state"
+        }
+    ],
+    "general_pinyins": [
+        "guó"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "囗",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "國"
+    ],
+    "general_structure": "全包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "56EF",
+            "2511211"
+        ],
+        "char_code_wubi": "lgd",
+        "char_code_cangjie": "wmg",
+        "char_code_zhengma": "jdc",
+        "char_code_sijiao": "60104"
+    },
+    "general_unicode": "基本区 U+56EF",
+    "general_bs_code": "2511211"
+}

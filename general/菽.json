@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "beans and peas, collectively"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bohne  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "Soja"
+        }
+    ],
+    "general_pinyins": [
+        "shū"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "尗",
+        "𦬱",
+        "𦯂",
+        "𦭊"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "83FD",
+            "12221123454"
+        ],
+        "char_code_wubi": "ahic",
+        "char_code_cangjie": "tyfe",
+        "char_code_zhengma": "eikx",
+        "char_code_sijiao": "44947"
+    },
+    "general_unicode": "基本区 U+83FD",
+    "general_bs_code": "12221123454"
+}

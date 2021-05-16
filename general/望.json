@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to look at, look forward; to hope, expect"
+        },
+        {
+            "language": "德语",
+            "explanation": "anstarren, besuchen, Blick in Richtung, erwarten, hoffen,  in Richtung zu"
+        }
+    ],
+    "general_pinyins": [
+        "wàng"
+    ],
+    "general_zhuyins": [
+        "ㄨㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "琞",
+        "𦣠",
+        "𥩿",
+        "𣍢",
+        "𢾘",
+        "朢",
+        "望"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "671B",
+            "41535111121"
+        ],
+        "char_code_wubi": "yneg",
+        "char_code_cangjie": "ybhg",
+        "char_code_zhengma": "shqc",
+        "char_code_sijiao": "07104"
+    },
+    "general_unicode": "基本区 U+671B",
+    "general_bs_code": "41535111121"
+}

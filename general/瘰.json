@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "scrofula, swellings"
+        },
+        {
+            "language": "德语",
+            "explanation": "Skrofulose, Skrofeln (Halsdrüsengeschwulst)​  (S, Med)"
+        },
+        {
+            "language": "法语",
+            "explanation": "scrofule"
+        }
+    ],
+    "general_pinyins": [
+        "luǒ"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄛˇ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "11",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "癳",
+        "𤻳",
+        "𤼠",
+        "疬",
+        "𤻗"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7630",
+            "4134125121554234"
+        ],
+        "char_code_wubi": "ulxi",
+        "char_code_cangjie": "kwvf",
+        "char_code_zhengma": "tkz",
+        "char_code_sijiao": "00193"
+    },
+    "general_unicode": "基本区 U+7630",
+    "general_bs_code": "4134125121554234"
+}

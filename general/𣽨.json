@@ -1,0 +1,27 @@
+{
+    "general_pinyins": [
+        "téng"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "水",
+        "non_radical_sn": "12",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "滕"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "23F68",
+            "33541443113424134"
+        ],
+        "char_code_wubi": "teui",
+        "char_code_cangjie": "hyfqe",
+        "char_code_zhengma": "pyuk"
+    },
+    "general_unicode": "扩展B U+23F68",
+    "general_bs_code": "33541443113424134"
+}

@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "surname; ancient state; plant"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "xún"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8340",
+            "122352511"
+        ],
+        "char_code_wubi": "aqjf",
+        "char_code_cangjie": "tpa",
+        "char_code_zhengma": "erk",
+        "char_code_sijiao": "44627"
+    },
+    "general_unicode": "基本区 U+8340",
+    "general_bs_code": "122352511"
+}

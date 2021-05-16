@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to drive, sail, fly; a cart, carriage"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufstellen, befestigen ,lenken, antreiben ,malen, saugen ,nutzbar machen, vorspannen"
+        },
+        {
+            "language": "法语",
+            "explanation": "atteler,piloter,monter (un cheval, ...)​,pousser (un chariot, etc.)​,naviguer"
+        }
+    ],
+    "general_pinyins": [
+        "jià"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "马",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "駕"
+    ],
+    "general_ytz": [
+        "駕",
+        "𤙑",
+        "𩢟",
+        "𪯀"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A7E",
+            "53251551"
+        ],
+        "char_code_wubi": "lkcf|ekcg",
+        "char_code_cangjie": "krnvm",
+        "char_code_zhengma": "ymjx",
+        "char_code_sijiao": "46127"
+    },
+    "general_unicode": "基本区 U+9A7E",
+    "general_bs_code": "53251551"
+}

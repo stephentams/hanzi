@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "porch; courtyard; steps leading"
+        },
+        {
+            "language": "德语",
+            "explanation": "Hofraum, Hof  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "perron"
+        }
+    ],
+    "general_pinyins": [
+        "chí"
+    ],
+    "general_zhuyins": [
+        "ㄔˊ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡎰",
+        "𢹌"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5880",
+            "121513241343112"
+        ],
+        "char_code_wubi": "fnih|fnig",
+        "char_code_cangjie": "gseq",
+        "char_code_zhengma": "bxkm",
+        "char_code_sijiao": "47159"
+    },
+    "general_unicode": "基本区 U+5880",
+    "general_bs_code": "121513241343112"
+}

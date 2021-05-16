@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sugar product"
+        }
+    ],
+    "general_pinyins": [
+        "dài"
+    ],
+    "general_zhuyins": [
+        "ㄉㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "甘",
+        "non_radical_sn": "3",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨟲",
+        "𨠍",
+        "𢎌"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7519",
+            "11221154"
+        ],
+        "char_code_wubi": "aafd|afyi",
+        "char_code_cangjie": "iptm",
+        "char_code_zhengma": "hseb",
+        "char_code_sijiao": "43700"
+    },
+    "general_unicode": "基本区 U+7519",
+    "general_bs_code": "11221154"
+}

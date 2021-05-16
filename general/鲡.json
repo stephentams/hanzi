@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "eel"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 Aal  (S, Bio)"
+        }
+    ],
+    "general_pinyins": [
+        "lí"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "7",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "鱺"
+    ],
+    "general_ytz": [
+        "鱺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9CA1",
+            "352512111254254"
+        ],
+        "char_code_wubi": "qggy",
+        "char_code_cangjie": "nmmbb",
+        "char_code_zhengma": "rall",
+        "char_code_sijiao": "21127"
+    },
+    "general_unicode": "基本区 U+9CA1",
+    "general_bs_code": "352512111254254"
+}

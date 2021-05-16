@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hilly, steep, rugged"
+        },
+        {
+            "language": "德语",
+            "explanation": "erhaben, hoch"
+        },
+        {
+            "language": "法语",
+            "explanation": "élevé (comme une montagne)​"
+        }
+    ],
+    "general_pinyins": [
+        "líng",
+        "léng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄥˊ",
+        "ㄌㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "碐",
+        "𡹃",
+        "𡺿",
+        "𡻴",
+        "𪌨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5D1A",
+            "25212134354"
+        ],
+        "char_code_wubi": "mfwt",
+        "char_code_cangjie": "ugce",
+        "char_code_zhengma": "llor",
+        "char_code_sijiao": "24747"
+    },
+    "general_unicode": "基本区 U+5D1A",
+    "general_bs_code": "25212134354"
+}

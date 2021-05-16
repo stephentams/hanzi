@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "recite, read, chant"
+        },
+        {
+            "language": "德语",
+            "explanation": "laut lesen, lesen, vorlesen  (V)​,Nian  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "Pleine conscience"
+        }
+    ],
+    "general_pinyins": [
+        "niàn"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠿍",
+        "念",
+        "𣣈",
+        "𣣣"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5538",
+            "25134454544"
+        ],
+        "char_code_wubi": "kwyn",
+        "char_code_cangjie": "roip",
+        "char_code_zhengma": "joxw",
+        "char_code_sijiao": "68032"
+    },
+    "general_unicode": "基本区 U+5538",
+    "general_bs_code": "25134454544"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "person"
+        },
+        {
+            "language": "德语",
+            "explanation": "widerspenstig ,Chuo  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "recalcitrant"
+        }
+    ],
+    "general_pinyins": [
+        "ruò",
+        "chuò"
+    ],
+    "general_zhuyins": [
+        "ㄖㄨㄛˋ",
+        "ㄔㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5A7C",
+            "53112213251"
+        ],
+        "char_code_wubi": "vadk",
+        "char_code_cangjie": "vtkr",
+        "char_code_zhengma": "zmgj",
+        "char_code_sijiao": "44464"
+    },
+    "general_unicode": "基本区 U+5A7C",
+    "general_bs_code": "53112213251"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "large tie-beams"
+        },
+        {
+            "language": "德语",
+            "explanation": "Firstbalken, Firstpfette, Hauptpfette, Hauptbalken  (S, Arch)"
+        },
+        {
+            "language": "法语",
+            "explanation": "poutre,poutrelle"
+        }
+    ],
+    "general_pinyins": [
+        "tuó",
+        "duò"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄛˊ",
+        "ㄉㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "舵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "67C1",
+            "123444535"
+        ],
+        "char_code_wubi": "spxn",
+        "char_code_cangjie": "djp",
+        "char_code_zhengma": "fwrr",
+        "char_code_sijiao": "43912"
+    },
+    "general_unicode": "基本区 U+67C1",
+    "general_bs_code": "123444535"
+}

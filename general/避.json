@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "avoid; turn aside; escape; hide"
+        },
+        {
+            "language": "德语",
+            "explanation": "vermeiden  (V)​,fliehen"
+        },
+        {
+            "language": "法语",
+            "explanation": "éviter,s'écarter,esquiver,prévenir,s'échapper,fuir,quitter"
+        }
+    ],
+    "general_pinyins": [
+        "bì"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨓶",
+        "𢕾",
+        "辟"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "907F",
+            "5132514143112454"
+        ],
+        "char_code_wubi": "nkup",
+        "char_code_cangjie": "ysrj",
+        "char_code_zhengma": "wxjs",
+        "char_code_sijiao": "30304"
+    },
+    "general_unicode": "基本区 U+907F",
+    "general_bs_code": "5132514143112454"
+}

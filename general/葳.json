@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "luxuriant, flourishing; used for various plants"
+        },
+        {
+            "language": "德语",
+            "explanation": "üppig"
+        },
+        {
+            "language": "法语",
+            "explanation": "luxuriant"
+        }
+    ],
+    "general_pinyins": [
+        "wēi"
+    ],
+    "general_zhuyins": [
+        "ㄨㄟ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8473",
+            "122131531534"
+        ],
+        "char_code_wubi": "adgt|adgv",
+        "char_code_cangjie": "tihv",
+        "char_code_zhengma": "ehaz",
+        "char_code_sijiao": "44253"
+    },
+    "general_unicode": "基本区 U+8473",
+    "general_bs_code": "122131531534"
+}

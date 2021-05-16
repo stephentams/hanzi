@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "charge, blame; disgrace; demote"
+        }
+    ],
+    "general_pinyins": [
+        "zhé"
+    ],
+    "general_zhuyins": [
+        "ㄓㄜˊ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "11",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "謫"
+    ],
+    "general_ytz": [
+        "謫",
+        "讁",
+        "𧬍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C2A",
+            "4541432512251"
+        ],
+        "char_code_wubi": "yumd|yyud",
+        "char_code_cangjie": "ivycb",
+        "char_code_zhengma": "ssul",
+        "char_code_sijiao": "30727"
+    },
+    "general_unicode": "基本区 U+8C2A",
+    "general_bs_code": "4541432512251"
+}

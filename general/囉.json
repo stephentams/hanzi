@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "exclamatory final particle, nag"
+        },
+        {
+            "language": "德语",
+            "explanation": "nörgeln  (V)​,geschwätzig, gesprächig  (Adj)​,Familienname"
+        },
+        {
+            "language": "法语",
+            "explanation": "(bavard,compliqué,parler trop,pénible,gênant)​,(particule finale exclamative)​"
+        }
+    ],
+    "general_pinyins": [
+        "luō",
+        "luó",
+        "luo"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄛ",
+        "ㄌㄨㄛˊ",
+        "ㄌㄨㄛ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "19",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "啰",
+        "囖",
+        "覙",
+        "覶",
+        "覼"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "56C9",
+            "2512522155444432411121"
+        ],
+        "char_code_wubi": "klxy",
+        "char_code_cangjie": "rwlg",
+        "char_code_zhengma": "jlzn",
+        "char_code_sijiao": "66015"
+    },
+    "general_unicode": "基本区 U+56C9",
+    "general_bs_code": "2512522155444432411121"
+}

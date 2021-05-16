@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bitter vegetable"
+        },
+        {
+            "language": "德语",
+            "explanation": "Tu  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "laiteron amer,Sonchus,Lacturia"
+        }
+    ],
+    "general_pinyins": [
+        "tú"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "茶",
+        "𦹍",
+        "𣘻"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "837C",
+            "1223411234"
+        ],
+        "char_code_wubi": "awtu|awgs",
+        "char_code_cangjie": "tomd",
+        "char_code_zhengma": "eomf",
+        "char_code_sijiao": "44904"
+    },
+    "general_unicode": "基本区 U+837C",
+    "general_bs_code": "1223411234"
+}

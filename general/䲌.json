@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a fish, the sound of touching the fish net"
+        }
+    ],
+    "general_pinyins": [
+        "kuǎn"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "魚",
+        "non_radical_sn": "12",
+        "total_sn": "23"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𩺶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4C8C",
+            "35251214444121112343534"
+        ],
+        "char_code_wubi": "qofw",
+        "char_code_cangjie": "nfgfo",
+        "char_code_zhengma": "rbbr",
+        "char_code_sijiao": "27382"
+    },
+    "general_unicode": "扩展A U+4C8C",
+    "general_bs_code": "35251214444121112343534"
+}

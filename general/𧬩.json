@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "zá"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "言",
+        "non_radical_sn": "13",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "27B29",
+            "41112513134211121111"
+        ],
+        "char_code_wubi": "ygdg",
+        "char_code_cangjie": "yrhkm",
+        "char_code_zhengma": "saka"
+    },
+    "general_unicode": "扩展B U+27B29",
+    "general_bs_code": "41112513134211121111"
+}

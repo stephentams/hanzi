@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lie"
+        },
+        {
+            "language": "德语",
+            "explanation": "Lüge, Unwahrheit  (S)​,lügen, betrügen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "mensonge"
+        }
+    ],
+    "general_pinyins": [
+        "huǎng"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "謊"
+    ],
+    "general_ytz": [
+        "謊"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C0E",
+            "45122415325"
+        ],
+        "char_code_wubi": "yayq|yayk",
+        "char_code_cangjie": "ivtyu",
+        "char_code_zhengma": "sesn",
+        "char_code_sijiao": "34712"
+    },
+    "general_unicode": "基本区 U+8C0E",
+    "general_bs_code": "45122415325"
+}

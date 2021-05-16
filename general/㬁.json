@@ -1,0 +1,32 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "the sun is shining on the water"
+        }
+    ],
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣆗"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3B01",
+            "2511441341251"
+        ],
+        "char_code_wubi": "jiwk",
+        "char_code_cangjie": "aeor",
+        "char_code_zhengma": "kvaj",
+        "char_code_sijiao": "60161"
+    },
+    "general_unicode": "扩展A U+3B01",
+    "general_bs_code": "2511441341251"
+}

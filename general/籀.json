@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "recite, read; style of calligraphy"
+        },
+        {
+            "language": "德语",
+            "explanation": "entwickeln, entfalten"
+        }
+    ],
+    "general_pinyins": [
+        "zhòu"
+    ],
+    "general_zhuyins": [
+        "ㄓㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "13",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "籒",
+        "籕"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7C40",
+            "3143141213545325121"
+        ],
+        "char_code_wubi": "trql",
+        "char_code_cangjie": "hqhw",
+        "char_code_zhengma": "mdyk",
+        "char_code_sijiao": "88562"
+    },
+    "general_unicode": "基本区 U+7C40",
+    "general_bs_code": "3143141213545325121"
+}

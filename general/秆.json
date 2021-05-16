@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "straw; stalk of grain"
+        },
+        {
+            "language": "德语",
+            "explanation": "Halm; Stengel (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "paille"
+        }
+    ],
+    "general_pinyins": [
+        "gǎn"
+    ],
+    "general_zhuyins": [
+        "ㄍㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "3",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "稈"
+    ],
+    "general_ytz": [
+        "稈",
+        "芉",
+        "𦼮",
+        "𦾮",
+        "𥝝"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "79C6",
+            "31234112"
+        ],
+        "char_code_wubi": "tfh",
+        "char_code_cangjie": "hdmj",
+        "char_code_zhengma": "mfae",
+        "char_code_sijiao": "21940"
+    },
+    "general_unicode": "基本区 U+79C6",
+    "general_bs_code": "31234112"
+}

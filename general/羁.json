@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "halter; restrain, hold, control"
+        }
+    ],
+    "general_pinyins": [
+        "jī"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧ"
+    ],
+    "general_radical": {
+        "radical": "罒",
+        "non_radical_sn": "12",
+        "total_sn": "17"
+    },
+    "general_stc": [
+        "羈"
+    ],
+    "general_ytz": [
+        "羈",
+        "羇",
+        "覉",
+        "覊",
+        "䩭",
+        "𦋱",
+        "𦌭",
+        "𦌯",
+        "𦌱",
+        "𦌹",
+        "𦍈",
+        "𦍊",
+        "𧠄",
+        "𩆺"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F81",
+            "25221122125112551"
+        ],
+        "char_code_wubi": "lafc|lafg",
+        "char_code_cangjie": "wltjm",
+        "char_code_zhengma": "lkex",
+        "char_code_sijiao": "60527"
+    },
+    "general_unicode": "基本区 U+7F81",
+    "general_bs_code": "25221122125112551"
+}

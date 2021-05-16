@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mounted escort; groom"
+        },
+        {
+            "language": "德语",
+            "explanation": "gehen, führen ,Zou  (Eig, Fam)"
+        }
+    ],
+    "general_pinyins": [
+        "zōu"
+    ],
+    "general_zhuyins": [
+        "ㄗㄡ"
+    ],
+    "general_radical": {
+        "radical": "马",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "騶"
+    ],
+    "general_ytz": [
+        "騶",
+        "𩣿",
+        "𩤍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A7A",
+            "55135511"
+        ],
+        "char_code_wubi": "cqvg|cgqv",
+        "char_code_cangjie": "nmnsm",
+        "char_code_zhengma": "xrxb",
+        "char_code_sijiao": "77177"
+    },
+    "general_unicode": "基本区 U+9A7A",
+    "general_bs_code": "55135511"
+}

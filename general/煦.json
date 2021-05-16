@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "kind, gentle, gracious, genial"
+        },
+        {
+            "language": "德语",
+            "explanation": "freundlich, sanft, gütig  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "doux,chaud,confortable,cosy"
+        }
+    ],
+    "general_pinyins": [
+        "xù"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "灬",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "眗",
+        "昫"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7166",
+            "2511352514444"
+        ],
+        "char_code_wubi": "jqko",
+        "char_code_cangjie": "arf",
+        "char_code_zhengma": "krju",
+        "char_code_sijiao": "67332"
+    },
+    "general_unicode": "基本区 U+7166",
+    "general_bs_code": "2511352514444"
+}

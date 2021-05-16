@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "excellent horse, noble steed"
+        },
+        {
+            "language": "德语",
+            "explanation": "feuriges Pferd, edles Pferd"
+        },
+        {
+            "language": "法语",
+            "explanation": "cheval fougueux"
+        }
+    ],
+    "general_pinyins": [
+        "jùn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "马",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "駿"
+    ],
+    "general_ytz": [
+        "駿"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A8F",
+            "5515434354"
+        ],
+        "char_code_wubi": "ccwt|cgct",
+        "char_code_cangjie": "nmice",
+        "char_code_zhengma": "xzor",
+        "char_code_sijiao": "73147"
+    },
+    "general_unicode": "基本区 U+9A8F",
+    "general_bs_code": "5515434354"
+}

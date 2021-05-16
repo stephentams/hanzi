@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "trifling, petty; troublesome"
+        },
+        {
+            "language": "德语",
+            "explanation": "nichtig  (Adj)​,trivial, klein, unwichtig  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "fragment,petit"
+        }
+    ],
+    "general_pinyins": [
+        "suǒ"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨㄛˇ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "瑣"
+    ],
+    "general_ytz": [
+        "瑣",
+        "𤨏"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7410",
+            "11212432534"
+        ],
+        "char_code_wubi": "gimy",
+        "char_code_cangjie": "mgfbo",
+        "char_code_zhengma": "cklo",
+        "char_code_sijiao": "19182"
+    },
+    "general_unicode": "基本区 U+7410",
+    "general_bs_code": "11212432534"
+}

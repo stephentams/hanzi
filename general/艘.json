@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "counter for ships, vessels"
+        },
+        {
+            "language": "德语",
+            "explanation": "Zählwort für Schiffe  (Zähl)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(classificateur pour des vaisseaux de guerre (Tw)​)​,(classificateur pour des vaisseaux de guerre)​"
+        }
+    ],
+    "general_pinyins": [
+        "sōu"
+    ],
+    "general_zhuyins": [
+        "ㄙㄡ"
+    ],
+    "general_radical": {
+        "radical": "舟",
+        "non_radical_sn": "9",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦪁",
+        "𣔱",
+        "䑹",
+        "㮴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8258",
+            "335414321511254"
+        ],
+        "char_code_wubi": "tevc|tuec",
+        "char_code_cangjie": "hyhxe",
+        "char_code_zhengma": "pynx",
+        "char_code_sijiao": "27447"
+    },
+    "general_unicode": "基本区 U+8258",
+    "general_bs_code": "335414321511254"
+}

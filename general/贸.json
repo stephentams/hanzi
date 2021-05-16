@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "trade, barter; mixed; rashly"
+        },
+        {
+            "language": "德语",
+            "explanation": "Handel  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "commerce,acheter,faire du commerce"
+        }
+    ],
+    "general_pinyins": [
+        "mào"
+    ],
+    "general_zhuyins": [
+        "ㄇㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "貿"
+    ],
+    "general_ytz": [
+        "貿",
+        "𦕕",
+        "𧴵",
+        "𧵍",
+        "𧵲",
+        "𧶝",
+        "𧶻"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D38",
+            "354532534"
+        ],
+        "char_code_wubi": "qyvm",
+        "char_code_cangjie": "hhbo",
+        "char_code_zhengma": "rhyl",
+        "char_code_sijiao": "77802"
+    },
+    "general_unicode": "基本区 U+8D38",
+    "general_bs_code": "354532534"
+}

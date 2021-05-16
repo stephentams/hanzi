@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "water in which rice has been boiled"
+        },
+        {
+            "language": "法语",
+            "explanation": "eau dans laquelle le riz est cuit"
+        }
+    ],
+    "general_pinyins": [
+        "xiǔ"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣺫",
+        "潃"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6EEB",
+            "4413223542511"
+        ],
+        "char_code_wubi": "iwhe",
+        "char_code_cangjie": "eolb",
+        "char_code_zhengma": "vnrq",
+        "char_code_sijiao": "37127"
+    },
+    "general_unicode": "基本区 U+6EEB",
+    "general_bs_code": "4413223542511"
+}

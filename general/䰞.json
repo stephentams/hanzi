@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as U+7151 煮) to cook; to boil; to stew"
+        }
+    ],
+    "general_pinyins": [
+        "zhǔ"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "鬲",
+        "non_radical_sn": "14",
+        "total_sn": "24"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "煮"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4C1E",
+            "515121325115151251254312"
+        ],
+        "char_code_wubi": "xfth",
+        "char_code_cangjie": "nnmrb",
+        "char_code_zhengma": "yzba",
+        "char_code_sijiao": "17227"
+    },
+    "general_unicode": "扩展A U+4C1E",
+    "general_bs_code": "515121325115151251254312"
+}

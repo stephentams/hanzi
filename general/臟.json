@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "internal organs, viscera"
+        },
+        {
+            "language": "德语",
+            "explanation": "schmutzig  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "viscères,entrailles"
+        }
+    ],
+    "general_pinyins": [
+        "zàng"
+    ],
+    "general_zhuyins": [
+        "ㄗㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "17",
+        "total_sn": "21"
+    },
+    "general_stc": [
+        "脏"
+    ],
+    "general_ytz": [
+        "藏",
+        "臧",
+        "臓",
+        "脏"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "81DF",
+            "351112213513125125534"
+        ],
+        "char_code_wubi": "eadt|eaah",
+        "char_code_cangjie": "btis",
+        "char_code_zhengma": "qezh",
+        "char_code_sijiao": "74253"
+    },
+    "general_unicode": "基本区 U+81DF",
+    "general_bs_code": "351112213513125125534"
+}

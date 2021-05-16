@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "penetrate, pass through"
+        },
+        {
+            "language": "德语",
+            "explanation": "durchdringen, durchsickern ,durchdringend, erschöpfend"
+        },
+        {
+            "language": "法语",
+            "explanation": "entièrement,complètement,pénétrer,révéler,se manifester"
+        }
+    ],
+    "general_pinyins": [
+        "tòu"
+    ],
+    "general_zhuyins": [
+        "ㄊㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䞬",
+        "埱"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "900F",
+            "3123453454"
+        ],
+        "char_code_wubi": "tepv|tbpe",
+        "char_code_cangjie": "yhds",
+        "char_code_zhengma": "mfmw",
+        "char_code_sijiao": "32302"
+    },
+    "general_unicode": "基本区 U+900F",
+    "general_bs_code": "3123453454"
+}

@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hollow; pit; depression; swamp"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bedrückung  (S)​,Unterdrückung  (S)​,Wa  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "creux,dépression,flaque"
+        }
+    ],
+    "general_pinyins": [
+        "wā"
+    ],
+    "general_zhuyins": [
+        "ㄨㄚ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "窪"
+    ],
+    "general_ytz": [
+        "漥",
+        "窐",
+        "𣵾",
+        "窪",
+        "凹"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6D3C",
+            "441121121"
+        ],
+        "char_code_wubi": "iffg",
+        "char_code_cangjie": "egg",
+        "char_code_zhengma": "vbb",
+        "char_code_sijiao": "34114"
+    },
+    "general_unicode": "基本区 U+6D3C",
+    "general_bs_code": "441121121"
+}

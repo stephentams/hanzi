@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "regret, be sorry; alarmed"
+        },
+        {
+            "language": "德语",
+            "explanation": "alarmiert, aufgeschreckt"
+        },
+        {
+            "language": "法语",
+            "explanation": "soupirer"
+        }
+    ],
+    "general_pinyins": [
+        "wǎn"
+    ],
+    "general_zhuyins": [
+        "ㄨㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "60CB",
+            "44244535455"
+        ],
+        "char_code_wubi": "npqb",
+        "char_code_cangjie": "pjnu",
+        "char_code_zhengma": "uwry",
+        "char_code_sijiao": "93012"
+    },
+    "general_unicode": "基本区 U+60CB",
+    "general_bs_code": "44244535455"
+}

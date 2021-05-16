@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "scab"
+        },
+        {
+            "language": "德语",
+            "explanation": "Krätze, Schorf  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "croûte,escarre"
+        }
+    ],
+    "general_pinyins": [
+        "jiā"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄚ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦙲",
+        "𦙺"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "75C2",
+            "4134153251"
+        ],
+        "char_code_wubi": "ulkd|uekd",
+        "char_code_cangjie": "kksr",
+        "char_code_zhengma": "tyj",
+        "char_code_sijiao": "00160"
+    },
+    "general_unicode": "基本区 U+75C2",
+    "general_bs_code": "4134153251"
+}

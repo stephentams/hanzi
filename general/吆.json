@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bawl, yell, shout, cry out"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schrei, lauten Ruf  (S)​,laut rufen, schreien, ausrufen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "vendre à la criée,colporter"
+        }
+    ],
+    "general_pinyins": [
+        "yāo"
+    ],
+    "general_zhuyins": [
+        "ㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5406",
+            "251554"
+        ],
+        "char_code_wubi": "kxy",
+        "char_code_cangjie": "rvi",
+        "char_code_zhengma": "jzzs",
+        "char_code_sijiao": "62032"
+    },
+    "general_unicode": "基本区 U+5406",
+    "general_bs_code": "251554"
+}

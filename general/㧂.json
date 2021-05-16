@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 屇) a cave a hold in the ground; a hole"
+        }
+    ],
+    "general_pinyins": [
+        "tián"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "户",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "屇"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "39C2",
+            "451325121"
+        ],
+        "char_code_wubi": "ynld",
+        "char_code_cangjie": "hsw",
+        "char_code_zhengma": "wmki",
+        "char_code_sijiao": "30267"
+    },
+    "general_unicode": "扩展A U+39C2",
+    "general_bs_code": "451325121"
+}

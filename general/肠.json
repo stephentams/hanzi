@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "intestines; emotions; sausage"
+        },
+        {
+            "language": "德语",
+            "explanation": "Darm  (S, Med)"
+        }
+    ],
+    "general_pinyins": [
+        "cháng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "3",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "腸"
+    ],
+    "general_ytz": [
+        "腸",
+        "膓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "80A0",
+            "3511533"
+        ],
+        "char_code_wubi": "enrt",
+        "char_code_cangjie": "bnsh",
+        "char_code_zhengma": "qyod",
+        "char_code_sijiao": "77227"
+    },
+    "general_unicode": "基本区 U+80A0",
+    "general_bs_code": "3511533"
+}

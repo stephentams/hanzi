@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a sound made to get a horse to move forward"
+        },
+        {
+            "language": "德语",
+            "explanation": "plappern, klappern"
+        },
+        {
+            "language": "法语",
+            "explanation": "(fracas des sabots de chevaux)​"
+        }
+    ],
+    "general_pinyins": [
+        "dā"
+    ],
+    "general_zhuyins": [
+        "ㄉㄚ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "噠"
+    ],
+    "general_ytz": [
+        "噠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "54D2",
+            "251134454"
+        ],
+        "char_code_wubi": "kdpy",
+        "char_code_cangjie": "ryk",
+        "char_code_zhengma": "jwgd",
+        "char_code_sijiao": "64038"
+    },
+    "general_unicode": "基本区 U+54D2",
+    "general_bs_code": "251134454"
+}

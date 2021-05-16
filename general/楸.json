@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mallotus japonicus, deciduous tre"
+        },
+        {
+            "language": "德语",
+            "explanation": "Trompetenbäume"
+        },
+        {
+            "language": "法语",
+            "explanation": "Catalpa de Mandchourie"
+        }
+    ],
+    "general_pinyins": [
+        "qiū"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄡ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "橚",
+        "櫹"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6978",
+            "1234312344334"
+        ],
+        "char_code_wubi": "stoy",
+        "char_code_cangjie": "dhdf",
+        "char_code_zhengma": "fmuo",
+        "char_code_sijiao": "49980"
+    },
+    "general_unicode": "基本区 U+6978",
+    "general_bs_code": "1234312344334"
+}

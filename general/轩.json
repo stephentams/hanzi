@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "carriage; high; wide; balcony"
+        },
+        {
+            "language": "德语",
+            "explanation": "untrennbares Morphem"
+        },
+        {
+            "language": "法语",
+            "explanation": "haut,élevé"
+        }
+    ],
+    "general_pinyins": [
+        "xuān"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄢ"
+    ],
+    "general_radical": {
+        "radical": "车",
+        "non_radical_sn": "3",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "軒"
+    ],
+    "general_ytz": [
+        "軒",
+        "𨍓",
+        "𩋱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8F69",
+            "1521112"
+        ],
+        "char_code_wubi": "lfh",
+        "char_code_cangjie": "kqmj",
+        "char_code_zhengma": "heae",
+        "char_code_sijiao": "41540"
+    },
+    "general_unicode": "基本区 U+8F69",
+    "general_bs_code": "1521112"
+}

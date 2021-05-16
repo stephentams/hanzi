@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "vessel used to hold grain offerings"
+        },
+        {
+            "language": "法语",
+            "explanation": "vase,coupe"
+        }
+    ],
+    "general_pinyins": [
+        "liǎn"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "璉"
+    ],
+    "general_ytz": [
+        "璉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "740F",
+            "11211512454"
+        ],
+        "char_code_wubi": "glpy",
+        "char_code_cangjie": "mgykq",
+        "char_code_zhengma": "cwhe",
+        "char_code_sijiao": "14135"
+    },
+    "general_unicode": "基本区 U+740F",
+    "general_bs_code": "11211512454"
+}

@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to moor a boat to the bank"
+        },
+        {
+            "language": "法语",
+            "explanation": "amarrer"
+        }
+    ],
+    "general_pinyins": [
+        "yǐ"
+    ],
+    "general_zhuyins": [
+        "ㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "舟",
+        "non_radical_sn": "3",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "艤"
+    ],
+    "general_ytz": [
+        "艤",
+        "檥"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8223",
+            "335414434"
+        ],
+        "char_code_wubi": "teyq|tuyr",
+        "char_code_cangjie": "hyik",
+        "char_code_zhengma": "pyso",
+        "char_code_sijiao": "24403"
+    },
+    "general_unicode": "基本区 U+8223",
+    "general_bs_code": "335414434"
+}

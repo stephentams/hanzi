@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to clear up after rain; to cease be angry"
+        },
+        {
+            "language": "法语",
+            "explanation": "s'éclaircir"
+        }
+    ],
+    "general_pinyins": [
+        "jì"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "雨",
+        "non_radical_sn": "14",
+        "total_sn": "22"
+    },
+    "general_stc": [
+        "霁"
+    ],
+    "general_ytz": [
+        "䨖",
+        "濟",
+        "霁",
+        "𩃟",
+        "𩄄"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "973D",
+            "1452444441432533543211"
+        ],
+        "char_code_wubi": "fyvf|fyjf",
+        "char_code_cangjie": "mbyx",
+        "char_code_zhengma": "fvrn",
+        "char_code_sijiao": "10223"
+    },
+    "general_unicode": "基本区 U+973D",
+    "general_bs_code": "1452444441432533543211"
+}

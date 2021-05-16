@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "face; surface; plane; side, dimension"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gesicht (S)​,Oberfläche (S)​,ZEW für Gegenstände, bei denen eine Fläche die Haupteigenschaft ist (z.B. Flagge, Trommel, Spiegel, ...)​ (Zähl)​,Radikal Nr. 176 = Gesicht, Fläche, Seite (Sprachw)"
+        },
+        {
+            "language": "法语",
+            "explanation": "face,surface,aspect,farine,nouilles,(classificateur pour les objets plans ou susceptibles d'être étendus : drapeaux, miroirs, pans de mur, gongs)​"
+        }
+    ],
+    "general_pinyins": [
+        "miàn"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "面",
+        "non_radical_sn": "0",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "麵"
+    ],
+    "general_ytz": [
+        "靣",
+        "𠚑",
+        "𡇢",
+        "𨉥",
+        "麵"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9762",
+            "132522111"
+        ],
+        "char_code_wubi": "dmjd|dljf",
+        "char_code_cangjie": "mwsl",
+        "char_code_zhengma": "gjkd",
+        "char_code_sijiao": "10602"
+    },
+    "general_unicode": "基本区 U+9762",
+    "general_bs_code": "132522111"
+}

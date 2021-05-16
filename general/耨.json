@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hoe, rake; weed"
+        },
+        {
+            "language": "德语",
+            "explanation": "Hure, Nutte  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "houe,bêcher"
+        }
+    ],
+    "general_pinyins": [
+        "nòu"
+    ],
+    "general_zhuyins": [
+        "ㄋㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "耒",
+        "non_radical_sn": "10",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䅶",
+        "槈",
+        "鎒",
+        "𦔘",
+        "𦔟",
+        "𧂭"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8028",
+            "1112341311534124"
+        ],
+        "char_code_wubi": "didf|fsdf",
+        "char_code_cangjie": "qdmvi",
+        "char_code_zhengma": "ckgd",
+        "char_code_sijiao": "51943"
+    },
+    "general_unicode": "基本区 U+8028",
+    "general_bs_code": "1112341311534124"
+}

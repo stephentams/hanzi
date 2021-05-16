@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rash; addiction, craving, habit"
+        },
+        {
+            "language": "德语",
+            "explanation": "flehend, heftiges Verlangen ,Hang  (S)​,Sucht  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "goût,passion"
+        }
+    ],
+    "general_pinyins": [
+        "yǐn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "11",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "癮"
+    ],
+    "general_ytz": [
+        "癮",
+        "𤻘"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "763E",
+            "4134152355114544"
+        ],
+        "char_code_wubi": "ubqn",
+        "char_code_cangjie": "knlp",
+        "char_code_zhengma": "tyxw",
+        "char_code_sijiao": "00137"
+    },
+    "general_unicode": "基本区 U+763E",
+    "general_bs_code": "4134152355114544"
+}

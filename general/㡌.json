@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 帽)a hat; a headwear, a cap (of fountain-pen, crew, etc.)"
+        }
+    ],
+    "general_pinyins": [
+        "mào",
+        "mèi"
+    ],
+    "general_zhuyins": [
+        "ㄇㄠˋ",
+        "ㄇㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "巾",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "384C",
+            "25225112511"
+        ],
+        "char_code_wubi": "mhje",
+        "char_code_cangjie": "lbab",
+        "char_code_zhengma": "likq",
+        "char_code_sijiao": "47227"
+    },
+    "general_unicode": "扩展A U+384C",
+    "general_bs_code": "25225112511"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "brilliant red; glowing"
+        },
+        {
+            "language": "德语",
+            "explanation": "leuchten, glühen"
+        },
+        {
+            "language": "法语",
+            "explanation": "incandescent,brillant"
+        }
+    ],
+    "general_pinyins": [
+        "wěi"
+    ],
+    "general_zhuyins": [
+        "ㄨㄟˇ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "煒"
+    ],
+    "general_ytz": [
+        "煒",
+        "暐",
+        "㙔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "709C",
+            "43341152"
+        ],
+        "char_code_wubi": "ofnh",
+        "char_code_cangjie": "fqs",
+        "char_code_zhengma": "uoby",
+        "char_code_sijiao": "95827"
+    },
+    "general_unicode": "基本区 U+709C",
+    "general_bs_code": "43341152"
+}

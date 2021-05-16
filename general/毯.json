@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rug, carpet, blanket"
+        },
+        {
+            "language": "德语",
+            "explanation": "ersticken, unterdrücken ,Bettdecke  (S)​,Vorleger  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tapis,couverture"
+        }
+    ],
+    "general_pinyins": [
+        "tǎn"
+    ],
+    "general_zhuyins": [
+        "ㄊㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "毛",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "菼",
+        "裧",
+        "㲜",
+        "㲭",
+        "𤎥",
+        "𦃖",
+        "𦵹"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6BEF",
+            "311543344334"
+        ],
+        "char_code_wubi": "tfno|eooi",
+        "char_code_cangjie": "huff",
+        "char_code_zhengma": "mhuu",
+        "char_code_sijiao": "29718"
+    },
+    "general_unicode": "基本区 U+6BEF",
+    "general_bs_code": "311543344334"
+}

@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 喟) to sign; to lament, to stop, to cut off; to sever; to interrupt"
+        }
+    ],
+    "general_pinyins": [
+        "kuì"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "又",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "喟",
+        "𠜐"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "355F",
+            "212512254"
+        ],
+        "char_code_wubi": "hmac",
+        "char_code_cangjie": "ybe",
+        "char_code_zhengma": "idlx",
+        "char_code_sijiao": "27240"
+    },
+    "general_unicode": "扩展A U+355F",
+    "general_bs_code": "212512254"
+}

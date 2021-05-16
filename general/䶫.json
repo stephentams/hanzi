@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fine teeth, irregular teeth"
+        }
+    ],
+    "general_pinyins": [
+        "kǎn",
+        "yán",
+        "yàn"
+    ],
+    "general_zhuyins": [
+        "ㄎㄢˇ",
+        "ㄧㄢˊ",
+        "ㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "齊",
+        "non_radical_sn": "20",
+        "total_sn": "34"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4DAB",
+            "2121343413434522512511351221113134"
+        ],
+        "char_code_wubi": "hbkt",
+        "char_code_cangjie": "yurrk",
+        "char_code_zhengma": "iocm",
+        "char_code_sijiao": "26748"
+    },
+    "general_unicode": "扩展A U+4DAB",
+    "general_bs_code": "2121343413434522512511351221113134"
+}

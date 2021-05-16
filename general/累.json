@@ -1,0 +1,57 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tired; implicate, involve; bother"
+        },
+        {
+            "language": "德语",
+            "explanation": "schwerfällig, massiv  (Adj)​,anhäufen, ansammeln ,erschöpft  (Adj)​,müde  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "souvent,superposer,accumuler,continu,progressif,fatiguer,causer,impliquer,lasser,crevé (fatique)​,fatigué,épuisé,las"
+        }
+    ],
+    "general_pinyins": [
+        "léi",
+        "lěi",
+        "lèi"
+    ],
+    "general_zhuyins": [
+        "ㄌㄟˊ",
+        "ㄌㄟˇ",
+        "ㄌㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "糸",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "纍"
+    ],
+    "general_ytz": [
+        "㹎",
+        "纍",
+        "𠫯",
+        "𤳻",
+        "𤴈",
+        "絫",
+        "縲",
+        "累"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7D2F",
+            "25121554234"
+        ],
+        "char_code_wubi": "lxiu",
+        "char_code_cangjie": "wvif",
+        "char_code_zhengma": "kiz",
+        "char_code_sijiao": "60903"
+    },
+    "general_unicode": "基本区 U+7D2F",
+    "general_bs_code": "25121554234"
+}

@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fine, thin stockings or socks"
+        }
+    ],
+    "general_pinyins": [
+        "mì",
+        "miè"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧˋ",
+        "ㄇㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "糹",
+        "non_radical_sn": "14",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦇪"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4329",
+            "55444412225221134534"
+        ],
+        "char_code_wubi": "xalt|xalw",
+        "char_code_cangjie": "vftwi",
+        "char_code_zhengma": "zehs",
+        "char_code_sijiao": "24953"
+    },
+    "general_unicode": "扩展A U+4329",
+    "general_bs_code": "55444412225221134534"
+}

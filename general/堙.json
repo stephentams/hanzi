@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bury; dam, block up"
+        },
+        {
+            "language": "德语",
+            "explanation": "schließen, abschließen ,stauen"
+        }
+    ],
+    "general_pinyins": [
+        "yīn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄣ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㘻",
+        "垔",
+        "陻",
+        "𡋘",
+        "䧣"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5819",
+            "121125221121"
+        ],
+        "char_code_wubi": "fsfg",
+        "char_code_cangjie": "gmwg",
+        "char_code_zhengma": "bfb",
+        "char_code_sijiao": "41114"
+    },
+    "general_unicode": "基本区 U+5819",
+    "general_bs_code": "121125221121"
+}

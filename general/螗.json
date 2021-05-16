@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a kind of cicada"
+        }
+    ],
+    "general_pinyins": [
+        "táng"
+    ],
+    "general_zhuyins": [
+        "ㄊㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "10",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧒩"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8797",
+            "2512144135112251"
+        ],
+        "char_code_wubi": "jyvk|jovk",
+        "char_code_cangjie": "liilr",
+        "char_code_zhengma": "itxj",
+        "char_code_sijiao": "50165"
+    },
+    "general_unicode": "基本区 U+8797",
+    "general_bs_code": "2512144135112251"
+}

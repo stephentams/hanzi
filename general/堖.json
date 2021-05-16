@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "small, head shaped hill, used in place names"
+        }
+    ],
+    "general_pinyins": [
+        "nǎo"
+    ],
+    "general_zhuyins": [
+        "ㄋㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "垴"
+    ],
+    "general_ytz": [
+        "腦"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5816",
+            "121555325341"
+        ],
+        "char_code_wubi": "fvtq|fvtr",
+        "char_code_cangjie": "gvvw",
+        "char_code_zhengma": "bzno",
+        "char_code_sijiao": "42162"
+    },
+    "general_unicode": "基本区 U+5816",
+    "general_bs_code": "121555325341"
+}

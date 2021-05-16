@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "have imperial audience"
+        },
+        {
+            "language": "法语",
+            "explanation": "(histoire)​ avoir une audience avec l'Empereur"
+        }
+    ],
+    "general_pinyins": [
+        "jìn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "见",
+        "non_radical_sn": "11",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "覲"
+    ],
+    "general_ytz": [
+        "覲",
+        "𧢚",
+        "𩌸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "89D0",
+            "122125111212535"
+        ],
+        "char_code_wubi": "akgq",
+        "char_code_cangjie": "tmbhu",
+        "char_code_zhengma": "eacl",
+        "char_code_sijiao": "47112"
+    },
+    "general_unicode": "基本区 U+89D0",
+    "general_bs_code": "122125111212535"
+}

@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cover, hide, protect"
+        },
+        {
+            "language": "德语",
+            "explanation": "Deckel, Kappe, Abdeckhaube ,besiegeln, mit einem Siegel versehen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom de famille)​,couvrir,recouvrir,apposer,dépasser,construire,bâtir,couvercle"
+        }
+    ],
+    "general_pinyins": [
+        "gài",
+        "gě",
+        "hé"
+    ],
+    "general_zhuyins": [
+        "ㄍㄞˋ",
+        "ㄍㄜˇ",
+        "ㄏㄜˊ"
+    ],
+    "general_radical": {
+        "radical": "皿",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "蓋"
+    ],
+    "general_ytz": [
+        "葢",
+        "蓋",
+        "𤇁",
+        "𤇙"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "76D6",
+            "43112125221"
+        ],
+        "char_code_wubi": "uglf",
+        "char_code_cangjie": "tgbt",
+        "char_code_zhengma": "uclk",
+        "char_code_sijiao": "80102"
+    },
+    "general_unicode": "基本区 U+76D6",
+    "general_bs_code": "43112125221"
+}

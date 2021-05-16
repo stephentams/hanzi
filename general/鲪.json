@@ -1,0 +1,32 @@
+{
+    "general_pinyins": [
+        "jūn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄣ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "7",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "鮶"
+    ],
+    "general_ytz": [
+        "鮶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9CAA",
+            "352512115113251"
+        ],
+        "char_code_wubi": "qgvk",
+        "char_code_cangjie": "nmskr",
+        "char_code_zhengma": "rxj",
+        "char_code_sijiao": "27167"
+    },
+    "general_unicode": "基本区 U+9CAA",
+    "general_bs_code": "352512115113251"
+}

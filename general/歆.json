@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "like, admire; willingly, gladly; to quicken"
+        },
+        {
+            "language": "德语",
+            "explanation": "bewegt, bewegte ,gefällt"
+        },
+        {
+            "language": "法语",
+            "explanation": "ému,satisfait"
+        }
+    ],
+    "general_pinyins": [
+        "xīn"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄣ"
+    ],
+    "general_radical": {
+        "radical": "欠",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6B46",
+            "4143125113534"
+        ],
+        "char_code_wubi": "ujqw",
+        "char_code_cangjie": "yano",
+        "char_code_zhengma": "sukr",
+        "char_code_sijiao": "07682"
+    },
+    "general_unicode": "基本区 U+6B46",
+    "general_bs_code": "4143125113534"
+}

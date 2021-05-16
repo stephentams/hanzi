@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "convulsions, fits"
+        },
+        {
+            "language": "德语",
+            "explanation": "Krampf; Spasmus"
+        },
+        {
+            "language": "法语",
+            "explanation": "spasme"
+        }
+    ],
+    "general_pinyins": [
+        "jìng"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "痙"
+    ],
+    "general_ytz": [
+        "痙"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "75C9",
+            "4134154121"
+        ],
+        "char_code_wubi": "ucad",
+        "char_code_cangjie": "knom",
+        "char_code_zhengma": "txbi",
+        "char_code_sijiao": "00112"
+    },
+    "general_unicode": "基本区 U+75C9",
+    "general_bs_code": "4134154121"
+}

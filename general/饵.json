@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bait; bait, entice; dumplings"
+        },
+        {
+            "language": "法语",
+            "explanation": "galette"
+        }
+    ],
+    "general_pinyins": [
+        "ěr"
+    ],
+    "general_zhuyins": [
+        "ㄦˇ"
+    ],
+    "general_radical": {
+        "radical": "饣",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "餌"
+    ],
+    "general_ytz": [
+        "餌",
+        "㢽",
+        "𧊗",
+        "𩛣",
+        "𩱓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9975",
+            "355122111"
+        ],
+        "char_code_wubi": "qnbg",
+        "char_code_cangjie": "nvsj",
+        "char_code_zhengma": "oxce",
+        "char_code_sijiao": "21740"
+    },
+    "general_unicode": "基本区 U+9975",
+    "general_bs_code": "355122111"
+}

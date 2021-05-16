@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "destroy, eliminate; perish"
+        },
+        {
+            "language": "德语",
+            "explanation": "auslöschen, tilgen"
+        },
+        {
+            "language": "法语",
+            "explanation": "disparaître,périr"
+        }
+    ],
+    "general_pinyins": [
+        "mǐn"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "冺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6CEF",
+            "44151515"
+        ],
+        "char_code_wubi": "inan",
+        "char_code_cangjie": "ervp",
+        "char_code_zhengma": "vyhd",
+        "char_code_sijiao": "37147"
+    },
+    "general_unicode": "基本区 U+6CEF",
+    "general_bs_code": "44151515"
+}

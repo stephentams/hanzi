@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wrinkles, creases, folds"
+        },
+        {
+            "language": "德语",
+            "explanation": "Falten werfen, falten, knittern, kniffen, zerknittern  (V)​,knicken  (V)​,runzeln  (V)​,faltig, gerunzelt"
+        },
+        {
+            "language": "法语",
+            "explanation": "plisser,froisser,pli,ride"
+        }
+    ],
+    "general_pinyins": [
+        "zhòu"
+    ],
+    "general_zhuyins": [
+        "ㄓㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "皮",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "皺"
+    ],
+    "general_ytz": [
+        "皺",
+        "𢑫",
+        "𤷨",
+        "𤿥",
+        "𤿮",
+        "𤿿",
+        "𩈟",
+        "𩊥",
+        "𩋓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "76B1",
+            "3551153254"
+        ],
+        "char_code_wubi": "qvhc|qvby",
+        "char_code_cangjie": "nsdhe",
+        "char_code_zhengma": "rxxi",
+        "char_code_sijiao": "24147"
+    },
+    "general_unicode": "基本区 U+76B1",
+    "general_bs_code": "3551153254"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "young dragon"
+        },
+        {
+            "language": "德语",
+            "explanation": "junger Drache"
+        },
+        {
+            "language": "法语",
+            "explanation": "frisé,ondulé,jeune dragon légendaire à cornes"
+        }
+    ],
+    "general_pinyins": [
+        "qiú"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "1",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "虯"
+    ],
+    "general_ytz": [
+        "虯",
+        "𠛿"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "866C",
+            "2512145"
+        ],
+        "char_code_wubi": "jnn",
+        "char_code_cangjie": "liu",
+        "char_code_zhengma": "izvv",
+        "char_code_sijiao": "52110"
+    },
+    "general_unicode": "基本区 U+866C",
+    "general_bs_code": "2512145"
+}

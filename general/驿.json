@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "relay station"
+        },
+        {
+            "language": "德语",
+            "explanation": "Poststation"
+        },
+        {
+            "language": "法语",
+            "explanation": "poste,relais de poste"
+        }
+    ],
+    "general_pinyins": [
+        "yì"
+    ],
+    "general_zhuyins": [
+        "ㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "马",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "驛"
+    ],
+    "general_ytz": [
+        "驛",
+        "駅",
+        "𩦯"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A7F",
+            "55154112"
+        ],
+        "char_code_wubi": "ccfh|cgcg",
+        "char_code_cangjie": "nmeq",
+        "char_code_zhengma": "xxbi",
+        "char_code_sijiao": "77154"
+    },
+    "general_unicode": "基本区 U+9A7F",
+    "general_bs_code": "55154112"
+}

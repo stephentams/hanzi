@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hub of wheel"
+        },
+        {
+            "language": "德语",
+            "explanation": "Rad  (S)​,schieben, Drehscheibe  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "moyeu,roue"
+        }
+    ],
+    "general_pinyins": [
+        "gǔ"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "殳",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "轂"
+    ],
+    "general_ytz": [
+        "轂",
+        "𣫂",
+        "𨍔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6BC2",
+            "1214515213554"
+        ],
+        "char_code_wubi": "fplc",
+        "char_code_cangjie": "gqhne",
+        "char_code_zhengma": "bwhq",
+        "char_code_sijiao": "47547"
+    },
+    "general_unicode": "基本区 U+6BC2",
+    "general_bs_code": "1214515213554"
+}

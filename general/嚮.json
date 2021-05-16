@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "guide, direct; incline to, favor"
+        },
+        {
+            "language": "德语",
+            "explanation": "in Richtung auf, nach  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "xiàng"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "14",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "向",
+        "𡩉"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "56AE",
+            "55345115452325251"
+        ],
+        "char_code_wubi": "xtyk",
+        "char_code_cangjie": "vlhbr",
+        "char_code_zhengma": "zznj",
+        "char_code_sijiao": "27227"
+    },
+    "general_unicode": "基本区 U+56AE",
+    "general_bs_code": "55345115452325251"
+}

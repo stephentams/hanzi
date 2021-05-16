@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "oak; spinous evergreen tree; to clear away trees"
+        },
+        {
+            "language": "德语",
+            "explanation": "Eiche  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "Chêne serrata"
+        }
+    ],
+    "general_pinyins": [
+        "zuò",
+        "zhà"
+    ],
+    "general_zhuyins": [
+        "ㄗㄨㄛˋ",
+        "ㄓㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "拃",
+        "窄",
+        "笮"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "67DE",
+            "123431211"
+        ],
+        "char_code_wubi": "sthf",
+        "char_code_cangjie": "dos",
+        "char_code_zhengma": "fmid",
+        "char_code_sijiao": "48911"
+    },
+    "general_unicode": "基本区 U+67DE",
+    "general_bs_code": "123431211"
+}

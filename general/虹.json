@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rainbow"
+        },
+        {
+            "language": "德语",
+            "explanation": "Regenbogen (S)​,Hong (Eig, Fam)​,Regenbogen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "arc-en-ciel,arc-en-ciel"
+        }
+    ],
+    "general_pinyins": [
+        "hóng"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "3",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧈫",
+        "𧈬",
+        "𧌫",
+        "𧍺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8679",
+            "251214121"
+        ],
+        "char_code_wubi": "jag",
+        "char_code_cangjie": "lim",
+        "char_code_zhengma": "ibi",
+        "char_code_sijiao": "51112"
+    },
+    "general_unicode": "基本区 U+8679",
+    "general_bs_code": "251214121"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "river in Shanxi province"
+        },
+        {
+            "language": "德语",
+            "explanation": "verregnen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cours d'eau Feng (Shaanxi)​"
+        }
+    ],
+    "general_pinyins": [
+        "fēng"
+    ],
+    "general_zhuyins": [
+        "ㄈㄥ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "18",
+        "total_sn": "21"
+    },
+    "general_stc": [
+        "沣"
+    ],
+    "general_ytz": [
+        "沣",
+        "酆"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7043",
+            "441111221112521251431"
+        ],
+        "char_code_wubi": "idhu|imdu",
+        "char_code_cangjie": "eujt",
+        "char_code_zhengma": "vci",
+        "char_code_sijiao": "32118"
+    },
+    "general_unicode": "基本区 U+7043",
+    "general_bs_code": "441111221112521251431"
+}

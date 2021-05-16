@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "woof; parallels of latitude"
+        },
+        {
+            "language": "德语",
+            "explanation": "Breitengrad, geographische Breite  (S, Geo)​,Querfaden, Schussfaden, Schuss 法语 trame,latitude"
+        }
+    ],
+    "general_pinyins": [
+        "wěi"
+    ],
+    "general_zhuyins": [
+        "ㄨㄟˇ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "緯"
+    ],
+    "general_ytz": [
+        "緯"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EAC",
+            "5511152"
+        ],
+        "char_code_wubi": "xfnh",
+        "char_code_cangjie": "vmqs",
+        "char_code_zhengma": "zby",
+        "char_code_sijiao": "25127"
+    },
+    "general_unicode": "基本区 U+7EAC",
+    "general_bs_code": "5511152"
+}

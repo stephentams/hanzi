@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "devise, plan, deliberate; consult"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "yùn"
+    ],
+    "general_zhuyins": [
+        "ㄩㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "恽"
+    ],
+    "general_ytz": [
+        "恽"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "60F2",
+            "442451251112"
+        ],
+        "char_code_wubi": "nplh",
+        "char_code_cangjie": "pbjj",
+        "char_code_zhengma": "uwfk",
+        "char_code_sijiao": "97052"
+    },
+    "general_unicode": "基本区 U+60F2",
+    "general_bs_code": "442451251112"
+}

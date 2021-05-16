@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "surname; to talk"
+        },
+        {
+            "language": "德语",
+            "explanation": "Nachname ,Tan  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "tán"
+    ],
+    "general_zhuyins": [
+        "ㄊㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "言",
+        "non_radical_sn": "12",
+        "total_sn": "19"
+    },
+    "general_stc": [
+        "谭"
+    ],
+    "general_ytz": [
+        "䜖",
+        "谭",
+        "𨝸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8B5A",
+            "4111251125221251112"
+        ],
+        "char_code_wubi": "ysjh",
+        "char_code_cangjie": "yrmwj",
+        "char_code_zhengma": "sfke",
+        "char_code_sijiao": "01646"
+    },
+    "general_unicode": "基本区 U+8B5A",
+    "general_bs_code": "4111251125221251112"
+}

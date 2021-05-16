@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "secret, mysterious, abstruse"
+        },
+        {
+            "language": "法语",
+            "explanation": "secret,secrétaire"
+        }
+    ],
+    "general_pinyins": [
+        "mì",
+        "bì"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧˋ",
+        "ㄅㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "祕",
+        "苾"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "79D8",
+            "3123445434"
+        ],
+        "char_code_wubi": "tntt",
+        "char_code_cangjie": "hdph",
+        "char_code_zhengma": "mfwm",
+        "char_code_sijiao": "23904"
+    },
+    "general_unicode": "基本区 U+79D8",
+    "general_bs_code": "3123445434"
+}

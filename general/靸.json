@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a child's shoes; slippers"
+        },
+        {
+            "language": "德语",
+            "explanation": "Hausschuhe, Pantoffeln  (S)​,Schuhe  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "sǎ"
+    ],
+    "general_zhuyins": [
+        "ㄙㄚˇ"
+    ],
+    "general_radical": {
+        "radical": "革",
+        "non_radical_sn": "3",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "鞈",
+        "𩎕"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9778",
+            "122125112354"
+        ],
+        "char_code_wubi": "afey|afby",
+        "char_code_cangjie": "tjnhe",
+        "char_code_zhengma": "eems",
+        "char_code_sijiao": "47547"
+    },
+    "general_unicode": "基本区 U+9778",
+    "general_bs_code": "122125112354"
+}

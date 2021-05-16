@@ -1,0 +1,33 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(Cant.) imperative final particle"
+        }
+    ],
+    "general_pinyins": [
+        "lí"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "20ED7",
+            "2514134522554"
+        ],
+        "char_code_wubi": "kybc",
+        "char_code_cangjie": "ryub",
+        "char_code_zhengma": "jslz"
+    },
+    "general_unicode": "扩展B U+20ED7",
+    "general_bs_code": "2514134522554"
+}

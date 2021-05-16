@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mynah; Erithacus species (various)"
+        },
+        {
+            "language": "法语",
+            "explanation": "martin huppé (Acridotheres cristatellus)​"
+        }
+    ],
+    "general_pinyins": [
+        "qú"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩˊ"
+    ],
+    "general_radical": {
+        "radical": "鸟",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "鴝"
+    ],
+    "general_ytz": [
+        "鴝",
+        "𩿩",
+        "𪀊",
+        "𪀠",
+        "𪁖"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E32",
+            "3525135451"
+        ],
+        "char_code_wubi": "qkqg",
+        "char_code_cangjie": "prpym",
+        "char_code_zhengma": "ryjr",
+        "char_code_sijiao": "27627"
+    },
+    "general_unicode": "基本区 U+9E32",
+    "general_bs_code": "3525135451"
+}

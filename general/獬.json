@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a fabulous monster"
+        }
+    ],
+    "general_pinyins": [
+        "xiè"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧴛",
+        "𧳊",
+        "𦏘",
+        "𦎈",
+        "𤛳",
+        "𢖆",
+        "𠎿"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "736C",
+            "3533535112533112"
+        ],
+        "char_code_wubi": "qtqh|qtqg",
+        "char_code_cangjie": "khnbq",
+        "char_code_zhengma": "qmym",
+        "char_code_sijiao": "47252"
+    },
+    "general_unicode": "基本区 U+736C",
+    "general_bs_code": "3533535112533112"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "illness, sickness, disease"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fehler, Mangel, Defekt  (S, Tech)​,Krankheit, Beschwerde, Erkrankung  (S, Med)​,sich erkranken  (V)​,krank sein  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tomber malade,maladie,défaut,faute"
+        }
+    ],
+    "general_pinyins": [
+        "bìng"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤖉",
+        "𤵣",
+        "𪗅"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "75C5",
+            "4134112534"
+        ],
+        "char_code_wubi": "ugmw",
+        "char_code_cangjie": "kmob",
+        "char_code_zhengma": "ta",
+        "char_code_sijiao": "00127"
+    },
+    "general_unicode": "基本区 U+75C5",
+    "general_bs_code": "4134112534"
+}

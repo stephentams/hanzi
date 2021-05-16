@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "polish; bright, radiant; smiling"
+        },
+        {
+            "language": "德语",
+            "explanation": "strahlen  (V)​,strahlendhell"
+        },
+        {
+            "language": "法语",
+            "explanation": "riz blanc,net"
+        }
+    ],
+    "general_pinyins": [
+        "càn"
+    ],
+    "general_zhuyins": [
+        "ㄘㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "米",
+        "non_radical_sn": "7",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "叔",
+        "𥹏",
+        "𥹛",
+        "𥺤"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7CB2",
+            "2135454431234"
+        ],
+        "char_code_wubi": "hqco",
+        "char_code_cangjie": "yefd",
+        "char_code_zhengma": "idxu",
+        "char_code_sijiao": "27904"
+    },
+    "general_unicode": "基本区 U+7CB2",
+    "general_bs_code": "2135454431234"
+}

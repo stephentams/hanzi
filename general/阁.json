@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "chamber, pavilion; cabinet"
+        },
+        {
+            "language": "德语",
+            "explanation": "Einlegeboden  (S)​,Pavillon  (S)​,Wandbord, Wandbrett  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "pavillon,cabinet"
+        }
+    ],
+    "general_pinyins": [
+        "gé"
+    ],
+    "general_zhuyins": [
+        "ㄍㄜˊ"
+    ],
+    "general_radical": {
+        "radical": "门",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "閣"
+    ],
+    "general_ytz": [
+        "閣"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9601",
+            "425354251"
+        ],
+        "char_code_wubi": "utkd",
+        "char_code_cangjie": "lsher",
+        "char_code_zhengma": "tlrj",
+        "char_code_sijiao": "37604"
+    },
+    "general_unicode": "基本区 U+9601",
+    "general_bs_code": "425354251"
+}

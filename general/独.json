@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "alone, single, solitary, only"
+        },
+        {
+            "language": "德语",
+            "explanation": "einzig, allein"
+        },
+        {
+            "language": "法语",
+            "explanation": "unique,seul,solitaire,singulier"
+        }
+    ],
+    "general_pinyins": [
+        "dú"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "獨"
+    ],
+    "general_ytz": [
+        "獨",
+        "𤝠",
+        "𤢜",
+        "𨊒"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "72EC",
+            "353251214"
+        ],
+        "char_code_wubi": "qtjy",
+        "char_code_cangjie": "khlmi",
+        "char_code_zhengma": "qmi",
+        "char_code_sijiao": "45236"
+    },
+    "general_unicode": "基本区 U+72EC",
+    "general_bs_code": "353251214"
+}

@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "saddle blanket"
+        },
+        {
+            "language": "德语",
+            "explanation": "Satteldecke  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "couverture de selle"
+        }
+    ],
+    "general_pinyins": [
+        "jiān"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "革",
+        "non_radical_sn": "16",
+        "total_sn": "25"
+    },
+    "general_stc": [
+        "鞯"
+    ],
+    "general_ytz": [
+        "𩋋",
+        "𦇩",
+        "𦆉",
+        "韀",
+        "鞯",
+        "帴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "97C9",
+            "1221251121224135221154444"
+        ],
+        "char_code_wubi": "afao",
+        "char_code_cangjie": "tjtif",
+        "char_code_zhengma": "eezu",
+        "char_code_sijiao": "44527"
+    },
+    "general_unicode": "基本区 U+97C9",
+    "general_bs_code": "1221251121224135221154444"
+}

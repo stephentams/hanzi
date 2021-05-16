@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "丿",
+        "non_radical_sn": "4",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "州"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "20097",
+            "35354"
+        ],
+        "char_code_wubi": "qqi",
+        "char_code_cangjie": "hniu",
+        "char_code_zhengma": "rdrs"
+    },
+    "general_unicode": "扩展B U+20097",
+    "general_bs_code": "35354"
+}

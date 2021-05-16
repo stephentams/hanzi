@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sugar; candy; sweets"
+        },
+        {
+            "language": "德语",
+            "explanation": "Zucker, Bonbons, Süßigkeit (S)"
+        }
+    ],
+    "general_pinyins": [
+        "táng"
+    ],
+    "general_zhuyins": [
+        "ㄊㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "米",
+        "non_radical_sn": "10",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "糃",
+        "糛",
+        "餳",
+        "餹",
+        "𥼽",
+        "𥽻",
+        "醣",
+        "饄",
+        "糖"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7CD6",
+            "4312344135112251"
+        ],
+        "char_code_wubi": "oyvk|oovk",
+        "char_code_cangjie": "fdilr",
+        "char_code_zhengma": "ufxj",
+        "char_code_sijiao": "90965"
+    },
+    "general_unicode": "基本区 U+7CD6",
+    "general_bs_code": "4312344135112251"
+}

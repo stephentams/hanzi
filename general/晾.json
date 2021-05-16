@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "air-dry; sun-dry"
+        },
+        {
+            "language": "德语",
+            "explanation": "lufttrocken  (V)​,(English: to dry in the air)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "faire sécher à l'air"
+        }
+    ],
+    "general_pinyins": [
+        "liàng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "涼"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "667E",
+            "251141251234"
+        ],
+        "char_code_wubi": "jyiy",
+        "char_code_cangjie": "ayrf",
+        "char_code_zhengma": "ksjk",
+        "char_code_sijiao": "60096"
+    },
+    "general_unicode": "基本区 U+667E",
+    "general_bs_code": "251141251234"
+}

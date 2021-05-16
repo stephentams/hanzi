@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cry of bird or animal; make sound"
+        },
+        {
+            "language": "德语",
+            "explanation": "das Singen der Vögel  (V)​,läuten  (V)​,weinen, rufen, schreien  (V)​,zwitschern, krähen, zirpen, trillern  (V)​,Ming  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(animaux, oiseaux)​ crier,chanter"
+        }
+    ],
+    "general_pinyins": [
+        "míng"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "鸟",
+        "non_radical_sn": "3",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "鳴"
+    ],
+    "general_ytz": [
+        "鳴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E23",
+            "25135451"
+        ],
+        "char_code_wubi": "kqyg|kqgg",
+        "char_code_cangjie": "rpym",
+        "char_code_zhengma": "jrz",
+        "char_code_sijiao": "67027"
+    },
+    "general_unicode": "基本区 U+9E23",
+    "general_bs_code": "25135451"
+}

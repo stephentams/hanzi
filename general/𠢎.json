@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "力",
+        "non_radical_sn": "10",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "舅"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2088E",
+            "225112512153"
+        ],
+        "char_code_wubi": "hjll",
+        "char_code_cangjie": "lawks",
+        "char_code_zhengma": "ikky"
+    },
+    "general_unicode": "扩展B U+2088E",
+    "general_bs_code": "225112512153"
+}

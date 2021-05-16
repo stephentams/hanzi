@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "field, arable land, cultivated"
+        },
+        {
+            "language": "德语",
+            "explanation": "Tian  (Eig, Fam)​,Feld  (S)​,Radikal Nr. 102 = Reisfeld, Feld, Acker(land)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "champ"
+        }
+    ],
+    "general_pinyins": [
+        "tián"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "田",
+        "non_radical_sn": "0",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "佃",
+        "畋"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7530",
+            "25121"
+        ],
+        "char_code_wubi": "llll",
+        "char_code_cangjie": "w",
+        "char_code_zhengma": "ki",
+        "char_code_sijiao": "60400"
+    },
+    "general_unicode": "基本区 U+7530",
+    "general_bs_code": "25121"
+}

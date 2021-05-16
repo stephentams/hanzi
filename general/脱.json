@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "take off"
+        },
+        {
+            "language": "德语",
+            "explanation": "abnehmen, ausziehen  (V)​,abwerfen, abstreifen, abfallen, ausfallen, entfernen  (V, Bio)​,entkommen, entgehen, entfliehen, entrinnen  (V)​,fehlen  (V)​,vernachlässigen  (V, Lit)​,wenn, falls  (Konj, Lit)​,Tuo  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "enlever,ôter,se débarrasser de"
+        }
+    ],
+    "general_pinyins": [
+        "tuō"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄛ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "脫"
+    ],
+    "general_ytz": [
+        "脫",
+        "𨉋"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8131",
+            "35114325135"
+        ],
+        "char_code_wubi": "eukq",
+        "char_code_cangjie": "bcru",
+        "char_code_zhengma": "qujr",
+        "char_code_sijiao": "78212"
+    },
+    "general_unicode": "基本区 U+8131",
+    "general_bs_code": "35114325135"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ship, boat, vessel"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schiff"
+        },
+        {
+            "language": "法语",
+            "explanation": "bateau,navire,jonque,barque"
+        }
+    ],
+    "general_pinyins": [
+        "chuán"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "舟",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦤉",
+        "𣍬",
+        "舩",
+        "舡"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8239",
+            "33541435251"
+        ],
+        "char_code_wubi": "temk|tuwk",
+        "char_code_cangjie": "hycr",
+        "char_code_zhengma": "pyqj",
+        "char_code_sijiao": "27461"
+    },
+    "general_unicode": "基本区 U+8239",
+    "general_bs_code": "33541435251"
+}

@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "kick"
+        },
+        {
+            "language": "德语",
+            "explanation": "(einen Ball)​ treten,kicken (V)​,(mit dem Fuß)​ treten (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "donner un coup de pied,jouer (avec une balle au pied)​"
+        }
+    ],
+    "general_pinyins": [
+        "tī"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "8",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E22",
+            "251212125113533"
+        ],
+        "char_code_wubi": "khjr",
+        "char_code_cangjie": "rmaph",
+        "char_code_zhengma": "jiro",
+        "char_code_sijiao": "66127"
+    },
+    "general_unicode": "基本区 U+8E22",
+    "general_bs_code": "251212125113533"
+}

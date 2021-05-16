@@ -1,0 +1,55 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cruel, harsh, oppressive"
+        },
+        {
+            "language": "德语",
+            "explanation": "schwül, drückend ,grausam, tyrannisch, unmenschlich"
+        },
+        {
+            "language": "法语",
+            "explanation": "cruel"
+        }
+    ],
+    "general_pinyins": [
+        "nüè"
+    ],
+    "general_zhuyins": [
+        "ㄋㄩㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "虍",
+        "non_radical_sn": "3",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䖈",
+        "䖋",
+        "䨋",
+        "𣑅",
+        "𤼻",
+        "𥤫",
+        "𧆝",
+        "𧆧",
+        "𧆩",
+        "𧆱",
+        "𩁿",
+        "瘧"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8650",
+            "215315151"
+        ],
+        "char_code_wubi": "haag|hagd",
+        "char_code_cangjie": "ypsm",
+        "char_code_zhengma": "ihh",
+        "char_code_sijiao": "21214"
+    },
+    "general_unicode": "基本区 U+8650",
+    "general_bs_code": "215315151"
+}

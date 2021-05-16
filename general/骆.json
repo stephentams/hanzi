@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a white horse with black mane; a camel"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schimmel mit schwarzer Mähne  (S, Lit)​,Luo  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "chameau,cheval blanc avec une crinière noire"
+        }
+    ],
+    "general_pinyins": [
+        "luò"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "马",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "駱"
+    ],
+    "general_ytz": [
+        "駱",
+        "𢆇",
+        "𩦼"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A86",
+            "551354251"
+        ],
+        "char_code_wubi": "ctkg|cgtk",
+        "char_code_cangjie": "nmher",
+        "char_code_zhengma": "xrj",
+        "char_code_sijiao": "77164"
+    },
+    "general_unicode": "基本区 U+9A86",
+    "general_bs_code": "551354251"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "luxuriant, flourishing, abundant"
+        },
+        {
+            "language": "德语",
+            "explanation": "blühen, aufblühen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "croissance luxuriante de plantes"
+        }
+    ],
+    "general_pinyins": [
+        "huì"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "薈"
+    ],
+    "general_ytz": [
+        "薈"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "835F",
+            "122341154"
+        ],
+        "char_code_wubi": "awfc",
+        "char_code_cangjie": "tomi",
+        "char_code_zhengma": "eobz",
+        "char_code_sijiao": "44732"
+    },
+    "general_unicode": "基本区 U+835F",
+    "general_bs_code": "122341154"
+}

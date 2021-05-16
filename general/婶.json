@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wife of father's younger brother"
+        },
+        {
+            "language": "德语",
+            "explanation": "Tantchen  (S)​,Tante, Frau eines jüngeren Bruders des Vaters  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tante"
+        }
+    ],
+    "general_pinyins": [
+        "shěn"
+    ],
+    "general_zhuyins": [
+        "ㄕㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "嬸"
+    ],
+    "general_ytz": [
+        "嬸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5A76",
+            "53144525112"
+        ],
+        "char_code_wubi": "vpjh",
+        "char_code_cangjie": "vjll",
+        "char_code_zhengma": "zmwk",
+        "char_code_sijiao": "43456"
+    },
+    "general_unicode": "基本区 U+5A76",
+    "general_bs_code": "53144525112"
+}

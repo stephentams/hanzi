@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "gate, barrier; wide, vast, expand"
+        },
+        {
+            "language": "德语",
+            "explanation": "schwer, wichtig ,Hong  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "porte,barrière,large,vaste,étendu"
+        }
+    ],
+    "general_pinyins": [
+        "hóng"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "门",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "閎"
+    ],
+    "general_ytz": [
+        "閎"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "95F3",
+            "4251354"
+        ],
+        "char_code_wubi": "udci",
+        "char_code_cangjie": "lski",
+        "char_code_zhengma": "tlgz",
+        "char_code_sijiao": "37732"
+    },
+    "general_unicode": "基本区 U+95F3",
+    "general_bs_code": "4251354"
+}

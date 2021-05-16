@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "seagull, tern; Larus species (various)"
+        },
+        {
+            "language": "德语",
+            "explanation": "Möwen"
+        },
+        {
+            "language": "法语",
+            "explanation": "mouette,goéland,laridae"
+        }
+    ],
+    "general_pinyins": [
+        "ōu"
+    ],
+    "general_zhuyins": [
+        "ㄡ"
+    ],
+    "general_radical": {
+        "radical": "鸟",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "鷗"
+    ],
+    "general_ytz": [
+        "鷗",
+        "䳼",
+        "𩀫"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E25",
+            "134535451"
+        ],
+        "char_code_wubi": "aqqg|arqg",
+        "char_code_cangjie": "skpym",
+        "char_code_zhengma": "horz",
+        "char_code_sijiao": "77727"
+    },
+    "general_unicode": "基本区 U+9E25",
+    "general_bs_code": "134535451"
+}

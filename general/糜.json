@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rice gruel, congee; mashed"
+        },
+        {
+            "language": "德语",
+            "explanation": "ermordet, gedopt"
+        },
+        {
+            "language": "法语",
+            "explanation": "bouillie de riz,écume,entièrement,millet"
+        }
+    ],
+    "general_pinyins": [
+        "mí",
+        "méi"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧˊ",
+        "ㄇㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "米",
+        "non_radical_sn": "11",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𩞁",
+        "䭧",
+        "𢌑",
+        "𩞇",
+        "𪎖",
+        "𪎭",
+        "𢇲",
+        "𥽼",
+        "𩱸"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7CDC",
+            "41312341234431234"
+        ],
+        "char_code_wubi": "ysso|osso",
+        "char_code_cangjie": "icfd",
+        "char_code_zhengma": "tgfu",
+        "char_code_sijiao": "00294"
+    },
+    "general_unicode": "基本区 U+7CDC",
+    "general_bs_code": "41312341234431234"
+}

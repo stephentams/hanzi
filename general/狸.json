@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fox"
+        },
+        {
+            "language": "德语",
+            "explanation": "Wildkatze"
+        }
+    ],
+    "general_pinyins": [
+        "lí"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "貍",
+        "𧴔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "72F8",
+            "3532511211"
+        ],
+        "char_code_wubi": "qtjf",
+        "char_code_cangjie": "khwg",
+        "char_code_zhengma": "qmkb",
+        "char_code_sijiao": "46215"
+    },
+    "general_unicode": "基本区 U+72F8",
+    "general_bs_code": "3532511211"
+}

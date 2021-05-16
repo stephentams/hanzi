@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "compare with, draw analogy with"
+        },
+        {
+            "language": "德语",
+            "explanation": "nachahmen, fraglich"
+        },
+        {
+            "language": "法语",
+            "explanation": "douteux,suspect,imiter"
+        }
+    ],
+    "general_pinyins": [
+        "nǐ",
+        "yì"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧˇ",
+        "ㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "14",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "疑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5117",
+            "3235311345452134"
+        ],
+        "char_code_wubi": "wxth",
+        "char_code_cangjie": "opko",
+        "char_code_zhengma": "nrxi",
+        "char_code_sijiao": "27281"
+    },
+    "general_unicode": "基本区 U+5117",
+    "general_bs_code": "3235311345452134"
+}

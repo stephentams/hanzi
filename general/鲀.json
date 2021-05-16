@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "blowfish, globefish, Spheroides vermicular"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kugelfisch  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "Takifugu rubripes,tétraodon (family Tetraodontidae)​"
+        }
+    ],
+    "general_pinyins": [
+        "tún"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "4",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "魨"
+    ],
+    "general_ytz": [
+        "魨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9C80",
+            "352512111525"
+        ],
+        "char_code_wubi": "qggn",
+        "char_code_cangjie": "nmpu",
+        "char_code_zhengma": "rhzi",
+        "char_code_sijiao": "25117"
+    },
+    "general_unicode": "基本区 U+9C80",
+    "general_bs_code": "352512111525"
+}

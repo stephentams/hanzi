@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mend, patch, fix, repair, restore"
+        },
+        {
+            "language": "德语",
+            "explanation": "ausbessern, ergänzen, flicken  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "réparer,rapiécer,combler,suppléer,compléter,tonifier,fortifier,avantage"
+        }
+    ],
+    "general_pinyins": [
+        "bǔ"
+    ],
+    "general_zhuyins": [
+        "ㄅㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "衤",
+        "non_radical_sn": "2",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "補"
+    ],
+    "general_ytz": [
+        "補",
+        "䋠",
+        "𢒏",
+        "𢼹"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8865",
+            "4523424"
+        ],
+        "char_code_wubi": "puhy",
+        "char_code_cangjie": "ly",
+        "char_code_zhengma": "wtid",
+        "char_code_sijiao": "33200"
+    },
+    "general_unicode": "基本区 U+8865",
+    "general_bs_code": "4523424"
+}

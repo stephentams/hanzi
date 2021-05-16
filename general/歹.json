@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bad, vicious, depraved, wicked"
+        },
+        {
+            "language": "德语",
+            "explanation": "schlecht  (Adj)​,übel"
+        },
+        {
+            "language": "法语",
+            "explanation": "mauvais,vicieux,78e radical"
+        }
+    ],
+    "general_pinyins": [
+        "dǎi"
+    ],
+    "general_zhuyins": [
+        "ㄉㄞˇ"
+    ],
+    "general_radical": {
+        "radical": "歹",
+        "non_radical_sn": "0",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䚟",
+        "歺",
+        "𠔅",
+        "𡰤",
+        "𡰮",
+        "𣦵",
+        "𣦶",
+        "𠔆",
+        "𠧔",
+        "𣩕",
+        "歹"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6B79",
+            "1354"
+        ],
+        "char_code_wubi": "gqi",
+        "char_code_cangjie": "mni",
+        "char_code_zhengma": "ars",
+        "char_code_sijiao": "10207"
+    },
+    "general_unicode": "基本区 U+6B79",
+    "general_bs_code": "1354"
+}

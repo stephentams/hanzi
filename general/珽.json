@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "jade tablet"
+        },
+        {
+            "language": "德语",
+            "explanation": "Zepter  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "tǐng"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "珵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "73FD",
+            "1121312154"
+        ],
+        "char_code_wubi": "gtfp",
+        "char_code_cangjie": "mgnkg",
+        "char_code_zhengma": "cmby",
+        "char_code_sijiao": "12141"
+    },
+    "general_unicode": "基本区 U+73FD",
+    "general_bs_code": "1121312154"
+}

@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "又",
+        "non_radical_sn": "3",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "服"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "20B28",
+            "52454"
+        ],
+        "char_code_wubi": "bycy",
+        "char_code_cangjie": "sle",
+        "char_code_zhengma": "ysxs"
+    },
+    "general_unicode": "扩展B U+20B28",
+    "general_bs_code": "52454"
+}

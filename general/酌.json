@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "serve wine; feast; deliberate"
+        },
+        {
+            "language": "德语",
+            "explanation": "ansehen, berücksichtigen  (V)​,einschenken, trinken  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "verser,peser,juger"
+        }
+    ],
+    "general_pinyins": [
+        "zhuó"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "酉",
+        "non_radical_sn": "3",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "勺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "914C",
+            "1253511354"
+        ],
+        "char_code_wubi": "sgqy",
+        "char_code_cangjie": "mwpi",
+        "char_code_zhengma": "fdrs",
+        "char_code_sijiao": "17620"
+    },
+    "general_unicode": "基本区 U+914C",
+    "general_bs_code": "1253511354"
+}

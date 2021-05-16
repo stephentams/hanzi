@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bran"
+        },
+        {
+            "language": "法语",
+            "explanation": "son de blé"
+        }
+    ],
+    "general_pinyins": [
+        "fū"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨ"
+    ],
+    "general_radical": {
+        "radical": "麦",
+        "non_radical_sn": "4",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "麩"
+    ],
+    "general_ytz": [
+        "麩",
+        "麬",
+        "麱",
+        "䴸",
+        "𤿲",
+        "𨦶",
+        "𪌐",
+        "𪌻"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9EB8",
+            "11213541134"
+        ],
+        "char_code_wubi": "gqfw|gqgy",
+        "char_code_cangjie": "qeqo",
+        "char_code_zhengma": "cibo",
+        "char_code_sijiao": "55480"
+    },
+    "general_unicode": "基本区 U+9EB8",
+    "general_bs_code": "11213541134"
+}

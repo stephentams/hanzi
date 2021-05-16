@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "法语",
+            "explanation": "tsamba (gâteau tibétain)​"
+        }
+    ],
+    "general_pinyins": [
+        "bā"
+    ],
+    "general_zhuyins": [
+        "ㄅㄚ"
+    ],
+    "general_radical": {
+        "radical": "米",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𩚥"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7C91",
+            "4312345215"
+        ],
+        "char_code_wubi": "ocn",
+        "char_code_cangjie": "fdau",
+        "char_code_zhengma": "ufyi",
+        "char_code_sijiao": "97917"
+    },
+    "general_unicode": "基本区 U+7C91",
+    "general_bs_code": "4312345215"
+}

@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "kneel"
+        },
+        {
+            "language": "德语",
+            "explanation": "hinknien, knien"
+        },
+        {
+            "language": "法语",
+            "explanation": "s'agenouiller"
+        }
+    ],
+    "general_pinyins": [
+        "guì"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "6",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨅠",
+        "𧻜"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8DEA",
+            "2512121351355"
+        ],
+        "char_code_wubi": "khqb",
+        "char_code_cangjie": "rmnmu",
+        "char_code_zhengma": "jigy",
+        "char_code_sijiao": "67112"
+    },
+    "general_unicode": "基本区 U+8DEA",
+    "general_bs_code": "2512121351355"
+}

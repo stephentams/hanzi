@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "append, add to; increase"
+        },
+        {
+            "language": "德语",
+            "explanation": "Zunahme  (S)​,ergänzen, hinzufügen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "ajouter,additionner,augmenter"
+        }
+    ],
+    "general_pinyins": [
+        "tiān"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "沾",
+        "沗",
+        "𣵚",
+        "𣸸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6DFB",
+            "44111342444"
+        ],
+        "char_code_wubi": "igdn",
+        "char_code_cangjie": "ehkp",
+        "char_code_zhengma": "vagu",
+        "char_code_sijiao": "31138"
+    },
+    "general_unicode": "基本区 U+6DFB",
+    "general_bs_code": "44111342444"
+}

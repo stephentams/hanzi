@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "osprey, fishhawk"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fischadler  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "balbuzard pêcheur"
+        }
+    ],
+    "general_pinyins": [
+        "è"
+    ],
+    "general_zhuyins": [
+        "ㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "鸟",
+        "non_radical_sn": "9",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "鶚"
+    ],
+    "general_ytz": [
+        "鶚",
+        "𩀇",
+        "𪀝",
+        "𪄍",
+        "𪅴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E57",
+            "25125111535451"
+        ],
+        "char_code_wubi": "kkfg",
+        "char_code_cangjie": "rspym",
+        "char_code_zhengma": "jjzr",
+        "char_code_sijiao": "67227"
+    },
+    "general_unicode": "基本区 U+9E57",
+    "general_bs_code": "25125111535451"
+}

@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "door; family"
+        }
+    ],
+    "general_pinyins": [
+        "hù"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "户",
+        "non_radical_sn": "0",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "戶",
+        "枦"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6238",
+            "1513"
+        ],
+        "char_code_wubi": "gnr",
+        "char_code_cangjie": "ms",
+        "char_code_zhengma": "axm",
+        "char_code_sijiao": "10207"
+    },
+    "general_unicode": "基本区 U+6238",
+    "general_bs_code": "1513"
+}

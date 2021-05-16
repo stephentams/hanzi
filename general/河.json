@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "river; stream; yellow river"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fluss (S, Geo)​,Trennbereich der zwei Seiten des chinesischen Schachs\""
+        },
+        {
+            "language": "法语",
+            "explanation": "rivière,fleuve"
+        }
+    ],
+    "general_pinyins": [
+        "hé"
+    ],
+    "general_zhuyins": [
+        "ㄏㄜˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢀎",
+        "𤿄",
+        "𤿁"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6CB3",
+            "44112512"
+        ],
+        "char_code_wubi": "iskg",
+        "char_code_cangjie": "emnr",
+        "char_code_zhengma": "vaj",
+        "char_code_sijiao": "31120"
+    },
+    "general_unicode": "基本区 U+6CB3",
+    "general_bs_code": "44112512"
+}

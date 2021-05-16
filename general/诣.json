@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "reach; achievement, accomplishment"
+        },
+        {
+            "language": "德语",
+            "explanation": "akademische Kenntnisse, Fähigkeiten  (S)​,jdm aufsuchen, jdm. besuchen  (V)​,jdm einem Besuch abstatten  (V)​,gehen, führen"
+        },
+        {
+            "language": "法语",
+            "explanation": "aller,arriver"
+        }
+    ],
+    "general_pinyins": [
+        "yì"
+    ],
+    "general_zhuyins": [
+        "ㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "詣"
+    ],
+    "general_ytz": [
+        "詣"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BE3",
+            "45352511"
+        ],
+        "char_code_wubi": "yxjg",
+        "char_code_cangjie": "ivpa",
+        "char_code_zhengma": "srk",
+        "char_code_sijiao": "32761"
+    },
+    "general_unicode": "基本区 U+8BE3",
+    "general_bs_code": "45352511"
+}

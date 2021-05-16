@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "building of two or more stories"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gebäude  (S, Arch)​,Stockwerk, Etage, Geschoss  (S, Arch)​,Turm  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bâtiment,étage,pavillon,maison à étages"
+        }
+    ],
+    "general_pinyins": [
+        "lóu"
+    ],
+    "general_zhuyins": [
+        "ㄌㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "樓"
+    ],
+    "general_ytz": [
+        "樓",
+        "𡳫",
+        "𣏥",
+        "𩫰"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "697C",
+            "1234431234531"
+        ],
+        "char_code_wubi": "sovg",
+        "char_code_cangjie": "dfdv",
+        "char_code_zhengma": "fuzm",
+        "char_code_sijiao": "49944"
+    },
+    "general_unicode": "基本区 U+697C",
+    "general_bs_code": "1234431234531"
+}

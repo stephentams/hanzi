@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "spinach and similar greens"
+        },
+        {
+            "language": "法语",
+            "explanation": "chou"
+        }
+    ],
+    "general_pinyins": [
+        "bō"
+    ],
+    "general_zhuyins": [
+        "ㄅㄛ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "83E0",
+            "12244153254"
+        ],
+        "char_code_wubi": "aihc|aibu",
+        "char_code_cangjie": "tede",
+        "char_code_zhengma": "evxi",
+        "char_code_sijiao": "44147"
+    },
+    "general_unicode": "基本区 U+83E0",
+    "general_bs_code": "12244153254"
+}

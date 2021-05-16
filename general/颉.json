@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fly upward, soar; contest"
+        },
+        {
+            "language": "德语",
+            "explanation": "knutschen, Ausschnitt  (S)​,Xie  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "confisquer,(animal légendaire semblable à chien)​"
+        }
+    ],
+    "general_pinyins": [
+        "jié",
+        "xié",
+        "jiá"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄝˊ",
+        "ㄒㄧㄝˊ",
+        "ㄐㄧㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "页",
+        "non_radical_sn": "6",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "頡"
+    ],
+    "general_ytz": [
+        "頡"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9889",
+            "121251132534"
+        ],
+        "char_code_wubi": "fkdm",
+        "char_code_cangjie": "grmbo",
+        "char_code_zhengma": "bjgo",
+        "char_code_sijiao": "41682"
+    },
+    "general_unicode": "基本区 U+9889",
+    "general_bs_code": "121251132534"
+}

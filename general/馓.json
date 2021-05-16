@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fried round cakes of wheat flour"
+        },
+        {
+            "language": "德语",
+            "explanation": "Weizenmehl-Kuchen  (S, Ess)"
+        }
+    ],
+    "general_pinyins": [
+        "sǎn"
+    ],
+    "general_zhuyins": [
+        "ㄙㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "饣",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "饊"
+    ],
+    "general_ytz": [
+        "饊",
+        "糤",
+        "𩟴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9993",
+            "355122125113134"
+        ],
+        "char_code_wubi": "qnat",
+        "char_code_cangjie": "nvtbk",
+        "char_code_zhengma": "oxqm",
+        "char_code_sijiao": "28740"
+    },
+    "general_unicode": "基本区 U+9993",
+    "general_bs_code": "355122125113134"
+}

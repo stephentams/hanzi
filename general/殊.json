@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "different, special, unusual"
+        },
+        {
+            "language": "德语",
+            "explanation": "ungewöhnlich, einzig"
+        },
+        {
+            "language": "法语",
+            "explanation": "différent,extraordinaire,particulier"
+        }
+    ],
+    "general_pinyins": [
+        "shū"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨ"
+    ],
+    "general_radical": {
+        "radical": "歹",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡥛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6B8A",
+            "1354311234"
+        ],
+        "char_code_wubi": "gqri|gqtf",
+        "char_code_cangjie": "mnhjd",
+        "char_code_zhengma": "armk",
+        "char_code_sijiao": "15290"
+    },
+    "general_unicode": "基本区 U+6B8A",
+    "general_bs_code": "1354311234"
+}

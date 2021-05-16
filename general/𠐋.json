@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "liáo"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "15",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2040B",
+            "32354154154134333"
+        ],
+        "char_code_wubi": "wene",
+        "char_code_cangjie": "obsh",
+        "char_code_zhengma": "nqop"
+    },
+    "general_unicode": "扩展B U+2040B",
+    "general_bs_code": "32354154154134333"
+}

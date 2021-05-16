@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fat, grease, lard; grease"
+        },
+        {
+            "language": "法语",
+            "explanation": "graisse"
+        }
+    ],
+    "general_pinyins": [
+        "zhī"
+    ],
+    "general_zhuyins": [
+        "ㄓ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧹛",
+        "指"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8102",
+            "3511352511"
+        ],
+        "char_code_wubi": "exjg",
+        "char_code_cangjie": "bpa",
+        "char_code_zhengma": "qrk",
+        "char_code_sijiao": "72261"
+    },
+    "general_unicode": "基本区 U+8102",
+    "general_bs_code": "3511352511"
+}

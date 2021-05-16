@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "choose, select; elect; election"
+        },
+        {
+            "language": "德语",
+            "explanation": "wählen, auswählen, aussuchen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "choisir,sélectionner,élire,choix,sélection"
+        }
+    ],
+    "general_pinyins": [
+        "xuǎn"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "選"
+    ],
+    "general_ytz": [
+        "選",
+        "𨕖",
+        "𨓟"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9009",
+            "312135454"
+        ],
+        "char_code_wubi": "tfqp",
+        "char_code_cangjie": "yhgu",
+        "char_code_zhengma": "mbrw",
+        "char_code_sijiao": "34301"
+    },
+    "general_unicode": "基本区 U+9009",
+    "general_bs_code": "312135454"
+}

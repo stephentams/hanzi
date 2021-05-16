@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "an ancient feudal State in Shaanxi"
+        },
+        {
+            "language": "德语",
+            "explanation": "Xun  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom d'un état féodal)​"
+        }
+    ],
+    "general_pinyins": [
+        "xún",
+        "huán"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄣˊ",
+        "ㄏㄨㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨜬",
+        "𨝁"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "90C7",
+            "35251152"
+        ],
+        "char_code_wubi": "qjbh",
+        "char_code_cangjie": "panl",
+        "char_code_zhengma": "ryky",
+        "char_code_sijiao": "27627"
+    },
+    "general_unicode": "基本区 U+90C7",
+    "general_bs_code": "35251152"
+}

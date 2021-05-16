@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ceremonial dress worn by the emperor"
+        },
+        {
+            "language": "法语",
+            "explanation": "robe impériale"
+        }
+    ],
+    "general_pinyins": [
+        "gǔn"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "衣",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "袞"
+    ],
+    "general_ytz": [
+        "䙛",
+        "卷",
+        "緷",
+        "袞",
+        "𢃩",
+        "𧙰",
+        "𧚹",
+        "𧟏",
+        "𧟗"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "886E",
+            "4134543534"
+        ],
+        "char_code_wubi": "uceu",
+        "char_code_cangjie": "ycihv",
+        "char_code_zhengma": "sozr",
+        "char_code_sijiao": "00732"
+    },
+    "general_unicode": "基本区 U+886E",
+    "general_bs_code": "4134543534"
+}

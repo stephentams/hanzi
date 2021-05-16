@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "the sound of a crash"
+        },
+        {
+            "language": "法语",
+            "explanation": "(bruit d'une collision)​"
+        }
+    ],
+    "general_pinyins": [
+        "hōng"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄥ"
+    ],
+    "general_radical": {
+        "radical": "言",
+        "non_radical_sn": "2",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "哼",
+        "輷",
+        "轟",
+        "𠣭",
+        "𧥺",
+        "𧥻"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8A07",
+            "354111251"
+        ],
+        "char_code_wubi": "qyd",
+        "char_code_cangjie": "pymr",
+        "char_code_zhengma": "rys",
+        "char_code_sijiao": "27620"
+    },
+    "general_unicode": "基本区 U+8A07",
+    "general_bs_code": "354111251"
+}

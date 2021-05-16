@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "night, evening; late"
+        },
+        {
+            "language": "德语",
+            "explanation": "abends  (Adv)​,spät  (Adv)​,Abend ,der später Geborene; Ihr sehr ergebener ..."
+        },
+        {
+            "language": "法语",
+            "explanation": "tard,soir,nuit"
+        }
+    ],
+    "general_pinyins": [
+        "wǎn"
+    ],
+    "general_zhuyins": [
+        "ㄨㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "晩",
+        "𣆛",
+        "𣆶",
+        "𣇋"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "665A",
+            "25113525135"
+        ],
+        "char_code_wubi": "jqkq",
+        "char_code_cangjie": "anau",
+        "char_code_zhengma": "krjr",
+        "char_code_sijiao": "67012"
+    },
+    "general_unicode": "基本区 U+665A",
+    "general_bs_code": "25113525135"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "page, boy servant"
+        },
+        {
+            "language": "德语",
+            "explanation": "Knabe  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "adolescent,jeune serviteur,garçon,serveur"
+        }
+    ],
+    "general_pinyins": [
+        "tóng",
+        "zhuàng"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄥˊ",
+        "ㄓㄨㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "12",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "偅",
+        "壯",
+        "獞"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "50EE",
+            "32414312511211"
+        ],
+        "char_code_wubi": "wujf",
+        "char_code_cangjie": "oytg",
+        "char_code_zhengma": "nskb",
+        "char_code_sijiao": "20215"
+    },
+    "general_unicode": "基本区 U+50EE",
+    "general_bs_code": "32414312511211"
+}

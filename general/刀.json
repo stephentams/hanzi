@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "knife; old coin; measure"
+        },
+        {
+            "language": "德语",
+            "explanation": "(刀状的东西)​ messerförmiges Gerät (S)​, (切、割的工具)​ Messer (S)​, (指兵器)​ (einschneidige)​ Hiebwaffe, Säbel, Schwert (S)​,hundert Bogen (Papier)​ (Zähl)​,Dao (Eig, Fam)​,Radikal Nr. 18 = Messer, Schwert, Hiebwaffe, Säbel (Varianten: 刁, 刂)​ (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "couteau,sabre"
+        }
+    ],
+    "general_pinyins": [
+        "dāo"
+    ],
+    "general_zhuyins": [
+        "ㄉㄠˉ"
+    ],
+    "general_radical": {
+        "radical": "刀",
+        "non_radical_sn": "0",
+        "total_sn": "2"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "刂",
+        "釖",
+        "刁"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5200",
+            "53"
+        ],
+        "char_code_wubi": "vnt",
+        "char_code_cangjie": "sh",
+        "char_code_zhengma": "yd",
+        "char_code_sijiao": "17220"
+    },
+    "general_unicode": "基本区 U+5200",
+    "general_bs_code": "53"
+}

@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hesitate, falter, be undecided"
+        },
+        {
+            "language": "法语",
+            "explanation": "hésiter,irrésolu"
+        }
+    ],
+    "general_pinyins": [
+        "chú"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "11",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "踱",
+        "𢣵",
+        "𣦈",
+        "𣦡"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E87",
+            "251212112212132511"
+        ],
+        "char_code_wubi": "khaj",
+        "char_code_cangjie": "rmtja",
+        "char_code_zhengma": "jieb",
+        "char_code_sijiao": "64164"
+    },
+    "general_unicode": "基本区 U+8E87",
+    "general_bs_code": "251212112212132511"
+}

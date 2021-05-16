@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "flowing hair of young child"
+        },
+        {
+            "language": "德语",
+            "explanation": "Mähne, Pony (Haar)​  (V)​,modisch, elegant  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "à la mode,crinière"
+        }
+    ],
+    "general_pinyins": [
+        "máo"
+    ],
+    "general_zhuyins": [
+        "ㄇㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "髟",
+        "non_radical_sn": "4",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "牦",
+        "髳",
+        "𨱞",
+        "𨱢",
+        "𩫷",
+        "𩭾",
+        "𣬾"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9AE6",
+            "12111543333115"
+        ],
+        "char_code_wubi": "detn|deeb",
+        "char_code_cangjie": "shhqu",
+        "char_code_zhengma": "chmh",
+        "char_code_sijiao": "72714"
+    },
+    "general_unicode": "基本区 U+9AE6",
+    "general_bs_code": "12111543333115"
+}

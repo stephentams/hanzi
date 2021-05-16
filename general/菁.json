@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "flower of leek family; turnip"
+        },
+        {
+            "language": "德语",
+            "explanation": "grün, frisch, sauber, klar  (Adj)​,prächtig, gut  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "fleur de poireau,cyanine"
+        }
+    ],
+    "general_pinyins": [
+        "jīng"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄥ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "83C1",
+            "12211212511"
+        ],
+        "char_code_wubi": "agef",
+        "char_code_cangjie": "tqmb",
+        "char_code_zhengma": "ecq",
+        "char_code_sijiao": "44227"
+    },
+    "general_unicode": "基本区 U+83C1",
+    "general_bs_code": "12211212511"
+}

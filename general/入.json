@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "enter, come in(to), join"
+        },
+        {
+            "language": "德语",
+            "explanation": "hinein, herein ,Radikal Nr. 11 = eintreten, betreten,"
+        },
+        {
+            "language": "法语",
+            "explanation": "entrer,adhérer,entrée,revenu"
+        }
+    ],
+    "general_pinyins": [
+        "rù"
+    ],
+    "general_zhuyins": [
+        "ㄖㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "入",
+        "non_radical_sn": "0",
+        "total_sn": "2"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5165",
+            "34"
+        ],
+        "char_code_wubi": "tyi",
+        "char_code_cangjie": "oh",
+        "char_code_zhengma": "oda",
+        "char_code_sijiao": "80000"
+    },
+    "general_unicode": "基本区 U+5165",
+    "general_bs_code": "34"
+}

@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "river in Hubei province"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom d'une rivière)​"
+        }
+    ],
+    "general_pinyins": [
+        "zhà"
+    ],
+    "general_zhuyins": [
+        "ㄓㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "渣",
+        "𤁺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6EA0",
+            "441431113121"
+        ],
+        "char_code_wubi": "iuda|iuag",
+        "char_code_cangjie": "etqm",
+        "char_code_zhengma": "vubi",
+        "char_code_sijiao": "38112"
+    },
+    "general_unicode": "基本区 U+6EA0",
+    "general_bs_code": "441431113121"
+}

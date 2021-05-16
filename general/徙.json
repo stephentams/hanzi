@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "move one's abode, shift, migrate"
+        },
+        {
+            "language": "德语",
+            "explanation": "Wohnsitz wechseln ,umziehen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "se déplacer,déménager"
+        }
+    ],
+    "general_pinyins": [
+        "xǐ"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "彳",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡕝",
+        "𡲴",
+        "𢒲",
+        "𢓊",
+        "𨑭",
+        "𨔀",
+        "𨖤",
+        "𨗬",
+        "𢊚"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F99",
+            "33221212134"
+        ],
+        "char_code_wubi": "thhy",
+        "char_code_cangjie": "hoylo",
+        "char_code_zhengma": "oiii",
+        "char_code_sijiao": "21281"
+    },
+    "general_unicode": "基本区 U+5F99",
+    "general_bs_code": "33221212134"
+}

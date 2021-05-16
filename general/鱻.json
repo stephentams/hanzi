@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fresh, new, delicious; rare, few"
+        }
+    ],
+    "general_pinyins": [
+        "xiān"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "魚",
+        "non_radical_sn": "22",
+        "total_sn": "33"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "鮮"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9C7B",
+            "352512144443525121444435251214444"
+        ],
+        "char_code_wubi": "qoqo",
+        "char_code_cangjie": "nfnff",
+        "char_code_zhengma": "rrr",
+        "char_code_sijiao": "27336"
+    },
+    "general_unicode": "基本区 U+9C7B",
+    "general_bs_code": "352512144443525121444435251214444"
+}

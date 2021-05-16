@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "法语",
+            "explanation": "look askance at, glare at"
+        }
+    ],
+    "general_pinyins": [
+        "bì",
+        "pì"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧˋ",
+        "ㄆㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䁹",
+        "睤",
+        "𥋑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7765",
+            "2511132511312"
+        ],
+        "char_code_wubi": "hrtf",
+        "char_code_cangjie": "buhwj",
+        "char_code_zhengma": "lned",
+        "char_code_sijiao": "66040"
+    },
+    "general_unicode": "基本区 U+7765",
+    "general_bs_code": "2511132511312"
+}

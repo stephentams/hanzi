@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "white (silk); plain; vegetarian; formerly; normally"
+        },
+        {
+            "language": "德语",
+            "explanation": "Element  (S)​,Gemüse  (S, Ess)​,einfach, schlicht, schmucklos  (Adj)​,einfarbig  (Adj)​,vegetarisch  (Adj, Ess)​,Su  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "simple,blanc,végétarien,maigre,toujours,élément"
+        }
+    ],
+    "general_pinyins": [
+        "sù"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "糸",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㕖",
+        "愫",
+        "榡",
+        "𤠚",
+        "𦁘",
+        "𦃃",
+        "𦃚",
+        "𦅪",
+        "𩝥"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7D20",
+            "1121554234"
+        ],
+        "char_code_wubi": "gxiu",
+        "char_code_cangjie": "qmvif",
+        "char_code_zhengma": "ciz",
+        "char_code_sijiao": "50903"
+    },
+    "general_unicode": "基本区 U+7D20",
+    "general_bs_code": "1121554234"
+}

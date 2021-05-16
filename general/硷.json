@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "alkaline, alkali, lye, salt"
+        }
+    ],
+    "general_pinyins": [
+        "jiǎn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "礆",
+        "鹼"
+    ],
+    "general_ytz": [
+        "鹼",
+        "礆",
+        "鹻"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7877",
+            "132513414431"
+        ],
+        "char_code_wubi": "dwgi|dwgg",
+        "char_code_cangjie": "mromm",
+        "char_code_zhengma": "gobv",
+        "char_code_sijiao": "18619"
+    },
+    "general_unicode": "基本区 U+7877",
+    "general_bs_code": "132513414431"
+}

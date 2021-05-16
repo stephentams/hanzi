@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "shape of the mountain, a mountain in today's Shandong Province"
+        }
+    ],
+    "general_pinyins": [
+        "lǎo",
+        "zé",
+        "zhái"
+    ],
+    "general_zhuyins": [
+        "ㄌㄠˇ",
+        "ㄗㄜˊ",
+        "ㄓㄞˊ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡽞"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "37D9",
+            "25212212511"
+        ],
+        "char_code_wubi": "majg",
+        "char_code_cangjie": "uta",
+        "char_code_zhengma": "llek",
+        "char_code_sijiao": "24761"
+    },
+    "general_unicode": "扩展A U+37D9",
+    "general_bs_code": "25212212511"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "poor, impoverished, needy"
+        },
+        {
+            "language": "法语",
+            "explanation": "pauvre,bavard,ennuyeux"
+        }
+    ],
+    "general_pinyins": [
+        "pín"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "貧"
+    ],
+    "general_ytz": [
+        "貧",
+        "𡧋",
+        "𥥄"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D2B",
+            "34532534"
+        ],
+        "char_code_wubi": "wvmu",
+        "char_code_cangjie": "csho",
+        "char_code_zhengma": "oylo",
+        "char_code_sijiao": "80802"
+    },
+    "general_unicode": "基本区 U+8D2B",
+    "general_bs_code": "34532534"
+}

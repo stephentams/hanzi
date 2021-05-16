@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "surname; bee-like insect"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fan  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "modèle,exemple,(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "fàn"
+    ],
+    "general_zhuyins": [
+        "ㄈㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "範"
+    ],
+    "general_ytz": [
+        "𣔶",
+        "𦴮",
+        "範",
+        "笵"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8303",
+            "12244155"
+        ],
+        "char_code_wubi": "aibb",
+        "char_code_cangjie": "tesu",
+        "char_code_zhengma": "evyy",
+        "char_code_sijiao": "44112"
+    },
+    "general_unicode": "基本区 U+8303",
+    "general_bs_code": "12244155"
+}

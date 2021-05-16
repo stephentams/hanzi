@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lonely, solitary; actor"
+        },
+        {
+            "language": "德语",
+            "explanation": "klug, geschickt"
+        },
+        {
+            "language": "法语",
+            "explanation": "acteur,comédien"
+        }
+    ],
+    "general_pinyins": [
+        "líng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "刢"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4F36",
+            "3234454"
+        ],
+        "char_code_wubi": "wwyc",
+        "char_code_cangjie": "ooii",
+        "char_code_zhengma": "now",
+        "char_code_sijiao": "28232"
+    },
+    "general_unicode": "基本区 U+4F36",
+    "general_bs_code": "3234454"
+}

@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "powerful and influential group"
+        },
+        {
+            "language": "法语",
+            "explanation": "valve,vanne"
+        }
+    ],
+    "general_pinyins": [
+        "fá"
+    ],
+    "general_zhuyins": [
+        "ㄈㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "门",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "閥"
+    ],
+    "general_ytz": [
+        "閥"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9600",
+            "425321534"
+        ],
+        "char_code_wubi": "uwae|uwai",
+        "char_code_cangjie": "lsoi",
+        "char_code_zhengma": "tlnh",
+        "char_code_sijiao": "37253"
+    },
+    "general_unicode": "基本区 U+9600",
+    "general_bs_code": "425321534"
+}

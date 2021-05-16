@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "afar, distant; old, advanced in"
+        },
+        {
+            "language": "德语",
+            "explanation": "entfernt, fern"
+        },
+        {
+            "language": "法语",
+            "explanation": "loin,éloigné,long,de longue durée"
+        }
+    ],
+    "general_pinyins": [
+        "xiá"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "徦"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9050",
+            "512115154454"
+        ],
+        "char_code_wubi": "nhfp",
+        "char_code_cangjie": "yrse",
+        "char_code_zhengma": "wxxx",
+        "char_code_sijiao": "37304"
+    },
+    "general_unicode": "基本区 U+9050",
+    "general_bs_code": "512115154454"
+}

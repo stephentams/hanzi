@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a flea; species of beetle"
+        },
+        {
+            "language": "德语",
+            "explanation": "Floh  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "puce (insecte)​"
+        }
+    ],
+    "general_pinyins": [
+        "gè"
+    ],
+    "general_zhuyins": [
+        "ㄍㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "3",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "867C",
+            "251214315"
+        ],
+        "char_code_wubi": "jtnn",
+        "char_code_cangjie": "lion",
+        "char_code_zhengma": "imyd",
+        "char_code_sijiao": "58117"
+    },
+    "general_unicode": "基本区 U+867C",
+    "general_bs_code": "251214315"
+}

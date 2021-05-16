@@ -1,0 +1,69 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "difficult, arduous, hard; unable"
+        },
+        {
+            "language": "德语",
+            "explanation": "schwer, schwierig  (Adj)​,Nan  (Eig, Fam)​,ausschimpfen, schelten ,Desaster, Katastrophe  (S)​,hart  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "difficile,ennuyeux,fatigant,désastre,détresse,clamité,infortune,malheur"
+        }
+    ],
+    "general_pinyins": [
+        "nán",
+        "nàn",
+        "nuó"
+    ],
+    "general_zhuyins": [
+        "ㄋㄢˊ",
+        "ㄋㄢˋ",
+        "ㄋㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "隹",
+        "non_radical_sn": "2",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "難"
+    ],
+    "general_ytz": [
+        "難",
+        "𨿻",
+        "𩀏",
+        "𩀙",
+        "𩀡",
+        "𩀤",
+        "𩁚",
+        "𩁢",
+        "𩁣",
+        "𩁤",
+        "𩁩",
+        "𩁪",
+        "𩁬",
+        "𩁮",
+        "𩁲",
+        "𩁳",
+        "𪄿",
+        "𪅀",
+        "𪇠",
+        "𪇼"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "96BE",
+            "5432411121"
+        ],
+        "char_code_wubi": "cwyg",
+        "char_code_cangjie": "eog",
+        "char_code_zhengma": "xsni",
+        "char_code_sijiao": "70415"
+    },
+    "general_unicode": "基本区 U+96BE",
+    "general_bs_code": "5432411121"
+}

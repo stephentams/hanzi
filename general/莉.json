@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "white jasmine"
+        },
+        {
+            "language": "德语",
+            "explanation": "Jasmin  (Bio)​,Kornelkirsche  (S, Bio)​,Cornus mas  (Eig, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "jasmin"
+        }
+    ],
+    "general_pinyins": [
+        "lì"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "菞"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8389",
+            "1223123422"
+        ],
+        "char_code_wubi": "atjj",
+        "char_code_cangjie": "thdn",
+        "char_code_zhengma": "emkd",
+        "char_code_sijiao": "44920"
+    },
+    "general_unicode": "基本区 U+8389",
+    "general_bs_code": "1223123422"
+}

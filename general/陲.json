@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "frontier, border"
+        },
+        {
+            "language": "法语",
+            "explanation": "frontière"
+        }
+    ],
+    "general_pinyins": [
+        "chuí"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨼦",
+        "𨺪",
+        "垂"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9672",
+            "5231212211"
+        ],
+        "char_code_wubi": "btgf",
+        "char_code_cangjie": "nlhjm",
+        "char_code_zhengma": "ymeb",
+        "char_code_sijiao": "72215"
+    },
+    "general_unicode": "基本区 U+9672",
+    "general_bs_code": "5231212211"
+}

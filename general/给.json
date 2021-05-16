@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "give; by, for"
+        },
+        {
+            "language": "德语",
+            "explanation": "geben, gewähren, tun für jemanden  (V)​,für  (Präp)"
+        },
+        {
+            "language": "法语",
+            "explanation": "fournir,approvisionner,ample,bien pourvu de,pour,donner,offrir,accorder,laisser,permettre"
+        }
+    ],
+    "general_pinyins": [
+        "gěi",
+        "jǐ"
+    ],
+    "general_zhuyins": [
+        "ㄍㄟˇ",
+        "ㄐㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "給"
+    ],
+    "general_ytz": [
+        "給"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7ED9",
+            "551341251"
+        ],
+        "char_code_wubi": "xwgk",
+        "char_code_cangjie": "vmomr",
+        "char_code_zhengma": "zoaj",
+        "char_code_sijiao": "28161"
+    },
+    "general_unicode": "基本区 U+7ED9",
+    "general_bs_code": "551341251"
+}

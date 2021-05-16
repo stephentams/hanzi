@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "Caprimulgus indicus"
+        }
+    ],
+    "general_pinyins": [
+        "tián"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "鳥",
+        "non_radical_sn": "10",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "鷆"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9DCF",
+            "122511113432511154444"
+        ],
+        "char_code_wubi": "fhwo",
+        "char_code_cangjie": "jchaf",
+        "char_code_zhengma": "edor",
+        "char_code_sijiao": "47827"
+    },
+    "general_unicode": "基本区 U+9DCF",
+    "general_bs_code": "122511113432511154444"
+}

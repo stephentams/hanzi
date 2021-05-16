@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "any thick fluid; starch; broth"
+        },
+        {
+            "language": "德语",
+            "explanation": "etw. dickflussiges, Flüssigkeit zähere Konsistenz  (S)​,stärken  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "eau de riz,sirop,pus,pâte,plasma,jus,encollage,bouillie"
+        }
+    ],
+    "general_pinyins": [
+        "jiāng",
+        "jiàng"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄤ",
+        "ㄐㄧㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "水",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "漿"
+    ],
+    "general_ytz": [
+        "漿",
+        "䊢",
+        "𤕯",
+        "𤖅",
+        "𩝫",
+        "𩝴"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6D46",
+            "4123542534"
+        ],
+        "char_code_wubi": "uqiu",
+        "char_code_cangjie": "lne",
+        "char_code_zhengma": "tirk",
+        "char_code_sijiao": "37902"
+    },
+    "general_unicode": "基本区 U+6D46",
+    "general_bs_code": "4123542534"
+}

@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "scratch; clutch, seize, grab"
+        },
+        {
+            "language": "德语",
+            "explanation": "verhaften, einsperren, festhalten ,Festnahmen ,Gekritzel  (S)​,aufhalten, anhalten  (V)​,fesseln  (V)​,grabschen, grapschen  (V)​,krabbeln  (V)​,kratzen  (V)​,packen  (V)​,scratchst  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "saisir,gratter,griffer,attraper,arrêter"
+        }
+    ],
+    "general_pinyins": [
+        "zhuā"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨㄚ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6293",
+            "1213324"
+        ],
+        "char_code_wubi": "rrhy",
+        "char_code_cangjie": "qhlo",
+        "char_code_zhengma": "dpv",
+        "char_code_sijiao": "52030"
+    },
+    "general_unicode": "基本区 U+6293",
+    "general_bs_code": "1213324"
+}

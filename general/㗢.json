@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "loquacious, the sound of singing, to sing in a loud voice, loud"
+        }
+    ],
+    "general_pinyins": [
+        "dòng",
+        "hóng"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨㄥˋ",
+        "ㄏㄨㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "35E2",
+            "25131251121153"
+        ],
+        "char_code_wubi": "ktgl|ktge",
+        "char_code_cangjie": "rhgs",
+        "char_code_zhengma": "jmby",
+        "char_code_sijiao": "64027"
+    },
+    "general_unicode": "扩展A U+35E2",
+    "general_bs_code": "25131251121153"
+}

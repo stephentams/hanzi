@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "argue; biased; one-sided"
+        },
+        {
+            "language": "德语",
+            "explanation": "schmeicheln"
+        },
+        {
+            "language": "法语",
+            "explanation": "demi-vérité,flatter,oblique,inexact"
+        }
+    ],
+    "general_pinyins": [
+        "bì"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "詖"
+    ],
+    "general_ytz": [
+        "詖",
+        "𧫸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BD0",
+            "4553254"
+        ],
+        "char_code_wubi": "yhcy|yby",
+        "char_code_cangjie": "ivdhe",
+        "char_code_zhengma": "sxi",
+        "char_code_sijiao": "34747"
+    },
+    "general_unicode": "基本区 U+8BD0",
+    "general_bs_code": "4553254"
+}

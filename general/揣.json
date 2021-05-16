@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "put things under clothes"
+        },
+        {
+            "language": "法语",
+            "explanation": "tenir qch dans ses vêtements,mettre dans (ses poches, vêtements, etc.)​,chercher à tâtons,estimer,conjecturer"
+        }
+    ],
+    "general_pinyins": [
+        "chuǎi",
+        "chuài",
+        "chuāi",
+        "tuán",
+        "zhuī"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨㄞˇ",
+        "ㄔㄨㄞˋ",
+        "ㄔㄨㄞ",
+        "ㄊㄨㄢˊ",
+        "ㄓㄨㄟ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㪜",
+        "𢭍",
+        "𢰚",
+        "𢵦",
+        "𢯍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "63E3",
+            "121252132522"
+        ],
+        "char_code_wubi": "rmdj",
+        "char_code_cangjie": "qumb",
+        "char_code_zhengma": "dlgl",
+        "char_code_sijiao": "52027"
+    },
+    "general_unicode": "基本区 U+63E3",
+    "general_bs_code": "121252132522"
+}

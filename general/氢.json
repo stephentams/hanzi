@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ammonia; hydrogen nitride"
+        },
+        {
+            "language": "德语",
+            "explanation": "Hydrogen (S, Chem)​,Wasserstoff (Element 1, H)​ (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "hydrogène"
+        }
+    ],
+    "general_pinyins": [
+        "qīng"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄥ"
+    ],
+    "general_radical": {
+        "radical": "气",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "氫"
+    ],
+    "general_ytz": [
+        "氫",
+        "𣱮"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6C22",
+            "311554121"
+        ],
+        "char_code_wubi": "rnca|rcad",
+        "char_code_cangjie": "onnom",
+        "char_code_zhengma": "myxb",
+        "char_code_sijiao": "80117"
+    },
+    "general_unicode": "基本区 U+6C22",
+    "general_bs_code": "311554121"
+}

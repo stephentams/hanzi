@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "smoke, fog, vapor; smoke, cure"
+        }
+    ],
+    "general_pinyins": [
+        "xūn",
+        "xùn"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄣ",
+        "ㄒㄩㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "灬",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "曛",
+        "焄",
+        "燻",
+        "𡴦",
+        "𡽽",
+        "𤑕",
+        "𤋱"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "718F",
+            "31254312114444"
+        ],
+        "char_code_wubi": "tglo",
+        "char_code_cangjie": "hgf",
+        "char_code_zhengma": "mebu",
+        "char_code_sijiao": "20331"
+    },
+    "general_unicode": "基本区 U+718F",
+    "general_bs_code": "31254312114444"
+}

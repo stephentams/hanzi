@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "chronic disease"
+        },
+        {
+            "language": "德语",
+            "explanation": "chronisch, hartnäckig, unheilbar, eingefleischt  (Adj, Med)"
+        },
+        {
+            "language": "法语",
+            "explanation": "maladie incurable"
+        }
+    ],
+    "general_pinyins": [
+        "gù"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㽽",
+        "固"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "75FC",
+            "4134125122511"
+        ],
+        "char_code_wubi": "uldd",
+        "char_code_cangjie": "kwjr",
+        "char_code_zhengma": "tjej",
+        "char_code_sijiao": "00160"
+    },
+    "general_unicode": "基本区 U+75FC",
+    "general_bs_code": "4134125122511"
+}

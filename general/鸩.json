@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a bird resembling the secretary falcon"
+        },
+        {
+            "language": "德语",
+            "explanation": "giftig, gifthaltig ,vergiften"
+        },
+        {
+            "language": "法语",
+            "explanation": "venin"
+        }
+    ],
+    "general_pinyins": [
+        "zhèn"
+    ],
+    "general_zhuyins": [
+        "ㄓㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "鸟",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "鴆"
+    ],
+    "general_ytz": [
+        "鴆",
+        "䧵",
+        "䲴",
+        "𩾺",
+        "𪀩"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E29",
+            "453535451"
+        ],
+        "char_code_wubi": "pqqg",
+        "char_code_cangjie": "lupym",
+        "char_code_zhengma": "wwrr",
+        "char_code_sijiao": "47027"
+    },
+    "general_unicode": "基本区 U+9E29",
+    "general_bs_code": "453535451"
+}

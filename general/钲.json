@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "kind of gong used in ancient times by troops on the march"
+        }
+    ],
+    "general_pinyins": [
+        "zhēng",
+        "zhèng"
+    ],
+    "general_zhuyins": [
+        "ㄓㄥ",
+        "ㄓㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "鉦"
+    ],
+    "general_ytz": [
+        "鉦"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94B2",
+            "3111512121"
+        ],
+        "char_code_wubi": "qghg",
+        "char_code_cangjie": "opmym",
+        "char_code_zhengma": "paii",
+        "char_code_sijiao": "81711"
+    },
+    "general_unicode": "基本区 U+94B2",
+    "general_bs_code": "3111512121"
+}

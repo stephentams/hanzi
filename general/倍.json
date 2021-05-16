@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "times, fold, multiple times"
+        },
+        {
+            "language": "德语",
+            "explanation": "(2-3-4)​ -fach  (Adj)​, -mal (Multiplikator)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "fois,double,multiplier"
+        }
+    ],
+    "general_pinyins": [
+        "bèi"
+    ],
+    "general_zhuyins": [
+        "ㄅㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠊑",
+        "𠋭",
+        "𧴥",
+        "背"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "500D",
+            "3241431251"
+        ],
+        "char_code_wubi": "wukg",
+        "char_code_cangjie": "oytr",
+        "char_code_zhengma": "nsj",
+        "char_code_sijiao": "20261"
+    },
+    "general_unicode": "基本区 U+500D",
+    "general_bs_code": "3241431251"
+}

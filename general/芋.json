@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "taro"
+        },
+        {
+            "language": "德语",
+            "explanation": "Taro"
+        },
+        {
+            "language": "法语",
+            "explanation": "taro,Arum,tubercules comestibles"
+        }
+    ],
+    "general_pinyins": [
+        "yù"
+    ],
+    "general_zhuyins": [
+        "ㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "芌"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "828B",
+            "122112"
+        ],
+        "char_code_wubi": "agfj",
+        "char_code_cangjie": "tmd",
+        "char_code_zhengma": "ead",
+        "char_code_sijiao": "44401"
+    },
+    "general_unicode": "基本区 U+828B",
+    "general_bs_code": "122112"
+}

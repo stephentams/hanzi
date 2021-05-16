@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "shine, illuminate; cover, envelope"
+        },
+        {
+            "language": "德语",
+            "explanation": "verhüllen"
+        },
+        {
+            "language": "法语",
+            "explanation": "couvrir,envelopper"
+        }
+    ],
+    "general_pinyins": [
+        "dào"
+    ],
+    "general_zhuyins": [
+        "ㄉㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "灬",
+        "non_radical_sn": "14",
+        "total_sn": "18"
+    },
+    "general_stc": [
+        "焘"
+    ],
+    "general_ytz": [
+        "濤",
+        "焘"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "71FE",
+            "121512112511244444"
+        ],
+        "char_code_wubi": "fnao",
+        "char_code_cangjie": "gnmf",
+        "char_code_zhengma": "bxdu",
+        "char_code_sijiao": "40334"
+    },
+    "general_unicode": "基本区 U+71FE",
+    "general_bs_code": "121512112511244444"
+}

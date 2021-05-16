@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "gate, door, entrance, opening"
+        },
+        {
+            "language": "德语",
+            "explanation": "Tor, Eingang, Tür, Gate; Stamm 法语 porte,entrée,voie,moyen,famille (classification)​,école (de pensée)​,classe,catégorie,(classificateur pour les branches du savoir, les domaines de la connaissance, les sciences, les techniques)​"
+        }
+    ],
+    "general_pinyins": [
+        "mén"
+    ],
+    "general_zhuyins": [
+        "ㄇㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "门",
+        "non_radical_sn": "0",
+        "total_sn": "3"
+    },
+    "general_stc": [
+        "門"
+    ],
+    "general_ytz": [
+        "門",
+        "閅"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "95E8",
+            "425"
+        ],
+        "char_code_wubi": "uyhn",
+        "char_code_cangjie": "lis",
+        "char_code_zhengma": "tl",
+        "char_code_sijiao": "37001"
+    },
+    "general_unicode": "基本区 U+95E8",
+    "general_bs_code": "425"
+}

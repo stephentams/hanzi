@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rush forth; surpass, excel"
+        },
+        {
+            "language": "德语",
+            "explanation": "geordnet, in Ordnung bringen ,zerlegen, zerstreuen"
+        },
+        {
+            "language": "法语",
+            "explanation": "être perdu,égaré,surpasser,dépasser"
+        }
+    ],
+    "general_pinyins": [
+        "yì"
+    ],
+    "general_zhuyins": [
+        "ㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "车",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "軼"
+    ],
+    "general_ytz": [
+        "軼"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8F76",
+            "152131134"
+        ],
+        "char_code_wubi": "lrwy|ltgy",
+        "char_code_cangjie": "kqhqo",
+        "char_code_zhengma": "hemo",
+        "char_code_sijiao": "45580"
+    },
+    "general_unicode": "基本区 U+8F76",
+    "general_bs_code": "152131134"
+}

@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "slander; gossip; rumors"
+        },
+        {
+            "language": "德语",
+            "explanation": "jammern, reklamieren"
+        }
+    ],
+    "general_pinyins": [
+        "zhuó"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "諑"
+    ],
+    "general_ytz": [
+        "諑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BFC",
+            "4513533434"
+        ],
+        "char_code_wubi": "yeyy|ygey",
+        "char_code_cangjie": "ivmso",
+        "char_code_zhengma": "sgs",
+        "char_code_sijiao": "31732"
+    },
+    "general_unicode": "基本区 U+8BFC",
+    "general_bs_code": "4513533434"
+}

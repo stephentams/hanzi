@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "artemisia stelleriana"
+        },
+        {
+            "language": "法语",
+            "explanation": "Arthemisia vulgaris,bétel"
+        }
+    ],
+    "general_pinyins": [
+        "lóu"
+    ],
+    "general_zhuyins": [
+        "ㄌㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "蔞"
+    ],
+    "general_ytz": [
+        "蔞"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "848C",
+            "122431234531"
+        ],
+        "char_code_wubi": "aovf",
+        "char_code_cangjie": "tfdv",
+        "char_code_zhengma": "euzm",
+        "char_code_sijiao": "44404"
+    },
+    "general_unicode": "基本区 U+848C",
+    "general_bs_code": "122431234531"
+}

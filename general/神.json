@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "spirit, god, supernatural being"
+        },
+        {
+            "language": "德语",
+            "explanation": "Shen  (Eig, Fam)​,Geist, Gottheit, übernatürlich, göttlich, Gesichtsausdruck"
+        },
+        {
+            "language": "法语",
+            "explanation": "divinité,dieu,esprit,expression,air,énergie"
+        }
+    ],
+    "general_pinyins": [
+        "shén"
+    ],
+    "general_zhuyins": [
+        "ㄕㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "礻",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥙍",
+        "𥚞",
+        "𥛃",
+        "𥛠",
+        "𥜩",
+        "䰠",
+        "神"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "795E",
+            "452425112"
+        ],
+        "char_code_wubi": "pyjh",
+        "char_code_cangjie": "iflwl",
+        "char_code_zhengma": "wski",
+        "char_code_sijiao": "35206"
+    },
+    "general_unicode": "基本区 U+795E",
+    "general_bs_code": "452425112"
+}

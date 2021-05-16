@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "coerce, force, compel; urgent"
+        },
+        {
+            "language": "德语",
+            "explanation": "erzwingen, forcieren ,nötigen, zwingen ,vordringlich"
+        },
+        {
+            "language": "法语",
+            "explanation": "forcer,obliger,se presser,se hâter"
+        }
+    ],
+    "general_pinyins": [
+        "pò",
+        "pǎi"
+    ],
+    "general_zhuyins": [
+        "ㄆㄛˋ",
+        "ㄆㄞˇ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "廹",
+        "敀"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8FEB",
+            "32511454"
+        ],
+        "char_code_wubi": "rpd",
+        "char_code_cangjie": "yha",
+        "char_code_zhengma": "nkw",
+        "char_code_sijiao": "36300"
+    },
+    "general_unicode": "基本区 U+8FEB",
+    "general_bs_code": "32511454"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fill; full, overflowing; surplus"
+        },
+        {
+            "language": "德语",
+            "explanation": "komplett, voll ,Ying  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "plein,abondant,être plein (rempli, comble)​ de,dépasser,excéder,avoir un surplus de,avoir en excédent"
+        }
+    ],
+    "general_pinyins": [
+        "yíng"
+    ],
+    "general_zhuyins": [
+        "ㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "皿",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "夃",
+        "盁",
+        "溋",
+        "𡺡"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "76C8",
+            "535425221"
+        ],
+        "char_code_wubi": "eclf|bclf",
+        "char_code_cangjie": "nsbt",
+        "char_code_zhengma": "ymxl",
+        "char_code_sijiao": "17102"
+    },
+    "general_unicode": "基本区 U+76C8",
+    "general_bs_code": "535425221"
+}

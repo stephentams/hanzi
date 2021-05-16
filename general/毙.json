@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "kill; die violent death"
+        }
+    ],
+    "general_pinyins": [
+        "bì"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "比",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "斃"
+    ],
+    "general_ytz": [
+        "斃",
+        "獘"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6BD9",
+            "1535135435"
+        ],
+        "char_code_wubi": "xxgx",
+        "char_code_cangjie": "ppmnp",
+        "char_code_zhengma": "rrrr",
+        "char_code_sijiao": "22212"
+    },
+    "general_unicode": "基本区 U+6BD9",
+    "general_bs_code": "1535135435"
+}

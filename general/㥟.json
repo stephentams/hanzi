@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "enmity; animus; ill-will"
+        }
+    ],
+    "general_pinyins": [
+        "xié"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢠟",
+        "𢚌"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "395F",
+            "442551353334"
+        ],
+        "char_code_wubi": "nxey",
+        "char_code_cangjie": "pvno",
+        "char_code_zhengma": "uzgq",
+        "char_code_sijiao": "97032"
+    },
+    "general_unicode": "扩展A U+395F",
+    "general_bs_code": "442551353334"
+}

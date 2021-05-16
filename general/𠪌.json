@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "厂",
+        "non_radical_sn": "10",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "庶"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "20A8C",
+            "134132344334"
+        ],
+        "char_code_wubi": "dyoo",
+        "char_code_cangjie": "mycf",
+        "char_code_zhengma": "ggsu"
+    },
+    "general_unicode": "扩展B U+20A8C",
+    "general_bs_code": "134132344334"
+}

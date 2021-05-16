@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "crouch, squat; sit, occupy"
+        },
+        {
+            "language": "德语",
+            "explanation": "hocken, kauern"
+        },
+        {
+            "language": "法语",
+            "explanation": "s'accroupir,s'asseoir sur les talons"
+        }
+    ],
+    "general_pinyins": [
+        "jù"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "8",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "倨",
+        "居"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E1E",
+            "251212151312251"
+        ],
+        "char_code_wubi": "khnd",
+        "char_code_cangjie": "rmsjr",
+        "char_code_zhengma": "jiej",
+        "char_code_sijiao": "67164"
+    },
+    "general_unicode": "基本区 U+8E1E",
+    "general_bs_code": "251212151312251"
+}

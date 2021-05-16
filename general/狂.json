@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "insane, mad; violent; wild"
+        },
+        {
+            "language": "德语",
+            "explanation": "irre, verrückt ,Manie  (S)​,Kuang  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "fou,furieux,arrogant"
+        }
+    ],
+    "general_pinyins": [
+        "kuáng"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "呈",
+        "忹",
+        "狅",
+        "𢙌",
+        "𢚇",
+        "𤝵",
+        "𤝶",
+        "𤞇"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "72C2",
+            "3531121"
+        ],
+        "char_code_wubi": "qtgg",
+        "char_code_cangjie": "khmg",
+        "char_code_zhengma": "qmc",
+        "char_code_sijiao": "41214"
+    },
+    "general_unicode": "基本区 U+72C2",
+    "general_bs_code": "3531121"
+}

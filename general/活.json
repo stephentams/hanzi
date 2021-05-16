@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "live, exist, survive; lively"
+        },
+        {
+            "language": "德语",
+            "explanation": "Leben, Aktivität  (S)​,leben  (V)​,beweglich, flexibel  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "vivre,vivant,vif,expressif,travail,ouvrage,rendre la vie à qqn,sauver la vie de qqn"
+        }
+    ],
+    "general_pinyins": [
+        "huó"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣴠",
+        "𣸅",
+        "𣽅",
+        "𣿛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6D3B",
+            "441312251"
+        ],
+        "char_code_wubi": "itdg",
+        "char_code_cangjie": "ehjr",
+        "char_code_zhengma": "vmi",
+        "char_code_sijiao": "32164"
+    },
+    "general_unicode": "基本区 U+6D3B",
+    "general_bs_code": "441312251"
+}

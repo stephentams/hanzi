@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mottled, striped, freckle"
+        },
+        {
+            "language": "法语",
+            "explanation": "tache,rayure,tacheté,rayé,panaché"
+        }
+    ],
+    "general_pinyins": [
+        "bān"
+    ],
+    "general_zhuyins": [
+        "ㄅㄢ"
+    ],
+    "general_radical": {
+        "radical": "文",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䃑",
+        "𤨘",
+        "辬",
+        "斒"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6591",
+            "112141341121"
+        ],
+        "char_code_wubi": "gygg",
+        "char_code_cangjie": "mgykg",
+        "char_code_zhengma": "csc",
+        "char_code_sijiao": "11114"
+    },
+    "general_unicode": "基本区 U+6591",
+    "general_bs_code": "112141341121"
+}

@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "place in Shandong province"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ortsname  (S)​,Hou  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom de famille)​,Hou : lieu géographique situé dans l'Etat de Lu (dans le Shandong actuel)​ à l'époque des Printemps et des Automnes"
+        }
+    ],
+    "general_pinyins": [
+        "hòu"
+    ],
+    "general_zhuyins": [
+        "ㄏㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨚨",
+        "𨜸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "90C8",
+            "33125152"
+        ],
+        "char_code_wubi": "rgkb",
+        "char_code_cangjie": "hrnl",
+        "char_code_zhengma": "pdjy",
+        "char_code_sijiao": "77227"
+    },
+    "general_unicode": "基本区 U+90C8",
+    "general_bs_code": "33125152"
+}

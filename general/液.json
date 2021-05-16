@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sap, juice, liquid, fluid"
+        },
+        {
+            "language": "法语",
+            "explanation": "liquide,suc"
+        }
+    ],
+    "general_pinyins": [
+        "yè"
+    ],
+    "general_zhuyins": [
+        "ㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "洂",
+        "醳"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6DB2",
+            "44141323544"
+        ],
+        "char_code_wubi": "iywy",
+        "char_code_cangjie": "eyok",
+        "char_code_zhengma": "vsnr",
+        "char_code_sijiao": "30147"
+    },
+    "general_unicode": "基本区 U+6DB2",
+    "general_bs_code": "44141323544"
+}

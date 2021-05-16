@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "horse with a bluish white color"
+        },
+        {
+            "language": "德语",
+            "explanation": "(English: buckskin horse)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "cheval à la robe blanche bleutée"
+        }
+    ],
+    "general_pinyins": [
+        "cōng"
+    ],
+    "general_zhuyins": [
+        "ㄘㄨㄥ"
+    ],
+    "general_radical": {
+        "radical": "马",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "驄"
+    ],
+    "general_ytz": [
+        "驄",
+        "𩣭"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9AA2",
+            "55132535414544"
+        ],
+        "char_code_wubi": "ctln|cgtn",
+        "char_code_cangjie": "nmhwp",
+        "char_code_zhengma": "xnrw",
+        "char_code_sijiao": "76130"
+    },
+    "general_unicode": "基本区 U+9AA2",
+    "general_bs_code": "55132535414544"
+}

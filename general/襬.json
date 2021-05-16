@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lower part of a robe"
+        },
+        {
+            "language": "法语",
+            "explanation": "ourlet au bas d'un vêtement"
+        }
+    ],
+    "general_pinyins": [
+        "bǎi"
+    ],
+    "general_zhuyins": [
+        "ㄅㄞˇ"
+    ],
+    "general_radical": {
+        "radical": "衤",
+        "non_radical_sn": "15",
+        "total_sn": "20"
+    },
+    "general_stc": [
+        "䙓"
+    ],
+    "general_ytz": [
+        "䙓",
+        "摆",
+        "𧟍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "896C",
+            "45234252215425113535"
+        ],
+        "char_code_wubi": "pulx",
+        "char_code_cangjie": "lwlp",
+        "char_code_zhengma": "wtrr",
+        "char_code_sijiao": "36212"
+    },
+    "general_unicode": "基本区 U+896C",
+    "general_bs_code": "45234252215425113535"
+}

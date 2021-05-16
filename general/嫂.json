@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sister-in-law, elder brother's wife"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schwägerin ( Frau des älteren Bruders )​  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "belle-soeur,femme d'un frère aîné"
+        }
+    ],
+    "general_pinyins": [
+        "sǎo"
+    ],
+    "general_zhuyins": [
+        "ㄙㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㛐",
+        "㛮"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5AC2",
+            "531321511254"
+        ],
+        "char_code_wubi": "vvhc|vehc",
+        "char_code_cangjie": "vhxe",
+        "char_code_zhengma": "zmnx",
+        "char_code_sijiao": "47447"
+    },
+    "general_unicode": "基本区 U+5AC2",
+    "general_bs_code": "531321511254"
+}

@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(terrains) of highly strategic; precipitious (hill, etc. a big mound; (same as U+3888 㢈) a collapsed house, to hit, to catch something"
+        }
+    ],
+    "general_pinyins": [
+        "yǎn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "广",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㢈",
+        "𢈹",
+        "𢈂"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3882",
+            "413325151"
+        ],
+        "char_code_wubi": "ywnn|otnd",
+        "char_code_cangjie": "ihrr",
+        "char_code_zhengma": "tgmi",
+        "char_code_sijiao": "00277"
+    },
+    "general_unicode": "扩展A U+3882",
+    "general_bs_code": "413325151"
+}

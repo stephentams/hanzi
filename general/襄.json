@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "aid, help, assist; undress"
+        },
+        {
+            "language": "德语",
+            "explanation": "helfen, assistieren  (V, Lit)​,Xiang  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "aider,assister"
+        }
+    ],
+    "general_pinyins": [
+        "xiāng"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄤ"
+    ],
+    "general_radical": {
+        "radical": "衣",
+        "non_radical_sn": "11",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㐮",
+        "勷",
+        "𠆝",
+        "𡣿",
+        "𧞂",
+        "𧞜",
+        "𧞻"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8944",
+            "41251251112213534"
+        ],
+        "char_code_wubi": "ykke",
+        "char_code_cangjie": "yrrv",
+        "char_code_zhengma": "sjer",
+        "char_code_sijiao": "00732"
+    },
+    "general_unicode": "基本区 U+8944",
+    "general_bs_code": "41251251112213534"
+}

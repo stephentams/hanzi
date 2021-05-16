@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "direct; wipe away; squander"
+        },
+        {
+            "language": "德语",
+            "explanation": "Indianerzelt  (S)​,auseinander jagen, auseinander stieben; etwas zerstreuen  (V)​,etwas abwischen  (V)​,etwas schwingen; etwas schwenken  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "agiter,brandir,diriger"
+        }
+    ],
+    "general_pinyins": [
+        "huī"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄟ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "挥"
+    ],
+    "general_ytz": [
+        "㩣",
+        "㫎",
+        "挥",
+        "撝",
+        "麾",
+        "𢯷",
+        "𢰄",
+        "𢱳",
+        "𨍂"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "63EE",
+            "121451251112"
+        ],
+        "char_code_wubi": "rplh",
+        "char_code_cangjie": "qbjj",
+        "char_code_zhengma": "dwfk",
+        "char_code_sijiao": "57052"
+    },
+    "general_unicode": "基本区 U+63EE",
+    "general_bs_code": "121451251112"
+}

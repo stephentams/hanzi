@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wax; candle; waxy, glazed"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kerze  (S)​,Wachs  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cire,bougie"
+        }
+    ],
+    "general_pinyins": [
+        "là"
+    ],
+    "general_zhuyins": [
+        "ㄌㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "15",
+        "total_sn": "21"
+    },
+    "general_stc": [
+        "蜡"
+    ],
+    "general_ytz": [
+        "蜡",
+        "䗶",
+        "蠟"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "881F",
+            "251214555253415445445"
+        ],
+        "char_code_wubi": "jvln",
+        "char_code_cangjie": "livvv",
+        "char_code_zhengma": "izoz",
+        "char_code_sijiao": "52112"
+    },
+    "general_unicode": "基本区 U+881F",
+    "general_bs_code": "251214555253415445445"
+}

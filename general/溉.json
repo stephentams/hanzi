@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "water, irrigate, flood; wash"
+        },
+        {
+            "language": "法语",
+            "explanation": "irriguer"
+        }
+    ],
+    "general_pinyins": [
+        "gài"
+    ],
+    "general_zhuyins": [
+        "ㄍㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "摡",
+        "漑",
+        "瀣"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6E89",
+            "441511541535"
+        ],
+        "char_code_wubi": "ivcq|ivaq",
+        "char_code_cangjie": "eaiu",
+        "char_code_zhengma": "vxhr",
+        "char_code_sijiao": "31112"
+    },
+    "general_unicode": "基本区 U+6E89",
+    "general_bs_code": "441511541535"
+}

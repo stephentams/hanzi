@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dry over slow fire; bake; roast"
+        },
+        {
+            "language": "德语",
+            "explanation": "rösten"
+        },
+        {
+            "language": "法语",
+            "explanation": "sécher sur le feu,couver artificiellement"
+        }
+    ],
+    "general_pinyins": [
+        "bèi"
+    ],
+    "general_zhuyins": [
+        "ㄅㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤉮",
+        "𤊷"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7119",
+            "433441431251"
+        ],
+        "char_code_wubi": "oukg",
+        "char_code_cangjie": "fytr",
+        "char_code_zhengma": "uosj",
+        "char_code_sijiao": "90861"
+    },
+    "general_unicode": "基本区 U+7119",
+    "general_bs_code": "433441431251"
+}

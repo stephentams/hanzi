@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "paper mulberry"
+        },
+        {
+            "language": "法语",
+            "explanation": "mûrier à papier"
+        }
+    ],
+    "general_pinyins": [
+        "gǔ"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣖫"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6996",
+            "12145112343554"
+        ],
+        "char_code_wubi": "fptc|fpgc",
+        "char_code_cangjie": "gdhne",
+        "char_code_zhengma": "bwfq",
+        "char_code_sijiao": "47947"
+    },
+    "general_unicode": "基本区 U+6996",
+    "general_bs_code": "12145112343554"
+}

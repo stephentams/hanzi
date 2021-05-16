@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "narrow, tight; narrow-minded"
+        },
+        {
+            "language": "德语",
+            "explanation": "eng, schmal  (Adj)​,engherzig, kleinlich, beschränkt  (Adj, Psych)​,knapp bei Kasse sein  (Adj, Wirtsch)​,sich in finazieller Bedrängnis befinden  (Adj, Wirtsch)"
+        },
+        {
+            "language": "法语",
+            "explanation": "étroit"
+        }
+    ],
+    "general_pinyins": [
+        "zhǎi"
+    ],
+    "general_zhuyins": [
+        "ㄓㄞˇ"
+    ],
+    "general_radical": {
+        "radical": "穴",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "厏",
+        "柞",
+        "榨",
+        "笮",
+        "迮"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7A84",
+            "4453431211"
+        ],
+        "char_code_wubi": "pwtf",
+        "char_code_cangjie": "jcos",
+        "char_code_zhengma": "womi",
+        "char_code_sijiao": "30211"
+    },
+    "general_unicode": "基本区 U+7A84",
+    "general_bs_code": "4453431211"
+}

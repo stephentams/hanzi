@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "shovel"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schaufel  (S)​,schaufeln  (V)"
+        }
+    ],
+    "general_pinyins": [
+        "xiān"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "杴",
+        "鍁"
+    ],
+    "general_ytz": [
+        "鍁",
+        "杴",
+        "𣔙",
+        "𣞘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9528",
+            "3111533123534"
+        ],
+        "char_code_wubi": "qrqw",
+        "char_code_cangjie": "ophlo",
+        "char_code_zhengma": "ppro",
+        "char_code_sijiao": "87782"
+    },
+    "general_unicode": "基本区 U+9528",
+    "general_bs_code": "3111533123534"
+}

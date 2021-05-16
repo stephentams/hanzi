@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "spring; wanton"
+        },
+        {
+            "language": "德语",
+            "explanation": "Frühling (S)​,Chun (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "printemps,amour,vie"
+        }
+    ],
+    "general_pinyins": [
+        "chūn"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨㄣ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㫩",
+        "㫪",
+        "旾",
+        "萅",
+        "𣆊",
+        "𣈤",
+        "𣊨",
+        "𦸬",
+        "𧇶",
+        "𣇸"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6625",
+            "111342511"
+        ],
+        "char_code_wubi": "dwjf",
+        "char_code_cangjie": "qka",
+        "char_code_zhengma": "co",
+        "char_code_sijiao": "50608"
+    },
+    "general_unicode": "基本区 U+6625",
+    "general_bs_code": "111342511"
+}

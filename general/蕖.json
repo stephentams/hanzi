@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "法语",
+            "explanation": "lotus"
+        }
+    ],
+    "general_pinyins": [
+        "qú"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8556",
+            "12244115151234"
+        ],
+        "char_code_wubi": "aias",
+        "char_code_cangjie": "tesd",
+        "char_code_zhengma": "evxf",
+        "char_code_sijiao": "44904"
+    },
+    "general_unicode": "基本区 U+8556",
+    "general_bs_code": "12244115151234"
+}

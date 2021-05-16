@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "globefish, tetraodon"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kugelfisch  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "Takifugu rubripes"
+        }
+    ],
+    "general_pinyins": [
+        "tái"
+    ],
+    "general_zhuyins": [
+        "ㄊㄞˊ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "5",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "鮐"
+    ],
+    "general_ytz": [
+        "鮐"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9C90",
+            "3525121154251"
+        ],
+        "char_code_wubi": "qgck",
+        "char_code_cangjie": "nmir",
+        "char_code_zhengma": "rzj",
+        "char_code_sijiao": "23160"
+    },
+    "general_unicode": "基本区 U+9C90",
+    "general_bs_code": "3525121154251"
+}

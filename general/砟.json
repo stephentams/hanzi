@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stone tablet; monument"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bruchstück  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "débris,fragments"
+        }
+    ],
+    "general_pinyins": [
+        "zhǎ"
+    ],
+    "general_zhuyins": [
+        "ㄓㄚˇ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䃎"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "781F",
+            "1325131211"
+        ],
+        "char_code_wubi": "dthf",
+        "char_code_cangjie": "mros",
+        "char_code_zhengma": "gmid",
+        "char_code_sijiao": "18611"
+    },
+    "general_unicode": "基本区 U+781F",
+    "general_bs_code": "1325131211"
+}

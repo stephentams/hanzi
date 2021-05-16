@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sugar cane"
+        },
+        {
+            "language": "德语",
+            "explanation": "Zuckerrohr  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "canne à sucre"
+        }
+    ],
+    "general_pinyins": [
+        "zhè"
+    ],
+    "general_zhuyins": [
+        "ㄓㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧀹",
+        "𤯋",
+        "𤯈"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8517",
+            "12241312214444"
+        ],
+        "char_code_wubi": "ayao|aoao",
+        "char_code_cangjie": "titf",
+        "char_code_zhengma": "eteu",
+        "char_code_sijiao": "44237"
+    },
+    "general_unicode": "基本区 U+8517",
+    "general_bs_code": "12241312214444"
+}

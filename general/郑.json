@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "state in today's Henan; surname"
+        },
+        {
+            "language": "德语",
+            "explanation": "Familienname  (Eig)​,Zheng  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "sérieux,(abrév.)​ Zhengzhou,(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "zhèng"
+    ],
+    "general_zhuyins": [
+        "ㄓㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "鄭"
+    ],
+    "general_ytz": [
+        "鄭",
+        "𨞀",
+        "𨜟"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "90D1",
+            "43113452"
+        ],
+        "char_code_wubi": "udbh",
+        "char_code_cangjie": "tknl",
+        "char_code_zhengma": "uagy",
+        "char_code_sijiao": "87827"
+    },
+    "general_unicode": "基本区 U+90D1",
+    "general_bs_code": "43113452"
+}

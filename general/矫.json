@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "correct, rectify, straighten out"
+        },
+        {
+            "language": "德语",
+            "explanation": "verbergen, verhehlen ,Jiao  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "argumentatif,contentieux,fort,courageux,rectifier,corriger"
+        }
+    ],
+    "general_pinyins": [
+        "jiǎo",
+        "jiáo"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄠˇ",
+        "ㄐㄧㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "矢",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "矯"
+    ],
+    "general_ytz": [
+        "矯",
+        "𥏹"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "77EB",
+            "31134313432"
+        ],
+        "char_code_wubi": "tdtj",
+        "char_code_cangjie": "okhkl",
+        "char_code_zhengma": "magn",
+        "char_code_sijiao": "82828"
+    },
+    "general_unicode": "基本区 U+77EB",
+    "general_bs_code": "31134313432"
+}

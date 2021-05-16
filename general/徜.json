@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "walking and fro; lingering"
+        },
+        {
+            "language": "法语",
+            "explanation": "assis les jambes croisées,marche avant et en arrière"
+        }
+    ],
+    "general_pinyins": [
+        "cháng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "彳",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "倘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F9C",
+            "33224325251"
+        ],
+        "char_code_wubi": "timk",
+        "char_code_cangjie": "hofbr",
+        "char_code_zhengma": "oikl",
+        "char_code_sijiao": "29227"
+    },
+    "general_unicode": "基本区 U+5F9C",
+    "general_bs_code": "33224325251"
+}

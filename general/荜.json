@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "species of bean; piper longtum"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bohne  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(mot antique)​ sorte de haricot,haie de bambous"
+        }
+    ],
+    "general_pinyins": [
+        "bì"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "蓽"
+    ],
+    "general_ytz": [
+        "蓽",
+        "𦸩"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "835C",
+            "122153512"
+        ],
+        "char_code_wubi": "axxf",
+        "char_code_cangjie": "tppj",
+        "char_code_zhengma": "erre",
+        "char_code_sijiao": "44401"
+    },
+    "general_unicode": "基本区 U+835C",
+    "general_bs_code": "122153512"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "jacket, overcoat, coat; gown"
+        },
+        {
+            "language": "德语",
+            "explanation": "bedecken, umhüllen"
+        },
+        {
+            "language": "法语",
+            "explanation": "veste"
+        }
+    ],
+    "general_pinyins": [
+        "guà"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "衤",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "袿"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8902",
+            "4523412112124"
+        ],
+        "char_code_wubi": "pufh",
+        "char_code_cangjie": "lggy",
+        "char_code_zhengma": "wtbi",
+        "char_code_sijiao": "33200"
+    },
+    "general_unicode": "基本区 U+8902",
+    "general_bs_code": "4523412112124"
+}

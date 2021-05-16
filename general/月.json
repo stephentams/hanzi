@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "moon; month; KangXi radical 74"
+        },
+        {
+            "language": "德语",
+            "explanation": "Monat (S)​,Mond (S)​,Radikal Nr. 74 = Mond (S)​,rund, mondförmig (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "Lune,mois,74e radical"
+        }
+    ],
+    "general_pinyins": [
+        "yuè"
+    ],
+    "general_zhuyins": [
+        "ㄩㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "0",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㬴",
+        "囝",
+        "𡇹",
+        "肉",
+        "腎",
+        "𠥱"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6708",
+            "3511"
+        ],
+        "char_code_wubi": "eeee",
+        "char_code_cangjie": "b",
+        "char_code_zhengma": "q",
+        "char_code_sijiao": "77220"
+    },
+    "general_unicode": "基本区 U+6708",
+    "general_bs_code": "3511"
+}

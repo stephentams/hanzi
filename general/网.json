@@ -1,0 +1,68 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "net; network; KangXi radical 122"
+        },
+        {
+            "language": "德语",
+            "explanation": "Netz, Netzwerk  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "filet,réseau,prendre au filet"
+        }
+    ],
+    "general_pinyins": [
+        "wǎng"
+    ],
+    "general_zhuyins": [
+        "ㄨㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "冂",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "網"
+    ],
+    "general_ytz": [
+        "網",
+        "𠕃",
+        "𠕈",
+        "𦉪",
+        "𦉫",
+        "𦉮",
+        "𦉯",
+        "𦉳",
+        "𦉸",
+        "𦉺",
+        "𦊀",
+        "𦋟",
+        "𦌅",
+        "罓",
+        "罒",
+        "䋄",
+        "䋞",
+        "𠔿",
+        "𠕀",
+        "𡇄",
+        "𡉮",
+        "𦉽",
+        "𦉾"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F51",
+            "253434"
+        ],
+        "char_code_wubi": "mqqi|mrri",
+        "char_code_cangjie": "bkk",
+        "char_code_zhengma": "ldoo",
+        "char_code_sijiao": "77220"
+    },
+    "general_unicode": "基本区 U+7F51",
+    "general_bs_code": "253434"
+}

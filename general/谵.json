@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "talkative; incoherent talk"
+        },
+        {
+            "language": "德语",
+            "explanation": "gesprächig, geschwätzig"
+        },
+        {
+            "language": "法语",
+            "explanation": "délirer"
+        }
+    ],
+    "general_pinyins": [
+        "zhān"
+    ],
+    "general_zhuyins": [
+        "ㄓㄢ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "13",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "譫"
+    ],
+    "general_ytz": [
+        "譫",
+        "𥕔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C35",
+            "453513344111251"
+        ],
+        "char_code_wubi": "yqdy",
+        "char_code_cangjie": "ivncr",
+        "char_code_zhengma": "sros",
+        "char_code_sijiao": "37761"
+    },
+    "general_unicode": "基本区 U+8C35",
+    "general_bs_code": "453513344111251"
+}

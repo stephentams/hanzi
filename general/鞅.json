@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "leather strap over horse's neck"
+        },
+        {
+            "language": "德语",
+            "explanation": "Martingal ,Yang  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "Martingale (calcul stochastique)​"
+        }
+    ],
+    "general_pinyins": [
+        "yāng",
+        "yàng"
+    ],
+    "general_zhuyins": [
+        "ㄧㄤ",
+        "ㄧㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "革",
+        "non_radical_sn": "5",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𩊟",
+        "𩊧"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9785",
+            "12212511225134"
+        ],
+        "char_code_wubi": "afmd",
+        "char_code_cangjie": "tjlbk",
+        "char_code_zhengma": "eelg",
+        "char_code_sijiao": "45580"
+    },
+    "general_unicode": "基本区 U+9785",
+    "general_bs_code": "12212511225134"
+}

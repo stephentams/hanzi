@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "yes, certainly; pledge, promise"
+        },
+        {
+            "language": "德语",
+            "explanation": "so, richtig, korrekt (Adj)​,aber, doch, dennoch (Konj)​,Ran (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "mais,cependant,juste,correct"
+        }
+    ],
+    "general_pinyins": [
+        "rán"
+    ],
+    "general_zhuyins": [
+        "ㄖㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "灬",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㸐",
+        "嘫",
+        "肰",
+        "𤉷",
+        "𤓉",
+        "𤟙",
+        "燃",
+        "𤡮"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7136",
+            "354413444444"
+        ],
+        "char_code_wubi": "qdou",
+        "char_code_cangjie": "bkf",
+        "char_code_zhengma": "rssu",
+        "char_code_sijiao": "23338"
+    },
+    "general_unicode": "基本区 U+7136",
+    "general_bs_code": "354413444444"
+}

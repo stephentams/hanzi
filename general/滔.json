@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "overflow; rushing water, a torrent"
+        },
+        {
+            "language": "德语",
+            "explanation": "überfließen, überfluten"
+        },
+        {
+            "language": "法语",
+            "explanation": "torrentiel,immense"
+        }
+    ],
+    "general_pinyins": [
+        "tāo"
+    ],
+    "general_zhuyins": [
+        "ㄊㄠ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㴞",
+        "𣵥"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6ED4",
+            "4413443321511"
+        ],
+        "char_code_wubi": "ievg|ieeg",
+        "char_code_cangjie": "ebhx",
+        "char_code_zhengma": "vpnb",
+        "char_code_sijiao": "32177"
+    },
+    "general_unicode": "基本区 U+6ED4",
+    "general_bs_code": "4413443321511"
+}

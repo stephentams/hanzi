@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "deep pool, lake; deep, profound"
+        },
+        {
+            "language": "法语",
+            "explanation": "étang profond,mare"
+        }
+    ],
+    "general_pinyins": [
+        "tán"
+    ],
+    "general_zhuyins": [
+        "ㄊㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "湛",
+        "𤁎",
+        "𤅦",
+        "潯"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6F6D",
+            "441125221251112"
+        ],
+        "char_code_wubi": "isjh",
+        "char_code_cangjie": "emwj",
+        "char_code_zhengma": "vfke",
+        "char_code_sijiao": "31146"
+    },
+    "general_unicode": "基本区 U+6F6D",
+    "general_bs_code": "441125221251112"
+}

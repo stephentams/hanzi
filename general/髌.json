@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "kneecap"
+        },
+        {
+            "language": "法语",
+            "explanation": "rotulien"
+        }
+    ],
+    "general_pinyins": [
+        "bìn"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "骨",
+        "non_radical_sn": "10",
+        "total_sn": "19"
+    },
+    "general_stc": [
+        "髕"
+    ],
+    "general_ytz": [
+        "髕",
+        "膑",
+        "臏",
+        "𩪯"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9ACC",
+            "2554525114453212134"
+        ],
+        "char_code_wubi": "mepw",
+        "char_code_cangjie": "bbjoc",
+        "char_code_zhengma": "lwpo",
+        "char_code_sijiao": "73281"
+    },
+    "general_unicode": "基本区 U+9ACC",
+    "general_bs_code": "2554525114453212134"
+}

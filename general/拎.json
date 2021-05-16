@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to haul; to lift; to take"
+        },
+        {
+            "language": "德语",
+            "explanation": "einnehmen, ergreifen ,fördern, aufheben ,transportieren, schleppen"
+        },
+        {
+            "language": "法语",
+            "explanation": "porter à la main"
+        }
+    ],
+    "general_pinyins": [
+        "līn"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄣ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㩕",
+        "𢺰"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "62CE",
+            "12134454"
+        ],
+        "char_code_wubi": "rwyc",
+        "char_code_cangjie": "qoii",
+        "char_code_zhengma": "dow",
+        "char_code_sijiao": "58032"
+    },
+    "general_unicode": "基本区 U+62CE",
+    "general_bs_code": "12134454"
+}

@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "spurt, blow out, puff out"
+        },
+        {
+            "language": "德语",
+            "explanation": "herausspritzen ,pusten ,speien  (V)​,speisen  (V)​,spritzen  (V)​,duftend"
+        },
+        {
+            "language": "法语",
+            "explanation": "jaillir,vaporiser,de saison,parfumé,récolte"
+        }
+    ],
+    "general_pinyins": [
+        "pēn",
+        "pèn"
+    ],
+    "general_zhuyins": [
+        "ㄆㄣ",
+        "ㄆㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "噴"
+    ],
+    "general_ytz": [
+        "噴",
+        "歕",
+        "㖹",
+        "𠴮"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "55B7",
+            "251121222534"
+        ],
+        "char_code_wubi": "kfam",
+        "char_code_cangjie": "rjto",
+        "char_code_zhengma": "jeel",
+        "char_code_sijiao": "64082"
+    },
+    "general_unicode": "基本区 U+55B7",
+    "general_bs_code": "251121222534"
+}

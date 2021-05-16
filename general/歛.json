@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "draw back, fold back; collect"
+        },
+        {
+            "language": "德语",
+            "explanation": "anordnen, arrangieren ,sich beherrschen ,anordnen, arrangieren ,sich beherrschen"
+        },
+        {
+            "language": "法语",
+            "explanation": "organiser,contrôler"
+        }
+    ],
+    "general_pinyins": [
+        "liǎn",
+        "hān"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄢˇ",
+        "ㄏㄢ"
+    ],
+    "general_radical": {
+        "radical": "欠",
+        "non_radical_sn": "13",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "斂",
+        "𣫍",
+        "㰸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6B5B",
+            "34125125134343534"
+        ],
+        "char_code_wubi": "wgkw",
+        "char_code_cangjie": "oono",
+        "char_code_zhengma": "odor",
+        "char_code_sijiao": "87882"
+    },
+    "general_unicode": "基本区 U+6B5B",
+    "general_bs_code": "34125125134343534"
+}

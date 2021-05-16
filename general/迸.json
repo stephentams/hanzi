@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "gush out; burst forth; split"
+        },
+        {
+            "language": "德语",
+            "explanation": "aussprühen; sprühen; spritzen  (V)​,hervorstoßen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "sauter,bondir,se disperser"
+        }
+    ],
+    "general_pinyins": [
+        "bèng"
+    ],
+    "general_zhuyins": [
+        "ㄅㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "逬",
+        "𨔧",
+        "𧻓"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8FF8",
+            "431132454"
+        ],
+        "char_code_wubi": "uapk",
+        "char_code_cangjie": "ytt",
+        "char_code_zhengma": "uaew",
+        "char_code_sijiao": "38304"
+    },
+    "general_unicode": "基本区 U+8FF8",
+    "general_bs_code": "431132454"
+}

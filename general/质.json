@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "matter, material, substance"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 Natur, Art, Charakter  (S, Bio)"
+        }
+    ],
+    "general_pinyins": [
+        "zhì"
+    ],
+    "general_zhuyins": [
+        "ㄓˋ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "質"
+    ],
+    "general_ytz": [
+        "質",
+        "貭",
+        "儨",
+        "劕",
+        "𧸲",
+        "𫎘"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D28",
+            "33122534"
+        ],
+        "char_code_wubi": "rfmi",
+        "char_code_cangjie": "hjbo",
+        "char_code_zhengma": "pdel",
+        "char_code_sijiao": "72282"
+    },
+    "general_unicode": "基本区 U+8D28",
+    "general_bs_code": "33122534"
+}

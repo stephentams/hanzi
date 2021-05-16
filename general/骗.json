@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "swindle, cheat out of, defraud"
+        },
+        {
+            "language": "德语",
+            "explanation": "anlügen, anschwindeln, ergauern  (V)​,betrügen, austricksen, zum Narren halten  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tromper,duper,escroquer"
+        }
+    ],
+    "general_pinyins": [
+        "piàn"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "马",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "騙"
+    ],
+    "general_ytz": [
+        "騙",
+        "𩤬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A97",
+            "551451325122"
+        ],
+        "char_code_wubi": "cyna|cgya",
+        "char_code_cangjie": "nmisb",
+        "char_code_zhengma": "xwld",
+        "char_code_sijiao": "73127"
+    },
+    "general_unicode": "基本区 U+9A97",
+    "general_bs_code": "551451325122"
+}

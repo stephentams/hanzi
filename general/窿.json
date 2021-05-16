@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mine shaft; cavity, hole"
+        },
+        {
+            "language": "德语",
+            "explanation": "Aushöhlung  (S)​,Höhle  (S)​,Hohlraum  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "creux"
+        }
+    ],
+    "general_pinyins": [
+        "lóng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "穴",
+        "non_radical_sn": "11",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "隆"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7ABF",
+            "4453452354131121"
+        ],
+        "char_code_wubi": "pwbg",
+        "char_code_cangjie": "jcnlm",
+        "char_code_zhengma": "woam",
+        "char_code_sijiao": "30215"
+    },
+    "general_unicode": "基本区 U+7ABF",
+    "general_bs_code": "4453452354131121"
+}

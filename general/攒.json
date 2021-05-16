@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "save, hoard"
+        },
+        {
+            "language": "德语",
+            "explanation": "abholen, einsammeln  (V)​,sparen"
+        },
+        {
+            "language": "法语",
+            "explanation": "entasser,réunir"
+        }
+    ],
+    "general_pinyins": [
+        "zǎn",
+        "cuán"
+    ],
+    "general_zhuyins": [
+        "ㄗㄢˇ",
+        "ㄘㄨㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "16",
+        "total_sn": "19"
+    },
+    "general_stc": [
+        "攢"
+    ],
+    "general_ytz": [
+        "攢",
+        "攅",
+        "欑",
+        "儹",
+        "揝"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6512",
+            "1213121353121352534"
+        ],
+        "char_code_wubi": "rtfm",
+        "char_code_cangjie": "qhuo",
+        "char_code_zhengma": "dmrl",
+        "char_code_sijiao": "54082"
+    },
+    "general_unicode": "基本区 U+6512",
+    "general_bs_code": "1213121353121352534"
+}

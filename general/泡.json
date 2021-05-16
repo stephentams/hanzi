@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bubbles, suds; blister; soak"
+        },
+        {
+            "language": "德语",
+            "explanation": "blubbern, sprudeln ,durchdringen, durchfeuchten ,einweichen"
+        },
+        {
+            "language": "法语",
+            "explanation": "gonflé,spongieux,poreux,paupière,petit lac,(classificateur pour les excréments)​,bulle,mousse,ampoule,tremper,infuser,passer le temps,draguer (une femme)​"
+        }
+    ],
+    "general_pinyins": [
+        "pào",
+        "pāo"
+    ],
+    "general_zhuyins": [
+        "ㄆㄠˋ",
+        "ㄆㄠ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "脬",
+        "𣶐",
+        "𣴊"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6CE1",
+            "44135515"
+        ],
+        "char_code_wubi": "iqnn",
+        "char_code_cangjie": "epru",
+        "char_code_zhengma": "vry",
+        "char_code_sijiao": "37112"
+    },
+    "general_unicode": "基本区 U+6CE1",
+    "general_bs_code": "44135515"
+}

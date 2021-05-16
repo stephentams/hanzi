@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "chromium"
+        },
+        {
+            "language": "德语",
+            "explanation": "Chrom (Element 24, Cr)​ (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "chrome"
+        }
+    ],
+    "general_pinyins": [
+        "gè"
+    ],
+    "general_zhuyins": [
+        "ㄍㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "鉻"
+    ],
+    "general_ytz": [
+        "鉻"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94EC",
+            "31115354251"
+        ],
+        "char_code_wubi": "qtkg",
+        "char_code_cangjie": "opher",
+        "char_code_zhengma": "prj",
+        "char_code_sijiao": "87764"
+    },
+    "general_unicode": "基本区 U+94EC",
+    "general_bs_code": "31115354251"
+}

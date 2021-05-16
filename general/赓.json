@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "continue"
+        },
+        {
+            "language": "德语",
+            "explanation": "anhalten, andauern"
+        },
+        {
+            "language": "法语",
+            "explanation": "continuer,succéder,prendre la suite,compenser,indemniser"
+        }
+    ],
+    "general_pinyins": [
+        "gēng"
+    ],
+    "general_zhuyins": [
+        "ㄍㄥ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "賡"
+    ],
+    "general_ytz": [
+        "賡",
+        "𢋫"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D53",
+            "413511342534"
+        ],
+        "char_code_wubi": "yvwm|ovwm",
+        "char_code_cangjie": "iloo",
+        "char_code_zhengma": "tgol",
+        "char_code_sijiao": "00282"
+    },
+    "general_unicode": "基本区 U+8D53",
+    "general_bs_code": "413511342534"
+}

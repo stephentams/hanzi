@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to call; to summon; (Cant.) eloquent"
+        }
+    ],
+    "general_pinyins": [
+        "huò",
+        "xì"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄛˋ",
+        "ㄒㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㕷",
+        "咟",
+        "𠵾"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "35F2",
+            "251511121251211"
+        ],
+        "char_code_wubi": "kvfg",
+        "char_code_cangjie": "rlgm",
+        "char_code_zhengma": "jxka",
+        "char_code_sijiao": "65016"
+    },
+    "general_unicode": "扩展A U+35F2",
+    "general_bs_code": "251511121251211"
+}

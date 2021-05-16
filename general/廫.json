@@ -1,0 +1,31 @@
+{
+    "general_pinyins": [
+        "liáo"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "广",
+        "non_radical_sn": "15",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "廖",
+        "寥"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5EEB",
+            "413351154154134333"
+        ],
+        "char_code_wubi": "yene|oene",
+        "char_code_cangjie": "ibsh",
+        "char_code_zhengma": "tgop",
+        "char_code_sijiao": "00222"
+    },
+    "general_unicode": "基本区 U+5EEB",
+    "general_bs_code": "413351154154134333"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "head; first; leader, chief; a poem"
+        },
+        {
+            "language": "德语",
+            "explanation": "Zähleinheitswort für Texte (Lieder, Gedichte, Musik usw.)​  (Zähl)​,Kopf, erster  (S)​,Radikal Nr. 185 = Kopf, Haupt, Oberhaupt, Anführer, der Erste, als Erster, anzeigen  (Zähl)"
+        },
+        {
+            "language": "法语",
+            "explanation": "chef,tête,premier,(classificateur des poèmes et chansons)​"
+        }
+    ],
+    "general_pinyins": [
+        "shǒu"
+    ],
+    "general_zhuyins": [
+        "ㄕㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "首",
+        "non_radical_sn": "0",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥃻",
+        "𦣻",
+        "𩖐",
+        "𩠐",
+        "𡭨"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9996",
+            "431325111"
+        ],
+        "char_code_wubi": "uthf",
+        "char_code_cangjie": "thbu",
+        "char_code_zhengma": "uanl",
+        "char_code_sijiao": "80602"
+    },
+    "general_unicode": "基本区 U+9996",
+    "general_bs_code": "431325111"
+}

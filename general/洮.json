@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cleanse; river in Gansu province"
+        },
+        {
+            "language": "德语",
+            "explanation": "reinigen"
+        },
+        {
+            "language": "法语",
+            "explanation": "nettoyer,(nom d'une rivière)​"
+        }
+    ],
+    "general_pinyins": [
+        "táo"
+    ],
+    "general_zhuyins": [
+        "ㄊㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣴧",
+        "淘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6D2E",
+            "441341534"
+        ],
+        "char_code_wubi": "iiqn|iqiy",
+        "char_code_cangjie": "elmo",
+        "char_code_zhengma": "vvrd",
+        "char_code_sijiao": "32113"
+    },
+    "general_unicode": "基本区 U+6D2E",
+    "general_bs_code": "441341534"
+}

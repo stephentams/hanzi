@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "language, words; saying, expression"
+        },
+        {
+            "language": "德语",
+            "explanation": "Sprache  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "dire à,langue,langage,parler,dire,contexte (d'une phrase ou d'un texte)​"
+        }
+    ],
+    "general_pinyins": [
+        "yǔ",
+        "yù"
+    ],
+    "general_zhuyins": [
+        "ㄩˇ",
+        "ㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "語"
+    ],
+    "general_ytz": [
+        "語"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BED",
+            "451251251"
+        ],
+        "char_code_wubi": "ygkg",
+        "char_code_cangjie": "ivmmr",
+        "char_code_zhengma": "sbxj",
+        "char_code_sijiao": "31761"
+    },
+    "general_unicode": "基本区 U+8BED",
+    "general_bs_code": "451251251"
+}

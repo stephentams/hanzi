@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rely, depend on; accuse falsely"
+        },
+        {
+            "language": "德语",
+            "explanation": "ablehnen, dementieren, abstreiten, leugnen  (V)​,lausig, erbärmlich  (Adj)​,Lai  (Eig, Fam)​,beschuldigen, tadeln"
+        },
+        {
+            "language": "法语",
+            "explanation": "mauvais,dépendre,se maintenir,refuser de reconnaître,accuser faussement"
+        }
+    ],
+    "general_pinyins": [
+        "lài"
+    ],
+    "general_zhuyins": [
+        "ㄌㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "賴"
+    ],
+    "general_ytz": [
+        "賴",
+        "頼",
+        "顂",
+        "𠘝",
+        "𧡽",
+        "𩓃"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D56",
+            "1251234352534"
+        ],
+        "char_code_wubi": "gkim|skqm",
+        "char_code_cangjie": "dlnbo",
+        "char_code_zhengma": "fjrl",
+        "char_code_sijiao": "57982"
+    },
+    "general_unicode": "基本区 U+8D56",
+    "general_bs_code": "1251234352534"
+}

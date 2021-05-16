@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "whisper; surname"
+        },
+        {
+            "language": "德语",
+            "explanation": "flüstern,  tuscheln ,Nie  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "chuchoter,(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "niè"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "耳",
+        "non_radical_sn": "12",
+        "total_sn": "18"
+    },
+    "general_stc": [
+        "聂"
+    ],
+    "general_ytz": [
+        "囁",
+        "擛",
+        "欇",
+        "聂"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8076",
+            "122111122111122111"
+        ],
+        "char_code_wubi": "bbbf",
+        "char_code_cangjie": "sjsjj",
+        "char_code_zhengma": "cecc",
+        "char_code_sijiao": "10441"
+    },
+    "general_unicode": "基本区 U+8076",
+    "general_bs_code": "122111122111122111"
+}

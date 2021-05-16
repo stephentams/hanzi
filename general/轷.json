@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "surname"
+        }
+    ],
+    "general_pinyins": [
+        "hū"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨ"
+    ],
+    "general_radical": {
+        "radical": "车",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "軤"
+    ],
+    "general_ytz": [
+        "軤"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8F77",
+            "152134312"
+        ],
+        "char_code_wubi": "ltuh|ltuf",
+        "char_code_cangjie": "kqhfd",
+        "char_code_zhengma": "hemu",
+        "char_code_sijiao": "42549"
+    },
+    "general_unicode": "基本区 U+8F77",
+    "general_bs_code": "152134312"
+}

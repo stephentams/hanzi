@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 笑) to laugh; to smile, to laugh at; to ridicule"
+        }
+    ],
+    "general_pinyins": [
+        "xiào"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "笑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "35DB",
+            "2513143143134"
+        ],
+        "char_code_wubi": "kttd",
+        "char_code_cangjie": "rhhk",
+        "char_code_zhengma": "jmmg",
+        "char_code_sijiao": "68084"
+    },
+    "general_unicode": "扩展A U+35DB",
+    "general_bs_code": "2513143143134"
+}

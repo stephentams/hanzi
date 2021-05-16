@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a mole cricket, Gryllotalpa africana"
+        },
+        {
+            "language": "法语",
+            "explanation": "fourmi etc."
+        }
+    ],
+    "general_pinyins": [
+        "lóu"
+    ],
+    "general_zhuyins": [
+        "ㄌㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "9",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "螻"
+    ],
+    "general_ytz": [
+        "螻"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "877C",
+            "251214431234531"
+        ],
+        "char_code_wubi": "jovg",
+        "char_code_cangjie": "lifdv",
+        "char_code_zhengma": "iuzm",
+        "char_code_sijiao": "59144"
+    },
+    "general_unicode": "基本区 U+877C",
+    "general_bs_code": "251214431234531"
+}

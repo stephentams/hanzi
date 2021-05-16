@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bamboo hat; bamboo covering"
+        },
+        {
+            "language": "法语",
+            "explanation": "chapeau de pluie en bambou"
+        }
+    ],
+    "general_pinyins": [
+        "lì"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "笠"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7B20",
+            "31431441431"
+        ],
+        "char_code_wubi": "tuf",
+        "char_code_cangjie": "hyt",
+        "char_code_zhengma": "msu",
+        "char_code_sijiao": "88108"
+    },
+    "general_unicode": "基本区 U+7B20",
+    "general_bs_code": "31431441431"
+}

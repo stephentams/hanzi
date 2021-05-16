@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "threshold; separated, confined"
+        },
+        {
+            "language": "德语",
+            "explanation": "Türschwelle  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "seuil (de porte)​"
+        }
+    ],
+    "general_pinyins": [
+        "yù"
+    ],
+    "general_zhuyins": [
+        "ㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "门",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "閾"
+    ],
+    "general_ytz": [
+        "閾",
+        "𨵨"
+    ],
+    "general_structure": "上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9608",
+            "42512511534"
+        ],
+        "char_code_wubi": "uakg",
+        "char_code_cangjie": "lsirm",
+        "char_code_zhengma": "tlja",
+        "char_code_sijiao": "37153"
+    },
+    "general_unicode": "基本区 U+9608",
+    "general_bs_code": "42512511534"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "smartweed, polygonum"
+        },
+        {
+            "language": "德语",
+            "explanation": "Knöteriche  (Bio)​,Liao  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "renouée,développement luxuriant"
+        }
+    ],
+    "general_pinyins": [
+        "liǎo",
+        "lù"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄠˇ",
+        "ㄌㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦾷",
+        "蓼"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "84FC",
+            "12254154134333"
+        ],
+        "char_code_wubi": "anwe",
+        "char_code_cangjie": "tsmh",
+        "char_code_zhengma": "eyop",
+        "char_code_sijiao": "44202"
+    },
+    "general_unicode": "基本区 U+84FC",
+    "general_bs_code": "12254154134333"
+}

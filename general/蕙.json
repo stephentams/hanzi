@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "species of fragrant orchid"
+        },
+        {
+            "language": "法语",
+            "explanation": "orchidée"
+        }
+    ],
+    "general_pinyins": [
+        "huì"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8559",
+            "122125112144544"
+        ],
+        "char_code_wubi": "agjn",
+        "char_code_cangjie": "tjip",
+        "char_code_zhengma": "efwz",
+        "char_code_sijiao": "44333"
+    },
+    "general_unicode": "基本区 U+8559",
+    "general_bs_code": "122125112144544"
+}

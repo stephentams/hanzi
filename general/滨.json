@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "beach, sea coast; river bank"
+        },
+        {
+            "language": "德语",
+            "explanation": "nahe an einem Gewässer liegend"
+        },
+        {
+            "language": "法语",
+            "explanation": "bord,plage,rivage,partie qui forme le pourtour,limite d'une surface ou d'un objet"
+        }
+    ],
+    "general_pinyins": [
+        "bīn"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄣ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "濱"
+    ],
+    "general_ytz": [
+        "濱",
+        "濵",
+        "䧬",
+        "𣴩",
+        "𣵈"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6EE8",
+            "4414453212134"
+        ],
+        "char_code_wubi": "iprw",
+        "char_code_cangjie": "ejoc",
+        "char_code_zhengma": "vwpo",
+        "char_code_sijiao": "33181"
+    },
+    "general_unicode": "基本区 U+6EE8",
+    "general_bs_code": "4414453212134"
+}

@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "exaggerate"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufbauschen, übertreiben"
+        }
+    ],
+    "general_pinyins": [
+        "wèi"
+    ],
+    "general_zhuyins": [
+        "ㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "15",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "躛"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E97",
+            "3325212511521122512134"
+        ],
+        "char_code_wubi": "tnhh|tnkh",
+        "char_code_cangjie": "hnryo",
+        "char_code_zhengma": "oimj",
+        "char_code_sijiao": "21801"
+    },
+    "general_unicode": "基本区 U+8E97",
+    "general_bs_code": "3325212511521122512134"
+}

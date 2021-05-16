@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mean; low"
+        },
+        {
+            "language": "德语",
+            "explanation": "Basis ,ländlich, rustikal  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "vil,vulgaire,bas,dédaigner"
+        }
+    ],
+    "general_pinyins": [
+        "bǐ"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "11",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨝣",
+        "𨝚",
+        "啚"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9119",
+            "2511225251152"
+        ],
+        "char_code_wubi": "kflb",
+        "char_code_cangjie": "rwnl",
+        "char_code_zhengma": "jejy",
+        "char_code_sijiao": "67627"
+    },
+    "general_unicode": "基本区 U+9119",
+    "general_bs_code": "2511225251152"
+}

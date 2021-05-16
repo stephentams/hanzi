@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "spider"
+        },
+        {
+            "language": "德语",
+            "explanation": "Spinne  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "araignée"
+        }
+    ],
+    "general_pinyins": [
+        "zhī"
+    ],
+    "general_zhuyins": [
+        "ㄓ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "8",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䵹",
+        "鼅",
+        "𧐉",
+        "𧌲"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8718",
+            "25121431134251"
+        ],
+        "char_code_wubi": "jtdk",
+        "char_code_cangjie": "liokr",
+        "char_code_zhengma": "imj",
+        "char_code_sijiao": "56100"
+    },
+    "general_unicode": "基本区 U+8718",
+    "general_bs_code": "25121431134251"
+}

@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "transfer, move, change; tune"
+        },
+        {
+            "language": "德语",
+            "explanation": "einen Streit schlichten  (V)​,in Einklang stehen  (V)​,Instrumente aufeinander abstimmen  (V)​,mischen, einblenden  (V)​,regulieren  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "régler,accorder,harmoniser,équilibrer,mélanger,convenir,déplacer,enquêter,accent,ton,mélodie"
+        }
+    ],
+    "general_pinyins": [
+        "tiáo",
+        "diào",
+        "zhōu"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧㄠˊ",
+        "ㄉㄧㄠˋ",
+        "ㄓㄡ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "調"
+    ],
+    "general_ytz": [
+        "調"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C03",
+            "4535121251"
+        ],
+        "char_code_wubi": "ymfk",
+        "char_code_cangjie": "ivbgr",
+        "char_code_zhengma": "slbj",
+        "char_code_sijiao": "37720"
+    },
+    "general_unicode": "基本区 U+8C03",
+    "general_bs_code": "4535121251"
+}

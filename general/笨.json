@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "foolish, stupid, dull; awkward"
+        },
+        {
+            "language": "德语",
+            "explanation": "dumm"
+        },
+        {
+            "language": "法语",
+            "explanation": "idiot,bête,maladroit,lourd,pesant"
+        }
+    ],
+    "general_pinyins": [
+        "bèn"
+    ],
+    "general_zhuyins": [
+        "ㄅㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "体",
+        "夯",
+        "𡍋",
+        "𡿶",
+        "𢜘",
+        "㤓"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7B28",
+            "31431412341"
+        ],
+        "char_code_wubi": "tsgf",
+        "char_code_cangjie": "hdm",
+        "char_code_zhengma": "mfa",
+        "char_code_sijiao": "88234"
+    },
+    "general_unicode": "基本区 U+7B28",
+    "general_bs_code": "31431412341"
+}

@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tip of a long bone"
+        }
+    ],
+    "general_pinyins": [
+        "hóu"
+    ],
+    "general_zhuyins": [
+        "ㄏㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "骨",
+        "non_radical_sn": "6",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𩩵",
+        "𩩽"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9ABA",
+            "255452511331251"
+        ],
+        "char_code_wubi": "merk",
+        "char_code_cangjie": "bbhmr",
+        "char_code_zhengma": "lwaj",
+        "char_code_sijiao": "72261"
+    },
+    "general_unicode": "基本区 U+9ABA",
+    "general_bs_code": "255452511331251"
+}

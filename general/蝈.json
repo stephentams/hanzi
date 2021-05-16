@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "small green frog; cicada"
+        },
+        {
+            "language": "德语",
+            "explanation": "Cyrtophyllus sp. (eine Art Heuschrecke)​  (Eig, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "petite grenouille verte,cigale"
+        }
+    ],
+    "general_pinyins": [
+        "guō"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄛ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "8",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "蟈"
+    ],
+    "general_ytz": [
+        "蟈"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8748",
+            "25121425112141"
+        ],
+        "char_code_wubi": "jlgy",
+        "char_code_cangjie": "liwmi",
+        "char_code_zhengma": "ijcs",
+        "char_code_sijiao": "56100"
+    },
+    "general_unicode": "基本区 U+8748",
+    "general_bs_code": "25121425112141"
+}

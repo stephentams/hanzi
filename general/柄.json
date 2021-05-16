@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "handle, lever, knob; authority"
+        },
+        {
+            "language": "德语",
+            "explanation": "Berechtigung, Handgriff, Griff  (S)​,behandeln, handeln  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "manche,poignée,tige,pédoncule"
+        }
+    ],
+    "general_pinyins": [
+        "bǐng"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "棅",
+        "秉",
+        "𥟱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "67C4",
+            "123412534"
+        ],
+        "char_code_wubi": "sgmw",
+        "char_code_cangjie": "dmob",
+        "char_code_zhengma": "falo",
+        "char_code_sijiao": "41927"
+    },
+    "general_unicode": "基本区 U+67C4",
+    "general_bs_code": "123412534"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bamboo or wooden fence; hedge"
+        },
+        {
+            "language": "德语",
+            "explanation": "Zaun, Hecke"
+        },
+        {
+            "language": "法语",
+            "explanation": "clôture en bambous"
+        }
+    ],
+    "general_pinyins": [
+        "lí"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "10",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "籬"
+    ],
+    "general_ytz": [
+        "籬",
+        "㰚"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7BF1",
+            "3143144134522554"
+        ],
+        "char_code_wubi": "tybc|tyrc",
+        "char_code_cangjie": "hyub",
+        "char_code_zhengma": "mslz",
+        "char_code_sijiao": "88227"
+    },
+    "general_unicode": "基本区 U+7BF1",
+    "general_bs_code": "3143144134522554"
+}

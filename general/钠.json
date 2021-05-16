@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sodium, natrium; sharpen wood"
+        },
+        {
+            "language": "德语",
+            "explanation": "Natrium (Element 11, Na)​ (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "sodium"
+        }
+    ],
+    "general_pinyins": [
+        "nà"
+    ],
+    "general_zhuyins": [
+        "ㄋㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "鈉"
+    ],
+    "general_ytz": [
+        "鈉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94A0",
+            "311152534"
+        ],
+        "char_code_wubi": "qmwy",
+        "char_code_cangjie": "opob",
+        "char_code_zhengma": "plod",
+        "char_code_sijiao": "84727"
+    },
+    "general_unicode": "基本区 U+94A0",
+    "general_bs_code": "311152534"
+}

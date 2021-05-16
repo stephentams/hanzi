@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(a variant of 劃) to rive; to divide; to mark; to cut"
+        }
+    ],
+    "general_pinyins": [
+        "huà"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "刂",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "劃"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "34F0",
+            "1251215222"
+        ],
+        "char_code_wubi": "gmbj",
+        "char_code_cangjie": "muln",
+        "char_code_zhengma": "akzk",
+        "char_code_sijiao": "12700"
+    },
+    "general_unicode": "扩展A U+34F0",
+    "general_bs_code": "1251215222"
+}

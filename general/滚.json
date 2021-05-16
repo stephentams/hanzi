@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "turn"
+        },
+        {
+            "language": "德语",
+            "explanation": "drehen, rollen  (V)​,kochen, sieden  (V, Ess)"
+        },
+        {
+            "language": "法语",
+            "explanation": "rouleau,rouler,s'en aller,va-t'en !,dégage !,Casse-toi !,Fous le camp"
+        }
+    ],
+    "general_pinyins": [
+        "gǔn"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "滾"
+    ],
+    "general_ytz": [
+        "滾",
+        "𣽙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6EDA",
+            "4414134543534"
+        ],
+        "char_code_wubi": "iuce",
+        "char_code_cangjie": "eycv",
+        "char_code_zhengma": "vszr",
+        "char_code_sijiao": "30132"
+    },
+    "general_unicode": "基本区 U+6EDA",
+    "general_bs_code": "4414134543534"
+}

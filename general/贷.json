@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lend; borrow; pardon"
+        },
+        {
+            "language": "德语",
+            "explanation": "leihen  (V)​,Kredit, Darlehen"
+        },
+        {
+            "language": "法语",
+            "explanation": "prêt,emprunter,prêter"
+        }
+    ],
+    "general_pinyins": [
+        "dài"
+    ],
+    "general_zhuyins": [
+        "ㄉㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "貸"
+    ],
+    "general_ytz": [
+        "貸",
+        "貣",
+        "𠌗",
+        "𠏞",
+        "𣃐",
+        "𧴮"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D37",
+            "321542534"
+        ],
+        "char_code_wubi": "wamu|waym",
+        "char_code_cangjie": "opbo",
+        "char_code_zhengma": "nhlo",
+        "char_code_sijiao": "23802"
+    },
+    "general_unicode": "基本区 U+8D37",
+    "general_bs_code": "321542534"
+}

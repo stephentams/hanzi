@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lean on, trust, depend on; near"
+        },
+        {
+            "language": "德语",
+            "explanation": "lehnen  (V)​,über, bei ,Lehne  (S)​,an...lehnen, sich anlehnen, sich auf...stützen  (V)​,fördern, stützen  (V)​,sich nähern, näherkommen, zusteuern  (V)​,gegen, entgegen, nahe  (Konj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "s'appuyer contre ou sur,être proche de,sûr"
+        }
+    ],
+    "general_pinyins": [
+        "kào"
+    ],
+    "general_zhuyins": [
+        "ㄎㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "非",
+        "non_radical_sn": "7",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "搞",
+        "𣞳",
+        "𩇸"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9760",
+            "312125121112111"
+        ],
+        "char_code_wubi": "tfkd",
+        "char_code_cangjie": "hgrly",
+        "char_code_zhengma": "mbjk",
+        "char_code_sijiao": "24111"
+    },
+    "general_unicode": "基本区 U+9760",
+    "general_bs_code": "312125121112111"
+}

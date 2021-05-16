@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "feather, writing brush, pen, pencil"
+        },
+        {
+            "language": "德语",
+            "explanation": "schreiben,  Feder"
+        },
+        {
+            "language": "法语",
+            "explanation": "pinceau,lettre"
+        }
+    ],
+    "general_pinyins": [
+        "hàn"
+    ],
+    "general_zhuyins": [
+        "ㄏㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "羽",
+        "non_radical_sn": "10",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "鶾",
+        "𠣍",
+        "𦒋",
+        "𨍚",
+        "𨎰",
+        "𩙶",
+        "𩙴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7FF0",
+            "1225111234541541"
+        ],
+        "char_code_wubi": "fjwn",
+        "char_code_cangjie": "jjosm",
+        "char_code_zhengma": "edyy",
+        "char_code_sijiao": "48427"
+    },
+    "general_unicode": "基本区 U+7FF0",
+    "general_bs_code": "1225111234541541"
+}

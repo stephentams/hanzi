@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 晉) a state during the period of Spring and Autumn, (same as 鄑) name of a place in today's Shandong Province"
+        }
+    ],
+    "general_pinyins": [
+        "jǐn",
+        "jìn",
+        "xíng",
+        "yǐng"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄣˇ",
+        "ㄐㄧㄣˋ",
+        "ㄒㄧㄥˊ",
+        "ㄧㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3B10",
+            "25111224312511"
+        ],
+        "char_code_wubi": "jgoj",
+        "char_code_cangjie": "amca",
+        "char_code_zhengma": "kakk",
+        "char_code_sijiao": "61061"
+    },
+    "general_unicode": "扩展A U+3B10",
+    "general_bs_code": "25111224312511"
+}

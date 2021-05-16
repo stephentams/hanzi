@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cormorant"
+        },
+        {
+            "language": "法语",
+            "explanation": "cormoran"
+        }
+    ],
+    "general_pinyins": [
+        "lú"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "鸟",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "鸕"
+    ],
+    "general_ytz": [
+        "鸕",
+        "𩁨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E2C",
+            "2151335451"
+        ],
+        "char_code_wubi": "hnqg",
+        "char_code_cangjie": "yspym",
+        "char_code_zhengma": "idxr",
+        "char_code_sijiao": "27227"
+    },
+    "general_unicode": "基本区 U+9E2C",
+    "general_bs_code": "2151335451"
+}

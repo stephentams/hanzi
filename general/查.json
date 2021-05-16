@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "investigate, examine, seek into"
+        },
+        {
+            "language": "德语",
+            "explanation": "überprüfen, untersuchen, examinieren  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom de famille)​,examiner,vérifier,contrôler,enquêter,consulter"
+        }
+    ],
+    "general_pinyins": [
+        "chá",
+        "zhā"
+    ],
+    "general_zhuyins": [
+        "ㄔㄚˊ",
+        "ㄓㄚ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "査",
+        "楂",
+        "槎",
+        "樝"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "67E5",
+            "123425111"
+        ],
+        "char_code_wubi": "sjgf",
+        "char_code_cangjie": "dam",
+        "char_code_zhengma": "fka",
+        "char_code_sijiao": "40106"
+    },
+    "general_unicode": "基本区 U+67E5",
+    "general_bs_code": "123425111"
+}

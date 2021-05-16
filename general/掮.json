@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to bear on the shoulders"
+        },
+        {
+            "language": "法语",
+            "explanation": "porter sur l'épaule"
+        }
+    ],
+    "general_pinyins": [
+        "qián"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠊘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "63AE",
+            "12145132511"
+        ],
+        "char_code_wubi": "ryne",
+        "char_code_cangjie": "qhsb",
+        "char_code_zhengma": "dwq",
+        "char_code_sijiao": "53027"
+    },
+    "general_unicode": "基本区 U+63AE",
+    "general_bs_code": "12145132511"
+}

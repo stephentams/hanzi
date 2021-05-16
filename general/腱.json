@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tendons"
+        },
+        {
+            "language": "德语",
+            "explanation": "Knorpel  (S)​,Saite  (S)​,Sehnen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tendon"
+        }
+    ],
+    "general_pinyins": [
+        "jiàn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥴤",
+        "𦞬",
+        "䇟"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8171",
+            "351151111254"
+        ],
+        "char_code_wubi": "evfp|evgp",
+        "char_code_cangjie": "bnkq",
+        "char_code_zhengma": "qxby",
+        "char_code_sijiao": "75240"
+    },
+    "general_unicode": "基本区 U+8171",
+    "general_bs_code": "351151111254"
+}

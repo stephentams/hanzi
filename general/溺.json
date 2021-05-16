@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "drown; submerge in water; indulge"
+        },
+        {
+            "language": "德语",
+            "explanation": "ertrinken ,urinieren"
+        },
+        {
+            "language": "法语",
+            "explanation": "noyer,s'adonner à,sombrer,gâter,noyer,s'adonner à,gâter"
+        }
+    ],
+    "general_pinyins": [
+        "nì",
+        "niào"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧˋ",
+        "ㄋㄧㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "尿",
+        "㲻",
+        "氼",
+        "𡲳",
+        "𤀂",
+        "𣲙",
+        "溺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6EBA",
+            "4415154151541"
+        ],
+        "char_code_wubi": "ixuu",
+        "char_code_cangjie": "enmm",
+        "char_code_zhengma": "vyyt",
+        "char_code_sijiao": "37127"
+    },
+    "general_unicode": "基本区 U+6EBA",
+    "general_bs_code": "4415154151541"
+}

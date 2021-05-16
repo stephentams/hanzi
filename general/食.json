@@ -1,0 +1,59 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "eat; meal; food; KangXi radical number 184"
+        },
+        {
+            "language": "德语",
+            "explanation": "essen, speisen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "nourrir,manger,nourriture,aliments pour animaux,éclipse"
+        }
+    ],
+    "general_pinyins": [
+        "shí",
+        "sì",
+        "yì"
+    ],
+    "general_zhuyins": [
+        "ㄕˊ",
+        "ㄙˋ",
+        "ㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "飠",
+        "non_radical_sn": "1",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "蝕",
+        "飠",
+        "𠋑",
+        "𨢁",
+        "𩚀",
+        "𩚁",
+        "𩚃",
+        "饣",
+        "飼",
+        "𠊊",
+        "𢻘",
+        "𪛏"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "98DF",
+            "344511534"
+        ],
+        "char_code_wubi": "wyve|wyvu",
+        "char_code_cangjie": "oiav",
+        "char_code_zhengma": "ox",
+        "char_code_sijiao": "80732"
+    },
+    "general_unicode": "基本区 U+98DF",
+    "general_bs_code": "344511534"
+}

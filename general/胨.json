@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a kind of protein"
+        }
+    ],
+    "general_pinyins": [
+        "dòng"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "腖"
+    ],
+    "general_ytz": [
+        "腖"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "80E8",
+            "351115234"
+        ],
+        "char_code_wubi": "eaiy",
+        "char_code_cangjie": "bkd",
+        "char_code_zhengma": "qhko",
+        "char_code_sijiao": "74294"
+    },
+    "general_unicode": "基本区 U+80E8",
+    "general_bs_code": "351115234"
+}

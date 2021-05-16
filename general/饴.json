@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sweet-meats; sweet-cakes; syrup"
+        },
+        {
+            "language": "德语",
+            "explanation": "Saft  (S)​,Zucker  (S)​,Zuckersaft  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "sucre,joie"
+        }
+    ],
+    "general_pinyins": [
+        "yí"
+    ],
+    "general_zhuyins": [
+        "ㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "饣",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "飴"
+    ],
+    "general_ytz": [
+        "飴",
+        "䬮",
+        "𥹋",
+        "𩛛",
+        "𩛮",
+        "𩞫"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9974",
+            "35554251"
+        ],
+        "char_code_wubi": "qnck",
+        "char_code_cangjie": "nvir",
+        "char_code_zhengma": "oxzj",
+        "char_code_sijiao": "23760"
+    },
+    "general_unicode": "基本区 U+9974",
+    "general_bs_code": "35554251"
+}

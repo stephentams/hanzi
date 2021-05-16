@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "crystal; clear, bright; radiant"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kristall  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "éclat,cristal,brillant"
+        }
+    ],
+    "general_pinyins": [
+        "jīng"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄥ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "晟",
+        "𦜳",
+        "𣇵"
+    ],
+    "general_structure": "品字结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6676",
+            "251125112511"
+        ],
+        "char_code_wubi": "jjjf",
+        "char_code_cangjie": "aaa",
+        "char_code_zhengma": "kkk",
+        "char_code_sijiao": "60660"
+    },
+    "general_unicode": "基本区 U+6676",
+    "general_bs_code": "251125112511"
+}

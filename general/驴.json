@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "donkey, ass"
+        },
+        {
+            "language": "德语",
+            "explanation": "Esel  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "âne,equus asinus"
+        }
+    ],
+    "general_pinyins": [
+        "lǘ"
+    ],
+    "general_zhuyins": [
+        "ㄌㄩˊ"
+    ],
+    "general_radical": {
+        "radical": "马",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "驢"
+    ],
+    "general_ytz": [
+        "驢",
+        "馿",
+        "𩢉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A74",
+            "5514513"
+        ],
+        "char_code_wubi": "cynt|cgyn",
+        "char_code_cangjie": "nmis",
+        "char_code_zhengma": "xwm",
+        "char_code_sijiao": "73107"
+    },
+    "general_unicode": "基本区 U+9A74",
+    "general_bs_code": "5514513"
+}

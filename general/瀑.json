@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "waterfall, cascade; heavy rain"
+        },
+        {
+            "language": "德语",
+            "explanation": "Dusche, Regenfall (Schauer)​  (S)​,Wasserfall  (S)​,Wasserfall  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cascade,chute d'eau,cascade"
+        }
+    ],
+    "general_pinyins": [
+        "pù",
+        "bào"
+    ],
+    "general_zhuyins": [
+        "ㄆㄨˋ",
+        "ㄅㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "15",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤄗",
+        "爆",
+        "𤃵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7011",
+            "441251112213424134"
+        ],
+        "char_code_wubi": "ijai",
+        "char_code_cangjie": "eate",
+        "char_code_zhengma": "vkok",
+        "char_code_sijiao": "36199"
+    },
+    "general_unicode": "基本区 U+7011",
+    "general_bs_code": "441251112213424134"
+}

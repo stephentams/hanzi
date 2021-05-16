@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "entrenchment, bank, low wall"
+        },
+        {
+            "language": "德语",
+            "explanation": "Hafenbecken, Anklagebank  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "wù"
+    ],
+    "general_zhuyins": [
+        "ㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "塢"
+    ],
+    "general_ytz": [
+        "塢",
+        "隖",
+        "䃖",
+        "𨻑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "575E",
+            "1213551"
+        ],
+        "char_code_wubi": "fqng|ftng",
+        "char_code_cangjie": "gpvm",
+        "char_code_zhengma": "brza",
+        "char_code_sijiao": "47127"
+    },
+    "general_unicode": "基本区 U+575E",
+    "general_bs_code": "1213551"
+}

@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "still, yet, also, besides"
+        },
+        {
+            "language": "德语",
+            "explanation": "auch ,zurückgeben, zurückkehren, zurückkommen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "retourner,regagner,rétablir,rendre,rembourser,encore,encore plus,plutôt,de plus,également"
+        }
+    ],
+    "general_pinyins": [
+        "huán",
+        "hái"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄢˊ",
+        "ㄏㄞˊ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "還"
+    ],
+    "general_ytz": [
+        "還",
+        "𢕼",
+        "𨕔",
+        "𨖞",
+        "𨘣"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8FD8",
+            "1324454"
+        ],
+        "char_code_wubi": "gipi|dhpi",
+        "char_code_cangjie": "ymf",
+        "char_code_zhengma": "giw",
+        "char_code_sijiao": "31309"
+    },
+    "general_unicode": "基本区 U+8FD8",
+    "general_bs_code": "1324454"
+}

@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 磐) a great rock"
+        }
+    ],
+    "general_pinyins": [
+        "pán",
+        "pàn"
+    ],
+    "general_zhuyins": [
+        "ㄆㄢˊ",
+        "ㄆㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "15",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "磐"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "40F2",
+            "13251335414355425221"
+        ],
+        "char_code_wubi": "dtel|dtul",
+        "char_code_cangjie": "mrhet",
+        "char_code_zhengma": "gpql",
+        "char_code_sijiao": "17612"
+    },
+    "general_unicode": "扩展A U+40F2",
+    "general_bs_code": "13251335414355425221"
+}

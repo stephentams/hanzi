@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "lí"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "18",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "21FCE",
+            "252413452255432411121"
+        ],
+        "char_code_wubi": "myby",
+        "char_code_cangjie": "uybg",
+        "char_code_zhengma": "llzn"
+    },
+    "general_unicode": "扩展B U+21FCE",
+    "general_bs_code": "252413452255432411121"
+}

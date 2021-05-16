@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a tribe of Scythian nomads"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom d'une tribu)​"
+        }
+    ],
+    "general_pinyins": [
+        "yǔn"
+    ],
+    "general_zhuyins": [
+        "ㄩㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "72C1",
+            "3535435"
+        ],
+        "char_code_wubi": "qtcq",
+        "char_code_cangjie": "khihu",
+        "char_code_zhengma": "qmzr",
+        "char_code_sijiao": "43212"
+    },
+    "general_unicode": "基本区 U+72C1",
+    "general_bs_code": "3535435"
+}

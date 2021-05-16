@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "heat with fire; stew"
+        },
+        {
+            "language": "德语",
+            "explanation": "schmoren; aufwärmen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cuire à petit feu,chauffer"
+        }
+    ],
+    "general_pinyins": [
+        "dùn"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "燉"
+    ],
+    "general_ytz": [
+        "燉",
+        "𤆚"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7096",
+            "43341525"
+        ],
+        "char_code_wubi": "ogbn",
+        "char_code_cangjie": "fpu",
+        "char_code_zhengma": "uohz",
+        "char_code_sijiao": "95817"
+    },
+    "general_unicode": "基本区 U+7096",
+    "general_bs_code": "43341525"
+}

@@ -1,0 +1,26 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "十",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "羊",
+        "羋"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2634B",
+            "2121112"
+        ],
+        "char_code_wubi": "gjgh",
+        "char_code_cangjie": "tq",
+        "char_code_zhengma": "ebi"
+    },
+    "general_unicode": "扩展B U+2634B",
+    "general_bs_code": "2121112"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "go by foot; epilogue, colophon"
+        },
+        {
+            "language": "法语",
+            "explanation": "marcher avec peine,fouler du pied"
+        }
+    ],
+    "general_pinyins": [
+        "bá"
+    ],
+    "general_zhuyins": [
+        "ㄅㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "5",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䟺",
+        "𧿡",
+        "𧺺",
+        "犮",
+        "䟦"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8DCB",
+            "251212113544"
+        ],
+        "char_code_wubi": "khdc|khdy",
+        "char_code_cangjie": "rmike",
+        "char_code_zhengma": "jixs",
+        "char_code_sijiao": "63147"
+    },
+    "general_unicode": "基本区 U+8DCB",
+    "general_bs_code": "251212113544"
+}

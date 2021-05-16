@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "china grass, ramie"
+        },
+        {
+            "language": "德语",
+            "explanation": "Pflanzensorte (Rohstoff für Textilindustrie)​  (S, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "ramie"
+        }
+    ],
+    "general_pinyins": [
+        "zhù"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "苧"
+    ],
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "82CE",
+            "1224451"
+        ],
+        "char_code_wubi": "apgf",
+        "char_code_cangjie": "tjm",
+        "char_code_zhengma": "ewa",
+        "char_code_sijiao": "44102"
+    },
+    "general_unicode": "基本区 U+82CE",
+    "general_bs_code": "1224451"
+}

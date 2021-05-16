@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a marshal or herald; an offical rank in old times, indicating exclamation (same as 哉)"
+        }
+    ],
+    "general_pinyins": [
+        "jì"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䢎"
+    ],
+    "general_structure": "左下包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "488B",
+            "132454"
+        ],
+        "char_code_wubi": "gjpk",
+        "char_code_cangjie": "yml",
+        "char_code_zhengma": "wand",
+        "char_code_sijiao": "31302"
+    },
+    "general_unicode": "扩展A U+488B",
+    "general_bs_code": "132454"
+}

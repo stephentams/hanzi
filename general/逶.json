@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "winding, curving; swagger"
+        },
+        {
+            "language": "德语",
+            "explanation": "schwadronieren, stolzierender,wiegender Gang"
+        },
+        {
+            "language": "法语",
+            "explanation": "tortueux"
+        }
+    ],
+    "general_pinyins": [
+        "wēi"
+    ],
+    "general_zhuyins": [
+        "ㄨㄟ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨖿",
+        "踒",
+        "倭",
+        "㣦"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9036",
+            "31234531454"
+        ],
+        "char_code_wubi": "tvpd",
+        "char_code_cangjie": "yhdv",
+        "char_code_zhengma": "mfzw",
+        "char_code_sijiao": "32304"
+    },
+    "general_unicode": "基本区 U+9036",
+    "general_bs_code": "31234531454"
+}

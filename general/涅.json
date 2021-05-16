@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "blacken; black mud, slime; tatto"
+        },
+        {
+            "language": "德语",
+            "explanation": "etwas schwarz färben  (V)​,schwärzen, anschwärzen  (V)"
+        }
+    ],
+    "general_pinyins": [
+        "niè"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㘿",
+        "湼",
+        "𣵀"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6D85",
+            "4412511121"
+        ],
+        "char_code_wubi": "ijfg",
+        "char_code_cangjie": "eag",
+        "char_code_zhengma": "vkb",
+        "char_code_sijiao": "36114"
+    },
+    "general_unicode": "基本区 U+6D85",
+    "general_bs_code": "4412511121"
+}

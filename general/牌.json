@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "signboard, placard"
+        },
+        {
+            "language": "德语",
+            "explanation": "Firmenschild  (S)​,Karten  (S)​,Tafel  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tableau,panneau,marque,carte à jouer,domino"
+        }
+    ],
+    "general_pinyins": [
+        "pái"
+    ],
+    "general_zhuyins": [
+        "ㄆㄞˊ"
+    ],
+    "general_radical": {
+        "radical": "片",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤗋"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "724C",
+            "321532511312"
+        ],
+        "char_code_wubi": "thgf",
+        "char_code_cangjie": "llhwj",
+        "char_code_zhengma": "nxne",
+        "char_code_sijiao": "26040"
+    },
+    "general_unicode": "基本区 U+724C",
+    "general_bs_code": "321532511312"
+}

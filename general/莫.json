@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "do not, is not, can not; negative"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 keiner; niemand; nichts ,nicht ,Mo  (Eig, Fam)"
+        }
+    ],
+    "general_pinyins": [
+        "mò",
+        "mù"
+    ],
+    "general_zhuyins": [
+        "ㄇㄛˋ",
+        "ㄇㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦶛",
+        "𦱴",
+        "𦱤",
+        "𦮅",
+        "𢍋",
+        "䒬"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "83AB",
+            "1222511134"
+        ],
+        "char_code_wubi": "ajdu",
+        "char_code_cangjie": "tak",
+        "char_code_zhengma": "ekgd",
+        "char_code_sijiao": "44804"
+    },
+    "general_unicode": "基本区 U+83AB",
+    "general_bs_code": "1222511134"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "recite, chant, repeat"
+        },
+        {
+            "language": "德语",
+            "explanation": "laut lesen, vortragen, vorlesen  (V)​,Song  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "lire ou réciter à haute voix"
+        }
+    ],
+    "general_pinyins": [
+        "sòng"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "誦"
+    ],
+    "general_ytz": [
+        "誦"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BF5",
+            "455425112"
+        ],
+        "char_code_wubi": "yceh",
+        "char_code_cangjie": "ivnib",
+        "char_code_zhengma": "sxld",
+        "char_code_sijiao": "37727"
+    },
+    "general_unicode": "基本区 U+8BF5",
+    "general_bs_code": "455425112"
+}

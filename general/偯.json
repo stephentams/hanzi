@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sob"
+        },
+        {
+            "language": "德语",
+            "explanation": "jammern, klagen ,schluchzen"
+        },
+        {
+            "language": "法语",
+            "explanation": "sangloter,gémissement"
+        }
+    ],
+    "general_pinyins": [
+        "yǐ"
+    ],
+    "general_zhuyins": [
+        "ㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㥋"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "506F",
+            "32412513534"
+        ],
+        "char_code_wubi": "wyey",
+        "char_code_cangjie": "oyrv",
+        "char_code_zhengma": "nsjr",
+        "char_code_sijiao": "20232"
+    },
+    "general_unicode": "基本区 U+506F",
+    "general_bs_code": "32412513534"
+}

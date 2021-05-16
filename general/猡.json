@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pig; Lolo aboringinal tribe"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom d'une tribu)​"
+        }
+    ],
+    "general_pinyins": [
+        "luó"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "玀"
+    ],
+    "general_ytz": [
+        "玀"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7321",
+            "35325221354"
+        ],
+        "char_code_wubi": "qtlq",
+        "char_code_cangjie": "khwln",
+        "char_code_zhengma": "qmlr",
+        "char_code_sijiao": "46227"
+    },
+    "general_unicode": "基本区 U+7321",
+    "general_bs_code": "35325221354"
+}

@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bowels, entrails, internal organs"
+        },
+        {
+            "language": "法语",
+            "explanation": "entrailles"
+        }
+    ],
+    "general_pinyins": [
+        "fǔ"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "胕",
+        "府",
+        "腐"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8151",
+            "351141332124"
+        ],
+        "char_code_wubi": "eywf|eowf",
+        "char_code_cangjie": "bioi",
+        "char_code_zhengma": "qtnd",
+        "char_code_sijiao": "70240"
+    },
+    "general_unicode": "基本区 U+8151",
+    "general_bs_code": "351141332124"
+}

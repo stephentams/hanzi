@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "artemisia, mugwort; translit."
+        },
+        {
+            "language": "德语",
+            "explanation": "Beifuß (lat: Artemisia)​ (Eig, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tondre,armoise,couper court,SIDA (abrév.)​"
+        }
+    ],
+    "general_pinyins": [
+        "ài",
+        "yì"
+    ],
+    "general_zhuyins": [
+        "ㄞˋ",
+        "ㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "2",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㘷",
+        "𠚫",
+        "𦫿"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "827E",
+            "12234"
+        ],
+        "char_code_wubi": "aqu|aru",
+        "char_code_cangjie": "tk",
+        "char_code_zhengma": "eos",
+        "char_code_sijiao": "44400"
+    },
+    "general_unicode": "基本区 U+827E",
+    "general_bs_code": "12234"
+}

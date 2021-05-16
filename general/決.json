@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "decide, determine, judge"
+        },
+        {
+            "language": "德语",
+            "explanation": "an jemandem die Todesstrafe vollstrecken  (S)​,Bresche, Einbruchstelle  (S)​,bestimmen, beenden  (V)​,entscheiden, befinden  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "absolument,décider,déterminer"
+        }
+    ],
+    "general_pinyins": [
+        "jué"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "决"
+    ],
+    "general_ytz": [
+        "决",
+        "吷",
+        "夬",
+        "𣲺",
+        "𦐍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6C7A",
+            "4415134"
+        ],
+        "char_code_wubi": "inwy",
+        "char_code_cangjie": "edk",
+        "char_code_zhengma": "vxgd",
+        "char_code_sijiao": "35180"
+    },
+    "general_unicode": "基本区 U+6C7A",
+    "general_bs_code": "4415134"
+}

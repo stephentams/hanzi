@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bent and twisted; too complicated"
+        },
+        {
+            "language": "德语",
+            "explanation": "schwierig auszusprechen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "difficile à prononcer,tordu,entortillé,compliqué"
+        }
+    ],
+    "general_pinyins": [
+        "áo"
+    ],
+    "general_zhuyins": [
+        "ㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "耳",
+        "non_radical_sn": "10",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤘒",
+        "𦗷"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8071",
+            "1121533134122111"
+        ],
+        "char_code_wubi": "gqtb",
+        "char_code_cangjie": "gksj",
+        "char_code_zhengma": "cimc",
+        "char_code_sijiao": "58401"
+    },
+    "general_unicode": "基本区 U+8071",
+    "general_bs_code": "1121533134122111"
+}

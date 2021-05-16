@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sincere, faithful; surname"
+        },
+        {
+            "language": "法语",
+            "explanation": "certes,effectivement,croire (littéraire)​"
+        }
+    ],
+    "general_pinyins": [
+        "chén",
+        "shèn"
+    ],
+    "general_zhuyins": [
+        "ㄔㄣˊ",
+        "ㄕㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "諶"
+    ],
+    "general_ytz": [
+        "諶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C0C",
+            "45122111345"
+        ],
+        "char_code_wubi": "yadn|ydwn",
+        "char_code_cangjie": "ivtmv",
+        "char_code_zhengma": "sez",
+        "char_code_sijiao": "34718"
+    },
+    "general_unicode": "基本区 U+8C0C",
+    "general_bs_code": "45122111345"
+}

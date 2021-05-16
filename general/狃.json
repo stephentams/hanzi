@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to covet; to be accustomed"
+        },
+        {
+            "language": "德语",
+            "explanation": "gewohnt an"
+        }
+    ],
+    "general_pinyins": [
+        "niǔ"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢔟"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "72C3",
+            "3535211"
+        ],
+        "char_code_wubi": "qtnf|qtng",
+        "char_code_cangjie": "khng",
+        "char_code_zhengma": "qmxe",
+        "char_code_sijiao": "47212"
+    },
+    "general_unicode": "基本区 U+72C3",
+    "general_bs_code": "3535211"
+}

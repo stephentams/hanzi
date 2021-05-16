@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "owl"
+        },
+        {
+            "language": "德语",
+            "explanation": "Habichtskauz"
+        },
+        {
+            "language": "法语",
+            "explanation": "Strigiformes,chouette,hibou,Strigiformes"
+        }
+    ],
+    "general_pinyins": [
+        "xiāo"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "鸟",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "鴞"
+    ],
+    "general_ytz": [
+        "鴞"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E2E",
+            "2511535451"
+        ],
+        "char_code_wubi": "kgng",
+        "char_code_cangjie": "rspym",
+        "char_code_zhengma": "jazr",
+        "char_code_sijiao": "67227"
+    },
+    "general_unicode": "基本区 U+9E2E",
+    "general_bs_code": "2511535451"
+}

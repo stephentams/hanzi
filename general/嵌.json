@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "inlay, set in; fall into; rugged"
+        },
+        {
+            "language": "德语",
+            "explanation": "auslegen, eingelegtes Muster ,Einschluss  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "incruster,enchâsser"
+        }
+    ],
+    "general_pinyins": [
+        "qiàn",
+        "kàn"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄢˋ",
+        "ㄎㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㘛",
+        "廞",
+        "篏",
+        "㟛"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5D4C",
+            "252122113534"
+        ],
+        "char_code_wubi": "mafw|mfqw",
+        "char_code_cangjie": "utmo",
+        "char_code_zhengma": "ller",
+        "char_code_sijiao": "22782"
+    },
+    "general_unicode": "基本区 U+5D4C",
+    "general_bs_code": "252122113534"
+}

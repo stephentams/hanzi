@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "indulge; excess; numeral four; particle meaning now, therefore; shop"
+        },
+        {
+            "language": "德语",
+            "explanation": "4, vier (alternative Form für Finanzwesen, fälschungssicherer)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "sans retenue"
+        }
+    ],
+    "general_pinyins": [
+        "sì"
+    ],
+    "general_zhuyins": [
+        "ㄙˋ"
+    ],
+    "general_radical": {
+        "radical": "聿",
+        "non_radical_sn": "7",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "四",
+        "肄",
+        "銉",
+        "𢑨",
+        "𦘨",
+        "𨽸",
+        "𩬶",
+        "𩭞"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8086",
+            "1211154511112"
+        ],
+        "char_code_wubi": "dvfh|dvgh",
+        "char_code_cangjie": "silq",
+        "char_code_zhengma": "chxb",
+        "char_code_sijiao": "75707"
+    },
+    "general_unicode": "基本区 U+8086",
+    "general_bs_code": "1211154511112"
+}

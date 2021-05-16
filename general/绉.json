@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "crepe, crape, wrinkles, creases"
+        },
+        {
+            "language": "德语",
+            "explanation": "Falte  (S)​,Krepp  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "ridé,chiffonné,crêpe"
+        }
+    ],
+    "general_pinyins": [
+        "zhòu"
+    ],
+    "general_zhuyins": [
+        "ㄓㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "縐"
+    ],
+    "general_ytz": [
+        "縐",
+        "䋓",
+        "𥿲",
+        "𥿷",
+        "𦆜"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EC9",
+            "55135511"
+        ],
+        "char_code_wubi": "xqvg",
+        "char_code_cangjie": "vmnsm",
+        "char_code_zhengma": "zrxb",
+        "char_code_sijiao": "27177"
+    },
+    "general_unicode": "基本区 U+7EC9",
+    "general_bs_code": "55135511"
+}

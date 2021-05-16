@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a boa constrictor"
+        },
+        {
+            "language": "德语",
+            "explanation": "Riesenschlange; Boa"
+        },
+        {
+            "language": "法语",
+            "explanation": "Boidae,boa"
+        }
+    ],
+    "general_pinyins": [
+        "rán"
+    ],
+    "general_zhuyins": [
+        "ㄖㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "蚦",
+        "𧊨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "86BA",
+            "25121425211"
+        ],
+        "char_code_wubi": "jmfg",
+        "char_code_cangjie": "ligb",
+        "char_code_zhengma": "ilb",
+        "char_code_sijiao": "55147"
+    },
+    "general_unicode": "基本区 U+86BA",
+    "general_bs_code": "25121425211"
+}

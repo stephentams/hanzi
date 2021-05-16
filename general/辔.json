@@ -1,0 +1,55 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bridle of horse, reins"
+        },
+        {
+            "language": "德语",
+            "explanation": "Zaum  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "rênes,bride"
+        }
+    ],
+    "general_pinyins": [
+        "pèi"
+    ],
+    "general_zhuyins": [
+        "ㄆㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "车",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "轡"
+    ],
+    "general_ytz": [
+        "轡",
+        "㘘",
+        "𢢦",
+        "𢥩",
+        "𣦱",
+        "𦆕",
+        "𦇷",
+        "𨏯",
+        "𨏷",
+        "𬘄"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8F94",
+            "5511512551251"
+        ],
+        "char_code_wubi": "xlxk",
+        "char_code_cangjie": "vmr",
+        "char_code_zhengma": "zhzj",
+        "char_code_sijiao": "22601"
+    },
+    "general_unicode": "基本区 U+8F94",
+    "general_bs_code": "5511512551251"
+}

@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "condition or appearance of moon"
+        },
+        {
+            "language": "德语",
+            "explanation": "dämmerig, unklar, trüb"
+        },
+        {
+            "language": "法语",
+            "explanation": "tromper,indistinct"
+        }
+    ],
+    "general_pinyins": [
+        "méng"
+    ],
+    "general_zhuyins": [
+        "ㄇㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "13",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䏵",
+        "䑃"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6726",
+            "35111224511353334"
+        ],
+        "char_code_wubi": "eape",
+        "char_code_cangjie": "btbo",
+        "char_code_zhengma": "qeag",
+        "char_code_sijiao": "74232"
+    },
+    "general_unicode": "基本区 U+6726",
+    "general_bs_code": "35111224511353334"
+}

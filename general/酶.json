@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "enzymes; (Cant.) soft"
+        },
+        {
+            "language": "德语",
+            "explanation": "Enzym, Ferment"
+        },
+        {
+            "language": "法语",
+            "explanation": "enzyme"
+        }
+    ],
+    "general_pinyins": [
+        "méi"
+    ],
+    "general_zhuyins": [
+        "ㄇㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "酉",
+        "non_radical_sn": "7",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䊈",
+        "䤂"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9176",
+            "12535113155414"
+        ],
+        "char_code_wubi": "sgtu|sgtx",
+        "char_code_cangjie": "mwowy",
+        "char_code_zhengma": "fdmz",
+        "char_code_sijiao": "18657"
+    },
+    "general_unicode": "基本区 U+9176",
+    "general_bs_code": "12535113155414"
+}

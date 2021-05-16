@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "personal pronoun he, she, it"
+        },
+        {
+            "language": "德语",
+            "explanation": "sein, seine ,graben  (V)​,ohnmächtig werden  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "perdre conscience,s'évanouir"
+        }
+    ],
+    "general_pinyins": [
+        "jué"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "厂",
+        "non_radical_sn": "10",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "瘚",
+        "𠪆",
+        "𠪏",
+        "𠪼",
+        "𣅞",
+        "𣅲",
+        "𨈐",
+        "𨈑",
+        "橛"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "53A5",
+            "134315233534"
+        ],
+        "char_code_wubi": "dubw",
+        "char_code_cangjie": "mtuo",
+        "char_code_zhengma": "ggzr",
+        "char_code_sijiao": "71282"
+    },
+    "general_unicode": "基本区 U+53A5",
+    "general_bs_code": "134315233534"
+}

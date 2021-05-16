@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "separate, other; do not"
+        },
+        {
+            "language": "德语",
+            "explanation": "nicht tun, nicht ... ! ,andere"
+        },
+        {
+            "language": "法语",
+            "explanation": "ne pas...,défense de,partir,autre,différence,différent"
+        }
+    ],
+    "general_pinyins": [
+        "bié"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "刂",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "别"
+    ],
+    "general_ytz": [
+        "别",
+        "𠔁",
+        "𠛰",
+        "彆",
+        "憋",
+        "𠮠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5225",
+            "2515322"
+        ],
+        "char_code_wubi": "kqjh",
+        "char_code_cangjie": "rsln",
+        "char_code_zhengma": "jykd",
+        "char_code_sijiao": "62200"
+    },
+    "general_unicode": "基本区 U+5225",
+    "general_bs_code": "2515322"
+}

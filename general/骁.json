@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "excellent horse; brave, valiant"
+        },
+        {
+            "language": "法语",
+            "explanation": "beau cheval"
+        }
+    ],
+    "general_pinyins": [
+        "xiāo"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "马",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "驍"
+    ],
+    "general_ytz": [
+        "驍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A81",
+            "551153135"
+        ],
+        "char_code_wubi": "catq|cgaq",
+        "char_code_cangjie": "nmjpu",
+        "char_code_zhengma": "xhgr",
+        "char_code_sijiao": "75112"
+    },
+    "general_unicode": "基本区 U+9A81",
+    "general_bs_code": "551153135"
+}

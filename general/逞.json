@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "indulge oneself; brag, show off"
+        },
+        {
+            "language": "法语",
+            "explanation": "précipité,présomptueux"
+        }
+    ],
+    "general_pinyins": [
+        "chěng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "徎"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "901E",
+            "2511121454"
+        ],
+        "char_code_wubi": "kgpd",
+        "char_code_cangjie": "yrhg",
+        "char_code_zhengma": "jcw",
+        "char_code_sijiao": "36301"
+    },
+    "general_unicode": "基本区 U+901E",
+    "general_bs_code": "2511121454"
+}

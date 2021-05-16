@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "anchovy"
+        },
+        {
+            "language": "法语",
+            "explanation": "mulet,muge"
+        }
+    ],
+    "general_pinyins": [
+        "jì"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "魚",
+        "non_radical_sn": "14",
+        "total_sn": "25"
+    },
+    "general_stc": [
+        "鲚"
+    ],
+    "general_ytz": [
+        "鮆",
+        "鲚"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9C6D",
+            "3525121444441432533543211"
+        ],
+        "char_code_wubi": "qoyf|qoyj",
+        "char_code_cangjie": "nfyx",
+        "char_code_zhengma": "rsrn",
+        "char_code_sijiao": "20323"
+    },
+    "general_unicode": "基本区 U+9C6D",
+    "general_bs_code": "3525121444441432533543211"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "minced meat or fish"
+        },
+        {
+            "language": "德语",
+            "explanation": "in kleine Stücke geschnittenes Fleisch; das Hackfleisch  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "hachis"
+        }
+    ],
+    "general_pinyins": [
+        "kuài"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "膾"
+    ],
+    "general_ytz": [
+        "膾"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "810D",
+            "3511341154"
+        ],
+        "char_code_wubi": "ewfc",
+        "char_code_cangjie": "bomi",
+        "char_code_zhengma": "qobz",
+        "char_code_sijiao": "78232"
+    },
+    "general_unicode": "基本区 U+810D",
+    "general_bs_code": "3511341154"
+}

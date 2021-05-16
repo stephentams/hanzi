@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "steep and lofty, a big valley"
+        }
+    ],
+    "general_pinyins": [
+        "hán"
+    ],
+    "general_zhuyins": [
+        "ㄏㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㟔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "37CF",
+            "2523445251"
+        ],
+        "char_code_wubi": "mwyk",
+        "char_code_cangjie": "uoir",
+        "char_code_zhengma": "llxj",
+        "char_code_sijiao": "28762"
+    },
+    "general_unicode": "扩展A U+37CF",
+    "general_bs_code": "2523445251"
+}

@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(non-classical form of U+6148 慈) compassion; mercy; kind"
+        }
+    ],
+    "general_pinyins": [
+        "cí"
+    ],
+    "general_zhuyins": [
+        "ㄘˊ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "慈"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3935",
+            "52131344544"
+        ],
+        "char_code_wubi": "btnu",
+        "char_code_cangjie": "nkp",
+        "char_code_zhengma": "yamw",
+        "char_code_sijiao": "18334"
+    },
+    "general_unicode": "扩展A U+3935",
+    "general_bs_code": "52131344544"
+}

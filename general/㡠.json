@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a picture; one of a pair, as of scrolls, etc."
+        }
+    ],
+    "general_pinyins": [
+        "zhèng"
+    ],
+    "general_zhuyins": [
+        "ㄓㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "巾",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "幀"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3860",
+            "252543341251431"
+        ],
+        "char_code_wubi": "mhwu",
+        "char_code_cangjie": "lbnot",
+        "char_code_zhengma": "liju",
+        "char_code_sijiao": "42218"
+    },
+    "general_unicode": "扩展A U+3860",
+    "general_bs_code": "252543341251431"
+}

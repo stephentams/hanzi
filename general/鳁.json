@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sardine"
+        }
+    ],
+    "general_pinyins": [
+        "wēn"
+    ],
+    "general_zhuyins": [
+        "ㄨㄣ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "9",
+        "total_sn": "17"
+    },
+    "general_stc": [
+        "鰮"
+    ],
+    "general_ytz": [
+        "鰮",
+        "鰛"
+    ],
+    "general_structure": "形声；左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9CC1",
+            "35251211251125221"
+        ],
+        "char_code_wubi": "qgjl",
+        "char_code_cangjie": "nmabt",
+        "char_code_zhengma": "rklk",
+        "char_code_sijiao": "26112"
+    },
+    "general_unicode": "基本区 U+9CC1",
+    "general_bs_code": "35251211251125221"
+}

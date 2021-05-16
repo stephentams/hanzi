@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mat, pad; rely on; pretext"
+        },
+        {
+            "language": "德语",
+            "explanation": "mittels, anhand ,Jie  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "emprunter de l'argent,prêter,se servir de,tapis de sol,apaiser,amadouer,insulter,marcher sur les pieds de qqn"
+        }
+    ],
+    "general_pinyins": [
+        "jiè",
+        "jí"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄝˋ",
+        "ㄐㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "14",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧃫",
+        "蒩",
+        "借",
+        "耤"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "85C9",
+            "12211123412212511"
+        ],
+        "char_code_wubi": "adij|afsj",
+        "char_code_cangjie": "tqda",
+        "char_code_zhengma": "ecek",
+        "char_code_sijiao": "44961"
+    },
+    "general_unicode": "基本区 U+85C9",
+    "general_bs_code": "12211123412212511"
+}

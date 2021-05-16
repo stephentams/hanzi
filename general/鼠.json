@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rat, mouse; KangXi radical 208"
+        },
+        {
+            "language": "德语",
+            "explanation": "Hausmaus  (S)​,Radikal Nr. 208 = Ratte, Maus"
+        },
+        {
+            "language": "法语",
+            "explanation": "rat,souris,208e radical"
+        }
+    ],
+    "general_pinyins": [
+        "shǔ"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "鼠",
+        "non_radical_sn": "0",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䑕",
+        "𠏙",
+        "𣆎",
+        "𣆨",
+        "𣇑",
+        "𦥩",
+        "鼡"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9F20",
+            "3215115445445"
+        ],
+        "char_code_wubi": "vnun|enun",
+        "char_code_cangjie": "hxvyv",
+        "char_code_zhengma": "nbzd",
+        "char_code_sijiao": "77712"
+    },
+    "general_unicode": "基本区 U+9F20",
+    "general_bs_code": "3215115445445"
+}

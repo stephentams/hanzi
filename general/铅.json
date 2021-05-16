@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lead"
+        },
+        {
+            "language": "德语",
+            "explanation": "Blei (Element 82, Pb)​ (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "plomb"
+        }
+    ],
+    "general_pinyins": [
+        "qiān",
+        "yán"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄢ",
+        "ㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "鉛"
+    ],
+    "general_ytz": [
+        "鉛",
+        "鈆"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94C5",
+            "3111535251"
+        ],
+        "char_code_wubi": "qmkg|qwkg",
+        "char_code_cangjie": "ophnr",
+        "char_code_zhengma": "pqj",
+        "char_code_sijiao": "87761"
+    },
+    "general_unicode": "基本区 U+94C5",
+    "general_bs_code": "3111535251"
+}

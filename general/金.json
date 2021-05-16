@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "gold; metals in general; money"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gold (Element  79, Au)​ (S, Chem)​,Metall (S)​,Jin (Eig, Fam)​,Radikal Nr. 167 = Metall, Gold, Geld (Variante: 釒)​ (Sprachw)"
+        },
+        {
+            "language": "法语",
+            "explanation": "métal,or,armes,(nom de famille)​,167e radical"
+        }
+    ],
+    "general_pinyins": [
+        "jīn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄣ"
+    ],
+    "general_radical": {
+        "radical": "金",
+        "non_radical_sn": "0",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "釒",
+        "𠉓",
+        "𠊍",
+        "𨥀",
+        "𨥄",
+        "钅",
+        "𨤾",
+        "金"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "91D1",
+            "34112431"
+        ],
+        "char_code_wubi": "qqqq",
+        "char_code_cangjie": "c",
+        "char_code_zhengma": "pa",
+        "char_code_sijiao": "80109"
+    },
+    "general_unicode": "基本区 U+91D1",
+    "general_bs_code": "34112431"
+}

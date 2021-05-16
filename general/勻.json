@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "equal, impartially, uniform, even"
+        },
+        {
+            "language": "德语",
+            "explanation": "gleichmässig  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "égal,uniforme,partager"
+        }
+    ],
+    "general_pinyins": [
+        "yún"
+    ],
+    "general_zhuyins": [
+        "ㄩㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "勹",
+        "non_radical_sn": "2",
+        "total_sn": "4"
+    },
+    "general_stc": [
+        "匀"
+    ],
+    "general_ytz": [
+        "匀",
+        "𠣐",
+        "均",
+        "韻"
+    ],
+    "general_structure": "右上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "52FB",
+            "3511"
+        ],
+        "char_code_wubi": "qfd",
+        "char_code_cangjie": "pmm",
+        "char_code_zhengma": "rybd",
+        "char_code_sijiao": "27120"
+    },
+    "general_unicode": "基本区 U+52FB",
+    "general_bs_code": "3511"
+}

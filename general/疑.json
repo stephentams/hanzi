@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "doubt, question, suspect"
+        },
+        {
+            "language": "德语",
+            "explanation": "zweifeln, zweifelhaft  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "doute,soupçon,douteux,douter,soupçonner"
+        }
+    ],
+    "general_pinyins": [
+        "yí",
+        "nǐ"
+    ],
+    "general_zhuyins": [
+        "ㄧˊ",
+        "ㄋㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "疋",
+        "non_radical_sn": "9",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "儗",
+        "𠤗",
+        "𠤘",
+        "𠤜",
+        "𢁄",
+        "𥎲",
+        "𦬦",
+        "𩉏"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7591",
+            "35311345452134"
+        ],
+        "char_code_wubi": "xtdh",
+        "char_code_cangjie": "pknio",
+        "char_code_zhengma": "rrxi",
+        "char_code_sijiao": "27881"
+    },
+    "general_unicode": "基本区 U+7591",
+    "general_bs_code": "35311345452134"
+}

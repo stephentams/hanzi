@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as U+7FA3 羣) group, crowd, multitude, mob"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gruppe, Herde, Menge, Schar, Schwarm (S)​,gruppiert (Adj)​,ZEW für Gruppen (Mensch, Tier)​ (Zähl)"
+        },
+        {
+            "language": "法语",
+            "explanation": "groupe,troupeau,essaim"
+        }
+    ],
+    "general_pinyins": [
+        "qún"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "羊",
+        "non_radical_sn": "7",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "羣",
+        "䭽",
+        "𠹩",
+        "𤛭"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7FA4",
+            "5113251431112"
+        ],
+        "char_code_wubi": "vtkd|vtku",
+        "char_code_cangjie": "srtq",
+        "char_code_zhengma": "xmau",
+        "char_code_sijiao": "18651"
+    },
+    "general_unicode": "基本区 U+7FA4",
+    "general_bs_code": "5113251431112"
+}

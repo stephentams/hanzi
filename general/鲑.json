@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "salmon; spheroides vermicularis"
+        },
+        {
+            "language": "德语",
+            "explanation": "Lachs, Salm  (S)​,Forelle  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "Saumon,saumon"
+        }
+    ],
+    "general_pinyins": [
+        "guī",
+        "xié"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄟ",
+        "ㄒㄧㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "6",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "鮭"
+    ],
+    "general_ytz": [
+        "鮭"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9C91",
+            "35251211121121"
+        ],
+        "char_code_wubi": "qgff",
+        "char_code_cangjie": "nmgg",
+        "char_code_zhengma": "rbb",
+        "char_code_sijiao": "24114"
+    },
+    "general_unicode": "基本区 U+9C91",
+    "general_bs_code": "35251211121121"
+}

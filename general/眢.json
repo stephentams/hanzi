@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "eyes without brightness"
+        },
+        {
+            "language": "德语",
+            "explanation": "geröstet, verdorrt"
+        },
+        {
+            "language": "法语",
+            "explanation": "paupières enflammées,desséché"
+        }
+    ],
+    "general_pinyins": [
+        "yuān"
+    ],
+    "general_zhuyins": [
+        "ㄩㄢ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7722",
+            "3545525111"
+        ],
+        "char_code_wubi": "qbhf",
+        "char_code_cangjie": "nubu",
+        "char_code_zhengma": "rsyl",
+        "char_code_sijiao": "27601"
+    },
+    "general_unicode": "基本区 U+7722",
+    "general_bs_code": "3545525111"
+}

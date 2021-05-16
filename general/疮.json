@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tumor, boil, sore, wound"
+        },
+        {
+            "language": "德语",
+            "explanation": "Hautgeschwür, Geschwür  (S, Med)​,Wunde ( aüßerlich - 外伤 )​  (S, Med)​,schlimm, weh"
+        },
+        {
+            "language": "法语",
+            "explanation": "ulcère,furoncle,blessure"
+        }
+    ],
+    "general_pinyins": [
+        "chuāng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨㄤ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "瘡"
+    ],
+    "general_ytz": [
+        "瘡",
+        "𤶷",
+        "𤺨"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "75AE",
+            "413413455"
+        ],
+        "char_code_wubi": "uwbv",
+        "char_code_cangjie": "kosu",
+        "char_code_zhengma": "toyy",
+        "char_code_sijiao": "00112"
+    },
+    "general_unicode": "基本区 U+75AE",
+    "general_bs_code": "413413455"
+}

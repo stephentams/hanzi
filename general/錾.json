@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "engraving tool, chisel"
+        },
+        {
+            "language": "德语",
+            "explanation": "ein kleiner Meißel  (S, Tech)​,Gravurwerkzeung, Werkzeug zum Gravieren  (S, Tech)​,gravieren, stechen, einschnitzen, meißeln  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "petit ciseau,burin,sculpter"
+        }
+    ],
+    "general_pinyins": [
+        "zàn"
+    ],
+    "general_zhuyins": [
+        "ㄗㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "金",
+        "non_radical_sn": "8",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "鏨"
+    ],
+    "general_ytz": [
+        "鏨"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "933E",
+            "1521331234112431"
+        ],
+        "char_code_wubi": "lrqf",
+        "char_code_cangjie": "klc",
+        "char_code_zhengma": "hepp",
+        "char_code_sijiao": "42109"
+    },
+    "general_unicode": "基本区 U+933E",
+    "general_bs_code": "1521331234112431"
+}

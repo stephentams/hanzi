@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "honey; sweet; nectar"
+        },
+        {
+            "language": "德语",
+            "explanation": "Honig  (S)​,honigsüß  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "doux,miel"
+        }
+    ],
+    "general_pinyins": [
+        "mì"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "8",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠖪",
+        "𦸞",
+        "𧉴",
+        "𧒧",
+        "𧓫",
+        "𧕵",
+        "𧖅",
+        "𠖧"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "871C",
+            "44545434251214"
+        ],
+        "char_code_wubi": "pntj",
+        "char_code_cangjie": "jphi",
+        "char_code_zhengma": "wdmi",
+        "char_code_sijiao": "30136"
+    },
+    "general_unicode": "基本区 U+871C",
+    "general_bs_code": "44545434251214"
+}

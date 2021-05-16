@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bamboo water pipe"
+        },
+        {
+            "language": "法语",
+            "explanation": "conduit en bambou,pipe à eau en bambou"
+        }
+    ],
+    "general_pinyins": [
+        "jiǎn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "见",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "筧"
+    ],
+    "general_ytz": [
+        "筧"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7B15",
+            "3143142535"
+        ],
+        "char_code_wubi": "tmqb",
+        "char_code_cangjie": "hbhu",
+        "char_code_zhengma": "mlr",
+        "char_code_sijiao": "88212"
+    },
+    "general_unicode": "基本区 U+7B15",
+    "general_bs_code": "3143142535"
+}

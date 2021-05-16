@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "name of a river in western Hunan that flows into Dongting lake"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom d'une rivière dans le Guizhou et Hunan)​"
+        }
+    ],
+    "general_pinyins": [
+        "yuán"
+    ],
+    "general_zhuyins": [
+        "ㄩㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6C85",
+            "4411135"
+        ],
+        "char_code_wubi": "ifqn",
+        "char_code_cangjie": "emmu",
+        "char_code_zhengma": "vbrd",
+        "char_code_sijiao": "31112"
+    },
+    "general_unicode": "基本区 U+6C85",
+    "general_bs_code": "4411135"
+}

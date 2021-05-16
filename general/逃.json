@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "escape, flee; abscond, dodge"
+        },
+        {
+            "language": "德语",
+            "explanation": "abhauen, durchbrennen  (V)​,entkommen, entgehen  (V)​,flüchten, fliehen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "fuir,se sauver"
+        }
+    ],
+    "general_pinyins": [
+        "táo"
+    ],
+    "general_zhuyins": [
+        "ㄊㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨓱",
+        "𨓖",
+        "𨒯",
+        "𧻏",
+        "迯",
+        "跳"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9003",
+            "341534454"
+        ],
+        "char_code_wubi": "iqpv|qipi",
+        "char_code_cangjie": "ylmo",
+        "char_code_zhengma": "wvrd",
+        "char_code_sijiao": "32301"
+    },
+    "general_unicode": "基本区 U+9003",
+    "general_bs_code": "341534454"
+}

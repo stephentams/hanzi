@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pacify; appease; calm, peaceful"
+        },
+        {
+            "language": "德语",
+            "explanation": "ruhig, still"
+        },
+        {
+            "language": "法语",
+            "explanation": "calmer,pacifier,calme,paisible"
+        }
+    ],
+    "general_pinyins": [
+        "jìng"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "青",
+        "non_radical_sn": "5",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "靖",
+        "靖"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9756",
+            "4143111212511"
+        ],
+        "char_code_wubi": "ugeg",
+        "char_code_cangjie": "ytqmb",
+        "char_code_zhengma": "sucq",
+        "char_code_sijiao": "05127"
+    },
+    "general_unicode": "基本区 U+9756",
+    "general_bs_code": "4143111212511"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "very, quite, much"
+        },
+        {
+            "language": "德语",
+            "explanation": "sehr (Adv)​,(ohne Bedeutung vor einigen einsilbigen Adjektiven)​ (Adv)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(adverbe de degré)​,très"
+        }
+    ],
+    "general_pinyins": [
+        "hěn"
+    ],
+    "general_zhuyins": [
+        "ㄏㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "彳",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "佷",
+        "哏",
+        "詪",
+        "𢓼",
+        "狠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F88",
+            "332511534"
+        ],
+        "char_code_wubi": "tvey|tvy",
+        "char_code_cangjie": "hoav",
+        "char_code_zhengma": "oixo",
+        "char_code_sijiao": "27232"
+    },
+    "general_unicode": "基本区 U+5F88",
+    "general_bs_code": "332511534"
+}

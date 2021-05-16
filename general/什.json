@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "file of ten soldiers; mixed, miscellaneous"
+        },
+        {
+            "language": "德语",
+            "explanation": "zehnte, zehnter"
+        },
+        {
+            "language": "法语",
+            "explanation": "dix (utilisé en fraction, écrire des chèques etc.)​,assortis,divers"
+        }
+    ],
+    "general_pinyins": [
+        "shí",
+        "shén"
+    ],
+    "general_zhuyins": [
+        "ㄕˊ",
+        "ㄕㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "2",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䦹",
+        "十",
+        "什"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4EC0",
+            "3212"
+        ],
+        "char_code_wubi": "wfh",
+        "char_code_cangjie": "oj",
+        "char_code_zhengma": "ned",
+        "char_code_sijiao": "24200"
+    },
+    "general_unicode": "基本区 U+4EC0",
+    "general_bs_code": "3212"
+}

@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "Podiceps ruficolus (a kind of duck)"
+        },
+        {
+            "language": "德语",
+            "explanation": "Lappentaucher (Podiceps)​"
+        }
+    ],
+    "general_pinyins": [
+        "pì"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "鳥",
+        "non_radical_sn": "13",
+        "total_sn": "24"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䴙",
+        "鷿",
+        "𩁊",
+        "𪇊"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E0A",
+            "513251414311232511154444"
+        ],
+        "char_code_wubi": "nkuo",
+        "char_code_cangjie": "sryjf",
+        "char_code_zhengma": "xmsr",
+        "char_code_sijiao": "77227"
+    },
+    "general_unicode": "基本区 U+9E0A",
+    "general_bs_code": "513251414311232511154444"
+}

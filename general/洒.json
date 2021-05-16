@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sprinkle; scatter; pour; to wipe away; to shiver"
+        },
+        {
+            "language": "德语",
+            "explanation": "Berieselung  (S)​,berieseln, besprengen  (V)​,sprenkeln  (V)​,spritzen  (V)​,verschütten"
+        },
+        {
+            "language": "法语",
+            "explanation": "répandre,arroser"
+        }
+    ],
+    "general_pinyins": [
+        "sǎ",
+        "xǐ"
+    ],
+    "general_zhuyins": [
+        "ㄙㄚˇ",
+        "ㄒㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "灑"
+    ],
+    "general_ytz": [
+        "汛",
+        "洗",
+        "𣹍",
+        "灑",
+        "𣶇",
+        "𣶓",
+        "𤂢"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6D12",
+            "441125351"
+        ],
+        "char_code_wubi": "isg",
+        "char_code_cangjie": "xemcw",
+        "char_code_zhengma": "vfj",
+        "char_code_sijiao": "31164"
+    },
+    "general_unicode": "基本区 U+6D12",
+    "general_bs_code": "441125351"
+}

@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stamen or pistil"
+        }
+    ],
+    "general_pinyins": [
+        "ruǐ"
+    ],
+    "general_zhuyins": [
+        "ㄖㄨㄟˇ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "16",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "蕊"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8602",
+            "1224544454445441234"
+        ],
+        "char_code_wubi": "anns",
+        "char_code_cangjie": "tppd",
+        "char_code_zhengma": "ewwf",
+        "char_code_sijiao": "44904"
+    },
+    "general_unicode": "基本区 U+8602",
+    "general_bs_code": "1224544454445441234"
+}

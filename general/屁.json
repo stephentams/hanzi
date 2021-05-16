@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "break wind; fart; buttocks"
+        },
+        {
+            "language": "德语",
+            "explanation": "Furz  (S)​,furzen, pupen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "lâcher un vent,pet"
+        }
+    ],
+    "general_pinyins": [
+        "pì"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "尸",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䊧",
+        "𡲩",
+        "𥤶",
+        "𥥓",
+        "𥧔"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5C41",
+            "5131535"
+        ],
+        "char_code_wubi": "nxxv",
+        "char_code_cangjie": "spp",
+        "char_code_zhengma": "xmrr",
+        "char_code_sijiao": "77212"
+    },
+    "general_unicode": "基本区 U+5C41",
+    "general_bs_code": "5131535"
+}

@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to set a dog on; incite, instigate"
+        },
+        {
+            "language": "德语",
+            "explanation": "anspornen, animieren"
+        },
+        {
+            "language": "法语",
+            "explanation": "agacer"
+        }
+    ],
+    "general_pinyins": [
+        "sǒu"
+    ],
+    "general_zhuyins": [
+        "ㄙㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㖩",
+        "族",
+        "𠻛",
+        "𠻣",
+        "𠲌",
+        "𡂡"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "55FE",
+            "25141533131134"
+        ],
+        "char_code_wubi": "kytd",
+        "char_code_cangjie": "rysk",
+        "char_code_zhengma": "jsmm",
+        "char_code_sijiao": "68084"
+    },
+    "general_unicode": "基本区 U+55FE",
+    "general_bs_code": "25141533131134"
+}

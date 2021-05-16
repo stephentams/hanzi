@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "composition; chapter, section"
+        },
+        {
+            "language": "德语",
+            "explanation": "Stempel, Siegel  (S)​,Abzeichen, Medaille  (S)​,Kapitel, Abschnitt  (S, Lit)​,Konstitution, Statut, Satzung, Rechtsnorm  (S, Rechtsw)​,Ordnung  (S)​,Zhang  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "chapitre,ordre,règle,règlement,statuts,cachet,sceau,médaille,insigne"
+        }
+    ],
+    "general_pinyins": [
+        "zhāng"
+    ],
+    "general_zhuyins": [
+        "ㄓㄤ"
+    ],
+    "general_radical": {
+        "radical": "立",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "嫜",
+        "樟",
+        "漳",
+        "暲",
+        "遧",
+        "障",
+        "鱆",
+        "𡈠"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7AE0",
+            "41431251112"
+        ],
+        "char_code_wubi": "ujj",
+        "char_code_cangjie": "ytaj",
+        "char_code_zhengma": "suke",
+        "char_code_sijiao": "00406"
+    },
+    "general_unicode": "基本区 U+7AE0",
+    "general_bs_code": "41431251112"
+}

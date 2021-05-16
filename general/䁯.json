@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to look at; to see; to inspect; (same as U+77B8 瞸) gazing into distance, having one eye smaller than the other, to look askance at; (Cant.) to close the eyes"
+        }
+    ],
+    "general_pinyins": [
+        "shè",
+        "xié"
+    ],
+    "general_zhuyins": [
+        "ㄕㄜˋ",
+        "ㄒㄧㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "12",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "瞸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "406F",
+            "25111341251541541"
+        ],
+        "char_code_wubi": "hwgn",
+        "char_code_cangjie": "buorm",
+        "char_code_zhengma": "loyy",
+        "char_code_sijiao": "68027"
+    },
+    "general_unicode": "扩展A U+406F",
+    "general_bs_code": "25111341251541541"
+}

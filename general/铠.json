@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "armor, chain mail"
+        },
+        {
+            "language": "德语",
+            "explanation": "Panzer, Rüstung  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "Armure (équipement)​"
+        }
+    ],
+    "general_pinyins": [
+        "kǎi"
+    ],
+    "general_zhuyins": [
+        "ㄎㄞˇ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "鎧"
+    ],
+    "general_ytz": [
+        "鎧"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94E0",
+            "31115252515"
+        ],
+        "char_code_wubi": "qmnn",
+        "char_code_cangjie": "opusu",
+        "char_code_zhengma": "plyy",
+        "char_code_sijiao": "82717"
+    },
+    "general_unicode": "基本区 U+94E0",
+    "general_bs_code": "31115252515"
+}

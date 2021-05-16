@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "internal cavity of stomach"
+        },
+        {
+            "language": "德语",
+            "explanation": "Magenhöhle  (S, Med)"
+        },
+        {
+            "language": "法语",
+            "explanation": "oesophage"
+        }
+    ],
+    "general_pinyins": [
+        "wǎn"
+    ],
+    "general_zhuyins": [
+        "ㄨㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦜐",
+        "朊",
+        "𦛤",
+        "𦛮"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8118",
+            "35114451135"
+        ],
+        "char_code_wubi": "epfq",
+        "char_code_cangjie": "bjmu",
+        "char_code_zhengma": "qwbr",
+        "char_code_sijiao": "73212"
+    },
+    "general_unicode": "基本区 U+8118",
+    "general_bs_code": "35114451135"
+}

@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sleepy; drowsy, to startle; to surprise; to amaze"
+        }
+    ],
+    "general_pinyins": [
+        "mò"
+    ],
+    "general_zhuyins": [
+        "ㄇㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "16",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥊷"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "407F",
+            "254312114444134425111"
+        ],
+        "char_code_wubi": "lfoh",
+        "char_code_cangjie": "wkbu",
+        "char_code_zhengma": "lksl",
+        "char_code_sijiao": "63608"
+    },
+    "general_unicode": "扩展A U+407F",
+    "general_bs_code": "254312114444134425111"
+}

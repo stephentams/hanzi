@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "thunderclap, crashing thunder"
+        },
+        {
+            "language": "法语",
+            "explanation": "foudre"
+        }
+    ],
+    "general_pinyins": [
+        "lì"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "雨",
+        "non_radical_sn": "4",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "靂"
+    ],
+    "general_ytz": [
+        "靂",
+        "𩆝"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "96F3",
+            "145244441353"
+        ],
+        "char_code_wubi": "fdlb|fder",
+        "char_code_cangjie": "mbmks",
+        "char_code_zhengma": "fvgy",
+        "char_code_sijiao": "10227"
+    },
+    "general_unicode": "基本区 U+96F3",
+    "general_bs_code": "145244441353"
+}

@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "raised path between fields"
+        },
+        {
+            "language": "德语",
+            "explanation": "Chō, Cho (japanisches Flächenmaß, ca. 1 Hektar)​  (S)​,Chō, Cho (japanisches Längenmaß, ca. 109 m)​  (S)​,erhöhter Weg zwischen Feldern (English: raised path between fields)​  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "limite,faubourg"
+        }
+    ],
+    "general_pinyins": [
+        "tǐng",
+        "dīng"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧㄥˇ",
+        "ㄉㄧㄥ"
+    ],
+    "general_radical": {
+        "radical": "田",
+        "non_radical_sn": "2",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䵺",
+        "甼",
+        "𤲖",
+        "畠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "753A",
+            "2512112"
+        ],
+        "char_code_wubi": "lsh",
+        "char_code_cangjie": "wmn",
+        "char_code_zhengma": "kiai",
+        "char_code_sijiao": "61020"
+    },
+    "general_unicode": "基本区 U+753A",
+    "general_bs_code": "2512112"
+}

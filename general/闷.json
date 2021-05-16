@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "gloomy, depressed, melancholy"
+        },
+        {
+            "language": "德语",
+            "explanation": "drückend, stickig  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "étouffant,fermer,étancher,ennuyeux,triste,déprimé,morose,étouffant,mal aéré,lourd,mélancolique"
+        }
+    ],
+    "general_pinyins": [
+        "mèn",
+        "mēn"
+    ],
+    "general_zhuyins": [
+        "ㄇㄣˋ",
+        "ㄇㄣ"
+    ],
+    "general_radical": {
+        "radical": "门",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "悶"
+    ],
+    "general_ytz": [
+        "悶",
+        "㥃",
+        "𢛩"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "95F7",
+            "4254544"
+        ],
+        "char_code_wubi": "uni",
+        "char_code_cangjie": "lsp",
+        "char_code_zhengma": "tlwz",
+        "char_code_sijiao": "37331"
+    },
+    "general_unicode": "基本区 U+95F7",
+    "general_bs_code": "4254544"
+}

@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bed boards, sleeping mat"
+        },
+        {
+            "language": "法语",
+            "explanation": "natte de lit"
+        }
+    ],
+    "general_pinyins": [
+        "zǐ"
+    ],
+    "general_zhuyins": [
+        "ㄗˇ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7B2B",
+            "3143143523"
+        ],
+        "char_code_wubi": "ttnt",
+        "char_code_cangjie": "hlxh",
+        "char_code_zhengma": "mmim",
+        "char_code_sijiao": "88227"
+    },
+    "general_unicode": "基本区 U+7B2B",
+    "general_bs_code": "3143143523"
+}

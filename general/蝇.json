@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "flies"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fliege"
+        },
+        {
+            "language": "法语",
+            "explanation": "mouche"
+        }
+    ],
+    "general_pinyins": [
+        "yíng"
+    ],
+    "general_zhuyins": [
+        "ㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "8",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "蠅"
+    ],
+    "general_ytz": [
+        "蠅",
+        "蝿",
+        "𡢘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8747",
+            "25121425125115"
+        ],
+        "char_code_wubi": "jkjn",
+        "char_code_cangjie": "lirlu",
+        "char_code_zhengma": "ijkz",
+        "char_code_sijiao": "56116"
+    },
+    "general_unicode": "基本区 U+8747",
+    "general_bs_code": "25121425125115"
+}

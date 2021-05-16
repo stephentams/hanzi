@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "unopened flowers, flower buds"
+        },
+        {
+            "language": "德语",
+            "explanation": "Staubbeutel, Staubblatt  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "ruǐ"
+    ],
+    "general_zhuyins": [
+        "ㄖㄨㄟˇ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "惢",
+        "橤",
+        "蕋",
+        "蘂",
+        "𣛚",
+        "𥳝",
+        "𧄜",
+        "蘃"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "854A",
+            "122454445444544"
+        ],
+        "char_code_wubi": "annn",
+        "char_code_cangjie": "tppp",
+        "char_code_zhengma": "ewww",
+        "char_code_sijiao": "44333"
+    },
+    "general_unicode": "基本区 U+854A",
+    "general_bs_code": "122454445444544"
+}

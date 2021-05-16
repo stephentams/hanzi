@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "raise, excite, arouse action"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufreizen, wachrufen ,Zhen  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "agiter,exciter,stimuler"
+        }
+    ],
+    "general_pinyins": [
+        "zhèn"
+    ],
+    "general_zhuyins": [
+        "ㄓㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢈫",
+        "𤚾",
+        "𤚿",
+        "𤚨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "632F",
+            "1211311534"
+        ],
+        "char_code_wubi": "rdfe",
+        "char_code_cangjie": "qmmv",
+        "char_code_zhengma": "dgh",
+        "char_code_sijiao": "51032"
+    },
+    "general_unicode": "基本区 U+632F",
+    "general_bs_code": "1211311534"
+}

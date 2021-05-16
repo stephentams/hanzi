@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "metaphor, simile, example"
+        },
+        {
+            "language": "德语",
+            "explanation": "Metapher  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "comparer,p.e."
+        }
+    ],
+    "general_pinyins": [
+        "pì"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "言",
+        "non_radical_sn": "13",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8B6C",
+            "51325141431124111251"
+        ],
+        "char_code_wubi": "nkuy",
+        "char_code_cangjie": "sjymr",
+        "char_code_zhengma": "xmss",
+        "char_code_sijiao": "70601"
+    },
+    "general_unicode": "基本区 U+8B6C",
+    "general_bs_code": "51325141431124111251"
+}

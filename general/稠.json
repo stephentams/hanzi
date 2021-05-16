@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dense, crowded, packed; soupy"
+        },
+        {
+            "language": "法语",
+            "explanation": "épais,dense"
+        }
+    ],
+    "general_pinyins": [
+        "chóu"
+    ],
+    "general_zhuyins": [
+        "ㄔㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7A20",
+            "3123435121251"
+        ],
+        "char_code_wubi": "tmfk",
+        "char_code_cangjie": "hdbgr",
+        "char_code_zhengma": "mfbj",
+        "char_code_sijiao": "27920"
+    },
+    "general_unicode": "基本区 U+7A20",
+    "general_bs_code": "3123435121251"
+}

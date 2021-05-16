@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "be pregnant, pregnancy"
+        },
+        {
+            "language": "德语",
+            "explanation": "bedeutungsvoll  (Adj)​,Schwangerschaft; schwanger"
+        },
+        {
+            "language": "法语",
+            "explanation": "enceinte (femme)​"
+        }
+    ],
+    "general_pinyins": [
+        "yùn"
+    ],
+    "general_zhuyins": [
+        "ㄩㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "子",
+        "non_radical_sn": "2",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㚺",
+        "㞌",
+        "𡢘",
+        "𡱟",
+        "𣎜",
+        "𥀨",
+        "𥀩",
+        "𨈼",
+        "𡥗"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5B55",
+            "53521"
+        ],
+        "char_code_wubi": "ebf|bbf",
+        "char_code_cangjie": "nsnd",
+        "char_code_zhengma": "ymya",
+        "char_code_sijiao": "17407"
+    },
+    "general_unicode": "基本区 U+5B55",
+    "general_bs_code": "53521"
+}

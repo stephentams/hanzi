@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "live, dwell, reside, sit"
+        },
+        {
+            "language": "德语",
+            "explanation": "wohnen, leben  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "résidence,habitation,résider,habiter,se trouver,(particule archaïque exprimant une exclamation ou un doute)​"
+        }
+    ],
+    "general_pinyins": [
+        "jū"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩ"
+    ],
+    "general_radical": {
+        "radical": "尸",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㝒",
+        "㞐",
+        "凥",
+        "𡨢",
+        "𧿃",
+        "踞"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5C45",
+            "51312251"
+        ],
+        "char_code_wubi": "ndd",
+        "char_code_cangjie": "sjr",
+        "char_code_zhengma": "xmej",
+        "char_code_sijiao": "77264"
+    },
+    "general_unicode": "基本区 U+5C45",
+    "general_bs_code": "51312251"
+}

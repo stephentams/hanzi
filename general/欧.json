@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "translit.: Europe; ohm; surname"
+        },
+        {
+            "language": "德语",
+            "explanation": "Abkürzung für Europa"
+        },
+        {
+            "language": "法语",
+            "explanation": "(abrév.)​ Europe,euro-,(utilisé pour les transcriptions phonétiques)​"
+        }
+    ],
+    "general_pinyins": [
+        "ōu"
+    ],
+    "general_zhuyins": [
+        "ㄡ"
+    ],
+    "general_radical": {
+        "radical": "欠",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "歐"
+    ],
+    "general_ytz": [
+        "歐"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6B27",
+            "13453534"
+        ],
+        "char_code_wubi": "aqqw|arqw",
+        "char_code_cangjie": "skno",
+        "char_code_zhengma": "horo",
+        "char_code_sijiao": "77782"
+    },
+    "general_unicode": "基本区 U+6B27",
+    "general_bs_code": "13453534"
+}

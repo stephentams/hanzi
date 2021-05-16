@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "large rock, boulder; firm"
+        },
+        {
+            "language": "德语",
+            "explanation": "fest, gesetzt  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "ferme,stable,robuste"
+        }
+    ],
+    "general_pinyins": [
+        "pán"
+    ],
+    "general_zhuyins": [
+        "ㄆㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "10",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䃑",
+        "䃲",
+        "𣍵",
+        "𥑍",
+        "𦛵"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "78D0",
+            "335414355413251"
+        ],
+        "char_code_wubi": "temd|tuwd",
+        "char_code_cangjie": "hemr",
+        "char_code_zhengma": "pyqg",
+        "char_code_sijiao": "27602"
+    },
+    "general_unicode": "基本区 U+78D0",
+    "general_bs_code": "335414355413251"
+}

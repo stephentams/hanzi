@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "die young; national mourning"
+        },
+        {
+            "language": "德语",
+            "explanation": "jung sterben  (V)​,sterben  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "mourir jeune,mort de guerre"
+        }
+    ],
+    "general_pinyins": [
+        "shāng"
+    ],
+    "general_zhuyins": [
+        "ㄕㄤ"
+    ],
+    "general_radical": {
+        "radical": "歹",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "殤"
+    ],
+    "general_ytz": [
+        "殤"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6B87",
+            "135431533"
+        ],
+        "char_code_wubi": "gqtr",
+        "char_code_cangjie": "mnonh",
+        "char_code_zhengma": "aryo",
+        "char_code_sijiao": "18227"
+    },
+    "general_unicode": "基本区 U+6B87",
+    "general_bs_code": "135431533"
+}

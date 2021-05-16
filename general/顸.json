@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "large face, flat face; stupid"
+        },
+        {
+            "language": "德语",
+            "explanation": "Trödelei  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "stupide,flânerie,grand visage"
+        }
+    ],
+    "general_pinyins": [
+        "hān"
+    ],
+    "general_zhuyins": [
+        "ㄏㄢ"
+    ],
+    "general_radical": {
+        "radical": "页",
+        "non_radical_sn": "3",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "頇"
+    ],
+    "general_ytz": [
+        "頇"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9878",
+            "112132534"
+        ],
+        "char_code_wubi": "fdmy",
+        "char_code_cangjie": "mjmbo",
+        "char_code_zhengma": "aego",
+        "char_code_sijiao": "11482"
+    },
+    "general_unicode": "基本区 U+9878",
+    "general_bs_code": "112132534"
+}

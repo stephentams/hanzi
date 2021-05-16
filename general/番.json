@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to take turns; a turn, a time; to repeat"
+        },
+        {
+            "language": "德语",
+            "explanation": "-mal  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "étranger,nombre de fois,(classificateur pour les actions)​,(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "fān",
+        "pān"
+    ],
+    "general_zhuyins": [
+        "ㄈㄢ",
+        "ㄆㄢ"
+    ],
+    "general_radical": {
+        "radical": "田",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "潘",
+        "畨",
+        "𢇪",
+        "𤳖",
+        "𥸨",
+        "𥻫",
+        "蕃",
+        "蹯",
+        "鄱"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "756A",
+            "343123425121"
+        ],
+        "char_code_wubi": "tolf",
+        "char_code_cangjie": "hdw",
+        "char_code_zhengma": "pfki",
+        "char_code_sijiao": "20609"
+    },
+    "general_unicode": "基本区 U+756A",
+    "general_bs_code": "343123425121"
+}

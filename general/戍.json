@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "defend borders, guard frontiers"
+        },
+        {
+            "language": "德语",
+            "explanation": "Besatzung  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "banni,garder la frontière"
+        }
+    ],
+    "general_pinyins": [
+        "shù"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "戈",
+        "non_radical_sn": "2",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "620D",
+            "134534"
+        ],
+        "char_code_wubi": "dynt|awi",
+        "char_code_cangjie": "ihi",
+        "char_code_zhengma": "hms",
+        "char_code_sijiao": "53200"
+    },
+    "general_unicode": "基本区 U+620D",
+    "general_bs_code": "134534"
+}

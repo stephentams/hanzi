@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "owl thus, something evil"
+        },
+        {
+            "language": "德语",
+            "explanation": "Eule [ lat. Strigiformes ]  (S, Bio)​,Schmuggler  (S)​,enthauptung, köpfen  (V, Gesch)​,mutig, tapfer, tollkühn und rücksichtslos  (Adj)​,Xiao  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "chouette,hibou,brave,contrebandier,dealer de drogue"
+        }
+    ],
+    "general_pinyins": [
+        "xiāo"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "梟"
+    ],
+    "general_ytz": [
+        "梟",
+        "鴵",
+        "鷍",
+        "䲷",
+        "𤡔",
+        "𩾒",
+        "𩾓",
+        "𩾣",
+        "𩿋"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "67AD",
+            "35451234"
+        ],
+        "char_code_wubi": "qyns|qsu",
+        "char_code_cangjie": "pysd",
+        "char_code_zhengma": "rzf",
+        "char_code_sijiao": "27904"
+    },
+    "general_unicode": "基本区 U+67AD",
+    "general_bs_code": "35451234"
+}

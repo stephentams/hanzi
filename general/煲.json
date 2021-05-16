@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "to heat; to boil a saucepan"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 kochen, sieden  (V, Ess)"
+        }
+    ],
+    "general_pinyins": [
+        "bāo"
+    ],
+    "general_zhuyins": [
+        "ㄅㄠ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "缹",
+        "㷛",
+        "𤭭"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7172",
+            "3225112344334"
+        ],
+        "char_code_wubi": "wkso",
+        "char_code_cangjie": "odf",
+        "char_code_zhengma": "njfu",
+        "char_code_sijiao": "26809"
+    },
+    "general_unicode": "基本区 U+7172",
+    "general_bs_code": "3225112344334"
+}

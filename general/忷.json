@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "variant of 恟 U+605F, scared, nervous"
+        }
+    ],
+    "general_pinyins": [
+        "xiōng"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄥ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "恟"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5FF7",
+            "4423452"
+        ],
+        "char_code_wubi": "nqbh|nrbh",
+        "char_code_cangjie": "puk",
+        "char_code_zhengma": "uozi",
+        "char_code_sijiao": "92070"
+    },
+    "general_unicode": "基本区 U+5FF7",
+    "general_bs_code": "4423452"
+}

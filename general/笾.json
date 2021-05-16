@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bamboo container for food"
+        },
+        {
+            "language": "法语",
+            "explanation": "panier"
+        }
+    ],
+    "general_pinyins": [
+        "biān"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "籩"
+    ],
+    "general_ytz": [
+        "籩",
+        "𠥣",
+        "𠥫",
+        "𨘚",
+        "𨙢"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7B3E",
+            "31431453454"
+        ],
+        "char_code_wubi": "tlpu|tepu",
+        "char_code_cangjie": "hyks",
+        "char_code_zhengma": "mwym",
+        "char_code_sijiao": "88302"
+    },
+    "general_unicode": "基本区 U+7B3E",
+    "general_bs_code": "31431453454"
+}

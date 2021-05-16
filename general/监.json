@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "supervise, control, direct"
+        },
+        {
+            "language": "德语",
+            "explanation": "beaufsichtigen, betreuen ,fest, hart ,inspizieren, beschauen ,Jian  (Eig, Fam)​,Supervisor, Aufpasser, Bewacher, Hüter  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "superviseur,surveiller,prison,inspecter,pénitencier"
+        }
+    ],
+    "general_pinyins": [
+        "jiān",
+        "jiàn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢ",
+        "ㄐㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "皿",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "監"
+    ],
+    "general_ytz": [
+        "監",
+        "譼",
+        "䛓",
+        "𧗄",
+        "𧨭",
+        "𧩾"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "76D1",
+            "2231425221"
+        ],
+        "char_code_wubi": "jtyl",
+        "char_code_cangjie": "libt",
+        "char_code_zhengma": "kdml",
+        "char_code_sijiao": "28102"
+    },
+    "general_unicode": "基本区 U+76D1",
+    "general_bs_code": "2231425221"
+}

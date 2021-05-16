@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(Cant.) a scar"
+        }
+    ],
+    "general_pinyins": [
+        "yǎn",
+        "yè"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "皮",
+        "non_radical_sn": "14",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𪠏"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2502C",
+            "1325113541134453254"
+        ],
+        "char_code_wubi": "djec",
+        "char_code_cangjie": "mkdhe",
+        "char_code_zhengma": "ggsx"
+    },
+    "general_unicode": "扩展B U+2502C",
+    "general_bs_code": "1325113541134453254"
+}

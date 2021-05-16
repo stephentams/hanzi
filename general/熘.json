@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to steam"
+        }
+    ],
+    "general_pinyins": [
+        "liū"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄡ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7198",
+            "43343545325121"
+        ],
+        "char_code_wubi": "oqyl",
+        "char_code_cangjie": "fhhw",
+        "char_code_zhengma": "uoyk",
+        "char_code_sijiao": "97862"
+    },
+    "general_unicode": "基本区 U+7198",
+    "general_bs_code": "43343545325121"
+}

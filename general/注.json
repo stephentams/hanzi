@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "concentrate, focus, direct"
+        },
+        {
+            "language": "德语",
+            "explanation": "gießen, Anmerkung  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "note,commentaire,annoter,commenter,enjeu,mise,verser,fixer,concentrer"
+        }
+    ],
+    "general_pinyins": [
+        "zhù"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "註"
+    ],
+    "general_ytz": [
+        "丶",
+        "澍",
+        "註",
+        "疰"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6CE8",
+            "44141121"
+        ],
+        "char_code_wubi": "iygg",
+        "char_code_cangjie": "eyg",
+        "char_code_zhengma": "vsc",
+        "char_code_sijiao": "30114"
+    },
+    "general_unicode": "基本区 U+6CE8",
+    "general_bs_code": "44141121"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "meet, come across, encounter"
+        },
+        {
+            "language": "德语",
+            "explanation": "treffen, Gelegenheit  (S)​,Yu  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "rencontrer,traiter"
+        }
+    ],
+    "general_pinyins": [
+        "yù"
+    ],
+    "general_zhuyins": [
+        "ㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠓱",
+        "𨔆",
+        "偶"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9047",
+            "251125214454"
+        ],
+        "char_code_wubi": "jmhp",
+        "char_code_cangjie": "ywlb",
+        "char_code_zhengma": "klzw",
+        "char_code_sijiao": "36302"
+    },
+    "general_unicode": "基本区 U+9047",
+    "general_bs_code": "251125214454"
+}

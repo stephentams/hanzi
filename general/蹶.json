@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stumble, fall down; trample"
+        },
+        {
+            "language": "德语",
+            "explanation": "stolpern ,treten,  ausschlagen"
+        },
+        {
+            "language": "法语",
+            "explanation": "trébucher,fouler aux pieds,tomber"
+        }
+    ],
+    "general_pinyins": [
+        "jué",
+        "juě"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄝˊ",
+        "ㄐㄩㄝˇ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "12",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "蹷",
+        "𧽸",
+        "𨄬",
+        "𨇙",
+        "𨇭",
+        "𨇮",
+        "𩦒"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E76",
+            "2512121134315233534"
+        ],
+        "char_code_wubi": "khdw",
+        "char_code_cangjie": "rmmto",
+        "char_code_zhengma": "jizr",
+        "char_code_sijiao": "61182"
+    },
+    "general_unicode": "基本区 U+8E76",
+    "general_bs_code": "2512121134315233534"
+}

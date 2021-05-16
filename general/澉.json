@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to wash name of a place"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ortsname  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(lieu-dit du Zhejiang)​"
+        }
+    ],
+    "general_pinyins": [
+        "gǎn"
+    ],
+    "general_zhuyins": [
+        "ㄍㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6F89",
+            "44151221113134"
+        ],
+        "char_code_wubi": "inbt",
+        "char_code_cangjie": "emjk",
+        "char_code_zhengma": "vxcm",
+        "char_code_sijiao": "38140"
+    },
+    "general_unicode": "基本区 U+6F89",
+    "general_bs_code": "44151221113134"
+}

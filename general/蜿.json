@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "creep, crawl"
+        },
+        {
+            "language": "德语",
+            "explanation": "erregen, verschieben"
+        },
+        {
+            "language": "法语",
+            "explanation": "ramper"
+        }
+    ],
+    "general_pinyins": [
+        "wān"
+    ],
+    "general_zhuyins": [
+        "ㄨㄢ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "8",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䖤",
+        "䗕"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "873F",
+            "25121444535455"
+        ],
+        "char_code_wubi": "jpqb",
+        "char_code_cangjie": "lijnu",
+        "char_code_zhengma": "iwry",
+        "char_code_sijiao": "53112"
+    },
+    "general_unicode": "基本区 U+873F",
+    "general_bs_code": "25121444535455"
+}

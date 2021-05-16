@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cook; meal"
+        },
+        {
+            "language": "德语",
+            "explanation": "kochen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cuire à la vapeur,faire la cuisine"
+        }
+    ],
+    "general_pinyins": [
+        "chuī"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨㄟ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣣛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "708A",
+            "43343534"
+        ],
+        "char_code_wubi": "oqwy",
+        "char_code_cangjie": "fno",
+        "char_code_zhengma": "uoro",
+        "char_code_sijiao": "97882"
+    },
+    "general_unicode": "基本区 U+708A",
+    "general_bs_code": "43343534"
+}

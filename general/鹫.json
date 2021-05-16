@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "condor, vulture"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kondor  (S, Bio)​,inhuman, schrecklich  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "vautour"
+        }
+    ],
+    "general_pinyins": [
+        "jiù"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "鸟",
+        "non_radical_sn": "12",
+        "total_sn": "17"
+    },
+    "general_stc": [
+        "鷲"
+    ],
+    "general_ytz": [
+        "鷲",
+        "𩀻",
+        "𩾵",
+        "𪆩"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E6B",
+            "41251234135435451"
+        ],
+        "char_code_wubi": "yidg",
+        "char_code_cangjie": "yupym",
+        "char_code_zhengma": "sjgr",
+        "char_code_sijiao": "03127"
+    },
+    "general_unicode": "基本区 U+9E6B",
+    "general_bs_code": "41251234135435451"
+}

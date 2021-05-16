@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "Chinese chess"
+        },
+        {
+            "language": "德语",
+            "explanation": "Go (altes chinesisches Brettspiel)​  (S)​,Go,Schach spielen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "jouer aux échecs,jeu de go"
+        }
+    ],
+    "general_pinyins": [
+        "yì"
+    ],
+    "general_zhuyins": [
+        "ㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "廾",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢌸",
+        "𢌾"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F08",
+            "413234132"
+        ],
+        "char_code_wubi": "yoaj",
+        "char_code_cangjie": "yct",
+        "char_code_zhengma": "snoe",
+        "char_code_sijiao": "00443"
+    },
+    "general_unicode": "基本区 U+5F08",
+    "general_bs_code": "413234132"
+}

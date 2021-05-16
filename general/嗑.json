@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "eat seeds; reproach; loquacious"
+        },
+        {
+            "language": "德语",
+            "explanation": "(English: to crack (seeds)​ with front teeth)​ ,Durchbeißen"
+        },
+        {
+            "language": "法语",
+            "explanation": "bruit de voix,boire"
+        }
+    ],
+    "general_pinyins": [
+        "kē",
+        "kè"
+    ],
+    "general_zhuyins": [
+        "ㄎㄜ",
+        "ㄎㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㗐",
+        "𧪞"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "55D1",
+            "2511215425221"
+        ],
+        "char_code_wubi": "kfcl",
+        "char_code_cangjie": "rgit",
+        "char_code_zhengma": "jbzl",
+        "char_code_sijiao": "64012"
+    },
+    "general_unicode": "基本区 U+55D1",
+    "general_bs_code": "2511215425221"
+}

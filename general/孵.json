@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sit on eggs, hatch"
+        },
+        {
+            "language": "法语",
+            "explanation": "couver,incuber"
+        }
+    ],
+    "general_pinyins": [
+        "fū"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨ"
+    ],
+    "general_radical": {
+        "radical": "子",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "孚",
+        "負",
+        "𡥭",
+        "𨹴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5B75",
+            "35435243443521"
+        ],
+        "char_code_wubi": "qytb",
+        "char_code_cangjie": "hhsld",
+        "char_code_zhengma": "rhpy",
+        "char_code_sijiao": "72747"
+    },
+    "general_unicode": "基本区 U+5B75",
+    "general_bs_code": "35435243443521"
+}

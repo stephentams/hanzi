@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "prepare, arrange; in advance"
+        },
+        {
+            "language": "德语",
+            "explanation": "vorher, im voraus  (Konj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "d'avance,préalablement"
+        }
+    ],
+    "general_pinyins": [
+        "yù"
+    ],
+    "general_zhuyins": [
+        "ㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "页",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "預"
+    ],
+    "general_ytz": [
+        "預",
+        "𥎀",
+        "𩕓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9884",
+            "5452132534"
+        ],
+        "char_code_wubi": "cbdm|cnhm",
+        "char_code_cangjie": "nnmbo",
+        "char_code_zhengma": "xsig",
+        "char_code_sijiao": "11282"
+    },
+    "general_unicode": "基本区 U+9884",
+    "general_bs_code": "5452132534"
+}

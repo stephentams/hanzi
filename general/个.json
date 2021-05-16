@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "numerary adjunct, piece; single"
+        },
+        {
+            "language": "德语",
+            "explanation": "ZEW für Menschen, Personen (z. B. Mensch, Student, Tochter, Zahnarzt, Lehrer)​ (Zähl)​,ZEW für abstrakte Begriffe (z. B. Traum, Ansicht, Wunsch)​ (Zähl)​,individuell, eigen\"_x000d_"
+        }
+    ],
+    "general_pinyins": [
+        "gè",
+        "gě"
+    ],
+    "general_zhuyins": [
+        "ㄍㄜˋ",
+        "ㄍㄜˇ"
+    ],
+    "general_radical": {
+        "radical": "人",
+        "non_radical_sn": "1",
+        "total_sn": "3"
+    },
+    "general_stc": [
+        "個"
+    ],
+    "general_ytz": [
+        "個",
+        "箇"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4E2A",
+            "342"
+        ],
+        "char_code_wubi": "whj",
+        "char_code_cangjie": "ol",
+        "char_code_zhengma": "odi",
+        "char_code_sijiao": "80200"
+    },
+    "general_unicode": "基本区 U+4E2A",
+    "general_bs_code": "342"
+}

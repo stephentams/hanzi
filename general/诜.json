@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "inquire, question; numerous"
+        },
+        {
+            "language": "德语",
+            "explanation": "benachrichtigen, informieren"
+        },
+        {
+            "language": "法语",
+            "explanation": "nombreux"
+        }
+    ],
+    "general_pinyins": [
+        "shēn"
+    ],
+    "general_zhuyins": [
+        "ㄕㄣ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "詵"
+    ],
+    "general_ytz": [
+        "詵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BDC",
+            "45312135"
+        ],
+        "char_code_wubi": "ytfq",
+        "char_code_cangjie": "ivhgu",
+        "char_code_zhengma": "smrd",
+        "char_code_sijiao": "34712"
+    },
+    "general_unicode": "基本区 U+8BDC",
+    "general_bs_code": "45312135"
+}

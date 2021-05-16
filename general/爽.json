@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "happy, cheerful; refreshing"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 klar, angenehm kühl  (Adj)"
+        }
+    ],
+    "general_pinyins": [
+        "shuǎng"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "爻",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "塽",
+        "慡",
+        "𠁊",
+        "𠎛",
+        "𠙠",
+        "𠷹",
+        "𡑽",
+        "𡙁",
+        "𤕤",
+        "𦄍",
+        "𡘖"
+    ],
+    "general_structure": "嵌套结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "723D",
+            "13434343434"
+        ],
+        "char_code_wubi": "dqqq|drrr",
+        "char_code_cangjie": "kkkk",
+        "char_code_zhengma": "gdoo",
+        "char_code_sijiao": "40804"
+    },
+    "general_unicode": "基本区 U+723D",
+    "general_bs_code": "13434343434"
+}

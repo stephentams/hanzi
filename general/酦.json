@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fermentation, brewing"
+        },
+        {
+            "language": "法语",
+            "explanation": "fermenter l'alcool"
+        }
+    ],
+    "general_pinyins": [
+        "pō"
+    ],
+    "general_zhuyins": [
+        "ㄆㄛ"
+    ],
+    "general_radical": {
+        "radical": "酉",
+        "non_radical_sn": "5",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "醱"
+    ],
+    "general_ytz": [
+        "醱",
+        "醗"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9166",
+            "125351153544"
+        ],
+        "char_code_wubi": "sgny",
+        "char_code_cangjie": "mwive",
+        "char_code_zhengma": "fdxs",
+        "char_code_sijiao": "13647"
+    },
+    "general_unicode": "基本区 U+9166",
+    "general_bs_code": "125351153544"
+}

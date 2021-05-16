@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "neighborhood, urban subdivision; (J) priest's residence; (Buddhist) priest; boy"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gasse; Werkstatt  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "rue,atelier,arc de triomphe"
+        }
+    ],
+    "general_pinyins": [
+        "fāng",
+        "fáng"
+    ],
+    "general_zhuyins": [
+        "ㄈㄤ",
+        "ㄈㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "埅",
+        "防"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "574A",
+            "1214153"
+        ],
+        "char_code_wubi": "fyn|fyt",
+        "char_code_cangjie": "gyhs",
+        "char_code_zhengma": "bsy",
+        "char_code_sijiao": "40127"
+    },
+    "general_unicode": "基本区 U+574A",
+    "general_bs_code": "1214153"
+}

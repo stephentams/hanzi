@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "red; communist, 'red'; bare"
+        },
+        {
+            "language": "德语",
+            "explanation": "nackt, unbekleidet ,rot, feuerrot, scharlachrot"
+        },
+        {
+            "language": "法语",
+            "explanation": "nu,rouge"
+        }
+    ],
+    "general_pinyins": [
+        "chì"
+    ],
+    "general_zhuyins": [
+        "ㄔˋ"
+    ],
+    "general_radical": {
+        "radical": "赤",
+        "non_radical_sn": "0",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "灻",
+        "烾",
+        "𤆍",
+        "𡗩",
+        "𦮰"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D64",
+            "1213234"
+        ],
+        "char_code_wubi": "fou",
+        "char_code_cangjie": "glnc",
+        "char_code_zhengma": "bno",
+        "char_code_sijiao": "40231"
+    },
+    "general_unicode": "基本区 U+8D64",
+    "general_bs_code": "1213234"
+}

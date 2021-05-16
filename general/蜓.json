@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dragonfly"
+        },
+        {
+            "language": "德语",
+            "explanation": "Libelle  (S, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "libellule"
+        }
+    ],
+    "general_pinyins": [
+        "tíng"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "6",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧉰",
+        "𧍿"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8713",
+            "251214312154"
+        ],
+        "char_code_wubi": "jtfp",
+        "char_code_cangjie": "linkg",
+        "char_code_zhengma": "iyby",
+        "char_code_sijiao": "52141"
+    },
+    "general_unicode": "基本区 U+8713",
+    "general_bs_code": "251214312154"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "gradually"
+        },
+        {
+            "language": "德语",
+            "explanation": "durchfeuchten, inspirieren ,allmählich"
+        },
+        {
+            "language": "法语",
+            "explanation": "progressivement,petit à petit,imbiber,se jeter dans (rivière)​"
+        }
+    ],
+    "general_pinyins": [
+        "jiàn",
+        "jiān"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢˋ",
+        "ㄐㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "漸"
+    ],
+    "general_ytz": [
+        "漸"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6E10",
+            "44115213312"
+        ],
+        "char_code_wubi": "ilrh",
+        "char_code_cangjie": "ekql",
+        "char_code_zhengma": "vhpd",
+        "char_code_sijiao": "32121"
+    },
+    "general_unicode": "基本区 U+6E10",
+    "general_bs_code": "44115213312"
+}

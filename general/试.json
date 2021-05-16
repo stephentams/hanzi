@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "test, try, experiment"
+        },
+        {
+            "language": "德语",
+            "explanation": "experimentieren, probieren, versuchen, testen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "essayer,éprouver,examen"
+        }
+    ],
+    "general_pinyins": [
+        "shì"
+    ],
+    "general_zhuyins": [
+        "ㄕˋ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "試"
+    ],
+    "general_ytz": [
+        "試"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BD5",
+            "45112154"
+        ],
+        "char_code_wubi": "yaag|yaay",
+        "char_code_cangjie": "ivipm",
+        "char_code_zhengma": "shbi",
+        "char_code_sijiao": "33740"
+    },
+    "general_unicode": "基本区 U+8BD5",
+    "general_bs_code": "45112154"
+}

@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "carpenter's square, ruler, rule"
+        },
+        {
+            "language": "法语",
+            "explanation": "équerre,règle"
+        }
+    ],
+    "general_pinyins": [
+        "jǔ"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩˇ"
+    ],
+    "general_radical": {
+        "radical": "矢",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "巨",
+        "榘",
+        "𥎦"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "77E9",
+            "311341515"
+        ],
+        "char_code_wubi": "tdan",
+        "char_code_cangjie": "okss",
+        "char_code_zhengma": "mahx",
+        "char_code_sijiao": "81817"
+    },
+    "general_unicode": "基本区 U+77E9",
+    "general_bs_code": "311341515"
+}

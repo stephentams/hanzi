@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cliff, precipice; precipitous"
+        },
+        {
+            "language": "德语",
+            "explanation": "Abgrund, Klippe, Felshang, Feldwand  (S)​,Felswand  (S)​,Grenze  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "falaise,précipice"
+        }
+    ],
+    "general_pinyins": [
+        "yá"
+    ],
+    "general_zhuyins": [
+        "ㄧㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "厓",
+        "崕",
+        "𪘬"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5D16",
+            "25213121121"
+        ],
+        "char_code_wubi": "mdff",
+        "char_code_cangjie": "umgg",
+        "char_code_zhengma": "llbb",
+        "char_code_sijiao": "22214"
+    },
+    "general_unicode": "基本区 U+5D16",
+    "general_bs_code": "25213121121"
+}

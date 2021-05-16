@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "contend, vie, compete"
+        },
+        {
+            "language": "德语",
+            "explanation": "kämpfen ,konkurrieren ,streiten, disputieren"
+        },
+        {
+            "language": "法语",
+            "explanation": "concourir,rivaliser,concurrence,compétition"
+        }
+    ],
+    "general_pinyins": [
+        "jìng"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "立",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "競"
+    ],
+    "general_ytz": [
+        "競",
+        "傹",
+        "竸",
+        "𥪰",
+        "𧫘",
+        "𧫙",
+        "𨐼"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7ADE",
+            "4143125135"
+        ],
+        "char_code_wubi": "ukqb",
+        "char_code_cangjie": "ytrhu",
+        "char_code_zhengma": "sujr",
+        "char_code_sijiao": "00212"
+    },
+    "general_unicode": "基本区 U+7ADE",
+    "general_bs_code": "4143125135"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dyspepsia, spleen infection"
+        },
+        {
+            "language": "德语",
+            "explanation": "Raufbold; Rohling; Schurke"
+        },
+        {
+            "language": "法语",
+            "explanation": "constipation,obstruction d'entrailles,dyspepsie"
+        }
+    ],
+    "general_pinyins": [
+        "pǐ"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "脴"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "75DE",
+            "413411324251"
+        ],
+        "char_code_wubi": "ugik|udhk",
+        "char_code_cangjie": "kmfr",
+        "char_code_zhengma": "tgj",
+        "char_code_sijiao": "00169"
+    },
+    "general_unicode": "基本区 U+75DE",
+    "general_bs_code": "413411324251"
+}

@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "see off, send off; dispatch, give"
+        },
+        {
+            "language": "德语",
+            "explanation": "begleiten  (V)​,bringen, liefern, beliefern, ausliefern  (V)​,geben  (V)​,jdn. verabschieden  (V)​,nachgeben  (V)​,schenken  (V)​,schicken, senden  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "envoyer,apporter,livrer,offrir,reconduire"
+        }
+    ],
+    "general_pinyins": [
+        "sòng"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨕼",
+        "𨕩",
+        "𨔮",
+        "𨓵",
+        "𠌡",
+        "䢠",
+        "𨕪"
+    ],
+    "general_structure": "半包围结构；先内后外",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9001",
+            "431134454"
+        ],
+        "char_code_wubi": "udpi",
+        "char_code_cangjie": "ytk",
+        "char_code_zhengma": "uagw",
+        "char_code_sijiao": "38308"
+    },
+    "general_unicode": "基本区 U+9001",
+    "general_bs_code": "431134454"
+}

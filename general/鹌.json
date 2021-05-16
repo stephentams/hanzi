@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "quail; Coturnix coturnix"
+        },
+        {
+            "language": "法语",
+            "explanation": "caille"
+        }
+    ],
+    "general_pinyins": [
+        "ān"
+    ],
+    "general_zhuyins": [
+        "ㄢ"
+    ],
+    "general_radical": {
+        "radical": "鸟",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "鵪"
+    ],
+    "general_ytz": [
+        "鵪",
+        "鶕",
+        "䨄",
+        "䳺",
+        "𩀂",
+        "𪂻",
+        "𪃬",
+        "𪈍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E4C",
+            "1342511535451"
+        ],
+        "char_code_wubi": "djng",
+        "char_code_cangjie": "kupym",
+        "char_code_zhengma": "gdzr",
+        "char_code_sijiao": "47727"
+    },
+    "general_unicode": "基本区 U+9E4C",
+    "general_bs_code": "1342511535451"
+}

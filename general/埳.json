@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a pit, a hole, a snare, a danger; a crisis; a mortar"
+        },
+        {
+            "language": "法语",
+            "explanation": "levée de terre,cavité,une fosse,un trou,un piège,un danger,une crise,un mortier"
+        }
+    ],
+    "general_pinyins": [
+        "xiàn",
+        "kǎn"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄢˋ",
+        "ㄎㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "坎",
+        "陷",
+        "塪"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "57F3",
+            "12135321511"
+        ],
+        "char_code_wubi": "fqvg|fqeg",
+        "char_code_cangjie": "gnhx",
+        "char_code_zhengma": "brnb",
+        "char_code_sijiao": "47177"
+    },
+    "general_unicode": "基本区 U+57F3",
+    "general_bs_code": "12135321511"
+}

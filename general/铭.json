@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "inscribe, engrave"
+        },
+        {
+            "language": "德语",
+            "explanation": "Inschrift  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "inscription,graver"
+        }
+    ],
+    "general_pinyins": [
+        "míng"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "銘"
+    ],
+    "general_ytz": [
+        "銘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94ED",
+            "31115354251"
+        ],
+        "char_code_wubi": "qqkg",
+        "char_code_cangjie": "opnir",
+        "char_code_zhengma": "prj",
+        "char_code_sijiao": "87762"
+    },
+    "general_unicode": "基本区 U+94ED",
+    "general_bs_code": "31115354251"
+}

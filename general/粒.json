@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "grain; small particle"
+        },
+        {
+            "language": "德语",
+            "explanation": "Korn; Körnchen  (S)​,ZEW für kleine runde Dinge  (Zähl)"
+        },
+        {
+            "language": "法语",
+            "explanation": "grain,granule,(classificateur pour les petits objets sphériques)​"
+        }
+    ],
+    "general_pinyins": [
+        "lì"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "米",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𩚷",
+        "粒"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7C92",
+            "43123441431"
+        ],
+        "char_code_wubi": "oug",
+        "char_code_cangjie": "fdyt",
+        "char_code_zhengma": "ufsu",
+        "char_code_sijiao": "90918"
+    },
+    "general_unicode": "基本区 U+7C92",
+    "general_bs_code": "43123441431"
+}

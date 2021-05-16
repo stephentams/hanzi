@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "moving of the mouth"
+        }
+    ],
+    "general_pinyins": [
+        "yè"
+    ],
+    "general_zhuyins": [
+        "ㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "欠",
+        "non_radical_sn": "13",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㗼"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3C49",
+            "22431431112343534"
+        ],
+        "char_code_wubi": "oguw|oufw",
+        "char_code_cangjie": "tdno",
+        "char_code_zhengma": "kuro",
+        "char_code_sijiao": "37982"
+    },
+    "general_unicode": "扩展A U+3C49",
+    "general_bs_code": "22431431112343534"
+}

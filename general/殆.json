@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dangerous, perilous; endanger"
+        },
+        {
+            "language": "德语",
+            "explanation": "gefährlich, bedrohlich  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "danger,presque,à peu près"
+        }
+    ],
+    "general_pinyins": [
+        "dài"
+    ],
+    "general_zhuyins": [
+        "ㄉㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "歹",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6B86",
+            "135454251"
+        ],
+        "char_code_wubi": "gqck",
+        "char_code_cangjie": "mnir",
+        "char_code_zhengma": "arzj",
+        "char_code_sijiao": "13260"
+    },
+    "general_unicode": "基本区 U+6B86",
+    "general_bs_code": "135454251"
+}

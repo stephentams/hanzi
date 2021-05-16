@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to deal in spirits"
+        },
+        {
+            "language": "法语",
+            "explanation": "acheter où vendre de l'alcool"
+        }
+    ],
+    "general_pinyins": [
+        "gū"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨ"
+    ],
+    "general_radical": {
+        "radical": "酉",
+        "non_radical_sn": "5",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "沽"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9164",
+            "125351112251"
+        ],
+        "char_code_wubi": "sgdg",
+        "char_code_cangjie": "mwjr",
+        "char_code_zhengma": "fdej",
+        "char_code_sijiao": "14660"
+    },
+    "general_unicode": "基本区 U+9164",
+    "general_bs_code": "125351112251"
+}

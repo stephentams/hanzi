@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "shave"
+        },
+        {
+            "language": "德语",
+            "explanation": "rasieren, sich rasieren"
+        }
+    ],
+    "general_pinyins": [
+        "tì"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "刂",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "剔",
+        "髰",
+        "鬀",
+        "鬄",
+        "𨲙",
+        "𩮜"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5243",
+            "435152322"
+        ],
+        "char_code_wubi": "uxhj",
+        "char_code_cangjie": "chln",
+        "char_code_zhengma": "udyk",
+        "char_code_sijiao": "82200"
+    },
+    "general_unicode": "基本区 U+5243",
+    "general_bs_code": "435152322"
+}

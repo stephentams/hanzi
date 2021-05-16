@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rice seedlings, young rice plants"
+        },
+        {
+            "language": "德语",
+            "explanation": "erschießt, schießt ,Schössling  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "jeunes plants de céréales à repiquer"
+        }
+    ],
+    "general_pinyins": [
+        "yāng"
+    ],
+    "general_zhuyins": [
+        "ㄧㄤ"
+    ],
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥠚"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "79E7",
+            "3123425134"
+        ],
+        "char_code_wubi": "tmdy",
+        "char_code_cangjie": "hdlbk",
+        "char_code_zhengma": "mflg",
+        "char_code_sijiao": "25980"
+    },
+    "general_unicode": "基本区 U+79E7",
+    "general_bs_code": "3123425134"
+}

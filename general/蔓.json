@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "creeping plants, tendrils, vines"
+        },
+        {
+            "language": "德语",
+            "explanation": "auftragen, ausbreiten ,Kriecher  (S)​,Ranke  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "navet,tige rampante"
+        }
+    ],
+    "general_pinyins": [
+        "màn",
+        "wàn"
+    ],
+    "general_zhuyins": [
+        "ㄇㄢˋ",
+        "ㄨㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦽦",
+        "曼"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8513",
+            "12225112522154"
+        ],
+        "char_code_wubi": "ajlc",
+        "char_code_cangjie": "tawe",
+        "char_code_zhengma": "eklx",
+        "char_code_sijiao": "44407"
+    },
+    "general_unicode": "基本区 U+8513",
+    "general_bs_code": "12225112522154"
+}

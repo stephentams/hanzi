@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "intercalary; extra, surplus"
+        },
+        {
+            "language": "德语",
+            "explanation": "eingefügt ,Embolie  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "mois intercalaire"
+        }
+    ],
+    "general_pinyins": [
+        "rùn"
+    ],
+    "general_zhuyins": [
+        "ㄖㄨㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "门",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "閏"
+    ],
+    "general_ytz": [
+        "閏",
+        "閠",
+        "䦞",
+        "𥹿",
+        "𨷎"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "95F0",
+            "4251121"
+        ],
+        "char_code_wubi": "ugd",
+        "char_code_cangjie": "lsmg",
+        "char_code_zhengma": "tlc",
+        "char_code_sijiao": "37104"
+    },
+    "general_unicode": "基本区 U+95F0",
+    "general_bs_code": "4251121"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "violent, savage, cruel; bold"
+        },
+        {
+            "language": "德语",
+            "explanation": "plötzlich, unerwartet, schlagartig, jäh, abrupt  (Adj)​,wild, heftig, kräftig,wuchtig, ungestüm  (Adj)​,Meng  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "soudain,brusquement,violent,féroce"
+        }
+    ],
+    "general_pinyins": [
+        "měng"
+    ],
+    "general_zhuyins": [
+        "ㄇㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "勐",
+        "𠩜",
+        "𪹁"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "731B",
+            "35352125221"
+        ],
+        "char_code_wubi": "qtbl",
+        "char_code_cangjie": "khndt",
+        "char_code_zhengma": "qmyl",
+        "char_code_sijiao": "47212"
+    },
+    "general_unicode": "基本区 U+731B",
+    "general_bs_code": "35352125221"
+}

@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to push over or push back"
+        },
+        {
+            "language": "德语",
+            "explanation": "zurückdrängen"
+        },
+        {
+            "language": "法语",
+            "explanation": "repousser,pousser"
+        }
+    ],
+    "general_pinyins": [
+        "sǎng"
+    ],
+    "general_zhuyins": [
+        "ㄙㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6421",
+            "1215454541234"
+        ],
+        "char_code_wubi": "rccs",
+        "char_code_cangjie": "qeed",
+        "char_code_zhengma": "dxxf",
+        "char_code_sijiao": "57094"
+    },
+    "general_unicode": "基本区 U+6421",
+    "general_bs_code": "1215454541234"
+}

@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "roar, howl, scream; whistle"
+        },
+        {
+            "language": "德语",
+            "explanation": "fauchen, zischen ,pfeifen, flöten"
+        },
+        {
+            "language": "法语",
+            "explanation": "siffler,hurler,mugir,rugir"
+        }
+    ],
+    "general_pinyins": [
+        "xiào"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "啸"
+    ],
+    "general_ytz": [
+        "叱",
+        "啸",
+        "嘨",
+        "歗"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "562F",
+            "2515112321155212"
+        ],
+        "char_code_wubi": "kvhh|kvfj",
+        "char_code_cangjie": "rlx",
+        "char_code_zhengma": "jxnd",
+        "char_code_sijiao": "65027"
+    },
+    "general_unicode": "基本区 U+562F",
+    "general_bs_code": "2515112321155212"
+}

@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "teeth; gears, cogs; age; simplified form of the KangXi radical number 211"
+        },
+        {
+            "language": "德语",
+            "explanation": "Zahn  (Med)"
+        },
+        {
+            "language": "法语",
+            "explanation": "dent"
+        }
+    ],
+    "general_pinyins": [
+        "chǐ"
+    ],
+    "general_zhuyins": [
+        "ㄔˇ"
+    ],
+    "general_radical": {
+        "radical": "齿",
+        "non_radical_sn": "0",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "齒"
+    ],
+    "general_ytz": [
+        "齒",
+        "歯",
+        "𠔒",
+        "𠚒",
+        "𠚕",
+        "𡽔",
+        "𣥫",
+        "𣦗",
+        "𦦂"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9F7F",
+            "21213452"
+        ],
+        "char_code_wubi": "hwbj",
+        "char_code_cangjie": "ymuo",
+        "char_code_zhengma": "io",
+        "char_code_sijiao": "21772"
+    },
+    "general_unicode": "基本区 U+9F7F",
+    "general_bs_code": "21213452"
+}

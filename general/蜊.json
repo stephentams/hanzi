@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "clam"
+        },
+        {
+            "language": "德语",
+            "explanation": "hemmen, zugeknöpfter Mensch"
+        },
+        {
+            "language": "法语",
+            "explanation": "huître,mactre"
+        }
+    ],
+    "general_pinyins": [
+        "lì"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "7",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䖽",
+        "䖿",
+        "𧔌"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "870A",
+            "2512143123422"
+        ],
+        "char_code_wubi": "jtjh",
+        "char_code_cangjie": "lihdn",
+        "char_code_zhengma": "imkd",
+        "char_code_sijiao": "52100"
+    },
+    "general_unicode": "基本区 U+870A",
+    "general_bs_code": "2512143123422"
+}

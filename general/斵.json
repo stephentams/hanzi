@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to cut to pieces; to hack; to chop or hew; to carve for ornaments"
+        },
+        {
+            "language": "法语",
+            "explanation": "hacher"
+        }
+    ],
+    "general_pinyins": [
+        "zhuó"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "斤",
+        "non_radical_sn": "13",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "斲"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "65B5",
+            "35453121551213312"
+        ],
+        "char_code_wubi": "qyvr",
+        "char_code_cangjie": "hmhml",
+        "char_code_zhengma": "rhbp",
+        "char_code_sijiao": "72121"
+    },
+    "general_unicode": "基本区 U+65B5",
+    "general_bs_code": "35453121551213312"
+}

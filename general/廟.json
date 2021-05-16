@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "temple, shrine; imperial court"
+        },
+        {
+            "language": "德语",
+            "explanation": "buddhistischer Tempel  (S, Buddh)​,Gebetshaus  (S, Rel)​,Schrein  (S, Rel)​,Tempel  (S, Rel)"
+        },
+        {
+            "language": "法语",
+            "explanation": "temple,monastère"
+        }
+    ],
+    "general_pinyins": [
+        "miào"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "广",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "庙"
+    ],
+    "general_ytz": [
+        "庙",
+        "庿",
+        "𢉱",
+        "𤸠"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5EDF",
+            "413122511123511"
+        ],
+        "char_code_wubi": "yfje|ofje",
+        "char_code_cangjie": "ijjb",
+        "char_code_zhengma": "tgeq",
+        "char_code_sijiao": "00227"
+    },
+    "general_unicode": "基本区 U+5EDF",
+    "general_bs_code": "413122511123511"
+}

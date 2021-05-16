@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "laud, acclaim; hymn; ode"
+        },
+        {
+            "language": "德语",
+            "explanation": "rühmen, preisen  (V)​,Hymne"
+        },
+        {
+            "language": "法语",
+            "explanation": "louer,exalter,ode"
+        }
+    ],
+    "general_pinyins": [
+        "sòng"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "页",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "頌"
+    ],
+    "general_ytz": [
+        "頌",
+        "𩔜"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9882",
+            "3454132534"
+        ],
+        "char_code_wubi": "wcdm",
+        "char_code_cangjie": "cimbo",
+        "char_code_zhengma": "ozgo",
+        "char_code_sijiao": "81782"
+    },
+    "general_unicode": "基本区 U+9882",
+    "general_bs_code": "3454132534"
+}

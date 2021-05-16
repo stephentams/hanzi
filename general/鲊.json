@@ -1,0 +1,55 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "minced and salted fish; to preserve"
+        },
+        {
+            "language": "德语",
+            "explanation": "Sushi  (S, Ess)"
+        },
+        {
+            "language": "法语",
+            "explanation": "poisson salé,plat fait de légumes du sol, de farine et d'autres ingrédients"
+        }
+    ],
+    "general_pinyins": [
+        "zhǎ",
+        "zhà"
+    ],
+    "general_zhuyins": [
+        "ㄓㄚˇ",
+        "ㄓㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "5",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "鮓"
+    ],
+    "general_ytz": [
+        "鮓",
+        "𩸑",
+        "𩺃",
+        "𩺆",
+        "𩻢",
+        "𩼮",
+        "𩽟",
+        "𩽫"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9C8A",
+            "3525121131211"
+        ],
+        "char_code_wubi": "qgtf",
+        "char_code_cangjie": "nmos",
+        "char_code_zhengma": "rmid",
+        "char_code_sijiao": "28111"
+    },
+    "general_unicode": "基本区 U+9C8A",
+    "general_bs_code": "3525121131211"
+}

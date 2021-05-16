@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dark, unclear, obscure; night"
+        },
+        {
+            "language": "德语",
+            "explanation": "dunkel, Dunkelheit  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "obscurité"
+        }
+    ],
+    "general_pinyins": [
+        "huì"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣎚"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6666",
+            "25113155414"
+        ],
+        "char_code_wubi": "jtxu|jtxy",
+        "char_code_cangjie": "aowy",
+        "char_code_zhengma": "kmzy",
+        "char_code_sijiao": "68057"
+    },
+    "general_unicode": "基本区 U+6666",
+    "general_bs_code": "25113155414"
+}

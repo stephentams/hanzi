@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "melt, smelt, fuse; mold"
+        },
+        {
+            "language": "法语",
+            "explanation": "fondre"
+        }
+    ],
+    "general_pinyins": [
+        "róng"
+    ],
+    "general_zhuyins": [
+        "ㄖㄨㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "鎔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7194",
+            "43344453434251"
+        ],
+        "char_code_wubi": "opwk",
+        "char_code_cangjie": "fjcr",
+        "char_code_zhengma": "uooj",
+        "char_code_sijiao": "93868"
+    },
+    "general_unicode": "基本区 U+7194",
+    "general_bs_code": "43344453434251"
+}

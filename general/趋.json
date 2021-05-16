@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hasten, hurry; be attracted to"
+        },
+        {
+            "language": "德语",
+            "explanation": "beeilen, eilen, hasten  (V)​,zu etw. neigen, tendieren, einer Tendenz folgen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tendre à,se hâter"
+        }
+    ],
+    "general_pinyins": [
+        "qū",
+        "cù"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩ",
+        "ㄘㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "走",
+        "non_radical_sn": "5",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "趨"
+    ],
+    "general_ytz": [
+        "趨",
+        "趍",
+        "𧻫",
+        "𧾶"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D8B",
+            "121213435511"
+        ],
+        "char_code_wubi": "fhqv",
+        "char_code_cangjie": "gonsm",
+        "char_code_zhengma": "borx",
+        "char_code_sijiao": "47807"
+    },
+    "general_unicode": "基本区 U+8D8B",
+    "general_bs_code": "121213435511"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cord binding on hilt of sword"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gou  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "lanière enroulée sur le manche d'un sabre ou d'un poignard"
+        }
+    ],
+    "general_pinyins": [
+        "gōu"
+    ],
+    "general_zhuyins": [
+        "ㄍㄡ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "緱"
+    ],
+    "general_ytz": [
+        "緱",
+        "𦂐"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F11",
+            "551325131134"
+        ],
+        "char_code_wubi": "xwnd",
+        "char_code_cangjie": "vmonk",
+        "char_code_zhengma": "znxm",
+        "char_code_sijiao": "27184"
+    },
+    "general_unicode": "基本区 U+7F11",
+    "general_bs_code": "551325131134"
+}

@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(Cant.) rough; interjection"
+        }
+    ],
+    "general_pinyins": [
+        "xié",
+        "hái"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄝˊ",
+        "ㄏㄞˊ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "15",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "56A1",
+            "251122125112121121"
+        ],
+        "char_code_wubi": "kaff",
+        "char_code_cangjie": "rtjg",
+        "char_code_zhengma": "jebb",
+        "char_code_sijiao": "64014"
+    },
+    "general_unicode": "基本区 U+56A1",
+    "general_bs_code": "251122125112121121"
+}

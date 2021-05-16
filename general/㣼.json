@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 忍) to endure; to bear; to forbear; to repress"
+        }
+    ],
+    "general_pinyins": [
+        "rěn"
+    ],
+    "general_zhuyins": [
+        "ㄖㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "忍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "38FC",
+            "442534"
+        ],
+        "char_code_wubi": "nvyy",
+        "char_code_cangjie": "pshi",
+        "char_code_zhengma": "uys",
+        "char_code_sijiao": "97020"
+    },
+    "general_unicode": "扩展A U+38FC",
+    "general_bs_code": "442534"
+}

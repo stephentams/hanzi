@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ancestral temple; offer sacrifice"
+        },
+        {
+            "language": "法语",
+            "explanation": "temple des ancêtres"
+        }
+    ],
+    "general_pinyins": [
+        "cí"
+    ],
+    "general_zhuyins": [
+        "ㄘˊ"
+    ],
+    "general_radical": {
+        "radical": "礻",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "祀"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7960",
+            "452451251"
+        ],
+        "char_code_wubi": "pynk",
+        "char_code_cangjie": "ifsmr",
+        "char_code_zhengma": "wsaj",
+        "char_code_sijiao": "37220"
+    },
+    "general_unicode": "基本区 U+7960",
+    "general_bs_code": "452451251"
+}

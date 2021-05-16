@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "spray, water, sprinkle"
+        },
+        {
+            "language": "德语",
+            "explanation": "übergießen (V)​,bewässern (V)​,gießen (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "arroser,verser,asperger"
+        }
+    ],
+    "general_pinyins": [
+        "jiāo"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "澆"
+    ],
+    "general_ytz": [
+        "澆",
+        "𣴹",
+        "𣷝",
+        "𣻏",
+        "𤀴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6D47",
+            "441153135"
+        ],
+        "char_code_wubi": "iatq",
+        "char_code_cangjie": "ejpu",
+        "char_code_zhengma": "vhgr",
+        "char_code_sijiao": "35112"
+    },
+    "general_unicode": "基本区 U+6D47",
+    "general_bs_code": "441153135"
+}

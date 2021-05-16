@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "scissors; cut, clip; annhilate"
+        },
+        {
+            "language": "德语",
+            "explanation": "Marihuana, Messer  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "couper avec ciseaux ou cisailles"
+        }
+    ],
+    "general_pinyins": [
+        "jiǎn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "羽",
+        "non_radical_sn": "9",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "箭",
+        "剪",
+        "劗",
+        "𠞽",
+        "𠟠",
+        "𦑦",
+        "𦑳",
+        "𦒕"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7FE6",
+            "431251122541541"
+        ],
+        "char_code_wubi": "uejn",
+        "char_code_cangjie": "tbnm",
+        "char_code_zhengma": "uayy",
+        "char_code_sijiao": "80127"
+    },
+    "general_unicode": "基本区 U+7FE6",
+    "general_bs_code": "431251122541541"
+}

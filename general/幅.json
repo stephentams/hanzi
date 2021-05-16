@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "piece, strip, breadth of, hem"
+        },
+        {
+            "language": "德语",
+            "explanation": "(大小)​ Größe, Umfang, Format (S)​, (布匹的宽度)​ Breite einer Stoffbahn (S)​,wickeln, drehen (V)​,[用于布帛、呢绒、图画等] (Zähl)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bande,rouleau,bordure,ourlet,(classificateur pour les bandes, rouleaux, tissus, toiles d'artistes, etc.)​"
+        }
+    ],
+    "general_pinyins": [
+        "fú"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "巾",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䋹",
+        "畐",
+        "䌿"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5E45",
+            "252125125121"
+        ],
+        "char_code_wubi": "mhgl",
+        "char_code_cangjie": "lbmrw",
+        "char_code_zhengma": "lijk",
+        "char_code_sijiao": "41266"
+    },
+    "general_unicode": "基本区 U+5E45",
+    "general_bs_code": "252125125121"
+}

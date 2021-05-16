@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "decorative, adorned, elegant"
+        },
+        {
+            "language": "德语",
+            "explanation": "geziert, zierte"
+        },
+        {
+            "language": "法语",
+            "explanation": "orné,beau"
+        }
+    ],
+    "general_pinyins": [
+        "rù"
+    ],
+    "general_zhuyins": [
+        "ㄖㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "縟"
+    ],
+    "general_ytz": [
+        "縟"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F1B",
+            "5511311534124"
+        ],
+        "char_code_wubi": "xdff",
+        "char_code_cangjie": "vmmvi",
+        "char_code_zhengma": "zgds",
+        "char_code_sijiao": "21143"
+    },
+    "general_unicode": "基本区 U+7F1B",
+    "general_bs_code": "5511311534124"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tread, step on; follow, track"
+        },
+        {
+            "language": "德语",
+            "explanation": "Tritt, Schritt ,leise gehen  (V)​,treten, zertreten  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "marcher à pas feutrés"
+        }
+    ],
+    "general_pinyins": [
+        "niè"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "10",
+        "total_sn": "17"
+    },
+    "general_stc": [
+        "躡"
+    ],
+    "general_ytz": [
+        "躡",
+        "𧿜"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E51",
+            "25121211221115454"
+        ],
+        "char_code_wubi": "khbc",
+        "char_code_cangjie": "xrmsj",
+        "char_code_zhengma": "jixx",
+        "char_code_sijiao": "61147"
+    },
+    "general_unicode": "基本区 U+8E51",
+    "general_bs_code": "25121211221115454"
+}

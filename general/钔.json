@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "Md"
+        },
+        {
+            "language": "德语",
+            "explanation": "Mendelevium (Element 101, Md)​ (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "mendélévium"
+        }
+    ],
+    "general_pinyins": [
+        "mén"
+    ],
+    "general_zhuyins": [
+        "ㄇㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "3",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "鍆"
+    ],
+    "general_ytz": [
+        "鍆"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9494",
+            "31115425"
+        ],
+        "char_code_wubi": "qun",
+        "char_code_cangjie": "oplis",
+        "char_code_zhengma": "ptl",
+        "char_code_sijiao": "87720"
+    },
+    "general_unicode": "基本区 U+9494",
+    "general_bs_code": "31115425"
+}

@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as U+4A6A 䩪) saddle; rein and bridle"
+        }
+    ],
+    "general_pinyins": [
+        "guǎn"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "革",
+        "non_radical_sn": "12",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䩪"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4A80",
+            "122125112445251514544"
+        ],
+        "char_code_wubi": "afpn",
+        "char_code_cangjie": "tjjrp",
+        "char_code_zhengma": "eeyw",
+        "char_code_sijiao": "43537"
+    },
+    "general_unicode": "扩展A U+4A80",
+    "general_bs_code": "122125112445251514544"
+}

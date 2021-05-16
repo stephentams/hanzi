@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "drizzle; (variant) valley; (variant) mold"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 träufeln, nieseln"
+        }
+    ],
+    "general_pinyins": [
+        "wēi"
+    ],
+    "general_zhuyins": [
+        "ㄨㄟ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㵟",
+        "霺",
+        "湄"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6EA6",
+            "4412521353134"
+        ],
+        "char_code_wubi": "imgt",
+        "char_code_cangjie": "eunk",
+        "char_code_zhengma": "vlqm",
+        "char_code_sijiao": "38140"
+    },
+    "general_unicode": "基本区 U+6EA6",
+    "general_bs_code": "4412521353134"
+}

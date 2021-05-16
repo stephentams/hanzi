@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bright, shining; have guts"
+        },
+        {
+            "language": "德语",
+            "explanation": "klar, aufgeweckt ,Geng  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "dévoué,honnête"
+        }
+    ],
+    "general_pinyins": [
+        "gěng"
+    ],
+    "general_zhuyins": [
+        "ㄍㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "耳",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤓐"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "803F",
+            "1221114334"
+        ],
+        "char_code_wubi": "boy",
+        "char_code_cangjie": "sjf",
+        "char_code_zhengma": "ceuo",
+        "char_code_sijiao": "19480"
+    },
+    "general_unicode": "基本区 U+803F",
+    "general_bs_code": "1221114334"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mean, low; cheap, worthless"
+        },
+        {
+            "language": "德语",
+            "explanation": "bescheiden, niedrig, von niederem Stand  (Adj)​,billig, für wenig Geld  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bon marché,bas,con"
+        }
+    ],
+    "general_pinyins": [
+        "jiàn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "賤"
+    ],
+    "general_ytz": [
+        "賤",
+        "賎",
+        "𧶤"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D31",
+            "253411534"
+        ],
+        "char_code_wubi": "mgt|mgay",
+        "char_code_cangjie": "boij",
+        "char_code_zhengma": "lohm",
+        "char_code_sijiao": "73850"
+    },
+    "general_unicode": "基本区 U+8D31",
+    "general_bs_code": "253411534"
+}

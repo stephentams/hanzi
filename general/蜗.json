@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a snail, Eulota callizoma"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schneckensorte  (S, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "escargot"
+        }
+    ],
+    "general_pinyins": [
+        "wō"
+    ],
+    "general_zhuyins": [
+        "ㄨㄛ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "7",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "蝸"
+    ],
+    "general_ytz": [
+        "蝸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8717",
+            "2512142512534"
+        ],
+        "char_code_wubi": "jkmw",
+        "char_code_cangjie": "lirob",
+        "char_code_zhengma": "ijlo",
+        "char_code_sijiao": "56127"
+    },
+    "general_unicode": "基本区 U+8717",
+    "general_bs_code": "2512142512534"
+}

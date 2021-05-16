@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lips"
+        },
+        {
+            "language": "德语",
+            "explanation": "Lippe"
+        }
+    ],
+    "general_pinyins": [
+        "chún"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㖘",
+        "𠵧",
+        "𠸸",
+        "脣",
+        "䫃",
+        "𣲼",
+        "𦟢",
+        "𩕁"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5507",
+            "1311534251"
+        ],
+        "char_code_wubi": "dfek",
+        "char_code_cangjie": "mvr",
+        "char_code_zhengma": "ghj",
+        "char_code_sijiao": "71263"
+    },
+    "general_unicode": "基本区 U+5507",
+    "general_bs_code": "1311534251"
+}

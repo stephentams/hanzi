@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "branches, limbs; branch off"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ast, Zweig  (S)​,ZEW für längliche, stockartige Gegenstände wie Pinsel, Stift, Stäbchen  (Zähl)"
+        },
+        {
+            "language": "法语",
+            "explanation": "branche,(classificateur pour les objets longs)​"
+        }
+    ],
+    "general_pinyins": [
+        "zhī",
+        "qí"
+    ],
+    "general_zhuyins": [
+        "ㄓ",
+        "ㄑㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㩽",
+        "支",
+        "歧",
+        "跂"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "679D",
+            "12341254"
+        ],
+        "char_code_wubi": "sfcy",
+        "char_code_cangjie": "dje",
+        "char_code_zhengma": "fexs",
+        "char_code_sijiao": "44947"
+    },
+    "general_unicode": "基本区 U+679D",
+    "general_bs_code": "12341254"
+}

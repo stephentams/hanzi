@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fine piece of jade"
+        },
+        {
+            "language": "法语",
+            "explanation": "(jade)​"
+        }
+    ],
+    "general_pinyins": [
+        "mào"
+    ],
+    "general_zhuyins": [
+        "ㄇㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㺺",
+        "冒",
+        "𤣽",
+        "𤦛",
+        "𤲰"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7441",
+            "1121251125111"
+        ],
+        "char_code_wubi": "gjhg",
+        "char_code_cangjie": "mgabu",
+        "char_code_zhengma": "ckl",
+        "char_code_sijiao": "16160"
+    },
+    "general_unicode": "基本区 U+7441",
+    "general_bs_code": "1121251125111"
+}

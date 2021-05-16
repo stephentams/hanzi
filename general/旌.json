@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "banner or flag adorned with feathers; to signal"
+        },
+        {
+            "language": "德语",
+            "explanation": "Banner, Fahne  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bannière,signaler"
+        }
+    ],
+    "general_pinyins": [
+        "jīng"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄥ"
+    ],
+    "general_radical": {
+        "radical": "方",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "旍",
+        "𣃠",
+        "𣃢",
+        "𣄀",
+        "𦑊",
+        "𦑖",
+        "𧚫",
+        "𦲵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "65CC",
+            "41533131121"
+        ],
+        "char_code_wubi": "yttg",
+        "char_code_cangjie": "ysohm",
+        "char_code_zhengma": "symm",
+        "char_code_sijiao": "08215"
+    },
+    "general_unicode": "基本区 U+65CC",
+    "general_bs_code": "41533131121"
+}

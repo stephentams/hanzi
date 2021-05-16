@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "quarrel; dispute hotly"
+        },
+        {
+            "language": "德语",
+            "explanation": "lärmend, auslassen, an etw. leiden  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bruyant,animé,faire du bruit,faire du tapage,troubler,souffrir de"
+        }
+    ],
+    "general_pinyins": [
+        "nào"
+    ],
+    "general_zhuyins": [
+        "ㄋㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "门",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "鬧"
+    ],
+    "general_ytz": [
+        "鬧",
+        "閙",
+        "𠅈",
+        "𠆴",
+        "𠇰",
+        "𡗚",
+        "𢂂",
+        "𨶂"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "95F9",
+            "42541252"
+        ],
+        "char_code_wubi": "uymh",
+        "char_code_cangjie": "lsylb",
+        "char_code_zhengma": "tlsl",
+        "char_code_sijiao": "37227"
+    },
+    "general_unicode": "基本区 U+95F9",
+    "general_bs_code": "42541252"
+}

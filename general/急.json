@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "quick, quickly; urgent, pressing"
+        },
+        {
+            "language": "德语",
+            "explanation": "akut, dringend; dringlich (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "impatient,pressé,urgent,rapide,violent,se presser,brûler,inquiéter"
+        }
+    ],
+    "general_pinyins": [
+        "jí"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㤂",
+        "伋",
+        "忣",
+        "𢚩",
+        "㥛"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6025",
+            "355114544"
+        ],
+        "char_code_wubi": "qvnu",
+        "char_code_cangjie": "nmp",
+        "char_code_zhengma": "rxwz",
+        "char_code_sijiao": "27337"
+    },
+    "general_unicode": "基本区 U+6025",
+    "general_bs_code": "355114544"
+}

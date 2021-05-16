@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "decorate, ornament, adorn"
+        },
+        {
+            "language": "德语",
+            "explanation": "garnieren, schmücken ,Verzierungen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "décorer,parer,jourer le rôle de,se déguiser en"
+        }
+    ],
+    "general_pinyins": [
+        "shì"
+    ],
+    "general_zhuyins": [
+        "ㄕˋ"
+    ],
+    "general_radical": {
+        "radical": "饣",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "飾"
+    ],
+    "general_ytz": [
+        "飾",
+        "餝",
+        "餙",
+        "𩚍",
+        "𩛏",
+        "𩜓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9970",
+            "35531252"
+        ],
+        "char_code_wubi": "qnth",
+        "char_code_cangjie": "nvolb",
+        "char_code_zhengma": "oxml",
+        "char_code_sijiao": "28727"
+    },
+    "general_unicode": "基本区 U+9970",
+    "general_bs_code": "35531252"
+}

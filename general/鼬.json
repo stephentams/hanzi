@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "weasel, mustela itatis"
+        },
+        {
+            "language": "德语",
+            "explanation": "Wiesel  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "belette"
+        }
+    ],
+    "general_pinyins": [
+        "yòu"
+    ],
+    "general_zhuyins": [
+        "ㄧㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "鼠",
+        "non_radical_sn": "5",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𪕏"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9F2C",
+            "321511544544525121"
+        ],
+        "char_code_wubi": "vnum|enum",
+        "char_code_cangjie": "hvlw",
+        "char_code_zhengma": "nbzk",
+        "char_code_sijiao": "75760"
+    },
+    "general_unicode": "基本区 U+9F2C",
+    "general_bs_code": "321511544544525121"
+}

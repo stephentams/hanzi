@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "one's responsibility, duty"
+        },
+        {
+            "language": "德语",
+            "explanation": "Pflicht  (S)​,Tadel  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "demander,reprocher,responsabilité"
+        }
+    ],
+    "general_pinyins": [
+        "zé",
+        "zhài"
+    ],
+    "general_zhuyins": [
+        "ㄗㄜˊ",
+        "ㄓㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "責"
+    ],
+    "general_ytz": [
+        "責",
+        "㥽",
+        "𧵩",
+        "𧶌"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D23",
+            "11212534"
+        ],
+        "char_code_wubi": "gmu",
+        "char_code_cangjie": "qmbo",
+        "char_code_zhengma": "cilo",
+        "char_code_sijiao": "50802"
+    },
+    "general_unicode": "基本区 U+8D23",
+    "general_bs_code": "11212534"
+}

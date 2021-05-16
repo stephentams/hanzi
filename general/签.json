@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sign, endorse; slip of paper"
+        },
+        {
+            "language": "德语",
+            "explanation": "unterschreiben  (V)"
+        }
+    ],
+    "general_pinyins": [
+        "qiān"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "7",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "簽"
+    ],
+    "general_ytz": [
+        "簽",
+        "籤",
+        "籖"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7B7E",
+            "3143143414431"
+        ],
+        "char_code_wubi": "twgi|twgg",
+        "char_code_cangjie": "homm",
+        "char_code_zhengma": "mobv",
+        "char_code_sijiao": "88109"
+    },
+    "general_unicode": "基本区 U+7B7E",
+    "general_bs_code": "3143143414431"
+}

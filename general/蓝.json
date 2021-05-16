@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "blue; indigo plant; surname"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kohlrabi  (S)​,blau (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bleu"
+        }
+    ],
+    "general_pinyins": [
+        "lán"
+    ],
+    "general_zhuyins": [
+        "ㄌㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "藍"
+    ],
+    "general_ytz": [
+        "藍",
+        "𦾐"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "84DD",
+            "1222231425221"
+        ],
+        "char_code_wubi": "ajtl",
+        "char_code_cangjie": "tlit",
+        "char_code_zhengma": "ekml",
+        "char_code_sijiao": "44102"
+    },
+    "general_unicode": "基本区 U+84DD",
+    "general_bs_code": "1222231425221"
+}

@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "precious stone; xian in Sichuan"
+        },
+        {
+            "language": "法语",
+            "explanation": "arbre aux mouchoirs,gros disque de jade"
+        }
+    ],
+    "general_pinyins": [
+        "gǒng"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "拱",
+        "𤣲",
+        "㺬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "73D9",
+            "1121122134"
+        ],
+        "char_code_wubi": "gawy",
+        "char_code_cangjie": "mgtc",
+        "char_code_zhengma": "ceo",
+        "char_code_sijiao": "14181"
+    },
+    "general_unicode": "基本区 U+73D9",
+    "general_bs_code": "1121122134"
+}

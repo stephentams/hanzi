@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pause, stop; bow, kowtow; arrange"
+        },
+        {
+            "language": "德语",
+            "explanation": "ZEW für einmalige Handlungen ohne Wiederholung (Zähl)"
+        },
+        {
+            "language": "法语",
+            "explanation": "faire une pause,frapper du pied,soudain,imédiatement,(classificateur pour les repas et les réprimandes)​"
+        }
+    ],
+    "general_pinyins": [
+        "dùn"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "页",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "頓"
+    ],
+    "general_ytz": [
+        "頓",
+        "𢻴",
+        "𩠫"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "987F",
+            "1525132534"
+        ],
+        "char_code_wubi": "gbnm",
+        "char_code_cangjie": "pumbo",
+        "char_code_zhengma": "hdzg",
+        "char_code_sijiao": "51782"
+    },
+    "general_unicode": "基本区 U+987F",
+    "general_bs_code": "1525132534"
+}

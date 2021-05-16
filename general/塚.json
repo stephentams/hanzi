@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cemetery; tomb, burial mound"
+        },
+        {
+            "language": "德语",
+            "explanation": "Grabhügel  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tombeau"
+        }
+    ],
+    "general_pinyins": [
+        "zhǒng"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "冢",
+        "塚"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "585A",
+            "1214513533434"
+        ],
+        "char_code_wubi": "fpey|fpgy",
+        "char_code_cangjie": "gbmo",
+        "char_code_zhengma": "bwgs",
+        "char_code_sijiao": "47132"
+    },
+    "general_unicode": "基本区 U+585A",
+    "general_bs_code": "1214513533434"
+}

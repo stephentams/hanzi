@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "slip of paper or bamboo; ticket"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ticket"
+        },
+        {
+            "language": "法语",
+            "explanation": "ticket,billet,bulletin de vote"
+        }
+    ],
+    "general_pinyins": [
+        "piào",
+        "piāo"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧㄠˋ",
+        "ㄆㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "示",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤊆",
+        "𤐫",
+        "㶾"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7968",
+            "12522111234"
+        ],
+        "char_code_wubi": "sfiu",
+        "char_code_cangjie": "mwmmf",
+        "char_code_zhengma": "fjbk",
+        "char_code_sijiao": "10901"
+    },
+    "general_unicode": "基本区 U+7968",
+    "general_bs_code": "12522111234"
+}

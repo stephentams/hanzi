@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a small kidney bean"
+        },
+        {
+            "language": "法语",
+            "explanation": "haricot"
+        }
+    ],
+    "general_pinyins": [
+        "jiāng"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄤ"
+    ],
+    "general_radical": {
+        "radical": "豆",
+        "non_radical_sn": "3",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C47",
+            "1251431121"
+        ],
+        "char_code_wubi": "gkua",
+        "char_code_cangjie": "mtm",
+        "char_code_zhengma": "ajub",
+        "char_code_sijiao": "11112"
+    },
+    "general_unicode": "基本区 U+8C47",
+    "general_bs_code": "1251431121"
+}

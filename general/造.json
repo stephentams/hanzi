@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "construct, build, make, begin; prepare"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 bauen, erbauen  (V)​,erfinden, ersinnen, erdichten  (V)​,herstellen, erzeugen, fabrizieren  (V)​,machen  (V)"
+        }
+    ],
+    "general_pinyins": [
+        "zào"
+    ],
+    "general_zhuyins": [
+        "ㄗㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨕡",
+        "𨒽",
+        "𨑴",
+        "𧻰",
+        "艁",
+        "䒃",
+        "𦹢"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9020",
+            "3121251454"
+        ],
+        "char_code_wubi": "tfkp",
+        "char_code_cangjie": "yhgr",
+        "char_code_zhengma": "mbjw",
+        "char_code_sijiao": "34306"
+    },
+    "general_unicode": "基本区 U+9020",
+    "general_bs_code": "3121251454"
+}

@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "vegetable mixed with thick soup (broth), congee; gruel"
+        }
+    ],
+    "general_pinyins": [
+        "tán"
+    ],
+    "general_zhuyins": [
+        "ㄊㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "米",
+        "non_radical_sn": "12",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥾁"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "42A4",
+            "431234125221251112"
+        ],
+        "char_code_wubi": "osjh",
+        "char_code_cangjie": "fdmwj",
+        "char_code_zhengma": "ufke",
+        "char_code_sijiao": "91946"
+    },
+    "general_unicode": "扩展A U+42A4",
+    "general_bs_code": "431234125221251112"
+}

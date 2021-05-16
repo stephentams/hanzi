@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 晉) to advance; to increase; to flourish"
+        }
+    ],
+    "general_pinyins": [
+        "jìn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "12",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "晉"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3B1C",
+            "1541211541212511"
+        ],
+        "char_code_wubi": "gcfj",
+        "char_code_cangjie": "mga",
+        "char_code_zhengma": "hbhk",
+        "char_code_sijiao": "11601"
+    },
+    "general_unicode": "扩展A U+3B1C",
+    "general_bs_code": "1541211541212511"
+}

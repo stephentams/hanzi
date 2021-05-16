@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "river in Sichuan province"
+        },
+        {
+            "language": "法语",
+            "explanation": "rivière Fu dans le Sichuan"
+        }
+    ],
+    "general_pinyins": [
+        "fú"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣷧"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6DAA",
+            "44141431251"
+        ],
+        "char_code_wubi": "iukg",
+        "char_code_cangjie": "eytr",
+        "char_code_zhengma": "vsj",
+        "char_code_sijiao": "30161"
+    },
+    "general_unicode": "基本区 U+6DAA",
+    "general_bs_code": "44141431251"
+}

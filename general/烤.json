@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bake, roast, toast, cook"
+        },
+        {
+            "language": "德语",
+            "explanation": "backen, rösten, grillen  (V)​,sehr heiß, brennend, sengend  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "rôtir,sécher au feu,se chauffer près du feu"
+        }
+    ],
+    "general_pinyins": [
+        "kǎo"
+    ],
+    "general_zhuyins": [
+        "ㄎㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "70E4",
+            "4334121315"
+        ],
+        "char_code_wubi": "oftn",
+        "char_code_cangjie": "fjks",
+        "char_code_zhengma": "uoaz",
+        "char_code_sijiao": "94827"
+    },
+    "general_unicode": "基本区 U+70E4",
+    "general_bs_code": "4334121315"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "blind; unperceptive, shortsighted"
+        },
+        {
+            "language": "德语",
+            "explanation": "blind  (Adj)​,Blende  (S)​,Erblindung  (S)​,Jalousie  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "aveugle,cécité"
+        }
+    ],
+    "general_pinyins": [
+        "máng"
+    ],
+    "general_zhuyins": [
+        "ㄇㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "3",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "朚",
+        "盳",
+        "瞢",
+        "𤷐",
+        "𥇋"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "76F2",
+            "41525111"
+        ],
+        "char_code_wubi": "ynhf",
+        "char_code_cangjie": "yvbu",
+        "char_code_zhengma": "shl",
+        "char_code_sijiao": "00601"
+    },
+    "general_unicode": "基本区 U+76F2",
+    "general_bs_code": "41525111"
+}

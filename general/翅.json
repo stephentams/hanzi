@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wings; fin"
+        },
+        {
+            "language": "法语",
+            "explanation": "aile,nageoire"
+        }
+    ],
+    "general_pinyins": [
+        "chì"
+    ],
+    "general_zhuyins": [
+        "ㄔˋ"
+    ],
+    "general_radical": {
+        "radical": "羽",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "翄",
+        "翤",
+        "翨",
+        "趐",
+        "鳷",
+        "𦐊",
+        "䧴"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7FC5",
+            "1254541541"
+        ],
+        "char_code_wubi": "fcnd",
+        "char_code_cangjie": "jesmm",
+        "char_code_zhengma": "edyy",
+        "char_code_sijiao": "47402"
+    },
+    "general_unicode": "基本区 U+7FC5",
+    "general_bs_code": "1254541541"
+}

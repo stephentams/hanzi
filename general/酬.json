@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "toast; reward, recompense"
+        }
+    ],
+    "general_pinyins": [
+        "chóu"
+    ],
+    "general_zhuyins": [
+        "ㄔㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "酉",
+        "non_radical_sn": "6",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "詶",
+        "酧",
+        "醻",
+        "𨠩",
+        "𨢫"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "916C",
+            "1253511434242"
+        ],
+        "char_code_wubi": "sgyh",
+        "char_code_cangjie": "mwill",
+        "char_code_zhengma": "fdvn",
+        "char_code_sijiao": "12600"
+    },
+    "general_unicode": "基本区 U+916C",
+    "general_bs_code": "1253511434242"
+}

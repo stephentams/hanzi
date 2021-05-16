@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "balance weight on scale; hammer"
+        },
+        {
+            "language": "德语",
+            "explanation": "hämmern ; Hammer"
+        },
+        {
+            "language": "法语",
+            "explanation": "marteau,massue,poids,marteler"
+        }
+    ],
+    "general_pinyins": [
+        "chuí"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "錘",
+        "鎚"
+    ],
+    "general_ytz": [
+        "錘",
+        "鎚",
+        "𨪼",
+        "𨫻",
+        "𨭇"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9524",
+            "3111531212211"
+        ],
+        "char_code_wubi": "qtgf",
+        "char_code_cangjie": "ophjm",
+        "char_code_zhengma": "pmeb",
+        "char_code_sijiao": "82715"
+    },
+    "general_unicode": "基本区 U+9524",
+    "general_bs_code": "3111531212211"
+}

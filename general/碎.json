@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "break, smash; broken, busted"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufspalten, abreißen (V)​,bruchstückartig (Adj)​,fragmentarisch (Adv)​,in Stücke gehen,in Stücke zerspringen\""
+        },
+        {
+            "language": "法语",
+            "explanation": "casser,mettre en pièces,brisé,cassé"
+        }
+    ],
+    "general_pinyins": [
+        "suì"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "砕",
+        "𤭢"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "788E",
+            "1325141343412"
+        ],
+        "char_code_wubi": "dywf",
+        "char_code_cangjie": "mryoj",
+        "char_code_zhengma": "gsoe",
+        "char_code_sijiao": "10648"
+    },
+    "general_unicode": "基本区 U+788E",
+    "general_bs_code": "1325141343412"
+}

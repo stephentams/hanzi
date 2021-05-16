@@ -1,0 +1,28 @@
+{
+    "general_pinyins": [
+        "tóng",
+        "tāo"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "彳",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "佟"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "224D8",
+            "33235444"
+        ],
+        "char_code_wubi": "ttuy",
+        "char_code_cangjie": "hohey",
+        "char_code_zhengma": "oirt"
+    },
+    "general_unicode": "扩展B U+224D8",
+    "general_bs_code": "33235444"
+}

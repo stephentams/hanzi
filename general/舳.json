@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "法语",
+            "explanation": "stern of ship"
+        }
+    ],
+    "general_pinyins": [
+        "zhú"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "舟",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8233",
+            "33541425121"
+        ],
+        "char_code_wubi": "temg|tumg",
+        "char_code_cangjie": "hylw",
+        "char_code_zhengma": "pyki",
+        "char_code_sijiao": "25460"
+    },
+    "general_unicode": "基本区 U+8233",
+    "general_bs_code": "33541425121"
+}

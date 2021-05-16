@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "heavy horse; horse unable to move because of twisted leg; plodding"
+        }
+    ],
+    "general_pinyins": [
+        "zhì"
+    ],
+    "general_zhuyins": [
+        "ㄓˋ"
+    ],
+    "general_radical": {
+        "radical": "馬",
+        "non_radical_sn": "11",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "駤",
+        "驇"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A3A",
+            "121431123541211254444"
+        ],
+        "char_code_wubi": "fufc|fufo",
+        "char_code_cangjie": "gisqf",
+        "char_code_zhengma": "busc",
+        "char_code_sijiao": "45327"
+    },
+    "general_unicode": "基本区 U+9A3A",
+    "general_bs_code": "121431123541211254444"
+}

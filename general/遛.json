@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "take walk, stroll"
+        },
+        {
+            "language": "德语",
+            "explanation": "bummeln, flanieren ,verweilen"
+        },
+        {
+            "language": "法语",
+            "explanation": "se balader,flâner"
+        }
+    ],
+    "general_pinyins": [
+        "liù"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "溜",
+        "蹓",
+        "𨖻"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "905B",
+            "3545325121454"
+        ],
+        "char_code_wubi": "qyvp",
+        "char_code_cangjie": "yhhw",
+        "char_code_zhengma": "rhkw",
+        "char_code_sijiao": "37306"
+    },
+    "general_unicode": "基本区 U+905B",
+    "general_bs_code": "3545325121454"
+}

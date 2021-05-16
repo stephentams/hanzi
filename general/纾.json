@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "loosen, relax, relieve; extricate"
+        },
+        {
+            "language": "德语",
+            "explanation": "langsam, bedächtig"
+        },
+        {
+            "language": "法语",
+            "explanation": "abondant,ample,à l'aise,libérer,soulager,dégager"
+        }
+    ],
+    "general_pinyins": [
+        "shū"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "紓"
+    ],
+    "general_ytz": [
+        "紓",
+        "䋒",
+        "䋡"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EBE",
+            "5515452"
+        ],
+        "char_code_wubi": "xcbh|xcnh",
+        "char_code_cangjie": "vmnin",
+        "char_code_zhengma": "zxxi",
+        "char_code_sijiao": "27122"
+    },
+    "general_unicode": "基本区 U+7EBE",
+    "general_bs_code": "5515452"
+}

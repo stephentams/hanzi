@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "progeny, descendants, posterity"
+        },
+        {
+            "language": "德语",
+            "explanation": "Grenzgebiet, entfernte Gegend, Grenze  (S)​,Nachkommen, Nachfahren  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "descendance,postérité"
+        }
+    ],
+    "general_pinyins": [
+        "yì"
+    ],
+    "general_zhuyins": [
+        "ㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "衣",
+        "non_radical_sn": "7",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠆘",
+        "𧘉",
+        "𧘊",
+        "𧘯",
+        "𧚞",
+        "𧛨",
+        "𧛲",
+        "𧜟"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "88D4",
+            "4135342534251"
+        ],
+        "char_code_wubi": "yemk",
+        "char_code_cangjie": "yvbcr",
+        "char_code_zhengma": "srld",
+        "char_code_sijiao": "00227"
+    },
+    "general_unicode": "基本区 U+88D4",
+    "general_bs_code": "4135342534251"
+}

@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "德语",
+            "explanation": "Arsine"
+        },
+        {
+            "language": "法语",
+            "explanation": "trihydrure d'arsenic,arsine"
+        }
+    ],
+    "general_pinyins": [
+        "shèn"
+    ],
+    "general_zhuyins": [
+        "ㄕㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "80C2",
+            "351125112"
+        ],
+        "char_code_wubi": "ejhh",
+        "char_code_cangjie": "blwl",
+        "char_code_zhengma": "qkic",
+        "char_code_sijiao": "75206"
+    },
+    "general_unicode": "基本区 U+80C2",
+    "general_bs_code": "351125112"
+}

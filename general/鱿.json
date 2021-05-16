@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cuttlefish"
+        },
+        {
+            "language": "德语",
+            "explanation": "Tintenfisch  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "calmar"
+        }
+    ],
+    "general_pinyins": [
+        "yóu"
+    ],
+    "general_zhuyins": [
+        "ㄧㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "4",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "魷"
+    ],
+    "general_ytz": [
+        "魷",
+        "鰇"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9C7F",
+            "352512111354"
+        ],
+        "char_code_wubi": "qgdn|qgdy",
+        "char_code_cangjie": "nmiku",
+        "char_code_zhengma": "rgr",
+        "char_code_sijiao": "23112"
+    },
+    "general_unicode": "基本区 U+9C7F",
+    "general_bs_code": "352512111354"
+}

@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "extravagant"
+        },
+        {
+            "language": "德语",
+            "explanation": "überspannt, verschwenderisch"
+        },
+        {
+            "language": "法语",
+            "explanation": "ouvrir,se propager"
+        }
+    ],
+    "general_pinyins": [
+        "shē",
+        "chǐ",
+        "zhà"
+    ],
+    "general_zhuyins": [
+        "ㄕㄜ",
+        "ㄔˇ",
+        "ㄓㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "大",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "侈",
+        "偧",
+        "卶",
+        "奢"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5953",
+            "134354354"
+        ],
+        "char_code_wubi": "dqqu",
+        "char_code_cangjie": "knin",
+        "char_code_zhengma": "gdrr",
+        "char_code_sijiao": "40207"
+    },
+    "general_unicode": "基本区 U+5953",
+    "general_bs_code": "134354354"
+}

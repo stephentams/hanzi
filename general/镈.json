@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "large bell; hoe, spade"
+        },
+        {
+            "language": "法语",
+            "explanation": "grosse cloche,binette,pelle,ancien instrument de musique en forme de cloche,binette,bêche"
+        }
+    ],
+    "general_pinyins": [
+        "bó"
+    ],
+    "general_zhuyins": [
+        "ㄅㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "10",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "鎛"
+    ],
+    "general_ytz": [
+        "鎛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9548",
+            "311151251124124"
+        ],
+        "char_code_wubi": "qgef|qsfy",
+        "char_code_cangjie": "opibi",
+        "char_code_zhengma": "pfds",
+        "char_code_sijiao": "83742"
+    },
+    "general_unicode": "基本区 U+9548",
+    "general_bs_code": "311151251124124"
+}

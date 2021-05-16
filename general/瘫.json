@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "paralysis, palsy, numbness"
+        },
+        {
+            "language": "德语",
+            "explanation": "lahm"
+        },
+        {
+            "language": "法语",
+            "explanation": "paralysie"
+        }
+    ],
+    "general_pinyins": [
+        "tān"
+    ],
+    "general_zhuyins": [
+        "ㄊㄢ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "10",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "癱"
+    ],
+    "general_ytz": [
+        "癱"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "762B",
+            "413415432411121"
+        ],
+        "char_code_wubi": "ucwy",
+        "char_code_cangjie": "keog",
+        "char_code_zhengma": "txni",
+        "char_code_sijiao": "00115"
+    },
+    "general_unicode": "基本区 U+762B",
+    "general_bs_code": "413415432411121"
+}

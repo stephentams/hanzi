@@ -1,0 +1,55 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "grant, bestow; give; act; name"
+        },
+        {
+            "language": "德语",
+            "explanation": "ausführen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "mettre en pratique,pratiquer,exercer,accorder,octroyer,exercer,employer,imposer,user de,répandre"
+        }
+    ],
+    "general_pinyins": [
+        "shī"
+    ],
+    "general_zhuyins": [
+        "ㄕ"
+    ],
+    "general_radical": {
+        "radical": "方",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䙾",
+        "𠆹",
+        "𠇜",
+        "𠤒",
+        "𢒃",
+        "𢻩",
+        "𢻫",
+        "𢼉",
+        "𢼊",
+        "𢼘",
+        "𦭇",
+        "𢻱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "65BD",
+            "415331525"
+        ],
+        "char_code_wubi": "ytbn",
+        "char_code_cangjie": "ysopd",
+        "char_code_zhengma": "symy",
+        "char_code_sijiao": "08212"
+    },
+    "general_unicode": "基本区 U+65BD",
+    "general_bs_code": "415331525"
+}

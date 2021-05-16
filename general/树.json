@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tree; plant; set up, establish"
+        },
+        {
+            "language": "德语",
+            "explanation": "Baum"
+        },
+        {
+            "language": "法语",
+            "explanation": "arbre,ériger,cultiver"
+        }
+    ],
+    "general_pinyins": [
+        "shù"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "樹"
+    ],
+    "general_ytz": [
+        "樹",
+        "𠊪",
+        "𡬾",
+        "𢒳",
+        "𣗳",
+        "𨅒"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6811",
+            "123454124"
+        ],
+        "char_code_wubi": "scfy",
+        "char_code_cangjie": "dedi",
+        "char_code_zhengma": "fxds",
+        "char_code_sijiao": "44900"
+    },
+    "general_unicode": "基本区 U+6811",
+    "general_bs_code": "123454124"
+}

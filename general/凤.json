@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "male phoenix; symbol of joy"
+        },
+        {
+            "language": "德语",
+            "explanation": "Phönix (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "phénix,phoenix"
+        }
+    ],
+    "general_pinyins": [
+        "fèng"
+    ],
+    "general_zhuyins": [
+        "ㄈㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "几",
+        "non_radical_sn": "2",
+        "total_sn": "4"
+    },
+    "general_stc": [
+        "鳳"
+    ],
+    "general_ytz": [
+        "鳳",
+        "鳯",
+        "鴌",
+        "䲶",
+        "𠤈",
+        "𢐴",
+        "𧱶",
+        "𪆍"
+    ],
+    "general_structure": "半包围结构；先外后内；中间是“又”",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "51E4",
+            "3554"
+        ],
+        "char_code_wubi": "mci|wci",
+        "char_code_cangjie": "hne",
+        "char_code_zhengma": "qdxs",
+        "char_code_sijiao": "77210"
+    },
+    "general_unicode": "基本区 U+51E4",
+    "general_bs_code": "3554"
+}

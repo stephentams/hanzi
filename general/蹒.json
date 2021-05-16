@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to jump over; to limp"
+        },
+        {
+            "language": "法语",
+            "explanation": "mou"
+        }
+    ],
+    "general_pinyins": [
+        "pán"
+    ],
+    "general_zhuyins": [
+        "ㄆㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "10",
+        "total_sn": "17"
+    },
+    "general_stc": [
+        "蹣"
+    ],
+    "general_ytz": [
+        "蹣",
+        "𨃟"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E52",
+            "25121211221253434"
+        ],
+        "char_code_wubi": "khaw",
+        "char_code_cangjie": "rmtmb",
+        "char_code_zhengma": "jioo",
+        "char_code_sijiao": "64127"
+    },
+    "general_unicode": "基本区 U+8E52",
+    "general_bs_code": "25121211221253434"
+}

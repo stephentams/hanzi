@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "book, letter, document; writings"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 Buch, Geschriebenes (S)"
+        }
+    ],
+    "general_pinyins": [
+        "shū"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨ"
+    ],
+    "general_radical": {
+        "radical": "乙",
+        "non_radical_sn": "3",
+        "total_sn": "4"
+    },
+    "general_stc": [
+        "書"
+    ],
+    "general_ytz": [
+        "書",
+        "𦘠"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4E66",
+            "5524"
+        ],
+        "char_code_wubi": "nnhy",
+        "char_code_cangjie": "ids",
+        "char_code_zhengma": "xyis",
+        "char_code_sijiao": "53027"
+    },
+    "general_unicode": "基本区 U+4E66",
+    "general_bs_code": "5524"
+}

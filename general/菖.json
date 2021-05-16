@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "iris, sweet flag, calamus"
+        },
+        {
+            "language": "德语",
+            "explanation": "&gt ,Kalmus (Pflanze)​  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "calamus"
+        }
+    ],
+    "general_pinyins": [
+        "chāng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄤ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "83D6",
+            "12225112511"
+        ],
+        "char_code_wubi": "ajjf",
+        "char_code_cangjie": "taa",
+        "char_code_zhengma": "ekk",
+        "char_code_sijiao": "44606"
+    },
+    "general_unicode": "基本区 U+83D6",
+    "general_bs_code": "12225112511"
+}

@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "an ape, monkey; to spy, watch for; to lie"
+        },
+        {
+            "language": "德语",
+            "explanation": "entdecken, herumspionieren"
+        },
+        {
+            "language": "法语",
+            "explanation": "guetter,épier"
+        }
+    ],
+    "general_pinyins": [
+        "jū"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "72D9",
+            "35325111"
+        ],
+        "char_code_wubi": "qteg",
+        "char_code_cangjie": "khbm",
+        "char_code_zhengma": "qmlc",
+        "char_code_sijiao": "47212"
+    },
+    "general_unicode": "基本区 U+72D9",
+    "general_bs_code": "35325111"
+}

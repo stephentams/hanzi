@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pursue, follow; expel, drive away"
+        },
+        {
+            "language": "德语",
+            "explanation": "Eile (S)​,eilen (V)​,sich beeilen (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "rattraper,se presser,se hâter"
+        }
+    ],
+    "general_pinyins": [
+        "gǎn"
+    ],
+    "general_zhuyins": [
+        "ㄍㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "走",
+        "non_radical_sn": "3",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "趕"
+    ],
+    "general_ytz": [
+        "趕",
+        "𠖫",
+        "𢆝",
+        "𪌃"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D76",
+            "1212134112"
+        ],
+        "char_code_wubi": "fhfk",
+        "char_code_cangjie": "gomj",
+        "char_code_zhengma": "boae",
+        "char_code_sijiao": "41804"
+    },
+    "general_unicode": "基本区 U+8D76",
+    "general_bs_code": "1212134112"
+}

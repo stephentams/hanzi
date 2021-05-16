@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pond; a pool"
+        },
+        {
+            "language": "德语",
+            "explanation": "Teich  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "étang,eau stagnante,réservoir"
+        }
+    ],
+    "general_pinyins": [
+        "zhū"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "瀦"
+    ],
+    "general_ytz": [
+        "瀦",
+        "𤃣"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6F74",
+            "44135312132511"
+        ],
+        "char_code_wubi": "iqtj",
+        "char_code_cangjie": "ekha",
+        "char_code_zhengma": "vqbm",
+        "char_code_sijiao": "34160"
+    },
+    "general_unicode": "基本区 U+6F74",
+    "general_bs_code": "44135312132511"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "minced meat; trifles"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 Bagatellen, Kleinigkeiten  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "cuǒ"
+    ],
+    "general_zhuyins": [
+        "ㄘㄨㄛˇ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢏬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "811E",
+            "35113434121"
+        ],
+        "char_code_wubi": "ewwf",
+        "char_code_cangjie": "boog",
+        "char_code_zhengma": "qoob",
+        "char_code_sijiao": "78214"
+    },
+    "general_unicode": "基本区 U+811E",
+    "general_bs_code": "35113434121"
+}

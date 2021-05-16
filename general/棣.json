@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "kerria japonica plant, cherry"
+        },
+        {
+            "language": "法语",
+            "explanation": "Corête du Japon,Kerria japonica"
+        }
+    ],
+    "general_pinyins": [
+        "dì",
+        "dài",
+        "tì"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧˋ",
+        "ㄉㄞˋ",
+        "ㄊㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "68E3",
+            "123451124134"
+        ],
+        "char_code_wubi": "sviy",
+        "char_code_cangjie": "dle",
+        "char_code_zhengma": "fxkv",
+        "char_code_sijiao": "45999"
+    },
+    "general_unicode": "基本区 U+68E3",
+    "general_bs_code": "123451124134"
+}

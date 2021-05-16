@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "Buddhist priest, monk; san of Sanskrit sangha"
+        },
+        {
+            "language": "德语",
+            "explanation": "buddhistischer Priester (S, Buddh)​,Mönch (S)​,Buddhismus (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bonze,moine bouddhiste"
+        }
+    ],
+    "general_pinyins": [
+        "sēng"
+    ],
+    "general_zhuyins": [
+        "ㄙㄥ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "12",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "僧"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "50E7",
+            "32432524312511"
+        ],
+        "char_code_wubi": "wulj",
+        "char_code_cangjie": "ocwa",
+        "char_code_zhengma": "nulk",
+        "char_code_sijiao": "28266"
+    },
+    "general_unicode": "基本区 U+50E7",
+    "general_bs_code": "32432524312511"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "exclude, expel, reject; usher"
+        },
+        {
+            "language": "法语",
+            "explanation": "recevoir,rejeter"
+        }
+    ],
+    "general_pinyins": [
+        "bìn"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "14",
+        "total_sn": "17"
+    },
+    "general_stc": [
+        "摈"
+    ],
+    "general_ytz": [
+        "儐",
+        "摈",
+        "𢷤"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "64EF",
+            "12144512332511134"
+        ],
+        "char_code_wubi": "rpgm",
+        "char_code_cangjie": "qjmc",
+        "char_code_zhengma": "dwkl",
+        "char_code_sijiao": "53086"
+    },
+    "general_unicode": "基本区 U+64EF",
+    "general_bs_code": "12144512332511134"
+}

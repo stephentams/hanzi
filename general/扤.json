@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to thrust; to move"
+        },
+        {
+            "language": "德语",
+            "explanation": "erregen, verschieben ,schwanken, Schaukeln  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "secouer,osciller"
+        }
+    ],
+    "general_pinyins": [
+        "wù"
+    ],
+    "general_zhuyins": [
+        "ㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢪁"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6264",
+            "121135"
+        ],
+        "char_code_wubi": "rgqn",
+        "char_code_cangjie": "qmu",
+        "char_code_zhengma": "dgr",
+        "char_code_sijiao": "51012"
+    },
+    "general_unicode": "基本区 U+6264",
+    "general_bs_code": "121135"
+}

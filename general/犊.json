@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "calf; victim of sacrifice"
+        },
+        {
+            "language": "法语",
+            "explanation": "veau"
+        }
+    ],
+    "general_pinyins": [
+        "dú"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "牜",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "犢"
+    ],
+    "general_ytz": [
+        "犢",
+        "𤙸",
+        "𤛯"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "728A",
+            "312112544134"
+        ],
+        "char_code_wubi": "trfd|cfnd",
+        "char_code_cangjie": "hqjnk",
+        "char_code_zhengma": "mbtg",
+        "char_code_sijiao": "24584"
+    },
+    "general_unicode": "基本区 U+728A",
+    "general_bs_code": "312112544134"
+}

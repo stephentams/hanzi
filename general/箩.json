@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bamboo basket"
+        },
+        {
+            "language": "德语",
+            "explanation": "Idiot  (S, vulg)​,Korb, feinmaschiger Korb aus Bambus  (S, Agrar)​,Sieb aus einmaschiger Bambus  (S, Agrar)"
+        },
+        {
+            "language": "法语",
+            "explanation": "panier,manne,(argot)​ fessier"
+        }
+    ],
+    "general_pinyins": [
+        "luó"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "8",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "籮"
+    ],
+    "general_ytz": [
+        "籮"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7BA9",
+            "31431425221354"
+        ],
+        "char_code_wubi": "tlqu",
+        "char_code_cangjie": "hwln",
+        "char_code_zhengma": "mlrs",
+        "char_code_sijiao": "88207"
+    },
+    "general_unicode": "基本区 U+7BA9",
+    "general_bs_code": "31431425221354"
+}

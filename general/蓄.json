@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "store, save, hoard, gather"
+        },
+        {
+            "language": "德语",
+            "explanation": "anbauen; etw. wachsen lassen  (V)​,speichern, aufbewahren  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "accumuler,recueillir,nourrir,laisser pousser"
+        }
+    ],
+    "general_pinyins": [
+        "xù"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧁖",
+        "𧁃",
+        "𦿤",
+        "稸",
+        "畜"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "84C4",
+            "1224155425121"
+        ],
+        "char_code_wubi": "ayxl",
+        "char_code_cangjie": "tyvw",
+        "char_code_zhengma": "eszk",
+        "char_code_sijiao": "44603"
+    },
+    "general_unicode": "基本区 U+84C4",
+    "general_bs_code": "1224155425121"
+}

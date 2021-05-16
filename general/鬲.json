@@ -1,0 +1,58 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "type of caldron with three hollow legs; name of a state; KangXi radical number 193"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ge  (Eig, Fam)​,Radikal Nr. 193 = Kochtopf, Metalltopf"
+        },
+        {
+            "language": "法语",
+            "explanation": "type de chaudron en céramique à trois pieds creux"
+        }
+    ],
+    "general_pinyins": [
+        "gé",
+        "lì"
+    ],
+    "general_zhuyins": [
+        "ㄍㄜˊ",
+        "ㄌㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "鬲",
+        "non_radical_sn": "0",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㽁",
+        "䥶",
+        "䰛",
+        "䰜",
+        "鎘",
+        "鑠",
+        "鬴",
+        "𨬑",
+        "𨯱",
+        "𩰲",
+        "𩱇",
+        "𩱔",
+        "𡑾"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9B32",
+            "1251254312"
+        ],
+        "char_code_wubi": "gkmh",
+        "char_code_cangjie": "mrbl",
+        "char_code_zhengma": "ajld",
+        "char_code_sijiao": "10227"
+    },
+    "general_unicode": "基本区 U+9B32",
+    "general_bs_code": "1251254312"
+}

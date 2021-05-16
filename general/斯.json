@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "this, thus, such; to lop off; emphatic particle"
+        },
+        {
+            "language": "德语",
+            "explanation": "dem, diese"
+        },
+        {
+            "language": "法语",
+            "explanation": "ce,cet,ces"
+        }
+    ],
+    "general_pinyins": [
+        "sī"
+    ],
+    "general_zhuyins": [
+        "ㄙ"
+    ],
+    "general_radical": {
+        "radical": "斤",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "撕",
+        "𣂕",
+        "纚",
+        "𣂖"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "65AF",
+            "122111343312"
+        ],
+        "char_code_wubi": "adwr|dwrh",
+        "char_code_cangjie": "tchml",
+        "char_code_zhengma": "ecpd",
+        "char_code_sijiao": "42821"
+    },
+    "general_unicode": "基本区 U+65AF",
+    "general_bs_code": "122111343312"
+}

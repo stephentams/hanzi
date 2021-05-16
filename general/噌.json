@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "scold, shout at"
+        },
+        {
+            "language": "德语",
+            "explanation": "ausschimpfen, schelten"
+        },
+        {
+            "language": "法语",
+            "explanation": "(bruit de frottement, grondement)​,gronder,vlan!"
+        }
+    ],
+    "general_pinyins": [
+        "cēng"
+    ],
+    "general_zhuyins": [
+        "ㄘㄥ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧯒"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "564C",
+            "251432524312511"
+        ],
+        "char_code_wubi": "kulj",
+        "char_code_cangjie": "rcwa",
+        "char_code_zhengma": "julk",
+        "char_code_sijiao": "68066"
+    },
+    "general_unicode": "基本区 U+564C",
+    "general_bs_code": "251432524312511"
+}

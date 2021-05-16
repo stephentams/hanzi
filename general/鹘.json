@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "a kind of pigeon; treron permagna"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 Zugvogel ,Falke  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "gǔ",
+        "hú"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨˇ",
+        "ㄏㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "鸟",
+        "non_radical_sn": "9",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "鶻"
+    ],
+    "general_ytz": [
+        "鶻",
+        "𩾤",
+        "𩾥",
+        "𩾲",
+        "𩾻",
+        "𩿆",
+        "𪆸"
+    ],
+    "general_structure": "在右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E58",
+            "25545251135451"
+        ],
+        "char_code_wubi": "meqg",
+        "char_code_cangjie": "bbpym",
+        "char_code_zhengma": "lwrz",
+        "char_code_sijiao": "77227"
+    },
+    "general_unicode": "基本区 U+9E58",
+    "general_bs_code": "25545251135451"
+}

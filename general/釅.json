@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "thick, strong (beverage)"
+        },
+        {
+            "language": "德语",
+            "explanation": "kampfstark"
+        },
+        {
+            "language": "法语",
+            "explanation": "fort (pour un thé)​"
+        }
+    ],
+    "general_pinyins": [
+        "yàn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "酉",
+        "non_radical_sn": "19",
+        "total_sn": "26"
+    },
+    "general_stc": [
+        "酽"
+    ],
+    "general_ytz": [
+        "酽",
+        "醶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "91C5",
+            "12535112512511351221113134"
+        ],
+        "char_code_wubi": "sgkt",
+        "char_code_cangjie": "mwrrk",
+        "char_code_zhengma": "fdcm",
+        "char_code_sijiao": "16648"
+    },
+    "general_unicode": "基本区 U+91C5",
+    "general_bs_code": "12535112512511351221113134"
+}

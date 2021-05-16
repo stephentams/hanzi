@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "uproot, pull out"
+        },
+        {
+            "language": "德语",
+            "explanation": "ausreißen, auszupfen, ausrupfen, herausziehen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tirer,arracher"
+        }
+    ],
+    "general_pinyins": [
+        "bá"
+    ],
+    "general_zhuyins": [
+        "ㄅㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㧞",
+        "叐",
+        "抜",
+        "柿",
+        "𢪺",
+        "𢬌",
+        "𣐪",
+        "扷",
+        "犮"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "62D4",
+            "12113544"
+        ],
+        "char_code_wubi": "rdcy",
+        "char_code_cangjie": "qike",
+        "char_code_zhengma": "dgxs",
+        "char_code_sijiao": "53047"
+    },
+    "general_unicode": "基本区 U+62D4",
+    "general_bs_code": "12113544"
+}

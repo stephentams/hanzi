@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "boiler for steaming rice, pot"
+        },
+        {
+            "language": "德语",
+            "explanation": "großer Kessel, Kessel  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "marmite en terre pour cuire le riz"
+        }
+    ],
+    "general_pinyins": [
+        "zèng"
+    ],
+    "general_zhuyins": [
+        "ㄗㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "瓦",
+        "non_radical_sn": "12",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䰝",
+        "𣍎",
+        "𩱭",
+        "鬵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7511",
+            "4325243125111554"
+        ],
+        "char_code_wubi": "uljn|uljy",
+        "char_code_cangjie": "camvn",
+        "char_code_zhengma": "udys",
+        "char_code_sijiao": "81617"
+    },
+    "general_unicode": "基本区 U+7511",
+    "general_bs_code": "4325243125111554"
+}

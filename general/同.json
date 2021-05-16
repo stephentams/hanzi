@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "same, similar; together with"
+        },
+        {
+            "language": "德语",
+            "explanation": "ähnlich  (Adj)​,gleich, wie ,zusammen mit"
+        },
+        {
+            "language": "法语",
+            "explanation": "avec,pareil,identique,similaire,ensemble,conjointement"
+        }
+    ],
+    "general_pinyins": [
+        "tóng",
+        "tòng"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄥˊ",
+        "ㄊㄨㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "衕"
+    ],
+    "general_ytz": [
+        "仝",
+        "詷",
+        "𧇌"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "540C",
+            "251251"
+        ],
+        "char_code_wubi": "mgkd",
+        "char_code_cangjie": "bmr",
+        "char_code_zhengma": "ld",
+        "char_code_sijiao": "77220"
+    },
+    "general_unicode": "基本区 U+540C",
+    "general_bs_code": "251251"
+}

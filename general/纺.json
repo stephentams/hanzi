@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "spin, reel, weave; reeled pongee"
+        },
+        {
+            "language": "德语",
+            "explanation": "spinnen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "filer,tordre"
+        }
+    ],
+    "general_pinyins": [
+        "fǎng"
+    ],
+    "general_zhuyins": [
+        "ㄈㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "紡"
+    ],
+    "general_ytz": [
+        "紡"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EBA",
+            "5514153"
+        ],
+        "char_code_wubi": "xyn|xyt",
+        "char_code_cangjie": "vmyhs",
+        "char_code_zhengma": "zsy",
+        "char_code_sijiao": "20127"
+    },
+    "general_unicode": "基本区 U+7EBA",
+    "general_bs_code": "5514153"
+}

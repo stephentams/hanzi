@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "outer-coffin; vault"
+        },
+        {
+            "language": "法语",
+            "explanation": "cercueil extérieur"
+        }
+    ],
+    "general_pinyins": [
+        "guǒ"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄛˇ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "槨"
+    ],
+    "general_ytz": [
+        "槨",
+        "𣠐",
+        "𥕖"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6901",
+            "123441251521"
+        ],
+        "char_code_wubi": "sybg",
+        "char_code_cangjie": "dyrd",
+        "char_code_zhengma": "fsjy",
+        "char_code_sijiao": "40947"
+    },
+    "general_unicode": "基本区 U+6901",
+    "general_bs_code": "123441251521"
+}

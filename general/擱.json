@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "place, put, lay down; delay"
+        },
+        {
+            "language": "德语",
+            "explanation": "setzen, platzieren"
+        },
+        {
+            "language": "法语",
+            "explanation": "placer,mettre de côté,mettre à l'écart,supporter,endurer"
+        }
+    ],
+    "general_pinyins": [
+        "gē",
+        "gé"
+    ],
+    "general_zhuyins": [
+        "ㄍㄜ",
+        "ㄍㄜˊ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "14",
+        "total_sn": "17"
+    },
+    "general_stc": [
+        "搁"
+    ],
+    "general_ytz": [
+        "搁",
+        "閣"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "64F1",
+            "12125112511354251"
+        ],
+        "char_code_wubi": "rutk",
+        "char_code_cangjie": "qanr",
+        "char_code_zhengma": "dxrj",
+        "char_code_sijiao": "57020"
+    },
+    "general_unicode": "基本区 U+64F1",
+    "general_bs_code": "12125112511354251"
+}

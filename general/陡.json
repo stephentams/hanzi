@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "steep, sloping; abruptly, sudden"
+        },
+        {
+            "language": "德语",
+            "explanation": "steil, abschüssig  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "abrupt,escarpé,brusquement,subitement"
+        }
+    ],
+    "general_pinyins": [
+        "dǒu"
+    ],
+    "general_zhuyins": [
+        "ㄉㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "斗",
+        "阧",
+        "𨺗"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9661",
+            "521212134"
+        ],
+        "char_code_wubi": "bfhy",
+        "char_code_cangjie": "nlgyo",
+        "char_code_zhengma": "ybo",
+        "char_code_sijiao": "74281"
+    },
+    "general_unicode": "基本区 U+9661",
+    "general_bs_code": "521212134"
+}

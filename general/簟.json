@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bamboo mat"
+        },
+        {
+            "language": "德语",
+            "explanation": "(English: fine woven grass mat)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "tapis tissé de qualité"
+        }
+    ],
+    "general_pinyins": [
+        "diàn"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "12",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "磹",
+        "𥷦",
+        "𥸖"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7C1F",
+            "314314125221251112"
+        ],
+        "char_code_wubi": "tsjj",
+        "char_code_cangjie": "hmwj",
+        "char_code_zhengma": "mfke",
+        "char_code_sijiao": "88406"
+    },
+    "general_unicode": "基本区 U+7C1F",
+    "general_bs_code": "314314125221251112"
+}

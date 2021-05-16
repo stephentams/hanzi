@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "warehouse; tavern, inn"
+        },
+        {
+            "language": "德语",
+            "explanation": "Herberge, Depot, Lagerhalle  (S)​,Holzsteg, der an eine Felswand angebaut ist  (S)​,Schutzeinzäunung, Palisade, Lattenzaum, Zaun  (S)​,Zhan  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "entrepôt,magasin,boutique"
+        }
+    ],
+    "general_pinyins": [
+        "zhàn"
+    ],
+    "general_zhuyins": [
+        "ㄓㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "棧"
+    ],
+    "general_ytz": [
+        "棧",
+        "桟"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6808",
+            "123411534"
+        ],
+        "char_code_wubi": "sgt|sgay",
+        "char_code_cangjie": "dij",
+        "char_code_zhengma": "fhm",
+        "char_code_sijiao": "43950"
+    },
+    "general_unicode": "基本区 U+6808",
+    "general_bs_code": "123411534"
+}

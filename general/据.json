@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to occupy, take possession of; a base, position"
+        },
+        {
+            "language": "德语",
+            "explanation": "etwas in Besitz nehmen, etwas besitzen"
+        },
+        {
+            "language": "法语",
+            "explanation": "preuve,d'après,selon,occuper,s'emparer de,saisir"
+        }
+    ],
+    "general_pinyins": [
+        "jù",
+        "jū"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩˋ",
+        "ㄐㄩ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "據"
+    ],
+    "general_ytz": [
+        "據",
+        "拠",
+        "㨿",
+        "㩀",
+        "𢴃",
+        "𢷛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "636E",
+            "12151312251"
+        ],
+        "char_code_wubi": "rndg",
+        "char_code_cangjie": "qsjr",
+        "char_code_zhengma": "dxej",
+        "char_code_sijiao": "57064"
+    },
+    "general_unicode": "基本区 U+636E",
+    "general_bs_code": "12151312251"
+}

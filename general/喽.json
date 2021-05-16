@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "used in onomatopoetic expressions"
+        },
+        {
+            "language": "法语",
+            "explanation": "voyou,(particule finale)​"
+        }
+    ],
+    "general_pinyins": [
+        "lóu",
+        "lou"
+    ],
+    "general_zhuyins": [
+        "ㄌㄡˊ",
+        "ㄌㄡ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "嘍"
+    ],
+    "general_ytz": [
+        "嘍",
+        "𠶭"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "55BD",
+            "251431234531"
+        ],
+        "char_code_wubi": "kovg",
+        "char_code_cangjie": "rfdv",
+        "char_code_zhengma": "juzm",
+        "char_code_sijiao": "69044"
+    },
+    "general_unicode": "基本区 U+55BD",
+    "general_bs_code": "251431234531"
+}

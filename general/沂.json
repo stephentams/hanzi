@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "river in southeast Shandong"
+        },
+        {
+            "language": "法语",
+            "explanation": "mont Yi"
+        }
+    ],
+    "general_pinyins": [
+        "yí"
+    ],
+    "general_zhuyins": [
+        "ㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "釿"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6C82",
+            "4413312"
+        ],
+        "char_code_wubi": "irh",
+        "char_code_cangjie": "ehml",
+        "char_code_zhengma": "vpd",
+        "char_code_sijiao": "32121"
+    },
+    "general_unicode": "基本区 U+6C82",
+    "general_bs_code": "4413312"
+}

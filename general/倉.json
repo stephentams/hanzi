@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "granary; berth; sea"
+        },
+        {
+            "language": "德语",
+            "explanation": "Laden, Kaufhaus  (Wirtsch)"
+        },
+        {
+            "language": "法语",
+            "explanation": "dépôt,magasin,grenier,grange,soute"
+        }
+    ],
+    "general_pinyins": [
+        "cāng"
+    ],
+    "general_zhuyins": [
+        "ㄘㄤ"
+    ],
+    "general_radical": {
+        "radical": "人",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "仓"
+    ],
+    "general_ytz": [
+        "仓",
+        "仺",
+        "艙",
+        "𡶍",
+        "𫝉"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5009",
+            "3445113251"
+        ],
+        "char_code_wubi": "wyvk",
+        "char_code_cangjie": "oiar",
+        "char_code_zhengma": "odxj",
+        "char_code_sijiao": "80267"
+    },
+    "general_unicode": "基本区 U+5009",
+    "general_bs_code": "3445113251"
+}

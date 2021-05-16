@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ancient wine vessel"
+        },
+        {
+            "language": "法语",
+            "explanation": "carafe à vin à long cou"
+        }
+    ],
+    "general_pinyins": [
+        "xíng"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "鈃"
+    ],
+    "general_ytz": [
+        "鈃",
+        "㐩",
+        "㼛",
+        "𦈨",
+        "𦈵",
+        "𨨵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9498",
+            "311151132"
+        ],
+        "char_code_wubi": "qgah",
+        "char_code_cangjie": "opmt",
+        "char_code_zhengma": "pae",
+        "char_code_sijiao": "81740"
+    },
+    "general_unicode": "基本区 U+9498",
+    "general_bs_code": "311151132"
+}

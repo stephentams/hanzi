@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "giant fish; father of emperor"
+        },
+        {
+            "language": "法语",
+            "explanation": "Gun (le père mythique de Yu le Grand)​"
+        }
+    ],
+    "general_pinyins": [
+        "gǔn"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "7",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "鯀"
+    ],
+    "general_ytz": [
+        "鯀",
+        "鮌",
+        "𧣙",
+        "𧣢",
+        "𩩌"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9CA7",
+            "352512113554234"
+        ],
+        "char_code_wubi": "qgti",
+        "char_code_cangjie": "nmhvf",
+        "char_code_zhengma": "rmz",
+        "char_code_sijiao": "22193"
+    },
+    "general_unicode": "基本区 U+9CA7",
+    "general_bs_code": "352512113554234"
+}

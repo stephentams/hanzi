@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "straddle, bestride, ride; carry"
+        },
+        {
+            "language": "德语",
+            "explanation": "über etwas hinaus gehen  (V)​,rittlings sitzen; ueber etwas spannen  (V)​,schreiten; ausschreiten  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "enjamber,franchir,enfourcher,traverser"
+        }
+    ],
+    "general_pinyins": [
+        "kuà"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "6",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "胯",
+        "夸",
+        "𡕒",
+        "𧿾",
+        "𨀗",
+        "𨁣",
+        "𨂍",
+        "㐄"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8DE8",
+            "2512121134115"
+        ],
+        "char_code_wubi": "khdn",
+        "char_code_cangjie": "rmkms",
+        "char_code_zhengma": "jibz",
+        "char_code_sijiao": "64127"
+    },
+    "general_unicode": "基本区 U+8DE8",
+    "general_bs_code": "2512121134115"
+}

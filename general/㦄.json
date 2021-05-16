@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hard to say or predict, difficult to speak out (for fear of embarrassing or paining others, etc.) not easy to express with words"
+        }
+    ],
+    "general_pinyins": [
+        "má",
+        "mì"
+    ],
+    "general_zhuyins": [
+        "ㄇㄚˊ",
+        "ㄇㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "11",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3984",
+            "413123412344544"
+        ],
+        "char_code_wubi": "yssn|ossn",
+        "char_code_cangjie": "idp",
+        "char_code_zhengma": "tgfw",
+        "char_code_sijiao": "00239"
+    },
+    "general_unicode": "扩展A U+3984",
+    "general_bs_code": "413123412344544"
+}

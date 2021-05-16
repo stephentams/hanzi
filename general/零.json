@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "zero; fragment, fraction"
+        },
+        {
+            "language": "德语",
+            "explanation": "Null, Bruchteil, Rest, Nieselregen"
+        },
+        {
+            "language": "法语",
+            "explanation": "zéro,0,nul,quantité fractionnaire,se flétrir,se faner,nombre en sus d'un chiffre rond,néant,zéro degré,rien"
+        }
+    ],
+    "general_pinyins": [
+        "líng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "雨",
+        "non_radical_sn": "5",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "霗",
+        "霝",
+        "𠏡",
+        "𡈍",
+        "𤅫",
+        "𩂙",
+        "𩃞",
+        "𩆖",
+        "𩆼",
+        "〇",
+        "零"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "96F6",
+            "1452444434454"
+        ],
+        "char_code_wubi": "fwyc",
+        "char_code_cangjie": "mboii",
+        "char_code_zhengma": "fvow",
+        "char_code_sijiao": "10302"
+    },
+    "general_unicode": "基本区 U+96F6",
+    "general_bs_code": "1452444434454"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pain, ache; sorry, sad; bitter"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schmerz, Leiden, Weh  (S)​,schmerzen, wehtun  (V)​,äußest, sehr, höchst  (Adj)​,Tong  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "fort,excessivement,avoir mal,douleur"
+        }
+    ],
+    "general_pinyins": [
+        "tòng"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤹯"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "75DB",
+            "413415425112"
+        ],
+        "char_code_wubi": "ucek",
+        "char_code_cangjie": "knib",
+        "char_code_zhengma": "txld",
+        "char_code_sijiao": "00127"
+    },
+    "general_unicode": "基本区 U+75DB",
+    "general_bs_code": "413415425112"
+}

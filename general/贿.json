@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bribe; bribes; riches, wealth"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bestechung  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "pot-de-vin"
+        }
+    ],
+    "general_pinyins": [
+        "huì"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "賄"
+    ],
+    "general_ytz": [
+        "賄",
+        "𧶅"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D3F",
+            "2534132511"
+        ],
+        "char_code_wubi": "mdeg",
+        "char_code_cangjie": "bokb",
+        "char_code_zhengma": "logq",
+        "char_code_sijiao": "74827"
+    },
+    "general_unicode": "基本区 U+8D3F",
+    "general_bs_code": "2534132511"
+}

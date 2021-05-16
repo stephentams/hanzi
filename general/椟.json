@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cabinet, wardrobe; closet"
+        },
+        {
+            "language": "法语",
+            "explanation": "boîte,armoire"
+        }
+    ],
+    "general_pinyins": [
+        "dú"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "櫝"
+    ],
+    "general_ytz": [
+        "櫝",
+        "匵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "691F",
+            "123412544134"
+        ],
+        "char_code_wubi": "sfnd",
+        "char_code_cangjie": "djnk",
+        "char_code_zhengma": "fetg",
+        "char_code_sijiao": "44984"
+    },
+    "general_unicode": "基本区 U+691F",
+    "general_bs_code": "123412544134"
+}

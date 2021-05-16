@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "be united; cooperate"
+        },
+        {
+            "language": "德语",
+            "explanation": "fördern, assistieren, helfen  (V)​,kooperieren, zusammen arbeiten  (V)​,gemeinsam, zusammen, mit vereinten Kräften  (Adj)​,helfen ,verbinden, anfügen"
+        },
+        {
+            "language": "法语",
+            "explanation": "assister,aider"
+        }
+    ],
+    "general_pinyins": [
+        "xié"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "十",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "協"
+    ],
+    "general_ytz": [
+        "協",
+        "勰",
+        "旪",
+        "𠦢"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "534F",
+            "125344"
+        ],
+        "char_code_wubi": "flwy|fewy",
+        "char_code_cangjie": "jksc",
+        "char_code_zhengma": "edyo",
+        "char_code_sijiao": "44030"
+    },
+    "general_unicode": "基本区 U+534F",
+    "general_bs_code": "125344"
+}

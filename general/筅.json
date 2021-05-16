@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bamboo brush; halberd"
+        },
+        {
+            "language": "法语",
+            "explanation": "brosse de bambou pour les ustensiles"
+        }
+    ],
+    "general_pinyins": [
+        "xiǎn"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "6",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "箲",
+        "𥬗"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7B45",
+            "314314312135"
+        ],
+        "char_code_wubi": "ttfq",
+        "char_code_cangjie": "hhgu",
+        "char_code_zhengma": "mmrd",
+        "char_code_sijiao": "88212"
+    },
+    "general_unicode": "基本区 U+7B45",
+    "general_bs_code": "314314312135"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "swimming bladder of fish"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schwimmblase (bei Fischen)​ (S, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "vessie natatoire"
+        }
+    ],
+    "general_pinyins": [
+        "biào"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "11",
+        "total_sn": "19"
+    },
+    "general_stc": [
+        "鰾"
+    ],
+    "general_ytz": [
+        "鰾",
+        "𩼾",
+        "𩽯"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9CD4",
+            "3525121112522111234"
+        ],
+        "char_code_wubi": "qgsi",
+        "char_code_cangjie": "nmmwf",
+        "char_code_zhengma": "rfbk",
+        "char_code_sijiao": "21191"
+    },
+    "general_unicode": "基本区 U+9CD4",
+    "general_bs_code": "3525121112522111234"
+}

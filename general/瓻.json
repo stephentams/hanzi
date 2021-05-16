@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "jar"
+        },
+        {
+            "language": "法语",
+            "explanation": "grosse jarre à vin"
+        }
+    ],
+    "general_pinyins": [
+        "chī"
+    ],
+    "general_zhuyins": [
+        "ㄔ"
+    ],
+    "general_radical": {
+        "radical": "瓦",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤭏"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "74FB",
+            "34132521554"
+        ],
+        "char_code_wubi": "qdmn|rdmy",
+        "char_code_cangjie": "kbmvn",
+        "char_code_zhengma": "osys",
+        "char_code_sijiao": "41217"
+    },
+    "general_unicode": "基本区 U+74FB",
+    "general_bs_code": "34132521554"
+}

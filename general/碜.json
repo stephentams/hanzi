@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "gritty"
+        },
+        {
+            "language": "德语",
+            "explanation": "mutig"
+        },
+        {
+            "language": "法语",
+            "explanation": "laid,disgracieux,désagréable,graveleux,qui contient du sable"
+        }
+    ],
+    "general_pinyins": [
+        "chěn"
+    ],
+    "general_zhuyins": [
+        "ㄔㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "磣"
+    ],
+    "general_ytz": [
+        "磣",
+        "硶",
+        "𥓗",
+        "𥕁",
+        "𥕃",
+        "𥕺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "789C",
+            "1325154134333"
+        ],
+        "char_code_wubi": "dcde",
+        "char_code_cangjie": "mrikh",
+        "char_code_zhengma": "gzgp",
+        "char_code_sijiao": "13622"
+    },
+    "general_unicode": "基本区 U+789C",
+    "general_bs_code": "1325154134333"
+}

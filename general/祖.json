@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ancestor, forefather; grandfather"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ahne, Vorfahr"
+        },
+        {
+            "language": "法语",
+            "explanation": "ancêtres,aïeux"
+        }
+    ],
+    "general_pinyins": [
+        "zǔ"
+    ],
+    "general_zhuyins": [
+        "ㄗㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "礻",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤔈",
+        "𥘲",
+        "𥘵",
+        "𥛜",
+        "祖"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7956",
+            "452425111"
+        ],
+        "char_code_wubi": "pyeg",
+        "char_code_cangjie": "ifbm",
+        "char_code_zhengma": "wslc",
+        "char_code_sijiao": "37212"
+    },
+    "general_unicode": "基本区 U+7956",
+    "general_bs_code": "452425111"
+}

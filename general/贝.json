@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sea shell; money, currency"
+        },
+        {
+            "language": "德语",
+            "explanation": "Muschel  (S, Bio)​,Radikal Nr. 154 = Muschel, Kaurimuschel, Kaurigeld, Muschelgeld, Geld  (S, Sprachw)​,Bei  (Eig, Fam)​,Kaurischnecke, Kaurimuschel  (S, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "coquillage,coquille,cauris"
+        }
+    ],
+    "general_pinyins": [
+        "bèi"
+    ],
+    "general_zhuyins": [
+        "ㄅㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "0",
+        "total_sn": "4"
+    },
+    "general_stc": [
+        "貝"
+    ],
+    "general_ytz": [
+        "貝",
+        "蛽"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D1D",
+            "2534"
+        ],
+        "char_code_wubi": "mhny",
+        "char_code_cangjie": "bo",
+        "char_code_zhengma": "loa",
+        "char_code_sijiao": "77802"
+    },
+    "general_unicode": "基本区 U+8D1D",
+    "general_bs_code": "2534"
+}

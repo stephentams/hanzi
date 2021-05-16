@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bind, draw firmly, strap"
+        }
+    ],
+    "general_pinyins": [
+        "bēng",
+        "běng",
+        "bèng"
+    ],
+    "general_zhuyins": [
+        "ㄅㄥ",
+        "ㄅㄥˇ",
+        "ㄅㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "綳",
+        "繃"
+    ],
+    "general_ytz": [
+        "綳",
+        "繃",
+        "䙀",
+        "䙖",
+        "𦇜",
+        "𧚸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EF7",
+            "55135113511"
+        ],
+        "char_code_wubi": "xeeg",
+        "char_code_cangjie": "vmbb",
+        "char_code_zhengma": "zqq",
+        "char_code_sijiao": "27120"
+    },
+    "general_unicode": "基本区 U+7EF7",
+    "general_bs_code": "55135113511"
+}

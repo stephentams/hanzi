@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to mash rice"
+        },
+        {
+            "language": "法语",
+            "explanation": "riz moulu,riz battu"
+        }
+    ],
+    "general_pinyins": [
+        "xī"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧ"
+    ],
+    "general_radical": {
+        "radical": "米",
+        "non_radical_sn": "6",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥻏"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7C9E",
+            "431234125351"
+        ],
+        "char_code_wubi": "osg",
+        "char_code_cangjie": "fdmcw",
+        "char_code_zhengma": "uffj",
+        "char_code_sijiao": "91964"
+    },
+    "general_unicode": "基本区 U+7C9E",
+    "general_bs_code": "431234125351"
+}

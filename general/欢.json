@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "happy, pleased, glad; joy; enjoy"
+        }
+    ],
+    "general_pinyins": [
+        "huān"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄢ"
+    ],
+    "general_radical": {
+        "radical": "欠",
+        "non_radical_sn": "2",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "歡"
+    ],
+    "general_ytz": [
+        "歡",
+        "歓",
+        "懽",
+        "讙",
+        "驩",
+        "𩿊"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6B22",
+            "543534"
+        ],
+        "char_code_wubi": "cqwy",
+        "char_code_cangjie": "eno",
+        "char_code_zhengma": "xsro",
+        "char_code_sijiao": "77482"
+    },
+    "general_unicode": "基本区 U+6B22",
+    "general_bs_code": "543534"
+}

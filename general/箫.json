@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bamboo flute"
+        },
+        {
+            "language": "德语",
+            "explanation": "chinesischer Langflöte ( aus Bambus )​  (Mus)​,Xiāo  (Eig, Mus)"
+        },
+        {
+            "language": "法语",
+            "explanation": "flûte de Pan"
+        }
+    ],
+    "general_pinyins": [
+        "xiāo"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "簫"
+    ],
+    "general_ytz": [
+        "簫",
+        "簘",
+        "𪛕",
+        "𪛖"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7BAB",
+            "31431451123234"
+        ],
+        "char_code_wubi": "tvij|tvhw",
+        "char_code_cangjie": "hlll",
+        "char_code_zhengma": "mxno",
+        "char_code_sijiao": "88227"
+    },
+    "general_unicode": "基本区 U+7BAB",
+    "general_bs_code": "31431451123234"
+}

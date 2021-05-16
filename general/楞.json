@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "used for Ceylon in Buddhist texts"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ecke  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "arête,bord"
+        }
+    ],
+    "general_pinyins": [
+        "léng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "棱",
+        "愣"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "695E",
+            "1234252214153"
+        ],
+        "char_code_wubi": "slyn|slyt",
+        "char_code_cangjie": "dwls",
+        "char_code_zhengma": "flsy",
+        "char_code_sijiao": "46927"
+    },
+    "general_unicode": "基本区 U+695E",
+    "general_bs_code": "1234252214153"
+}

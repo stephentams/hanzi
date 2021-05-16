@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "in disorder, scattered, tangled"
+        },
+        {
+            "language": "法语",
+            "explanation": "multiple,nombreux"
+        }
+    ],
+    "general_pinyins": [
+        "fēn"
+    ],
+    "general_zhuyins": [
+        "ㄈㄣ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "紛"
+    ],
+    "general_ytz": [
+        "紛",
+        "𩰏"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EB7",
+            "5513453"
+        ],
+        "char_code_wubi": "xwvn|xwvt",
+        "char_code_cangjie": "vmcsh",
+        "char_code_zhengma": "zoyd",
+        "char_code_sijiao": "28127"
+    },
+    "general_unicode": "基本区 U+7EB7",
+    "general_bs_code": "5513453"
+}

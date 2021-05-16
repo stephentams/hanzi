@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "luxuriant foliage; crowded"
+        },
+        {
+            "language": "德语",
+            "explanation": "üppig"
+        },
+        {
+            "language": "法语",
+            "explanation": "Celosia argentea,célosie argentée,luxuriant"
+        }
+    ],
+    "general_pinyins": [
+        "qī"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "840B",
+            "12215112531"
+        ],
+        "char_code_wubi": "agvv",
+        "char_code_cangjie": "tjlv",
+        "char_code_zhengma": "eaxz",
+        "char_code_sijiao": "44404"
+    },
+    "general_unicode": "基本区 U+840B",
+    "general_bs_code": "12215112531"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dry in sun, expose to sun"
+        },
+        {
+            "language": "德语",
+            "explanation": "an der Sonne trocknen  (V)​,sich sonnen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "exposer au Soleil,faire sécher"
+        }
+    ],
+    "general_pinyins": [
+        "shài"
+    ],
+    "general_zhuyins": [
+        "ㄕㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "曬"
+    ],
+    "general_ytz": [
+        "曬",
+        "䵘",
+        "㬠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6652",
+            "2511125351"
+        ],
+        "char_code_wubi": "jsg",
+        "char_code_cangjie": "amcw",
+        "char_code_zhengma": "kfj",
+        "char_code_sijiao": "61064"
+    },
+    "general_unicode": "基本区 U+6652",
+    "general_bs_code": "2511125351"
+}

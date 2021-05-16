@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "Carassius auratus, crucian carp"
+        },
+        {
+            "language": "法语",
+            "explanation": "carpe bâtarde,perche de sable"
+        }
+    ],
+    "general_pinyins": [
+        "jì"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "7",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "鯽"
+    ],
+    "general_ytz": [
+        "鯽",
+        "𩺀",
+        "𩼚"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9CAB",
+            "352512115115452"
+        ],
+        "char_code_wubi": "qgvb",
+        "char_code_cangjie": "nmail",
+        "char_code_zhengma": "rxy",
+        "char_code_sijiao": "27120"
+    },
+    "general_unicode": "基本区 U+9CAB",
+    "general_bs_code": "352512115115452"
+}

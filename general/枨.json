@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "door stop, door jam; touch; (Cant.) to use the body to move someone"
+        },
+        {
+            "language": "德语",
+            "explanation": "Torpfosten  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "châssis,linteau"
+        }
+    ],
+    "general_pinyins": [
+        "chéng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "棖"
+    ],
+    "general_ytz": [
+        "棖"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "67A8",
+            "12343154"
+        ],
+        "char_code_wubi": "stay",
+        "char_code_cangjie": "dpo",
+        "char_code_zhengma": "fch",
+        "char_code_sijiao": "42934"
+    },
+    "general_unicode": "基本区 U+67A8",
+    "general_bs_code": "12343154"
+}

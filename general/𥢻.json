@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "jié"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "13",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "258BB",
+            "312341234123411234"
+        ],
+        "char_code_wubi": "tssi",
+        "char_code_cangjie": "hdddf",
+        "char_code_zhengma": "mffb"
+    },
+    "general_unicode": "扩展B U+258BB",
+    "general_bs_code": "312341234123411234"
+}

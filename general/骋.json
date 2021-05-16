@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "gallop horse; hasten, hurry"
+        },
+        {
+            "language": "德语",
+            "explanation": "eilen  (V)​,hasten  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "galoper,libérer"
+        }
+    ],
+    "general_pinyins": [
+        "chěng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "马",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "騁"
+    ],
+    "general_ytz": [
+        "騁",
+        "𩢆",
+        "𩣁",
+        "𩧢"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A8B",
+            "5512512115"
+        ],
+        "char_code_wubi": "cmgn|cgmn",
+        "char_code_cangjie": "nmlws",
+        "char_code_zhengma": "xkaz",
+        "char_code_sijiao": "75127"
+    },
+    "general_unicode": "基本区 U+9A8B",
+    "general_bs_code": "5512512115"
+}

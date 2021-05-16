@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "herring"
+        },
+        {
+            "language": "法语",
+            "explanation": "Clupea"
+        }
+    ],
+    "general_pinyins": [
+        "fēi"
+    ],
+    "general_zhuyins": [
+        "ㄈㄟ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "8",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "鯡"
+    ],
+    "general_ytz": [
+        "鯡"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9CB1",
+            "3525121121112111"
+        ],
+        "char_code_wubi": "qgdd|qghd",
+        "char_code_cangjie": "nmlmy",
+        "char_code_zhengma": "rkc",
+        "char_code_sijiao": "21111"
+    },
+    "general_unicode": "基本区 U+9CB1",
+    "general_bs_code": "3525121121112111"
+}

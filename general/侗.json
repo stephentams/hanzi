@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "big; ignorant; rude, rustic"
+        },
+        {
+            "language": "德语",
+            "explanation": "dumm, unwissend"
+        },
+        {
+            "language": "法语",
+            "explanation": "les Dong,ignorant,sot"
+        }
+    ],
+    "general_pinyins": [
+        "dòng",
+        "tóng",
+        "tǒng"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨㄥˋ",
+        "ㄊㄨㄥˊ",
+        "ㄊㄨㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㣚",
+        "狪"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4F97",
+            "32251251"
+        ],
+        "char_code_wubi": "wmgk",
+        "char_code_cangjie": "obmr",
+        "char_code_zhengma": "nld",
+        "char_code_sijiao": "27220"
+    },
+    "general_unicode": "基本区 U+4F97",
+    "general_bs_code": "32251251"
+}

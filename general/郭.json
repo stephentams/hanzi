@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "outer part (of a city); surname"
+        },
+        {
+            "language": "德语",
+            "explanation": "äußere Stadtmauer  (S)​,Guo  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "rempart extérieur"
+        }
+    ],
+    "general_pinyins": [
+        "guō"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄛ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "虢",
+        "墎",
+        "𨞥",
+        "𨟍",
+        "𨽏",
+        "𩫏",
+        "𩫩"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "90ED",
+            "4125152152"
+        ],
+        "char_code_wubi": "ybbh",
+        "char_code_cangjie": "ydnl",
+        "char_code_zhengma": "sjyy",
+        "char_code_sijiao": "07427"
+    },
+    "general_unicode": "基本区 U+90ED",
+    "general_bs_code": "4125152152"
+}

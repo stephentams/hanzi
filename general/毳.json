@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fine hair or fur on animals"
+        },
+        {
+            "language": "法语",
+            "explanation": "duvet,poil fin sur les oiseaux ou les animaux"
+        }
+    ],
+    "general_pinyins": [
+        "cuì"
+    ],
+    "general_zhuyins": [
+        "ㄘㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "毛",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "橇",
+        "𣯝",
+        "𣯠",
+        "𣰗"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6BF3",
+            "311531153115"
+        ],
+        "char_code_wubi": "tfnn|eeeb",
+        "char_code_cangjie": "huhuu",
+        "char_code_zhengma": "mhmm",
+        "char_code_sijiao": "20714"
+    },
+    "general_unicode": "基本区 U+6BF3",
+    "general_bs_code": "311531153115"
+}

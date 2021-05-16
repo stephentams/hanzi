@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "holmium"
+        },
+        {
+            "language": "德语",
+            "explanation": "Holmium (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "holmium"
+        }
+    ],
+    "general_pinyins": [
+        "huǒ"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄛˇ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "鈥"
+    ],
+    "general_ytz": [
+        "鈥"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94AC",
+            "311154334"
+        ],
+        "char_code_wubi": "qoy",
+        "char_code_cangjie": "opf",
+        "char_code_zhengma": "puo",
+        "char_code_sijiao": "89780"
+    },
+    "general_unicode": "基本区 U+94AC",
+    "general_bs_code": "311154334"
+}

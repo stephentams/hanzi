@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pound sterling"
+        },
+        {
+            "language": "法语",
+            "explanation": "livre (monnaie)​"
+        }
+    ],
+    "general_pinyins": [
+        "bàng"
+    ],
+    "general_zhuyins": [
+        "ㄅㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "10",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "鎊"
+    ],
+    "general_ytz": [
+        "鎊"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9551",
+            "311154143454153"
+        ],
+        "char_code_wubi": "qupy|qyuy",
+        "char_code_cangjie": "opybs",
+        "char_code_zhengma": "psws",
+        "char_code_sijiao": "80727"
+    },
+    "general_unicode": "基本区 U+9551",
+    "general_bs_code": "311154143454153"
+}

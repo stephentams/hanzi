@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "leopard; ancient tribe in northeastern China"
+        },
+        {
+            "language": "德语",
+            "explanation": "still, wortkarg"
+        },
+        {
+            "language": "法语",
+            "explanation": "tapir,tribu du Nord"
+        }
+    ],
+    "general_pinyins": [
+        "mò"
+    ],
+    "general_zhuyins": [
+        "ㄇㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "豸",
+        "non_radical_sn": "6",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "貉",
+        "貃",
+        "貈"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C8A",
+            "3443533132511"
+        ],
+        "char_code_wubi": "eedj|edjg",
+        "char_code_cangjie": "bhma",
+        "char_code_zhengma": "pqan",
+        "char_code_sijiao": "21262"
+    },
+    "general_unicode": "基本区 U+8C8A",
+    "general_bs_code": "3443533132511"
+}

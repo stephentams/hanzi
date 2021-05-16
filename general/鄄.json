@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "法语",
+            "explanation": "(nom d'un quartier dans le Shandong)​"
+        }
+    ],
+    "general_pinyins": [
+        "juàn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨞉",
+        "甄"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9104",
+            "12522112152"
+        ],
+        "char_code_wubi": "sfbh",
+        "char_code_cangjie": "mgnl",
+        "char_code_zhengma": "fjby",
+        "char_code_sijiao": "17127"
+    },
+    "general_unicode": "基本区 U+9104",
+    "general_bs_code": "12522112152"
+}

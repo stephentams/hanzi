@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fish; surname; KangXi radical 195"
+        },
+        {
+            "language": "德语",
+            "explanation": "Radikal Nr. 195 = Fisch (Sprachw)​,Fisch (S, Bio)​,Yu (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "poisson,195e radical"
+        }
+    ],
+    "general_pinyins": [
+        "yú"
+    ],
+    "general_zhuyins": [
+        "ㄩˊ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "0",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "魚"
+    ],
+    "general_ytz": [
+        "魚",
+        "𤉯",
+        "𤋳",
+        "𩥭"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9C7C",
+            "35251211"
+        ],
+        "char_code_wubi": "qgf",
+        "char_code_cangjie": "nwm",
+        "char_code_zhengma": "ra",
+        "char_code_sijiao": "27106"
+    },
+    "general_unicode": "基本区 U+9C7C",
+    "general_bs_code": "35251211"
+}

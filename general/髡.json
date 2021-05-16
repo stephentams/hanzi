@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to shear tree; ancient punishment"
+        },
+        {
+            "language": "法语",
+            "explanation": "tondu"
+        }
+    ],
+    "general_pinyins": [
+        "kūn"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄣ"
+    ],
+    "general_radical": {
+        "radical": "髟",
+        "non_radical_sn": "3",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䪲",
+        "髠",
+        "髨",
+        "𡧉",
+        "𨱤",
+        "𩬌",
+        "𩭋"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9AE1",
+            "1211154333135"
+        ],
+        "char_code_wubi": "degq",
+        "char_code_cangjie": "shmu",
+        "char_code_zhengma": "chgr",
+        "char_code_sijiao": "72212"
+    },
+    "general_unicode": "基本区 U+9AE1",
+    "general_bs_code": "1211154333135"
+}

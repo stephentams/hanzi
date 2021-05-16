@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ditch, sluice, gutter, drain"
+        },
+        {
+            "language": "法语",
+            "explanation": "manquer de respect envers,traiter sans égards,mépriser"
+        }
+    ],
+    "general_pinyins": [
+        "dú",
+        "dòu"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨˊ",
+        "ㄉㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "瀆"
+    ],
+    "general_ytz": [
+        "瀆",
+        "凟",
+        "豄",
+        "䢱",
+        "𤀨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6E0E",
+            "44112544134"
+        ],
+        "char_code_wubi": "ifnd",
+        "char_code_cangjie": "ejnk",
+        "char_code_zhengma": "vetg",
+        "char_code_sijiao": "34184"
+    },
+    "general_unicode": "基本区 U+6E0E",
+    "general_bs_code": "44112544134"
+}

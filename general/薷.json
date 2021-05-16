@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "德语",
+            "explanation": "Rauschbeere"
+        },
+        {
+            "language": "法语",
+            "explanation": "Elshotria paltrini"
+        }
+    ],
+    "general_pinyins": [
+        "rú"
+    ],
+    "general_zhuyins": [
+        "ㄖㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "14",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "85B7",
+            "12214524444132522"
+        ],
+        "char_code_wubi": "afdj",
+        "char_code_cangjie": "tmbb",
+        "char_code_zhengma": "efgl",
+        "char_code_sijiao": "44227"
+    },
+    "general_unicode": "基本区 U+85B7",
+    "general_bs_code": "12214524444132522"
+}

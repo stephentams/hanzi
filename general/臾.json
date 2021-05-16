@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "moment, instant, short while"
+        },
+        {
+            "language": "德语",
+            "explanation": "Weilchen  (S)​,Yu  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(un)​ instant"
+        }
+    ],
+    "general_pinyins": [
+        "yú"
+    ],
+    "general_zhuyins": [
+        "ㄩˊ"
+    ],
+    "general_radical": {
+        "radical": "臼",
+        "non_radical_sn": "2",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㬰",
+        "𠒍",
+        "蕢"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "81FE",
+            "32151134"
+        ],
+        "char_code_wubi": "vwi|ewi",
+        "char_code_cangjie": "hxo",
+        "char_code_zhengma": "nbod",
+        "char_code_sijiao": "77807"
+    },
+    "general_unicode": "基本区 U+81FE",
+    "general_bs_code": "32151134"
+}

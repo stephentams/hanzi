@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "skin, hide, fur, feather; outer"
+        },
+        {
+            "language": "德语",
+            "explanation": "Hülle, dünner Teig ,Leder, Haut"
+        },
+        {
+            "language": "法语",
+            "explanation": "peau,écorce,cuir,surface,enveloppe,espiègle,insensible"
+        }
+    ],
+    "general_pinyins": [
+        "pí"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "皮",
+        "non_radical_sn": "0",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠬱",
+        "𠰎",
+        "𡰻",
+        "𤿌",
+        "𤿤",
+        "𥬖",
+        "𣪉"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "76AE",
+            "53254"
+        ],
+        "char_code_wubi": "hci|bnty",
+        "char_code_cangjie": "dhe",
+        "char_code_zhengma": "xi",
+        "char_code_sijiao": "40247"
+    },
+    "general_unicode": "基本区 U+76AE",
+    "general_bs_code": "53254"
+}

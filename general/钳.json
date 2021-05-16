@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pincers, pliers, tongs; to compress"
+        },
+        {
+            "language": "德语",
+            "explanation": "befestigen, halten ,beschränken, einschränken ,witzeln ,zurückhalten ,Fang, Klaue  (S)​,Kneifzange  (S)​,Zange  (S)​,kneifen  (V)​,Qian  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "pinces,tenailles"
+        }
+    ],
+    "general_pinyins": [
+        "qián"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "鉗"
+    ],
+    "general_ytz": [
+        "鉗",
+        "箝",
+        "拑",
+        "䈤",
+        "𨱫"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94B3",
+            "3111512211"
+        ],
+        "char_code_wubi": "qafg|qfg",
+        "char_code_cangjie": "optm",
+        "char_code_zhengma": "peb",
+        "char_code_sijiao": "84770"
+    },
+    "general_unicode": "基本区 U+94B3",
+    "general_bs_code": "3111512211"
+}

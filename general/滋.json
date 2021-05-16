@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "grow, multiply, increase; thrive"
+        },
+        {
+            "language": "德语",
+            "explanation": "dem, diese ,erregen, hervorrufen  (V)​,wachsen, sich vermehren"
+        },
+        {
+            "language": "法语",
+            "explanation": "croître,nourrir,causer,faire naître"
+        }
+    ],
+    "general_pinyins": [
+        "zī"
+    ],
+    "general_zhuyins": [
+        "ㄗ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "孖",
+        "濨",
+        "稵",
+        "𣳯",
+        "𤂇",
+        "玆",
+        "𤀮",
+        "滋"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6ECB",
+            "441431554554"
+        ],
+        "char_code_wubi": "iuxx",
+        "char_code_cangjie": "etvi",
+        "char_code_zhengma": "vuzz",
+        "char_code_sijiao": "38132"
+    },
+    "general_unicode": "基本区 U+6ECB",
+    "general_bs_code": "441431554554"
+}

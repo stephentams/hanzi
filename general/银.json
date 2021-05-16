@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "silver; cash, money, wealth"
+        },
+        {
+            "language": "德语",
+            "explanation": "Silber (Element 47, Ag)​ (S, Chem)​,Argentum 法语 argent,monnaie"
+        }
+    ],
+    "general_pinyins": [
+        "yín"
+    ],
+    "general_zhuyins": [
+        "ㄧㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "銀"
+    ],
+    "general_ytz": [
+        "銀",
+        "𨧏"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94F6",
+            "31115511534"
+        ],
+        "char_code_wubi": "qvey|qvy",
+        "char_code_cangjie": "opav",
+        "char_code_zhengma": "pxo",
+        "char_code_sijiao": "87732"
+    },
+    "general_unicode": "基本区 U+94F6",
+    "general_bs_code": "31115511534"
+}

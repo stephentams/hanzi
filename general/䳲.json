@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a swarm of flying birds; birds soar in groups"
+        }
+    ],
+    "general_pinyins": [
+        "zhèn"
+    ],
+    "general_zhuyins": [
+        "ㄓㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "鳥",
+        "non_radical_sn": "10",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𪁧"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4CF2",
+            "121131153432511154444"
+        ],
+        "char_code_wubi": "rdfo",
+        "char_code_cangjie": "qvhaf",
+        "char_code_zhengma": "dgrz",
+        "char_code_sijiao": "51327"
+    },
+    "general_unicode": "扩展A U+4CF2",
+    "general_bs_code": "121131153432511154444"
+}

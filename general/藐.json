@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "disregard, slight, disdain"
+        },
+        {
+            "language": "德语",
+            "explanation": "klein, unbedeutend"
+        },
+        {
+            "language": "法语",
+            "explanation": "mesquin,mépriser"
+        }
+    ],
+    "general_pinyins": [
+        "miǎo"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "14",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧂀",
+        "𦯦",
+        "邈",
+        "𦾜",
+        "𦴭"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "85D0",
+            "12234435333251135"
+        ],
+        "char_code_wubi": "aeeq|aerq",
+        "char_code_cangjie": "tbhu",
+        "char_code_zhengma": "epnr",
+        "char_code_sijiao": "44212"
+    },
+    "general_unicode": "基本区 U+85D0",
+    "general_bs_code": "12234435333251135"
+}

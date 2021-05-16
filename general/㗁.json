@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 齶) the roof of the mouth, the palate"
+        }
+    ],
+    "general_pinyins": [
+        "è"
+    ],
+    "general_zhuyins": [
+        "ㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "齶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "35C1",
+            "251251251115"
+        ],
+        "char_code_wubi": "kkkn",
+        "char_code_cangjie": "rrrs",
+        "char_code_zhengma": "jjbz",
+        "char_code_sijiao": "66027"
+    },
+    "general_unicode": "扩展A U+35C1",
+    "general_bs_code": "251251251115"
+}

@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "constant, regular, persistent"
+        },
+        {
+            "language": "德语",
+            "explanation": "ständig, dauerhaft ,Heng  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "persévérance,permanent,persévérant,constant"
+        }
+    ],
+    "general_pinyins": [
+        "héng"
+    ],
+    "general_zhuyins": [
+        "ㄏㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "恆"
+    ],
+    "general_ytz": [
+        "恆",
+        "㔰",
+        "𠄨",
+        "𢗶",
+        "𢘆",
+        "𢛢"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6052",
+            "442125111"
+        ],
+        "char_code_wubi": "ngjg",
+        "char_code_cangjie": "pmam",
+        "char_code_zhengma": "ubk",
+        "char_code_sijiao": "91016"
+    },
+    "general_unicode": "基本区 U+6052",
+    "general_bs_code": "442125111"
+}

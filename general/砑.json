@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to grind, to calender, to polish; to roll with a stone roller"
+        },
+        {
+            "language": "德语",
+            "explanation": "satinieren"
+        },
+        {
+            "language": "法语",
+            "explanation": "broyer,calandrer"
+        }
+    ],
+    "general_pinyins": [
+        "yà"
+    ],
+    "general_zhuyins": [
+        "ㄧㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㧎",
+        "𠚾",
+        "蚜"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7811",
+            "132511523"
+        ],
+        "char_code_wubi": "daht",
+        "char_code_cangjie": "mrmvh",
+        "char_code_zhengma": "ghi",
+        "char_code_sijiao": "11640"
+    },
+    "general_unicode": "基本区 U+7811",
+    "general_bs_code": "132511523"
+}

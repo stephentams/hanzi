@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "river in Shansi province"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom d'une rivière)​"
+        }
+    ],
+    "general_pinyins": [
+        "sù"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "漱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6D91",
+            "4411251234"
+        ],
+        "char_code_wubi": "igki|iskg",
+        "char_code_cangjie": "edl",
+        "char_code_zhengma": "vfj",
+        "char_code_sijiao": "35196"
+    },
+    "general_unicode": "基本区 U+6D91",
+    "general_bs_code": "4411251234"
+}

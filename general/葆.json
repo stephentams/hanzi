@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "reserve, preserve; conceal"
+        },
+        {
+            "language": "法语",
+            "explanation": "conserver,garder,luxuriant,buissonneux,touffu,dense"
+        }
+    ],
+    "general_pinyins": [
+        "bǎo"
+    ],
+    "general_zhuyins": [
+        "ㄅㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "堡",
+        "𦽻",
+        "𦬽"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8446",
+            "122322511234"
+        ],
+        "char_code_wubi": "awks",
+        "char_code_cangjie": "tord",
+        "char_code_zhengma": "enjf",
+        "char_code_sijiao": "44294"
+    },
+    "general_unicode": "基本区 U+8446",
+    "general_bs_code": "122322511234"
+}

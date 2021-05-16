@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "to look askance; looking dull"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 verliebter Blick, beäugeln"
+        }
+    ],
+    "general_pinyins": [
+        "miǎn"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䀎",
+        "𦘰",
+        "𥄝"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7704",
+            "251111255"
+        ],
+        "char_code_wubi": "hghn",
+        "char_code_cangjie": "bumls",
+        "char_code_sijiao": "61027"
+    },
+    "general_unicode": "基本区 U+7704",
+    "general_bs_code": "251111255"
+}

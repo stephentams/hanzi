@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "㐖毒, an old name for India"
+        }
+    ],
+    "general_pinyins": [
+        "yè"
+    ],
+    "general_zhuyins": [
+        "ㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "乙",
+        "non_radical_sn": "6",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3416",
+            "1212515"
+        ],
+        "char_code_wubi": "fknn",
+        "char_code_cangjie": "gru",
+        "char_code_zhengma": "bjz",
+        "char_code_sijiao": "47610"
+    },
+    "general_unicode": "扩展A U+3416",
+    "general_bs_code": "1212515"
+}

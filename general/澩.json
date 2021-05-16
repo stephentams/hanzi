@@ -1,0 +1,33 @@
+{
+    "general_pinyins": [
+        "xué"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "水",
+        "non_radical_sn": "13",
+        "total_sn": "17"
+    },
+    "general_stc": [
+        "泶"
+    ],
+    "general_ytz": [
+        "㶅",
+        "泶"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6FA9",
+            "32113434511452534"
+        ],
+        "char_code_wubi": "wfqi|erri",
+        "char_code_cangjie": "hbe",
+        "char_code_zhengma": "nbok",
+        "char_code_sijiao": "77902"
+    },
+    "general_unicode": "基本区 U+6FA9",
+    "general_bs_code": "32113434511452534"
+}

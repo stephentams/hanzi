@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rebel; crafty, shrewd"
+        },
+        {
+            "language": "德语",
+            "explanation": "brav  (Adj)​,fügsam, folgsam  (Adj)​,klug, geschickt  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "sage,éveillé"
+        }
+    ],
+    "general_pinyins": [
+        "guāi"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄞ"
+    ],
+    "general_radical": {
+        "radical": "丿",
+        "non_radical_sn": "7",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠁬",
+        "𠁰",
+        "𠂯",
+        "𦭅",
+        "𦮃"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4E56",
+            "31221135"
+        ],
+        "char_code_wubi": "tfux",
+        "char_code_cangjie": "hjlp",
+        "char_code_zhengma": "metr",
+        "char_code_sijiao": "20112"
+    },
+    "general_unicode": "基本区 U+4E56",
+    "general_bs_code": "31221135"
+}

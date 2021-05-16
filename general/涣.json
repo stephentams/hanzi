@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "scatter; scattered"
+        },
+        {
+            "language": "德语",
+            "explanation": "ausbreiten, ausdehnen  (V)​,ausufern (eines Flusses)​, über die Ufer treten"
+        },
+        {
+            "language": "法语",
+            "explanation": "se disperser,se dissiper,répandre,disparaître"
+        }
+    ],
+    "general_pinyins": [
+        "huàn"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "渙"
+    ],
+    "general_ytz": [
+        "渙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6DA3",
+            "4413525134"
+        ],
+        "char_code_wubi": "iqmd",
+        "char_code_cangjie": "enbk",
+        "char_code_zhengma": "vrlg",
+        "char_code_sijiao": "37184"
+    },
+    "general_unicode": "基本区 U+6DA3",
+    "general_bs_code": "4413525134"
+}

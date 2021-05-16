@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hack, chop, cut, fell"
+        },
+        {
+            "language": "德语",
+            "explanation": "abschlagen  (V)​,fällen  (V)​,hacken  (V)​,spalten  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "couper,hacher,jeter qch à qqn"
+        }
+    ],
+    "general_pinyins": [
+        "kǎn"
+    ],
+    "general_zhuyins": [
+        "ㄎㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣢈"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "780D",
+            "132513534"
+        ],
+        "char_code_wubi": "dqwy",
+        "char_code_cangjie": "xmrno",
+        "char_code_zhengma": "gro",
+        "char_code_sijiao": "17682"
+    },
+    "general_unicode": "基本区 U+780D",
+    "general_bs_code": "132513534"
+}

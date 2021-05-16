@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "body; trunk, hull; rad. no. 158"
+        },
+        {
+            "language": "德语",
+            "explanation": "Körper, Rumpf  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "corps,vie,soi-même,personnellement"
+        }
+    ],
+    "general_pinyins": [
+        "shēn"
+    ],
+    "general_zhuyins": [
+        "ㄕㄣ"
+    ],
+    "general_radical": {
+        "radical": "身",
+        "non_radical_sn": "0",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡰬",
+        "𨊘"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8EAB",
+            "3251113"
+        ],
+        "char_code_wubi": "tmdt",
+        "char_code_cangjie": "hxh",
+        "char_code_zhengma": "nc",
+        "char_code_sijiao": "27400"
+    },
+    "general_unicode": "基本区 U+8EAB",
+    "general_bs_code": "3251113"
+}

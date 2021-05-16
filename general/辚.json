@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rumbling of vehicles; threshold"
+        }
+    ],
+    "general_pinyins": [
+        "lín"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "车",
+        "non_radical_sn": "12",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "轔"
+    ],
+    "general_ytz": [
+        "轔",
+        "𨍼",
+        "𨏏"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8F9A",
+            "1521431234354152"
+        ],
+        "char_code_wubi": "loqh|loqg",
+        "char_code_cangjie": "kqfdq",
+        "char_code_zhengma": "herm",
+        "char_code_sijiao": "49559"
+    },
+    "general_unicode": "基本区 U+8F9A",
+    "general_bs_code": "1521431234354152"
+}

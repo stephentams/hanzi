@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tail; hair; yak"
+        },
+        {
+            "language": "德语",
+            "explanation": "Haarbüschel  (S)​,Hinterteil, Ende  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "queue,touffe de poil,yack"
+        }
+    ],
+    "general_pinyins": [
+        "máo"
+    ],
+    "general_zhuyins": [
+        "ㄇㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "牜",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "氂"
+    ],
+    "general_ytz": [
+        "氂",
+        "犛",
+        "髦",
+        "𤙚"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7266",
+            "31213115"
+        ],
+        "char_code_wubi": "trtn|cen",
+        "char_code_cangjie": "hqhqu",
+        "char_code_zhengma": "mbmh",
+        "char_code_sijiao": "22514"
+    },
+    "general_unicode": "基本区 U+7266",
+    "general_bs_code": "31213115"
+}

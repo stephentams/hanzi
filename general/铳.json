@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ancient weapon, blunderbuss"
+        },
+        {
+            "language": "法语",
+            "explanation": "mortier,arme à feu"
+        }
+    ],
+    "general_pinyins": [
+        "chòng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "銃"
+    ],
+    "general_ytz": [
+        "銃",
+        "𥒝"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94F3",
+            "31115415435"
+        ],
+        "char_code_wubi": "qycq",
+        "char_code_cangjie": "opyiu",
+        "char_code_zhengma": "pszr",
+        "char_code_sijiao": "80712"
+    },
+    "general_unicode": "基本区 U+94F3",
+    "general_bs_code": "31115415435"
+}

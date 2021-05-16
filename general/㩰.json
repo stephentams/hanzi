@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to stab; to cut, (same as 摷) to attack against"
+        }
+    ],
+    "general_pinyins": [
+        "jiǎo",
+        "qiáo",
+        "xiǔ"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄠˇ",
+        "ㄑㄧㄠˊ",
+        "ㄒㄧㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "16",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "摷"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3A70",
+            "1211222512512511234"
+        ],
+        "char_code_wubi": "raks",
+        "char_code_cangjie": "qtrd",
+        "char_code_zhengma": "dejf",
+        "char_code_sijiao": "54094"
+    },
+    "general_unicode": "扩展A U+3A70",
+    "general_bs_code": "1211222512512511234"
+}

@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sorry, anxious; depressed"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ärger, Zorn  (S)​,ängstlich, ängstlich, besorgt"
+        },
+        {
+            "language": "法语",
+            "explanation": "indigné,courroucé,coléreux,rageur,anxieux"
+        }
+    ],
+    "general_pinyins": [
+        "fú"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "弗",
+        "𢘍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "602B",
+            "44251532"
+        ],
+        "char_code_wubi": "nxjh",
+        "char_code_cangjie": "plln",
+        "char_code_zhengma": "uynd",
+        "char_code_sijiao": "95027"
+    },
+    "general_unicode": "基本区 U+602B",
+    "general_bs_code": "44251532"
+}

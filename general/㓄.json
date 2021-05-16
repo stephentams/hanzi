@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to plough; to till, black color"
+        }
+    ],
+    "general_pinyins": [
+        "zhèn"
+    ],
+    "general_zhuyins": [
+        "ㄓㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "冖",
+        "non_radical_sn": "13",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣜣",
+        "𠬓",
+        "𪠟"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "34C4",
+            "545454343334535"
+        ],
+        "char_code_wubi": "cccq",
+        "char_code_cangjie": "ihlbu",
+        "char_code_zhengma": "zswr",
+        "char_code_sijiao": "24212"
+    },
+    "general_unicode": "扩展A U+34C4",
+    "general_bs_code": "545454343334535"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sharp, sharp-pointed; sharpen"
+        },
+        {
+            "language": "德语",
+            "explanation": "scharf, pünktlich  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "pointu,fleuve Shan (dans le Zhejiang)​"
+        }
+    ],
+    "general_pinyins": [
+        "yǎn",
+        "shàn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢˇ",
+        "ㄕㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "刂",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5261",
+            "4334433422"
+        ],
+        "char_code_wubi": "oojh",
+        "char_code_cangjie": "ffln",
+        "char_code_zhengma": "uouk",
+        "char_code_sijiao": "92800"
+    },
+    "general_unicode": "基本区 U+5261",
+    "general_bs_code": "4334433422"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "accumulate, store up, amass"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufhäufen (S)​,ansammeln (V)​,Multiplikation (Math)"
+        },
+        {
+            "language": "法语",
+            "explanation": "accumuler,amasser"
+        }
+    ],
+    "general_pinyins": [
+        "jī"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧ"
+    ],
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "積"
+    ],
+    "general_ytz": [
+        "積",
+        "𥡯",
+        "𥢼"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "79EF",
+            "3123425134"
+        ],
+        "char_code_wubi": "tkwy",
+        "char_code_cangjie": "hdrc",
+        "char_code_zhengma": "mfjo",
+        "char_code_sijiao": "26980"
+    },
+    "general_unicode": "基本区 U+79EF",
+    "general_bs_code": "3123425134"
+}

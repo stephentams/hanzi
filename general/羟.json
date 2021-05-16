@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "法语",
+            "explanation": "hydroxide"
+        }
+    ],
+    "general_pinyins": [
+        "qiǎng"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "羊",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "羥"
+    ],
+    "general_ytz": [
+        "羥",
+        "𦎺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F9F",
+            "43111354121"
+        ],
+        "char_code_wubi": "udca|ucag",
+        "char_code_cangjie": "tqnom",
+        "char_code_zhengma": "ucxb",
+        "char_code_sijiao": "87512"
+    },
+    "general_unicode": "基本区 U+7F9F",
+    "general_bs_code": "43111354121"
+}

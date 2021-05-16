@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "raft"
+        },
+        {
+            "language": "德语",
+            "explanation": "Floß"
+        },
+        {
+            "language": "法语",
+            "explanation": "radeau"
+        }
+    ],
+    "general_pinyins": [
+        "fá"
+    ],
+    "general_zhuyins": [
+        "ㄈㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "6",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "橃",
+        "栰",
+        "𦨷",
+        "𦪑",
+        "笩"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7B4F",
+            "314314321534"
+        ],
+        "char_code_wubi": "twar|twau",
+        "char_code_cangjie": "hoi",
+        "char_code_zhengma": "mnhm",
+        "char_code_sijiao": "88253"
+    },
+    "general_unicode": "基本区 U+7B4F",
+    "general_bs_code": "314314321534"
+}

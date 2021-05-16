@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "furze; gorse"
+        },
+        {
+            "language": "德语",
+            "explanation": "Erd-Burzeldorn, Erdsternchen (eine Pflanze)​  (Eig, Bio)​,Tribulus terrestris  (Eig, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "ajonc"
+        }
+    ],
+    "general_pinyins": [
+        "jí"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "84BA",
+            "1224134131134"
+        ],
+        "char_code_wubi": "autd",
+        "char_code_cangjie": "tkok",
+        "char_code_zhengma": "etma",
+        "char_code_sijiao": "44184"
+    },
+    "general_unicode": "基本区 U+84BA",
+    "general_bs_code": "1224134131134"
+}

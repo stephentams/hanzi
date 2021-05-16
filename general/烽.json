@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "signal fire; tower where signal"
+        },
+        {
+            "language": "法语",
+            "explanation": "feu d'alarme"
+        }
+    ],
+    "general_pinyins": [
+        "fēng"
+    ],
+    "general_zhuyins": [
+        "ㄈㄥ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㶻",
+        "㷭",
+        "炐",
+        "熢",
+        "𤑊",
+        "𤇺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "70FD",
+            "43343541112"
+        ],
+        "char_code_wubi": "otdh",
+        "char_code_cangjie": "fhej",
+        "char_code_zhengma": "uorc",
+        "char_code_sijiao": "97854"
+    },
+    "general_unicode": "基本区 U+70FD",
+    "general_bs_code": "43343541112"
+}

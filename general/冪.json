@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cover-cloth, cover with cloth"
+        },
+        {
+            "language": "德语",
+            "explanation": "Potenz, Kraft  (S, Math)"
+        },
+        {
+            "language": "法语",
+            "explanation": "exposant (math.)​,puissance (algèbre)​"
+        }
+    ],
+    "general_pinyins": [
+        "mì"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "冖",
+        "non_radical_sn": "13",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "幂"
+    ],
+    "general_ytz": [
+        "冖",
+        "幂",
+        "羃"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "51AA",
+            "451222511134252"
+        ],
+        "char_code_wubi": "pajh",
+        "char_code_cangjie": "btab",
+        "char_code_zhengma": "wwgl",
+        "char_code_sijiao": "37227"
+    },
+    "general_unicode": "基本区 U+51AA",
+    "general_bs_code": "451222511134252"
+}

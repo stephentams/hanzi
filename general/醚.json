@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ether"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ether  (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "éther-oxyde"
+        }
+    ],
+    "general_pinyins": [
+        "mí"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "酉",
+        "non_radical_sn": "9",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨡅"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "919A",
+            "1253511431234454"
+        ],
+        "char_code_wubi": "sgop",
+        "char_code_cangjie": "mwyfd",
+        "char_code_zhengma": "fduw",
+        "char_code_sijiao": "19639"
+    },
+    "general_unicode": "基本区 U+919A",
+    "general_bs_code": "1253511431234454"
+}

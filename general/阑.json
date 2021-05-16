@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "door screen; railing fence"
+        },
+        {
+            "language": "德语",
+            "explanation": "Geländer, Reling, Balustrade  (S, Arch)​,zu Ende gehen, sich dem Ende neigen  (V)​,erschöpft, abgehetzt  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "toucher à sa fin,rampe,balustrade,exténué"
+        }
+    ],
+    "general_pinyins": [
+        "lán"
+    ],
+    "general_zhuyins": [
+        "ㄌㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "门",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "闌"
+    ],
+    "general_ytz": [
+        "闌",
+        "𨷻"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9611",
+            "425125431234"
+        ],
+        "char_code_wubi": "ugli|usld",
+        "char_code_cangjie": "lsdwf",
+        "char_code_zhengma": "tlfl",
+        "char_code_sijiao": "37906"
+    },
+    "general_unicode": "基本区 U+9611",
+    "general_bs_code": "425125431234"
+}

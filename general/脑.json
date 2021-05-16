@@ -1,0 +1,62 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "brain"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gehirn  (S, Med)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cerveau,cervelle"
+        }
+    ],
+    "general_pinyins": [
+        "nǎo"
+    ],
+    "general_zhuyins": [
+        "ㄋㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "腦"
+    ],
+    "general_ytz": [
+        "腦",
+        "垴",
+        "匘",
+        "脳",
+        "𠜶",
+        "𠟞",
+        "𡍗",
+        "𦛁",
+        "𦛳",
+        "𦜩",
+        "𦝗",
+        "𦝶",
+        "𦞄",
+        "𦠊",
+        "𦠤",
+        "𦭣",
+        "𩩀"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8111",
+            "3511413452"
+        ],
+        "char_code_wubi": "eybh|eyrb",
+        "char_code_cangjie": "byuk",
+        "char_code_zhengma": "qsoz",
+        "char_code_sijiao": "70272"
+    },
+    "general_unicode": "基本区 U+8111",
+    "general_bs_code": "3511413452"
+}

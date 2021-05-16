@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "頁",
+        "non_radical_sn": "16",
+        "total_sn": "25"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠐿"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2958E",
+            "21212522145135415132511134"
+        ],
+        "char_code_wubi": "alpm",
+        "char_code_cangjie": "tpmbc",
+        "char_code_zhengma": "elrg"
+    },
+    "general_unicode": "扩展B U+2958E",
+    "general_bs_code": "21212522145135415132511134"
+}

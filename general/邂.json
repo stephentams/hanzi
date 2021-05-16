@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "unexpected meeting; encounter by"
+        },
+        {
+            "language": "法语",
+            "explanation": "rencontrer par hasard"
+        }
+    ],
+    "general_pinyins": [
+        "xiè"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "迦"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9082",
+            "3535112533112454"
+        ],
+        "char_code_wubi": "qevp",
+        "char_code_cangjie": "ynbq",
+        "char_code_zhengma": "rlmw",
+        "char_code_sijiao": "37305"
+    },
+    "general_unicode": "基本区 U+9082",
+    "general_bs_code": "3535112533112454"
+}

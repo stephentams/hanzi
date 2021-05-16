@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "an organic compound"
+        }
+    ],
+    "general_pinyins": [
+        "kǎi"
+    ],
+    "general_zhuyins": [
+        "ㄎㄞˇ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8488",
+            "122153532511"
+        ],
+        "char_code_wubi": "axxr",
+        "char_code_cangjie": "tppa",
+        "char_code_zhengma": "errn",
+        "char_code_sijiao": "44602"
+    },
+    "general_unicode": "基本区 U+8488",
+    "general_bs_code": "122153532511"
+}

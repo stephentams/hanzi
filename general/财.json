@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wealth, valuables, riches"
+        },
+        {
+            "language": "德语",
+            "explanation": "Reichtum, Vermögen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "richesse,biens,argent,trésor,propriété"
+        }
+    ],
+    "general_pinyins": [
+        "cái"
+    ],
+    "general_zhuyins": [
+        "ㄘㄞˊ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "3",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "財"
+    ],
+    "general_ytz": [
+        "財",
+        "㒲",
+        "𧴶",
+        "𧵤",
+        "𧸄"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D22",
+            "2534123"
+        ],
+        "char_code_wubi": "mftt",
+        "char_code_cangjie": "bodh",
+        "char_code_zhengma": "lodm",
+        "char_code_sijiao": "74800"
+    },
+    "general_unicode": "基本区 U+8D22",
+    "general_bs_code": "2534123"
+}

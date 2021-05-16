@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "prop"
+        },
+        {
+            "language": "德语",
+            "explanation": "abstützen"
+        },
+        {
+            "language": "法语",
+            "explanation": "soutenir"
+        }
+    ],
+    "general_pinyins": [
+        "zhī"
+    ],
+    "general_zhuyins": [
+        "ㄓ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "支"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6418",
+            "1211213352511"
+        ],
+        "char_code_wubi": "rftj",
+        "char_code_cangjie": "qjpa",
+        "char_code_zhengma": "dbrk",
+        "char_code_sijiao": "54061"
+    },
+    "general_unicode": "基本区 U+6418",
+    "general_bs_code": "1211213352511"
+}

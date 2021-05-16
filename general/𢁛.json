@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "巾",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "殺"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2205B",
+            "133252"
+        ],
+        "char_code_wubi": "dtmh",
+        "char_code_cangjie": "khlb",
+        "char_code_zhengma": "gdml"
+    },
+    "general_unicode": "扩展B U+2205B",
+    "general_bs_code": "133252"
+}

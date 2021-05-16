@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "elephant; ivory; figure, image"
+        },
+        {
+            "language": "德语",
+            "explanation": "Elefanten ,gleichen, ähnlich sein"
+        },
+        {
+            "language": "法语",
+            "explanation": "éléphant,forme,aspect"
+        }
+    ],
+    "general_pinyins": [
+        "xiàng"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "豕",
+        "non_radical_sn": "4",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "像",
+        "𤉢",
+        "𤊱",
+        "𤩪",
+        "𧰼"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C61",
+            "35251353334"
+        ],
+        "char_code_wubi": "qjeu|qkeu",
+        "char_code_cangjie": "napo",
+        "char_code_zhengma": "rjgq",
+        "char_code_sijiao": "27232"
+    },
+    "general_unicode": "基本区 U+8C61",
+    "general_bs_code": "35251353334"
+}

@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "clamor, din, hubbub"
+        },
+        {
+            "language": "德语",
+            "explanation": "rau"
+        },
+        {
+            "language": "法语",
+            "explanation": "bruyant,tapageur"
+        }
+    ],
+    "general_pinyins": [
+        "guō"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄛ"
+    ],
+    "general_radical": {
+        "radical": "耳",
+        "non_radical_sn": "6",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "咶",
+        "𠅪",
+        "𢡲",
+        "𦕾",
+        "𦗦",
+        "𦘉",
+        "𨈸",
+        "𦗾"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8052",
+            "122111312251"
+        ],
+        "char_code_wubi": "btdg",
+        "char_code_cangjie": "sjhjr",
+        "char_code_zhengma": "cemi",
+        "char_code_sijiao": "12464"
+    },
+    "general_unicode": "基本区 U+8052",
+    "general_bs_code": "122111312251"
+}

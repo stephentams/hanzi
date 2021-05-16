@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "Buddhist cassock"
+        },
+        {
+            "language": "法语",
+            "explanation": "camelot grossier"
+        }
+    ],
+    "general_pinyins": [
+        "jiā"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄚ"
+    ],
+    "general_radical": {
+        "radical": "衣",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "毠",
+        "𣮫",
+        "𣮱",
+        "𧛣"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8888",
+            "53251413534"
+        ],
+        "char_code_wubi": "lkye|ekye",
+        "char_code_cangjie": "kryhv",
+        "char_code_zhengma": "ymsr",
+        "char_code_sijiao": "46732"
+    },
+    "general_unicode": "基本区 U+8888",
+    "general_bs_code": "53251413534"
+}

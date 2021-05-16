@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "simple, unadorned; sincere; surname; a tree"
+        },
+        {
+            "language": "德语",
+            "explanation": "Pu  (Eig, Fam)​,schlicht und einfach  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "microcoulier de Chine,Celtis sinensis var. japonica,(nom de famille Piao)​,(nom de famille Pak en coréen)​"
+        }
+    ],
+    "general_pinyins": [
+        "pǔ",
+        "pò",
+        "pō",
+        "piáo"
+    ],
+    "general_zhuyins": [
+        "ㄆㄨˇ",
+        "ㄆㄛˋ",
+        "ㄆㄛ",
+        "ㄆㄧㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "2",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "樸"
+    ],
+    "general_ytz": [
+        "𣞞",
+        "樸",
+        "檏"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6734",
+            "123424"
+        ],
+        "char_code_wubi": "shy",
+        "char_code_cangjie": "dy",
+        "char_code_zhengma": "fid",
+        "char_code_sijiao": "43900"
+    },
+    "general_unicode": "基本区 U+6734",
+    "general_bs_code": "123424"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "chrysanthemum"
+        },
+        {
+            "language": "德语",
+            "explanation": "Chrysantheme  (Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "chrysanthème"
+        }
+    ],
+    "general_pinyins": [
+        "jú"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧃓",
+        "𧂲",
+        "䕮",
+        "蘜"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "83CA",
+            "12235431234"
+        ],
+        "char_code_wubi": "aqou",
+        "char_code_cangjie": "tpfd",
+        "char_code_zhengma": "eruf",
+        "char_code_sijiao": "44927"
+    },
+    "general_unicode": "基本区 U+83CA",
+    "general_bs_code": "12235431234"
+}

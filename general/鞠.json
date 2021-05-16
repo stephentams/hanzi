@@ -1,0 +1,63 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bow, bend; rear, raise, nourish"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufziehen, erziehen ,großziehen ,Ju  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "élever,(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "jū"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩ"
+    ],
+    "general_radical": {
+        "radical": "革",
+        "non_radical_sn": "8",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䪕",
+        "毱",
+        "陱",
+        "鞫",
+        "𠤄",
+        "𠮑",
+        "𡖁",
+        "𣮓",
+        "𣮕",
+        "𣮥",
+        "𣯲",
+        "𥷥",
+        "𩊸",
+        "𩌽",
+        "𩍔",
+        "𩍸",
+        "踘",
+        "毩",
+        "𠣮",
+        "𣮴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "97A0",
+            "12212511235431234"
+        ],
+        "char_code_wubi": "afqo",
+        "char_code_cangjie": "tjpfd",
+        "char_code_zhengma": "eeru",
+        "char_code_sijiao": "47520"
+    },
+    "general_unicode": "基本区 U+97A0",
+    "general_bs_code": "12212511235431234"
+}

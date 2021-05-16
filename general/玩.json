@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "play with, joke, enjoy"
+        },
+        {
+            "language": "德语",
+            "explanation": "spielen  (V)​,Antiquitäten  (S)​,Kuriositäten  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "jouer,s'amuser,se divertir"
+        }
+    ],
+    "general_pinyins": [
+        "wán"
+    ],
+    "general_zhuyins": [
+        "ㄨㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "貦",
+        "翫"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "73A9",
+            "11211135"
+        ],
+        "char_code_wubi": "gfqn",
+        "char_code_cangjie": "mgmmu",
+        "char_code_zhengma": "cbrd",
+        "char_code_sijiao": "11112"
+    },
+    "general_unicode": "基本区 U+73A9",
+    "general_bs_code": "11211135"
+}

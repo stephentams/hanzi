@@ -1,0 +1,58 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "change, transform, alter; rebel"
+        },
+        {
+            "language": "德语",
+            "explanation": "ändern  (V)​,sich entwickeln  (V)​,sich verändern  (V)​,umsteigen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "changer,devenir,transformer"
+        }
+    ],
+    "general_pinyins": [
+        "biàn"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "言",
+        "non_radical_sn": "16",
+        "total_sn": "23"
+    },
+    "general_stc": [
+        "变"
+    ],
+    "general_ytz": [
+        "㣐",
+        "变",
+        "𠮓",
+        "𢒛",
+        "𢒟",
+        "𢒦",
+        "𢒪",
+        "𢒭",
+        "𢻝",
+        "𢼜",
+        "𣀵",
+        "𦇥",
+        "變"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8B8A",
+            "41112515544445544443134"
+        ],
+        "char_code_wubi": "xyxt|yxxt",
+        "char_code_cangjie": "vfok",
+        "char_code_zhengma": "zsrs",
+        "char_code_sijiao": "22408"
+    },
+    "general_unicode": "基本区 U+8B8A",
+    "general_bs_code": "41112515544445544443134"
+}

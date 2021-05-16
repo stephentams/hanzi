@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "flatfish; flounder; sole"
+        },
+        {
+            "language": "法语",
+            "explanation": "Pleuronectidae"
+        }
+    ],
+    "general_pinyins": [
+        "dié"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "9",
+        "total_sn": "17"
+    },
+    "general_stc": [
+        "鰈"
+    ],
+    "general_ytz": [
+        "鰈",
+        "𩸏",
+        "𩺮",
+        "𩻵",
+        "𫙢"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9CBD",
+            "35251211122151234"
+        ],
+        "char_code_wubi": "qgas",
+        "char_code_cangjie": "nmptd",
+        "char_code_zhengma": "rezf",
+        "char_code_sijiao": "24194"
+    },
+    "general_unicode": "基本区 U+9CBD",
+    "general_bs_code": "35251211122151234"
+}

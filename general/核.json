@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "seed, kernel, core, nut; atom"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ribosomen ,Gestein, Kern  (S)​,Kern..., kerntechnisch  (S)​,untersuchen, nachprüfen  (V)"
+        }
+    ],
+    "general_pinyins": [
+        "hé",
+        "hú"
+    ],
+    "general_zhuyins": [
+        "ㄏㄜˊ",
+        "ㄏㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "覈",
+        "𣝗"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6838",
+            "1234415334"
+        ],
+        "char_code_wubi": "synw",
+        "char_code_cangjie": "dyvo",
+        "char_code_zhengma": "fszo",
+        "char_code_sijiao": "40982"
+    },
+    "general_unicode": "基本区 U+6838",
+    "general_bs_code": "1234415334"
+}

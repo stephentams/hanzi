@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "coverlet, quilt"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bettdecke  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "couverture"
+        }
+    ],
+    "general_pinyins": [
+        "qīn"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄣ"
+    ],
+    "general_radical": {
+        "radical": "衣",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧘭",
+        "𧙐"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "887E",
+            "3445413534"
+        ],
+        "char_code_wubi": "wyne",
+        "char_code_cangjie": "oinv",
+        "char_code_zhengma": "odsr",
+        "char_code_sijiao": "80732"
+    },
+    "general_unicode": "基本区 U+887E",
+    "general_bs_code": "3445413534"
+}

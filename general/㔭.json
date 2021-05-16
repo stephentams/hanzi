@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 匙) a spoon, a key"
+        }
+    ],
+    "general_pinyins": [
+        "chè",
+        "chí",
+        "yí"
+    ],
+    "general_zhuyins": [
+        "ㄔㄜˋ",
+        "ㄔˊ",
+        "ㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "匕",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "匙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "352D",
+            "15251112134"
+        ],
+        "char_code_wubi": "xjgh",
+        "char_code_cangjie": "pamo",
+        "char_code_zhengma": "rrai",
+        "char_code_sijiao": "26781"
+    },
+    "general_unicode": "扩展A U+352D",
+    "general_bs_code": "15251112134"
+}

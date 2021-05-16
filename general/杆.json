@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pole; shaft of spear"
+        },
+        {
+            "language": "德语",
+            "explanation": "Leitungsmast  (S)​,Mast, Stab  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "poteau,hampe,mât de navire,manche,barre"
+        }
+    ],
+    "general_pinyins": [
+        "gān",
+        "gǎn"
+    ],
+    "general_zhuyins": [
+        "ㄍㄢ",
+        "ㄍㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "3",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "桿"
+    ],
+    "general_ytz": [
+        "桿",
+        "檊",
+        "竿",
+        "笴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6746",
+            "1234112"
+        ],
+        "char_code_wubi": "sfh",
+        "char_code_cangjie": "dmj",
+        "char_code_zhengma": "faed",
+        "char_code_sijiao": "41940"
+    },
+    "general_unicode": "基本区 U+6746",
+    "general_bs_code": "1234112"
+}

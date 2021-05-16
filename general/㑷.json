@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 態) manner, bearing, behaviour, policy, attitude"
+        }
+    ],
+    "general_pinyins": [
+        "tài"
+    ],
+    "general_zhuyins": [
+        "ㄊㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "10",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "態"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3477",
+            "325425113535"
+        ],
+        "char_code_wubi": "wcex",
+        "char_code_cangjie": "oibp",
+        "char_code_zhengma": "nzrr",
+        "char_code_sijiao": "22212"
+    },
+    "general_unicode": "扩展A U+3477",
+    "general_bs_code": "325425113535"
+}

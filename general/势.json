@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "power, force; tendency"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kraft, Einfluß, Potential, Moment, Zeichen, Geste, männliche Geschlechtsorgane  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "puissance,influence,pouvoir,tendance,configuration,situation,apparence,geste,attitude"
+        }
+    ],
+    "general_pinyins": [
+        "shì"
+    ],
+    "general_zhuyins": [
+        "ㄕˋ"
+    ],
+    "general_radical": {
+        "radical": "力",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "勢"
+    ],
+    "general_ytz": [
+        "勢",
+        "埶",
+        "㔟"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "52BF",
+            "12135453"
+        ],
+        "char_code_wubi": "rvyl|rvye",
+        "char_code_cangjie": "qiks",
+        "char_code_zhengma": "dqsy",
+        "char_code_sijiao": "55427"
+    },
+    "general_unicode": "基本区 U+52BF",
+    "general_bs_code": "12135453"
+}

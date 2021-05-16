@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to cook meat for a sacrifice or offering"
+        },
+        {
+            "language": "法语",
+            "explanation": "viande cuite utilisée dans un sacrifice"
+        }
+    ],
+    "general_pinyins": [
+        "fán",
+        "pán"
+    ],
+    "general_zhuyins": [
+        "ㄈㄢˊ",
+        "ㄆㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "12",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥛮",
+        "㸋"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "81B0",
+            "3511343123425121"
+        ],
+        "char_code_wubi": "etol",
+        "char_code_cangjie": "bhdw",
+        "char_code_zhengma": "qpki",
+        "char_code_sijiao": "72269"
+    },
+    "general_unicode": "基本区 U+81B0",
+    "general_bs_code": "3511343123425121"
+}

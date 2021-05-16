@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "begin; man, father; great; a distance of ten li"
+        },
+        {
+            "language": "德语",
+            "explanation": "gerade, gerade jetzt  (Adv)"
+        },
+        {
+            "language": "法语",
+            "explanation": "à peine"
+        }
+    ],
+    "general_pinyins": [
+        "fǔ"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "用",
+        "non_radical_sn": "2",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "圃"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "752B",
+            "1251124"
+        ],
+        "char_code_wubi": "gehy|sghy",
+        "char_code_cangjie": "ijb",
+        "char_code_zhengma": "fb",
+        "char_code_sijiao": "53227"
+    },
+    "general_unicode": "基本区 U+752B",
+    "general_bs_code": "1251124"
+}

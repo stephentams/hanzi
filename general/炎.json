@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "flame, blaze; hot"
+        },
+        {
+            "language": "德语",
+            "explanation": "Entzündung  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "brûlant,enflammé,inflammation"
+        }
+    ],
+    "general_pinyins": [
+        "yán"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "炏",
+        "𡗩",
+        "𤆌",
+        "焰",
+        "𢉘"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "708E",
+            "43344334"
+        ],
+        "char_code_wubi": "oou",
+        "char_code_cangjie": "ff",
+        "char_code_zhengma": "uouo",
+        "char_code_sijiao": "90809"
+    },
+    "general_unicode": "基本区 U+708E",
+    "general_bs_code": "43344334"
+}

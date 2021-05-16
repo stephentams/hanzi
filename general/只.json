@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "only, just, simply"
+        },
+        {
+            "language": "德语",
+            "explanation": "nur, lediglich"
+        }
+    ],
+    "general_pinyins": [
+        "zhī",
+        "zhǐ"
+    ],
+    "general_zhuyins": [
+        "ㄓ",
+        "ㄓˇ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "2",
+        "total_sn": "5"
+    },
+    "general_stc": [
+        "衹",
+        "隻"
+    ],
+    "general_ytz": [
+        "軹",
+        "𠮡",
+        "𧙋",
+        "咫",
+        "隻",
+        "衹"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "53EA",
+            "25134"
+        ],
+        "char_code_wubi": "kwu",
+        "char_code_cangjie": "rc",
+        "char_code_zhengma": "jovv",
+        "char_code_sijiao": "60800"
+    },
+    "general_unicode": "基本区 U+53EA",
+    "general_bs_code": "25134"
+}

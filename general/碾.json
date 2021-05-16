@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "roller, crush; roll"
+        },
+        {
+            "language": "德语",
+            "explanation": "Stein-, Mahlwalze  (S)​,mahlen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "moudre,décortiquer"
+        }
+    ],
+    "general_pinyins": [
+        "niǎn"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "10",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "攆",
+        "榐",
+        "輾",
+        "𥑊",
+        "𥗇",
+        "𥗷",
+        "𨋁",
+        "𨋚"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "78BE",
+            "132515131221534"
+        ],
+        "char_code_wubi": "dnae",
+        "char_code_cangjie": "mrstv",
+        "char_code_zhengma": "gxeh",
+        "char_code_sijiao": "17632"
+    },
+    "general_unicode": "基本区 U+78BE",
+    "general_bs_code": "132515131221534"
+}

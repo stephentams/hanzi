@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "low, damp land, marsh, swamp"
+        },
+        {
+            "language": "德语",
+            "explanation": "tief, nieder ,Neuland  (S)​,Niederung  (S)​,Sumpfland  (S)​,Xi  (Eig, Fam)"
+        }
+    ],
+    "general_pinyins": [
+        "xí"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "14",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "濕",
+        "𨻋",
+        "𨻥",
+        "𨻸",
+        "𨻽",
+        "𨻿",
+        "㙷"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "96B0",
+            "5225115545544444"
+        ],
+        "char_code_wubi": "bjxo",
+        "char_code_cangjie": "nlavf",
+        "char_code_zhengma": "ykzu",
+        "char_code_sijiao": "76233"
+    },
+    "general_unicode": "基本区 U+96B0",
+    "general_bs_code": "5225115545544444"
+}

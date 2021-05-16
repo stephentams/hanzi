@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "girdle; tie, bind; gentry"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schärpe  (S)​,Vornehme  (S)​,binden  (V)​,gürten  (V)​,Gebildete"
+        },
+        {
+            "language": "法语",
+            "explanation": "notable"
+        }
+    ],
+    "general_pinyins": [
+        "shēn"
+    ],
+    "general_zhuyins": [
+        "ㄕㄣ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "紳"
+    ],
+    "general_ytz": [
+        "紳",
+        "𣃵",
+        "𦁴",
+        "𩉼"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EC5",
+            "55125112"
+        ],
+        "char_code_wubi": "xjhh",
+        "char_code_cangjie": "vmlwl",
+        "char_code_zhengma": "zkic",
+        "char_code_sijiao": "25106"
+    },
+    "general_unicode": "基本区 U+7EC5",
+    "general_bs_code": "55125112"
+}

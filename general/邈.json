@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "far, distant, remote; slight"
+        },
+        {
+            "language": "德语",
+            "explanation": "hintergründig, tiefdenkend"
+        },
+        {
+            "language": "法语",
+            "explanation": "profond,distant"
+        }
+    ],
+    "general_pinyins": [
+        "miǎo"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "14",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "藐",
+        "貌",
+        "𨓅",
+        "𨙁",
+        "𨘷",
+        "𨗿"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9088",
+            "34435333251135454"
+        ],
+        "char_code_wubi": "eerp|erqp",
+        "char_code_cangjie": "ybhu",
+        "char_code_zhengma": "pqrw",
+        "char_code_sijiao": "36301"
+    },
+    "general_unicode": "基本区 U+9088",
+    "general_bs_code": "34435333251135454"
+}

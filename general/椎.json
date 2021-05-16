@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hammer, mallet; vertebra"
+        },
+        {
+            "language": "德语",
+            "explanation": "Hammer  (S)​,Wirbelknochen (Aussprache: zhui1)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "vertèbre,marteau,maillet"
+        }
+    ],
+    "general_pinyins": [
+        "zhuī",
+        "chuí"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨㄟ",
+        "ㄔㄨㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "捶",
+        "顀",
+        "𩪀",
+        "槌",
+        "錘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "690E",
+            "123432411121"
+        ],
+        "char_code_wubi": "swyg",
+        "char_code_cangjie": "dog",
+        "char_code_zhengma": "fni",
+        "char_code_sijiao": "40915"
+    },
+    "general_unicode": "基本区 U+690E",
+    "general_bs_code": "123432411121"
+}

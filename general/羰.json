@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "法语",
+            "explanation": "groupe carbonyle,composé carbonylé"
+        }
+    ],
+    "general_pinyins": [
+        "tāng"
+    ],
+    "general_zhuyins": [
+        "ㄊㄤ"
+    ],
+    "general_radical": {
+        "radical": "羊",
+        "non_radical_sn": "9",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7FB0",
+            "431113252134334"
+        ],
+        "char_code_wubi": "udmo|umdo",
+        "char_code_cangjie": "tqukf",
+        "char_code_zhengma": "ucgu",
+        "char_code_sijiao": "82589"
+    },
+    "general_unicode": "基本区 U+7FB0",
+    "general_bs_code": "431113252134334"
+}

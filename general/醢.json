@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "minced pickled meat; mince"
+        },
+        {
+            "language": "德语",
+            "explanation": "Hackfleisch  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(supplice)​ se faire hacher menu,se faire réduire en bouillie"
+        }
+    ],
+    "general_pinyins": [
+        "hǎi"
+    ],
+    "general_zhuyins": [
+        "ㄏㄞˇ"
+    ],
+    "general_radical": {
+        "radical": "酉",
+        "non_radical_sn": "10",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "酼",
+        "𥂠",
+        "𥂧",
+        "𥂹",
+        "𧅽",
+        "𧆗",
+        "𨡿",
+        "𨢗",
+        "𨡝"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "91A2",
+            "12535111325125221"
+        ],
+        "char_code_wubi": "sgdl",
+        "char_code_cangjie": "mwkrt",
+        "char_code_zhengma": "fdjl",
+        "char_code_sijiao": "14612"
+    },
+    "general_unicode": "基本区 U+91A2",
+    "general_bs_code": "12535111325125221"
+}

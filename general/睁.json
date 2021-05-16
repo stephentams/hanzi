@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "open eyes; stare"
+        },
+        {
+            "language": "德语",
+            "explanation": "anfangen, eröffnen"
+        },
+        {
+            "language": "法语",
+            "explanation": "ouvrir les yeux,écarquiller les yeux"
+        }
+    ],
+    "general_pinyins": [
+        "zhēng"
+    ],
+    "general_zhuyins": [
+        "ㄓㄥ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "睜"
+    ],
+    "general_ytz": [
+        "睜"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7741",
+            "25111355112"
+        ],
+        "char_code_wubi": "hqvh",
+        "char_code_cangjie": "bunsd",
+        "char_code_zhengma": "lrxb",
+        "char_code_sijiao": "67057"
+    },
+    "general_unicode": "基本区 U+7741",
+    "general_bs_code": "25111355112"
+}

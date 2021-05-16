@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sleeves"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ärmel; Manschette"
+        },
+        {
+            "language": "法语",
+            "explanation": "manche d'habit"
+        }
+    ],
+    "general_pinyins": [
+        "mèi"
+    ],
+    "general_zhuyins": [
+        "ㄇㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "衤",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "褹"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8882",
+            "452345134"
+        ],
+        "char_code_wubi": "punw",
+        "char_code_cangjie": "ldk",
+        "char_code_zhengma": "wtxg",
+        "char_code_sijiao": "35280"
+    },
+    "general_unicode": "基本区 U+8882",
+    "general_bs_code": "452345134"
+}

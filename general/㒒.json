@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 僕) a slave; a servant, used conventionally for oneself, a charioteer"
+        }
+    ],
+    "general_pinyins": [
+        "pú"
+    ],
+    "general_zhuyins": [
+        "ㄆㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "13",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "僕"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3492",
+            "322243143111234"
+        ],
+        "char_code_wubi": "wogw|wouf",
+        "char_code_cangjie": "otcd",
+        "char_code_zhengma": "nku",
+        "char_code_sijiao": "22295"
+    },
+    "general_unicode": "扩展A U+3492",
+    "general_bs_code": "322243143111234"
+}

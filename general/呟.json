@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to mutter, grumble, murmur"
+        }
+    ],
+    "general_pinyins": [
+        "juǎn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "545F",
+            "25141554"
+        ],
+        "char_code_wubi": "kyxy",
+        "char_code_cangjie": "ryvi",
+        "char_code_zhengma": "jszz",
+        "char_code_sijiao": "60032"
+    },
+    "general_unicode": "基本区 U+545F",
+    "general_bs_code": "25141554"
+}

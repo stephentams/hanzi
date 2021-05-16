@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "promise; assent, approve"
+        },
+        {
+            "language": "德语",
+            "explanation": "Versprechen  (S)​,Zusage  (S)​,versprechen, zusagen"
+        },
+        {
+            "language": "法语",
+            "explanation": "consentir,promettre"
+        }
+    ],
+    "general_pinyins": [
+        "nuò"
+    ],
+    "general_zhuyins": [
+        "ㄋㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "諾"
+    ],
+    "general_ytz": [
+        "諾"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BFA",
+            "4512213251"
+        ],
+        "char_code_wubi": "yadk",
+        "char_code_cangjie": "ivtkr",
+        "char_code_zhengma": "segj",
+        "char_code_sijiao": "34764"
+    },
+    "general_unicode": "基本区 U+8BFA",
+    "general_bs_code": "4512213251"
+}

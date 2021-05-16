@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "vast, wide, extensive"
+        },
+        {
+            "language": "德语",
+            "explanation": "Meer, Ozean  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "vaste,immense"
+        }
+    ],
+    "general_pinyins": [
+        "hàn"
+    ],
+    "general_zhuyins": [
+        "ㄏㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "16",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "澣",
+        "𡊺"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "701A",
+            "4411225111234541541"
+        ],
+        "char_code_wubi": "ifjn",
+        "char_code_cangjie": "ejjm",
+        "char_code_zhengma": "veyy",
+        "char_code_sijiao": "38127"
+    },
+    "general_unicode": "基本区 U+701A",
+    "general_bs_code": "4411225111234541541"
+}

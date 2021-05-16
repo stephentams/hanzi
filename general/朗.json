@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "clear, bright; distinct"
+        },
+        {
+            "language": "德语",
+            "explanation": "klar, hell  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "clair"
+        }
+    ],
+    "general_pinyins": [
+        "lǎng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㓪",
+        "朖",
+        "朤",
+        "烺",
+        "脼",
+        "誏",
+        "𡦀",
+        "𣊧",
+        "𥇑",
+        "朗",
+        "朗"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6717",
+            "4511543511"
+        ],
+        "char_code_wubi": "yvce|yveg",
+        "char_code_cangjie": "iib",
+        "char_code_zhengma": "sxq",
+        "char_code_sijiao": "37720"
+    },
+    "general_unicode": "基本区 U+6717",
+    "general_bs_code": "4511543511"
+}

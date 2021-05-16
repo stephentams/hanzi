@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "oar, paddle"
+        },
+        {
+            "language": "德语",
+            "explanation": "rudern ,Ruder  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "jí"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "檝",
+        "艥"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "696B",
+            "1234251122111"
+        ],
+        "char_code_wubi": "skbg",
+        "char_code_cangjie": "drsj",
+        "char_code_zhengma": "fjce",
+        "char_code_sijiao": "46941"
+    },
+    "general_unicode": "基本区 U+696B",
+    "general_bs_code": "1234251122111"
+}

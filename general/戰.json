@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "war, fighting, battle"
+        },
+        {
+            "language": "德语",
+            "explanation": "Krieg, Kampf, Schlacht; kämpfen, streiten  (S)​,zittern, beben  (V)​,Zhan (Fam)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "combattre,se battre,combat,guerre"
+        }
+    ],
+    "general_pinyins": [
+        "zhàn"
+    ],
+    "general_zhuyins": [
+        "ㄓㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "戈",
+        "non_radical_sn": "12",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "战"
+    ],
+    "general_ytz": [
+        "战",
+        "戦",
+        "𡃣",
+        "𢧐",
+        "𣥎",
+        "𣥟",
+        "𣥭"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6230",
+            "2512512511121534"
+        ],
+        "char_code_wubi": "kkja",
+        "char_code_cangjie": "rji",
+        "char_code_zhengma": "jjeh",
+        "char_code_sijiao": "63550"
+    },
+    "general_unicode": "基本区 U+6230",
+    "general_bs_code": "2512512511121534"
+}

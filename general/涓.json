@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "brook, stream; select; pure"
+        },
+        {
+            "language": "德语",
+            "explanation": "auswählen, küren ,Bach  (S)​,Juan  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "ruisseau,pur"
+        }
+    ],
+    "general_pinyins": [
+        "juān"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄢ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㳙",
+        "鋗",
+        "𧨜"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6D93",
+            "4412512511"
+        ],
+        "char_code_wubi": "ikeg",
+        "char_code_cangjie": "erb",
+        "char_code_zhengma": "vjq",
+        "char_code_sijiao": "36127"
+    },
+    "general_unicode": "基本区 U+6D93",
+    "general_bs_code": "4412512511"
+}

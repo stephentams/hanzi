@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cinders, ashes, embers; remnants"
+        },
+        {
+            "language": "德语",
+            "explanation": "Eschen  (S)​,Glut  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cendres,résidu"
+        }
+    ],
+    "general_pinyins": [
+        "jìn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "14",
+        "total_sn": "18"
+    },
+    "general_stc": [
+        "烬"
+    ],
+    "general_ytz": [
+        "㶳",
+        "烬",
+        "煡"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "71FC",
+            "433451121444425221"
+        ],
+        "char_code_wubi": "ovhl",
+        "char_code_cangjie": "flmt",
+        "char_code_zhengma": "uoul",
+        "char_code_sijiao": "95812"
+    },
+    "general_unicode": "基本区 U+71FC",
+    "general_bs_code": "433451121444425221"
+}

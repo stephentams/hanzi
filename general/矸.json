@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a rock or cliff"
+        }
+    ],
+    "general_pinyins": [
+        "gān"
+    ],
+    "general_zhuyins": [
+        "ㄍㄢ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "3",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "77F8",
+            "13251112"
+        ],
+        "char_code_wubi": "dfh",
+        "char_code_cangjie": "mrmj",
+        "char_code_zhengma": "gaed",
+        "char_code_sijiao": "11640"
+    },
+    "general_unicode": "基本区 U+77F8",
+    "general_bs_code": "13251112"
+}

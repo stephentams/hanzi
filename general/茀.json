@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "overgrown with grass, weedy"
+        }
+    ],
+    "general_pinyins": [
+        "fú"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8300",
+            "12251532"
+        ],
+        "char_code_wubi": "axjj",
+        "char_code_cangjie": "tlln",
+        "char_code_zhengma": "eynd",
+        "char_code_sijiao": "44527"
+    },
+    "general_unicode": "基本区 U+8300",
+    "general_bs_code": "12251532"
+}

@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to be dumb; the sobbing of infants"
+        },
+        {
+            "language": "德语",
+            "explanation": "doof, sprachlos"
+        },
+        {
+            "language": "法语",
+            "explanation": "muet,silencieux"
+        }
+    ],
+    "general_pinyins": [
+        "yīn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄣ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "噾",
+        "瘖"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5591",
+            "251414312511"
+        ],
+        "char_code_wubi": "kujg",
+        "char_code_cangjie": "ryta",
+        "char_code_zhengma": "jsk",
+        "char_code_sijiao": "60061"
+    },
+    "general_unicode": "基本区 U+5591",
+    "general_bs_code": "251414312511"
+}

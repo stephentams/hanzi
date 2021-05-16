@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tense, excited, irritable"
+        },
+        {
+            "language": "法语",
+            "explanation": "impatient,ardent"
+        }
+    ],
+    "general_pinyins": [
+        "zào"
+    ],
+    "general_zhuyins": [
+        "ㄗㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "13",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "懆",
+        "趮",
+        "𨅶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E81",
+            "25121212512512511234"
+        ],
+        "char_code_wubi": "khks",
+        "char_code_cangjie": "rmrrd",
+        "char_code_zhengma": "jijf",
+        "char_code_sijiao": "66194"
+    },
+    "general_unicode": "基本区 U+8E81",
+    "general_bs_code": "25121212512512511234"
+}

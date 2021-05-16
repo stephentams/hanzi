@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "throw (down), hurl, cast, fling"
+        },
+        {
+            "language": "德语",
+            "explanation": "etw. (weg)​schleudern  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "lancer"
+        }
+    ],
+    "general_pinyins": [
+        "zhì"
+    ],
+    "general_zhuyins": [
+        "ㄓˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "14",
+        "total_sn": "17"
+    },
+    "general_stc": [
+        "掷"
+    ],
+    "general_ytz": [
+        "掷",
+        "擿"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "64F2",
+            "12143125351113452"
+        ],
+        "char_code_wubi": "rusb",
+        "char_code_cangjie": "qtkl",
+        "char_code_zhengma": "dugy",
+        "char_code_sijiao": "57027"
+    },
+    "general_unicode": "基本区 U+64F2",
+    "general_bs_code": "12143125351113452"
+}

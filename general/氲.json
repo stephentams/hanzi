@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "life giving influences of nature; spirit of harmony; prosperity"
+        },
+        {
+            "language": "法语",
+            "explanation": "fécondité,destin"
+        }
+    ],
+    "general_pinyins": [
+        "yūn"
+    ],
+    "general_zhuyins": [
+        "ㄩㄣ"
+    ],
+    "general_radical": {
+        "radical": "气",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "氳"
+    ],
+    "general_ytz": [
+        "氳"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6C32",
+            "3115251125221"
+        ],
+        "char_code_wubi": "rnjl|rjld",
+        "char_code_cangjie": "onabt",
+        "char_code_zhengma": "mykl",
+        "char_code_sijiao": "80117"
+    },
+    "general_unicode": "基本区 U+6C32",
+    "general_bs_code": "3115251125221"
+}

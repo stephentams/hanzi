@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "strong, robust, healthy; strength"
+        },
+        {
+            "language": "德语",
+            "explanation": "in etw. gewandt sein, sich auf etw. verstehen  (V)​,kräftigen, stärken  (V)​,gesund, stark  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bien portant,robuste,fortifier,renforcer,tonifier"
+        }
+    ],
+    "general_pinyins": [
+        "jiàn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "徤"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5065",
+            "3251111254"
+        ],
+        "char_code_wubi": "wvfp|wvgp",
+        "char_code_cangjie": "onkq",
+        "char_code_zhengma": "nxby",
+        "char_code_sijiao": "25240"
+    },
+    "general_unicode": "基本区 U+5065",
+    "general_bs_code": "3251111254"
+}

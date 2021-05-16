@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "section, department, science"
+        },
+        {
+            "language": "德语",
+            "explanation": "Abteilung, Wissenschaft  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "discipline,science,service,branche,section,famille"
+        }
+    ],
+    "general_pinyins": [
+        "kē"
+    ],
+    "general_zhuyins": [
+        "ㄎㄜ"
+    ],
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "棵",
+        "𥝹"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "79D1",
+            "312344412"
+        ],
+        "char_code_wubi": "tufh",
+        "char_code_cangjie": "hdyj",
+        "char_code_zhengma": "mfte",
+        "char_code_sijiao": "24900"
+    },
+    "general_unicode": "基本区 U+79D1",
+    "general_bs_code": "312344412"
+}

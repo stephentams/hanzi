@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pole used punt boat"
+        },
+        {
+            "language": "德语",
+            "explanation": "Staken, Stake (lange Stange zum Bewegen eines Boot)​  (S, Tech)​,Stange  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "perche de bambou,gaffe pour faire avancer une barque"
+        }
+    ],
+    "general_pinyins": [
+        "gāo"
+    ],
+    "general_zhuyins": [
+        "ㄍㄠ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "10",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㰏",
+        "籇",
+        "𥮑"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7BD9",
+            "3143144125125251"
+        ],
+        "char_code_wubi": "tymk",
+        "char_code_cangjie": "hyrb",
+        "char_code_zhengma": "msjl",
+        "char_code_sijiao": "88227"
+    },
+    "general_unicode": "基本区 U+7BD9",
+    "general_bs_code": "3143144125125251"
+}

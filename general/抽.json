@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "draw out, pull out; sprout"
+        },
+        {
+            "language": "德语",
+            "explanation": "entnehmen  (V)​,herausziehen, wegziehen  (V)​,sprießen, treiben (z.B. Bäume treiben aus)​  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tirer,retirer,sortir,extraire,prélever,soustraire,pousser,germer,bourgeonner,pomper,puiser,rétrécir,se rétracter,fouetter,cingler,battre"
+        }
+    ],
+    "general_pinyins": [
+        "chōu"
+    ],
+    "general_zhuyins": [
+        "ㄔㄡ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㨨",
+        "㩅",
+        "𢭆",
+        "𢳏"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "62BD",
+            "12125121"
+        ],
+        "char_code_wubi": "rmg",
+        "char_code_cangjie": "qlw",
+        "char_code_zhengma": "dkia",
+        "char_code_sijiao": "55060"
+    },
+    "general_unicode": "基本区 U+62BD",
+    "general_bs_code": "12125121"
+}

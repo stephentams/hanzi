@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rustic; crude"
+        },
+        {
+            "language": "德语",
+            "explanation": "Aufpasser, Aufseher  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "jùn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "田",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㽙",
+        "𤲋"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "756F",
+            "251215434354"
+        ],
+        "char_code_wubi": "lcwt",
+        "char_code_cangjie": "wice",
+        "char_code_zhengma": "kior",
+        "char_code_sijiao": "63047"
+    },
+    "general_unicode": "基本区 U+756F",
+    "general_bs_code": "251215434354"
+}

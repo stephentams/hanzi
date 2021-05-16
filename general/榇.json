@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "coffin; tung tree"
+        },
+        {
+            "language": "法语",
+            "explanation": "cercueil"
+        }
+    ],
+    "general_pinyins": [
+        "chèn"
+    ],
+    "general_zhuyins": [
+        "ㄔㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "櫬"
+    ],
+    "general_ytz": [
+        "櫬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6987",
+            "1234414311234"
+        ],
+        "char_code_wubi": "susy",
+        "char_code_cangjie": "dytd",
+        "char_code_zhengma": "fsf",
+        "char_code_sijiao": "40994"
+    },
+    "general_unicode": "基本区 U+6987",
+    "general_bs_code": "1234414311234"
+}

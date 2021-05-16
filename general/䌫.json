@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(non-classical form of U+7E9C 纜) a hawser, a cable, a rope"
+        }
+    ],
+    "general_pinyins": [
+        "lǎn"
+    ],
+    "general_zhuyins": [
+        "ㄌㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "糹",
+        "non_radical_sn": "16",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "432B",
+            "5544441251253142511135"
+        ],
+        "char_code_wubi": "xahq",
+        "char_code_cangjie": "vfsiu",
+        "char_code_zhengma": "zhml",
+        "char_code_sijiao": "28912"
+    },
+    "general_unicode": "扩展A U+432B",
+    "general_bs_code": "5544441251253142511135"
+}

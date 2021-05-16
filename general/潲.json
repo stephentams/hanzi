@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "driving rain; to sprinkle"
+        },
+        {
+            "language": "德语",
+            "explanation": "Driving Rain ,spritzen, berieseln"
+        },
+        {
+            "language": "法语",
+            "explanation": "pluie"
+        }
+    ],
+    "general_pinyins": [
+        "shào"
+    ],
+    "general_zhuyins": [
+        "ㄕㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𩛱"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6F72",
+            "441312342432511"
+        ],
+        "char_code_wubi": "itie",
+        "char_code_cangjie": "ehdb",
+        "char_code_zhengma": "vmkq",
+        "char_code_sijiao": "39127"
+    },
+    "general_unicode": "基本区 U+6F72",
+    "general_bs_code": "441312342432511"
+}

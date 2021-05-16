@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to stride over; to step across"
+        },
+        {
+            "language": "法语",
+            "explanation": "sauter"
+        }
+    ],
+    "general_pinyins": [
+        "liè"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "15",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨆍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E90",
+            "2512121555253415445445"
+        ],
+        "char_code_wubi": "khvn",
+        "char_code_cangjie": "rmvvv",
+        "char_code_zhengma": "jioz",
+        "char_code_sijiao": "62112"
+    },
+    "general_unicode": "基本区 U+8E90",
+    "general_bs_code": "2512121555253415445445"
+}

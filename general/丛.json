@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bush, shrub; thicket; collection"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gebüsch; Gesträuch; Gestrüpp; Dickicht, Busch"
+        },
+        {
+            "language": "法语",
+            "explanation": "touffe,bouquet"
+        }
+    ],
+    "general_pinyins": [
+        "cóng"
+    ],
+    "general_zhuyins": [
+        "ㄘㄨㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "一",
+        "non_radical_sn": "4",
+        "total_sn": "5"
+    },
+    "general_stc": [
+        "叢"
+    ],
+    "general_ytz": [
+        "叢",
+        "樷",
+        "藂",
+        "欉"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4E1B",
+            "34341"
+        ],
+        "char_code_wubi": "wwgf",
+        "char_code_cangjie": "oom",
+        "char_code_zhengma": "odoa",
+        "char_code_sijiao": "88100"
+    },
+    "general_unicode": "基本区 U+4E1B",
+    "general_bs_code": "34341"
+}

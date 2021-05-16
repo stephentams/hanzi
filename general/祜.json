@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "blessing, happiness, prosperity"
+        },
+        {
+            "language": "法语",
+            "explanation": "bonheur"
+        }
+    ],
+    "general_pinyins": [
+        "hù"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "礻",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧙖"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "795C",
+            "452412251"
+        ],
+        "char_code_wubi": "pydg",
+        "char_code_cangjie": "ifjr",
+        "char_code_zhengma": "wsej",
+        "char_code_sijiao": "34260"
+    },
+    "general_unicode": "基本区 U+795C",
+    "general_bs_code": "452412251"
+}

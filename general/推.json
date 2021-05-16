@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "push, expel; push forward"
+        },
+        {
+            "language": "德语",
+            "explanation": "schieben, stoßen (V)​,aufschieben, verschieben (V)​,überlassen, weitergeben (V)​,empfehlen (V)​,folgern (V)​,hochschätzen (V)​,mahlen (V)​,scheren (V)​,vorantreiben (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "pousser,étendre,élargir,retarder,ajourner,élire,promouvoir,déduire"
+        }
+    ],
+    "general_pinyins": [
+        "tuī"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄟ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "63A8",
+            "12132411121"
+        ],
+        "char_code_wubi": "rwyg",
+        "char_code_cangjie": "qog",
+        "char_code_zhengma": "dni",
+        "char_code_sijiao": "50015"
+    },
+    "general_unicode": "基本区 U+63A8",
+    "general_bs_code": "12132411121"
+}

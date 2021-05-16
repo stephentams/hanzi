@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sojourn, lodge"
+        },
+        {
+            "language": "德语",
+            "explanation": "Auswanderer  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "ressortissant"
+        }
+    ],
+    "general_pinyins": [
+        "qiáo"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "12",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "侨"
+    ],
+    "general_ytz": [
+        "㝯",
+        "侨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "50D1",
+            "32313425125251"
+        ],
+        "char_code_wubi": "wtdk",
+        "char_code_cangjie": "ohkb",
+        "char_code_zhengma": "nmjl",
+        "char_code_sijiao": "22227"
+    },
+    "general_unicode": "基本区 U+50D1",
+    "general_bs_code": "32313425125251"
+}

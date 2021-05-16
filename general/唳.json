@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cry of bird; cry"
+        },
+        {
+            "language": "法语",
+            "explanation": "cri de la grue"
+        }
+    ],
+    "general_pinyins": [
+        "lì"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5533",
+            "25145131344"
+        ],
+        "char_code_wubi": "kynd",
+        "char_code_cangjie": "rhsk",
+        "char_code_zhengma": "jwgs",
+        "char_code_sijiao": "63084"
+    },
+    "general_unicode": "基本区 U+5533",
+    "general_bs_code": "25145131344"
+}

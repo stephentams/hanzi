@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "number two"
+        },
+        {
+            "language": "德语",
+            "explanation": "2, zwei (alternative Form für Finanzwesen, fälschungssicherer)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "deux,aider"
+        }
+    ],
+    "general_pinyins": [
+        "èr"
+    ],
+    "general_zhuyins": [
+        "ㄦˋ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "貳"
+    ],
+    "general_ytz": [
+        "貳",
+        "弍",
+        "弐",
+        "貮",
+        "㒃"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D30",
+            "111253454"
+        ],
+        "char_code_wubi": "afmi|afmy",
+        "char_code_cangjie": "ipmmo",
+        "char_code_zhengma": "hsbl",
+        "char_code_sijiao": "43800"
+    },
+    "general_unicode": "基本区 U+8D30",
+    "general_bs_code": "111253454"
+}

@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fine-toothed comb; comb hair"
+        },
+        {
+            "language": "法语",
+            "explanation": "peigne fin"
+        }
+    ],
+    "general_pinyins": [
+        "bì"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "10",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "笓",
+        "枇",
+        "箆",
+        "鎞"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7BE6",
+            "3143143253411535"
+        ],
+        "char_code_wubi": "ttlx",
+        "char_code_cangjie": "hhwp",
+        "char_code_zhengma": "mnrr",
+        "char_code_sijiao": "88712"
+    },
+    "general_unicode": "基本区 U+7BE6",
+    "general_bs_code": "3143143253411535"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mangrove"
+        },
+        {
+            "language": "德语",
+            "explanation": "Mangrovenbaum  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "sumac"
+        }
+    ],
+    "general_pinyins": [
+        "kǎo"
+    ],
+    "general_zhuyins": [
+        "ㄎㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣐊",
+        "𣑥",
+        "𣛖",
+        "𥬯"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6832",
+            "1234121315"
+        ],
+        "char_code_wubi": "sftn",
+        "char_code_cangjie": "djks",
+        "char_code_zhengma": "fbaz",
+        "char_code_sijiao": "44927"
+    },
+    "general_unicode": "基本区 U+6832",
+    "general_bs_code": "1234121315"
+}

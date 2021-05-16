@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "folding purse inserted in belt"
+        },
+        {
+            "language": "法语",
+            "explanation": "bourse,petit sac"
+        }
+    ],
+    "general_pinyins": [
+        "lián"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "衤",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "褳"
+    ],
+    "general_ytz": [
+        "褳"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "88E2",
+            "452341512454"
+        ],
+        "char_code_wubi": "pulp",
+        "char_code_cangjie": "lykq",
+        "char_code_zhengma": "wthw",
+        "char_code_sijiao": "34235"
+    },
+    "general_unicode": "基本区 U+88E2",
+    "general_bs_code": "452341512454"
+}

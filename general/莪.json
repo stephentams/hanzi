@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "artemisia"
+        },
+        {
+            "language": "法语",
+            "explanation": "zédoaire"
+        }
+    ],
+    "general_pinyins": [
+        "é"
+    ],
+    "general_zhuyins": [
+        "ㄜˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䕏"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "83AA",
+            "1223121534"
+        ],
+        "char_code_wubi": "atrt|atry",
+        "char_code_cangjie": "thqi",
+        "char_code_zhengma": "emhm",
+        "char_code_sijiao": "44553"
+    },
+    "general_unicode": "基本区 U+83AA",
+    "general_bs_code": "1223121534"
+}

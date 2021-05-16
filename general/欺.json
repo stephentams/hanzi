@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cheat, double-cross, deceive"
+        },
+        {
+            "language": "德语",
+            "explanation": "betrügen, mogeln ,betrügen, täuschen"
+        },
+        {
+            "language": "法语",
+            "explanation": "malmener,tromper,duper"
+        }
+    ],
+    "general_pinyins": [
+        "qī"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧ"
+    ],
+    "general_radical": {
+        "radical": "欠",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "倛",
+        "𠔶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6B3A",
+            "122111343534"
+        ],
+        "char_code_wubi": "adww|dwqw",
+        "char_code_cangjie": "tcno",
+        "char_code_zhengma": "ecro",
+        "char_code_sijiao": "47882"
+    },
+    "general_unicode": "基本区 U+6B3A",
+    "general_bs_code": "122111343534"
+}

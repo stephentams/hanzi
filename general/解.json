@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "loosen, unfasten, untie; explain"
+        },
+        {
+            "language": "德语",
+            "explanation": "auflockern, lockern ,aufbinden, aufschnüren  (V)​,aufteilen, spalten  (V)​,beenden, auflösen  (V)​,darlegen, erklären  (V)​,emanzipieren  (V)​,trennen, ausscheiden  (V)​,Lösung  (Phys)"
+        },
+        {
+            "language": "法语",
+            "explanation": "séparer,dénouer,défaire,soulager,expliquer,comprendre,envoyer sous escorte"
+        }
+    ],
+    "general_pinyins": [
+        "jiě",
+        "jiè",
+        "xiè"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄝˇ",
+        "ㄐㄧㄝˋ",
+        "ㄒㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "角",
+        "non_radical_sn": "6",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "觧",
+        "𦴘",
+        "懈"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "89E3",
+            "3535112533112"
+        ],
+        "char_code_wubi": "qevh|qevg",
+        "char_code_cangjie": "nbshq",
+        "char_code_zhengma": "rlym",
+        "char_code_sijiao": "27252"
+    },
+    "general_unicode": "基本区 U+89E3",
+    "general_bs_code": "3535112533112"
+}

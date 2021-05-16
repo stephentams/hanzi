@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pool; not hardened, semi-soft"
+        },
+        {
+            "language": "德语",
+            "explanation": "Teich, Weiher  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "táng"
+    ],
+    "general_zhuyins": [
+        "ㄊㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "塘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6E8F",
+            "4414135112251"
+        ],
+        "char_code_wubi": "iyvk|iovk",
+        "char_code_cangjie": "eilr",
+        "char_code_zhengma": "vtxj",
+        "char_code_sijiao": "30165"
+    },
+    "general_unicode": "基本区 U+6E8F",
+    "general_bs_code": "4414135112251"
+}

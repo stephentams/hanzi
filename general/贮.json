@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "store, stockpile, hoard"
+        },
+        {
+            "language": "德语",
+            "explanation": "sichern, einsparen ,speichern, aufbewahren ,aufstapeln, Vorrat  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "emmagasiner,mettre en dépôt,stocker"
+        }
+    ],
+    "general_pinyins": [
+        "zhù"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "貯"
+    ],
+    "general_ytz": [
+        "貯",
+        "𡪄",
+        "𧵒",
+        "𧵤"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D2E",
+            "25344451"
+        ],
+        "char_code_wubi": "mpgg",
+        "char_code_cangjie": "bojm",
+        "char_code_zhengma": "lowa",
+        "char_code_sijiao": "73812"
+    },
+    "general_unicode": "基本区 U+8D2E",
+    "general_bs_code": "25344451"
+}

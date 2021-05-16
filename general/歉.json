@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "deficient, lacking, insufficient"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bedauern, Leid  (S)​,Abbitte leisten  (V)​,bedauern, bereuen  (V)​,entschuldigen  (V)​,Leid tun  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "excuse,manque,pénurie,insuffisant"
+        }
+    ],
+    "general_pinyins": [
+        "qiàn"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "欠",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "慊",
+        "䭑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6B49",
+            "43151122343534"
+        ],
+        "char_code_wubi": "uvow|uvjw",
+        "char_code_cangjie": "tcno",
+        "char_code_zhengma": "uaxr",
+        "char_code_sijiao": "87282"
+    },
+    "general_unicode": "基本区 U+6B49",
+    "general_bs_code": "43151122343534"
+}

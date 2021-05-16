@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "practice; flapping wings"
+        },
+        {
+            "language": "德语",
+            "explanation": "üben, vertraut sein ,Xi  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "étudier,apprendre,pratiquer,habitude,s'exercer,s'habituer"
+        }
+    ],
+    "general_pinyins": [
+        "xí"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "乙",
+        "non_radical_sn": "2",
+        "total_sn": "3"
+    },
+    "general_stc": [
+        "習"
+    ],
+    "general_ytz": [
+        "習"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4E60",
+            "541"
+        ],
+        "char_code_wubi": "nud",
+        "char_code_cangjie": "sim",
+        "char_code_zhengma": "yt",
+        "char_code_sijiao": "17120"
+    },
+    "general_unicode": "基本区 U+4E60",
+    "general_bs_code": "541"
+}

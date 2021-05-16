@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "eyes diseased and dim"
+        },
+        {
+            "language": "德语",
+            "explanation": "> 眼眵"
+        },
+        {
+            "language": "法语",
+            "explanation": "chassie"
+        }
+    ],
+    "general_pinyins": [
+        "chī"
+    ],
+    "general_zhuyins": [
+        "ㄔ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥄏",
+        "𥉍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7735",
+            "25111354354"
+        ],
+        "char_code_wubi": "hqqy",
+        "char_code_cangjie": "bunin",
+        "char_code_zhengma": "lrrs",
+        "char_code_sijiao": "67027"
+    },
+    "general_unicode": "基本区 U+7735",
+    "general_bs_code": "25111354354"
+}

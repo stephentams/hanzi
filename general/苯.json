@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "benzene; luxuriant"
+        },
+        {
+            "language": "德语",
+            "explanation": "Benzol  (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "benzène"
+        }
+    ],
+    "general_pinyins": [
+        "běn"
+    ],
+    "general_zhuyins": [
+        "ㄅㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "82EF",
+            "12212341"
+        ],
+        "char_code_wubi": "asgf",
+        "char_code_cangjie": "tdm",
+        "char_code_zhengma": "efa",
+        "char_code_sijiao": "44234"
+    },
+    "general_unicode": "基本区 U+82EF",
+    "general_bs_code": "12212341"
+}

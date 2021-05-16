@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "slander, vilify, condemn"
+        },
+        {
+            "language": "法语",
+            "explanation": "dénigrer"
+        }
+    ],
+    "general_pinyins": [
+        "fěi"
+    ],
+    "general_zhuyins": [
+        "ㄈㄟˇ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "誹"
+    ],
+    "general_ytz": [
+        "誹"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BFD",
+            "4521112111"
+        ],
+        "char_code_wubi": "ydjd|yhdd",
+        "char_code_cangjie": "ivlmy",
+        "char_code_zhengma": "skc",
+        "char_code_sijiao": "31711"
+    },
+    "general_unicode": "基本区 U+8BFD",
+    "general_bs_code": "4521112111"
+}

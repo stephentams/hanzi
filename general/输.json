@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "transport, carry, haul"
+        },
+        {
+            "language": "德语",
+            "explanation": "verlieren  (V)​,Shu  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "transporter,perdre,saisir un mot de passe,faire un don"
+        }
+    ],
+    "general_pinyins": [
+        "shū"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨ"
+    ],
+    "general_radical": {
+        "radical": "车",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "輸"
+    ],
+    "general_ytz": [
+        "輸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8F93",
+            "1521341251122"
+        ],
+        "char_code_wubi": "lwgj",
+        "char_code_cangjie": "kqomn",
+        "char_code_zhengma": "heqk",
+        "char_code_sijiao": "48521"
+    },
+    "general_unicode": "基本区 U+8F93",
+    "general_bs_code": "1521341251122"
+}

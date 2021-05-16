@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "paw"
+        },
+        {
+            "language": "德语",
+            "explanation": "treten, Stoß  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "faire un coup de pied,mettre le pied quelque part"
+        }
+    ],
+    "general_pinyins": [
+        "dì"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "9",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "踟",
+        "蹄"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E36",
+            "2512121251112134"
+        ],
+        "char_code_wubi": "khjh",
+        "char_code_cangjie": "rmamo",
+        "char_code_zhengma": "jiai",
+        "char_code_sijiao": "66181"
+    },
+    "general_unicode": "基本区 U+8E36",
+    "general_bs_code": "2512121251112134"
+}

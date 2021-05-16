@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "warts, pimples"
+        },
+        {
+            "language": "德语",
+            "explanation": "Warze  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tache,verrue"
+        }
+    ],
+    "general_pinyins": [
+        "hóu"
+    ],
+    "general_zhuyins": [
+        "ㄏㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "9",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "760A",
+            "41341325131134"
+        ],
+        "char_code_wubi": "uwnd",
+        "char_code_cangjie": "konk",
+        "char_code_zhengma": "tnxm",
+        "char_code_sijiao": "00184"
+    },
+    "general_unicode": "基本区 U+760A",
+    "general_bs_code": "41341325131134"
+}

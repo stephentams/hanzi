@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "model style of Chinese writing"
+        },
+        {
+            "language": "德语",
+            "explanation": "Regelschrift, Musterschrift, Normalschrift  (S, Lit)​,Vorlage, Muster  (S)​,Kai  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "écriture normale,pistachier chinois,Pistacia chinensis"
+        }
+    ],
+    "general_pinyins": [
+        "kǎi",
+        "jiē"
+    ],
+    "general_zhuyins": [
+        "ㄎㄞˇ",
+        "ㄐㄧㄝ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣒉",
+        "𣗀"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6977",
+            "1234153532511"
+        ],
+        "char_code_wubi": "sxxr",
+        "char_code_cangjie": "dppa",
+        "char_code_zhengma": "frrn",
+        "char_code_sijiao": "42962"
+    },
+    "general_unicode": "基本区 U+6977",
+    "general_bs_code": "1234153532511"
+}

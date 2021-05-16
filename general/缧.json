@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a chain or rope used bind criminals"
+        },
+        {
+            "language": "德语",
+            "explanation": "binden"
+        },
+        {
+            "language": "法语",
+            "explanation": "lier"
+        }
+    ],
+    "general_pinyins": [
+        "léi"
+    ],
+    "general_zhuyins": [
+        "ㄌㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "縲"
+    ],
+    "general_ytz": [
+        "縲",
+        "纝",
+        "𦅍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F27",
+            "55125121554234"
+        ],
+        "char_code_wubi": "xlxi",
+        "char_code_cangjie": "vmwvf",
+        "char_code_zhengma": "zkz",
+        "char_code_sijiao": "26193"
+    },
+    "general_unicode": "基本区 U+7F27",
+    "general_bs_code": "55125121554234"
+}

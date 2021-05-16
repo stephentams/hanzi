@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "evil, wicked, wrong, foul"
+        }
+    ],
+    "general_pinyins": [
+        "sǎ",
+        "sà",
+        "tàn"
+    ],
+    "general_zhuyins": [
+        "ㄙㄚˇ",
+        "ㄙㄚˋ",
+        "ㄊㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "12",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠎷"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "348E",
+            "32113421112111"
+        ],
+        "char_code_wubi": "wgdd",
+        "char_code_cangjie": "omky",
+        "char_code_zhengma": "nagk",
+        "char_code_sijiao": "21211"
+    },
+    "general_unicode": "扩展A U+348E",
+    "general_bs_code": "32113421112111"
+}

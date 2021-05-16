@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cypress, cedar"
+        },
+        {
+            "language": "德语",
+            "explanation": "Zypresse  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cèdre,cyprès"
+        }
+    ],
+    "general_pinyins": [
+        "bǎi",
+        "bó",
+        "bò"
+    ],
+    "general_zhuyins": [
+        "ㄅㄞˇ",
+        "ㄅㄛˊ",
+        "ㄅㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "栢",
+        "𣐩"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "67CF",
+            "123432511"
+        ],
+        "char_code_wubi": "srg",
+        "char_code_cangjie": "dha",
+        "char_code_zhengma": "fnk",
+        "char_code_sijiao": "46902"
+    },
+    "general_unicode": "基本区 U+67CF",
+    "general_bs_code": "123432511"
+}

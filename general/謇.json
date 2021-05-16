@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stutter; speak out boldly"
+        },
+        {
+            "language": "法语",
+            "explanation": "sincère"
+        }
+    ],
+    "general_pinyins": [
+        "jiǎn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "言",
+        "non_radical_sn": "10",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㔓",
+        "𠹟",
+        "𠽱",
+        "𡄓",
+        "𡅶",
+        "𧪤",
+        "𧬯",
+        "𧮈",
+        "𧮎",
+        "𠚲"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8B07",
+            "44511221344111251"
+        ],
+        "char_code_wubi": "pfjy|pawy",
+        "char_code_cangjie": "jtcr",
+        "char_code_zhengma": "wdos",
+        "char_code_sijiao": "30601"
+    },
+    "general_unicode": "基本区 U+8B07",
+    "general_bs_code": "44511221344111251"
+}

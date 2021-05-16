@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "beautiful, lovely, pretty, graceful"
+        },
+        {
+            "language": "法语",
+            "explanation": "belle,gracieux,gracieuse"
+        }
+    ],
+    "general_pinyins": [
+        "chán"
+    ],
+    "general_zhuyins": [
+        "ㄔㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "婵"
+    ],
+    "general_ytz": [
+        "婵",
+        "嬗",
+        "𡠐"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5B0B",
+            "531251251251112"
+        ],
+        "char_code_wubi": "vkkf",
+        "char_code_cangjie": "vrrj",
+        "char_code_zhengma": "zmke",
+        "char_code_sijiao": "46456"
+    },
+    "general_unicode": "基本区 U+5B0B",
+    "general_bs_code": "531251251251112"
+}

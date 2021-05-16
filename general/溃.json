@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "flooding river; militarily defeat"
+        },
+        {
+            "language": "德语",
+            "explanation": "auflösen, zerstreuen  (V)​,durchbrechen  (V)​,versprengen, verteilen  (V)​,hinunterfallen"
+        },
+        {
+            "language": "法语",
+            "explanation": "déborder,briser (un encerclement)​,rompre,être en déroute,corrompre,pourrir,s'ulcérer"
+        }
+    ],
+    "general_pinyins": [
+        "kuì",
+        "huì"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄟˋ",
+        "ㄏㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "潰"
+    ],
+    "general_ytz": [
+        "潰",
+        "殨",
+        "𤀭",
+        "𤃘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6E83",
+            "441251212534"
+        ],
+        "char_code_wubi": "ikhm",
+        "char_code_cangjie": "elmo",
+        "char_code_zhengma": "vjal",
+        "char_code_sijiao": "35182"
+    },
+    "general_unicode": "基本区 U+6E83",
+    "general_bs_code": "441251212534"
+}

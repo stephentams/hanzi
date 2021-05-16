@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a blocked stream; gulf"
+        },
+        {
+            "language": "德语",
+            "explanation": "Flüsschen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "devenir liquide,ruisseau"
+        }
+    ],
+    "general_pinyins": [
+        "xiè"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6FA5",
+            "4413535112533112"
+        ],
+        "char_code_wubi": "iqeh|iqeg",
+        "char_code_cangjie": "enbq",
+        "char_code_zhengma": "vrym",
+        "char_code_sijiao": "37152"
+    },
+    "general_unicode": "基本区 U+6FA5",
+    "general_bs_code": "4413535112533112"
+}

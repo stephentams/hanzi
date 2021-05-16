@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sheath, scabbard, bow case"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bogentasche, Schwerttasche, Kriegskunst  (S)​,verbergen, verheimlichen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "haut,(nom d'un col)​,cacher,fourreau d'une épée,art de la guerre,stratégie"
+        }
+    ],
+    "general_pinyins": [
+        "tāo"
+    ],
+    "general_zhuyins": [
+        "ㄊㄠ"
+    ],
+    "general_radical": {
+        "radical": "韦",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "韜"
+    ],
+    "general_ytz": [
+        "韜",
+        "轁",
+        "弢",
+        "鞱",
+        "𨌨",
+        "𩊹",
+        "𩏋",
+        "𩏍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "97EC",
+            "11523443321511"
+        ],
+        "char_code_wubi": "fnhv|fnhe",
+        "char_code_cangjie": "qsbhx",
+        "char_code_zhengma": "bipn",
+        "char_code_sijiao": "52077"
+    },
+    "general_unicode": "基本区 U+97EC",
+    "general_bs_code": "11523443321511"
+}

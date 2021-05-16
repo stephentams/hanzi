@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(standard form of 眾) all; the whole of; a multitude, a crowd (three or more)"
+        }
+    ],
+    "general_pinyins": [
+        "zhòng",
+        "yín"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨㄥˋ",
+        "ㄧㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "衆",
+        "眾"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "343A",
+            "323234"
+        ],
+        "char_code_wubi": "wwwy",
+        "char_code_cangjie": "ooo",
+        "char_code_zhengma": "nnod",
+        "char_code_sijiao": "28220"
+    },
+    "general_unicode": "扩展A U+343A",
+    "general_bs_code": "323234"
+}

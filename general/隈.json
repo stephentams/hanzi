@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cove, bay, inlet"
+        },
+        {
+            "language": "德语",
+            "explanation": "Biegung einer Gebirgskette  (S, Geo)​,Bucht, Meeresarm, Ausbuchtung, Wölbung  (S, Geo)​,Flußbiegung, Biegung eines Flußes  (S, Geo)"
+        },
+        {
+            "language": "法语",
+            "explanation": "baie,crique"
+        }
+    ],
+    "general_pinyins": [
+        "wēi"
+    ],
+    "general_zhuyins": [
+        "ㄨㄟ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨸰",
+        "𨺯"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9688",
+            "52251211534"
+        ],
+        "char_code_wubi": "blge",
+        "char_code_cangjie": "nlwmv",
+        "char_code_zhengma": "ykh",
+        "char_code_sijiao": "76232"
+    },
+    "general_unicode": "基本区 U+9688",
+    "general_bs_code": "52251211534"
+}

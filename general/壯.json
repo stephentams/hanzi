@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "big, large; robust; name of tribe"
+        },
+        {
+            "language": "德语",
+            "explanation": "stark, kräftig, robust"
+        },
+        {
+            "language": "法语",
+            "explanation": "robuste,vigoureux,fort,renforcer,fortifier,grand,grandiose"
+        }
+    ],
+    "general_pinyins": [
+        "zhuàng"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "士",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "壮"
+    ],
+    "general_ytz": [
+        "僮",
+        "壮",
+        "壵",
+        "𡉟",
+        "𢩿",
+        "𩡽",
+        "撞"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "58EF",
+            "5213121"
+        ],
+        "char_code_wubi": "nhdf|ufg",
+        "char_code_cangjie": "vmg",
+        "char_code_zhengma": "zib",
+        "char_code_sijiao": "24210"
+    },
+    "general_unicode": "基本区 U+58EF",
+    "general_bs_code": "5213121"
+}

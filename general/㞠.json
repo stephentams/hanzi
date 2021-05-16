@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "male organ"
+        }
+    ],
+    "general_pinyins": [
+        "láo",
+        "liáo"
+    ],
+    "general_zhuyins": [
+        "ㄌㄠˊ",
+        "ㄌㄧㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "尸",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "屪",
+        "𡳇"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "37A0",
+            "513134432511234"
+        ],
+        "char_code_wubi": "ndui",
+        "char_code_cangjie": "skcf",
+        "char_code_zhengma": "xmkk",
+        "char_code_sijiao": "77296"
+    },
+    "general_unicode": "扩展A U+37A0",
+    "general_bs_code": "513134432511234"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "receive, welcome, greet"
+        },
+        {
+            "language": "德语",
+            "explanation": "jdm. begrüßen, willkommen heißen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "accueillir,aller à la rencontre de,faire face à,braver"
+        }
+    ],
+    "general_pinyins": [
+        "yíng"
+    ],
+    "general_zhuyins": [
+        "ㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨒖"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8FCE",
+            "3552454"
+        ],
+        "char_code_wubi": "qbpk",
+        "char_code_cangjie": "yhvl",
+        "char_code_zhengma": "rhyw",
+        "char_code_sijiao": "37302"
+    },
+    "general_unicode": "基本区 U+8FCE",
+    "general_bs_code": "3552454"
+}

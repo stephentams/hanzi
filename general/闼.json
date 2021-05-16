@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "door; gate"
+        }
+    ],
+    "general_pinyins": [
+        "tà"
+    ],
+    "general_zhuyins": [
+        "ㄊㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "门",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "闥"
+    ],
+    "general_ytz": [
+        "闥"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "95FC",
+            "425134454"
+        ],
+        "char_code_wubi": "udpi",
+        "char_code_cangjie": "lsyk",
+        "char_code_zhengma": "tlgw",
+        "char_code_sijiao": "37308"
+    },
+    "general_unicode": "基本区 U+95FC",
+    "general_bs_code": "425134454"
+}

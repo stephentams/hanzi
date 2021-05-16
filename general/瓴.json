@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "concave channels of tiling a long-necked jar"
+        },
+        {
+            "language": "法语",
+            "explanation": "tuile"
+        }
+    ],
+    "general_pinyins": [
+        "líng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "瓦",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤬻",
+        "𤮮",
+        "𤮹"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "74F4",
+            "344541554"
+        ],
+        "char_code_wubi": "wycn|wycy",
+        "char_code_cangjie": "oimvn",
+        "char_code_zhengma": "odys",
+        "char_code_sijiao": "81317"
+    },
+    "general_unicode": "基本区 U+74F4",
+    "general_bs_code": "344541554"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dung beetle"
+        },
+        {
+            "language": "德语",
+            "explanation": "Mistkäfer  (S, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bousier"
+        }
+    ],
+    "general_pinyins": [
+        "qiāng"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄤ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "7",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧏙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8723",
+            "2512144311135"
+        ],
+        "char_code_wubi": "judn|junn",
+        "char_code_cangjie": "litgu",
+        "char_code_zhengma": "iurd",
+        "char_code_sijiao": "58112"
+    },
+    "general_unicode": "基本区 U+8723",
+    "general_bs_code": "2512144311135"
+}

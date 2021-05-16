@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "extra horse; imperial son-in-law"
+        },
+        {
+            "language": "法语",
+            "explanation": "aider,gendre du roi"
+        }
+    ],
+    "general_pinyins": [
+        "fù"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "马",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "駙"
+    ],
+    "general_ytz": [
+        "駙",
+        "䮛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A78",
+            "55132124"
+        ],
+        "char_code_wubi": "cwfy|cgwf",
+        "char_code_cangjie": "nmodi",
+        "char_code_zhengma": "xnds",
+        "char_code_sijiao": "74100"
+    },
+    "general_unicode": "基本区 U+9A78",
+    "general_bs_code": "55132124"
+}

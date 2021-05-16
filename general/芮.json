@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tiny, small; water's edge"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "ruì"
+    ],
+    "general_zhuyins": [
+        "ㄖㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "82AE",
+            "1222534"
+        ],
+        "char_code_wubi": "amwu",
+        "char_code_cangjie": "tob",
+        "char_code_zhengma": "elod",
+        "char_code_sijiao": "44227"
+    },
+    "general_unicode": "基本区 U+82AE",
+    "general_bs_code": "1222534"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a kind of pen; a kind of chisel"
+        },
+        {
+            "language": "德语",
+            "explanation": "meißeln, schummeln ,Qi  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "chaudron"
+        }
+    ],
+    "general_pinyins": [
+        "qí"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "錡"
+    ],
+    "general_ytz": [
+        "錡"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "951C",
+            "3111513412512"
+        ],
+        "char_code_wubi": "qdsk",
+        "char_code_cangjie": "opkmr",
+        "char_code_zhengma": "pgaj",
+        "char_code_sijiao": "84721"
+    },
+    "general_unicode": "基本区 U+951C",
+    "general_bs_code": "3111513412512"
+}

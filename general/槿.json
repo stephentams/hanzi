@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hibiscus"
+        },
+        {
+            "language": "德语",
+            "explanation": "kurzlebig, vorübergehend"
+        },
+        {
+            "language": "法语",
+            "explanation": "mauve"
+        }
+    ],
+    "general_pinyins": [
+        "jǐn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "11",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "69FF",
+            "123412212511121"
+        ],
+        "char_code_wubi": "sakg",
+        "char_code_cangjie": "dtlm",
+        "char_code_zhengma": "fejc",
+        "char_code_sijiao": "44915"
+    },
+    "general_unicode": "基本区 U+69FF",
+    "general_bs_code": "123412212511121"
+}

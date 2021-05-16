@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "shadows of sun; time; sundial"
+        },
+        {
+            "language": "德语",
+            "explanation": "Sonnenuhr  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "gnomon d'un cadran solaire,ombre,temps"
+        }
+    ],
+    "general_pinyins": [
+        "guǐ"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄟˇ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6677",
+            "251135424251"
+        ],
+        "char_code_wubi": "jthk",
+        "char_code_cangjie": "ahor",
+        "char_code_zhengma": "krij",
+        "char_code_sijiao": "60604"
+    },
+    "general_unicode": "基本区 U+6677",
+    "general_bs_code": "251135424251"
+}

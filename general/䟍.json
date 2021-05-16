@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to walk; to travel, to go"
+        }
+    ],
+    "general_pinyins": [
+        "dián"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "走",
+        "non_radical_sn": "15",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧾫"
+    ],
+    "general_structure": "左下包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "47CD",
+            "1212134325111445344153"
+        ],
+        "char_code_wubi": "fhty",
+        "char_code_cangjie": "gohus",
+        "char_code_zhengma": "bows",
+        "char_code_sijiao": "46802"
+    },
+    "general_unicode": "扩展A U+47CD",
+    "general_bs_code": "1212134325111445344153"
+}

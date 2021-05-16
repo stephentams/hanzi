@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mushroom; germ, microbe"
+        },
+        {
+            "language": "德语",
+            "explanation": "Keim  (S)​,keimen  (V)​,Pilz ,formen, gestalten"
+        },
+        {
+            "language": "法语",
+            "explanation": "champignon,microbe"
+        }
+    ],
+    "general_pinyins": [
+        "jūn",
+        "jùn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄣ",
+        "ㄐㄩㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "蔨"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "83CC",
+            "12225312341"
+        ],
+        "char_code_wubi": "altu",
+        "char_code_cangjie": "twhd",
+        "char_code_zhengma": "ejmf",
+        "char_code_sijiao": "44600"
+    },
+    "general_unicode": "基本区 U+83CC",
+    "general_bs_code": "12225312341"
+}

@@ -1,0 +1,32 @@
+{
+    "general_pinyins": [
+        "xiá",
+        "jiā"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄚˊ",
+        "ㄐㄧㄚ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "峽"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "57C9",
+            "1211343434"
+        ],
+        "char_code_wubi": "fdww",
+        "char_code_cangjie": "gkoo",
+        "char_code_zhengma": "bgoo",
+        "char_code_sijiao": "44188"
+    },
+    "general_unicode": "基本区 U+57C9",
+    "general_bs_code": "1211343434"
+}

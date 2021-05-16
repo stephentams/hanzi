@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "generation, lifetime; class"
+        },
+        {
+            "language": "德语",
+            "explanation": "Generation  (S)​,Lebenszeit  (S)​,zeitgenössisch  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "contemporain,génération,durée de vie"
+        }
+    ],
+    "general_pinyins": [
+        "bèi"
+    ],
+    "general_zhuyins": [
+        "ㄅㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "车",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "輩"
+    ],
+    "general_ytz": [
+        "輩",
+        "軰",
+        "𠐡",
+        "𨋅"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8F88",
+            "211121111512"
+        ],
+        "char_code_wubi": "djdl|hdhl",
+        "char_code_cangjie": "lykq",
+        "char_code_zhengma": "kche",
+        "char_code_sijiao": "11504"
+    },
+    "general_unicode": "基本区 U+8F88",
+    "general_bs_code": "211121111512"
+}

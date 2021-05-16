@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rhyme; vowel"
+        },
+        {
+            "language": "德语",
+            "explanation": "Reim  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "rime,charme"
+        }
+    ],
+    "general_pinyins": [
+        "yùn"
+    ],
+    "general_zhuyins": [
+        "ㄩㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "音",
+        "non_radical_sn": "4",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "韻"
+    ],
+    "general_ytz": [
+        "韻",
+        "𡁩"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "97F5",
+            "4143125113541"
+        ],
+        "char_code_wubi": "ujqu",
+        "char_code_cangjie": "yapim",
+        "char_code_zhengma": "surt",
+        "char_code_sijiao": "07620"
+    },
+    "general_unicode": "基本区 U+97F5",
+    "general_bs_code": "4143125113541"
+}

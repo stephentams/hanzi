@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rules, regulations, customs, law"
+        },
+        {
+            "language": "德语",
+            "explanation": "Regel ,Sitte, Brauch, Gebräuche"
+        },
+        {
+            "language": "法语",
+            "explanation": "planifier,règle,usage établi"
+        }
+    ],
+    "general_pinyins": [
+        "guī"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄟ"
+    ],
+    "general_radical": {
+        "radical": "见",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "規"
+    ],
+    "general_ytz": [
+        "規",
+        "椝",
+        "槼",
+        "䂓",
+        "𧠹",
+        "𧠺",
+        "𩑬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "89C4",
+            "11342535"
+        ],
+        "char_code_wubi": "fwmq|gmqn",
+        "char_code_cangjie": "qobhu",
+        "char_code_zhengma": "bdol",
+        "char_code_sijiao": "57812"
+    },
+    "general_unicode": "基本区 U+89C4",
+    "general_bs_code": "11342535"
+}

@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "name of district in Anhui; capital of Yin"
+        },
+        {
+            "language": "法语",
+            "explanation": "(région de l'Anhui)​"
+        }
+    ],
+    "general_pinyins": [
+        "bó"
+    ],
+    "general_zhuyins": [
+        "ㄅㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "亠",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "薄",
+        "𠅢"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4EB3",
+            "4125145315"
+        ],
+        "char_code_wubi": "ypta",
+        "char_code_cangjie": "yrbp",
+        "char_code_zhengma": "sjmh",
+        "char_code_sijiao": "00714"
+    },
+    "general_unicode": "基本区 U+4EB3",
+    "general_bs_code": "4125145315"
+}

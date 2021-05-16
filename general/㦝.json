@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "beautiful; pretty, good; excellent, to usurp; to outrage, to draw; to sketch"
+        }
+    ],
+    "general_pinyins": [
+        "miǎo"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "14",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢤧"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "399D",
+            "344353332511354544"
+        ],
+        "char_code_wubi": "eern|erqn",
+        "char_code_cangjie": "bup",
+        "char_code_zhengma": "pqrw",
+        "char_code_sijiao": "26331"
+    },
+    "general_unicode": "扩展A U+399D",
+    "general_bs_code": "344353332511354544"
+}

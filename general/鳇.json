@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sturgeon"
+        },
+        {
+            "language": "德语",
+            "explanation": "Stör  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "Huso dauricus"
+        }
+    ],
+    "general_pinyins": [
+        "huáng"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "9",
+        "total_sn": "17"
+    },
+    "general_stc": [
+        "鰉"
+    ],
+    "general_ytz": [
+        "鰉",
+        "鱑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9CC7",
+            "35251211325111121"
+        ],
+        "char_code_wubi": "qgrg",
+        "char_code_cangjie": "nmhag",
+        "char_code_zhengma": "rnc",
+        "char_code_sijiao": "26114"
+    },
+    "general_unicode": "基本区 U+9CC7",
+    "general_bs_code": "35251211325111121"
+}

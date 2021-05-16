@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "draft, manuscript, rough copy"
+        },
+        {
+            "language": "德语",
+            "explanation": "Entwurf, Manuskript  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "manuscrit,article"
+        }
+    ],
+    "general_pinyins": [
+        "gǎo"
+    ],
+    "general_zhuyins": [
+        "ㄍㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "10",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "槁",
+        "稾",
+        "稁",
+        "藳"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7A3F",
+            "312344125125251"
+        ],
+        "char_code_wubi": "tymk",
+        "char_code_cangjie": "hdyrb",
+        "char_code_zhengma": "mfjl",
+        "char_code_sijiao": "20927"
+    },
+    "general_unicode": "基本区 U+7A3F",
+    "general_bs_code": "312344125125251"
+}

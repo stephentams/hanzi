@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "steep, sheer; rugged, rough"
+        },
+        {
+            "language": "德语",
+            "explanation": "robust, schroff"
+        }
+    ],
+    "general_pinyins": [
+        "qū"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "岖"
+    ],
+    "general_ytz": [
+        "岖",
+        "岴",
+        "𡼆"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5D87",
+            "25212512512515"
+        ],
+        "char_code_wubi": "makk",
+        "char_code_cangjie": "usrr",
+        "char_code_zhengma": "lljj",
+        "char_code_sijiao": "21716"
+    },
+    "general_unicode": "基本区 U+5D87",
+    "general_bs_code": "25212512512515"
+}

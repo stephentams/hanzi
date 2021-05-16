@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(non-classical form of U+63A0 掠) to take by force, to throw aside"
+        }
+    ],
+    "general_pinyins": [
+        "lüè"
+    ],
+    "general_zhuyins": [
+        "ㄌㄩㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "手",
+        "non_radical_sn": "11",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "掠"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3A3C",
+            "251213542513112"
+        ],
+        "char_code_wubi": "ltkr",
+        "char_code_cangjie": "wrq",
+        "char_code_zhengma": "kijm",
+        "char_code_sijiao": "67502"
+    },
+    "general_unicode": "扩展A U+3A3C",
+    "general_bs_code": "251213542513112"
+}

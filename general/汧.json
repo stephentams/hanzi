@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "name of a river in Shangdong; marsh; float"
+        },
+        {
+            "language": "德语",
+            "explanation": "flößen, gleiten"
+        },
+        {
+            "language": "法语",
+            "explanation": "marais,flotter"
+        }
+    ],
+    "general_pinyins": [
+        "qiān"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "岍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6C67",
+            "4411132"
+        ],
+        "char_code_wubi": "igah",
+        "char_code_cangjie": "emt",
+        "char_code_zhengma": "vae",
+        "char_code_sijiao": "31140"
+    },
+    "general_unicode": "基本区 U+6C67",
+    "general_bs_code": "4411132"
+}

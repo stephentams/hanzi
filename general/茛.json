@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "德语",
+            "explanation": "Hahnenfuß, Butterblume  (Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "renoncule,ranunculus"
+        }
+    ],
+    "general_pinyins": [
+        "gèn"
+    ],
+    "general_zhuyins": [
+        "ㄍㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "831B",
+            "122511534"
+        ],
+        "char_code_wubi": "aveu|avu",
+        "char_code_cangjie": "tav",
+        "char_code_zhengma": "exo",
+        "char_code_sijiao": "44732"
+    },
+    "general_unicode": "基本区 U+831B",
+    "general_bs_code": "122511534"
+}

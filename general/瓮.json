@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "earthen jar; jar for ashes"
+        },
+        {
+            "language": "德语",
+            "explanation": "Urne  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "wèng"
+    ],
+    "general_zhuyins": [
+        "ㄨㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "瓦",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "甕",
+        "罋",
+        "𤮲",
+        "𦉥"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "74EE",
+            "34541554"
+        ],
+        "char_code_wubi": "wcgn|wcgy",
+        "char_code_cangjie": "cimn",
+        "char_code_zhengma": "ozys",
+        "char_code_sijiao": "80717"
+    },
+    "general_unicode": "基本区 U+74EE",
+    "general_bs_code": "34541554"
+}

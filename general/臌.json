@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dropsical swelling; puffy bloated"
+        },
+        {
+            "language": "德语",
+            "explanation": "angeschwollen, verschwollen"
+        },
+        {
+            "language": "法语",
+            "explanation": "(médecine)​ ventre gonflé"
+        }
+    ],
+    "general_pinyins": [
+        "gǔ"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "13",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "81CC",
+            "35111212514311254"
+        ],
+        "char_code_wubi": "efkc",
+        "char_code_cangjie": "bgte",
+        "char_code_zhengma": "qbex",
+        "char_code_sijiao": "74247"
+    },
+    "general_unicode": "基本区 U+81CC",
+    "general_bs_code": "35111212514311254"
+}

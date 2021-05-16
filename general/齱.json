@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "法语",
+            "explanation": "dents inégales,incisives proéminentes"
+        }
+    ],
+    "general_pinyins": [
+        "zōu"
+    ],
+    "general_zhuyins": [
+        "ㄗㄡ"
+    ],
+    "general_radical": {
+        "radical": "齒",
+        "non_radical_sn": "8",
+        "total_sn": "23"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "齪",
+        "𪘸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9F71",
+            "21213434134345212211154"
+        ],
+        "char_code_wubi": "hwwc|hbbc",
+        "char_code_cangjie": "yusje",
+        "char_code_zhengma": "iocx",
+        "char_code_sijiao": "27740"
+    },
+    "general_unicode": "基本区 U+9F71",
+    "general_bs_code": "21213434134345212211154"
+}

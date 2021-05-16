@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dried out, withered, decayed"
+        },
+        {
+            "language": "德语",
+            "explanation": "ausgedorrt"
+        },
+        {
+            "language": "法语",
+            "explanation": "flétri,fané,épuisè,à sec"
+        }
+    ],
+    "general_pinyins": [
+        "kū"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "橭",
+        "秙",
+        "𤖲",
+        "𣒞"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "67AF",
+            "123412251"
+        ],
+        "char_code_wubi": "sdg",
+        "char_code_cangjie": "djr",
+        "char_code_zhengma": "fej",
+        "char_code_sijiao": "44960"
+    },
+    "general_unicode": "基本区 U+67AF",
+    "general_bs_code": "123412251"
+}

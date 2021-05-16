@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a sickle, a reaping-hook, an angle of the arrowhead, medical instrument used in old times"
+        }
+    ],
+    "general_pinyins": [
+        "lián"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "釒",
+        "non_radical_sn": "13",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "鐮"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4965",
+            "341123414143135112234"
+        ],
+        "char_code_wubi": "quto|qutw",
+        "char_code_cangjie": "cyhc",
+        "char_code_zhengma": "psgx",
+        "char_code_sijiao": "80137"
+    },
+    "general_unicode": "扩展A U+4965",
+    "general_bs_code": "341123414143135112234"
+}

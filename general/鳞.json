@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fish scales"
+        },
+        {
+            "language": "德语",
+            "explanation": "Flocke  (S)​,Lin  (Eig, Fam)​,Schuppe"
+        },
+        {
+            "language": "法语",
+            "explanation": "écailles de poisson"
+        }
+    ],
+    "general_pinyins": [
+        "lín"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "12",
+        "total_sn": "20"
+    },
+    "general_stc": [
+        "鱗"
+    ],
+    "general_ytz": [
+        "鱗",
+        "䚬",
+        "𧤳",
+        "𩼩"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9CDE",
+            "35251211431234354152"
+        ],
+        "char_code_wubi": "qgoh|qgog",
+        "char_code_cangjie": "nmfdq",
+        "char_code_zhengma": "rurm",
+        "char_code_sijiao": "29159"
+    },
+    "general_unicode": "基本区 U+9CDE",
+    "general_bs_code": "35251211431234354152"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "desert; aloof, indifferent, cool"
+        },
+        {
+            "language": "德语",
+            "explanation": "desertieren, im Stich lassen  (S)​,Wüste  (S)​,gleichgültig  (Adj)​,teilnahmslos  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "désert,indifférent"
+        }
+    ],
+    "general_pinyins": [
+        "mò"
+    ],
+    "general_zhuyins": [
+        "ㄇㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥕓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6F20",
+            "4411222511134"
+        ],
+        "char_code_wubi": "iajd",
+        "char_code_cangjie": "etak",
+        "char_code_zhengma": "vekg",
+        "char_code_sijiao": "34184"
+    },
+    "general_unicode": "基本区 U+6F20",
+    "general_bs_code": "4411222511134"
+}

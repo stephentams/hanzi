@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "尸",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "破"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "21CA0",
+            "513251151354"
+        ],
+        "char_code_wubi": "nkgc",
+        "char_code_cangjie": "srmse",
+        "char_code_zhengma": "xmxx"
+    },
+    "general_unicode": "扩展B U+21CA0",
+    "general_bs_code": "513251151354"
+}

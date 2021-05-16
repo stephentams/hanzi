@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "scenery, view; conditions"
+        },
+        {
+            "language": "德语",
+            "explanation": "hell, klar  (Adj)​,Szenerie"
+        },
+        {
+            "language": "法语",
+            "explanation": "paysage,scène,situation,décor"
+        }
+    ],
+    "general_pinyins": [
+        "jǐng",
+        "yǐng"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄥˇ",
+        "ㄧㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "影",
+        "幜",
+        "暻",
+        "𠎠",
+        "𦚏",
+        "㬌"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "666F",
+            "251141251234"
+        ],
+        "char_code_wubi": "jyiu",
+        "char_code_cangjie": "ayrf",
+        "char_code_zhengma": "ksjk",
+        "char_code_sijiao": "60906"
+    },
+    "general_unicode": "基本区 U+666F",
+    "general_bs_code": "251141251234"
+}

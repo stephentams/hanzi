@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ulcer; sore; boil, a wound"
+        }
+    ],
+    "general_pinyins": [
+        "yán"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "16",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3FD5",
+            "413415112251135321511"
+        ],
+        "char_code_wubi": "uuqv|uuqe",
+        "char_code_cangjie": "kanx",
+        "char_code_zhengma": "txrn",
+        "char_code_sijiao": "00127"
+    },
+    "general_unicode": "扩展A U+3FD5",
+    "general_bs_code": "413415112251135321511"
+}

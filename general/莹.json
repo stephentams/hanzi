@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "luster of gems; bright, lustrous"
+        },
+        {
+            "language": "德语",
+            "explanation": "jadeartiger Stein, glänzend und durchsichtig  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "éclat des pierres précieuses"
+        }
+    ],
+    "general_pinyins": [
+        "yíng"
+    ],
+    "general_zhuyins": [
+        "ㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "瑩"
+    ],
+    "general_ytz": [
+        "瑩",
+        "𤫎",
+        "㼆"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "83B9",
+            "1224511214"
+        ],
+        "char_code_wubi": "apgy",
+        "char_code_cangjie": "tbmi",
+        "char_code_zhengma": "ewcs",
+        "char_code_sijiao": "44103"
+    },
+    "general_unicode": "基本区 U+83B9",
+    "general_bs_code": "1224511214"
+}

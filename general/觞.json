@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wine vessel; propose toast; feast"
+        },
+        {
+            "language": "德语",
+            "explanation": "ergötzen, feiern"
+        },
+        {
+            "language": "法语",
+            "explanation": "festin,coupe de vin"
+        }
+    ],
+    "general_pinyins": [
+        "shāng"
+    ],
+    "general_zhuyins": [
+        "ㄕㄤ"
+    ],
+    "general_radical": {
+        "radical": "角",
+        "non_radical_sn": "5",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "觴"
+    ],
+    "general_ytz": [
+        "觴",
+        "𣝻",
+        "𤔡",
+        "𤔰"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "89DE",
+            "353511231533"
+        ],
+        "char_code_wubi": "qetr",
+        "char_code_cangjie": "nbonh",
+        "char_code_zhengma": "rlyo",
+        "char_code_sijiao": "28227"
+    },
+    "general_unicode": "基本区 U+89DE",
+    "general_bs_code": "353511231533"
+}

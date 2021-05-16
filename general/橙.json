@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "orange"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kanton-Apfelsine  (S, Ess)​,wird auch chen2 gelesen"
+        },
+        {
+            "language": "法语",
+            "explanation": "orange (fruit)​"
+        }
+    ],
+    "general_pinyins": [
+        "chéng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "12",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "凳",
+        "䔲"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6A59",
+            "1234543341251431"
+        ],
+        "char_code_wubi": "swgu",
+        "char_code_cangjie": "dnot",
+        "char_code_zhengma": "fxju",
+        "char_code_sijiao": "42918"
+    },
+    "general_unicode": "基本区 U+6A59",
+    "general_bs_code": "1234543341251431"
+}

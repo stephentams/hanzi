@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "oh? really? is that so?"
+        },
+        {
+            "language": "德语",
+            "explanation": "ach so, aha, oh (Ausruf, Ausdruck des Erkennens, plötzliches Verstehen)​  (Int)"
+        },
+        {
+            "language": "法语",
+            "explanation": "oh !,(employé pour marquer une compréhension)​,réciter en chantant"
+        }
+    ],
+    "general_pinyins": [
+        "ó",
+        "ò",
+        "é"
+    ],
+    "general_zhuyins": [
+        "ㄛˊ",
+        "ㄛˋ",
+        "ㄜˊ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "吪",
+        "誐"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "54E6",
+            "2513121534"
+        ],
+        "char_code_wubi": "ktrt|ktry",
+        "char_code_cangjie": "rhqi",
+        "char_code_zhengma": "jmhm",
+        "char_code_sijiao": "63050"
+    },
+    "general_unicode": "基本区 U+54E6",
+    "general_bs_code": "2513121534"
+}

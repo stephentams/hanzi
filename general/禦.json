@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "defend, resist, hold out against"
+        },
+        {
+            "language": "德语",
+            "explanation": "erwehren, widerstehen"
+        },
+        {
+            "language": "法语",
+            "explanation": "résister à,impérial"
+        }
+    ],
+    "general_pinyins": [
+        "yù"
+    ],
+    "general_zhuyins": [
+        "ㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "示",
+        "non_radical_sn": "12",
+        "total_sn": "17"
+    },
+    "general_stc": [
+        "御"
+    ],
+    "general_ytz": [
+        "圄",
+        "御",
+        "敔",
+        "𢕥",
+        "𤎇",
+        "𧗻"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "79A6",
+            "33231121215211234"
+        ],
+        "char_code_wubi": "trhi|ttgi",
+        "char_code_cangjie": "hlmmf",
+        "char_code_zhengma": "oiyb",
+        "char_code_sijiao": "27901"
+    },
+    "general_unicode": "基本区 U+79A6",
+    "general_bs_code": "33231121215211234"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bracelet, armband; small bell"
+        },
+        {
+            "language": "德语",
+            "explanation": "Armband  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bracelet"
+        }
+    ],
+    "general_pinyins": [
+        "zhuó"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "13",
+        "total_sn": "18"
+    },
+    "general_stc": [
+        "鐲"
+    ],
+    "general_ytz": [
+        "鐲"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "956F",
+            "311152522135251214"
+        ],
+        "char_code_wubi": "qlqj",
+        "char_code_cangjie": "opwli",
+        "char_code_zhengma": "plri",
+        "char_code_sijiao": "86727"
+    },
+    "general_unicode": "基本区 U+956F",
+    "general_bs_code": "311152522135251214"
+}

@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "neglect; careless, lax"
+        },
+        {
+            "language": "德语",
+            "explanation": "spärlich  (Adj)​,dünn ,karg"
+        },
+        {
+            "language": "法语",
+            "explanation": "disperser,tenir qqn à distance,négliger,draguer (un canal)​,peu nombreux,dispersé,éloigné"
+        }
+    ],
+    "general_pinyins": [
+        "shū"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨ"
+    ],
+    "general_radical": {
+        "radical": "疋",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "疋",
+        "疎",
+        "𤕟",
+        "𥿇",
+        "梳",
+        "蔬",
+        "踈",
+        "䟽",
+        "𤴚",
+        "𨘖"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "758F",
+            "521214154325"
+        ],
+        "char_code_wubi": "nhyq|nhyk",
+        "char_code_cangjie": "nmyiu",
+        "char_code_zhengma": "xizn",
+        "char_code_sijiao": "10112"
+    },
+    "general_unicode": "基本区 U+758F",
+    "general_bs_code": "521214154325"
+}

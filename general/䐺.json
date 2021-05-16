@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "delicious; tasty food, (same as U+91B0 醰) of a fine flavour"
+        }
+    ],
+    "general_pinyins": [
+        "tàn"
+    ],
+    "general_zhuyins": [
+        "ㄊㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "12",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "443A",
+            "3511125221251112"
+        ],
+        "char_code_wubi": "esjh",
+        "char_code_cangjie": "bmwj",
+        "char_code_zhengma": "qfke",
+        "char_code_sijiao": "71246"
+    },
+    "general_unicode": "扩展A U+443A",
+    "general_bs_code": "3511125221251112"
+}

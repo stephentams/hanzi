@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "glaze"
+        },
+        {
+            "language": "德语",
+            "explanation": "Glasur  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "luisant,onctueux"
+        }
+    ],
+    "general_pinyins": [
+        "yòu"
+    ],
+    "general_zhuyins": [
+        "ㄧㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "采",
+        "non_radical_sn": "5",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "油",
+        "泑",
+        "𢩃",
+        "𥑤"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "91C9",
+            "343123425121"
+        ],
+        "char_code_wubi": "tomg",
+        "char_code_cangjie": "hdlw",
+        "char_code_zhengma": "pfki",
+        "char_code_sijiao": "25960"
+    },
+    "general_unicode": "基本区 U+91C9",
+    "general_bs_code": "343123425121"
+}

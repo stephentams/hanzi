@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "peas"
+        },
+        {
+            "language": "德语",
+            "explanation": "Erbse 〈植〉  (S, Agrar)"
+        },
+        {
+            "language": "法语",
+            "explanation": "pois carré"
+        }
+    ],
+    "general_pinyins": [
+        "wān"
+    ],
+    "general_zhuyins": [
+        "ㄨㄢ"
+    ],
+    "general_radical": {
+        "radical": "豆",
+        "non_radical_sn": "8",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧯡",
+        "𧯳"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C4C",
+            "125143144535455"
+        ],
+        "char_code_wubi": "gkub",
+        "char_code_cangjie": "mtjnu",
+        "char_code_zhengma": "ajry",
+        "char_code_sijiao": "13112"
+    },
+    "general_unicode": "基本区 U+8C4C",
+    "general_bs_code": "125143144535455"
+}

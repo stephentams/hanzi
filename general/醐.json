@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "purest cream"
+        }
+    ],
+    "general_pinyins": [
+        "hú"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "酉",
+        "non_radical_sn": "9",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨡷",
+        "𨠂",
+        "𨠀"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9190",
+            "1253511122513511"
+        ],
+        "char_code_wubi": "sgde",
+        "char_code_cangjie": "mwjrb",
+        "char_code_zhengma": "fdjq",
+        "char_code_sijiao": "17620"
+    },
+    "general_unicode": "基本区 U+9190",
+    "general_bs_code": "1253511122513511"
+}

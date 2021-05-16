@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cough, gargle, clear throat"
+        },
+        {
+            "language": "德语",
+            "explanation": "einsaugen (mit dem Munde)​  (V)​,Husten  (S)​,Mund säubern  (S)​,Schleim aushusten  (S)​,gurgeln  (V)​,husten  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tousser,se rincer la bouche"
+        }
+    ],
+    "general_pinyins": [
+        "sòu"
+    ],
+    "general_zhuyins": [
+        "ㄙㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "嗍",
+        "欶",
+        "𧔅",
+        "漱",
+        "瘶"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "55FD",
+            "25112512343534"
+        ],
+        "char_code_wubi": "kgkw|kskw",
+        "char_code_cangjie": "rdlo",
+        "char_code_zhengma": "jfjr",
+        "char_code_sijiao": "67082"
+    },
+    "general_unicode": "基本区 U+55FD",
+    "general_bs_code": "25112512343534"
+}

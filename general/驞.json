@@ -1,0 +1,30 @@
+{
+    "general_pinyins": [
+        "pīn"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧㄣ"
+    ],
+    "general_radical": {
+        "radical": "馬",
+        "non_radical_sn": "14",
+        "total_sn": "24"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𩦿"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A5E",
+            "121125444444512332511134"
+        ],
+        "char_code_wubi": "cpgm|copm",
+        "char_code_cangjie": "sfjmc",
+        "char_code_zhengma": "cukl",
+        "char_code_sijiao": "73386"
+    },
+    "general_unicode": "基本区 U+9A5E",
+    "general_bs_code": "121125444444512332511134"
+}

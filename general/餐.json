@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "eat, dine; meal; food"
+        },
+        {
+            "language": "法语",
+            "explanation": "manger,prendre le repas,aliment,repas"
+        }
+    ],
+    "general_pinyins": [
+        "cān"
+    ],
+    "general_zhuyins": [
+        "ㄘㄢ"
+    ],
+    "general_radical": {
+        "radical": "飠",
+        "non_radical_sn": "8",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䬸",
+        "喰",
+        "囋",
+        "湌",
+        "飡",
+        "飱",
+        "𩛳",
+        "𩜨"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9910",
+            "2135454344511534"
+        ],
+        "char_code_wubi": "hqce|hqcv",
+        "char_code_cangjie": "yeoiv",
+        "char_code_zhengma": "idxo",
+        "char_code_sijiao": "27732"
+    },
+    "general_unicode": "基本区 U+9910",
+    "general_bs_code": "2135454344511534"
+}

@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a range of mountains in Hunan province"
+        },
+        {
+            "language": "法语",
+            "explanation": "mont Yi (Hunan)​"
+        }
+    ],
+    "general_pinyins": [
+        "yí"
+    ],
+    "general_zhuyins": [
+        "ㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "14",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㠜",
+        "𡷪"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5DB7",
+            "25235311345452134"
+        ],
+        "char_code_wubi": "mxth",
+        "char_code_cangjie": "upko",
+        "char_code_zhengma": "llxi",
+        "char_code_sijiao": "22881"
+    },
+    "general_unicode": "基本区 U+5DB7",
+    "general_bs_code": "25235311345452134"
+}

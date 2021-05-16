@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "kind of caterpillar, larva"
+        },
+        {
+            "language": "法语",
+            "explanation": "charançon"
+        }
+    ],
+    "general_pinyins": [
+        "míng"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "10",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧔲"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "879F",
+            "2512144525114134"
+        ],
+        "char_code_wubi": "jpju",
+        "char_code_cangjie": "libac",
+        "char_code_zhengma": "iwso",
+        "char_code_sijiao": "57180"
+    },
+    "general_unicode": "基本区 U+879F",
+    "general_bs_code": "2512144525114134"
+}

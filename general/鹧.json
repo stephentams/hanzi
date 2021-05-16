@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "partridge"
+        },
+        {
+            "language": "德语",
+            "explanation": "Rebhuhn  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "zhè"
+    ],
+    "general_zhuyins": [
+        "ㄓㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "鸟",
+        "non_radical_sn": "11",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "鷓"
+    ],
+    "general_ytz": [
+        "鷓",
+        "𪁱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E67",
+            "4131221444435451"
+        ],
+        "char_code_wubi": "yaog|oaog",
+        "char_code_cangjie": "ifpym",
+        "char_code_zhengma": "tgur",
+        "char_code_sijiao": "07227"
+    },
+    "general_unicode": "基本区 U+9E67",
+    "general_bs_code": "4131221444435451"
+}

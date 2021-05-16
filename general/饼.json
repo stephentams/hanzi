@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rice-cakes, biscuits"
+        },
+        {
+            "language": "法语",
+            "explanation": "galette,crêpe,gâteau,cookie,tout objet circulaire et aplati"
+        }
+    ],
+    "general_pinyins": [
+        "bǐng"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "饣",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "餅"
+    ],
+    "general_ytz": [
+        "餅",
+        "餠",
+        "䴵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "997C",
+            "355431132"
+        ],
+        "char_code_wubi": "qnua",
+        "char_code_cangjie": "nvtt",
+        "char_code_zhengma": "oxue",
+        "char_code_sijiao": "28741"
+    },
+    "general_unicode": "基本区 U+997C",
+    "general_bs_code": "355431132"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "grasp with hand, pinch"
+        },
+        {
+            "language": "德语",
+            "explanation": "festhalten, sich festklammern"
+        },
+        {
+            "language": "法语",
+            "explanation": "tirer,saisir"
+        }
+    ],
+    "general_pinyins": [
+        "jiū"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄡ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "揫"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "63EA",
+            "121312344334"
+        ],
+        "char_code_wubi": "rtoy",
+        "char_code_cangjie": "qhdf",
+        "char_code_zhengma": "dmuo",
+        "char_code_sijiao": "59080"
+    },
+    "general_unicode": "基本区 U+63EA",
+    "general_bs_code": "121312344334"
+}

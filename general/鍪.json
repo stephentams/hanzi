@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "an iron pan; a metal cap"
+        },
+        {
+            "language": "法语",
+            "explanation": "pot de fer,capuchon métallique"
+        }
+    ],
+    "general_pinyins": [
+        "móu"
+    ],
+    "general_zhuyins": [
+        "ㄇㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "金",
+        "non_radical_sn": "9",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨩺",
+        "䥐"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "936A",
+            "54523313434112431"
+        ],
+        "char_code_wubi": "cbtq|cnhq",
+        "char_code_cangjie": "nkc",
+        "char_code_zhengma": "xsmp",
+        "char_code_sijiao": "18109"
+    },
+    "general_unicode": "基本区 U+936A",
+    "general_bs_code": "54523313434112431"
+}

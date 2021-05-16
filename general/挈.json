@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "assist, help, lead by hand"
+        },
+        {
+            "language": "德语",
+            "explanation": "herausziehen, ausreißen"
+        },
+        {
+            "language": "法语",
+            "explanation": "tirer de bas en haut"
+        }
+    ],
+    "general_pinyins": [
+        "qiè"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "手",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "絜",
+        "𢭋",
+        "觢"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6308",
+            "1112533112"
+        ],
+        "char_code_wubi": "dhvr",
+        "char_code_cangjie": "qhq",
+        "char_code_zhengma": "ciym",
+        "char_code_sijiao": "57502"
+    },
+    "general_unicode": "基本区 U+6308",
+    "general_bs_code": "1112533112"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "belly; abdomen; bowels"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bauch  (S)​,Kutteln, Pansen, Kaldaunen  (S)​,Unterleib  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tripes (de ruminant)​,ventre,abdomen"
+        }
+    ],
+    "general_pinyins": [
+        "dù",
+        "dǔ"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨˋ",
+        "ㄉㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "3",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䐗"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "809A",
+            "3511121"
+        ],
+        "char_code_wubi": "efg",
+        "char_code_cangjie": "bg",
+        "char_code_zhengma": "qbvv",
+        "char_code_sijiao": "74210"
+    },
+    "general_unicode": "基本区 U+809A",
+    "general_bs_code": "3511121"
+}

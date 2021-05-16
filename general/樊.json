@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a railing; a fence an enclosed place"
+        },
+        {
+            "language": "法语",
+            "explanation": "haie,clôture"
+        }
+    ],
+    "general_pinyins": [
+        "fán"
+    ],
+    "general_zhuyins": [
+        "ㄈㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "11",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "棥",
+        "𤕩"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6A0A",
+            "123434341234134"
+        ],
+        "char_code_wubi": "sqqd|srrd",
+        "char_code_cangjie": "ddk",
+        "char_code_zhengma": "fofg",
+        "char_code_sijiao": "44804"
+    },
+    "general_unicode": "基本区 U+6A0A",
+    "general_bs_code": "123434341234134"
+}

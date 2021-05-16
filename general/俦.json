@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "companion, mate, colleague"
+        },
+        {
+            "language": "德语",
+            "explanation": "Intimus, Gefährte, Gefährtin"
+        },
+        {
+            "language": "法语",
+            "explanation": "associés,gens de même sorte,compagnon,camarade"
+        }
+    ],
+    "general_pinyins": [
+        "chóu"
+    ],
+    "general_zhuyins": [
+        "ㄔㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "儔"
+    ],
+    "general_ytz": [
+        "儔",
+        "𠍻",
+        "𡕑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4FE6",
+            "321113124"
+        ],
+        "char_code_wubi": "wdtf",
+        "char_code_cangjie": "oqki",
+        "char_code_zhengma": "ncds",
+        "char_code_sijiao": "25240"
+    },
+    "general_unicode": "基本区 U+4FE6",
+    "general_bs_code": "321113124"
+}

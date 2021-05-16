@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a fly which is used similarly to cantharides"
+        },
+        {
+            "language": "德语",
+            "explanation": "spanische Fliege"
+        },
+        {
+            "language": "法语",
+            "explanation": "mouche espagnole,larve mangeuse de grain"
+        }
+    ],
+    "general_pinyins": [
+        "máo"
+    ],
+    "general_zhuyins": [
+        "ㄇㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "11",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䖥",
+        "侔",
+        "蛑",
+        "蝥",
+        "𧎻",
+        "𧐘",
+        "𧓿",
+        "𧔨",
+        "𧕑"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "87CA",
+            "54523251214251214"
+        ],
+        "char_code_wubi": "cbtj|cnhj",
+        "char_code_cangjie": "nhlii",
+        "char_code_zhengma": "xsii",
+        "char_code_sijiao": "17136"
+    },
+    "general_unicode": "基本区 U+87CA",
+    "general_bs_code": "54523251214251214"
+}

@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(a dialect) to engrave"
+        }
+    ],
+    "general_pinyins": [
+        "yì",
+        "chì"
+    ],
+    "general_zhuyins": [
+        "ㄧˋ",
+        "ㄔˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "345C",
+            "321213312"
+        ],
+        "char_code_wubi": "wrrh",
+        "char_code_cangjie": "oqhl",
+        "char_code_zhengma": "ndpd",
+        "char_code_sijiao": "22221"
+    },
+    "general_unicode": "扩展A U+345C",
+    "general_bs_code": "321213312"
+}

@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "baste"
+        },
+        {
+            "language": "德语",
+            "explanation": "verprügeln  (V)"
+        }
+    ],
+    "general_pinyins": [
+        "háng"
+    ],
+    "general_zhuyins": [
+        "ㄏㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "絎"
+    ],
+    "general_ytz": [
+        "絎",
+        "裄"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7ED7",
+            "551332112"
+        ],
+        "char_code_wubi": "xtfh|xtgs",
+        "char_code_cangjie": "vmhon",
+        "char_code_zhengma": "zoi",
+        "char_code_sijiao": "21121"
+    },
+    "general_unicode": "基本区 U+7ED7",
+    "general_bs_code": "551332112"
+}

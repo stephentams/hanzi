@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hemp, jute, flax; sesame"
+        },
+        {
+            "language": "德语",
+            "explanation": "Anästhesie  (S, Med)​,beschäftigen, ärgern  (S)​,Hanf  (S)​,prickeln, taub werden  (V)​,betäubt, empfindungslos  (Adj)​,uneben, rauh, pockenartig  (Adj)​,Radikal Nr. 200 = Hanf, Flachs, Jute, Sesam  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "rude,rugueux,grêlé,picotement,sésame,chanvre,lin"
+        }
+    ],
+    "general_pinyins": [
+        "má"
+    ],
+    "general_zhuyins": [
+        "ㄇㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "麻",
+        "non_radical_sn": "0",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "痳",
+        "蔴",
+        "𣏟",
+        "𣑼",
+        "𦲬"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9EBB",
+            "41312341234"
+        ],
+        "char_code_wubi": "yssi|ossi",
+        "char_code_cangjie": "idd",
+        "char_code_zhengma": "tgff",
+        "char_code_sijiao": "00294"
+    },
+    "general_unicode": "基本区 U+9EBB",
+    "general_bs_code": "41312341234"
+}

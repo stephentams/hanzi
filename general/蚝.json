@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hairy and poisonous caterpillars"
+        }
+    ],
+    "general_pinyins": [
+        "háo",
+        "cì"
+    ],
+    "general_zhuyins": [
+        "ㄏㄠˊ",
+        "ㄘˋ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "蛓",
+        "蠔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "869D",
+            "2512143115"
+        ],
+        "char_code_wubi": "jtfn|jen",
+        "char_code_cangjie": "lihqu",
+        "char_code_zhengma": "imh",
+        "char_code_sijiao": "52114"
+    },
+    "general_unicode": "基本区 U+869D",
+    "general_bs_code": "2512143115"
+}

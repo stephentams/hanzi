@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a big jar; a big basin"
+        }
+    ],
+    "general_pinyins": [
+        "hǎn",
+        "jiàn",
+        "xiàn"
+    ],
+    "general_zhuyins": [
+        "ㄏㄢˇ",
+        "ㄐㄧㄢˋ",
+        "ㄒㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "瓦",
+        "non_radical_sn": "14",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦉞"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3F49",
+            "125125314252211554"
+        ],
+        "char_code_wubi": "ahnn|ahny",
+        "char_code_cangjie": "swmvn",
+        "char_code_zhengma": "hmys",
+        "char_code_sijiao": "78717"
+    },
+    "general_unicode": "扩展A U+3F49",
+    "general_bs_code": "125125314252211554"
+}

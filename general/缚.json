@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to tie"
+        },
+        {
+            "language": "法语",
+            "explanation": "lier,attacher"
+        }
+    ],
+    "general_pinyins": [
+        "fù"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "縛"
+    ],
+    "general_ytz": [
+        "縛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F1A",
+            "5511251124124"
+        ],
+        "char_code_wubi": "xgef|xsfy",
+        "char_code_cangjie": "vmibi",
+        "char_code_zhengma": "zfds",
+        "char_code_sijiao": "23142"
+    },
+    "general_unicode": "基本区 U+7F1A",
+    "general_bs_code": "5511251124124"
+}

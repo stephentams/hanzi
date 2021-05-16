@@ -1,0 +1,58 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "load; carry; transport, convey"
+        },
+        {
+            "language": "德语",
+            "explanation": "Jahr; befördern , etw. befördern, mit etw. beladen sein  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "année,enregistrer par écrit,porter (navire, charrette)​,contenir,charger, noter"
+        }
+    ],
+    "general_pinyins": [
+        "zǎi",
+        "zài"
+    ],
+    "general_zhuyins": [
+        "ㄗㄞˇ",
+        "ㄗㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "车",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "載"
+    ],
+    "general_ytz": [
+        "載",
+        "縡",
+        "𠁘",
+        "𠧋",
+        "𡔬",
+        "𡕀",
+        "𡙚",
+        "𤱱",
+        "𨊦",
+        "𨌏",
+        "𩖘"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8F7D",
+            "1211521534"
+        ],
+        "char_code_wubi": "falk|fald",
+        "char_code_cangjie": "jikq",
+        "char_code_zhengma": "ehhe",
+        "char_code_sijiao": "43550"
+    },
+    "general_unicode": "基本区 U+8F7D",
+    "general_bs_code": "1211521534"
+}

@@ -1,0 +1,59 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "examine, investigate; delay"
+        },
+        {
+            "language": "德语",
+            "explanation": "kontrollieren, untersuchen, überprüfen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "vérifier,examiner,différer,retarder,s'incliner face contre terre"
+        }
+    ],
+    "general_pinyins": [
+        "jī",
+        "qǐ"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧ",
+        "ㄑㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "10",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "乩",
+        "䭫",
+        "䭬",
+        "卟",
+        "𥞞",
+        "𥟵",
+        "𥠻",
+        "𥡞",
+        "𥡳",
+        "𥡴",
+        "𩠜",
+        "𩠥",
+        "𩠦",
+        "𩠨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7A3D",
+            "312341354352511"
+        ],
+        "char_code_wubi": "tdnj",
+        "char_code_cangjie": "hdiua",
+        "char_code_zhengma": "mfrk",
+        "char_code_sijiao": "23961"
+    },
+    "general_unicode": "基本区 U+7A3D",
+    "general_bs_code": "312341354352511"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "an excellent horse"
+        },
+        {
+            "language": "德语",
+            "explanation": "Brauner (Pferd mit rötlich braunem Fell)​  (S, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cheval alezan"
+        }
+    ],
+    "general_pinyins": [
+        "huá"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "马",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "驊"
+    ],
+    "general_ytz": [
+        "驊",
+        "𩤉",
+        "𩦰"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A85",
+            "551323512"
+        ],
+        "char_code_wubi": "cwxf|cgwf",
+        "char_code_cangjie": "nmopj",
+        "char_code_zhengma": "xnre",
+        "char_code_sijiao": "74141"
+    },
+    "general_unicode": "基本区 U+9A85",
+    "general_bs_code": "551323512"
+}

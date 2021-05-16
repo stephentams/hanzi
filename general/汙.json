@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "filthy, dirty, impure, polluted"
+        }
+    ],
+    "general_pinyins": [
+        "wū"
+    ],
+    "general_zhuyins": [
+        "ㄨ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䵦",
+        "汅",
+        "汚",
+        "污",
+        "洿",
+        "涴",
+        "𣱴",
+        "𣴰",
+        "𣽏",
+        "𥁡"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6C59",
+            "441112"
+        ],
+        "char_code_wubi": "igfh",
+        "char_code_cangjie": "emd",
+        "char_code_zhengma": "vad",
+        "char_code_sijiao": "31140"
+    },
+    "general_unicode": "基本区 U+6C59",
+    "general_bs_code": "441112"
+}

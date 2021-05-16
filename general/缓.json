@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "slow, leisurely; to postpone, delay"
+        },
+        {
+            "language": "德语",
+            "explanation": "faul, träge ,verschieben, aufschieben"
+        },
+        {
+            "language": "法语",
+            "explanation": "retarder,se rétablir,modérer,lent,doux"
+        }
+    ],
+    "general_pinyins": [
+        "huǎn"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "緩"
+    ],
+    "general_ytz": [
+        "緩",
+        "𦅻",
+        "𦇻"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F13",
+            "551344311354"
+        ],
+        "char_code_wubi": "xefc|xegc",
+        "char_code_cangjie": "vmbme",
+        "char_code_zhengma": "zpgx",
+        "char_code_sijiao": "22147"
+    },
+    "general_unicode": "基本区 U+7F13",
+    "general_bs_code": "551344311354"
+}

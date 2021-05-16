@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to come; to go out"
+        }
+    ],
+    "general_pinyins": [
+        "gǔ"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "人",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "34B4",
+            "3452252"
+        ],
+        "char_code_wubi": "tybm",
+        "char_code_cangjie": "ouu",
+        "char_code_zhengma": "odaz",
+        "char_code_sijiao": "80772"
+    },
+    "general_unicode": "扩展A U+34B4",
+    "general_bs_code": "3452252"
+}

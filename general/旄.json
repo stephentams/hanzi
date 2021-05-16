@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a kind of ancient flag; old"
+        },
+        {
+            "language": "德语",
+            "explanation": "Banner ( dekoriert mit Rinderschwanzhaaren)​ ,Fahne mit Tierschweif ,bejahrt, gealtert"
+        },
+        {
+            "language": "法语",
+            "explanation": "queue de yack servant d'étendard"
+        }
+    ],
+    "general_pinyins": [
+        "máo",
+        "mào"
+    ],
+    "general_zhuyins": [
+        "ㄇㄠˊ",
+        "ㄇㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "方",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "嵍",
+        "𣭅",
+        "耄",
+        "𣬵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "65C4",
+            "4153313115"
+        ],
+        "char_code_wubi": "yttn|yten",
+        "char_code_cangjie": "ysohu",
+        "char_code_zhengma": "symm",
+        "char_code_sijiao": "08214"
+    },
+    "general_unicode": "基本区 U+65C4",
+    "general_bs_code": "4153313115"
+}

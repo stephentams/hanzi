@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(standard form of 喉) the throat; the gullet; guttural"
+        }
+    ],
+    "general_pinyins": [
+        "hóu"
+    ],
+    "general_zhuyins": [
+        "ㄏㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "喉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "35CB",
+            "251351331134"
+        ],
+        "char_code_wubi": "kqdd",
+        "char_code_cangjie": "rnmk",
+        "char_code_zhengma": "jrgm",
+        "char_code_sijiao": "67084"
+    },
+    "general_unicode": "扩展A U+35CB",
+    "general_bs_code": "251351331134"
+}

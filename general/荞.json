@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "buckwheat"
+        },
+        {
+            "language": "德语",
+            "explanation": "Buchweizen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "sarrasin,blé noir"
+        }
+    ],
+    "general_pinyins": [
+        "qiáo"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "蕎"
+    ],
+    "general_ytz": [
+        "蕎",
+        "𪍷"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "835E",
+            "122313432"
+        ],
+        "char_code_wubi": "atdj",
+        "char_code_cangjie": "thkl",
+        "char_code_zhengma": "emgn",
+        "char_code_sijiao": "44228"
+    },
+    "general_unicode": "基本区 U+835E",
+    "general_bs_code": "122313432"
+}

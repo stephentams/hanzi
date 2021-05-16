@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "齒",
+        "non_radical_sn": "10",
+        "total_sn": "25"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "齛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2A65A",
+            "21213434134345221251225251"
+        ],
+        "char_code_wubi": "HBHK",
+        "char_code_cangjie": "yuybb",
+        "char_code_zhengma": "ioil"
+    },
+    "general_unicode": "扩展B U+2A65A",
+    "general_bs_code": "21213434134345221251225251"
+}

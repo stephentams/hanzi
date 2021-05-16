@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "steep bank, rough terrain"
+        },
+        {
+            "language": "德语",
+            "explanation": "Abhang  (S)​,Steilufer  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(phonétique)​,pente,berge"
+        }
+    ],
+    "general_pinyins": [
+        "tuó"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "坨",
+        "阤",
+        "陁",
+        "𨹔",
+        "𨹕",
+        "𥞒"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9640",
+            "5244535"
+        ],
+        "char_code_wubi": "bpxn",
+        "char_code_cangjie": "nljp",
+        "char_code_zhengma": "ywrr",
+        "char_code_sijiao": "73212"
+    },
+    "general_unicode": "基本区 U+9640",
+    "general_bs_code": "5244535"
+}

@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ceremony, rites gifts; admire"
+        },
+        {
+            "language": "德语",
+            "explanation": "Apparat  (S)​,Bräuche  (S)​,Erscheinung  (S)​,derzeitig, gegenwärtig  (Adj)​,Yi  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cérémonie,appareil"
+        }
+    ],
+    "general_pinyins": [
+        "yí"
+    ],
+    "general_zhuyins": [
+        "ㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "13",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "仪"
+    ],
+    "general_ytz": [
+        "仪",
+        "義",
+        "𥪺",
+        "𥫃"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5100",
+            "324311213121534"
+        ],
+        "char_code_wubi": "wugt|wugy",
+        "char_code_cangjie": "otgi",
+        "char_code_zhengma": "numh",
+        "char_code_sijiao": "28253"
+    },
+    "general_unicode": "基本区 U+5100",
+    "general_bs_code": "324311213121534"
+}

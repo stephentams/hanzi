@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "land impregnated with salt from the tide"
+        },
+        {
+            "language": "法语",
+            "explanation": "terres salines,marais salant"
+        }
+    ],
+    "general_pinyins": [
+        "xì"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "澙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6F5F",
+            "441321511354444"
+        ],
+        "char_code_wubi": "ivqo|ieqo",
+        "char_code_cangjie": "ehxf",
+        "char_code_zhengma": "vnru",
+        "char_code_sijiao": "37127"
+    },
+    "general_unicode": "基本区 U+6F5F",
+    "general_bs_code": "441321511354444"
+}

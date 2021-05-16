@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "narrow, confined; a strategic pass"
+        },
+        {
+            "language": "法语",
+            "explanation": "étroit,défilé,passage difficile,confiné,en détresse"
+        }
+    ],
+    "general_pinyins": [
+        "ài"
+    ],
+    "general_zhuyins": [
+        "ㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "10",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "阸",
+        "塧",
+        "阨",
+        "𨻹",
+        "𨽈",
+        "𨽝",
+        "𨽩",
+        "𨽪",
+        "𨽴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9698",
+            "524313425221"
+        ],
+        "char_code_wubi": "buwl",
+        "char_code_cangjie": "nltct",
+        "char_code_zhengma": "yuol",
+        "char_code_sijiao": "78212"
+    },
+    "general_unicode": "基本区 U+9698",
+    "general_bs_code": "524313425221"
+}

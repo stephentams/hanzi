@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "compete, contend; contest, race"
+        },
+        {
+            "language": "德语",
+            "explanation": "Wettkampf, übertreffen, Spiel (mitmachen)​  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "concourir,rivaliser,surpasser,compétition,match"
+        }
+    ],
+    "general_pinyins": [
+        "sài"
+    ],
+    "general_zhuyins": [
+        "ㄙㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "賽"
+    ],
+    "general_ytz": [
+        "賽",
+        "𡧳"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D5B",
+            "44511221342534"
+        ],
+        "char_code_wubi": "pfjm|pawm",
+        "char_code_cangjie": "jtco",
+        "char_code_zhengma": "wdol",
+        "char_code_sijiao": "30802"
+    },
+    "general_unicode": "基本区 U+8D5B",
+    "general_bs_code": "44511221342534"
+}

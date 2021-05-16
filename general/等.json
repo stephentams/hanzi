@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rank, grade; wait; equal; 'etc.'"
+        },
+        {
+            "language": "德语",
+            "explanation": "Klasse, Rang, Grad  (S)​,(auf etwas oder jemanden)​ warten  (V)​,gleich wie, gleichermaßen, identisch  (Adv)"
+        },
+        {
+            "language": "法语",
+            "explanation": "classe,échelon,etc.,et autres,égal,attendre"
+        }
+    ],
+    "general_pinyins": [
+        "děng"
+    ],
+    "general_zhuyins": [
+        "ㄉㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "6",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䒭",
+        "䓁",
+        "𠚤",
+        "𡬝",
+        "𡬦",
+        "𢌭"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7B49",
+            "314314121124"
+        ],
+        "char_code_wubi": "tffu",
+        "char_code_cangjie": "hgdi",
+        "char_code_zhengma": "mbds",
+        "char_code_sijiao": "88341"
+    },
+    "general_unicode": "基本区 U+7B49",
+    "general_bs_code": "314314121124"
+}

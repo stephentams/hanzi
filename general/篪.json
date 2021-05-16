@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "法语",
+            "explanation": "a bamboo flute with?eight holes"
+        }
+    ],
+    "general_pinyins": [
+        "chí"
+    ],
+    "general_zhuyins": [
+        "ㄔˊ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "10",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䶵",
+        "竾",
+        "筂",
+        "箎",
+        "𥬌",
+        "𥰽",
+        "𪛍",
+        "𪛔",
+        "𪛌"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7BEA",
+            "3143143321531535"
+        ],
+        "char_code_wubi": "trhm|trhw",
+        "char_code_cangjie": "hhyn",
+        "char_code_zhengma": "mpih",
+        "char_code_sijiao": "88217"
+    },
+    "general_unicode": "基本区 U+7BEA",
+    "general_bs_code": "3143143321531535"
+}

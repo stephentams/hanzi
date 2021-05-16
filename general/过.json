@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pass, pass through, go across"
+        },
+        {
+            "language": "德语",
+            "explanation": "Verbsuffix des experientiellen Aspekts ,Verbalpartikel: Aspekt der unbestimmten Vergangenheit  (S)​,Vergehen, Fehler  (S)​,vergehen, verbringen, verleben  (V)​,vorbeigehen (an)​, passieren, überqueren  (V)​,nach, später  (Adv)​,Guo  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "traverser,passer (du temps)​,(utilisé après le verbe pour indiquer une action passée)​"
+        }
+    ],
+    "general_pinyins": [
+        "guò",
+        "guo",
+        "guō"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄛˋ",
+        "ㄍㄨㄛ",
+        "ㄍㄨㄛ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "過"
+    ],
+    "general_ytz": [
+        "過",
+        "𨒵",
+        "𨓺"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8FC7",
+            "124454"
+        ],
+        "char_code_wubi": "fpi",
+        "char_code_cangjie": "ydi",
+        "char_code_zhengma": "dsw",
+        "char_code_sijiao": "34300"
+    },
+    "general_unicode": "基本区 U+8FC7",
+    "general_bs_code": "124454"
+}

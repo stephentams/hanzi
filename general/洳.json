@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "damp, boggy, marshy"
+        },
+        {
+            "language": "德语",
+            "explanation": "feucht, dustig, sumpfig  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "humide,marécageux"
+        }
+    ],
+    "general_pinyins": [
+        "rù"
+    ],
+    "general_zhuyins": [
+        "ㄖㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣹤"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6D33",
+            "441531251"
+        ],
+        "char_code_wubi": "ivkg",
+        "char_code_cangjie": "evr",
+        "char_code_zhengma": "vzj",
+        "char_code_sijiao": "36100"
+    },
+    "general_unicode": "基本区 U+6D33",
+    "general_bs_code": "441531251"
+}

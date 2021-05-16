@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "membrane lining inside of reed"
+        },
+        {
+            "language": "法语",
+            "explanation": "chaume,épiderme,union intime"
+        }
+    ],
+    "general_pinyins": [
+        "fú",
+        "piǎo"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˊ",
+        "ㄆㄧㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠬪",
+        "殍"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "83A9",
+            "1223443521"
+        ],
+        "char_code_wubi": "aebf",
+        "char_code_cangjie": "tbnd",
+        "char_code_zhengma": "epya",
+        "char_code_sijiao": "44407"
+    },
+    "general_unicode": "基本区 U+83A9",
+    "general_bs_code": "1223443521"
+}

@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sound of horn tooting"
+        },
+        {
+            "language": "法语",
+            "explanation": "(bruit de klaxon)​"
+        }
+    ],
+    "general_pinyins": [
+        "dū"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "561F",
+            "2511213251152"
+        ],
+        "char_code_wubi": "kftb",
+        "char_code_cangjie": "rjal",
+        "char_code_zhengma": "jby",
+        "char_code_sijiao": "67027"
+    },
+    "general_unicode": "基本区 U+561F",
+    "general_bs_code": "2511213251152"
+}

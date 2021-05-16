@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "衣",
+        "non_radical_sn": "24",
+        "total_sn": "30"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "襲"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "277DB",
+            "414313215115414313215115413534"
+        ],
+        "char_code_wubi": "uvne",
+        "char_code_cangjie": "yuyhv",
+        "char_code_zhengma": "susr"
+    },
+    "general_unicode": "扩展B U+277DB",
+    "general_bs_code": "414313215115414313215115413534"
+}

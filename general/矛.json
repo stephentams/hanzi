@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "spear, lance; KangXi radical 110"
+        },
+        {
+            "language": "德语",
+            "explanation": "Speer, Lanze  (S)​,aufspießen, durchbohren  (V)​,Radikal Nr. 110 = Lanze, Speer"
+        },
+        {
+            "language": "法语",
+            "explanation": "pique,lance"
+        }
+    ],
+    "general_pinyins": [
+        "máo"
+    ],
+    "general_zhuyins": [
+        "ㄇㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "矛",
+        "non_radical_sn": "0",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "鉾",
+        "𢦧",
+        "𢦵",
+        "𢧟",
+        "𥍤",
+        "𥍥",
+        "𥎠",
+        "𨥨",
+        "𨦜"
+    ],
+    "general_structure": "右上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "77DB",
+            "54523"
+        ],
+        "char_code_wubi": "cbtr|cnht",
+        "char_code_cangjie": "ninh",
+        "char_code_zhengma": "xsim",
+        "char_code_sijiao": "17222"
+    },
+    "general_unicode": "基本区 U+77DB",
+    "general_bs_code": "54523"
+}

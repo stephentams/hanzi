@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "countenance, appearance"
+        },
+        {
+            "language": "德语",
+            "explanation": "Aussehen, Erscheinung  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "figure,apparence"
+        }
+    ],
+    "general_pinyins": [
+        "mào"
+    ],
+    "general_zhuyins": [
+        "ㄇㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "豸",
+        "non_radical_sn": "7",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㒵",
+        "㹸",
+        "䫉",
+        "皃",
+        "貇",
+        "邈",
+        "𧳒",
+        "𧳓",
+        "𧳖",
+        "𨉍",
+        "𨓅"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C8C",
+            "34435333251135"
+        ],
+        "char_code_wubi": "eerq|erqn",
+        "char_code_cangjie": "bhhau",
+        "char_code_zhengma": "pqnr",
+        "char_code_sijiao": "26212"
+    },
+    "general_unicode": "基本区 U+8C8C",
+    "general_bs_code": "34435333251135"
+}

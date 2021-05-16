@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "public building"
+        },
+        {
+            "language": "德语",
+            "explanation": "Laden, Geschäft, Restaurant  (S)​,Sitz einer diplomatischen Vertretung ( z.B. Botschaft, Konsulat etc.)​  (S)​,Stätte für kulturelle Aktivtät ( z.B. Museum, Austellungshalle, Konzethalle, Bibliothek etc. )​  (S)​,Unterkunft für Gäste ( z.B. Hotel, Pension. Gästehaus, etc. )​  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "hôtel,palais,musée,maison,restaurant"
+        }
+    ],
+    "general_pinyins": [
+        "guǎn"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "饣",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "館"
+    ],
+    "general_ytz": [
+        "館",
+        "舘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9986",
+            "35544525151"
+        ],
+        "char_code_wubi": "qnpn",
+        "char_code_cangjie": "nvjrr",
+        "char_code_zhengma": "oxwy",
+        "char_code_sijiao": "23777"
+    },
+    "general_unicode": "基本区 U+9986",
+    "general_bs_code": "35544525151"
+}

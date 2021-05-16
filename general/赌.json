@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bet, gamble, wager; compete"
+        },
+        {
+            "language": "德语",
+            "explanation": "Glücksspiel, um Geld spielen"
+        },
+        {
+            "language": "法语",
+            "explanation": "parier,jeu d'argent,pari"
+        }
+    ],
+    "general_pinyins": [
+        "dǔ"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "賭"
+    ],
+    "general_ytz": [
+        "賭",
+        "𧶴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D4C",
+            "253412132511"
+        ],
+        "char_code_wubi": "mftj",
+        "char_code_cangjie": "bojka",
+        "char_code_zhengma": "lobm",
+        "char_code_sijiao": "74860"
+    },
+    "general_unicode": "基本区 U+8D4C",
+    "general_bs_code": "253412132511"
+}

@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "male of species; hero; manly"
+        },
+        {
+            "language": "德语",
+            "explanation": "heldenhaft (Adj)​,männlich (Adj)​,Xiong (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "mâle,grand,grandiose,puissant"
+        }
+    ],
+    "general_pinyins": [
+        "xióng"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "隹",
+        "non_radical_sn": "4",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䧺",
+        "𩿅"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "96C4",
+            "135432411121"
+        ],
+        "char_code_wubi": "dcwy",
+        "char_code_cangjie": "kiog",
+        "char_code_zhengma": "gdzn",
+        "char_code_sijiao": "40715"
+    },
+    "general_unicode": "基本区 U+96C4",
+    "general_bs_code": "135432411121"
+}

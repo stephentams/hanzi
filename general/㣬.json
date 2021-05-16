@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to walk"
+        }
+    ],
+    "general_pinyins": [
+        "qì"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "彳",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢕃"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "38EC",
+            "332251122111"
+        ],
+        "char_code_wubi": "tkbg",
+        "char_code_cangjie": "horsj",
+        "char_code_zhengma": "oijc",
+        "char_code_sijiao": "26241"
+    },
+    "general_unicode": "扩展A U+38EC",
+    "general_bs_code": "332251122111"
+}

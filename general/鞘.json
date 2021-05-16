@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "scabbard, sheath"
+        },
+        {
+            "language": "德语",
+            "explanation": "Degenscheide, Scheide, Futteral  (S)​,Hülse  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "fourreau,gaine"
+        }
+    ],
+    "general_pinyins": [
+        "qiào",
+        "shāo"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄠˋ",
+        "ㄕㄠ"
+    ],
+    "general_radical": {
+        "radical": "革",
+        "non_radical_sn": "7",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "削",
+        "箾",
+        "鞩",
+        "韒",
+        "𤿨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9798",
+            "1221251122432511"
+        ],
+        "char_code_wubi": "afie",
+        "char_code_cangjie": "tjfb",
+        "char_code_zhengma": "eekq",
+        "char_code_sijiao": "49527"
+    },
+    "general_unicode": "基本区 U+9798",
+    "general_bs_code": "1221251122432511"
+}

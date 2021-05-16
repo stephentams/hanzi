@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "diagram; chart, map, picture"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bild, Abbild"
+        },
+        {
+            "language": "法语",
+            "explanation": "carte (géographie)​,dessin,plan,projeter,désirer,compter sur,calculer,canton"
+        }
+    ],
+    "general_pinyins": [
+        "tú"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "囗",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "圖"
+    ],
+    "general_ytz": [
+        "圖",
+        "図",
+        "圗",
+        "𠚎",
+        "𡇩",
+        "𡇫",
+        "𡇴",
+        "𡈖"
+    ],
+    "general_structure": "全包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "56FE",
+            "25354441"
+        ],
+        "char_code_wubi": "ltui",
+        "char_code_cangjie": "whey",
+        "char_code_zhengma": "jdrt",
+        "char_code_sijiao": "60303"
+    },
+    "general_unicode": "基本区 U+56FE",
+    "general_bs_code": "25354441"
+}

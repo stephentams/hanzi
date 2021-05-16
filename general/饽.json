@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ferrule"
+        },
+        {
+            "language": "法语",
+            "explanation": "gâteau,biscuit,petit pain"
+        }
+    ],
+    "general_pinyins": [
+        "bō"
+    ],
+    "general_zhuyins": [
+        "ㄅㄛ"
+    ],
+    "general_radical": {
+        "radical": "饣",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "餑"
+    ],
+    "general_ytz": [
+        "餑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "997D",
+            "3551245521"
+        ],
+        "char_code_wubi": "qnfb",
+        "char_code_cangjie": "nvjbd",
+        "char_code_zhengma": "oxwy",
+        "char_code_sijiao": "24747"
+    },
+    "general_unicode": "基本区 U+997D",
+    "general_bs_code": "3551245521"
+}

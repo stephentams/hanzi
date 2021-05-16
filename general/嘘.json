@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "exhale; blow out; deep sigh; hiss; praise"
+        },
+        {
+            "language": "德语",
+            "explanation": "pst!  (Int)​,fauchen, zischen"
+        },
+        {
+            "language": "法语",
+            "explanation": "souffle"
+        }
+    ],
+    "general_pinyins": [
+        "xū",
+        "shī"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩ",
+        "ㄕ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "噓"
+    ],
+    "general_ytz": [
+        "噓",
+        "𡃧"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5618",
+            "25121531522431"
+        ],
+        "char_code_wubi": "khag|khog",
+        "char_code_cangjie": "rypc",
+        "char_code_zhengma": "jiku",
+        "char_code_sijiao": "61012"
+    },
+    "general_unicode": "基本区 U+5618",
+    "general_bs_code": "25121531522431"
+}

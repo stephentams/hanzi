@@ -1,0 +1,31 @@
+{
+    "general_pinyins": [
+        "wù",
+        "máo"
+    ],
+    "general_zhuyins": [
+        "ㄨˋ",
+        "ㄇㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "嵍"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "21ED2",
+            "5452335453252"
+        ],
+        "char_code_wubi": "cbtm",
+        "char_code_cangjie": "nsu",
+        "char_code_zhengma": "xsyl"
+    },
+    "general_unicode": "扩展B U+21ED2",
+    "general_bs_code": "5452335453252"
+}

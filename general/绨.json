@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "coarse pongee, kind of heavy silk"
+        },
+        {
+            "language": "法语",
+            "explanation": "taffetas de soie noir verdâtre et grossier"
+        }
+    ],
+    "general_pinyins": [
+        "tí",
+        "tì"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧˊ",
+        "ㄊㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "綈"
+    ],
+    "general_ytz": [
+        "綈"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EE8",
+            "5514351523"
+        ],
+        "char_code_wubi": "xuxt",
+        "char_code_cangjie": "vmcnh",
+        "char_code_zhengma": "zuyz",
+        "char_code_sijiao": "28127"
+    },
+    "general_unicode": "基本区 U+7EE8",
+    "general_bs_code": "5514351523"
+}

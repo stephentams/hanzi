@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "host banquet; banquet"
+        },
+        {
+            "language": "法语",
+            "explanation": "offrir,régaler"
+        }
+    ],
+    "general_pinyins": [
+        "xiǎng"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "飠",
+        "non_radical_sn": "4",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "饗"
+    ],
+    "general_ytz": [
+        "饗"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "98E8",
+            "553344511534"
+        ],
+        "char_code_wubi": "xtwe|xtwv",
+        "char_code_cangjie": "vhoiv",
+        "char_code_zhengma": "zzox",
+        "char_code_sijiao": "28232"
+    },
+    "general_unicode": "基本区 U+98E8",
+    "general_bs_code": "553344511534"
+}

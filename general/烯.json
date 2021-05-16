@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "alkene"
+        },
+        {
+            "language": "德语",
+            "explanation": "Alken  (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "alcène,glorieux"
+        }
+    ],
+    "general_pinyins": [
+        "xī"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "晞"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "70EF",
+            "43343413252"
+        ],
+        "char_code_wubi": "oqdh|ordh",
+        "char_code_cangjie": "fkkb",
+        "char_code_zhengma": "uogl",
+        "char_code_sijiao": "94827"
+    },
+    "general_unicode": "基本区 U+70EF",
+    "general_bs_code": "43343413252"
+}

@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "reason, cause"
+        },
+        {
+            "language": "德语",
+            "explanation": "Zwangsarbeit  (S)​,bewirken, hervorrufen"
+        },
+        {
+            "language": "法语",
+            "explanation": "cause,comme,encore,suivre,florissant"
+        }
+    ],
+    "general_pinyins": [
+        "yáo",
+        "yóu",
+        "zhòu"
+    ],
+    "general_zhuyins": [
+        "ㄧㄠˊ",
+        "ㄧㄡˊ",
+        "ㄓㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "糸",
+        "non_radical_sn": "11",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦅸",
+        "䌛",
+        "䌊",
+        "蘨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7E47",
+            "34433112523554234"
+        ],
+        "char_code_wubi": "ermi|etfi",
+        "char_code_cangjie": "buhvf",
+        "char_code_zhengma": "pvmz",
+        "char_code_sijiao": "22793"
+    },
+    "general_unicode": "基本区 U+7E47",
+    "general_bs_code": "34433112523554234"
+}

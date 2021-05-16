@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "table"
+        }
+    ],
+    "general_pinyins": [
+        "tái"
+    ],
+    "general_zhuyins": [
+        "ㄊㄞˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "14",
+        "total_sn": "18"
+    },
+    "general_stc": [
+        "台"
+    ],
+    "general_ytz": [
+        "台",
+        "枱",
+        "柌"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6AAF",
+            "123412125145154121"
+        ],
+        "char_code_wubi": "sfkf",
+        "char_code_cangjie": "dgrg",
+        "char_code_zhengma": "fbwh",
+        "char_code_sijiao": "44914"
+    },
+    "general_unicode": "基本区 U+6AAF",
+    "general_bs_code": "123412125145154121"
+}

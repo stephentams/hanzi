@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rhinoceros; sharp, well-tempered"
+        },
+        {
+            "language": "德语",
+            "explanation": "Nashorn  (S, Bio)​,Rhinozeros (Rhinoceros unicornis)​  (S, Bio)​,Melonenschnitte  (S)​,scharf  (Adj)​,zäh  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "rhinocéros"
+        }
+    ],
+    "general_pinyins": [
+        "xī"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧ"
+    ],
+    "general_radical": {
+        "radical": "牛",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡥷",
+        "𡱝",
+        "𡳚",
+        "𤚌"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7280",
+            "513241343112"
+        ],
+        "char_code_wubi": "nirh|nitg",
+        "char_code_cangjie": "sehq",
+        "char_code_zhengma": "xmkm",
+        "char_code_sijiao": "77259"
+    },
+    "general_unicode": "基本区 U+7280",
+    "general_bs_code": "513241343112"
+}

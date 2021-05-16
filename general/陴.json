@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a parapet on a city wall"
+        },
+        {
+            "language": "德语",
+            "explanation": "Wall  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "parapet"
+        }
+    ],
+    "general_pinyins": [
+        "pī"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "裨",
+        "埤",
+        "𩫪",
+        "𩫫",
+        "𩫮",
+        "隦"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9674",
+            "5232511312"
+        ],
+        "char_code_wubi": "brtf",
+        "char_code_cangjie": "nlhwj",
+        "char_code_zhengma": "yned",
+        "char_code_sijiao": "76240"
+    },
+    "general_unicode": "基本区 U+9674",
+    "general_bs_code": "5232511312"
+}

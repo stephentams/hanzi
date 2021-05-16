@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "noisily; uproarious; troublesome"
+        }
+    ],
+    "general_pinyins": [
+        "xiōng"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄥ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "訩"
+    ],
+    "general_ytz": [
+        "訩"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BBB",
+            "453452"
+        ],
+        "char_code_wubi": "yqbh|yrbh",
+        "char_code_cangjie": "ivuk",
+        "char_code_zhengma": "sozi",
+        "char_code_sijiao": "32770"
+    },
+    "general_unicode": "基本区 U+8BBB",
+    "general_bs_code": "453452"
+}

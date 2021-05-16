@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "corridor, hallway; luxuriant"
+        },
+        {
+            "language": "德语",
+            "explanation": "Veranda  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "wǔ"
+    ],
+    "general_zhuyins": [
+        "ㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "广",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "庑"
+    ],
+    "general_ytz": [
+        "庑",
+        "𢇜",
+        "𢋑",
+        "𢋰",
+        "𢌋",
+        "甒"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5EE1",
+            "413311222214444"
+        ],
+        "char_code_wubi": "yrlo|otgo",
+        "char_code_cangjie": "iotf",
+        "char_code_zhengma": "tgeu",
+        "char_code_sijiao": "00231"
+    },
+    "general_unicode": "基本区 U+5EE1",
+    "general_bs_code": "413311222214444"
+}

@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "way, road, path, journey; course"
+        },
+        {
+            "language": "德语",
+            "explanation": "Straße  (S)​,Straßenrand  (S)​,Strecke  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "chemin,route"
+        }
+    ],
+    "general_pinyins": [
+        "tú"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "涂",
+        "澤",
+        "𠇊",
+        "𡒎",
+        "𣥳",
+        "𠆧"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9014",
+            "3411234454"
+        ],
+        "char_code_wubi": "wtpi|wgsp",
+        "char_code_cangjie": "yomd",
+        "char_code_zhengma": "odmw",
+        "char_code_sijiao": "38309"
+    },
+    "general_unicode": "基本区 U+9014",
+    "general_bs_code": "3411234454"
+}

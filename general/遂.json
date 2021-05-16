@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "comply with, follow along; thereupon"
+        },
+        {
+            "language": "德语",
+            "explanation": "gelingen, glücken  (V)​,zufriedenstellen, befriedigen  (V)​,unverzüglich, gleich danach  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "alors,satisfaire,exaucer,réussir"
+        }
+    ],
+    "general_pinyins": [
+        "suì"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㒸",
+        "𨒉",
+        "𨓸",
+        "𨔱",
+        "𨔲",
+        "𨽡"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9042",
+            "431353334454"
+        ],
+        "char_code_wubi": "uepi",
+        "char_code_cangjie": "ytpo",
+        "char_code_zhengma": "uagw",
+        "char_code_sijiao": "38303"
+    },
+    "general_unicode": "基本区 U+9042",
+    "general_bs_code": "431353334454"
+}

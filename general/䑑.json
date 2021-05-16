@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(ancient form of 僕) a servant, a modest term referring to oneself"
+        }
+    ],
+    "general_pinyins": [
+        "pú"
+    ],
+    "general_zhuyins": [
+        "ㄆㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "臣",
+        "non_radical_sn": "12",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "僕"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4451",
+            "125125224314311134"
+        ],
+        "char_code_wubi": "ahny|ahng",
+        "char_code_cangjie": "sltco",
+        "char_code_zhengma": "hkuc",
+        "char_code_sijiao": "72785"
+    },
+    "general_unicode": "扩展A U+4451",
+    "general_bs_code": "125125224314311134"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tame, docile, obedient"
+        },
+        {
+            "language": "德语",
+            "explanation": "domestizieren  (V, Agrar)​,dressieren, zähmen, bändigen, abrichten  (V)​,sanftmütig, zahm, gefügig, folgsam  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "apprivoiser,dompter"
+        }
+    ],
+    "general_pinyins": [
+        "xùn"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "马",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "馴"
+    ],
+    "general_ytz": [
+        "馴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A6F",
+            "551322"
+        ],
+        "char_code_wubi": "ckh|cgkh",
+        "char_code_cangjie": "nmlll",
+        "char_code_zhengma": "xnd",
+        "char_code_sijiao": "72100"
+    },
+    "general_unicode": "基本区 U+9A6F",
+    "general_bs_code": "551322"
+}

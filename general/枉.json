@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "useless, in vain; bent, crooked"
+        },
+        {
+            "language": "德语",
+            "explanation": "vergebens"
+        },
+        {
+            "language": "法语",
+            "explanation": "accuser injustement,calomnier,fausser,en vain,courbé,pervers"
+        }
+    ],
+    "general_pinyins": [
+        "wǎng"
+    ],
+    "general_zhuyins": [
+        "ㄨㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "抂",
+        "𢽃",
+        "𣒈"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6789",
+            "12341121"
+        ],
+        "char_code_wubi": "sgg",
+        "char_code_cangjie": "dmg",
+        "char_code_zhengma": "fcvv",
+        "char_code_sijiao": "41914"
+    },
+    "general_unicode": "基本区 U+6789",
+    "general_bs_code": "12341121"
+}

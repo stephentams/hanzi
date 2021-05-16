@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "respect, admire; respectful"
+        },
+        {
+            "language": "德语",
+            "explanation": "respektieren, achten  (V)​,königlich, fürstlich  (Adj)​,Qin  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "respecter,vénérer,impérial"
+        }
+    ],
+    "general_pinyins": [
+        "qīn"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄣ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "欽"
+    ],
+    "general_ytz": [
+        "欽",
+        "𣣽"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94A6",
+            "311153534"
+        ],
+        "char_code_wubi": "qqwy",
+        "char_code_cangjie": "opno",
+        "char_code_zhengma": "pro",
+        "char_code_sijiao": "87782"
+    },
+    "general_unicode": "基本区 U+94A6",
+    "general_bs_code": "311153534"
+}

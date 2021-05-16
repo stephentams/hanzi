@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mugwort, artemisia; give off"
+        },
+        {
+            "language": "德语",
+            "explanation": "Wermut  (S)​,Hao  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "armoise"
+        }
+    ],
+    "general_pinyins": [
+        "hāo"
+    ],
+    "general_zhuyins": [
+        "ㄏㄠ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦿣",
+        "稾"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "84BF",
+            "1224125125251"
+        ],
+        "char_code_wubi": "aymk",
+        "char_code_cangjie": "tyrb",
+        "char_code_zhengma": "esjl",
+        "char_code_sijiao": "44227"
+    },
+    "general_unicode": "基本区 U+84BF",
+    "general_bs_code": "1224125125251"
+}

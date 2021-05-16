@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "basket, bucket"
+        },
+        {
+            "language": "德语",
+            "explanation": "Eimer, Kübel  (S)​,Korb für Reis  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "seau,panier"
+        }
+    ],
+    "general_pinyins": [
+        "shāo"
+    ],
+    "general_zhuyins": [
+        "ㄕㄠ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "7",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䈰",
+        "𥳓"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7B72",
+            "3143142432511"
+        ],
+        "char_code_wubi": "tief",
+        "char_code_cangjie": "hfb",
+        "char_code_zhengma": "mkq",
+        "char_code_sijiao": "88227"
+    },
+    "general_unicode": "基本区 U+7B72",
+    "general_bs_code": "3143142432511"
+}

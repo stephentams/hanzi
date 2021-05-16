@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "curium"
+        },
+        {
+            "language": "德语",
+            "explanation": "Curium (Element 96, Cm)​ (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "agrafer,curium"
+        }
+    ],
+    "general_pinyins": [
+        "jū"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "鋦"
+    ],
+    "general_ytz": [
+        "鋦",
+        "𨦴",
+        "𨧙",
+        "𨨠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9514",
+            "311155135251"
+        ],
+        "char_code_wubi": "qnnk",
+        "char_code_cangjie": "opssr",
+        "char_code_zhengma": "pxyj",
+        "char_code_sijiao": "87727"
+    },
+    "general_unicode": "基本区 U+9514",
+    "general_bs_code": "311155135251"
+}

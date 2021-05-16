@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a wild cat; 猞猁, a lynx"
+        },
+        {
+            "language": "德语",
+            "explanation": "Luchs, Wildkatze  (S, Bio)"
+        }
+    ],
+    "general_pinyins": [
+        "shē"
+    ],
+    "general_zhuyins": [
+        "ㄕㄜ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "731E",
+            "35334112251"
+        ],
+        "char_code_wubi": "qtwk",
+        "char_code_cangjie": "khomr",
+        "char_code_zhengma": "qmom",
+        "char_code_sijiao": "48264"
+    },
+    "general_unicode": "基本区 U+731E",
+    "general_bs_code": "35334112251"
+}

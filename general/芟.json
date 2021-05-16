@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mow, cut; weed out; scythe"
+        },
+        {
+            "language": "德语",
+            "explanation": "mähen, abmähen"
+        },
+        {
+            "language": "法语",
+            "explanation": "faucher,tondre,désherber"
+        }
+    ],
+    "general_pinyins": [
+        "shān"
+    ],
+    "general_zhuyins": [
+        "ㄕㄢ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "829F",
+            "1223554"
+        ],
+        "char_code_wubi": "amcu|awcu",
+        "char_code_cangjie": "thne",
+        "char_code_zhengma": "eqx",
+        "char_code_sijiao": "44407"
+    },
+    "general_unicode": "基本区 U+829F",
+    "general_bs_code": "1223554"
+}

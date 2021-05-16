@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "法语",
+            "explanation": "early morning; 5th terrestrial branch"
+        }
+    ],
+    "general_pinyins": [
+        "chén"
+    ],
+    "general_zhuyins": [
+        "ㄔㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "辰",
+        "non_radical_sn": "0",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䢈",
+        "晨",
+        "曟",
+        "𠨱",
+        "𠨷",
+        "𠩟",
+        "𨑃",
+        "𨑄",
+        "𠩐",
+        "辰"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8FB0",
+            "1311534"
+        ],
+        "char_code_wubi": "dfei",
+        "char_code_cangjie": "mmmv",
+        "char_code_sijiao": "71232"
+    },
+    "general_unicode": "基本区 U+8FB0",
+    "general_bs_code": "1311534"
+}

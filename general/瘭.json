@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a whitlow"
+        },
+        {
+            "language": "法语",
+            "explanation": "panaris"
+        }
+    ],
+    "general_pinyins": [
+        "biāo"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "11",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤼄"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "762D",
+            "4134112522111234"
+        ],
+        "char_code_wubi": "usfi",
+        "char_code_cangjie": "kmwf",
+        "char_code_zhengma": "tfbk",
+        "char_code_sijiao": "00191"
+    },
+    "general_unicode": "基本区 U+762D",
+    "general_bs_code": "4134112522111234"
+}

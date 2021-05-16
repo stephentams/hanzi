@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "swell; swollen; swelling"
+        },
+        {
+            "language": "德语",
+            "explanation": "geschwollen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "enfler,gonfler"
+        }
+    ],
+    "general_pinyins": [
+        "zhǒng"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "肿"
+    ],
+    "general_ytz": [
+        "肿",
+        "穜"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "816B",
+            "3511312511211"
+        ],
+        "char_code_wubi": "etgf",
+        "char_code_cangjie": "bhjg",
+        "char_code_zhengma": "qmkb",
+        "char_code_sijiao": "72215"
+    },
+    "general_unicode": "基本区 U+816B",
+    "general_bs_code": "3511312511211"
+}

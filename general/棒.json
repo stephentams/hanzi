@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stick, club, truncheon; hit"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schläger, Stock; prima"
+        },
+        {
+            "language": "法语",
+            "explanation": "bon,fort,fortiche,balèze,excellent,merveilleux,super,bâton,barre"
+        }
+    ],
+    "general_pinyins": [
+        "bàng"
+    ],
+    "general_zhuyins": [
+        "ㄅㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㭋",
+        "棓",
+        "𣘙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "68D2",
+            "123411134112"
+        ],
+        "char_code_wubi": "sdwh|sdwg",
+        "char_code_cangjie": "dqkq",
+        "char_code_zhengma": "fcbi",
+        "char_code_sijiao": "45958"
+    },
+    "general_unicode": "基本区 U+68D2",
+    "general_bs_code": "123411134112"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "prison, jail; case; lawsuit"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gefängnis, Strafanstalt  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "prison"
+        }
+    ],
+    "general_pinyins": [
+        "yù"
+    ],
+    "general_zhuyins": [
+        "ㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "獄"
+    ],
+    "general_ytz": [
+        "獄",
+        "𡈭"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "72F1",
+            "353451344"
+        ],
+        "char_code_wubi": "qtyd",
+        "char_code_cangjie": "khivk",
+        "char_code_zhengma": "qmgs",
+        "char_code_sijiao": "43284"
+    },
+    "general_unicode": "基本区 U+72F1",
+    "general_bs_code": "353451344"
+}

@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "examine patient, diagnose"
+        },
+        {
+            "language": "德语",
+            "explanation": "ärztliche Untersuchung  (S)​,(einen Patienten)​ untersuchen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "diagnostiquer (une maladie)​,examiner,ausculter"
+        }
+    ],
+    "general_pinyins": [
+        "zhěn"
+    ],
+    "general_zhuyins": [
+        "ㄓㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "診"
+    ],
+    "general_ytz": [
+        "診",
+        "覙",
+        "𧠝",
+        "𧦜",
+        "𧦽",
+        "𧧂",
+        "𧭉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BCA",
+            "4534333"
+        ],
+        "char_code_wubi": "ywet",
+        "char_code_cangjie": "ivohh",
+        "char_code_zhengma": "sopd",
+        "char_code_sijiao": "38722"
+    },
+    "general_unicode": "基本区 U+8BCA",
+    "general_bs_code": "4534333"
+}

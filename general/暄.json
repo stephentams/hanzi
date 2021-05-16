@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "warm, comfortable; warm, genial"
+        },
+        {
+            "language": "法语",
+            "explanation": "tiède,chaleur"
+        }
+    ],
+    "general_pinyins": [
+        "xuān"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄢ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "暖",
+        "煊",
+        "煖",
+        "𣇥"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6684",
+            "2511445125111"
+        ],
+        "char_code_wubi": "jpgg",
+        "char_code_cangjie": "ajmm",
+        "char_code_zhengma": "kwbk",
+        "char_code_sijiao": "63016"
+    },
+    "general_unicode": "基本区 U+6684",
+    "general_bs_code": "2511445125111"
+}

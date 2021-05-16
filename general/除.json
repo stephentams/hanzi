@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "eliminate, remove, except"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 beseitigen, entfernen; dividieren, teilen  (V)"
+        }
+    ],
+    "general_pinyins": [
+        "chú"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠀺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9664",
+            "523411234"
+        ],
+        "char_code_wubi": "bwty|bwgs",
+        "char_code_cangjie": "nlomd",
+        "char_code_zhengma": "yomf",
+        "char_code_sijiao": "78294"
+    },
+    "general_unicode": "基本区 U+9664",
+    "general_bs_code": "523411234"
+}

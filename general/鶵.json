@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "chick, fledging; infant, toddler"
+        },
+        {
+            "language": "德语",
+            "explanation": "schick, Mäuschen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "oisillon,poussin"
+        }
+    ],
+    "general_pinyins": [
+        "chú"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "鳥",
+        "non_radical_sn": "10",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "雛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9DB5",
+            "355233552332511154444"
+        ],
+        "char_code_wubi": "qbto",
+        "char_code_cangjie": "puhaf",
+        "char_code_zhengma": "ryzr",
+        "char_code_sijiao": "27427"
+    },
+    "general_unicode": "基本区 U+9DB5",
+    "general_bs_code": "355233552332511154444"
+}

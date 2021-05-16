@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to cut in two, to slash"
+        }
+    ],
+    "general_pinyins": [
+        "jùn",
+        "ruǎn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄣˋ",
+        "ㄖㄨㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "刂",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠟺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "34F4",
+            "13252213422"
+        ],
+        "char_code_wubi": "dmjj",
+        "char_code_cangjie": "mkln",
+        "char_code_zhengma": "glgk",
+        "char_code_sijiao": "12800"
+    },
+    "general_unicode": "扩展A U+34F4",
+    "general_bs_code": "13252213422"
+}

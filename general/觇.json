@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "peek; spy on, watch; investigate"
+        },
+        {
+            "language": "法语",
+            "explanation": "observer,espionner"
+        }
+    ],
+    "general_pinyins": [
+        "chān"
+    ],
+    "general_zhuyins": [
+        "ㄔㄢ"
+    ],
+    "general_radical": {
+        "radical": "见",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "覘"
+    ],
+    "general_ytz": [
+        "覘",
+        "䀡",
+        "䦓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "89C7",
+            "212512535"
+        ],
+        "char_code_wubi": "hkmq",
+        "char_code_cangjie": "yrbhu",
+        "char_code_zhengma": "idjl",
+        "char_code_sijiao": "27612"
+    },
+    "general_unicode": "基本区 U+89C7",
+    "general_bs_code": "212512535"
+}

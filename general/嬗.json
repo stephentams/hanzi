@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "succession to the throne"
+        },
+        {
+            "language": "法语",
+            "explanation": "évolution,changement de succession"
+        }
+    ],
+    "general_pinyins": [
+        "shàn"
+    ],
+    "general_zhuyins": [
+        "ㄕㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "善",
+        "嬋",
+        "禪"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5B17",
+            "5314125251125111"
+        ],
+        "char_code_wubi": "vylg",
+        "char_code_cangjie": "vywm",
+        "char_code_zhengma": "zmka",
+        "char_code_sijiao": "40416"
+    },
+    "general_unicode": "基本区 U+5B17",
+    "general_bs_code": "5314125251125111"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "open up, unfold, stretch out; comfortable, easy"
+        },
+        {
+            "language": "德语",
+            "explanation": "entspannen, strecken, entfalten, gemächlich  (Adj)​,Shu  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "déployer,allonger,étendre,à l'aise,tranquille,nonchalant,lentement"
+        }
+    ],
+    "general_pinyins": [
+        "shū"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨ"
+    ],
+    "general_radical": {
+        "radical": "舌",
+        "non_radical_sn": "6",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "忬",
+        "紵",
+        "𨥤"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8212",
+            "341122515452"
+        ],
+        "char_code_wubi": "wfkb|wfkh",
+        "char_code_cangjie": "ornin",
+        "char_code_zhengma": "odxi",
+        "char_code_sijiao": "87622"
+    },
+    "general_unicode": "基本区 U+8212",
+    "general_bs_code": "341122515452"
+}

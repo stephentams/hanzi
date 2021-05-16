@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "interrogate, question"
+        },
+        {
+            "language": "德语",
+            "explanation": "verhören (Gefangene)​  (V, Mil)"
+        },
+        {
+            "language": "法语",
+            "explanation": "interroger,questionner"
+        }
+    ],
+    "general_pinyins": [
+        "jū"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩ"
+    ],
+    "general_radical": {
+        "radical": "革",
+        "non_radical_sn": "9",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "鞠",
+        "𡫭",
+        "諊",
+        "𥷚"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "97AB",
+            "122125112354111251"
+        ],
+        "char_code_wubi": "afqy",
+        "char_code_cangjie": "tjpyr",
+        "char_code_zhengma": "eers",
+        "char_code_sijiao": "47520"
+    },
+    "general_unicode": "基本区 U+97AB",
+    "general_bs_code": "122125112354111251"
+}

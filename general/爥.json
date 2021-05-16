@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "simmer, cook over slow fire"
+        }
+    ],
+    "general_pinyins": [
+        "zhú"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "21",
+        "total_sn": "25"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "燭"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7225",
+            "4334513241342522135251214"
+        ],
+        "char_code_wubi": "onij",
+        "char_code_cangjie": "fsei",
+        "char_code_zhengma": "uori",
+        "char_code_sijiao": "97827"
+    },
+    "general_unicode": "基本区 U+7225",
+    "general_bs_code": "4334513241342522135251214"
+}

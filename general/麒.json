@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "legendary auspicious animal"
+        },
+        {
+            "language": "德语",
+            "explanation": "Einhorn  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "licorne,animal fabuleux"
+        }
+    ],
+    "general_pinyins": [
+        "qí"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "鹿",
+        "non_radical_sn": "8",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𪊔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E92",
+            "4135221153512211134"
+        ],
+        "char_code_wubi": "ynjw|oxxw",
+        "char_code_cangjie": "iptmc",
+        "char_code_zhengma": "txec",
+        "char_code_sijiao": "04281"
+    },
+    "general_unicode": "基本区 U+9E92",
+    "general_bs_code": "4135221153512211134"
+}

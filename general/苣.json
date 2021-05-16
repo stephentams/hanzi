@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "kind of lettuce"
+        },
+        {
+            "language": "法语",
+            "explanation": "laitue"
+        }
+    ],
+    "general_pinyins": [
+        "jù",
+        "qǔ"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩˋ",
+        "ㄑㄩˇ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "82E3",
+            "1221515"
+        ],
+        "char_code_wubi": "aanf",
+        "char_code_cangjie": "tss",
+        "char_code_zhengma": "ehx",
+        "char_code_sijiao": "44717"
+    },
+    "general_unicode": "基本区 U+82E3",
+    "general_bs_code": "1221515"
+}

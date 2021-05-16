@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "16",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "螟"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "27532",
+            "4525114134251214251214"
+        ],
+        "char_code_wubi": "pjuj",
+        "char_code_cangjie": "bayi",
+        "char_code_zhengma": "wwii"
+    },
+    "general_unicode": "扩展B U+27532",
+    "general_bs_code": "4525114134251214251214"
+}

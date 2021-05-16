@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dress up; dress up as"
+        },
+        {
+            "language": "德语",
+            "explanation": "sich verkleiden  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "jouer le rôle de,se déguiser,orner"
+        }
+    ],
+    "general_pinyins": [
+        "bàn"
+    ],
+    "general_zhuyins": [
+        "ㄅㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢮈",
+        "扴",
+        "𢪆"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "626E",
+            "1213453"
+        ],
+        "char_code_wubi": "rwvn|rwvt",
+        "char_code_cangjie": "qcsh",
+        "char_code_zhengma": "doyd",
+        "char_code_sijiao": "58027"
+    },
+    "general_unicode": "基本区 U+626E",
+    "general_bs_code": "1213453"
+}

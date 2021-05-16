@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bone; skeleton; corpse"
+        },
+        {
+            "language": "德语",
+            "explanation": "provisorisch, Gerippe  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "os,squelette,cadavre"
+        }
+    ],
+    "general_pinyins": [
+        "gé"
+    ],
+    "general_zhuyins": [
+        "ㄍㄜˊ"
+    ],
+    "general_radical": {
+        "radical": "骨",
+        "non_radical_sn": "6",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "胳",
+        "髂"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9ABC",
+            "255452511354251"
+        ],
+        "char_code_wubi": "metk",
+        "char_code_cangjie": "bbher",
+        "char_code_zhengma": "lwrj",
+        "char_code_sijiao": "77264"
+    },
+    "general_unicode": "基本区 U+9ABC",
+    "general_bs_code": "255452511354251"
+}

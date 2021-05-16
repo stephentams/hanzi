@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "name of a river in Shanxi"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fluß in Provinz Shanxi  (Eig, Geo)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom d'une rivière dans la province du Shanxi)​"
+        }
+    ],
+    "general_pinyins": [
+        "wéi"
+    ],
+    "general_zhuyins": [
+        "ㄨㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "溈",
+        "潙"
+    ],
+    "general_ytz": [
+        "溈",
+        "潙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6CA9",
+            "4414354"
+        ],
+        "char_code_wubi": "iyly|iyey",
+        "char_code_cangjie": "eiks",
+        "char_code_zhengma": "vuys",
+        "char_code_sijiao": "34127"
+    },
+    "general_unicode": "基本区 U+6CA9",
+    "general_bs_code": "4414354"
+}

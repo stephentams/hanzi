@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to refuse, to repel"
+        }
+    ],
+    "general_pinyins": [
+        "tòu"
+    ],
+    "general_zhuyins": [
+        "ㄊㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "咅"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "357B",
+            "41324251"
+        ],
+        "char_code_wubi": "yikf|ydhk",
+        "char_code_cangjie": "yfr",
+        "char_code_zhengma": "sgj",
+        "char_code_sijiao": "00609"
+    },
+    "general_unicode": "扩展A U+357B",
+    "general_bs_code": "41324251"
+}

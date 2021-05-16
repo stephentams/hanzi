@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "法语",
+            "explanation": "trou,fosse"
+        }
+    ],
+    "general_pinyins": [
+        "lì"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "壢"
+    ],
+    "general_ytz": [
+        "壢",
+        "𠪖",
+        "𡐰"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "575C",
+            "1211353"
+        ],
+        "char_code_wubi": "fdln|fdet",
+        "char_code_cangjie": "gmks",
+        "char_code_zhengma": "bgym",
+        "char_code_sijiao": "41127"
+    },
+    "general_unicode": "基本区 U+575C",
+    "general_bs_code": "1211353"
+}

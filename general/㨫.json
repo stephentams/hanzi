@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as U+652C 攬) to be in full possession of; to monopolize, to grasp; to seize"
+        }
+    ],
+    "general_pinyins": [
+        "lǎn"
+    ],
+    "general_zhuyins": [
+        "ㄌㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "㩜"
+    ],
+    "general_ytz": [
+        "㩜"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3A2B",
+            "1212231425221"
+        ],
+        "char_code_wubi": "rjtl",
+        "char_code_cangjie": "qlit",
+        "char_code_zhengma": "dkml",
+        "char_code_sijiao": "58012"
+    },
+    "general_unicode": "扩展A U+3A2B",
+    "general_bs_code": "1212231425221"
+}

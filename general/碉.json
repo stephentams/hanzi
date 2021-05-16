@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "room made of stone; watchtower"
+        },
+        {
+            "language": "法语",
+            "explanation": "maison en pierre du Tibet,caverne de roche"
+        }
+    ],
+    "general_pinyins": [
+        "diāo"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "雕"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7889",
+            "1325135121251"
+        ],
+        "char_code_wubi": "dmfk",
+        "char_code_cangjie": "mrbgr",
+        "char_code_zhengma": "glbj",
+        "char_code_sijiao": "17620"
+    },
+    "general_unicode": "基本区 U+7889",
+    "general_bs_code": "1325135121251"
+}

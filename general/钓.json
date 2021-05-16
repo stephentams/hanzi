@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fish; fishhook; tempt, lure"
+        },
+        {
+            "language": "法语",
+            "explanation": "pêcher à la ligne"
+        }
+    ],
+    "general_pinyins": [
+        "diào"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "3",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "釣"
+    ],
+    "general_ytz": [
+        "釣",
+        "魡",
+        "鈟"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9493",
+            "31115354"
+        ],
+        "char_code_wubi": "qqyy",
+        "char_code_cangjie": "oppi",
+        "char_code_zhengma": "prs",
+        "char_code_sijiao": "87720"
+    },
+    "general_unicode": "基本区 U+9493",
+    "general_bs_code": "31115354"
+}

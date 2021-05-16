@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "chief of tribe, chieftain"
+        },
+        {
+            "language": "德语",
+            "explanation": "Häuptling"
+        },
+        {
+            "language": "法语",
+            "explanation": "chef du clan,chef de tribu"
+        }
+    ],
+    "general_pinyins": [
+        "qiú"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "酉",
+        "non_radical_sn": "2",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "醔"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "914B",
+            "431253511"
+        ],
+        "char_code_wubi": "usgf",
+        "char_code_cangjie": "tcwm",
+        "char_code_zhengma": "udfd",
+        "char_code_sijiao": "80604"
+    },
+    "general_unicode": "基本区 U+914B",
+    "general_bs_code": "431253511"
+}

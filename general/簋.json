@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a square basket of bamboo for holding grain used at sacrifices, feast"
+        },
+        {
+            "language": "法语",
+            "explanation": "panier de bambou carré pour contenir des céréales utilisées lors de sacrifices ou de fêtes"
+        }
+    ],
+    "general_pinyins": [
+        "guǐ"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄟˇ"
+    ],
+    "general_radical": {
+        "radical": "皿",
+        "non_radical_sn": "12",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㔲",
+        "㔳",
+        "㿝",
+        "匭",
+        "朹",
+        "皀",
+        "𠥗",
+        "𣪕",
+        "𣪘",
+        "𥁬",
+        "𦹧",
+        "𣌽",
+        "𣌡"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7C0B",
+            "31431451153425221"
+        ],
+        "char_code_wubi": "tvel|tvlf",
+        "char_code_cangjie": "havt",
+        "char_code_zhengma": "mxlk",
+        "char_code_sijiao": "88102"
+    },
+    "general_unicode": "基本区 U+7C0B",
+    "general_bs_code": "31431451153425221"
+}

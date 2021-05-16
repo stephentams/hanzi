@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "corner of eye; stare"
+        },
+        {
+            "language": "德语",
+            "explanation": "starren, erstaunt blicken  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "coin de l'oeil,regarder"
+        }
+    ],
+    "general_pinyins": [
+        "yá"
+    ],
+    "general_zhuyins": [
+        "ㄧㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤷅",
+        "𥊅",
+        "𥌚",
+        "𧡋",
+        "厓",
+        "䝽"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "775A",
+            "2511113121121"
+        ],
+        "char_code_wubi": "hdff",
+        "char_code_cangjie": "bumgg",
+        "char_code_zhengma": "lgbb",
+        "char_code_sijiao": "61014"
+    },
+    "general_unicode": "基本区 U+775A",
+    "general_bs_code": "2511113121121"
+}

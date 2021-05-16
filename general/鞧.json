@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a leather strap"
+        }
+    ],
+    "general_pinyins": [
+        "qiū"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄡ"
+    ],
+    "general_radical": {
+        "radical": "革",
+        "non_radical_sn": "9",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䋺",
+        "鞦",
+        "𦂏",
+        "緧"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "97A7",
+            "122125112431253511"
+        ],
+        "char_code_wubi": "afug",
+        "char_code_cangjie": "tjtcw",
+        "char_code_zhengma": "eeuf",
+        "char_code_sijiao": "48564"
+    },
+    "general_unicode": "基本区 U+97A7",
+    "general_bs_code": "122125112431253511"
+}

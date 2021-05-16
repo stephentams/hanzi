@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hide, secrete; avoid, escape"
+        },
+        {
+            "language": "法语",
+            "explanation": "se cacher,se réfugier,éviter,fuir,esquiver"
+        }
+    ],
+    "general_pinyins": [
+        "duǒ"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨㄛˇ"
+    ],
+    "general_radical": {
+        "radical": "身",
+        "non_radical_sn": "6",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "躱",
+        "趓",
+        "𩒜"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8EB2",
+            "3251113351234"
+        ],
+        "char_code_wubi": "tmds",
+        "char_code_cangjie": "hhhnd",
+        "char_code_zhengma": "ncqf",
+        "char_code_sijiao": "27294"
+    },
+    "general_unicode": "基本区 U+8EB2",
+    "general_bs_code": "3251113351234"
+}

@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "frame, building, structure"
+        },
+        {
+            "language": "德语",
+            "explanation": "beruhigen, abfassen ,bilden, formen ,konstruieren ,vervollständigen, packen"
+        },
+        {
+            "language": "法语",
+            "explanation": "construire,former,composer,inventer"
+        }
+    ],
+    "general_pinyins": [
+        "gòu"
+    ],
+    "general_zhuyins": [
+        "ㄍㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "構"
+    ],
+    "general_ytz": [
+        "構",
+        "冓",
+        "搆",
+        "𡻉",
+        "𣕛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6784",
+            "12343554"
+        ],
+        "char_code_wubi": "sqcy",
+        "char_code_cangjie": "dpi",
+        "char_code_zhengma": "frzs",
+        "char_code_sijiao": "47920"
+    },
+    "general_unicode": "基本区 U+6784",
+    "general_bs_code": "12343554"
+}

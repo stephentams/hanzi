@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "strike with stick, lash, beat"
+        },
+        {
+            "language": "德语",
+            "explanation": "(mit der Faust)​ schlagen; klopfen  (Med)"
+        },
+        {
+            "language": "法语",
+            "explanation": "battre"
+        }
+    ],
+    "general_pinyins": [
+        "chuí"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㪜",
+        "棰",
+        "椎",
+        "𢴹",
+        "垂",
+        "錘",
+        "搥",
+        "𢈹"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6376",
+            "12131212211"
+        ],
+        "char_code_wubi": "rtgf",
+        "char_code_cangjie": "qhjm",
+        "char_code_zhengma": "dmeb",
+        "char_code_sijiao": "52015"
+    },
+    "general_unicode": "基本区 U+6376",
+    "general_bs_code": "12131212211"
+}

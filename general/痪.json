@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "paralysis, numbness of limbs"
+        },
+        {
+            "language": "德语",
+            "explanation": "Krankheit  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "maladie,souffrance"
+        }
+    ],
+    "general_pinyins": [
+        "huàn"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "瘓"
+    ],
+    "general_ytz": [
+        "瘓",
+        "𤹹",
+        "𤻨"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "75EA",
+            "413413525134"
+        ],
+        "char_code_wubi": "uqmd",
+        "char_code_cangjie": "knbk",
+        "char_code_zhengma": "trlg",
+        "char_code_sijiao": "00184"
+    },
+    "general_unicode": "基本区 U+75EA",
+    "general_bs_code": "413413525134"
+}

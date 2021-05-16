@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as U+380D 㠍) a lofty mountain"
+        }
+    ],
+    "general_pinyins": [
+        "qì"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㠍",
+        "崨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "380E",
+            "252324111211234"
+        ],
+        "char_code_wubi": "mwys",
+        "char_code_cangjie": "uogd",
+        "char_code_zhengma": "llnf",
+        "char_code_sijiao": "20794"
+    },
+    "general_unicode": "扩展A U+380E",
+    "general_bs_code": "252324111211234"
+}

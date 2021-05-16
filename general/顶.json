@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "top, summit, peak; to carry on the head"
+        },
+        {
+            "language": "法语",
+            "explanation": "haut,sommet,toit,porter sur la tête,soulever,remplacer,répondre lors d'une discussion Internet,(classificateur pour les objets formant toit : chapeaux, palanquins, moustiquaires)​"
+        }
+    ],
+    "general_pinyins": [
+        "dǐng"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "页",
+        "non_radical_sn": "2",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "頂"
+    ],
+    "general_ytz": [
+        "頂",
+        "𧵜",
+        "𩒆",
+        "𩕢",
+        "𩕩",
+        "𩠑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9876",
+            "12132534"
+        ],
+        "char_code_wubi": "sdmy",
+        "char_code_cangjie": "mnmbo",
+        "char_code_zhengma": "aigo",
+        "char_code_sijiao": "11282"
+    },
+    "general_unicode": "基本区 U+9876",
+    "general_bs_code": "12132534"
+}

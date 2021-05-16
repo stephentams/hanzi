@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "poplar, aspen"
+        }
+    ],
+    "general_pinyins": [
+        "duàn"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "葮"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6934",
+            "1234321113554"
+        ],
+        "char_code_wubi": "swdc|sthc",
+        "char_code_cangjie": "dhje",
+        "char_code_zhengma": "fncq",
+        "char_code_sijiao": "47947"
+    },
+    "general_unicode": "基本区 U+6934",
+    "general_bs_code": "1234321113554"
+}

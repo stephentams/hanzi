@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bind, control, restrain; bale"
+        },
+        {
+            "language": "德语",
+            "explanation": "binden, schnüren  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "lier,réprimer,attacher,(classificateur pour les bouquets)​"
+        }
+    ],
+    "general_pinyins": [
+        "shù"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "3",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "捒",
+        "𤙨"
+    ],
+    "general_structure": "单体结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "675F",
+            "1251234"
+        ],
+        "char_code_wubi": "gkii|skd",
+        "char_code_cangjie": "dl",
+        "char_code_zhengma": "fjvv",
+        "char_code_sijiao": "50906"
+    },
+    "general_unicode": "基本区 U+675F",
+    "general_bs_code": "1251234"
+}

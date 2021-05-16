@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "check; examine"
+        },
+        {
+            "language": "德语",
+            "explanation": "prüfen, untersuchen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "examiner,vérifier,surveiller"
+        }
+    ],
+    "general_pinyins": [
+        "jiǎn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "檢"
+    ],
+    "general_ytz": [
+        "檢",
+        "検"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "68C0",
+            "12343414431"
+        ],
+        "char_code_wubi": "swgi|swgg",
+        "char_code_cangjie": "domm",
+        "char_code_zhengma": "fobv",
+        "char_code_sijiao": "48919"
+    },
+    "general_unicode": "基本区 U+68C0",
+    "general_bs_code": "12343414431"
+}

@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a concourse; to flow together, gather together; (same as U+6ED9 滙) to remit money"
+        },
+        {
+            "language": "德语",
+            "explanation": "Sammlung, Ansammlung  (S)​,anweisen, überweisen (z.B. Geld)​  (V)​,sammeln  (V)​,zusammenfließen, zusammenlaufen, zusammenströmen  (V)"
+        }
+    ],
+    "general_pinyins": [
+        "huì"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "匚",
+        "non_radical_sn": "11",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "汇"
+    ],
+    "general_ytz": [
+        "汇",
+        "滙"
+    ],
+    "general_structure": "左包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "532F",
+            "1441324111215"
+        ],
+        "char_code_wubi": "aiwy",
+        "char_code_cangjie": "seog",
+        "char_code_zhengma": "hvni",
+        "char_code_sijiao": "71711"
+    },
+    "general_unicode": "基本区 U+532F",
+    "general_bs_code": "1441324111215"
+}

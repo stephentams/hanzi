@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "clover"
+        },
+        {
+            "language": "德语",
+            "explanation": "Klee  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "luzerne"
+        }
+    ],
+    "general_pinyins": [
+        "mù"
+    ],
+    "general_zhuyins": [
+        "ㄇㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦴄",
+        "𦱒",
+        "𦭝",
+        "𦤄"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "82DC",
+            "12225111"
+        ],
+        "char_code_wubi": "ahf",
+        "char_code_cangjie": "tbu",
+        "char_code_zhengma": "elvv",
+        "char_code_sijiao": "44600"
+    },
+    "general_unicode": "基本区 U+82DC",
+    "general_bs_code": "12225111"
+}

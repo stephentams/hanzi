@@ -1,0 +1,34 @@
+{
+    "general_pinyins": [
+        "xún",
+        "quán",
+        "quàn"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄣˊ",
+        "ㄑㄩㄢˊ",
+        "ㄑㄩㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "水",
+        "non_radical_sn": "23",
+        "total_sn": "27"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "泉"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7065",
+            "325112534325112534325112534"
+        ],
+        "char_code_wubi": "riri",
+        "char_code_cangjie": "hehee",
+        "char_code_zhengma": "nknk",
+        "char_code_sijiao": "26992"
+    },
+    "general_unicode": "基本区 U+7065",
+    "general_bs_code": "325112534325112534325112534"
+}

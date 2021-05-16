@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "soot"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ruß (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "noir de fumée"
+        }
+    ],
+    "general_pinyins": [
+        "tái"
+    ],
+    "general_zhuyins": [
+        "ㄊㄞˊ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㸀",
+        "炲",
+        "𤆃",
+        "𤊜",
+        "𤒞",
+        "𨐹",
+        "㷘",
+        "𤐮",
+        "𤐽"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "70B1",
+            "542514334"
+        ],
+        "char_code_wubi": "ckou",
+        "char_code_cangjie": "irf",
+        "char_code_zhengma": "zsju",
+        "char_code_sijiao": "23809"
+    },
+    "general_unicode": "基本区 U+70B1",
+    "general_bs_code": "542514334"
+}

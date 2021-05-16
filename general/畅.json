@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "smoothly, freely, unrestrained"
+        },
+        {
+            "language": "德语",
+            "explanation": "ungehindert, frei, ausgelassen  (V)​,fließend, glatt"
+        },
+        {
+            "language": "法语",
+            "explanation": "sans encombre,à l'aise,libre,librement"
+        }
+    ],
+    "general_pinyins": [
+        "chàng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "田",
+        "non_radical_sn": "3",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "暢"
+    ],
+    "general_ytz": [
+        "暢"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7545",
+            "25112533"
+        ],
+        "char_code_wubi": "jhnr",
+        "char_code_cangjie": "llnsh",
+        "char_code_zhengma": "kico",
+        "char_code_sijiao": "57027"
+    },
+    "general_unicode": "基本区 U+7545",
+    "general_bs_code": "25112533"
+}

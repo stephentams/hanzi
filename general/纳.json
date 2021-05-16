@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "admit, take, receive, accept"
+        },
+        {
+            "language": "德语",
+            "explanation": "akzeptieren, annehmen, genießen  (V)​,bezahlen, entrichten  (V)​,Na  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "recevoir,accepter,payer"
+        }
+    ],
+    "general_pinyins": [
+        "nà"
+    ],
+    "general_zhuyins": [
+        "ㄋㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "納"
+    ],
+    "general_ytz": [
+        "納"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EB3",
+            "5512534"
+        ],
+        "char_code_wubi": "xmwy",
+        "char_code_cangjie": "vmob",
+        "char_code_zhengma": "zlod",
+        "char_code_sijiao": "24127"
+    },
+    "general_unicode": "基本区 U+7EB3",
+    "general_bs_code": "5512534"
+}

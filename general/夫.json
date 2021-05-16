@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "man, male adult, husband; those"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 Ehemann, Gatte  (S)​,Mann  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "fū",
+        "fú"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨ",
+        "ㄈㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "大",
+        "non_radical_sn": "1",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "伕",
+        "趺",
+        "𧥱"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "592B",
+            "1134"
+        ],
+        "char_code_wubi": "fwi|gggy",
+        "char_code_cangjie": "qo",
+        "char_code_zhengma": "bdod",
+        "char_code_sijiao": "50800"
+    },
+    "general_unicode": "基本区 U+592B",
+    "general_bs_code": "1134"
+}

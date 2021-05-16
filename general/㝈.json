@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 孿) twin"
+        }
+    ],
+    "general_pinyins": [
+        "luán"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "子",
+        "non_radical_sn": "22",
+        "total_sn": "25"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "孿"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3748",
+            "4111251554444554444521521"
+        ],
+        "char_code_wubi": "xyxb|yxxb",
+        "char_code_cangjie": "vfndd",
+        "char_code_zhengma": "zsyy",
+        "char_code_sijiao": "22447"
+    },
+    "general_unicode": "扩展A U+3748",
+    "general_bs_code": "4111251554444554444521521"
+}

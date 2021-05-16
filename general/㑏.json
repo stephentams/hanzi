@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(corrupted form of U+4F47 佇) to stand and wait; to hope for"
+        }
+    ],
+    "general_pinyins": [
+        "zhù"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "344F",
+            "32445124"
+        ],
+        "char_code_wubi": "wpfy",
+        "char_code_cangjie": "ojdi",
+        "char_code_zhengma": "nwds",
+        "char_code_sijiao": "23242"
+    },
+    "general_unicode": "扩展A U+344F",
+    "general_bs_code": "32445124"
+}

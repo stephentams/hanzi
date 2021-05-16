@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sky; clouds, mist; night"
+        },
+        {
+            "language": "德语",
+            "explanation": "Himmelszelt  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "nuages,ciel"
+        }
+    ],
+    "general_pinyins": [
+        "xiāo"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "雨",
+        "non_radical_sn": "7",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "肖",
+        "䨭",
+        "㲵"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9704",
+            "145244442432511"
+        ],
+        "char_code_wubi": "fief",
+        "char_code_cangjie": "mbfb",
+        "char_code_zhengma": "fvkq",
+        "char_code_sijiao": "10227"
+    },
+    "general_unicode": "基本区 U+9704",
+    "general_bs_code": "145244442432511"
+}

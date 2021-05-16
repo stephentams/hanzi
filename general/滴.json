@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "drip; drop of water"
+        },
+        {
+            "language": "德语",
+            "explanation": "Tropfen  (S)​,tropfen"
+        },
+        {
+            "language": "法语",
+            "explanation": "goutter,goutte"
+        }
+    ],
+    "general_pinyins": [
+        "dī"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "渧",
+        "𣾪",
+        "𤁷"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6EF4",
+            "44141432512251"
+        ],
+        "char_code_wubi": "iumd|iyud",
+        "char_code_cangjie": "eycb",
+        "char_code_zhengma": "vsul",
+        "char_code_sijiao": "30127"
+    },
+    "general_unicode": "基本区 U+6EF4",
+    "general_bs_code": "44141432512251"
+}

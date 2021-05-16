@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wither, wilt"
+        },
+        {
+            "language": "德语",
+            "explanation": "geistlos, lustlos ,verdorren, verblühen, verwelken  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "se dessécher,se flétrir,se faner,flétri,sans âme"
+        }
+    ],
+    "general_pinyins": [
+        "wěi"
+    ],
+    "general_zhuyins": [
+        "ㄨㄟˇ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣨙",
+        "荽",
+        "痿",
+        "䰲",
+        "𦑄"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "840E",
+            "12231234531"
+        ],
+        "char_code_wubi": "atvf",
+        "char_code_cangjie": "thdv",
+        "char_code_zhengma": "emzm",
+        "char_code_sijiao": "44404"
+    },
+    "general_unicode": "基本区 U+840E",
+    "general_bs_code": "12231234531"
+}

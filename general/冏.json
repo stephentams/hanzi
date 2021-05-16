@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "法语",
+            "explanation": "abutilon,Abutilon avicennae"
+        }
+    ],
+    "general_pinyins": [
+        "jiǒng"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "冂",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "冋",
+        "囧",
+        "臦",
+        "臩",
+        "𡆾",
+        "𡇇",
+        "𢍴"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "518F",
+            "2534251"
+        ],
+        "char_code_wubi": "mwkd",
+        "char_code_cangjie": "bcr",
+        "char_code_zhengma": "ldoj",
+        "char_code_sijiao": "77608"
+    },
+    "general_unicode": "基本区 U+518F",
+    "general_bs_code": "2534251"
+}

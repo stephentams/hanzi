@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bright, shining, luminous"
+        },
+        {
+            "language": "德语",
+            "explanation": "hell, glänzend, leuchtend, brillant, großartig  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "lumineux,brillant"
+        }
+    ],
+    "general_pinyins": [
+        "huáng"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䪄",
+        "熿",
+        "皇",
+        "𤌼",
+        "𪏥",
+        "𤌗"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "714C",
+            "4334325111121"
+        ],
+        "char_code_wubi": "orgg",
+        "char_code_cangjie": "fhag",
+        "char_code_zhengma": "uonc",
+        "char_code_sijiao": "96814"
+    },
+    "general_unicode": "基本区 U+714C",
+    "general_bs_code": "4334325111121"
+}

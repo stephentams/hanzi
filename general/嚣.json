@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "be noisy; treat with contempt"
+        },
+        {
+            "language": "德语",
+            "explanation": "toben, Geschrei  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "crier"
+        }
+    ],
+    "general_pinyins": [
+        "xiāo"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "15",
+        "total_sn": "18"
+    },
+    "general_stc": [
+        "囂"
+    ],
+    "general_ytz": [
+        "囂",
+        "嚻",
+        "㕺",
+        "𠑪",
+        "𠾯",
+        "𡆔",
+        "𩫂",
+        "𩫳"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "56A3",
+            "251251132534251251"
+        ],
+        "char_code_wubi": "kkdk",
+        "char_code_cangjie": "rrmor",
+        "char_code_zhengma": "jjjj",
+        "char_code_sijiao": "66668"
+    },
+    "general_unicode": "基本区 U+56A3",
+    "general_bs_code": "251251132534251251"
+}

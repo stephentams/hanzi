@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "barbarians; barbarous, savage"
+        },
+        {
+            "language": "德语",
+            "explanation": "alte Bezeichnung für die Minderheiten im Süden Chinas  (S)​,grob, roh  (Adj)​,sehr, recht  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "brutal,sauvage,plutôt,assez"
+        }
+    ],
+    "general_pinyins": [
+        "mán"
+    ],
+    "general_zhuyins": [
+        "ㄇㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "6",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "蠻"
+    ],
+    "general_ytz": [
+        "蠻",
+        "𧖖"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "86EE",
+            "412234251214"
+        ],
+        "char_code_wubi": "yoju",
+        "char_code_cangjie": "yclmi",
+        "char_code_zhengma": "ski",
+        "char_code_sijiao": "00136"
+    },
+    "general_unicode": "基本区 U+86EE",
+    "general_bs_code": "412234251214"
+}

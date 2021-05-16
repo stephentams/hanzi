@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "small box; chest, casket"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kästchen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "petite boîte,poitrine"
+        }
+    ],
+    "general_pinyins": [
+        "guǐ"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄟˇ"
+    ],
+    "general_radical": {
+        "radical": "匚",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "匭"
+    ],
+    "general_ytz": [
+        "匭"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5326",
+            "11521355"
+        ],
+        "char_code_wubi": "alvv",
+        "char_code_cangjie": "skqn",
+        "char_code_zhengma": "hhqy",
+        "char_code_sijiao": "71711"
+    },
+    "general_unicode": "基本区 U+5326",
+    "general_bs_code": "11521355"
+}

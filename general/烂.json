@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rotten, spoiled, decayed"
+        },
+        {
+            "language": "德语",
+            "explanation": "scheiße,  beschissen, mies, ätzend (umg.)​  (Adj)​,sanft, sacht  (Adj)​,verfault  (Adj, Ess)​,zerkocht  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "attendri,amolli,pourri,usé,en morceau,bien cuit"
+        }
+    ],
+    "general_pinyins": [
+        "làn"
+    ],
+    "general_zhuyins": [
+        "ㄌㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "爛"
+    ],
+    "general_ytz": [
+        "爛",
+        "燗",
+        "爤",
+        "㱫",
+        "𣩼",
+        "𤏐",
+        "𧟋"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "70C2",
+            "433443111"
+        ],
+        "char_code_wubi": "oufg|oudg",
+        "char_code_cangjie": "ftmm",
+        "char_code_zhengma": "uoub",
+        "char_code_sijiao": "98811"
+    },
+    "general_unicode": "基本区 U+70C2",
+    "general_bs_code": "433443111"
+}

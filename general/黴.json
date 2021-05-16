@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mold, mildew; bacteria, fungi"
+        },
+        {
+            "language": "德语",
+            "explanation": "moderig, modrig"
+        },
+        {
+            "language": "法语",
+            "explanation": "moisir,moisi,moisissure,(en parlant du visage)​ tanné,bronzé,basané,Moisissure"
+        }
+    ],
+    "general_pinyins": [
+        "méi"
+    ],
+    "general_zhuyins": [
+        "ㄇㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "黑",
+        "non_radical_sn": "11",
+        "total_sn": "23"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䆀",
+        "霉",
+        "黣",
+        "𩽚",
+        "𪑛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9EF4",
+            "33225212543121144443134"
+        ],
+        "char_code_wubi": "tmgt",
+        "char_code_cangjie": "houfk",
+        "char_code_zhengma": "oium",
+        "char_code_sijiao": "28240"
+    },
+    "general_unicode": "基本区 U+9EF4",
+    "general_bs_code": "33225212543121144443134"
+}

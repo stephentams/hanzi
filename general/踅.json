@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "法语",
+            "explanation": "sauter,aller et venir,aller de long en large,retourner"
+        }
+    ],
+    "general_pinyins": [
+        "xué"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "7",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䠠"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E05",
+            "12133122512134"
+        ],
+        "char_code_wubi": "rrkh",
+        "char_code_cangjie": "qlryo",
+        "char_code_zhengma": "dpji",
+        "char_code_sijiao": "52801"
+    },
+    "general_unicode": "基本区 U+8E05",
+    "general_bs_code": "12133122512134"
+}

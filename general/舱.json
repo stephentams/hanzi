@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hold of ship; cabin"
+        },
+        {
+            "language": "法语",
+            "explanation": "cabine (avion)​,cale (bateau)​"
+        }
+    ],
+    "general_pinyins": [
+        "cāng"
+    ],
+    "general_zhuyins": [
+        "ㄘㄤ"
+    ],
+    "general_radical": {
+        "radical": "舟",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "艙"
+    ],
+    "general_ytz": [
+        "艙",
+        "𤾙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8231",
+            "3354143455"
+        ],
+        "char_code_wubi": "tewb|tuwb",
+        "char_code_cangjie": "hyosu",
+        "char_code_zhengma": "pyoy",
+        "char_code_sijiao": "28412"
+    },
+    "general_unicode": "基本区 U+8231",
+    "general_bs_code": "3354143455"
+}

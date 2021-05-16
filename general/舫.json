@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fancy boat, yacht"
+        },
+        {
+            "language": "法语",
+            "explanation": "bateau"
+        }
+    ],
+    "general_pinyins": [
+        "fǎng"
+    ],
+    "general_zhuyins": [
+        "ㄈㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "舟",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "枋"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "822B",
+            "3354144153"
+        ],
+        "char_code_wubi": "teyn|tuyt",
+        "char_code_cangjie": "hyyhs",
+        "char_code_zhengma": "pysy",
+        "char_code_sijiao": "20427"
+    },
+    "general_unicode": "基本区 U+822B",
+    "general_bs_code": "3354144153"
+}

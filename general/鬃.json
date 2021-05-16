@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mane; neck bristles"
+        },
+        {
+            "language": "法语",
+            "explanation": "crinière"
+        }
+    ],
+    "general_pinyins": [
+        "zōng"
+    ],
+    "general_zhuyins": [
+        "ㄗㄨㄥ"
+    ],
+    "general_radical": {
+        "radical": "髟",
+        "non_radical_sn": "8",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "騣",
+        "從",
+        "𣮤",
+        "𥪗",
+        "骔",
+        "鬉",
+        "䰌",
+        "𨲃",
+        "𨲇",
+        "𩥷",
+        "𩮀",
+        "𩮪",
+        "𩮰",
+        "𩯣"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9B03",
+            "121115433344511234"
+        ],
+        "char_code_wubi": "depi",
+        "char_code_cangjie": "shjmf",
+        "char_code_zhengma": "chwb",
+        "char_code_sijiao": "72901"
+    },
+    "general_unicode": "基本区 U+9B03",
+    "general_bs_code": "121115433344511234"
+}

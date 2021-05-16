@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "name of fish"
+        }
+    ],
+    "general_pinyins": [
+        "jiāng"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄤ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "9",
+        "total_sn": "17"
+    },
+    "general_stc": [
+        "鱂"
+    ],
+    "general_ytz": [
+        "鱂",
+        "𩷅"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9CC9",
+            "35251211412354124"
+        ],
+        "char_code_wubi": "qguf",
+        "char_code_cangjie": "nmlmi",
+        "char_code_zhengma": "rtrd",
+        "char_code_sijiao": "27142"
+    },
+    "general_unicode": "基本区 U+9CC9",
+    "general_bs_code": "35251211412354124"
+}

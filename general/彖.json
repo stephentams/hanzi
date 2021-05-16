@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a hog; a hedgehog; a porcupine"
+        }
+    ],
+    "general_pinyins": [
+        "tuàn"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "彑",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢑡",
+        "𧰺"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F56",
+            "551353334"
+        ],
+        "char_code_wubi": "xeu",
+        "char_code_cangjie": "vnmo",
+        "char_code_zhengma": "zmgq",
+        "char_code_sijiao": "27232"
+    },
+    "general_unicode": "基本区 U+5F56",
+    "general_bs_code": "551353334"
+}

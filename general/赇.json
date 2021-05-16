@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "bribe"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 bestechen"
+        }
+    ],
+    "general_pinyins": [
+        "qiú"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "賕"
+    ],
+    "general_ytz": [
+        "賕"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D47",
+            "25341241344"
+        ],
+        "char_code_wubi": "mfiy|mgiy",
+        "char_code_cangjie": "boije",
+        "char_code_zhengma": "lovs",
+        "char_code_sijiao": "73899"
+    },
+    "general_unicode": "基本区 U+8D47",
+    "general_bs_code": "25341241344"
+}

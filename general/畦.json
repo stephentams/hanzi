@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sections in vegetable farm"
+        },
+        {
+            "language": "德语",
+            "explanation": "Beet  (S)​,Bodenfalte, Falte (am Boden)​  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "champ"
+        }
+    ],
+    "general_pinyins": [
+        "qí"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "田",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㽯",
+        "𤳬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7566",
+            "25121121121"
+        ],
+        "char_code_wubi": "lffg",
+        "char_code_cangjie": "wgg",
+        "char_code_zhengma": "kibb",
+        "char_code_sijiao": "64014"
+    },
+    "general_unicode": "基本区 U+7566",
+    "general_bs_code": "25121121121"
+}

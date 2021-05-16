@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "young girl; strange, different"
+        }
+    ],
+    "general_pinyins": [
+        "tuō",
+        "chà",
+        "duó"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄛ",
+        "ㄔㄚˋ",
+        "ㄉㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "3",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "侂",
+        "姹",
+        "𠇔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4EDB",
+            "32315"
+        ],
+        "char_code_wubi": "wtan",
+        "char_code_cangjie": "ohp",
+        "char_code_zhengma": "nmhd",
+        "char_code_sijiao": "22214"
+    },
+    "general_unicode": "基本区 U+4EDB",
+    "general_bs_code": "32315"
+}

@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "illness; disease; ailment, disease of the internal organs, disease of the abdomen, palpitation of the heart"
+        }
+    ],
+    "general_pinyins": [
+        "dǎo"
+    ],
+    "general_zhuyins": [
+        "ㄉㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "14",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤺜",
+        "疛"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3FD2",
+            "4134112151211251124"
+        ],
+        "char_code_wubi": "ufnf",
+        "char_code_cangjie": "kgni",
+        "char_code_zhengma": "tbjd",
+        "char_code_sijiao": "00141"
+    },
+    "general_unicode": "扩展A U+3FD2",
+    "general_bs_code": "4134112151211251124"
+}

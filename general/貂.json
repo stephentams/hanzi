@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "marten, sable, mink"
+        },
+        {
+            "language": "德语",
+            "explanation": "Marder (S, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "martre,zibeline"
+        }
+    ],
+    "general_pinyins": [
+        "diāo"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "豸",
+        "non_radical_sn": "5",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㹦",
+        "鼦",
+        "𪔸",
+        "𪔹"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C82",
+            "344353353251"
+        ],
+        "char_code_wubi": "eevk|evkg",
+        "char_code_cangjie": "bhshr",
+        "char_code_zhengma": "pqyj",
+        "char_code_sijiao": "27262"
+    },
+    "general_unicode": "基本区 U+8C82",
+    "general_bs_code": "344353353251"
+}

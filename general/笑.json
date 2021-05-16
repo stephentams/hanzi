@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "smile, laugh, giggle; snicker"
+        },
+        {
+            "language": "德语",
+            "explanation": "lachen, lächeln  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "rire,sourire,ridiculiser"
+        }
+    ],
+    "general_pinyins": [
+        "xiào"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㗛",
+        "咲",
+        "芖",
+        "𠸍",
+        "𠺑",
+        "𥬇",
+        "𠇄",
+        "𦬫"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7B11",
+            "3143143134"
+        ],
+        "char_code_wubi": "ttdu",
+        "char_code_cangjie": "hhk",
+        "char_code_zhengma": "mmgd",
+        "char_code_sijiao": "88804"
+    },
+    "general_unicode": "基本区 U+7B11",
+    "general_bs_code": "3143143134"
+}

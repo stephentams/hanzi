@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "impede; neglect, delay"
+        }
+    ],
+    "general_pinyins": [
+        "wù"
+    ],
+    "general_zhuyins": [
+        "ㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "悮"
+    ],
+    "general_ytz": [
+        "悮",
+        "誤"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "609E",
+            "4422515134"
+        ],
+        "char_code_wubi": "nknd",
+        "char_code_cangjie": "prvk",
+        "char_code_zhengma": "ujzg",
+        "char_code_sijiao": "96084"
+    },
+    "general_unicode": "基本区 U+609E",
+    "general_bs_code": "4422515134"
+}

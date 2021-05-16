@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "support with the arms; stick in, tuck in; fold up"
+        },
+        {
+            "language": "德语",
+            "explanation": "einklemmen, umlegen ,Ye  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "soutenir par le bras,aider,promouvoir,mettre (dans une poche)​,cacher,fourrer"
+        }
+    ],
+    "general_pinyins": [
+        "yè",
+        "yē"
+    ],
+    "general_zhuyins": [
+        "ㄧㄝˋ",
+        "ㄧㄝ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "夜",
+        "腋"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6396",
+            "12141323544"
+        ],
+        "char_code_wubi": "rywy",
+        "char_code_cangjie": "qyok",
+        "char_code_zhengma": "dsnr",
+        "char_code_sijiao": "50047"
+    },
+    "general_unicode": "基本区 U+6396",
+    "general_bs_code": "12141323544"
+}

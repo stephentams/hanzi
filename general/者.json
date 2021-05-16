@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "that which; he who; those who"
+        },
+        {
+            "language": "德语",
+            "explanation": "derjenige welcher, (-ist, -er)​ Person, die etwas tut bzw.ausführt"
+        },
+        {
+            "language": "法语",
+            "explanation": "(placé après un adjectif ou un verbe est utilisé comme substantif pour désigner une personne ou une chose)​,celui qui ..."
+        }
+    ],
+    "general_pinyins": [
+        "zhě"
+    ],
+    "general_zhuyins": [
+        "ㄓㄜˇ"
+    ],
+    "general_radical": {
+        "radical": "耂",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "者",
+        "者"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8005",
+            "12132511"
+        ],
+        "char_code_wubi": "ftjf",
+        "char_code_cangjie": "jka",
+        "char_code_zhengma": "bm",
+        "char_code_sijiao": "44600"
+    },
+    "general_unicode": "基本区 U+8005",
+    "general_bs_code": "12132511"
+}

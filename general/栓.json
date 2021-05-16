@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wooden peg, post or stick"
+        },
+        {
+            "language": "德语",
+            "explanation": "Riegel, Hahn  (S, Tech)​,Zapfen, Dübel, Pfropfen, Stöpsel  (S, Tech)​,Zäpfchen, Suppositorium  (S, Med)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bouchon,obturateur,culasse"
+        }
+    ],
+    "general_pinyins": [
+        "shuān"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨㄢ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6813",
+            "1234341121"
+        ],
+        "char_code_wubi": "swgg",
+        "char_code_cangjie": "domg",
+        "char_code_zhengma": "foc",
+        "char_code_sijiao": "48914"
+    },
+    "general_unicode": "基本区 U+6813",
+    "general_bs_code": "1234341121"
+}

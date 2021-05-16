@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a skirt; long robe for women, having no sleeves and fasten down the front"
+        },
+        {
+            "language": "德语",
+            "explanation": "Umhang  (S)​,kurzer bestickter Schulterumhang für Frauen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cape"
+        }
+    ],
+    "general_pinyins": [
+        "pèi"
+    ],
+    "general_zhuyins": [
+        "ㄆㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "巾",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "被"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5E14",
+            "25253254"
+        ],
+        "char_code_wubi": "mhhc|mhby",
+        "char_code_cangjie": "lbdhe",
+        "char_code_zhengma": "lixi",
+        "char_code_sijiao": "44247"
+    },
+    "general_unicode": "基本区 U+5E14",
+    "general_bs_code": "25253254"
+}

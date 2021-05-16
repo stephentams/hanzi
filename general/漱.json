@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "gargle, rinse; wash, scour"
+        },
+        {
+            "language": "德语",
+            "explanation": "gurgeln, ausspülen  (V)"
+        }
+    ],
+    "general_pinyins": [
+        "shù"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "嗽",
+        "涑",
+        "潄"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6F31",
+            "44112512343534"
+        ],
+        "char_code_wubi": "igkw|iskw",
+        "char_code_cangjie": "edlo",
+        "char_code_zhengma": "vfjr",
+        "char_code_sijiao": "37182"
+    },
+    "general_unicode": "基本区 U+6F31",
+    "general_bs_code": "44112512343534"
+}

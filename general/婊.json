@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "whore, prostitute"
+        },
+        {
+            "language": "法语",
+            "explanation": "prostituée,putain,pute"
+        }
+    ],
+    "general_pinyins": [
+        "biǎo"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "脿"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5A4A",
+            "53111213534"
+        ],
+        "char_code_wubi": "vgey",
+        "char_code_cangjie": "vqmv",
+        "char_code_zhengma": "zmcr",
+        "char_code_sijiao": "45432"
+    },
+    "general_unicode": "基本区 U+5A4A",
+    "general_bs_code": "53111213534"
+}

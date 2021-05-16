@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 捗) to swallow; to gulp, to be choked with food, (same as 諲) respectful; venerable"
+        }
+    ],
+    "general_pinyins": [
+        "yè"
+    ],
+    "general_zhuyins": [
+        "ㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "咽",
+        "諲"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "35B6",
+            "251125221121"
+        ],
+        "char_code_wubi": "ksfg",
+        "char_code_cangjie": "rmwg",
+        "char_code_zhengma": "jfb",
+        "char_code_sijiao": "61014"
+    },
+    "general_unicode": "扩展A U+35B6",
+    "general_bs_code": "251125221121"
+}

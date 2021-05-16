@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "linger, walk to and fro, hesitain"
+        },
+        {
+            "language": "德语",
+            "explanation": "unentschlossen"
+        },
+        {
+            "language": "法语",
+            "explanation": "agité,aller et venir"
+        }
+    ],
+    "general_pinyins": [
+        "huái"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄞˊ"
+    ],
+    "general_radical": {
+        "radical": "彳",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "回",
+        "佪",
+        "迴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F8A",
+            "332252511"
+        ],
+        "char_code_wubi": "tlkg",
+        "char_code_cangjie": "howr",
+        "char_code_zhengma": "oijj",
+        "char_code_sijiao": "26200"
+    },
+    "general_unicode": "基本区 U+5F8A",
+    "general_bs_code": "332252511"
+}

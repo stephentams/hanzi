@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "worms"
+        },
+        {
+            "language": "德语",
+            "explanation": "Wurmsorte (Parasit im Dickdarm, Med.)​  (S, Med)"
+        }
+    ],
+    "general_pinyins": [
+        "náo"
+    ],
+    "general_zhuyins": [
+        "ㄋㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "6",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "蟯"
+    ],
+    "general_ytz": [
+        "蟯",
+        "𧑣"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "86F2",
+            "251214153135"
+        ],
+        "char_code_wubi": "jatq",
+        "char_code_cangjie": "lijpu",
+        "char_code_zhengma": "ihgr",
+        "char_code_sijiao": "55112"
+    },
+    "general_unicode": "基本区 U+86F2",
+    "general_bs_code": "251214153135"
+}

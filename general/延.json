@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "delay, postpone, defer"
+        },
+        {
+            "language": "德语",
+            "explanation": "ausdehnen, ausweiten, verlängern  (V)​,engaieren, herbei holen  (V)​,verschieben, aufschieben, hinausschieben ( Zeit )​  (V)​,Yan  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "ajourner,remettre,prolonger,allonger"
+        }
+    ],
+    "general_pinyins": [
+        "yán"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "廴",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨒂",
+        "綖"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5EF6",
+            "321554"
+        ],
+        "char_code_wubi": "thpd|thnp",
+        "char_code_cangjie": "nkhym",
+        "char_code_zhengma": "ymii",
+        "char_code_sijiao": "12401"
+    },
+    "general_unicode": "基本区 U+5EF6",
+    "general_bs_code": "321554"
+}

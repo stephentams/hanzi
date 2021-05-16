@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "love; long for, yearn for; love"
+        },
+        {
+            "language": "德语",
+            "explanation": "an etw. hängen, sich ersehnen nach, verlangen nach  (V)​,lieben  (V)​,sich verlieben  (V)​,sich verlieben  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "amour,s'attacher"
+        }
+    ],
+    "general_pinyins": [
+        "liàn"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "戀"
+    ],
+    "general_ytz": [
+        "戀",
+        "𡆕"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "604B",
+            "4122344544"
+        ],
+        "char_code_wubi": "yonu",
+        "char_code_cangjie": "ycp",
+        "char_code_zhengma": "skwz",
+        "char_code_sijiao": "00333"
+    },
+    "general_unicode": "基本区 U+604B",
+    "general_bs_code": "4122344544"
+}

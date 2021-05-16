@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ancient treasured sword"
+        }
+    ],
+    "general_pinyins": [
+        "kūn"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄣ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "錕"
+    ],
+    "general_ytz": [
+        "錕"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "951F",
+            "3111525111535"
+        ],
+        "char_code_wubi": "qjxx",
+        "char_code_cangjie": "opapp",
+        "char_code_zhengma": "pkrr",
+        "char_code_sijiao": "86712"
+    },
+    "general_unicode": "基本区 U+951F",
+    "general_bs_code": "3111525111535"
+}

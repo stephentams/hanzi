@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "shield; dutch guilder; Indonesia"
+        },
+        {
+            "language": "法语",
+            "explanation": "bouclier"
+        }
+    ],
+    "general_pinyins": [
+        "dùn"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "楯",
+        "𠩮",
+        "𥍿"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "76FE",
+            "331225111"
+        ],
+        "char_code_wubi": "rfhd",
+        "char_code_cangjie": "hjbu",
+        "char_code_zhengma": "pdel",
+        "char_code_sijiao": "72264"
+    },
+    "general_unicode": "基本区 U+76FE",
+    "general_bs_code": "331225111"
+}

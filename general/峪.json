@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "valley, ravine"
+        },
+        {
+            "language": "德语",
+            "explanation": "Tal  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "vallée,ravin"
+        }
+    ],
+    "general_pinyins": [
+        "yù"
+    ],
+    "general_zhuyins": [
+        "ㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "硲"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5CEA",
+            "2523434251"
+        ],
+        "char_code_wubi": "mwwk",
+        "char_code_cangjie": "ucor",
+        "char_code_zhengma": "lloj",
+        "char_code_sijiao": "28768"
+    },
+    "general_unicode": "基本区 U+5CEA",
+    "general_bs_code": "2523434251"
+}

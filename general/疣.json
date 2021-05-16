@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wart; tumor; goiter; papule"
+        },
+        {
+            "language": "德语",
+            "explanation": "Hühnerauge  (S)​,Knötchen  (S)​,Warze  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "goitre"
+        }
+    ],
+    "general_pinyins": [
+        "yóu"
+    ],
+    "general_zhuyins": [
+        "ㄧㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "肬",
+        "𤷊",
+        "𦚥",
+        "𪐤",
+        "𩑣"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "75A3",
+            "413411354"
+        ],
+        "char_code_wubi": "udnv|udny",
+        "char_code_cangjie": "kiku",
+        "char_code_zhengma": "tgr",
+        "char_code_sijiao": "00112"
+    },
+    "general_unicode": "基本区 U+75A3",
+    "general_bs_code": "413411354"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "limp, staggering gait; embarrass"
+        },
+        {
+            "language": "法语",
+            "explanation": "embarrassé"
+        }
+    ],
+    "general_pinyins": [
+        "gà"
+    ],
+    "general_zhuyins": [
+        "ㄍㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "尢",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡯓",
+        "𡯔",
+        "𡯕",
+        "𡯗",
+        "魀",
+        "𠆷",
+        "𠙤",
+        "𡯰",
+        "𡯽"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5C2C",
+            "1353432"
+        ],
+        "char_code_wubi": "dnwj",
+        "char_code_cangjie": "kuoll",
+        "char_code_zhengma": "gron",
+        "char_code_sijiao": "48012"
+    },
+    "general_unicode": "基本区 U+5C2C",
+    "general_bs_code": "1353432"
+}

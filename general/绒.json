@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "silk, cotton, or woolen fabric"
+        },
+        {
+            "language": "德语",
+            "explanation": "aus Wolle, Wollware ,Samt  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "duvet,laine fine"
+        }
+    ],
+    "general_pinyins": [
+        "róng"
+    ],
+    "general_zhuyins": [
+        "ㄖㄨㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "絨"
+    ],
+    "general_ytz": [
+        "絨",
+        "毧",
+        "羢",
+        "㲨",
+        "𣮩",
+        "𣮪",
+        "𣯏"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7ED2",
+            "551113534"
+        ],
+        "char_code_wubi": "xadt",
+        "char_code_cangjie": "vmij",
+        "char_code_zhengma": "zhgd",
+        "char_code_sijiao": "23150"
+    },
+    "general_unicode": "基本区 U+7ED2",
+    "general_bs_code": "551113534"
+}

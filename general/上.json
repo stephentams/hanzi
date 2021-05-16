@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "top; superior, highest; go up, send up"
+        },
+        {
+            "language": "德语",
+            "explanation": "an einer Tätigkeit teilnehmen  (V)​,(Postposition, nach einem Substantiv)​ mitten drin; von einem Aspekt; auf einer Oberfläche, usw. ,etwas bringen lassen; zufügen; etwas drauftun; installieren; (in der Zeitung u.ä.)​ auftauchen  (V)​,nach oben gehen; hochlaufen  (V)​,vorig; vorherig; ehemalig  (Adj)​,oben  (Adv)"
+        },
+        {
+            "language": "法语",
+            "explanation": "monter,grimper,partir pour,mettre,fixer,appliquer (un remède)​,supérieur,haut,premier,précédent"
+        }
+    ],
+    "general_pinyins": [
+        "shàng",
+        "shǎng"
+    ],
+    "general_zhuyins": [
+        "ㄕㄤˋ",
+        "ㄕㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "一",
+        "non_radical_sn": "2",
+        "total_sn": "3"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "丄",
+        "𠄞"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4E0A",
+            "211"
+        ],
+        "char_code_wubi": "hhgg",
+        "char_code_cangjie": "ym",
+        "char_code_zhengma": "ida",
+        "char_code_sijiao": "21100"
+    },
+    "general_unicode": "基本区 U+4E0A",
+    "general_bs_code": "211"
+}

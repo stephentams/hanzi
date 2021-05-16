@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ancient emperor; breath, vapor"
+        },
+        {
+            "language": "法语",
+            "explanation": "haleine,vapeur"
+        }
+    ],
+    "general_pinyins": [
+        "xī"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧ"
+    ],
+    "general_radical": {
+        "radical": "羊",
+        "non_radical_sn": "10",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢐯",
+        "𢐱",
+        "𦏁"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7FB2",
+            "4311213123415534"
+        ],
+        "char_code_wubi": "ugtt|ugty",
+        "char_code_cangjie": "tghds",
+        "char_code_zhengma": "uczh",
+        "char_code_sijiao": "80253"
+    },
+    "general_unicode": "基本区 U+7FB2",
+    "general_bs_code": "4311213123415534"
+}

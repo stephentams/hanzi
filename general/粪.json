@@ -1,0 +1,55 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "manure, dung, night soil"
+        },
+        {
+            "language": "法语",
+            "explanation": "matière fécale,excrément,selles"
+        }
+    ],
+    "general_pinyins": [
+        "fèn"
+    ],
+    "general_zhuyins": [
+        "ㄈㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "米",
+        "non_radical_sn": "6",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "糞"
+    ],
+    "general_ytz": [
+        "糞",
+        "䆏",
+        "𡊄",
+        "𡐢",
+        "𤲲",
+        "𥹻",
+        "𥻎",
+        "𥻔",
+        "𥻪",
+        "𥻰",
+        "𥼇",
+        "𥼈",
+        "𥽒",
+        "𨤘"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7CAA",
+            "431234122134"
+        ],
+        "char_code_wubi": "oawu",
+        "char_code_cangjie": "fdtc",
+        "char_code_zhengma": "ufeo",
+        "char_code_sijiao": "90801"
+    },
+    "general_unicode": "基本区 U+7CAA",
+    "general_bs_code": "431234122134"
+}

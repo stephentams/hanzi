@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "salt, pickle; be dirty"
+        },
+        {
+            "language": "德语",
+            "explanation": "gebundenes Morphem in 腌臜: unsauber (Dialekt)​  (S)​,einpökeln, salzen ,Beize, Essiggurke  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "ā",
+        "yān"
+    ],
+    "general_zhuyins": [
+        "ㄚ",
+        "ㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦟩",
+        "𦞴",
+        "𦜽",
+        "𦛞",
+        "醃",
+        "𨉚"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "814C",
+            "351113425115"
+        ],
+        "char_code_wubi": "edjn",
+        "char_code_cangjie": "bklu",
+        "char_code_zhengma": "qgkz",
+        "char_code_sijiao": "74216"
+    },
+    "general_unicode": "基本区 U+814C",
+    "general_bs_code": "351113425115"
+}

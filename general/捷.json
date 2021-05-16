@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "win, victory, triumph"
+        },
+        {
+            "language": "德语",
+            "explanation": "Sieg, Triumph  (S)​,flink, geschick, agil, schnell, prompt  (Adj)​,Jie  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "prompt,rapide,victoire,triomphe"
+        }
+    ],
+    "general_pinyins": [
+        "jié"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㨗",
+        "㨩",
+        "疌",
+        "𢱅",
+        "𢳿",
+        "𢶝",
+        "插",
+        "掶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6377",
+            "12115112134"
+        ],
+        "char_code_wubi": "rgvh",
+        "char_code_cangjie": "qjlo",
+        "char_code_zhengma": "daxi",
+        "char_code_sijiao": "55081"
+    },
+    "general_unicode": "基本区 U+6377",
+    "general_bs_code": "12115112134"
+}

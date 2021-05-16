@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "clear, pure, clean; peaceful"
+        },
+        {
+            "language": "德语",
+            "explanation": "klar  (Adj)​,erfreulich, angenehm  (Adj)​,geklärt  (Adj)​,Qing-Dynastie (1644-1911)​  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "clair,pur,distinct,net,liquider"
+        }
+    ],
+    "general_pinyins": [
+        "qīng"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄥ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "圊",
+        "淸",
+        "𠗜",
+        "𨓽",
+        "㵙",
+        "𢴆",
+        "𩇝",
+        "𩇟"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6E05",
+            "44111212511"
+        ],
+        "char_code_wubi": "igeg",
+        "char_code_cangjie": "eqmb",
+        "char_code_zhengma": "vcq",
+        "char_code_sijiao": "35127"
+    },
+    "general_unicode": "基本区 U+6E05",
+    "general_bs_code": "44111212511"
+}

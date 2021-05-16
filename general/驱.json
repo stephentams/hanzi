@@ -1,0 +1,56 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "spur a horse on; expel, drive away"
+        },
+        {
+            "language": "德语",
+            "explanation": "ausweisen, ausschließen ,lenken, antreiben"
+        },
+        {
+            "language": "法语",
+            "explanation": "pousser,expulser"
+        }
+    ],
+    "general_pinyins": [
+        "qū"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩ"
+    ],
+    "general_radical": {
+        "radical": "马",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "驅"
+    ],
+    "general_ytz": [
+        "驅",
+        "駆",
+        "敺",
+        "駈",
+        "䮃",
+        "𣦑",
+        "𨒡",
+        "𩢧",
+        "𩢩",
+        "𩣕",
+        "𩤀"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A71",
+            "5511345"
+        ],
+        "char_code_wubi": "caqy|cgar",
+        "char_code_cangjie": "nmsk",
+        "char_code_zhengma": "xhos",
+        "char_code_sijiao": "71114"
+    },
+    "general_unicode": "基本区 U+9A71",
+    "general_bs_code": "5511345"
+}

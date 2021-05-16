@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "be fond of, have weakness for"
+        },
+        {
+            "language": "法语",
+            "explanation": "s'adonner à,être passionné de"
+        }
+    ],
+    "general_pinyins": [
+        "shì"
+    ],
+    "general_zhuyins": [
+        "ㄕˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "呩",
+        "耆",
+        "𦞯",
+        "𨢍",
+        "𩝙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "55DC",
+            "2511213352511"
+        ],
+        "char_code_wubi": "kftj",
+        "char_code_cangjie": "rjpa",
+        "char_code_zhengma": "jbrk",
+        "char_code_sijiao": "64061"
+    },
+    "general_unicode": "基本区 U+55DC",
+    "general_bs_code": "2511213352511"
+}

@@ -1,0 +1,55 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "die; dead; death"
+        },
+        {
+            "language": "德语",
+            "explanation": "sterben  (V)​,starr, unflexibel"
+        },
+        {
+            "language": "法语",
+            "explanation": "mourir,à mort,extrêmement,mort,rigide"
+        }
+    ],
+    "general_pinyins": [
+        "sǐ"
+    ],
+    "general_zhuyins": [
+        "ㄙˇ"
+    ],
+    "general_radical": {
+        "radical": "歹",
+        "non_radical_sn": "2",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "尸",
+        "𠒁",
+        "𢀸",
+        "𣥴",
+        "𣦸",
+        "𣦹",
+        "𣦾",
+        "𣧇",
+        "𤯽",
+        "𦫺",
+        "𦭀",
+        "𠑾"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6B7B",
+            "135435"
+        ],
+        "char_code_wubi": "gqxb|gqxv",
+        "char_code_cangjie": "mnp",
+        "char_code_zhengma": "arrr",
+        "char_code_sijiao": "10212"
+    },
+    "general_unicode": "基本区 U+6B7B",
+    "general_bs_code": "135435"
+}

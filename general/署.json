@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "public office"
+        },
+        {
+            "language": "德语",
+            "explanation": "Büro, öffentliches Amt  (S, Org)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bureau,office"
+        }
+    ],
+    "general_pinyins": [
+        "shǔ"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "罒",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦋧",
+        "署"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F72",
+            "2522112132511"
+        ],
+        "char_code_wubi": "lftj",
+        "char_code_cangjie": "wljka",
+        "char_code_zhengma": "lkbm",
+        "char_code_sijiao": "60604"
+    },
+    "general_unicode": "基本区 U+7F72",
+    "general_bs_code": "2522112132511"
+}

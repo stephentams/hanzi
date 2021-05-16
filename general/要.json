@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "necessary, essential; necessity"
+        },
+        {
+            "language": "德语",
+            "explanation": "etwas haben wollen, wollen, sollen, erfordern, werden, müssen  (V)​,mögen, brauchen  (V)​,Yao  (Eig, Fam)​,Zukunftspartikel"
+        },
+        {
+            "language": "法语",
+            "explanation": "demander,exiger,forcer,contraindre,avoir besoin de,demander,réclamer,désirer,vouloir,nécessiter,falloir,essentiel,substance,si,supposé que,soit... soit..."
+        }
+    ],
+    "general_pinyins": [
+        "yào",
+        "yāo"
+    ],
+    "general_zhuyins": [
+        "ㄧㄠˋ",
+        "ㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "覀",
+        "non_radical_sn": "3",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䙅",
+        "腰",
+        "𠾅",
+        "𡕯",
+        "𡕹",
+        "𡚩",
+        "𡢗",
+        "𦥺",
+        "𦥼"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8981",
+            "125221531"
+        ],
+        "char_code_wubi": "svf",
+        "char_code_cangjie": "mwv",
+        "char_code_zhengma": "fjzm",
+        "char_code_sijiao": "10404"
+    },
+    "general_unicode": "基本区 U+8981",
+    "general_bs_code": "125221531"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "form; appearance; shape; official"
+        },
+        {
+            "language": "德语",
+            "explanation": "Anklage  (S)​,Anschuldigung  (S)​,Kondition  (S)​,Zustand  (S)​,großartig  (Adj)​,stark  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "forme,état,situation,plainte"
+        }
+    ],
+    "general_pinyins": [
+        "zhuàng"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "犬",
+        "non_radical_sn": "3",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "狀"
+    ],
+    "general_ytz": [
+        "狀"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "72B6",
+            "4121344"
+        ],
+        "char_code_wubi": "udy",
+        "char_code_cangjie": "lmik",
+        "char_code_zhengma": "tigs",
+        "char_code_sijiao": "33184"
+    },
+    "general_unicode": "基本区 U+72B6",
+    "general_bs_code": "4121344"
+}

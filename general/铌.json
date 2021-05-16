@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "niobium"
+        },
+        {
+            "language": "德语",
+            "explanation": "Niob (Element 41, Nb)​ (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "niobium"
+        }
+    ],
+    "general_pinyins": [
+        "ní"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "鈮"
+    ],
+    "general_ytz": [
+        "鈮"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94CC",
+            "3111551335"
+        ],
+        "char_code_wubi": "qnxn",
+        "char_code_cangjie": "opsp",
+        "char_code_zhengma": "pxrr",
+        "char_code_sijiao": "87712"
+    },
+    "general_unicode": "基本区 U+94CC",
+    "general_bs_code": "3111551335"
+}

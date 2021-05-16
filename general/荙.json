@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "plantago major"
+        }
+    ],
+    "general_pinyins": [
+        "dá"
+    ],
+    "general_zhuyins": [
+        "ㄉㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "薘"
+    ],
+    "general_ytz": [
+        "薘"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8359",
+            "122134454"
+        ],
+        "char_code_wubi": "adpu",
+        "char_code_cangjie": "tyk",
+        "char_code_zhengma": "egw",
+        "char_code_sijiao": "44308"
+    },
+    "general_unicode": "基本区 U+8359",
+    "general_bs_code": "122134454"
+}

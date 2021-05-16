@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pile of rocks or stones; great"
+        },
+        {
+            "language": "德语",
+            "explanation": "großstückig, klumpig"
+        },
+        {
+            "language": "法语",
+            "explanation": "tas de pierres,amas de roches,sincère,ouvert et honnête"
+        }
+    ],
+    "general_pinyins": [
+        "lěi"
+    ],
+    "general_zhuyins": [
+        "ㄌㄟˇ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "10",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "磥",
+        "礌",
+        "𡾷",
+        "𥗉",
+        "𥗬",
+        "磊"
+    ],
+    "general_structure": "品字结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "78CA",
+            "132511325113251"
+        ],
+        "char_code_wubi": "dddf",
+        "char_code_cangjie": "mrmrr",
+        "char_code_zhengma": "ggg",
+        "char_code_sijiao": "10662"
+    },
+    "general_unicode": "基本区 U+78CA",
+    "general_bs_code": "132511325113251"
+}

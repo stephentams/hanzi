@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a boundary; a border"
+        },
+        {
+            "language": "法语",
+            "explanation": "limite,frontière"
+        }
+    ],
+    "general_pinyins": [
+        "è"
+    ],
+    "general_zhuyins": [
+        "ㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "鄂",
+        "𡑇",
+        "𡓐"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "582E",
+            "121251251115"
+        ],
+        "char_code_wubi": "fkkn",
+        "char_code_cangjie": "grrs",
+        "char_code_zhengma": "bjbz",
+        "char_code_sijiao": "46127"
+    },
+    "general_unicode": "基本区 U+582E",
+    "general_bs_code": "121251251115"
+}

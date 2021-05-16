@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bow; curved, arched; KangXi radical number 57"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bogen"
+        },
+        {
+            "language": "法语",
+            "explanation": "arc,archet,courbé en arc,voûter,courber,mesure agraire de 5 pieds,57e radical"
+        }
+    ],
+    "general_pinyins": [
+        "gōng"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄥ"
+    ],
+    "general_radical": {
+        "radical": "弓",
+        "non_radical_sn": "0",
+        "total_sn": "3"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F13",
+            "515"
+        ],
+        "char_code_wubi": "xngn",
+        "char_code_cangjie": "n",
+        "char_code_zhengma": "yza",
+        "char_code_sijiao": "17027"
+    },
+    "general_unicode": "基本区 U+5F13",
+    "general_bs_code": "515"
+}

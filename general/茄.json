@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "eggplant"
+        },
+        {
+            "language": "德语",
+            "explanation": "Aubergine  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "aubergine"
+        }
+    ],
+    "general_pinyins": [
+        "qié"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "伽"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8304",
+            "12253251"
+        ],
+        "char_code_wubi": "alkf|aekf",
+        "char_code_cangjie": "tksr",
+        "char_code_zhengma": "eyj",
+        "char_code_sijiao": "44460"
+    },
+    "general_unicode": "基本区 U+8304",
+    "general_bs_code": "12253251"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a block that keeps a wheel from moving"
+        },
+        {
+            "language": "德语",
+            "explanation": "Abkantpresse, Bremse  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "frein"
+        }
+    ],
+    "general_pinyins": [
+        "rèn"
+    ],
+    "general_zhuyins": [
+        "ㄖㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "车",
+        "non_radical_sn": "3",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "軔"
+    ],
+    "general_ytz": [
+        "軔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8F6B",
+            "1521534"
+        ],
+        "char_code_wubi": "lvyy",
+        "char_code_cangjie": "kqshi",
+        "char_code_zhengma": "heys",
+        "char_code_sijiao": "47520"
+    },
+    "general_unicode": "基本区 U+8F6B",
+    "general_bs_code": "1521534"
+}

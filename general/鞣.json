@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tan, soften"
+        },
+        {
+            "language": "德语",
+            "explanation": "bräunen ,Gämse  (S)​,Gemse  (S)​,Wildleder  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "foulage"
+        }
+    ],
+    "general_pinyins": [
+        "róu"
+    ],
+    "general_zhuyins": [
+        "ㄖㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "革",
+        "non_radical_sn": "9",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦎤"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "97A3",
+            "122125112545231234"
+        ],
+        "char_code_wubi": "afcs",
+        "char_code_cangjie": "tjnhd",
+        "char_code_zhengma": "eemf",
+        "char_code_sijiao": "47594"
+    },
+    "general_unicode": "基本区 U+97A3",
+    "general_bs_code": "122125112545231234"
+}

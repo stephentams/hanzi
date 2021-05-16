@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "handle of plow; plow; rad. 127"
+        },
+        {
+            "language": "德语",
+            "explanation": "Pflug, pflügen  (S)​,Radikal Nr. 127 = Pflug, Egge"
+        },
+        {
+            "language": "法语",
+            "explanation": "charrue,127e radical"
+        }
+    ],
+    "general_pinyins": [
+        "lěi"
+    ],
+    "general_zhuyins": [
+        "ㄌㄟˇ"
+    ],
+    "general_radical": {
+        "radical": "耒",
+        "non_radical_sn": "0",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8012",
+            "111234"
+        ],
+        "char_code_wubi": "dii|fsi",
+        "char_code_cangjie": "qd",
+        "char_code_zhengma": "cka",
+        "char_code_sijiao": "50900"
+    },
+    "general_unicode": "基本区 U+8012",
+    "general_bs_code": "111234"
+}

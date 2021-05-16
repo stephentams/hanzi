@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "respect, look up to, revere"
+        },
+        {
+            "language": "德语",
+            "explanation": "ehrerbietig, achtungsvoll"
+        },
+        {
+            "language": "法语",
+            "explanation": "respect,ne que"
+        }
+    ],
+    "general_pinyins": [
+        "zhī"
+    ],
+    "general_zhuyins": [
+        "ㄓ"
+    ],
+    "general_radical": {
+        "radical": "礻",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "祬",
+        "𣱊",
+        "𤰋",
+        "𥘡",
+        "𥘢",
+        "𥙂",
+        "𥙠",
+        "𥙥"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7957",
+            "452435154"
+        ],
+        "char_code_wubi": "pyqy",
+        "char_code_cangjie": "ifhpm",
+        "char_code_zhengma": "wsrs",
+        "char_code_sijiao": "32240"
+    },
+    "general_unicode": "基本区 U+7957",
+    "general_bs_code": "452435154"
+}

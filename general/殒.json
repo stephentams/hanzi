@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "die, perish; vanish; fall"
+        },
+        {
+            "language": "德语",
+            "explanation": "krepieren, verenden ,Gewindeschneidbacke  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "mourir,périr"
+        }
+    ],
+    "general_pinyins": [
+        "yǔn"
+    ],
+    "general_zhuyins": [
+        "ㄩㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "歹",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "殞"
+    ],
+    "general_ytz": [
+        "殞"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6B92",
+            "13542512534"
+        ],
+        "char_code_wubi": "gqkm",
+        "char_code_cangjie": "mnrbo",
+        "char_code_zhengma": "arjl",
+        "char_code_sijiao": "16282"
+    },
+    "general_unicode": "基本区 U+6B92",
+    "general_bs_code": "13542512534"
+}

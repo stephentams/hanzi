@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "iron; strong, solid, firm"
+        },
+        {
+            "language": "德语",
+            "explanation": "Eisen (Element 26, Fe)​ (S, Chem)​,Ferrum 法语 fer,objet en fer,arme,armure,outil,gris (couleur du métal)​,dur comme le fer,inébranlable,violent,cruel,dur,complètement"
+        }
+    ],
+    "general_pinyins": [
+        "tiě"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧㄝˇ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "鐵"
+    ],
+    "general_ytz": [
+        "鐵",
+        "鉄",
+        "銕",
+        "鐡",
+        "䥫",
+        "𨦘",
+        "𨫓",
+        "𨬿",
+        "𨮯"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94C1",
+            "3111531134"
+        ],
+        "char_code_wubi": "qrwy|qtgy",
+        "char_code_cangjie": "ophqo",
+        "char_code_zhengma": "pmod",
+        "char_code_sijiao": "85780"
+    },
+    "general_unicode": "基本区 U+94C1",
+    "general_bs_code": "3111531134"
+}

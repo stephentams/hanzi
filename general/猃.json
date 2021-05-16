@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dog"
+        },
+        {
+            "language": "法语",
+            "explanation": "chien à long museau"
+        }
+    ],
+    "general_pinyins": [
+        "xiǎn"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "獫"
+    ],
+    "general_ytz": [
+        "獫",
+        "玁",
+        "𡪯"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7303",
+            "3533414431"
+        ],
+        "char_code_wubi": "qtwi|qtwg",
+        "char_code_cangjie": "khomm",
+        "char_code_zhengma": "qmbv",
+        "char_code_sijiao": "48219"
+    },
+    "general_unicode": "基本区 U+7303",
+    "general_bs_code": "3533414431"
+}

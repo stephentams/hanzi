@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "friendship; appropriate, suitable"
+        },
+        {
+            "language": "德语",
+            "explanation": "Freundschaft  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "amitié"
+        }
+    ],
+    "general_pinyins": [
+        "yì"
+    ],
+    "general_zhuyins": [
+        "ㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "誼"
+    ],
+    "general_ytz": [
+        "誼",
+        "竩",
+        "𧧼"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C0A",
+            "4544525111"
+        ],
+        "char_code_wubi": "ypeg",
+        "char_code_cangjie": "ivjbm",
+        "char_code_zhengma": "swlc",
+        "char_code_sijiao": "33712"
+    },
+    "general_unicode": "基本区 U+8C0A",
+    "general_bs_code": "4544525111"
+}

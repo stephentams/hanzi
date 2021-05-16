@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "moisten, soak; great, deep; dye; to enrich"
+        },
+        {
+            "language": "德语",
+            "explanation": "befeuchten, durchnässen, einweichen, bewässern"
+        },
+        {
+            "language": "法语",
+            "explanation": "gratifier"
+        }
+    ],
+    "general_pinyins": [
+        "wò"
+    ],
+    "general_zhuyins": [
+        "ㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "捂",
+        "𩅵",
+        "漚",
+        "𩄌"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6E25",
+            "441513154121"
+        ],
+        "char_code_wubi": "ingf",
+        "char_code_cangjie": "esmg",
+        "char_code_zhengma": "vxhb",
+        "char_code_sijiao": "37114"
+    },
+    "general_unicode": "基本区 U+6E25",
+    "general_bs_code": "441513154121"
+}

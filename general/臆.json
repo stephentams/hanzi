@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "chest, breast, bosom; thought"
+        },
+        {
+            "language": "德语",
+            "explanation": "Brust  (S, Bio)​,subjektiv  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "poitrine,sentiment"
+        }
+    ],
+    "general_pinyins": [
+        "yì"
+    ],
+    "general_zhuyins": [
+        "ㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "13",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "億",
+        "肊",
+        "𩪣",
+        "𩪩",
+        "醫"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "81C6",
+            "35114143125114544"
+        ],
+        "char_code_wubi": "eujn",
+        "char_code_cangjie": "bytp",
+        "char_code_zhengma": "qskw",
+        "char_code_sijiao": "70236"
+    },
+    "general_unicode": "基本区 U+81C6",
+    "general_bs_code": "35114143125114544"
+}

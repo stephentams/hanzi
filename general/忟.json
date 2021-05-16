@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(Cant.) impatient, restless"
+        }
+    ],
+    "general_pinyins": [
+        "mǐn",
+        "wěn",
+        "mín"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧㄣˇ",
+        "ㄨㄣˇ",
+        "ㄇㄧㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "忞"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5FDF",
+            "4424134"
+        ],
+        "char_code_wubi": "nyy",
+        "char_code_cangjie": "pyk",
+        "char_code_zhengma": "uso",
+        "char_code_sijiao": "90040"
+    },
+    "general_unicode": "基本区 U+5FDF",
+    "general_bs_code": "4424134"
+}

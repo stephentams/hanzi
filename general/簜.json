@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bamboo"
+        },
+        {
+            "language": "法语",
+            "explanation": "(bambou)​"
+        }
+    ],
+    "general_pinyins": [
+        "dàng"
+    ],
+    "general_zhuyins": [
+        "ㄉㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "12",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "盪",
+        "𥯕",
+        "蕩"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7C1C",
+            "314314441251113533"
+        ],
+        "char_code_wubi": "tijr",
+        "char_code_cangjie": "heah",
+        "char_code_zhengma": "mvro",
+        "char_code_sijiao": "88127"
+    },
+    "general_unicode": "基本区 U+7C1C",
+    "general_bs_code": "314314441251113533"
+}

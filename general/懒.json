@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lazy, languid, listless"
+        },
+        {
+            "language": "德语",
+            "explanation": "faul  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "paresseux,las"
+        }
+    ],
+    "general_pinyins": [
+        "lǎn"
+    ],
+    "general_zhuyins": [
+        "ㄌㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "懶"
+    ],
+    "general_ytz": [
+        "嬾",
+        "懶",
+        "孄",
+        "孏",
+        "㦨",
+        "𢤿"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "61D2",
+            "4421251234352534"
+        ],
+        "char_code_wubi": "ngkm|nskm",
+        "char_code_cangjie": "pdlo",
+        "char_code_zhengma": "ufrl",
+        "char_code_sijiao": "97082"
+    },
+    "general_unicode": "基本区 U+61D2",
+    "general_bs_code": "4421251234352534"
+}

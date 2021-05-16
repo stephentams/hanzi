@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "kidnap, abduct; turn"
+        },
+        {
+            "language": "德语",
+            "explanation": "abbiegen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tourner,boiter,béquille"
+        }
+    ],
+    "general_pinyins": [
+        "guǎi"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄞˇ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "柺",
+        "枴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "62D0",
+            "12125153"
+        ],
+        "char_code_wubi": "rkln|rket",
+        "char_code_cangjie": "qrks",
+        "char_code_zhengma": "djym",
+        "char_code_sijiao": "56027"
+    },
+    "general_unicode": "基本区 U+62D0",
+    "general_bs_code": "12125153"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cyanogen; ethane dinitrile"
+        },
+        {
+            "language": "德语",
+            "explanation": "Dicyan, Cyan, Zyan, Oxalsäuredintril (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cyanogène"
+        }
+    ],
+    "general_pinyins": [
+        "qíng"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "气",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𩇛"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6C30",
+            "311511212511"
+        ],
+        "char_code_wubi": "rnge|rged",
+        "char_code_cangjie": "onqmb",
+        "char_code_zhengma": "mycq",
+        "char_code_sijiao": "80217"
+    },
+    "general_unicode": "基本区 U+6C30",
+    "general_bs_code": "311511212511"
+}

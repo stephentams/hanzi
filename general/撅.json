@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "protrude; snap, break; dig"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufhören, abbrechen  (V)​,herausragen, herausstehen  (V)​,aufheben"
+        },
+        {
+            "language": "法语",
+            "explanation": "rompre,briser,creuser"
+        }
+    ],
+    "general_pinyins": [
+        "juē",
+        "jué"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄝ",
+        "ㄐㄩㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "掘",
+        "噘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6485",
+            "121134315233534"
+        ],
+        "char_code_wubi": "rduw",
+        "char_code_cangjie": "qmto",
+        "char_code_zhengma": "dgzr",
+        "char_code_sijiao": "51082"
+    },
+    "general_unicode": "基本区 U+6485",
+    "general_bs_code": "121134315233534"
+}

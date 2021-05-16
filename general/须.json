@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "must, have to, necessary"
+        },
+        {
+            "language": "德语",
+            "explanation": "müssen; Bart; Fühler (Zool)​ ,Xu  (Eig, Fam)"
+        }
+    ],
+    "general_pinyins": [
+        "xū"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩ"
+    ],
+    "general_radical": {
+        "radical": "页",
+        "non_radical_sn": "3",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "須",
+        "鬚"
+    ],
+    "general_ytz": [
+        "須",
+        "鬚",
+        "𩓣"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "987B",
+            "333132534"
+        ],
+        "char_code_wubi": "edmy",
+        "char_code_cangjie": "hhmbo",
+        "char_code_zhengma": "pdgo",
+        "char_code_sijiao": "21282"
+    },
+    "general_unicode": "基本区 U+987B",
+    "general_bs_code": "333132534"
+}

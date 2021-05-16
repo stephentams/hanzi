@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "the hippuris or mare's tail plant"
+        },
+        {
+            "language": "法语",
+            "explanation": "hippuris,queue de jument"
+        }
+    ],
+    "general_pinyins": [
+        "yùn"
+    ],
+    "general_zhuyins": [
+        "ㄩㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "薀"
+    ],
+    "general_ytz": [
+        "薀"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8570",
+            "122441251125221"
+        ],
+        "char_code_wubi": "aijl",
+        "char_code_cangjie": "teat",
+        "char_code_zhengma": "evkl",
+        "char_code_sijiao": "44112"
+    },
+    "general_unicode": "基本区 U+8570",
+    "general_bs_code": "122441251125221"
+}

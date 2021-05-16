@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "skeleton, body; leg bone"
+        },
+        {
+            "language": "德语",
+            "explanation": "Knochen des Körpers"
+        },
+        {
+            "language": "法语",
+            "explanation": "os,squellette,ossature,corps"
+        }
+    ],
+    "general_pinyins": [
+        "hái"
+    ],
+    "general_zhuyins": [
+        "ㄏㄞˊ"
+    ],
+    "general_radical": {
+        "radical": "骨",
+        "non_radical_sn": "6",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "胲",
+        "䠹",
+        "䯐",
+        "𡱍",
+        "𩩏",
+        "𩩰"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9AB8",
+            "255452511415334"
+        ],
+        "char_code_wubi": "meyw",
+        "char_code_cangjie": "bbyvo",
+        "char_code_zhengma": "lwzo",
+        "char_code_sijiao": "70282"
+    },
+    "general_unicode": "基本区 U+9AB8",
+    "general_bs_code": "255452511415334"
+}

@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "measuring cup; wine container"
+        }
+    ],
+    "general_pinyins": [
+        "zhī"
+    ],
+    "general_zhuyins": [
+        "ㄓ"
+    ],
+    "general_radical": {
+        "radical": "㔾",
+        "non_radical_sn": "3",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "巵",
+        "𠨬",
+        "𨆋",
+        "𣏌"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "536E",
+            "33155"
+        ],
+        "char_code_wubi": "rgbv",
+        "char_code_cangjie": "hmsu",
+        "char_code_zhengma": "pday",
+        "char_code_sijiao": "72212"
+    },
+    "general_unicode": "基本区 U+536E",
+    "general_bs_code": "33155"
+}

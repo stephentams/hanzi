@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "demon, evil spirits; magic power"
+        },
+        {
+            "language": "德语",
+            "explanation": "Dämon  (S)​,Teufel  (S)​,magisch, mystisch  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "démon,diable"
+        }
+    ],
+    "general_pinyins": [
+        "mó"
+    ],
+    "general_zhuyins": [
+        "ㄇㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "鬼",
+        "non_radical_sn": "11",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9B54",
+            "41312341234325113554"
+        ],
+        "char_code_wubi": "yssc|ossc",
+        "char_code_cangjie": "ichui",
+        "char_code_zhengma": "tgfn",
+        "char_code_sijiao": "00213"
+    },
+    "general_unicode": "基本区 U+9B54",
+    "general_bs_code": "41312341234325113554"
+}

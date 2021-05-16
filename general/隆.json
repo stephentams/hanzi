@@ -1,0 +1,59 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "prosperous, plentiful, abundant"
+        },
+        {
+            "language": "德语",
+            "explanation": "groß, erhaben, feierlich  (Adj)​,stark, gewaltig  (Adj)​,Long  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "proéminent,profond,grandiose,solennel,prospère,intense,proéminent"
+        }
+    ],
+    "general_pinyins": [
+        "lóng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "嶐",
+        "窿",
+        "霳",
+        "靇",
+        "𠾐",
+        "𤯲",
+        "𨹠",
+        "𨹿",
+        "𨺚",
+        "𨺼",
+        "𨻦",
+        "𨼇",
+        "𨺛",
+        "𨺓",
+        "𪔳",
+        "隆"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9686",
+            "52354131121"
+        ],
+        "char_code_wubi": "btgg",
+        "char_code_cangjie": "nlhem",
+        "char_code_zhengma": "yram",
+        "char_code_sijiao": "77215"
+    },
+    "general_unicode": "基本区 U+9686",
+    "general_bs_code": "52354131121"
+}

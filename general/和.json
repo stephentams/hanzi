@@ -1,0 +1,63 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "harmony, peace; peaceful, calm"
+        },
+        {
+            "language": "德语",
+            "explanation": "und, mit  (Konj)​,Addition  (S, Math)​,ein Antwortgedicht verfassen (V, Lit)​,einstimmen, Gesang erwidern (V, Mus)​,etwas Feinkörniges mit einer Flüssigkeit verrühren (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "poésie,compléter un ensemble au mahjong,compléter une suite aux cartes,doux,pétrir,mêler"
+        }
+    ],
+    "general_pinyins": [
+        "hé",
+        "hè",
+        "huó",
+        "huò",
+        "hú"
+    ],
+    "general_zhuyins": [
+        "ㄏㄜˊ",
+        "ㄏㄜˋ",
+        "ㄏㄨㄛˊ",
+        "ㄏㄨㄛˋ",
+        "ㄏㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "咊",
+        "咼",
+        "惒",
+        "盉",
+        "訸",
+        "鉌",
+        "龢",
+        "𤧗",
+        "𥤉",
+        "𧇮",
+        "㕿",
+        "𠰓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "548C",
+            "31234251"
+        ],
+        "char_code_wubi": "tkg",
+        "char_code_cangjie": "hdr",
+        "char_code_zhengma": "mfj",
+        "char_code_sijiao": "26900"
+    },
+    "general_unicode": "基本区 U+548C",
+    "general_bs_code": "31234251"
+}

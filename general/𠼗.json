@@ -1,0 +1,35 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to blink"
+        }
+    ],
+    "general_pinyins": [
+        "zàn"
+    ],
+    "general_zhuyins": [
+        "ㄗㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "囋"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "20F17",
+            "25112511123312"
+        ],
+        "char_code_wubi": "klrh",
+        "char_code_cangjie": "rjjl",
+        "char_code_zhengma": "jfpd"
+    },
+    "general_unicode": "扩展B U+20F17",
+    "general_bs_code": "25112511123312"
+}

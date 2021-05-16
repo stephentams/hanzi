@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mix"
+        },
+        {
+            "language": "德语",
+            "explanation": "vermischen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "battre"
+        }
+    ],
+    "general_pinyins": [
+        "bàn",
+        "pàn"
+    ],
+    "general_zhuyins": [
+        "ㄅㄢˋ",
+        "ㄆㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢬵",
+        "秚"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "62CC",
+            "12143112"
+        ],
+        "char_code_wubi": "rufh|rugh",
+        "char_code_cangjie": "qfq",
+        "char_code_zhengma": "dub",
+        "char_code_sijiao": "59050"
+    },
+    "general_unicode": "基本区 U+62CC",
+    "general_bs_code": "12143112"
+}

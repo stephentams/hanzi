@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to close; to stop up; to obstruct"
+        }
+    ],
+    "general_pinyins": [
+        "bì",
+        "mì"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧˋ",
+        "ㄇㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "囗",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "全包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3620",
+            "25454341"
+        ],
+        "char_code_wubi": "lnte",
+        "char_code_cangjie": "wph",
+        "char_code_zhengma": "jdwm",
+        "char_code_sijiao": "60334"
+    },
+    "general_unicode": "扩展A U+3620",
+    "general_bs_code": "25454341"
+}

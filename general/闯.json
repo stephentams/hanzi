@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rush in, burst in, charge in"
+        },
+        {
+            "language": "法语",
+            "explanation": "faire irruption,se lancer,se précipiter,se tremper,s'aguerrir"
+        }
+    ],
+    "general_pinyins": [
+        "chuǎng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "门",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "闖"
+    ],
+    "general_ytz": [
+        "闖",
+        "𨶻",
+        "𨳐"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "95EF",
+            "425551"
+        ],
+        "char_code_wubi": "ucd|ucgd",
+        "char_code_cangjie": "lsnvm",
+        "char_code_zhengma": "tlx",
+        "char_code_sijiao": "37127"
+    },
+    "general_unicode": "基本区 U+95EF",
+    "general_bs_code": "425551"
+}

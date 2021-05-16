@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a fabulous creature like a turtle; a toad"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fabeltier  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "monstre légendaire embusqué au fond des eaux pour attaquer l'Homme"
+        }
+    ],
+    "general_pinyins": [
+        "yù"
+    ],
+    "general_zhuyins": [
+        "ㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "8",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "蟈",
+        "𧌒",
+        "魊"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "872E",
+            "25121412511534"
+        ],
+        "char_code_wubi": "jakg",
+        "char_code_cangjie": "liirm",
+        "char_code_zhengma": "ihja",
+        "char_code_sijiao": "53150"
+    },
+    "general_unicode": "基本区 U+872E",
+    "general_bs_code": "25121412511534"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "the silvery pomfret, Stromateoides argenteus"
+        },
+        {
+            "language": "法语",
+            "explanation": "anguille de mer"
+        }
+    ],
+    "general_pinyins": [
+        "chāng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄤ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "8",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "鯧"
+    ],
+    "general_ytz": [
+        "鯧",
+        "䱽",
+        "𩼺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9CB3",
+            "3525121125112511"
+        ],
+        "char_code_wubi": "qgjj",
+        "char_code_cangjie": "nmaa",
+        "char_code_zhengma": "rkk",
+        "char_code_sijiao": "26160"
+    },
+    "general_unicode": "基本区 U+9CB3",
+    "general_bs_code": "3525121125112511"
+}

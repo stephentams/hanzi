@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tent; mosquito net"
+        },
+        {
+            "language": "德语",
+            "explanation": "Zelt, zelten  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tente"
+        }
+    ],
+    "general_pinyins": [
+        "wò"
+    ],
+    "general_zhuyins": [
+        "ㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "巾",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢄰",
+        "𧛐"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5E44",
+            "252513154121"
+        ],
+        "char_code_wubi": "mhnf",
+        "char_code_cangjie": "lbsmg",
+        "char_code_zhengma": "lixh",
+        "char_code_sijiao": "47214"
+    },
+    "general_unicode": "基本区 U+5E44",
+    "general_bs_code": "252513154121"
+}

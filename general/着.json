@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "make move, take action"
+        },
+        {
+            "language": "德语",
+            "explanation": "gleich wie 着 (veraltet)​ ,berühren  (V)​,Feuer fangen ,in Kontakt kommen ,bildet nach einem Verb die Verlaufsform ,deutlich, verfassen, zeigen (V)​,an etw. haften; anziehen (veraltet, jetzt wird zu 着)​  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "perdre la tête,s'énerver,atteindre,brûler,atteindre,toucher,appliquer (une couleur)​,porter,se vêtir,(marque le déroulement d'une action)​,mouvement (échecs)​,d'accord!,(dialecte)​ pour ajouter,remarquable,manifester,écrire,oeuvre"
+        }
+    ],
+    "general_pinyins": [
+        "zhuó",
+        "zháo",
+        "zhāo",
+        "zhe"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨㄛˊ",
+        "ㄓㄠˊ",
+        "ㄓㄠ",
+        "˙ㄓㄜ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "著"
+    ],
+    "general_ytz": [
+        "着"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7740",
+            "43111325111"
+        ],
+        "char_code_wubi": "udhf|uhf",
+        "char_code_cangjie": "tqbu",
+        "char_code_zhengma": "ucl",
+        "char_code_sijiao": "80605"
+    },
+    "general_unicode": "基本区 U+7740",
+    "general_bs_code": "43111325111"
+}

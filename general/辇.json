@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hand-cart; transport by carriage"
+        },
+        {
+            "language": "法语",
+            "explanation": "char impérial,la cour"
+        }
+    ],
+    "general_pinyins": [
+        "niǎn"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "车",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "輦"
+    ],
+    "general_ytz": [
+        "輦",
+        "𨍻",
+        "𨘪"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8F87",
+            "113411341512"
+        ],
+        "char_code_wubi": "fwfl|gglj",
+        "char_code_cangjie": "qokq",
+        "char_code_zhengma": "bdoh",
+        "char_code_sijiao": "55504"
+    },
+    "general_unicode": "基本区 U+8F87",
+    "general_bs_code": "113411341512"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "alone; quiet, still"
+        },
+        {
+            "language": "德语",
+            "explanation": "ruhig, still"
+        },
+        {
+            "language": "法语",
+            "explanation": "calme,vivre seul"
+        }
+    ],
+    "general_pinyins": [
+        "qù"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "门",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "闃"
+    ],
+    "general_ytz": [
+        "闃"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9612",
+            "425251111344"
+        ],
+        "char_code_wubi": "uhdi",
+        "char_code_cangjie": "lsbuk",
+        "char_code_zhengma": "tlgs",
+        "char_code_sijiao": "37804"
+    },
+    "general_unicode": "基本区 U+9612",
+    "general_bs_code": "425251111344"
+}

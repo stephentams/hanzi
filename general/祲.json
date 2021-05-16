@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ominous or sinister spirit; vigor"
+        },
+        {
+            "language": "法语",
+            "explanation": "force maléfique"
+        }
+    ],
+    "general_pinyins": [
+        "jìn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "礻",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥛀",
+        "𥛆"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7972",
+            "45245114554"
+        ],
+        "char_code_wubi": "pyvc",
+        "char_code_cangjie": "ifsme",
+        "char_code_zhengma": "wswx",
+        "char_code_sijiao": "37247"
+    },
+    "general_unicode": "基本区 U+7972",
+    "general_bs_code": "45245114554"
+}

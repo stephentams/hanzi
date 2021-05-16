@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "amine"
+        },
+        {
+            "language": "德语",
+            "explanation": "Amin, Amine  (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "amine (chimie)​"
+        }
+    ],
+    "general_pinyins": [
+        "àn"
+    ],
+    "general_zhuyins": [
+        "ㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦛅"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "80FA",
+            "3511445531"
+        ],
+        "char_code_wubi": "epvg",
+        "char_code_cangjie": "bjv",
+        "char_code_zhengma": "qwzm",
+        "char_code_sijiao": "73244"
+    },
+    "general_unicode": "基本区 U+80FA",
+    "general_bs_code": "3511445531"
+}

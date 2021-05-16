@@ -1,0 +1,59 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cheeks; jaw; chin; rear; to nourish"
+        },
+        {
+            "language": "德语",
+            "explanation": "ernähren, hegen ,Pobacken, Backen  (S)​,Yi  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "partie inférieure de la joue,nourrir,entretenir,se soigner"
+        }
+    ],
+    "general_pinyins": [
+        "yí"
+    ],
+    "general_zhuyins": [
+        "ㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "页",
+        "non_radical_sn": "7",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "頤"
+    ],
+    "general_ytz": [
+        "頤",
+        "頉",
+        "頥",
+        "顊",
+        "㶊",
+        "𦣞",
+        "𩑪",
+        "𩒫",
+        "𩔦",
+        "𩠛",
+        "𩠝",
+        "𩠞",
+        "𩠡",
+        "𩠢"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9890",
+            "1225125132534"
+        ],
+        "char_code_wubi": "ahkm",
+        "char_code_cangjie": "slmbo",
+        "char_code_zhengma": "hgo",
+        "char_code_sijiao": "71782"
+    },
+    "general_unicode": "基本区 U+9890",
+    "general_bs_code": "1225125132534"
+}

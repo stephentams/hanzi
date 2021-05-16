@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "liquor, spirits, wine; ferment"
+        }
+    ],
+    "general_pinyins": [
+        "yùn"
+    ],
+    "general_zhuyins": [
+        "ㄩㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "酉",
+        "non_radical_sn": "4",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "醖",
+        "醞"
+    ],
+    "general_ytz": [
+        "醞",
+        "醖"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "915D",
+            "12535111154"
+        ],
+        "char_code_wubi": "sgfc",
+        "char_code_cangjie": "mwmmi",
+        "char_code_zhengma": "fdbz",
+        "char_code_sijiao": "11632"
+    },
+    "general_unicode": "基本区 U+915D",
+    "general_bs_code": "12535111154"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "chlorine"
+        },
+        {
+            "language": "德语",
+            "explanation": "Chlor (Element 17, Cl)​ (S, Chem)​,chloro (Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "chlore"
+        }
+    ],
+    "general_pinyins": [
+        "lǜ"
+    ],
+    "general_zhuyins": [
+        "ㄌㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "气",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㲶"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6C2F",
+            "311551124134"
+        ],
+        "char_code_wubi": "rnvi|rvii",
+        "char_code_cangjie": "onnme",
+        "char_code_zhengma": "myxk",
+        "char_code_sijiao": "80917"
+    },
+    "general_unicode": "基本区 U+6C2F",
+    "general_bs_code": "311551124134"
+}

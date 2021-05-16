@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tongs, pincers; dagger; sword"
+        },
+        {
+            "language": "德语",
+            "explanation": "Degen, Säbel  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "pinces pour utiliser avec un feu,épée"
+        }
+    ],
+    "general_pinyins": [
+        "jiá"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "鋏"
+    ],
+    "general_ytz": [
+        "鋏",
+        "𨦇"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94D7",
+            "31115143134"
+        ],
+        "char_code_wubi": "qguw|qgud",
+        "char_code_cangjie": "opkt",
+        "char_code_zhengma": "pbuo",
+        "char_code_sijiao": "85780"
+    },
+    "general_unicode": "基本区 U+94D7",
+    "general_bs_code": "31115143134"
+}

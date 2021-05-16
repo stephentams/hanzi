@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hanging fog, misty"
+        },
+        {
+            "language": "法语",
+            "explanation": "forces génératives,émanation magique"
+        }
+    ],
+    "general_pinyins": [
+        "yīn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄣ"
+    ],
+    "general_radical": {
+        "radical": "气",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "絪",
+        "𣱜"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6C24",
+            "3115251341"
+        ],
+        "char_code_wubi": "rnld|rldi",
+        "char_code_cangjie": "onwk",
+        "char_code_zhengma": "myjd",
+        "char_code_sijiao": "80617"
+    },
+    "general_unicode": "基本区 U+6C24",
+    "general_bs_code": "3115251341"
+}

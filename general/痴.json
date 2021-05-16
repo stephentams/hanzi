@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "foolish, stupid, dumb, silly"
+        },
+        {
+            "language": "德语",
+            "explanation": "Dummkopf  (S)​,dumm, sentimental, stupid, töricht  (Adj)"
+        }
+    ],
+    "general_pinyins": [
+        "chī"
+    ],
+    "general_zhuyins": [
+        "ㄔ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "癡",
+        "𠈴",
+        "𢣕",
+        "𤶢"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "75F4",
+            "4134131134251"
+        ],
+        "char_code_wubi": "utdk",
+        "char_code_cangjie": "kokr",
+        "char_code_zhengma": "tmj",
+        "char_code_sijiao": "00160"
+    },
+    "general_unicode": "基本区 U+75F4",
+    "general_bs_code": "4134131134251"
+}

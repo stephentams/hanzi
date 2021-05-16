@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "heel; follow; visit, call on"
+        },
+        {
+            "language": "德语",
+            "explanation": "beachten, befolgen"
+        },
+        {
+            "language": "法语",
+            "explanation": "talon,suivre"
+        }
+    ],
+    "general_pinyins": [
+        "zhǒng"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "9",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㣫",
+        "徸",
+        "歱",
+        "𣦟"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E35",
+            "2512121312511211"
+        ],
+        "char_code_wubi": "khtf",
+        "char_code_cangjie": "rmhjg",
+        "char_code_zhengma": "jikb",
+        "char_code_sijiao": "62115"
+    },
+    "general_unicode": "基本区 U+8E35",
+    "general_bs_code": "2512121312511211"
+}

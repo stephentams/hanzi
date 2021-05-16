@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to hibernate"
+        },
+        {
+            "language": "德语",
+            "explanation": "überwintern ,überwintern"
+        },
+        {
+            "language": "法语",
+            "explanation": "piquer,hiberner"
+        }
+    ],
+    "general_pinyins": [
+        "zhé"
+    ],
+    "general_zhuyins": [
+        "ㄓㄜˊ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "6",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "蟄"
+    ],
+    "general_ytz": [
+        "蟄",
+        "𧒦"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "86F0",
+            "121354251214"
+        ],
+        "char_code_wubi": "rvyj",
+        "char_code_cangjie": "qilmi",
+        "char_code_zhengma": "dqsi",
+        "char_code_sijiao": "55136"
+    },
+    "general_unicode": "基本区 U+86F0",
+    "general_bs_code": "121354251214"
+}

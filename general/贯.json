@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a string of 1000 coins; to go through"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufreihen, bespannen ,lochen, durchbohren"
+        },
+        {
+            "language": "法语",
+            "explanation": "traverser,pénétrer"
+        }
+    ],
+    "general_pinyins": [
+        "guàn"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "貫"
+    ],
+    "general_ytz": [
+        "貫",
+        "䝺",
+        "𢿒"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D2F",
+            "55212534"
+        ],
+        "char_code_wubi": "xfmu|xmu",
+        "char_code_cangjie": "wjbo",
+        "char_code_zhengma": "zylo",
+        "char_code_sijiao": "77802"
+    },
+    "general_unicode": "基本区 U+8D2F",
+    "general_bs_code": "55212534"
+}

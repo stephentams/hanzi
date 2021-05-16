@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "baby, infant; bother"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kleinkind, Baby  (S)​,Ying  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bébé,nouveau-né"
+        }
+    ],
+    "general_pinyins": [
+        "yīng"
+    ],
+    "general_zhuyins": [
+        "ㄧㄥ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "嬰"
+    ],
+    "general_ytz": [
+        "嬰",
+        "孆",
+        "孾",
+        "𦦿"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5A74",
+            "25342534531"
+        ],
+        "char_code_wubi": "mmvf",
+        "char_code_cangjie": "bov",
+        "char_code_zhengma": "lolz",
+        "char_code_sijiao": "77404"
+    },
+    "general_unicode": "基本区 U+5A74",
+    "general_bs_code": "25342534531"
+}

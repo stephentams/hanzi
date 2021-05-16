@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "soldier, troops"
+        },
+        {
+            "language": "德语",
+            "explanation": "Soldat"
+        },
+        {
+            "language": "法语",
+            "explanation": "soldat,arme,armée,militaire,guerre,stratégie"
+        }
+    ],
+    "general_pinyins": [
+        "bīng"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄥ"
+    ],
+    "general_radical": {
+        "radical": "八",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠈯",
+        "𠉔",
+        "𠡿",
+        "𠦛",
+        "𠬿"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5175",
+            "3212134"
+        ],
+        "char_code_wubi": "rgwu|rwu",
+        "char_code_cangjie": "omc",
+        "char_code_zhengma": "pdao",
+        "char_code_sijiao": "72801"
+    },
+    "general_unicode": "基本区 U+5175",
+    "general_bs_code": "3212134"
+}

@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "waste cotton, raw silk or cotton"
+        },
+        {
+            "language": "德语",
+            "explanation": "Xu  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "ouate,duvet,ouater,rembourrer"
+        }
+    ],
+    "general_pinyins": [
+        "xù"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "糸",
+        "non_radical_sn": "6",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7D6E",
+            "531251554234"
+        ],
+        "char_code_wubi": "vkxi",
+        "char_code_cangjie": "vrvif",
+        "char_code_zhengma": "zmjz",
+        "char_code_sijiao": "46903"
+    },
+    "general_unicode": "基本区 U+7D6E",
+    "general_bs_code": "531251554234"
+}

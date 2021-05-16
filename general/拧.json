@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pinch; twist, wring; determined"
+        },
+        {
+            "language": "德语",
+            "explanation": "abbringen, erzwingen ,kneifen, zwicken ,drehen, schrauben  (V)​, verkeht, falsch, falsch aufgefaßt, verdreht  (Adj)​,entgegengesetzt, uneinig  (Adj)​,eigensinnig, dickköpfig"
+        },
+        {
+            "language": "法语",
+            "explanation": "tordre,essorer,pincer,visser,tourner (une vanne, un bouchon à vis)​,erreur,être en désaccord,têtu"
+        }
+    ],
+    "general_pinyins": [
+        "níng",
+        "nǐng",
+        "nìng"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧㄥˊ",
+        "ㄋㄧㄥˇ",
+        "ㄋㄧㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "擰"
+    ],
+    "general_ytz": [
+        "擰"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "62E7",
+            "12144512"
+        ],
+        "char_code_wubi": "rpsh",
+        "char_code_cangjie": "qjmn",
+        "char_code_zhengma": "dwai",
+        "char_code_sijiao": "53021"
+    },
+    "general_unicode": "基本区 U+62E7",
+    "general_bs_code": "12144512"
+}

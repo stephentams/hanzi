@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a cushion, mattress; wormwood; Skimmia japon"
+        },
+        {
+            "language": "德语",
+            "explanation": "Matte, Matratze, Kissen, Polster  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "coussin,tapis"
+        }
+    ],
+    "general_pinyins": [
+        "yīn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄣ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𩎪",
+        "鞇",
+        "筃",
+        "絪"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8335",
+            "122251341"
+        ],
+        "char_code_wubi": "aldu",
+        "char_code_cangjie": "twk",
+        "char_code_zhengma": "ejd",
+        "char_code_sijiao": "44600"
+    },
+    "general_unicode": "基本区 U+8335",
+    "general_bs_code": "122251341"
+}

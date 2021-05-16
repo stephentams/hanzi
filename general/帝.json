@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "supreme ruler, emperor; god"
+        },
+        {
+            "language": "德语",
+            "explanation": "erhabenes Wesen; Kaiser  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "empereur,être suprême,impérialisme"
+        }
+    ],
+    "general_pinyins": [
+        "dì"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "巾",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠫦",
+        "𢂇",
+        "𠫜"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5E1D",
+            "414345252"
+        ],
+        "char_code_wubi": "upmh|yuph",
+        "char_code_cangjie": "yblb",
+        "char_code_zhengma": "suwl",
+        "char_code_sijiao": "00227"
+    },
+    "general_unicode": "基本区 U+5E1D",
+    "general_bs_code": "414345252"
+}

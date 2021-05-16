@@ -1,0 +1,32 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as U+5EDD 廝) a servant; a menial, a woodcutter"
+        }
+    ],
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "12",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "廝"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "348B",
+            "32122111343312"
+        ],
+        "char_code_wubi": "wadr|wdwr",
+        "char_code_cangjie": "otcl",
+        "char_code_zhengma": "nepd",
+        "char_code_sijiao": "22221"
+    },
+    "general_unicode": "扩展A U+348B",
+    "general_bs_code": "32122111343312"
+}

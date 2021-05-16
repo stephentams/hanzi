@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "black and shining; ebony"
+        },
+        {
+            "language": "法语",
+            "explanation": "ébène noir et brillant"
+        }
+    ],
+    "general_pinyins": [
+        "yī"
+    ],
+    "general_zhuyins": [
+        "ㄧ"
+    ],
+    "general_radical": {
+        "radical": "黑",
+        "non_radical_sn": "6",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "黝",
+        "𢉬",
+        "𣘦",
+        "𪐚",
+        "𪐭",
+        "𪑁"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9EDF",
+            "254312114444354354"
+        ],
+        "char_code_wubi": "lfoq",
+        "char_code_cangjie": "wfnin",
+        "char_code_zhengma": "lkrr",
+        "char_code_sijiao": "67327"
+    },
+    "general_unicode": "基本区 U+9EDF",
+    "general_bs_code": "254312114444354354"
+}

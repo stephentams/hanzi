@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "law, rule; open up, develop"
+        },
+        {
+            "language": "法语",
+            "explanation": "roi,monarque,s'engager,repousser,éviter"
+        }
+    ],
+    "general_pinyins": [
+        "bì",
+        "pì"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧˋ",
+        "ㄆㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "辛",
+        "non_radical_sn": "6",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "嬖",
+        "𠈳",
+        "𠊕",
+        "𠊸",
+        "𠮃",
+        "𦜺",
+        "𨐓",
+        "𨐝",
+        "𨐢",
+        "𨐨",
+        "避",
+        "闢",
+        "𪿢"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8F9F",
+            "5132514143112"
+        ],
+        "char_code_wubi": "nkuh",
+        "char_code_cangjie": "srytj",
+        "char_code_zhengma": "xmjs",
+        "char_code_sijiao": "70241"
+    },
+    "general_unicode": "基本区 U+8F9F",
+    "general_bs_code": "5132514143112"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "elegant, graceful, refined"
+        },
+        {
+            "language": "德语",
+            "explanation": "elegant  (Adj)​,Ya  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "élégant,gracieux"
+        }
+    ],
+    "general_pinyins": [
+        "yǎ"
+    ],
+    "general_zhuyins": [
+        "ㄧㄚˇ"
+    ],
+    "general_radical": {
+        "radical": "隹",
+        "non_radical_sn": "4",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "伢",
+        "疋",
+        "鴉",
+        "𤴓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "96C5",
+            "152332411121"
+        ],
+        "char_code_wubi": "ahty",
+        "char_code_cangjie": "mhog",
+        "char_code_zhengma": "hini",
+        "char_code_sijiao": "70215"
+    },
+    "general_unicode": "基本区 U+96C5",
+    "general_bs_code": "152332411121"
+}

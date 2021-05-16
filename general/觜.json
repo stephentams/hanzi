@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "beak"
+        },
+        {
+            "language": "德语",
+            "explanation": "Öffnung, Schnabel (einer Teekanne)​  (S)​,Mund; Maul; Schnauze; Schnabel  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bouche"
+        }
+    ],
+    "general_pinyins": [
+        "zī",
+        "zuǐ"
+    ],
+    "general_zhuyins": [
+        "ㄗ",
+        "ㄗㄨㄟˇ"
+    ],
+    "general_radical": {
+        "radical": "角",
+        "non_radical_sn": "6",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡁫",
+        "𠿘",
+        "𠲋",
+        "嘴",
+        "㭰"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "89DC",
+            "2121353535112"
+        ],
+        "char_code_wubi": "hxqe",
+        "char_code_cangjie": "ypnbg",
+        "char_code_zhengma": "iirl",
+        "char_code_sijiao": "22227"
+    },
+    "general_unicode": "基本区 U+89DC",
+    "general_bs_code": "2121353535112"
+}

@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sovereign, monarch, ruler, chief, prince"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gebieter  (S)​,Jun  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "souverain,monarque,gentleman,dirigeant"
+        }
+    ],
+    "general_pinyins": [
+        "jūn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄣ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠁈",
+        "𠱩",
+        "𠱭",
+        "𠱰",
+        "𠺞",
+        "𠀹"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "541B",
+            "5113251"
+        ],
+        "char_code_wubi": "vtkd|vtkf",
+        "char_code_cangjie": "skr",
+        "char_code_zhengma": "xmaj",
+        "char_code_sijiao": "17607"
+    },
+    "general_unicode": "基本区 U+541B",
+    "general_bs_code": "5113251"
+}

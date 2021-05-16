@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "grave, tomb, cemetery"
+        },
+        {
+            "language": "法语",
+            "explanation": "tombe,cimetière"
+        }
+    ],
+    "general_pinyins": [
+        "yíng"
+    ],
+    "general_zhuyins": [
+        "ㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "塋"
+    ],
+    "general_ytz": [
+        "塋"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8314",
+            "12245121"
+        ],
+        "char_code_wubi": "apff",
+        "char_code_cangjie": "tbg",
+        "char_code_zhengma": "ewb",
+        "char_code_sijiao": "44104"
+    },
+    "general_unicode": "基本区 U+8314",
+    "general_bs_code": "12245121"
+}

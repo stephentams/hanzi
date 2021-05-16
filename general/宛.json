@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "seem, as if, crooked"
+        },
+        {
+            "language": "德语",
+            "explanation": "gleich, ähnlich ,Wan  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "comme si"
+        }
+    ],
+    "general_pinyins": [
+        "wǎn",
+        "yuān"
+    ],
+    "general_zhuyins": [
+        "ㄨㄢˇ",
+        "ㄩㄢ"
+    ],
+    "general_radical": {
+        "radical": "宀",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "惌"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5B9B",
+            "44535455"
+        ],
+        "char_code_wubi": "pqbb",
+        "char_code_cangjie": "jniu",
+        "char_code_zhengma": "wdry",
+        "char_code_sijiao": "30212"
+    },
+    "general_unicode": "基本区 U+5B9B",
+    "general_bs_code": "44535455"
+}

@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "first; dollar; origin; head"
+        },
+        {
+            "language": "德语",
+            "explanation": "ZEW für Geld  (Num)​,Yuan  (Eig)"
+        },
+        {
+            "language": "法语",
+            "explanation": "yuan,(dollar, yen)​,premier principe,originel,(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "yuán"
+    ],
+    "general_zhuyins": [
+        "ㄩㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "二",
+        "non_radical_sn": "2",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "圓",
+        "原"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5143",
+            "1135"
+        ],
+        "char_code_wubi": "fqb",
+        "char_code_cangjie": "mmu",
+        "char_code_zhengma": "bdrd",
+        "char_code_sijiao": "10212"
+    },
+    "general_unicode": "基本区 U+5143",
+    "general_bs_code": "1135"
+}

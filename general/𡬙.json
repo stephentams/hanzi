@@ -1,0 +1,31 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to wake from sleep"
+        }
+    ],
+    "general_pinyins": [
+        "sèng"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "宀",
+        "non_radical_sn": "23",
+        "total_sn": "26"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "21B19",
+            "445521321212522145251113422"
+        ],
+        "char_code_wubi": "pnhj",
+        "char_code_cangjie": "jvmn",
+        "char_code_zhengma": "wdlk"
+    },
+    "general_unicode": "扩展B U+21B19",
+    "general_bs_code": "445521321212522145251113422"
+}

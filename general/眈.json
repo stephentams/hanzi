@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "gloat, stare at; to delay, to loiter, to hinder"
+        },
+        {
+            "language": "法语",
+            "explanation": "observer attentivement"
+        }
+    ],
+    "general_pinyins": [
+        "dān"
+    ],
+    "general_zhuyins": [
+        "ㄉㄢ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧡪",
+        "𪾡"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7708",
+            "251114535"
+        ],
+        "char_code_wubi": "hpqn",
+        "char_code_cangjie": "bulbu",
+        "char_code_zhengma": "lwrd",
+        "char_code_sijiao": "64012"
+    },
+    "general_unicode": "基本区 U+7708",
+    "general_bs_code": "251114535"
+}

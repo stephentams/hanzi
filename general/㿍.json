@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as U+75A5 疥) scabies"
+        }
+    ],
+    "general_pinyins": [
+        "jiè"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "13",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "疥"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3FCD",
+            "413413535112533112"
+        ],
+        "char_code_wubi": "uqeh|uqeg",
+        "char_code_cangjie": "knbq",
+        "char_code_zhengma": "trym",
+        "char_code_sijiao": "00152"
+    },
+    "general_unicode": "扩展A U+3FCD",
+    "general_bs_code": "413413535112533112"
+}

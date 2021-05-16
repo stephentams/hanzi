@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "face, facial appearance"
+        },
+        {
+            "language": "德语",
+            "explanation": "Yan  (Eig, Fam)​,Farbe, Gesicht"
+        }
+    ],
+    "general_pinyins": [
+        "yán"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "页",
+        "non_radical_sn": "9",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "顏",
+        "顔"
+    ],
+    "general_ytz": [
+        "顏",
+        "顔",
+        "𦫞",
+        "𦫤",
+        "𦫨",
+        "𩕝"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "989C",
+            "414313333132534"
+        ],
+        "char_code_wubi": "utem",
+        "char_code_cangjie": "yhmbo",
+        "char_code_zhengma": "supg",
+        "char_code_sijiao": "01282"
+    },
+    "general_unicode": "基本区 U+989C",
+    "general_bs_code": "414313333132534"
+}

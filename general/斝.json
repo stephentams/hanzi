@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "small jade wine cup"
+        },
+        {
+            "language": "法语",
+            "explanation": "petite tasse de jade avec deux anses"
+        }
+    ],
+    "general_pinyins": [
+        "jiǎ"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄚˇ"
+    ],
+    "general_radical": {
+        "radical": "斗",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䑝",
+        "斚",
+        "𠬂"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "659D",
+            "251251454412"
+        ],
+        "char_code_wubi": "kkpf",
+        "char_code_cangjie": "rrbyj",
+        "char_code_zhengma": "jjte",
+        "char_code_sijiao": "66402"
+    },
+    "general_unicode": "基本区 U+659D",
+    "general_bs_code": "251251454412"
+}

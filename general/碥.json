@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "德语",
+            "explanation": "schroffe Felswand"
+        },
+        {
+            "language": "法语",
+            "explanation": "pierre servant de marchepied,rapide (cours d'eau tumultueux)​"
+        }
+    ],
+    "general_pinyins": [
+        "biǎn"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "9",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "78A5",
+            "13251451325122"
+        ],
+        "char_code_wubi": "dyna",
+        "char_code_cangjie": "mrhsb",
+        "char_code_zhengma": "gwld",
+        "char_code_sijiao": "13627"
+    },
+    "general_unicode": "基本区 U+78A5",
+    "general_bs_code": "13251451325122"
+}

@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "scissors; cut, divide, separate"
+        },
+        {
+            "language": "德语",
+            "explanation": "schneiden; zerschneiden; etw abschneiden ,Marihuana, Messer  (S)​,verschneiden  (V)​,Schere"
+        },
+        {
+            "language": "法语",
+            "explanation": "ciseaux,couper,tailler"
+        }
+    ],
+    "general_pinyins": [
+        "jiǎn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "刀",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "前",
+        "鬋",
+        "𣦃",
+        "翦",
+        "劗",
+        "𠞳",
+        "𠞽",
+        "𠟠"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "526A",
+            "43125112253"
+        ],
+        "char_code_wubi": "uejv",
+        "char_code_cangjie": "tbnh",
+        "char_code_zhengma": "uaky",
+        "char_code_sijiao": "80227"
+    },
+    "general_unicode": "基本区 U+526A",
+    "general_bs_code": "43125112253"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "thatch; fix, repair; pile up"
+        },
+        {
+            "language": "德语",
+            "explanation": "reparieren, ausbessern"
+        },
+        {
+            "language": "法语",
+            "explanation": "réparer"
+        }
+    ],
+    "general_pinyins": [
+        "qì"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦱫"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "847A",
+            "122251122111"
+        ],
+        "char_code_wubi": "akbf",
+        "char_code_cangjie": "trsj",
+        "char_code_zhengma": "ejce",
+        "char_code_sijiao": "44401"
+    },
+    "general_unicode": "基本区 U+847A",
+    "general_bs_code": "122251122111"
+}

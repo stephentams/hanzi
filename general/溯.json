@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "go upstream, go against current; formerly"
+        },
+        {
+            "language": "德语",
+            "explanation": "gegen den Strom ,sich etw. ins Gedächtnis zurückrufen, zurückdenken  (V)​,stromaufwärts, flussaufwärts  (Adj)"
+        }
+    ],
+    "general_pinyins": [
+        "sù"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㴑",
+        "泝",
+        "溸",
+        "遡",
+        "𣳙",
+        "𣴔",
+        "𣹫",
+        "𣷥"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6EAF",
+            "4414315233511"
+        ],
+        "char_code_wubi": "iube",
+        "char_code_cangjie": "etub",
+        "char_code_zhengma": "vuzq",
+        "char_code_sijiao": "37120"
+    },
+    "general_unicode": "基本区 U+6EAF",
+    "general_bs_code": "4414315233511"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "time of famine or crop failure"
+        },
+        {
+            "language": "德语",
+            "explanation": "Missernte  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "disette de légumes,3 ans sans récolte"
+        }
+    ],
+    "general_pinyins": [
+        "jǐn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "饣",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "饉"
+    ],
+    "general_ytz": [
+        "饉",
+        "𩞎"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9991",
+            "35512212511121"
+        ],
+        "char_code_wubi": "qnag",
+        "char_code_cangjie": "nvtlm",
+        "char_code_zhengma": "oxjc",
+        "char_code_sijiao": "24715"
+    },
+    "general_unicode": "基本区 U+9991",
+    "general_bs_code": "35512212511121"
+}

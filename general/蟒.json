@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "python, boa constrictor"
+        },
+        {
+            "language": "德语",
+            "explanation": "Pythonschlange (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "boa,python"
+        }
+    ],
+    "general_pinyins": [
+        "mǎng",
+        "měng"
+    ],
+    "general_zhuyins": [
+        "ㄇㄤˇ",
+        "ㄇㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "10",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧏉",
+        "𧎔",
+        "蠎"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "87D2",
+            "2512141221344132"
+        ],
+        "char_code_wubi": "jada",
+        "char_code_cangjie": "litit",
+        "char_code_zhengma": "iese",
+        "char_code_sijiao": "54148"
+    },
+    "general_unicode": "基本区 U+87D2",
+    "general_bs_code": "2512141221344132"
+}

@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "long, far, remote, distant; liesurely"
+        },
+        {
+            "language": "法语",
+            "explanation": "long,prolongé,doux,modéré,se balancer"
+        }
+    ],
+    "general_pinyins": [
+        "yōu"
+    ],
+    "general_zhuyins": [
+        "ㄧㄡ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢚐",
+        "𢟅"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "60A0",
+            "32231344544"
+        ],
+        "char_code_wubi": "whtn",
+        "char_code_cangjie": "okp",
+        "char_code_zhengma": "nimw",
+        "char_code_sijiao": "28334"
+    },
+    "general_unicode": "基本区 U+60A0",
+    "general_bs_code": "32231344544"
+}

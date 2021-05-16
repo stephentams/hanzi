@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dense, thick, close; intimate"
+        }
+    ],
+    "general_pinyins": [
+        "mì"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "宀",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "密"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5BBB",
+            "4455443252"
+        ],
+        "char_code_wubi": "pcum",
+        "char_code_cangjie": "jecu",
+        "char_code_zhengma": "wdul",
+        "char_code_sijiao": "30772"
+    },
+    "general_unicode": "基本区 U+5BBB",
+    "general_bs_code": "4455443252"
+}

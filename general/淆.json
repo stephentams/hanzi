@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "confused, in disarray, mixed up"
+        },
+        {
+            "language": "德语",
+            "explanation": "durcheinander bringen; vermischen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "mêler,confondre"
+        }
+    ],
+    "general_pinyins": [
+        "xiáo"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "殽"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6DC6",
+            "44134132511"
+        ],
+        "char_code_wubi": "iqde|irde",
+        "char_code_cangjie": "ekkb",
+        "char_code_zhengma": "vogq",
+        "char_code_sijiao": "34127"
+    },
+    "general_unicode": "基本区 U+6DC6",
+    "general_bs_code": "44134132511"
+}

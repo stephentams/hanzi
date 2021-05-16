@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "great, exalted, superior; big"
+        },
+        {
+            "language": "德语",
+            "explanation": "Thailänder, Thai  (S)​,größte, höchste, meiste  (Adj)​,sicher, friedlich  (Adj)​,Tai  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "paisible,calme,grand,éminent,extrême"
+        }
+    ],
+    "general_pinyins": [
+        "tài"
+    ],
+    "general_zhuyins": [
+        "ㄊㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "水",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㤗",
+        "太",
+        "夳",
+        "𠆋",
+        "𠆖",
+        "𡙥"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6CF0",
+            "1113424134"
+        ],
+        "char_code_wubi": "dwiu",
+        "char_code_cangjie": "qke",
+        "char_code_zhengma": "cokv",
+        "char_code_sijiao": "50909"
+    },
+    "general_unicode": "基本区 U+6CF0",
+    "general_bs_code": "1113424134"
+}

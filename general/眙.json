@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to gaze at"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ortsname  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "regard"
+        }
+    ],
+    "general_pinyins": [
+        "yí",
+        "chì"
+    ],
+    "general_zhuyins": [
+        "ㄧˊ",
+        "ㄔˋ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7719",
+            "2511154251"
+        ],
+        "char_code_wubi": "hckg",
+        "char_code_cangjie": "buir",
+        "char_code_zhengma": "lzj",
+        "char_code_sijiao": "63060"
+    },
+    "general_unicode": "基本区 U+7719",
+    "general_bs_code": "2511154251"
+}

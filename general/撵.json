@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "drive away, expel, oust"
+        },
+        {
+            "language": "德语",
+            "explanation": "ausweisen, ausschließen"
+        },
+        {
+            "language": "法语",
+            "explanation": "expulser,évincer"
+        }
+    ],
+    "general_pinyins": [
+        "niǎn"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "攆"
+    ],
+    "general_ytz": [
+        "攆"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "64B5",
+            "121113411341512"
+        ],
+        "char_code_wubi": "rfwl|rggl",
+        "char_code_cangjie": "qqoq",
+        "char_code_zhengma": "dboh",
+        "char_code_sijiao": "55054"
+    },
+    "general_unicode": "基本区 U+64B5",
+    "general_bs_code": "121113411341512"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "blacken eyebrows; black"
+        },
+        {
+            "language": "德语",
+            "explanation": "schwarze Augenbrauenfarbe, schwarze Augenbrauentusche  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "fard noir pour les sourcils"
+        }
+    ],
+    "general_pinyins": [
+        "dài"
+    ],
+    "general_zhuyins": [
+        "ㄉㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "黑",
+        "non_radical_sn": "5",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "黱"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9EDB",
+            "32154254312114444"
+        ],
+        "char_code_wubi": "walo|wayo",
+        "char_code_cangjie": "opwgf",
+        "char_code_zhengma": "nhbu",
+        "char_code_sijiao": "23331"
+    },
+    "general_unicode": "基本区 U+9EDB",
+    "general_bs_code": "32154254312114444"
+}

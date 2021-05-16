@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "disease, illness, ailment"
+        },
+        {
+            "language": "德语",
+            "explanation": "Krankheit, Erkrankung, Leiden  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "maladie"
+        }
+    ],
+    "general_pinyins": [
+        "zhèng",
+        "zhēng"
+    ],
+    "general_zhuyins": [
+        "ㄓㄥˋ",
+        "ㄓㄥ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "癥"
+    ],
+    "general_ytz": [
+        "證",
+        "癥",
+        "㿂"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "75C7",
+            "4134112121"
+        ],
+        "char_code_wubi": "ughd",
+        "char_code_cangjie": "kmym",
+        "char_code_zhengma": "taii",
+        "char_code_sijiao": "00111"
+    },
+    "general_unicode": "基本区 U+75C7",
+    "general_bs_code": "4134112121"
+}

@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lapel, collar"
+        },
+        {
+            "language": "德语",
+            "explanation": "Vorderteil eines Kleidungsstücks, Schwager  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "collet d'une robe"
+        }
+    ],
+    "general_pinyins": [
+        "jīn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄣ"
+    ],
+    "general_radical": {
+        "radical": "衤",
+        "non_radical_sn": "13",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧛛",
+        "䘳"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "895F",
+            "452341234123411234"
+        ],
+        "char_code_wubi": "pusi",
+        "char_code_cangjie": "lddf",
+        "char_code_zhengma": "wtfb",
+        "char_code_sijiao": "34291"
+    },
+    "general_unicode": "基本区 U+895F",
+    "general_bs_code": "452341234123411234"
+}

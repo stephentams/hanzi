@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(simplified form of U+5138 儸) smart; clever"
+        },
+        {
+            "language": "德语",
+            "explanation": "klug, listig"
+        },
+        {
+            "language": "法语",
+            "explanation": "malin,intelligent,intelligent"
+        }
+    ],
+    "general_pinyins": [
+        "luó"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "儸"
+    ],
+    "general_ytz": [
+        "儸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3469",
+            "3225221354"
+        ],
+        "char_code_wubi": "wlqy",
+        "char_code_cangjie": "owln",
+        "char_code_zhengma": "nlrs",
+        "char_code_sijiao": "26227"
+    },
+    "general_unicode": "扩展A U+3469",
+    "general_bs_code": "3225221354"
+}

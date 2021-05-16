@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a horse mackerel"
+        }
+    ],
+    "general_pinyins": [
+        "shēn"
+    ],
+    "general_zhuyins": [
+        "ㄕㄣ"
+    ],
+    "general_radical": {
+        "radical": "魚",
+        "non_radical_sn": "11",
+        "total_sn": "22"
+    },
+    "general_stc": [
+        "鲹"
+    ],
+    "general_ytz": [
+        "䱗",
+        "鯵",
+        "𩹧",
+        "鱢",
+        "鲹"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9C3A",
+            "3525121444454545434333"
+        ],
+        "char_code_wubi": "qoce",
+        "char_code_cangjie": "nfiih",
+        "char_code_zhengma": "rzop",
+        "char_code_sijiao": "23322"
+    },
+    "general_unicode": "基本区 U+9C3A",
+    "general_bs_code": "3525121444454545434333"
+}

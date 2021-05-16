@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "blessing, happiness, prosperity"
+        },
+        {
+            "language": "法语",
+            "explanation": "réussite dans sa carrière"
+        }
+    ],
+    "general_pinyins": [
+        "lù"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "礻",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "祿"
+    ],
+    "general_ytz": [
+        "祿",
+        "𥜅",
+        "祿"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7984",
+            "452451124134"
+        ],
+        "char_code_wubi": "pyvi",
+        "char_code_cangjie": "ifnme",
+        "char_code_zhengma": "wsxk",
+        "char_code_sijiao": "37299"
+    },
+    "general_unicode": "基本区 U+7984",
+    "general_bs_code": "452451124134"
+}

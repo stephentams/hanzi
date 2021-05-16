@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "言",
+        "non_radical_sn": "16",
+        "total_sn": "23"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "辯"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "27B80",
+            "25221343441112514111251"
+        ],
+        "char_code_wubi": "lwwy",
+        "char_code_cangjie": "wloor",
+        "char_code_zhengma": "lkos"
+    },
+    "general_unicode": "扩展B U+27B80",
+    "general_bs_code": "25221343441112514111251"
+}

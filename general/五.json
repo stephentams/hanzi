@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "five; surname"
+        },
+        {
+            "language": "德语",
+            "explanation": "fünf (5)​ (Num)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cinq,5"
+        }
+    ],
+    "general_pinyins": [
+        "wǔ"
+    ],
+    "general_zhuyins": [
+        "ㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "二",
+        "non_radical_sn": "2",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㐅",
+        "伍",
+        "𠄡"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4E94",
+            "1251"
+        ],
+        "char_code_wubi": "gghg",
+        "char_code_cangjie": "mdm",
+        "char_code_zhengma": "bix",
+        "char_code_sijiao": "10102"
+    },
+    "general_unicode": "基本区 U+4E94",
+    "general_bs_code": "1251"
+}

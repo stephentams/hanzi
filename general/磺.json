@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sulphur; brimstone"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schwefel (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "soufre"
+        }
+    ],
+    "general_pinyins": [
+        "huáng"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "11",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "礦",
+        "黄"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "78FA",
+            "1325112212512134"
+        ],
+        "char_code_wubi": "damw",
+        "char_code_cangjie": "mrtlc",
+        "char_code_zhengma": "geko",
+        "char_code_sijiao": "14686"
+    },
+    "general_unicode": "基本区 U+78FA",
+    "general_bs_code": "1325112212512134"
+}

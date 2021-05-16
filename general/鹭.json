@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "heron, egret; Ardea species (various)"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fischreiher, Reiher  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "héron"
+        }
+    ],
+    "general_pinyins": [
+        "lù"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "鸟",
+        "non_radical_sn": "13",
+        "total_sn": "18"
+    },
+    "general_stc": [
+        "鷺"
+    ],
+    "general_ytz": [
+        "鷺",
+        "鴼",
+        "𩁐",
+        "𪀡",
+        "𪆽",
+        "𪇸"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E6D",
+            "251212135425135451"
+        ],
+        "char_code_wubi": "khtg",
+        "char_code_cangjie": "rrpym",
+        "char_code_zhengma": "jijr",
+        "char_code_sijiao": "67127"
+    },
+    "general_unicode": "基本区 U+9E6D",
+    "general_bs_code": "251212135425135451"
+}

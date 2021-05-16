@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to lack"
+        },
+        {
+            "language": "德语",
+            "explanation": "erschöpft, abgehetzt ,fehlend, mangelnd"
+        },
+        {
+            "language": "法语",
+            "explanation": "épuisé,défectueux"
+        }
+    ],
+    "general_pinyins": [
+        "kuì",
+        "guì"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄟˋ",
+        "ㄍㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "匚",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "匱"
+    ],
+    "general_ytz": [
+        "匱",
+        "𨙑"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "532E",
+            "12512125345"
+        ],
+        "char_code_wubi": "akhm",
+        "char_code_cangjie": "slmo",
+        "char_code_zhengma": "hjal",
+        "char_code_sijiao": "71718"
+    },
+    "general_unicode": "基本区 U+532E",
+    "general_bs_code": "12512125345"
+}

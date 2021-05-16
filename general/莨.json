@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "herb, Scopolia japonica"
+        },
+        {
+            "language": "法语",
+            "explanation": "Scopalia japonica maxin"
+        }
+    ],
+    "general_pinyins": [
+        "làng",
+        "liáng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄤˋ",
+        "ㄌㄧㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦺫",
+        "䕞"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "83A8",
+            "1224511534"
+        ],
+        "char_code_wubi": "ayve|ayvu",
+        "char_code_cangjie": "tiav",
+        "char_code_zhengma": "esxo",
+        "char_code_sijiao": "44732"
+    },
+    "general_unicode": "基本区 U+83A8",
+    "general_bs_code": "1224511534"
+}

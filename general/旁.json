@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "side; by side, close by, near"
+        },
+        {
+            "language": "德语",
+            "explanation": "Radikal  (S)​,Seite  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "côté,bord"
+        }
+    ],
+    "general_pinyins": [
+        "páng",
+        "bàng"
+    ],
+    "general_zhuyins": [
+        "ㄆㄤˊ",
+        "ㄅㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "方",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㝑",
+        "㫄",
+        "傍",
+        "雱",
+        "𣃙",
+        "𣃟",
+        "𣃪"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "65C1",
+            "4143454153"
+        ],
+        "char_code_wubi": "upyb|yupy",
+        "char_code_cangjie": "ybyhs",
+        "char_code_zhengma": "suws",
+        "char_code_sijiao": "00227"
+    },
+    "general_unicode": "基本区 U+65C1",
+    "general_bs_code": "4143454153"
+}

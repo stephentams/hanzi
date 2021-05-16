@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hate"
+        },
+        {
+            "language": "德语",
+            "explanation": "hassen, Hass  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "jí"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "垐",
+        "卽",
+        "𤊵"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5832",
+            "5115452121"
+        ],
+        "char_code_wubi": "vcbf|vbff",
+        "char_code_cangjie": "alg",
+        "char_code_zhengma": "xoyb",
+        "char_code_sijiao": "77104"
+    },
+    "general_unicode": "基本区 U+5832",
+    "general_bs_code": "5115452121"
+}

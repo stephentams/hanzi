@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "jaundice"
+        }
+    ],
+    "general_pinyins": [
+        "huáng"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "11",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㾮"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7640",
+            "4134112212512134"
+        ],
+        "char_code_wubi": "uamw",
+        "char_code_cangjie": "ktlc",
+        "char_code_zhengma": "teko",
+        "char_code_sijiao": "00186"
+    },
+    "general_unicode": "基本区 U+7640",
+    "general_bs_code": "4134112212512134"
+}

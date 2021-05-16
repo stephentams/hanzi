@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dance, frolic; lounge; saunter"
+        },
+        {
+            "language": "德语",
+            "explanation": "verlassen, locker"
+        },
+        {
+            "language": "法语",
+            "explanation": "danser"
+        }
+    ],
+    "general_pinyins": [
+        "suō"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨㄛ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣯌"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5A11",
+            "4412343531"
+        ],
+        "char_code_wubi": "iitv",
+        "char_code_cangjie": "ehv",
+        "char_code_zhengma": "vkmz",
+        "char_code_sijiao": "39404"
+    },
+    "general_unicode": "基本区 U+5A11",
+    "general_bs_code": "4412343531"
+}

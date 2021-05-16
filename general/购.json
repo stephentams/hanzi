@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "buy, purchase; hire"
+        },
+        {
+            "language": "德语",
+            "explanation": "anschaffen, einkaufen"
+        },
+        {
+            "language": "法语",
+            "explanation": "acheter"
+        }
+    ],
+    "general_pinyins": [
+        "gòu"
+    ],
+    "general_zhuyins": [
+        "ㄍㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "購"
+    ],
+    "general_ytz": [
+        "購",
+        "𧶩",
+        "𧷻",
+        "𧸊"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D2D",
+            "25343554"
+        ],
+        "char_code_wubi": "mqcy",
+        "char_code_cangjie": "bopi",
+        "char_code_zhengma": "lorz",
+        "char_code_sijiao": "77820"
+    },
+    "general_unicode": "基本区 U+8D2D",
+    "general_bs_code": "25343554"
+}

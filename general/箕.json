@@ -1,0 +1,63 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sieve; dust pan, garbage bag"
+        },
+        {
+            "language": "德语",
+            "explanation": "Getreideschwinge, Kornschwinge  (S, Agrar)​,Kehrblech, Kehrschaufel, Worfschaufel  (S)​,Schleife beim Fingerabdruck  (S, Bio)​,Sieb  (S, Agrar)"
+        },
+        {
+            "language": "法语",
+            "explanation": "pelle à ordure,empreintes digitales constituées de lignes non spiralées"
+        }
+    ],
+    "general_pinyins": [
+        "jī"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "8",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㠱",
+        "䇧",
+        "其",
+        "𠀠",
+        "𠀮",
+        "𠔋",
+        "𠔐",
+        "𠔛",
+        "𠔝",
+        "𠥊",
+        "𠥩",
+        "𠴩",
+        "𠵶",
+        "𠷛",
+        "𡿸",
+        "𢌰",
+        "𥫚",
+        "𥫶",
+        "𦋊",
+        "𠚙"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7B95",
+            "31431412211134"
+        ],
+        "char_code_wubi": "tadw|tdwu",
+        "char_code_cangjie": "htmc",
+        "char_code_zhengma": "mec",
+        "char_code_sijiao": "88801"
+    },
+    "general_unicode": "基本区 U+7B95",
+    "general_bs_code": "31431412211134"
+}

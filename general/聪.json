@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "intelligent, clever, bright"
+        },
+        {
+            "language": "德语",
+            "explanation": "(ein gutes)​ Gehör; hellhörig"
+        },
+        {
+            "language": "法语",
+            "explanation": "intelligent,(ouïe)​ fine"
+        }
+    ],
+    "general_pinyins": [
+        "cōng"
+    ],
+    "general_zhuyins": [
+        "ㄘㄨㄥ"
+    ],
+    "general_radical": {
+        "radical": "耳",
+        "non_radical_sn": "9",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "聰"
+    ],
+    "general_ytz": [
+        "聰",
+        "聡",
+        "聦",
+        "𦕻",
+        "𦖟",
+        "𦖻"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "806A",
+            "122111432514544"
+        ],
+        "char_code_wubi": "bukn",
+        "char_code_cangjie": "sjcrp",
+        "char_code_zhengma": "cejw",
+        "char_code_sijiao": "18436"
+    },
+    "general_unicode": "基本区 U+806A",
+    "general_bs_code": "122111432514544"
+}

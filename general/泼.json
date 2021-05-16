@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pour, splash, water, sprinkle"
+        },
+        {
+            "language": "德语",
+            "explanation": "anspritzen, bespritzen ,gießen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "mordant,violent,verser,répandre"
+        }
+    ],
+    "general_pinyins": [
+        "pō"
+    ],
+    "general_zhuyins": [
+        "ㄆㄛ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "潑"
+    ],
+    "general_ytz": [
+        "潑",
+        "𣸍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6CFC",
+            "44153544"
+        ],
+        "char_code_wubi": "inty",
+        "char_code_cangjie": "eive",
+        "char_code_zhengma": "vzxs",
+        "char_code_sijiao": "33147"
+    },
+    "general_unicode": "基本区 U+6CFC",
+    "general_bs_code": "44153544"
+}

@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a Buddhist high priest"
+        },
+        {
+            "language": "德语",
+            "explanation": "Rundmauer des Stadttores  (S)​,(English: tower over a city gate)​ ,phonetische Transkription der Silbe jā oder ja"
+        },
+        {
+            "language": "法语",
+            "explanation": "tour sur une porte de ville,(utilisé dans les transcriptions bouddhistes)​"
+        }
+    ],
+    "general_pinyins": [
+        "dū",
+        "shé"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨ",
+        "ㄕㄜˊ"
+    ],
+    "general_radical": {
+        "radical": "门",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "闍"
+    ],
+    "general_ytz": [
+        "闍",
+        "𨶶"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9607",
+            "42512132511"
+        ],
+        "char_code_wubi": "uftj",
+        "char_code_cangjie": "lsjka",
+        "char_code_zhengma": "tlbm",
+        "char_code_sijiao": "37604"
+    },
+    "general_unicode": "基本区 U+9607",
+    "general_bs_code": "42512132511"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tired, old horse; old, weak"
+        },
+        {
+            "language": "德语",
+            "explanation": "langsames Pferd  (S)​,schwerfällig  (Adj)​,stupide  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "rosse,mauvais cheval"
+        }
+    ],
+    "general_pinyins": [
+        "nú"
+    ],
+    "general_zhuyins": [
+        "ㄋㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "马",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "駑"
+    ],
+    "general_ytz": [
+        "駑"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A7D",
+            "53154551"
+        ],
+        "char_code_wubi": "vccf|vccg",
+        "char_code_cangjie": "venvm",
+        "char_code_zhengma": "zmxx",
+        "char_code_sijiao": "47127"
+    },
+    "general_unicode": "基本区 U+9A7D",
+    "general_bs_code": "53154551"
+}

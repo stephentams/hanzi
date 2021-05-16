@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rushes, reeds"
+        },
+        {
+            "language": "德语",
+            "explanation": "drängen, hetzen  (V)​,Schilf"
+        },
+        {
+            "language": "法语",
+            "explanation": "roseau"
+        }
+    ],
+    "general_pinyins": [
+        "lú"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "蘆"
+    ],
+    "general_ytz": [
+        "蘆"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "82A6",
+            "1224513"
+        ],
+        "char_code_wubi": "aynr",
+        "char_code_cangjie": "ths",
+        "char_code_zhengma": "ewm",
+        "char_code_sijiao": "44207"
+    },
+    "general_unicode": "基本区 U+82A6",
+    "general_bs_code": "1224513"
+}

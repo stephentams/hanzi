@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "toad"
+        },
+        {
+            "language": "法语",
+            "explanation": "crapaud"
+        }
+    ],
+    "general_pinyins": [
+        "chú"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "7",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "蠩"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "870D",
+            "2512143411234"
+        ],
+        "char_code_wubi": "jwty|jwgs",
+        "char_code_cangjie": "liomd",
+        "char_code_zhengma": "iomf",
+        "char_code_sijiao": "58194"
+    },
+    "general_unicode": "基本区 U+870D",
+    "general_bs_code": "2512143411234"
+}

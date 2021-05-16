@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "resolute, decisive, firm, persist"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ausdauer  (S)​,Beharrlichkeit  (S)​,Entschlossenheit  (S)​,ausdauernd  (Adj)​,beharrlich  (Adj)​,entschlossen  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "ferme,résolu"
+        }
+    ],
+    "general_pinyins": [
+        "yì"
+    ],
+    "general_zhuyins": [
+        "ㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "殳",
+        "non_radical_sn": "11",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䝘",
+        "𣪣",
+        "𣫖",
+        "𣫚",
+        "𣪴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6BC5",
+            "414313533343554"
+        ],
+        "char_code_wubi": "uemc|uewc",
+        "char_code_cangjie": "yohne",
+        "char_code_zhengma": "sugq",
+        "char_code_sijiao": "07247"
+    },
+    "general_unicode": "基本区 U+6BC5",
+    "general_bs_code": "414313533343554"
+}

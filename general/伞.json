@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "umbrella, parasol, parachute"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schirm, Regenschirm  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "parapluie,parasol,ombrelle"
+        }
+    ],
+    "general_pinyins": [
+        "sǎn"
+    ],
+    "general_zhuyins": [
+        "ㄙㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "人",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "傘"
+    ],
+    "general_ytz": [
+        "傘",
+        "繖",
+        "𠋔",
+        "𠌂",
+        "𠍘",
+        "𡙫",
+        "𢄻",
+        "𦇕"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4F1E",
+            "344312"
+        ],
+        "char_code_wubi": "wuhj|wufj",
+        "char_code_cangjie": "ofj",
+        "char_code_zhengma": "odua",
+        "char_code_sijiao": "80409"
+    },
+    "general_unicode": "基本区 U+4F1E",
+    "general_bs_code": "344312"
+}

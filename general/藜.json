@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "Chenopodium album, pigweed"
+        },
+        {
+            "language": "德语",
+            "explanation": "Weißer Gänsefuß  (Eig, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "sorte de ronce"
+        }
+    ],
+    "general_pinyins": [
+        "lí"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "15",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧅏",
+        "蔾",
+        "䔧",
+        "𦺙"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "85DC",
+            "122312343533424134"
+        ],
+        "char_code_wubi": "atqi",
+        "char_code_cangjie": "thhe",
+        "char_code_zhengma": "emok",
+        "char_code_sijiao": "44909"
+    },
+    "general_unicode": "基本区 U+85DC",
+    "general_bs_code": "122312343533424134"
+}

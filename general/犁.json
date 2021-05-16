@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "plow"
+        },
+        {
+            "language": "德语",
+            "explanation": "Pflug (S, Agrar)"
+        },
+        {
+            "language": "法语",
+            "explanation": "charrue,labourer"
+        }
+    ],
+    "general_pinyins": [
+        "lí"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "牛",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤛺",
+        "犂",
+        "䵓",
+        "𤛼",
+        "𤛿",
+        "𥝫",
+        "𨩂"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7281",
+            "31234223112"
+        ],
+        "char_code_wubi": "tjrh|tjtg",
+        "char_code_cangjie": "hnhq",
+        "char_code_zhengma": "mfkm",
+        "char_code_sijiao": "22500"
+    },
+    "general_unicode": "基本区 U+7281",
+    "general_bs_code": "31234223112"
+}

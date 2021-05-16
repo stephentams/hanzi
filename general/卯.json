@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "4th terrestrial branch; period from 5-7 a.m."
+        },
+        {
+            "language": "德语",
+            "explanation": "4. der 12 Erdenzweige,4. Tier im chin. Tierkreis - Hase"
+        }
+    ],
+    "general_pinyins": [
+        "mǎo"
+    ],
+    "general_zhuyins": [
+        "ㄇㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "卩",
+        "non_radical_sn": "3",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "夘",
+        "戼",
+        "邜",
+        "𤕰",
+        "𦕔",
+        "𩇦",
+        "𩇧",
+        "𩇨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "536F",
+            "35352"
+        ],
+        "char_code_wubi": "qtbh",
+        "char_code_cangjie": "hhsl",
+        "char_code_zhengma": "rhmy",
+        "char_code_sijiao": "77720"
+    },
+    "general_unicode": "基本区 U+536F",
+    "general_bs_code": "35352"
+}

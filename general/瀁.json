@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "waves, ripples, rapids; overflow"
+        },
+        {
+            "language": "德语",
+            "explanation": "Riffeln  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "ondulations"
+        }
+    ],
+    "general_pinyins": [
+        "yǎng",
+        "yàng"
+    ],
+    "general_zhuyins": [
+        "ㄧㄤˇ",
+        "ㄧㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "14",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤂡",
+        "漾"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7001",
+            "44143111344511534"
+        ],
+        "char_code_wubi": "iude|iugv",
+        "char_code_cangjie": "etov",
+        "char_code_zhengma": "vusx",
+        "char_code_sijiao": "38132"
+    },
+    "general_unicode": "基本区 U+7001",
+    "general_bs_code": "44143111344511534"
+}

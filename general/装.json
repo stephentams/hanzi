@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dress, clothes, attire; fill"
+        },
+        {
+            "language": "德语",
+            "explanation": "einbauen, montieren, aufladen  (V)​,installieren  (V, EDV)​,sich verkleiden, sich verstellen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "feindre,simuler,charger,remplir,installer,équiper,costume,maquillage"
+        }
+    ],
+    "general_pinyins": [
+        "zhuāng"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨㄤ"
+    ],
+    "general_radical": {
+        "radical": "衣",
+        "non_radical_sn": "6",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "裝"
+    ],
+    "general_ytz": [
+        "裝",
+        "𧙜",
+        "𧚌",
+        "𧚒"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "88C5",
+            "412121413534"
+        ],
+        "char_code_wubi": "ufye",
+        "char_code_cangjie": "lgyhv",
+        "char_code_zhengma": "tisr",
+        "char_code_sijiao": "34732"
+    },
+    "general_unicode": "基本区 U+88C5",
+    "general_bs_code": "412121413534"
+}

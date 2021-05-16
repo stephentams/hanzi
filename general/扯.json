@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rip up, tear down; raise; haul"
+        },
+        {
+            "language": "德语",
+            "explanation": "ziehen, zerren  (V)"
+        }
+    ],
+    "general_pinyins": [
+        "chě"
+    ],
+    "general_zhuyins": [
+        "ㄔㄜˇ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "撦"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "626F",
+            "1212121"
+        ],
+        "char_code_wubi": "rhg",
+        "char_code_cangjie": "qylm",
+        "char_code_zhengma": "dii",
+        "char_code_sijiao": "51010"
+    },
+    "general_unicode": "基本区 U+626F",
+    "general_bs_code": "1212121"
+}

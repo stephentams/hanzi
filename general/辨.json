@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "distinguish, discriminate"
+        },
+        {
+            "language": "德语",
+            "explanation": "unterscheiden, wahrnehmen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "distinguer,discerner"
+        }
+    ],
+    "general_pinyins": [
+        "biàn"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "辛",
+        "non_radical_sn": "9",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "辦",
+        "辧",
+        "辯"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8FA8",
+            "4143113434143112"
+        ],
+        "char_code_wubi": "uytu",
+        "char_code_cangjie": "yjilj",
+        "char_code_zhengma": "seus",
+        "char_code_sijiao": "00441"
+    },
+    "general_unicode": "基本区 U+8FA8",
+    "general_bs_code": "4143113434143112"
+}

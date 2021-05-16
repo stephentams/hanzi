@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dirty; filthy"
+        },
+        {
+            "language": "法语",
+            "explanation": "sale,dégoutant"
+        }
+    ],
+    "general_pinyins": [
+        "zā"
+    ],
+    "general_zhuyins": [
+        "ㄗㄚ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "19",
+        "total_sn": "23"
+    },
+    "general_stc": [
+        "臜"
+    ],
+    "general_ytz": [
+        "𨤃",
+        "臜",
+        "𨤆"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "81E2",
+            "35113121353121352511134"
+        ],
+        "char_code_wubi": "etfm",
+        "char_code_cangjie": "bhuc",
+        "char_code_zhengma": "qmrl",
+        "char_code_sijiao": "74286"
+    },
+    "general_unicode": "基本区 U+81E2",
+    "general_bs_code": "35113121353121352511134"
+}

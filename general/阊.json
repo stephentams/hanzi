@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "gate of heaven; main gate of a palace"
+        },
+        {
+            "language": "法语",
+            "explanation": "porte du ciel ou du paradis,porte d'un palais"
+        }
+    ],
+    "general_pinyins": [
+        "chāng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄤ"
+    ],
+    "general_radical": {
+        "radical": "门",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "閶"
+    ],
+    "general_ytz": [
+        "閶",
+        "𨷇"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "960A",
+            "42525112511"
+        ],
+        "char_code_wubi": "ujjd",
+        "char_code_cangjie": "lsaa",
+        "char_code_zhengma": "tlkk",
+        "char_code_sijiao": "37606"
+    },
+    "general_unicode": "基本区 U+960A",
+    "general_bs_code": "42525112511"
+}

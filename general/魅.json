@@ -1,0 +1,70 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "kind of forest demon, elf"
+        },
+        {
+            "language": "德语",
+            "explanation": "Dämon, Teufel (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "démon,monstre"
+        }
+    ],
+    "general_pinyins": [
+        "mèi"
+    ],
+    "general_zhuyins": [
+        "ㄇㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "鬼",
+        "non_radical_sn": "5",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䰨",
+        "䰪",
+        "鬽",
+        "𠃁",
+        "𢑘",
+        "𢑙",
+        "𢑛",
+        "𣼙",
+        "𤲄",
+        "𥘯",
+        "𧱋",
+        "𩱿",
+        "𩲀",
+        "𩲆",
+        "𩲈",
+        "𩲉",
+        "𩲐",
+        "𩲑",
+        "𩲝",
+        "𩲢",
+        "𩲿",
+        "𩳟",
+        "𩳪",
+        "𩴎",
+        "祙",
+        "𣷛",
+        "𩴈"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9B45",
+            "32511355411234"
+        ],
+        "char_code_wubi": "rqci|rqcf",
+        "char_code_cangjie": "hijd",
+        "char_code_zhengma": "njbk",
+        "char_code_sijiao": "25519"
+    },
+    "general_unicode": "基本区 U+9B45",
+    "general_bs_code": "32511355411234"
+}

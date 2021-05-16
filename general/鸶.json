@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "the eastern egret"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fischreiher, Reiher  (S, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "grue blanche"
+        }
+    ],
+    "general_pinyins": [
+        "sī"
+    ],
+    "general_zhuyins": [
+        "ㄙ"
+    ],
+    "general_radical": {
+        "radical": "鸟",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "鷥"
+    ],
+    "general_ytz": [
+        "鷥"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E36",
+            "5555135451"
+        ],
+        "char_code_wubi": "xxgg",
+        "char_code_cangjie": "vvmpm",
+        "char_code_zhengma": "zzar",
+        "char_code_sijiao": "22127"
+    },
+    "general_unicode": "基本区 U+9E36",
+    "general_bs_code": "5555135451"
+}

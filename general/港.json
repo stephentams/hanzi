@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "port, harbor; small stream; bay"
+        },
+        {
+            "language": "德语",
+            "explanation": "Hafen (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "port"
+        }
+    ],
+    "general_pinyins": [
+        "gǎng",
+        "jiǎng"
+    ],
+    "general_zhuyins": [
+        "ㄍㄤˇ",
+        "ㄐㄧㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "溝",
+        "𣽣",
+        "𣿑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6E2F",
+            "441122134515"
+        ],
+        "char_code_wubi": "iawn",
+        "char_code_cangjie": "etcu",
+        "char_code_zhengma": "veoy",
+        "char_code_sijiao": "34117"
+    },
+    "general_unicode": "基本区 U+6E2F",
+    "general_bs_code": "441122134515"
+}

@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "distant, remote, far; profound"
+        },
+        {
+            "language": "德语",
+            "explanation": "weit, entfernt, entlegen  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "éloigné,loin,se distancier de (arch.)​"
+        }
+    ],
+    "general_pinyins": [
+        "yuǎn",
+        "yuàn"
+    ],
+    "general_zhuyins": [
+        "ㄩㄢˇ",
+        "ㄩㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "遠"
+    ],
+    "general_ytz": [
+        "遠",
+        "逺",
+        "𢕱",
+        "𨖸"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8FDC",
+            "1135454"
+        ],
+        "char_code_wubi": "fqpv",
+        "char_code_cangjie": "ymmu",
+        "char_code_zhengma": "bdrw",
+        "char_code_sijiao": "31301"
+    },
+    "general_unicode": "基本区 U+8FDC",
+    "general_bs_code": "1135454"
+}

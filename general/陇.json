@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "法语",
+            "explanation": "mountain located between Shanxi"
+        }
+    ],
+    "general_pinyins": [
+        "lǒng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "隴"
+    ],
+    "general_ytz": [
+        "隴",
+        "𨼨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9647",
+            "5213534"
+        ],
+        "char_code_wubi": "bdxn|bdxy",
+        "char_code_cangjie": "nlikp",
+        "char_code_zhengma": "ygm",
+        "char_code_sijiao": "73214"
+    },
+    "general_unicode": "基本区 U+9647",
+    "general_bs_code": "5213534"
+}

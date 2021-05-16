@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a feudal state which existed B.C.700-469; now in Shandong"
+        },
+        {
+            "language": "法语",
+            "explanation": "Zou (état)​"
+        }
+    ],
+    "general_pinyins": [
+        "zhū"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "90BE",
+            "31123452"
+        ],
+        "char_code_wubi": "ribh|tfbh",
+        "char_code_cangjie": "hdnl",
+        "char_code_zhengma": "mbky",
+        "char_code_sijiao": "27927"
+    },
+    "general_unicode": "基本区 U+90BE",
+    "general_bs_code": "31123452"
+}

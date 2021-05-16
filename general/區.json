@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "area, district, region, ward; surname"
+        },
+        {
+            "language": "德语",
+            "explanation": "Landkreis  (S)​,Region, Bezirk  (S)​,Zone  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "zone,région,secteur,quartier,séparer,délimiter,distinguer,insignifiant,(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "qū",
+        "ōu"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩ",
+        "ㄡ"
+    ],
+    "general_radical": {
+        "radical": "匚",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "区"
+    ],
+    "general_ytz": [
+        "区",
+        "塸",
+        "坵"
+    ],
+    "general_structure": "左包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5340",
+            "12512512515"
+        ],
+        "char_code_wubi": "akkk",
+        "char_code_cangjie": "srrr",
+        "char_code_zhengma": "hjjj",
+        "char_code_sijiao": "71716"
+    },
+    "general_unicode": "基本区 U+5340",
+    "general_bs_code": "12512512515"
+}

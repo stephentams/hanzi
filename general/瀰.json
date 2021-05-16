@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "overflow"
+        },
+        {
+            "language": "德语",
+            "explanation": "überfließend, überlaufend"
+        },
+        {
+            "language": "法语",
+            "explanation": "plein,énorme,remplir"
+        }
+    ],
+    "general_pinyins": [
+        "mí"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "17",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㳽",
+        "弥",
+        "灖",
+        "𣴱",
+        "𤅤"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7030",
+            "44151513425234343434"
+        ],
+        "char_code_wubi": "ixgq|ixgr",
+        "char_code_cangjie": "enmb",
+        "char_code_zhengma": "vyoo",
+        "char_code_sijiao": "31127"
+    },
+    "general_unicode": "基本区 U+7030",
+    "general_bs_code": "44151513425234343434"
+}

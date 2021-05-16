@@ -1,0 +1,58 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "sever, cut off; interrupt"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 absolut ,entschieden ,zerbrechen, abbrechen, aufgeben, unterlassen"
+        }
+    ],
+    "general_pinyins": [
+        "duàn"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "斤",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "斷"
+    ],
+    "general_ytz": [
+        "斷",
+        "㫁",
+        "𠜷",
+        "𠝅",
+        "𠡱",
+        "𣂢",
+        "𣂣",
+        "𣂱",
+        "𣂸",
+        "𣂾",
+        "𣃔",
+        "𣦕",
+        "𣦙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "65AD",
+            "43123453312"
+        ],
+        "char_code_wubi": "onrh",
+        "char_code_cangjie": "vdhml",
+        "char_code_zhengma": "ufzd",
+        "char_code_sijiao": "22721"
+    },
+    "general_unicode": "基本区 U+65AD",
+    "general_bs_code": "43123453312"
+}

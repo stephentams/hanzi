@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "name of an ancient state; surname"
+        },
+        {
+            "language": "德语",
+            "explanation": "Zou  (Eig, Fam)​,ein Nachname"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "zōu"
+    ],
+    "general_zhuyins": [
+        "ㄗㄡ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "鄒"
+    ],
+    "general_ytz": [
+        "鄒",
+        "𨜈",
+        "𨜉",
+        "𨛃",
+        "𨛄"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "90B9",
+            "3551152"
+        ],
+        "char_code_wubi": "qvbh",
+        "char_code_cangjie": "nsnl",
+        "char_code_zhengma": "rxy",
+        "char_code_sijiao": "27127"
+    },
+    "general_unicode": "基本区 U+90B9",
+    "general_bs_code": "3551152"
+}

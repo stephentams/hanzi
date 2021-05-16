@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bud"
+        },
+        {
+            "language": "法语",
+            "explanation": "bourgeon (de fleur)​"
+        }
+    ],
+    "general_pinyins": [
+        "bèi"
+    ],
+    "general_zhuyins": [
+        "ㄅㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "84D3",
+            "1223241431251"
+        ],
+        "char_code_wubi": "awuk",
+        "char_code_cangjie": "toyr",
+        "char_code_zhengma": "ensj",
+        "char_code_sijiao": "44261"
+    },
+    "general_unicode": "基本区 U+84D3",
+    "general_bs_code": "1223241431251"
+}

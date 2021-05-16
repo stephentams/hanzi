@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a kind of monkey found in W.China"
+        },
+        {
+            "language": "法语",
+            "explanation": "(singe)​"
+        }
+    ],
+    "general_pinyins": [
+        "hú"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7322",
+            "353122513511"
+        ],
+        "char_code_wubi": "qtde",
+        "char_code_cangjie": "khjrb",
+        "char_code_zhengma": "qmjq",
+        "char_code_sijiao": "47220"
+    },
+    "general_unicode": "基本区 U+7322",
+    "general_bs_code": "353122513511"
+}

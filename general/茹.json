@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "roots; vegetables; eat; bear"
+        },
+        {
+            "language": "德语",
+            "explanation": "essen, fressen ,Ru  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "manger"
+        }
+    ],
+    "general_pinyins": [
+        "rú"
+    ],
+    "general_zhuyins": [
+        "ㄖㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䋈"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8339",
+            "122531251"
+        ],
+        "char_code_wubi": "avkf",
+        "char_code_cangjie": "tvr",
+        "char_code_zhengma": "ezj",
+        "char_code_sijiao": "44460"
+    },
+    "general_unicode": "基本区 U+8339",
+    "general_bs_code": "122531251"
+}

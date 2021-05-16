@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to fend off; to stab"
+        },
+        {
+            "language": "德语",
+            "explanation": "erstechen"
+        },
+        {
+            "language": "法语",
+            "explanation": "percer"
+        }
+    ],
+    "general_pinyins": [
+        "nǎng"
+    ],
+    "general_zhuyins": [
+        "ㄋㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "22",
+        "total_sn": "25"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "擃"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "652E",
+            "1211251245251251112213534"
+        ],
+        "char_code_wubi": "rgke",
+        "char_code_cangjie": "qjbv",
+        "char_code_zhengma": "daer",
+        "char_code_sijiao": "55032"
+    },
+    "general_unicode": "基本区 U+652E",
+    "general_bs_code": "1211251245251251112213534"
+}

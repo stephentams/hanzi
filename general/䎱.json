@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 耙) a drag; a harrow; a rake"
+        }
+    ],
+    "general_pinyins": [
+        "bēi",
+        "bà"
+    ],
+    "general_zhuyins": [
+        "ㄅㄟ",
+        "ㄅㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "耒",
+        "non_radical_sn": "15",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䎬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "43B1",
+            "111234252215425113535"
+        ],
+        "char_code_wubi": "dilx|fslx",
+        "char_code_cangjie": "qdwlp",
+        "char_code_zhengma": "ckrr",
+        "char_code_sijiao": "56912"
+    },
+    "general_unicode": "扩展A U+43B1",
+    "general_bs_code": "111234252215425113535"
+}

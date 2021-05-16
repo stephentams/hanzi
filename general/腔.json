@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "chest cavity; hollow in body"
+        },
+        {
+            "language": "德语",
+            "explanation": "abstimmen, abgleichen ,Aushöhlung  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cavité,ton,accent"
+        }
+    ],
+    "general_pinyins": [
+        "qiāng"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄤ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "羫",
+        "𤟄"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8154",
+            "351144534121"
+        ],
+        "char_code_wubi": "epwa",
+        "char_code_cangjie": "bjcm",
+        "char_code_zhengma": "qwbi",
+        "char_code_sijiao": "73212"
+    },
+    "general_unicode": "基本区 U+8154",
+    "general_bs_code": "351144534121"
+}

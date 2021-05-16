@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "reheat food"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufwärmen  (V)​,brühen  (V)​,wärmen  (V)​,aufwärmen, sich einsingen  (V)​,brühen  (V)​,wärmen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "réchauffer (la nourriture)​"
+        }
+    ],
+    "general_pinyins": [
+        "xún"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "12",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "燂",
+        "燅",
+        "爓",
+        "𤍙",
+        "𤎢",
+        "𤏝",
+        "𤑩",
+        "𤑶",
+        "𥪷",
+        "𦢨",
+        "𦠹"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "71D6",
+            "4334511121251124"
+        ],
+        "char_code_wubi": "ovaf",
+        "char_code_cangjie": "fsmi",
+        "char_code_zhengma": "uojd",
+        "char_code_sijiao": "97846"
+    },
+    "general_unicode": "基本区 U+71D6",
+    "general_bs_code": "4334511121251124"
+}

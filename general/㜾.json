@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 孩) a child; an infant, young; small"
+        }
+    ],
+    "general_pinyins": [
+        "hái"
+    ],
+    "general_zhuyins": [
+        "ㄏㄞˊ"
+    ],
+    "general_radical": {
+        "radical": "子",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "孩"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "373E",
+            "5213432"
+        ],
+        "char_code_wubi": "bwjh",
+        "char_code_cangjie": "ndoll",
+        "char_code_zhengma": "yaon",
+        "char_code_sijiao": "18420"
+    },
+    "general_unicode": "扩展A U+373E",
+    "general_bs_code": "5213432"
+}

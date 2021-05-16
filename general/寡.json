@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "widowed; alone, friendless"
+        },
+        {
+            "language": "德语",
+            "explanation": "wenig, wenige"
+        },
+        {
+            "language": "法语",
+            "explanation": "peu,fade,monotone,veuve"
+        }
+    ],
+    "general_pinyins": [
+        "guǎ"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄚˇ"
+    ],
+    "general_radical": {
+        "radical": "宀",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠆣",
+        "𡩼",
+        "𡪍",
+        "𧵿",
+        "𡫛"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5BE1",
+            "44513251113453"
+        ],
+        "char_code_wubi": "pdev",
+        "char_code_cangjie": "jmch",
+        "char_code_zhengma": "wdoy",
+        "char_code_sijiao": "30227"
+    },
+    "general_unicode": "基本区 U+5BE1",
+    "general_bs_code": "44513251113453"
+}

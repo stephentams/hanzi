@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hold up in two hands"
+        },
+        {
+            "language": "德语",
+            "explanation": "etwas mit,in beiden Händen halten"
+        },
+        {
+            "language": "法语",
+            "explanation": "tenir à deux mains,flatter"
+        }
+    ],
+    "general_pinyins": [
+        "pěng"
+    ],
+    "general_zhuyins": [
+        "ㄆㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "奉",
+        "捀",
+        "摓",
+        "𢪋"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6367",
+            "12111134112"
+        ],
+        "char_code_wubi": "rdwh|rdwg",
+        "char_code_cangjie": "qqkq",
+        "char_code_zhengma": "dcbi",
+        "char_code_sijiao": "55058"
+    },
+    "general_unicode": "基本区 U+6367",
+    "general_bs_code": "12111134112"
+}

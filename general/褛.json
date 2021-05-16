@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lapel, collar; tattered, threadbare"
+        },
+        {
+            "language": "德语",
+            "explanation": "ramponiert, ruiniert ,verschmutzen  (V)​,foul  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "souillé,sali,en haillons,en lambeaux"
+        }
+    ],
+    "general_pinyins": [
+        "lǚ"
+    ],
+    "general_zhuyins": [
+        "ㄌㄩˇ"
+    ],
+    "general_radical": {
+        "radical": "衤",
+        "non_radical_sn": "9",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "褸"
+    ],
+    "general_ytz": [
+        "褸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "891B",
+            "45234431234531"
+        ],
+        "char_code_wubi": "puov",
+        "char_code_cangjie": "lfdv",
+        "char_code_zhengma": "wtuz",
+        "char_code_sijiao": "39244"
+    },
+    "general_unicode": "基本区 U+891B",
+    "general_bs_code": "45234431234531"
+}

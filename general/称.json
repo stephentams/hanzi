@@ -1,0 +1,55 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "call; name, brand; address; say"
+        },
+        {
+            "language": "德语",
+            "explanation": "jmdn.,etw. als jmdn.,etw. bezeichnen  (V)​,jmdn.,etw. etw.,jmdn. nennen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "correspondre à,aller bien ensemble,s'assortir,s'harmoniser,convenir,être conforme à,(s')​ appeler,nom,appellation,dire,déclarer,exprimer,peser,louer,exalter,balance romaine"
+        }
+    ],
+    "general_pinyins": [
+        "chēng",
+        "chèn",
+        "chèng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄥ",
+        "ㄔㄣˋ",
+        "ㄔㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "稱"
+    ],
+    "general_ytz": [
+        "稱",
+        "爯",
+        "偁",
+        "穪",
+        "𤔹",
+        "𥟋"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "79F0",
+            "3123435234"
+        ],
+        "char_code_wubi": "tqiy",
+        "char_code_cangjie": "hdnf",
+        "char_code_zhengma": "mfrk",
+        "char_code_sijiao": "27992"
+    },
+    "general_unicode": "基本区 U+79F0",
+    "general_bs_code": "3123435234"
+}

@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bright, glorious, splendid"
+        },
+        {
+            "language": "法语",
+            "explanation": "(jade fin)​"
+        }
+    ],
+    "general_pinyins": [
+        "hún",
+        "huī"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄣˊ",
+        "ㄏㄨㄟ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "琿"
+    ],
+    "general_ytz": [
+        "琿",
+        "𤦳"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "73F2",
+            "1121451512"
+        ],
+        "char_code_wubi": "gplh",
+        "char_code_cangjie": "mgbkq",
+        "char_code_zhengma": "cwhe",
+        "char_code_sijiao": "17154"
+    },
+    "general_unicode": "基本区 U+73F2",
+    "general_bs_code": "1121451512"
+}

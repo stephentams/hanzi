@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "farewell present"
+        },
+        {
+            "language": "法语",
+            "explanation": "cadeaux du départ"
+        }
+    ],
+    "general_pinyins": [
+        "jìn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "貝",
+        "non_radical_sn": "14",
+        "total_sn": "21"
+    },
+    "general_stc": [
+        "赆"
+    ],
+    "general_ytz": [
+        "賮",
+        "䝲",
+        "赆"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D10",
+            "251113451121444425221"
+        ],
+        "char_code_wubi": "mvhl",
+        "char_code_cangjie": "bclmt",
+        "char_code_zhengma": "loul",
+        "char_code_sijiao": "65812"
+    },
+    "general_unicode": "基本区 U+8D10",
+    "general_bs_code": "251113451121444425221"
+}

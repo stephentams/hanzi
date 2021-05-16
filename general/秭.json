@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "one thousand millions, sometimes used for one hundred millions"
+        },
+        {
+            "language": "德语",
+            "explanation": "Quadrillion (1.000.000.000.000.000.000.000.000, 10^24)​  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "Numération chinoise"
+        }
+    ],
+    "general_pinyins": [
+        "zǐ"
+    ],
+    "general_zhuyins": [
+        "ㄗˇ"
+    ],
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥞑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "79ED",
+            "312343523"
+        ],
+        "char_code_wubi": "ttnt",
+        "char_code_cangjie": "hdlxh",
+        "char_code_zhengma": "mfim",
+        "char_code_sijiao": "25927"
+    },
+    "general_unicode": "基本区 U+79ED",
+    "general_bs_code": "312343523"
+}

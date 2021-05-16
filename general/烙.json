@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "brand, burn; branding iron"
+        },
+        {
+            "language": "德语",
+            "explanation": "brennen, backen ,Flacheisen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "repasser,cuire (des galettes)​"
+        }
+    ],
+    "general_pinyins": [
+        "lào",
+        "luò"
+    ],
+    "general_zhuyins": [
+        "ㄌㄠˋ",
+        "ㄌㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "雒",
+        "烙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "70D9",
+            "4334354251"
+        ],
+        "char_code_wubi": "otkg",
+        "char_code_cangjie": "fher",
+        "char_code_zhengma": "uorj",
+        "char_code_sijiao": "97864"
+    },
+    "general_unicode": "基本区 U+70D9",
+    "general_bs_code": "4334354251"
+}

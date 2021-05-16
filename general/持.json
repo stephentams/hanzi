@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sustain, support; hold, grasp"
+        },
+        {
+            "language": "德语",
+            "explanation": "etw. halten  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tenir,saisir,soutenir (une opinion)​,maintenir,diriger,résister"
+        }
+    ],
+    "general_pinyins": [
+        "chí"
+    ],
+    "general_zhuyins": [
+        "ㄔˊ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6301",
+            "121121124"
+        ],
+        "char_code_wubi": "rffy",
+        "char_code_cangjie": "qgdi",
+        "char_code_zhengma": "dbds",
+        "char_code_sijiao": "54041"
+    },
+    "general_unicode": "基本区 U+6301",
+    "general_bs_code": "121121124"
+}

@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "between the skin and the flesh"
+        },
+        {
+            "language": "法语",
+            "explanation": "stries du muscle,peau"
+        }
+    ],
+    "general_pinyins": [
+        "còu"
+    ],
+    "general_zhuyins": [
+        "ㄘㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "傶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8160",
+            "3511111341134"
+        ],
+        "char_code_wubi": "edwd",
+        "char_code_cangjie": "bqkk",
+        "char_code_zhengma": "qcag",
+        "char_code_sijiao": "75284"
+    },
+    "general_unicode": "基本区 U+8160",
+    "general_bs_code": "3511111341134"
+}

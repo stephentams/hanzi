@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "spine, backbone; ridge"
+        },
+        {
+            "language": "德语",
+            "explanation": "Grat, Rücken, Bergrücken  (S, Geo)​,Rückgrat, Wirbelsäule  (S, Bio)​,Ruck  (S)​,retour, zur. : zurück"
+        },
+        {
+            "language": "法语",
+            "explanation": "colonne vertébrale,faîte,crête"
+        }
+    ],
+    "general_pinyins": [
+        "jǐ"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦠗",
+        "𦟝"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "810A",
+            "4134342511"
+        ],
+        "char_code_wubi": "iwef",
+        "char_code_cangjie": "fcb",
+        "char_code_zhengma": "voq",
+        "char_code_sijiao": "32227"
+    },
+    "general_unicode": "基本区 U+810A",
+    "general_bs_code": "4134342511"
+}

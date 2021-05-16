@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to mix, blend, mingle; to bumble along"
+        },
+        {
+            "language": "德语",
+            "explanation": "bestürzt, irritiert  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "salaud,canaille,confondre,mêler,faire passer pour,s'infiltrer,gagner sa vie tant bien que mal"
+        }
+    ],
+    "general_pinyins": [
+        "hùn",
+        "hún"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄣˋ",
+        "ㄏㄨㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "崑",
+        "渾",
+        "溷",
+        "𡇯"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6DF7",
+            "44125111535"
+        ],
+        "char_code_wubi": "ijxx",
+        "char_code_cangjie": "eapp",
+        "char_code_zhengma": "vkrr",
+        "char_code_sijiao": "36112"
+    },
+    "general_unicode": "基本区 U+6DF7",
+    "general_bs_code": "44125111535"
+}

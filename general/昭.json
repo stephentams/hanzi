@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bright, luminous; illustrious"
+        },
+        {
+            "language": "德语",
+            "explanation": "deutlich  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "clair,évident"
+        }
+    ],
+    "general_pinyins": [
+        "zhāo"
+    ],
+    "general_zhuyins": [
+        "ㄓㄠ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "佋",
+        "巶",
+        "炤",
+        "照"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "662D",
+            "251153251"
+        ],
+        "char_code_wubi": "jvkg",
+        "char_code_cangjie": "ashr",
+        "char_code_zhengma": "kyj",
+        "char_code_sijiao": "67062"
+    },
+    "general_unicode": "基本区 U+662D",
+    "general_bs_code": "251153251"
+}

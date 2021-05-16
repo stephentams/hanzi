@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "creek, stream; beach, sea coast"
+        },
+        {
+            "language": "法语",
+            "explanation": "(utilisé phonétiquement en japonais pour des noms de lieu)​"
+        }
+    ],
+    "general_pinyins": [
+        "bāng"
+    ],
+    "general_zhuyins": [
+        "ㄅㄤ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "濱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6D5C",
+            "4413212134"
+        ],
+        "char_code_wubi": "irgw|irwy",
+        "char_code_cangjie": "eomc",
+        "char_code_zhengma": "vpo",
+        "char_code_sijiao": "32181"
+    },
+    "general_unicode": "基本区 U+6D5C",
+    "general_bs_code": "4413212134"
+}

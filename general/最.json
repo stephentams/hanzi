@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "most, extremely, exceedingly"
+        },
+        {
+            "language": "德语",
+            "explanation": "am ...sten (Adv)​,meist (höchste Steigerungsstufe)​ (Adv)"
+        },
+        {
+            "language": "法语",
+            "explanation": "le plus"
+        }
+    ],
+    "general_pinyins": [
+        "zuì"
+    ],
+    "general_zhuyins": [
+        "ㄗㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "曰",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "撮",
+        "㝡",
+        "𣤜",
+        "𥦡",
+        "冣"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6700",
+            "251112211154"
+        ],
+        "char_code_wubi": "jbcu",
+        "char_code_cangjie": "asje",
+        "char_code_zhengma": "kcxs",
+        "char_code_sijiao": "60447"
+    },
+    "general_unicode": "基本区 U+6700",
+    "general_bs_code": "251112211154"
+}

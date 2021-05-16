@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to rely on"
+        },
+        {
+            "language": "法语",
+            "explanation": "s'appuyer sur"
+        }
+    ],
+    "general_pinyins": [
+        "liáo"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢟺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6180",
+            "44254154134333"
+        ],
+        "char_code_wubi": "nnwe",
+        "char_code_cangjie": "psmh",
+        "char_code_zhengma": "uyop",
+        "char_code_sijiao": "97022"
+    },
+    "general_unicode": "基本区 U+6180",
+    "general_bs_code": "44254154134333"
+}

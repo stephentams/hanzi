@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tea"
+        },
+        {
+            "language": "德语",
+            "explanation": "Tee (S, Ess)​,Tee, Teepflanze (S, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "thé,infusion de thé ou d'autre chose"
+        }
+    ],
+    "general_pinyins": [
+        "chá"
+    ],
+    "general_zhuyins": [
+        "ㄔㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣘻",
+        "𣗪",
+        "荼",
+        "𨼑",
+        "茶"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8336",
+            "122341234"
+        ],
+        "char_code_wubi": "awsu",
+        "char_code_cangjie": "tod",
+        "char_code_zhengma": "eof",
+        "char_code_sijiao": "44904"
+    },
+    "general_unicode": "基本区 U+8336",
+    "general_bs_code": "122341234"
+}

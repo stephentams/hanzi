@@ -1,0 +1,55 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lick with tongue"
+        },
+        {
+            "language": "德语",
+            "explanation": "auflecken  (V)​,lecken  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "lécher"
+        }
+    ],
+    "general_pinyins": [
+        "shì"
+    ],
+    "general_zhuyins": [
+        "ㄕˋ"
+    ],
+    "general_radical": {
+        "radical": "舌",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䑛",
+        "咶",
+        "狧",
+        "舓",
+        "𦧇",
+        "𦧑",
+        "𦧓",
+        "𦧧",
+        "𦧫",
+        "𪙬",
+        "𪙶",
+        "𦧪"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8210",
+            "3122513515"
+        ],
+        "char_code_wubi": "tdqa",
+        "char_code_cangjie": "hrhvp",
+        "char_code_zhengma": "mirh",
+        "char_code_sijiao": "22640"
+    },
+    "general_unicode": "基本区 U+8210",
+    "general_bs_code": "3122513515"
+}

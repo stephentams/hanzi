@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lie down, recline"
+        },
+        {
+            "language": "德语",
+            "explanation": "liegen, sich hinlegen (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "se coucher,s'allonger"
+        }
+    ],
+    "general_pinyins": [
+        "tǎng"
+    ],
+    "general_zhuyins": [
+        "ㄊㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "身",
+        "non_radical_sn": "8",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "倘",
+        "儻"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8EBA",
+            "325111324325251"
+        ],
+        "char_code_wubi": "tmdk",
+        "char_code_cangjie": "hhfbr",
+        "char_code_zhengma": "nckl",
+        "char_code_sijiao": "29227"
+    },
+    "general_unicode": "基本区 U+8EBA",
+    "general_bs_code": "325111324325251"
+}

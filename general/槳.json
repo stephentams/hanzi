@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "oar, paddle"
+        },
+        {
+            "language": "德语",
+            "explanation": "Paddel  (S)​,Riemen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "aviron"
+        }
+    ],
+    "general_pinyins": [
+        "jiǎng"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "11",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "桨"
+    ],
+    "general_ytz": [
+        "㯍",
+        "䉃",
+        "䒂",
+        "桨",
+        "𥶝",
+        "𥷃"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "69F3",
+            "521335441241234"
+        ],
+        "char_code_wubi": "nhds|uqfs",
+        "char_code_cangjie": "vid",
+        "char_code_zhengma": "zidf",
+        "char_code_sijiao": "27904"
+    },
+    "general_unicode": "基本区 U+69F3",
+    "general_bs_code": "521335441241234"
+}

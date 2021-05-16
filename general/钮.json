@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "button, knob; surname"
+        },
+        {
+            "language": "德语",
+            "explanation": "Knopf, Schaltfläche  (S)​,Niu  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bouton,(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "niǔ"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "鈕"
+    ],
+    "general_ytz": [
+        "鈕",
+        "㺲"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94AE",
+            "311155211"
+        ],
+        "char_code_wubi": "qnfg|qnhg",
+        "char_code_cangjie": "opng",
+        "char_code_zhengma": "pxed",
+        "char_code_sijiao": "87712"
+    },
+    "general_unicode": "基本区 U+94AE",
+    "general_bs_code": "311155211"
+}

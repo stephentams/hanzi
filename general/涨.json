@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rise in price"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufsteigen, erhöhen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "monter,augmenter,hausser,enfler,gonfler,devenir rouge par un coup de sang,se gonfler,se congestionner,excéder"
+        }
+    ],
+    "general_pinyins": [
+        "zhǎng",
+        "zhàng"
+    ],
+    "general_zhuyins": [
+        "ㄓㄤˇ",
+        "ㄓㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "漲"
+    ],
+    "general_ytz": [
+        "漲",
+        "涱"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6DA8",
+            "4415153154"
+        ],
+        "char_code_wubi": "ixty",
+        "char_code_cangjie": "enpo",
+        "char_code_zhengma": "vych",
+        "char_code_sijiao": "32134"
+    },
+    "general_unicode": "基本区 U+6DA8",
+    "general_bs_code": "4415153154"
+}

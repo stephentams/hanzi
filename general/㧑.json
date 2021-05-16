@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(a simplified form 撝) to wave, to assist"
+        }
+    ],
+    "general_pinyins": [
+        "wéi",
+        "wěi"
+    ],
+    "general_zhuyins": [
+        "ㄨㄟˊ",
+        "ㄨㄟˇ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "撝"
+    ],
+    "general_ytz": [
+        "撝"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "39D1",
+            "1214354"
+        ],
+        "char_code_wubi": "ryly|ryey",
+        "char_code_cangjie": "qiki",
+        "char_code_zhengma": "duys",
+        "char_code_sijiao": "54027"
+    },
+    "general_unicode": "扩展A U+39D1",
+    "general_bs_code": "1214354"
+}

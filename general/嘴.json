@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mouth, lips"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kopf, Ventileingang  (S)​,Mund  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bouche,bec (d'oiseau, de théière)​,embouchure (d'un instrument de musique)​,paroles"
+        }
+    ],
+    "general_pinyins": [
+        "zuǐ"
+    ],
+    "general_zhuyins": [
+        "ㄗㄨㄟˇ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㭰",
+        "咀",
+        "觜",
+        "𠾋",
+        "𠿘",
+        "𡁫",
+        "𡂗"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5634",
+            "2512121353535112"
+        ],
+        "char_code_wubi": "khxe",
+        "char_code_cangjie": "rypb",
+        "char_code_zhengma": "jirl",
+        "char_code_sijiao": "62027"
+    },
+    "general_unicode": "基本区 U+5634",
+    "general_bs_code": "2512121353535112"
+}

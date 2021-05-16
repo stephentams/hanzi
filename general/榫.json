@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mortise and tenon; fit into"
+        },
+        {
+            "language": "法语",
+            "explanation": "tenon"
+        }
+    ],
+    "general_pinyins": [
+        "sǔn"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㔼",
+        "笋",
+        "筍",
+        "𢲜"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "69AB",
+            "12343241112112"
+        ],
+        "char_code_wubi": "swyf",
+        "char_code_cangjie": "dogj",
+        "char_code_zhengma": "fned",
+        "char_code_sijiao": "40941"
+    },
+    "general_unicode": "基本区 U+69AB",
+    "general_bs_code": "12343241112112"
+}

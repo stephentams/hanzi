@@ -1,0 +1,35 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to wink"
+        }
+    ],
+    "general_pinyins": [
+        "xī"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "13",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䂀"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "252DF",
+            "251114311213121534"
+        ],
+        "char_code_wubi": "hugt",
+        "char_code_cangjie": "butgi",
+        "char_code_zhengma": "lumh"
+    },
+    "general_unicode": "扩展B U+252DF",
+    "general_bs_code": "251114311213121534"
+}

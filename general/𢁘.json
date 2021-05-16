@@ -1,0 +1,28 @@
+{
+    "general_pinyins": [
+        "sān"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "巾",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢁚",
+        "𢒌"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "22058",
+            "252333"
+        ],
+        "char_code_wubi": "mhet",
+        "char_code_cangjie": "lbhhh",
+        "char_code_zhengma": "lipd"
+    },
+    "general_unicode": "扩展B U+22058",
+    "general_bs_code": "252333"
+}

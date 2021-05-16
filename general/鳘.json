@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "codfish"
+        }
+    ],
+    "general_pinyins": [
+        "mǐn"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "11",
+        "total_sn": "19"
+    },
+    "general_stc": [
+        "鰵"
+    ],
+    "general_ytz": [
+        "鰵"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9CD8",
+            "3155414313435251211"
+        ],
+        "char_code_wubi": "txgg|txtg",
+        "char_code_cangjie": "oknwm",
+        "char_code_zhengma": "mamr",
+        "char_code_sijiao": "88106"
+    },
+    "general_unicode": "基本区 U+9CD8",
+    "general_bs_code": "3155414313435251211"
+}

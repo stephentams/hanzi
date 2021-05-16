@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lift, carry"
+        },
+        {
+            "language": "德语",
+            "explanation": "fördern, anheben  (V)​,hochhalten  (V)​,tragen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "lever,soulever"
+        }
+    ],
+    "general_pinyins": [
+        "tái"
+    ],
+    "general_zhuyins": [
+        "ㄊㄞˊ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "擡",
+        "笞"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "62AC",
+            "12154251"
+        ],
+        "char_code_wubi": "rckg",
+        "char_code_cangjie": "qir",
+        "char_code_zhengma": "dzj",
+        "char_code_sijiao": "53060"
+    },
+    "general_unicode": "基本区 U+62AC",
+    "general_bs_code": "12154251"
+}

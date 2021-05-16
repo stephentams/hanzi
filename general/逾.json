@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "go over, pass over, exceed"
+        },
+        {
+            "language": "德语",
+            "explanation": "überschreiten, übersteigen ,überspringen"
+        },
+        {
+            "language": "法语",
+            "explanation": "dépasser,excéder"
+        }
+    ],
+    "general_pinyins": [
+        "yú"
+    ],
+    "general_zhuyins": [
+        "ㄩˊ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧼯",
+        "㢏",
+        "踰"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "903E",
+            "341251122454"
+        ],
+        "char_code_wubi": "wgep",
+        "char_code_cangjie": "yomn",
+        "char_code_zhengma": "odkw",
+        "char_code_sijiao": "38302"
+    },
+    "general_unicode": "基本区 U+903E",
+    "general_bs_code": "341251122454"
+}

@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "false"
+        },
+        {
+            "language": "德语",
+            "explanation": "bedeutungslos, inhaltslos, leer  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "vide,inoccupé,vacant,faux,faible,fragile,en vain"
+        }
+    ],
+    "general_pinyins": [
+        "xū"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩ"
+    ],
+    "general_radical": {
+        "radical": "虍",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "虛"
+    ],
+    "general_ytz": [
+        "墟",
+        "虛",
+        "虗",
+        "𠧝",
+        "𧟬"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "865A",
+            "21531522431"
+        ],
+        "char_code_wubi": "haog|hod",
+        "char_code_cangjie": "yptc",
+        "char_code_zhengma": "ihku",
+        "char_code_sijiao": "21212"
+    },
+    "general_unicode": "基本区 U+865A",
+    "general_bs_code": "21531522431"
+}

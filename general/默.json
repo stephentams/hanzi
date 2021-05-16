@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "silent; quiet, still; dark"
+        },
+        {
+            "language": "德语",
+            "explanation": "aus dem Gedächtnis niederschreiben  (V)​,(still)​ schweigend  (Adj)​,still  (Adj)​,stumm  (Adj)​,wortkarg  (Adj)​,Mo  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "silencieux,recopier par coeur"
+        }
+    ],
+    "general_pinyins": [
+        "mò"
+    ],
+    "general_zhuyins": [
+        "ㄇㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "黑",
+        "non_radical_sn": "4",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "墨",
+        "㱄",
+        "嘿",
+        "黙",
+        "𪐥",
+        "𪐩"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9ED8",
+            "2543121144441344"
+        ],
+        "char_code_wubi": "lfod",
+        "char_code_cangjie": "wfik",
+        "char_code_zhengma": "lkgs",
+        "char_code_sijiao": "63384"
+    },
+    "general_unicode": "基本区 U+9ED8",
+    "general_bs_code": "2543121144441344"
+}

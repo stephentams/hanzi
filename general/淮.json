@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "river in Anhui province"
+        },
+        {
+            "language": "德语",
+            "explanation": "Huai (Fluss, der Huai entspringt in der Provinz Hebei, fließt durch die Provinzen Anhui und Jiangsu und mündet in den Hongze See.)​  (S, Geo)"
+        },
+        {
+            "language": "法语",
+            "explanation": "rivière Huai"
+        }
+    ],
+    "general_pinyins": [
+        "huái"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄞˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6DEE",
+            "44132411121"
+        ],
+        "char_code_wubi": "iwyg",
+        "char_code_cangjie": "eog",
+        "char_code_zhengma": "vni",
+        "char_code_sijiao": "30115"
+    },
+    "general_unicode": "基本区 U+6DEE",
+    "general_bs_code": "44132411121"
+}

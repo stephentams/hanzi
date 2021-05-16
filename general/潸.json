@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "weep; tears flowing"
+        },
+        {
+            "language": "德语",
+            "explanation": "tränenreich"
+        },
+        {
+            "language": "法语",
+            "explanation": "pleurer"
+        }
+    ],
+    "general_pinyins": [
+        "shān"
+    ],
+    "general_zhuyins": [
+        "ㄕㄢ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "澘",
+        "𣽽"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6F78",
+            "441123412342511"
+        ],
+        "char_code_wubi": "isse",
+        "char_code_cangjie": "eddb",
+        "char_code_zhengma": "vffq",
+        "char_code_sijiao": "34127"
+    },
+    "general_unicode": "基本区 U+6F78",
+    "general_bs_code": "441123412342511"
+}

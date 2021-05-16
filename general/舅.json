@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mother's brother, uncle"
+        },
+        {
+            "language": "德语",
+            "explanation": "Onkel ( der Bruder der Mutter )​  (S)​,Schwager ( der Bruder der Frau )​  (S)​,Schwiegervater ( der Vater des Ehemannes )​  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "oncle maternel"
+        }
+    ],
+    "general_pinyins": [
+        "jiù"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "臼",
+        "non_radical_sn": "7",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠢎",
+        "𤰧",
+        "𦥶",
+        "𦦊",
+        "𤽲"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8205",
+            "3215112512153"
+        ],
+        "char_code_wubi": "vllb|eler",
+        "char_code_cangjie": "hxwks",
+        "char_code_zhengma": "nbky",
+        "char_code_sijiao": "77427"
+    },
+    "general_unicode": "基本区 U+8205",
+    "general_bs_code": "3215112512153"
+}

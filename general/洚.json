@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a flood"
+        },
+        {
+            "language": "德语",
+            "explanation": "Überschwemmung  (S)​,Flut, Überfluten  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "inondations"
+        }
+    ],
+    "general_pinyins": [
+        "jiàng"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣴗"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6D1A",
+            "441354152"
+        ],
+        "char_code_wubi": "itah|itgh",
+        "char_code_cangjie": "eheq",
+        "char_code_zhengma": "vrmb",
+        "char_code_sijiao": "37154"
+    },
+    "general_unicode": "基本区 U+6D1A",
+    "general_bs_code": "441354152"
+}

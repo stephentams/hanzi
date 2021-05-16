@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "divan for two persons"
+        },
+        {
+            "language": "法语",
+            "explanation": "couche pour deux"
+        }
+    ],
+    "general_pinyins": [
+        "kàng"
+    ],
+    "general_zhuyins": [
+        "ㄎㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "匚",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "炕"
+    ],
+    "general_structure": "左包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "531F",
+            "141355"
+        ],
+        "char_code_wubi": "aymv|aywv",
+        "char_code_cangjie": "syhn",
+        "char_code_zhengma": "hsqd",
+        "char_code_sijiao": "71711"
+    },
+    "general_unicode": "基本区 U+531F",
+    "general_bs_code": "141355"
+}

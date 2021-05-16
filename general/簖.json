@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bamboo trap for catching fish"
+        },
+        {
+            "language": "法语",
+            "explanation": "barrage en bambou,piège à poissons"
+        }
+    ],
+    "general_pinyins": [
+        "duàn"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "11",
+        "total_sn": "17"
+    },
+    "general_stc": [
+        "籪"
+    ],
+    "general_ytz": [
+        "籪"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7C16",
+            "31431443123453312"
+        ],
+        "char_code_wubi": "tonr",
+        "char_code_cangjie": "hvdl",
+        "char_code_zhengma": "muzp",
+        "char_code_sijiao": "88721"
+    },
+    "general_unicode": "基本区 U+7C16",
+    "general_bs_code": "31431443123453312"
+}

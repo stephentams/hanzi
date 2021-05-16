@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rare, unusual, scarce; sparse"
+        },
+        {
+            "language": "法语",
+            "explanation": "rare,espacé,clairsemé,léger"
+        }
+    ],
+    "general_pinyins": [
+        "xī"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧ"
+    ],
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "希"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7A00",
+            "312343413252"
+        ],
+        "char_code_wubi": "tqdh|trdh",
+        "char_code_cangjie": "hdkkb",
+        "char_code_zhengma": "mfgl",
+        "char_code_sijiao": "24927"
+    },
+    "general_unicode": "基本区 U+7A00",
+    "general_bs_code": "312343413252"
+}

@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "scallions, leeks, green onions"
+        },
+        {
+            "language": "德语",
+            "explanation": "Lauch; Porree; Zwiebel"
+        },
+        {
+            "language": "法语",
+            "explanation": "oignon"
+        }
+    ],
+    "general_pinyins": [
+        "cōng"
+    ],
+    "general_zhuyins": [
+        "ㄘㄨㄥ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "蔥"
+    ],
+    "general_ytz": [
+        "𦯎",
+        "𢚱",
+        "蔥",
+        "䓗"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8471",
+            "122353344544"
+        ],
+        "char_code_wubi": "aqrn",
+        "char_code_cangjie": "tpkp",
+        "char_code_zhengma": "ersw",
+        "char_code_sijiao": "44332"
+    },
+    "general_unicode": "基本区 U+8471",
+    "general_bs_code": "122353344544"
+}

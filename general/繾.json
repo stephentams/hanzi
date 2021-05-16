@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "attached to, inseparable; entangled"
+        },
+        {
+            "language": "德语",
+            "explanation": "liebevoll, liebend ,zugeneigt, zugetan"
+        },
+        {
+            "language": "法语",
+            "explanation": "attaché à,tendre"
+        }
+    ],
+    "general_pinyins": [
+        "qiǎn"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "糹",
+        "non_radical_sn": "13",
+        "total_sn": "19"
+    },
+    "general_stc": [
+        "缱"
+    ],
+    "general_ytz": [
+        "𦇶",
+        "缱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7E7E",
+            "5544442512125151454"
+        ],
+        "char_code_wubi": "xkhp",
+        "char_code_cangjie": "vfylr",
+        "char_code_zhengma": "zjyw",
+        "char_code_sijiao": "25937"
+    },
+    "general_unicode": "基本区 U+7E7E",
+    "general_bs_code": "5544442512125151454"
+}

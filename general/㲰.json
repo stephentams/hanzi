@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a hairy dog"
+        }
+    ],
+    "general_pinyins": [
+        "níng"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "毛",
+        "non_radical_sn": "14",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3CB0",
+            "445454425221123115"
+        ],
+        "char_code_wubi": "pnln|pnle",
+        "char_code_cangjie": "jnhqu",
+        "char_code_zhengma": "wdam",
+        "char_code_sijiao": "32214"
+    },
+    "general_unicode": "扩展A U+3CB0",
+    "general_bs_code": "445454425221123115"
+}

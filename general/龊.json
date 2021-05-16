@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "narrow, small; dirty"
+        },
+        {
+            "language": "法语",
+            "explanation": "étroitesse d'esprit,borné,basique"
+        }
+    ],
+    "general_pinyins": [
+        "chuò"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "齿",
+        "non_radical_sn": "7",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "齪"
+    ],
+    "general_ytz": [
+        "齪",
+        "𪘏",
+        "𪘛",
+        "𪘮"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9F8A",
+            "212134522512134"
+        ],
+        "char_code_wubi": "hwbh",
+        "char_code_cangjie": "yuryo",
+        "char_code_zhengma": "ioji",
+        "char_code_sijiao": "26781"
+    },
+    "general_unicode": "基本区 U+9F8A",
+    "general_bs_code": "212134522512134"
+}

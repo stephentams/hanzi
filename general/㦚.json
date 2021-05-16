@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "melancholy; grievous; mournful, urgent; pressing"
+        }
+    ],
+    "general_pinyins": [
+        "biǎn"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "14",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢣑",
+        "𢤴",
+        "𨐵"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "399A",
+            "414311345444143112"
+        ],
+        "char_code_wubi": "unuh",
+        "char_code_cangjie": "yjpyj",
+        "char_code_zhengma": "sews",
+        "char_code_sijiao": "00441"
+    },
+    "general_unicode": "扩展A U+399A",
+    "general_bs_code": "414311345444143112"
+}

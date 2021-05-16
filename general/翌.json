@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bright; daybreak, dawn; the next day"
+        },
+        {
+            "language": "法语",
+            "explanation": "suivant"
+        }
+    ],
+    "general_pinyins": [
+        "yì"
+    ],
+    "general_zhuyins": [
+        "ㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "羽",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "昱",
+        "翊"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7FCC",
+            "54154141431"
+        ],
+        "char_code_wubi": "nuf",
+        "char_code_cangjie": "smyt",
+        "char_code_zhengma": "ytys",
+        "char_code_sijiao": "17108"
+    },
+    "general_unicode": "基本区 U+7FCC",
+    "general_bs_code": "54154141431"
+}

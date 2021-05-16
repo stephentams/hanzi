@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "plums; prunes; surname"
+        },
+        {
+            "language": "德语",
+            "explanation": "Mei  (Eig, Fam)​,Prunus mume (lat)​  (Eig, Bio)​,Ume  (Eig, Bio)​, asiatische Pflanze, ähnelt Aprikose"
+        }
+    ],
+    "general_pinyins": [
+        "méi"
+    ],
+    "general_zhuyins": [
+        "ㄇㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "坆",
+        "某",
+        "栂",
+        "楳",
+        "槑",
+        "𣏁",
+        "𣒫",
+        "𤯏",
+        "𣐥",
+        "梅"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6885",
+            "12343155414"
+        ],
+        "char_code_wubi": "stxu|stxy",
+        "char_code_cangjie": "dowy",
+        "char_code_zhengma": "fmzy",
+        "char_code_sijiao": "48957"
+    },
+    "general_unicode": "基本区 U+6885",
+    "general_bs_code": "12343155414"
+}

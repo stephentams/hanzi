@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "poetry; poem, verse, ode"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 Lyrik, Gedicht, Poesie, Vers  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "shī"
+    ],
+    "general_zhuyins": [
+        "ㄕ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "詩"
+    ],
+    "general_ytz": [
+        "詩",
+        "𧥳"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BD7",
+            "45121124"
+        ],
+        "char_code_wubi": "yffy",
+        "char_code_cangjie": "ivgdi",
+        "char_code_zhengma": "sbds",
+        "char_code_sijiao": "34741"
+    },
+    "general_unicode": "基本区 U+8BD7",
+    "general_bs_code": "45121124"
+}

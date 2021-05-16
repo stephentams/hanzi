@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as standard form 穬) grains with beard (rice plant, wheat, etc.) unripe rice plant"
+        }
+    ],
+    "general_pinyins": [
+        "kuàng"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "米",
+        "non_radical_sn": "14",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "穬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "42AF",
+            "43123441312212512134"
+        ],
+        "char_code_wubi": "oyaw|ooaw",
+        "char_code_cangjie": "fditc",
+        "char_code_zhengma": "uftg",
+        "char_code_sijiao": "90986"
+    },
+    "general_unicode": "扩展A U+42AF",
+    "general_bs_code": "43123441312212512134"
+}

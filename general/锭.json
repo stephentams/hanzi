@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "spindle, slab, cake, tablet"
+        },
+        {
+            "language": "法语",
+            "explanation": "lingot d'argent,pain,tablette,ancre"
+        }
+    ],
+    "general_pinyins": [
+        "dìng"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "錠"
+    ],
+    "general_ytz": [
+        "錠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "952D",
+            "3111544512134"
+        ],
+        "char_code_wubi": "qpgh",
+        "char_code_cangjie": "opjmo",
+        "char_code_zhengma": "pwd",
+        "char_code_sijiao": "83781"
+    },
+    "general_unicode": "基本区 U+952D",
+    "general_bs_code": "3111544512134"
+}

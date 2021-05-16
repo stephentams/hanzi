@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "exceed, go beyond; the more ..."
+        },
+        {
+            "language": "德语",
+            "explanation": "darüber hinweg steigen, überklettern, übersteigen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "excéder,passer par-dessus,traverser,franchir,surpasser,... de plus en plus,plus... plus...,vif,enthousiaste"
+        }
+    ],
+    "general_pinyins": [
+        "yuè"
+    ],
+    "general_zhuyins": [
+        "ㄩㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "走",
+        "non_radical_sn": "5",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䟠",
+        "趏",
+        "𦈭",
+        "𧻂",
+        "𨒋"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D8A",
+            "121213415534"
+        ],
+        "char_code_wubi": "fhat|fhan",
+        "char_code_cangjie": "goiv",
+        "char_code_zhengma": "bohz",
+        "char_code_sijiao": "43805"
+    },
+    "general_unicode": "基本区 U+8D8A",
+    "general_bs_code": "121213415534"
+}

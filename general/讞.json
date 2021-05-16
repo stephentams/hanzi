@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to decide, judge; a verdict, decision"
+        },
+        {
+            "language": "德语",
+            "explanation": "(English: decide judicially)​ für schuldig bestimmen"
+        },
+        {
+            "language": "法语",
+            "explanation": "décider judiciairement"
+        }
+    ],
+    "general_pinyins": [
+        "yàn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "言",
+        "non_radical_sn": "20",
+        "total_sn": "27"
+    },
+    "general_stc": [
+        "谳"
+    ],
+    "general_ytz": [
+        "谳",
+        "𤅊"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8B9E",
+            "411125121531512512543121344"
+        ],
+        "char_code_wubi": "yhad|yhgd",
+        "char_code_cangjie": "yrybk",
+        "char_code_zhengma": "sigs",
+        "char_code_sijiao": "03684"
+    },
+    "general_unicode": "基本区 U+8B9E",
+    "general_bs_code": "411125121531512512543121344"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "prisoner of war; take as prisoner"
+        },
+        {
+            "language": "德语",
+            "explanation": "einfangen  (V)​,gefangen nehmen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "capturer,faire prisonnier,prisonnier"
+        }
+    ],
+    "general_pinyins": [
+        "fú"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "孚"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4FD8",
+            "323443521"
+        ],
+        "char_code_wubi": "webg",
+        "char_code_cangjie": "obnd",
+        "char_code_zhengma": "npya",
+        "char_code_sijiao": "22247"
+    },
+    "general_unicode": "基本区 U+4FD8",
+    "general_bs_code": "323443521"
+}

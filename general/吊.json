@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "condole, mourn, pity; hang"
+        }
+    ],
+    "general_pinyins": [
+        "diào"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "釣",
+        "弔",
+        "𢎣",
+        "𢎨"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "540A",
+            "251252"
+        ],
+        "char_code_wubi": "kmhj",
+        "char_code_cangjie": "rlb",
+        "char_code_zhengma": "jli",
+        "char_code_sijiao": "60227"
+    },
+    "general_unicode": "基本区 U+540A",
+    "general_bs_code": "251252"
+}

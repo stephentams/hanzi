@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "steel; hard, strong, tough"
+        },
+        {
+            "language": "德语",
+            "explanation": "Stahl (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "acier"
+        }
+    ],
+    "general_pinyins": [
+        "gāng",
+        "gàng"
+    ],
+    "general_zhuyins": [
+        "ㄍㄤ",
+        "ㄍㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "鋼"
+    ],
+    "general_ytz": [
+        "鋼",
+        "鎠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94A2",
+            "311152534"
+        ],
+        "char_code_wubi": "qmqy|qmry",
+        "char_code_cangjie": "opbk",
+        "char_code_zhengma": "pld",
+        "char_code_sijiao": "87720"
+    },
+    "general_unicode": "基本区 U+94A2",
+    "general_bs_code": "311152534"
+}

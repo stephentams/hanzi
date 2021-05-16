@@ -1,0 +1,55 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "badger; raccoon dog"
+        },
+        {
+            "language": "德语",
+            "explanation": "Marderhund ,still, wortkarg"
+        },
+        {
+            "language": "法语",
+            "explanation": "chien viverrin,tapir,tribu du Nord,blaireau"
+        }
+    ],
+    "general_pinyins": [
+        "hé",
+        "háo",
+        "mò"
+    ],
+    "general_zhuyins": [
+        "ㄏㄜˊ",
+        "ㄏㄠˊ",
+        "ㄇㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "豸",
+        "non_radical_sn": "6",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "狢",
+        "貈",
+        "貊",
+        "𧲦",
+        "𧲪",
+        "𧳇",
+        "𧴘",
+        "𧴞"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C89",
+            "3443533354251"
+        ],
+        "char_code_wubi": "eetk|etkg",
+        "char_code_cangjie": "bhher",
+        "char_code_zhengma": "pqrj",
+        "char_code_sijiao": "27264"
+    },
+    "general_unicode": "基本区 U+8C89",
+    "general_bs_code": "3443533354251"
+}

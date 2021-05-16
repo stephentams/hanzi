@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "indulge in, give free reign to"
+        },
+        {
+            "language": "德语",
+            "explanation": "senkrecht, Vertikale  (S)​,auslösen, entlassen ,selbst wenn, auch wenn ,Freisetzung  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "vertical,longitudinal,laisser libre cours à,s'abandonner à,bondir"
+        }
+    ],
+    "general_pinyins": [
+        "zòng",
+        "zǒng"
+    ],
+    "general_zhuyins": [
+        "ㄗㄨㄥˋ",
+        "ㄗㄨㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "縱"
+    ],
+    "general_ytz": [
+        "縱",
+        "縦",
+        "𥾞",
+        "𥾺",
+        "𦂵",
+        "𦄚",
+        "𦆬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EB5",
+            "5513434"
+        ],
+        "char_code_wubi": "xwwy",
+        "char_code_cangjie": "vmoo",
+        "char_code_zhengma": "zood",
+        "char_code_sijiao": "28100"
+    },
+    "general_unicode": "基本区 U+7EB5",
+    "general_bs_code": "5513434"
+}

@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "smelt, refine; distill, condense"
+        }
+    ],
+    "general_pinyins": [
+        "liàn"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "煉"
+    ],
+    "general_ytz": [
+        "煉",
+        "鍊",
+        "𣿊",
+        "𧹯"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "70BC",
+            "433415534"
+        ],
+        "char_code_wubi": "oanw",
+        "char_code_cangjie": "fkvc",
+        "char_code_zhengma": "uoyo",
+        "char_code_sijiao": "95894"
+    },
+    "general_unicode": "基本区 U+70BC",
+    "general_bs_code": "433415534"
+}

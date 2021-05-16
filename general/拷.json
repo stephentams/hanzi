@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "torture and interrogate; hit"
+        },
+        {
+            "language": "德语",
+            "explanation": "peitschen ,schlagen, besiegen"
+        },
+        {
+            "language": "法语",
+            "explanation": "battre,torturer"
+        }
+    ],
+    "general_pinyins": [
+        "kǎo"
+    ],
+    "general_zhuyins": [
+        "ㄎㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "攷",
+        "𣧏"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "62F7",
+            "121121315"
+        ],
+        "char_code_wubi": "rftn",
+        "char_code_cangjie": "qjks",
+        "char_code_zhengma": "dbaz",
+        "char_code_sijiao": "54027"
+    },
+    "general_unicode": "基本区 U+62F7",
+    "general_bs_code": "121121315"
+}

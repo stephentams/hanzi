@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "grapes"
+        },
+        {
+            "language": "德语",
+            "explanation": "Weinbeeren, Weintrauben  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "raisin"
+        }
+    ],
+    "general_pinyins": [
+        "táo"
+    ],
+    "general_zhuyins": [
+        "ㄊㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦻦"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8404",
+            "12235311252"
+        ],
+        "char_code_wubi": "aqrm|aqtb",
+        "char_code_cangjie": "tpou",
+        "char_code_zhengma": "erez",
+        "char_code_sijiao": "44727"
+    },
+    "general_unicode": "基本区 U+8404",
+    "general_bs_code": "12235311252"
+}

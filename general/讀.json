@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "read, study; pronounce"
+        },
+        {
+            "language": "德语",
+            "explanation": "lesen, vorlesen, laut lesen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "pause dans la lecture,virgule,lire,faire ses études,lecture"
+        }
+    ],
+    "general_pinyins": [
+        "dú"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "言",
+        "non_radical_sn": "15",
+        "total_sn": "22"
+    },
+    "general_stc": [
+        "读"
+    ],
+    "general_ytz": [
+        "读",
+        "逗",
+        "𡂝",
+        "読",
+        "讀"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8B80",
+            "4111251121252212511134"
+        ],
+        "char_code_wubi": "yflm",
+        "char_code_cangjie": "yrgwc",
+        "char_code_zhengma": "sbll",
+        "char_code_sijiao": "04686"
+    },
+    "general_unicode": "基本区 U+8B80",
+    "general_bs_code": "4111251121252212511134"
+}

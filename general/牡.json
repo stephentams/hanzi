@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "male of animals; bolt of door"
+        },
+        {
+            "language": "德语",
+            "explanation": "männlich (Zool)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "mâle"
+        }
+    ],
+    "general_pinyins": [
+        "mǔ"
+    ],
+    "general_zhuyins": [
+        "ㄇㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "牜",
+        "non_radical_sn": "3",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡉯",
+        "𤚴",
+        "𪋂"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7261",
+            "3121121"
+        ],
+        "char_code_wubi": "trfg|cfg",
+        "char_code_cangjie": "hqg",
+        "char_code_zhengma": "mbb",
+        "char_code_sijiao": "24510"
+    },
+    "general_unicode": "基本区 U+7261",
+    "general_bs_code": "3121121"
+}

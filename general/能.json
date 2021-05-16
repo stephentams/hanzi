@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to be able; can, permitted to; ability"
+        },
+        {
+            "language": "德语",
+            "explanation": "fähig sein, können, dürfen (V)​,Fähigkeit (S)​,Können (S)​,dürfen, fähig sein, können (V)​,Energie (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "capacité,énergie,pouvoir (faire qch d'autorisé)​,être capable de,être autorisé à"
+        }
+    ],
+    "general_pinyins": [
+        "néng",
+        "nài"
+    ],
+    "general_zhuyins": [
+        "ㄋㄥˊ",
+        "ㄋㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦝕",
+        "螚",
+        "竜",
+        "䏻",
+        "而",
+        "耐",
+        "熊"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "80FD",
+            "5425113535"
+        ],
+        "char_code_wubi": "cexx",
+        "char_code_cangjie": "ibpp",
+        "char_code_zhengma": "zqrr",
+        "char_code_sijiao": "22212"
+    },
+    "general_unicode": "基本区 U+80FD",
+    "general_bs_code": "5425113535"
+}

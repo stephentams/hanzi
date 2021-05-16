@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "Ipomoea aquatica used as a vegetable"
+        },
+        {
+            "language": "德语",
+            "explanation": "Wasserspinat  (S, Bio)"
+        }
+    ],
+    "general_pinyins": [
+        "wèng"
+    ],
+    "general_zhuyins": [
+        "ㄨㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8579",
+            "1224155332411121"
+        ],
+        "char_code_wubi": "ayxy",
+        "char_code_cangjie": "tyvg",
+        "char_code_zhengma": "eszn",
+        "char_code_sijiao": "44215"
+    },
+    "general_unicode": "基本区 U+8579",
+    "general_bs_code": "1224155332411121"
+}

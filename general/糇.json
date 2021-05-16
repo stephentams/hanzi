@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dried rice, dry provisions"
+        },
+        {
+            "language": "德语",
+            "explanation": "getrockneter Reis  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "provisions,provisions sèches"
+        }
+    ],
+    "general_pinyins": [
+        "hóu"
+    ],
+    "general_zhuyins": [
+        "ㄏㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "米",
+        "non_radical_sn": "9",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "餱"
+    ],
+    "general_ytz": [
+        "餱",
+        "𩛫",
+        "𩝍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7CC7",
+            "431234325131134"
+        ],
+        "char_code_wubi": "ownd",
+        "char_code_cangjie": "fdonk",
+        "char_code_zhengma": "ufxm",
+        "char_code_sijiao": "97984"
+    },
+    "general_unicode": "基本区 U+7CC7",
+    "general_bs_code": "431234325131134"
+}

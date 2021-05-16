@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "alkane"
+        },
+        {
+            "language": "德语",
+            "explanation": "Alkan  (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "alcane"
+        }
+    ],
+    "general_pinyins": [
+        "wán"
+    ],
+    "general_zhuyins": [
+        "ㄨㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "70F7",
+            "43344451135"
+        ],
+        "char_code_wubi": "opfq",
+        "char_code_cangjie": "fjmu",
+        "char_code_zhengma": "uobr",
+        "char_code_sijiao": "93812"
+    },
+    "general_unicode": "基本区 U+70F7",
+    "general_bs_code": "43344451135"
+}

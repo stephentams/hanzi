@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ornament"
+        },
+        {
+            "language": "法语",
+            "explanation": "bijou d'ornement de fourreau"
+        }
+    ],
+    "general_pinyins": [
+        "běng"
+    ],
+    "general_zhuyins": [
+        "ㄅㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䩬",
+        "琣",
+        "鞛",
+        "𩊌"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "742B",
+            "112111134112"
+        ],
+        "char_code_wubi": "gdwh|gdwg",
+        "char_code_cangjie": "mgqkq",
+        "char_code_zhengma": "ccbi",
+        "char_code_sijiao": "15158"
+    },
+    "general_unicode": "基本区 U+742B",
+    "general_bs_code": "112111134112"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stalk of shrub, trunk of tree"
+        },
+        {
+            "language": "德语",
+            "explanation": "ZEW für Ringe, Medaillen, Münzen; Raketen, Satelliten  (Zähl)​,Mei  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(classificateur pour les pièces de monnaie, bagues, badges, perles, médailles sportives, fusées, satellites etc.)​"
+        }
+    ],
+    "general_pinyins": [
+        "méi"
+    ],
+    "general_zhuyins": [
+        "ㄇㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣏽"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "679A",
+            "12343134"
+        ],
+        "char_code_wubi": "sty",
+        "char_code_cangjie": "dok",
+        "char_code_zhengma": "fmo",
+        "char_code_sijiao": "48940"
+    },
+    "general_unicode": "基本区 U+679A",
+    "general_bs_code": "12343134"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "surname; ancient state"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 Zhào [Familienname]  (Eig)​,Zhao  (Eig, Fam)​,Zhao war ein Staat des chinesischen Altertums während der Zeit der Streitenden Reiche."
+        }
+    ],
+    "general_pinyins": [
+        "zhào"
+    ],
+    "general_zhuyins": [
+        "ㄓㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "走",
+        "non_radical_sn": "2",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "趙"
+    ],
+    "general_ytz": [
+        "趙"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D75",
+            "121213434"
+        ],
+        "char_code_wubi": "fhqi|fhri",
+        "char_code_cangjie": "gok",
+        "char_code_zhengma": "boos",
+        "char_code_sijiao": "44800"
+    },
+    "general_unicode": "基本区 U+8D75",
+    "general_bs_code": "121213434"
+}

@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "艸",
+        "non_radical_sn": "0",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "巿"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "21D04",
+            "523455"
+        ],
+        "char_code_wubi": "btpn",
+        "char_code_cangjie": "ubn",
+        "char_code_zhengma": "ziwy"
+    },
+    "general_unicode": "扩展B U+21D04",
+    "general_bs_code": "523455"
+}

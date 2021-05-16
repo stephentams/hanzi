@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "forehead; tablet, plaque; fixed"
+        },
+        {
+            "language": "德语",
+            "explanation": "Pensum, Quantum  (S)​,Rauminhalt  (S)​,Volumen  (S)​,Menge, Anteil"
+        },
+        {
+            "language": "法语",
+            "explanation": "front,chiffre,volume"
+        }
+    ],
+    "general_pinyins": [
+        "é"
+    ],
+    "general_zhuyins": [
+        "ㄜˊ"
+    ],
+    "general_radical": {
+        "radical": "页",
+        "non_radical_sn": "9",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "額"
+    ],
+    "general_ytz": [
+        "額",
+        "頟",
+        "𩓘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "989D",
+            "445354251132534"
+        ],
+        "char_code_wubi": "ptkm",
+        "char_code_cangjie": "jrmbo",
+        "char_code_zhengma": "wdjg",
+        "char_code_sijiao": "31682"
+    },
+    "general_unicode": "基本区 U+989D",
+    "general_bs_code": "445354251132534"
+}

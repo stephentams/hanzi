@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "boorish, ignorant; urgent, pressing"
+        },
+        {
+            "language": "德语",
+            "explanation": "dumm, unwissend ,dringend, vordringlich"
+        },
+        {
+            "language": "法语",
+            "explanation": "sot,somnolent,urgent"
+        }
+    ],
+    "general_pinyins": [
+        "kōng",
+        "kǒng"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄥ",
+        "ㄎㄨㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5025",
+            "3244534121"
+        ],
+        "char_code_wubi": "wpwa",
+        "char_code_cangjie": "ojcm",
+        "char_code_zhengma": "nwbi",
+        "char_code_sijiao": "23212"
+    },
+    "general_unicode": "基本区 U+5025",
+    "general_bs_code": "3244534121"
+}

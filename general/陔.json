@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a step, a terrace, a grade a ledge"
+        },
+        {
+            "language": "德语",
+            "explanation": "treten, Tanzschritt  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "niveau,degré,marche"
+        }
+    ],
+    "general_pinyins": [
+        "gāi"
+    ],
+    "general_zhuyins": [
+        "ㄍㄞ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "垓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9654",
+            "52415334"
+        ],
+        "char_code_wubi": "bynw",
+        "char_code_cangjie": "nlyvo",
+        "char_code_zhengma": "yszo",
+        "char_code_sijiao": "70282"
+    },
+    "general_unicode": "基本区 U+9654",
+    "general_bs_code": "52415334"
+}

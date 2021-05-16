@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "black; Guizhou"
+        },
+        {
+            "language": "德语",
+            "explanation": "Provinz Guizhou  (Eig, Geo)​,Qian (Familienname)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "noir,autre nom de la province du Guizhou"
+        }
+    ],
+    "general_pinyins": [
+        "qián"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "黑",
+        "non_radical_sn": "4",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "軡",
+        "𦌣",
+        "𪑙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9ED4",
+            "2543121144443445"
+        ],
+        "char_code_wubi": "lfon",
+        "char_code_cangjie": "wfoin",
+        "char_code_zhengma": "lksx",
+        "char_code_sijiao": "68327"
+    },
+    "general_unicode": "基本区 U+9ED4",
+    "general_bs_code": "2543121144443445"
+}

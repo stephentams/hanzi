@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "counsel, advice; speak out"
+        },
+        {
+            "language": "法语",
+            "explanation": "(d'un propos)​ droit,honnête,conseil,avis"
+        }
+    ],
+    "general_pinyins": [
+        "dǎng"
+    ],
+    "general_zhuyins": [
+        "ㄉㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "10",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "讜"
+    ],
+    "general_ytz": [
+        "讜",
+        "譡",
+        "𧭢"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C20",
+            "452434525135"
+        ],
+        "char_code_wubi": "yipq",
+        "char_code_cangjie": "ivfbu",
+        "char_code_zhengma": "skjr",
+        "char_code_sijiao": "39712"
+    },
+    "general_unicode": "基本区 U+8C20",
+    "general_bs_code": "452434525135"
+}

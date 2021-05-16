@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tempt, allure, arouse, stir"
+        },
+        {
+            "language": "德语",
+            "explanation": "verweilen, sich aufhalten; Aufenthalt ,(zum Lachen, Liebhaben)​ reizen, jn zum Lachen bringen  (V)​,necken, hänseln, aufziehen  (V)​,spaßhaft, komisch  (Adj)​,Pause"
+        },
+        {
+            "language": "法语",
+            "explanation": "amusant,drôle,marrant,taquiner,provoquer,exciter,rester,séjourner"
+        }
+    ],
+    "general_pinyins": [
+        "dòu"
+    ],
+    "general_zhuyins": [
+        "ㄉㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9017",
+            "1251431454"
+        ],
+        "char_code_wubi": "gkup",
+        "char_code_cangjie": "ymrt",
+        "char_code_zhengma": "ajuw",
+        "char_code_sijiao": "31301"
+    },
+    "general_unicode": "基本区 U+9017",
+    "general_bs_code": "1251431454"
+}

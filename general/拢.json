@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "collect, bring together"
+        },
+        {
+            "language": "德语",
+            "explanation": "sammeln, einsammeln"
+        },
+        {
+            "language": "法语",
+            "explanation": "approcher,attacher,lier,peigner"
+        }
+    ],
+    "general_pinyins": [
+        "lǒng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "攏"
+    ],
+    "general_ytz": [
+        "攏"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "62E2",
+            "12113534"
+        ],
+        "char_code_wubi": "rdxn|rdxy",
+        "char_code_cangjie": "qikp",
+        "char_code_zhengma": "dgm",
+        "char_code_sijiao": "53014"
+    },
+    "general_unicode": "基本区 U+62E2",
+    "general_bs_code": "12113534"
+}

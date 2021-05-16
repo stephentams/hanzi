@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "reed screen; frame for growing silkworms"
+        },
+        {
+            "language": "法语",
+            "explanation": "treillis"
+        }
+    ],
+    "general_pinyins": [
+        "bó"
+    ],
+    "general_zhuyins": [
+        "ㄅㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "8",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "簿",
+        "薄",
+        "萡"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7B94",
+            "31431444132511"
+        ],
+        "char_code_wubi": "tirf",
+        "char_code_cangjie": "heha",
+        "char_code_zhengma": "mvnk",
+        "char_code_sijiao": "88162"
+    },
+    "general_unicode": "基本区 U+7B94",
+    "general_bs_code": "31431444132511"
+}

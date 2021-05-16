@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "numerary adjunct for vehicles"
+        },
+        {
+            "language": "德语",
+            "explanation": "Zähleinheitswort für Fahrzeuge z.B. Auto, Fahrrad, Straßenbahn  (Zähl)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(classificateur pour les véhicules)​"
+        }
+    ],
+    "general_pinyins": [
+        "liàng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "车",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "輛"
+    ],
+    "general_ytz": [
+        "輛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8F86",
+            "15211253434"
+        ],
+        "char_code_wubi": "lgmw",
+        "char_code_cangjie": "kqmob",
+        "char_code_zhengma": "heoo",
+        "char_code_sijiao": "41527"
+    },
+    "general_unicode": "基本区 U+8F86",
+    "general_bs_code": "15211253434"
+}

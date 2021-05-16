@@ -1,0 +1,27 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "備",
+        "男"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3472",
+            "32122543112"
+        ],
+        "char_code_wubi": "wfmf",
+        "char_code_cangjie": "ojbj",
+        "char_code_zhengma": "neld",
+        "char_code_sijiao": "24227"
+    },
+    "general_unicode": "扩展A U+3472",
+    "general_bs_code": "32122543112"
+}

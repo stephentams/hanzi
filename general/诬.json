@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "make false accusation; defame"
+        },
+        {
+            "language": "德语",
+            "explanation": "verleumden, bezichtigen, jdn. wissentlich falsch beschuldigen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "accuser faussement,calomnier"
+        }
+    ],
+    "general_pinyins": [
+        "wū"
+    ],
+    "general_zhuyins": [
+        "ㄨ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "誣"
+    ],
+    "general_ytz": [
+        "誣",
+        "誈",
+        "𧨆",
+        "𧨈",
+        "𧩄"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BEC",
+            "451234341"
+        ],
+        "char_code_wubi": "yaww",
+        "char_code_cangjie": "ivmoo",
+        "char_code_zhengma": "sboo",
+        "char_code_sijiao": "31718"
+    },
+    "general_unicode": "基本区 U+8BEC",
+    "general_bs_code": "451234341"
+}

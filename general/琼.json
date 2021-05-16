@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "jade; rare, precious; elegant; (Cant.) to coagulate"
+        },
+        {
+            "language": "德语",
+            "explanation": "schön"
+        },
+        {
+            "language": "法语",
+            "explanation": "beau jade,exquis,abrév. pour la province du Hainan"
+        }
+    ],
+    "general_pinyins": [
+        "qióng"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "瓊"
+    ],
+    "general_ytz": [
+        "瓊",
+        "焭",
+        "𤦱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "743C",
+            "112141251234"
+        ],
+        "char_code_wubi": "gyiy",
+        "char_code_cangjie": "mgyrf",
+        "char_code_zhengma": "csjk",
+        "char_code_sijiao": "10196"
+    },
+    "general_unicode": "基本区 U+743C",
+    "general_bs_code": "112141251234"
+}

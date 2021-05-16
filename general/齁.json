@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "snore loudly; very, extremely"
+        },
+        {
+            "language": "德语",
+            "explanation": "schnarchen"
+        },
+        {
+            "language": "法语",
+            "explanation": "onom. imitant le ronflement,ronfler,ronflement,être écoeuré (par le sucré)​,être assoiffé (par une nourriture trop salée)​"
+        }
+    ],
+    "general_pinyins": [
+        "hōu"
+    ],
+    "general_zhuyins": [
+        "ㄏㄡ"
+    ],
+    "general_radical": {
+        "radical": "鼻",
+        "non_radical_sn": "5",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𪖙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9F41",
+            "3251112512113235251"
+        ],
+        "char_code_wubi": "thlk",
+        "char_code_cangjie": "hlpr",
+        "char_code_zhengma": "nlrj",
+        "char_code_sijiao": "27220"
+    },
+    "general_unicode": "基本区 U+9F41",
+    "general_bs_code": "3251112512113235251"
+}

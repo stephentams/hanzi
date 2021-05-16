@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "inlet, bay; dock, bank"
+        },
+        {
+            "language": "法语",
+            "explanation": "baie,mouillage,ancrage,crique,port,(abrév.)​ Macao,(abrév.)​ Australie"
+        }
+    ],
+    "general_pinyins": [
+        "ào"
+    ],
+    "general_zhuyins": [
+        "ㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "奧",
+        "𤀈",
+        "𤁌"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6FB3",
+            "441325431234134"
+        ],
+        "char_code_wubi": "itmd",
+        "char_code_cangjie": "ehbk",
+        "char_code_zhengma": "vnug",
+        "char_code_sijiao": "37184"
+    },
+    "general_unicode": "基本区 U+6FB3",
+    "general_bs_code": "441325431234134"
+}

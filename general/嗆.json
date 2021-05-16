@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "choke by smoke; irritates nose"
+        },
+        {
+            "language": "德语",
+            "explanation": "voll pfropfen, würgen ,Drossel  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "s'étouffer (en raison de la déglutition dans le mauvais sens)​,à irriter le nez,étouffer (par la fumée, etc.)​,âcre"
+        }
+    ],
+    "general_pinyins": [
+        "qiāng",
+        "qiàng"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄤ",
+        "ㄑㄧㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "呛"
+    ],
+    "general_ytz": [
+        "呛",
+        "搶",
+        "熗"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "55C6",
+            "2513445113251"
+        ],
+        "char_code_wubi": "kwyk",
+        "char_code_cangjie": "roir",
+        "char_code_zhengma": "joxj",
+        "char_code_sijiao": "68067"
+    },
+    "general_unicode": "基本区 U+55C6",
+    "general_bs_code": "2513445113251"
+}

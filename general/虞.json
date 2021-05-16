@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "concerned about, anxious, worried"
+        },
+        {
+            "language": "德语",
+            "explanation": "irreführen  (V)​,Yu  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "supposition,prédiction,souci,anxiété,tromper,abuser"
+        }
+    ],
+    "general_pinyins": [
+        "yú"
+    ],
+    "general_zhuyins": [
+        "ㄩˊ"
+    ],
+    "general_radical": {
+        "radical": "虍",
+        "non_radical_sn": "7",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𩃉",
+        "𡑾",
+        "𠈌"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "865E",
+            "2153152511134"
+        ],
+        "char_code_wubi": "hakd|hkgd",
+        "char_code_cangjie": "yprmk",
+        "char_code_zhengma": "ihag",
+        "char_code_sijiao": "21284"
+    },
+    "general_unicode": "基本区 U+865E",
+    "general_bs_code": "2153152511134"
+}

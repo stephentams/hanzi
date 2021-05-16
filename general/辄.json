@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sides of chariot where weapons"
+        }
+    ],
+    "general_pinyins": [
+        "zhé"
+    ],
+    "general_zhuyins": [
+        "ㄓㄜˊ"
+    ],
+    "general_radical": {
+        "radical": "车",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "輒"
+    ],
+    "general_ytz": [
+        "輒",
+        "輙"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8F84",
+            "15211221115"
+        ],
+        "char_code_wubi": "lbnn",
+        "char_code_cangjie": "kqsju",
+        "char_code_zhengma": "hecz",
+        "char_code_sijiao": "41512"
+    },
+    "general_unicode": "基本区 U+8F84",
+    "general_bs_code": "15211221115"
+}

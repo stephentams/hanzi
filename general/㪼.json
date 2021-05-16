@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to pull; to dray; to hinder; to santch away"
+        }
+    ],
+    "general_pinyins": [
+        "kě"
+    ],
+    "general_zhuyins": [
+        "ㄎㄜˇ"
+    ],
+    "general_radical": {
+        "radical": "斤",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3ABC",
+            "125123312"
+        ],
+        "char_code_wubi": "skrh",
+        "char_code_cangjie": "mrhml",
+        "char_code_zhengma": "aijp",
+        "char_code_sijiao": "12621"
+    },
+    "general_unicode": "扩展A U+3ABC",
+    "general_bs_code": "125123312"
+}

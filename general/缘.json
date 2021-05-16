@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hem, margin; reason, cause; fate"
+        },
+        {
+            "language": "德语",
+            "explanation": "Grund, Anlaß, Ursache  (S)​,Rand, Kante  (S)​,vorherbestimmte Beziehung ( Verbindung )​, Schicksalsfügung, die Menschen zusammenführt  (S)​,entlang  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "raison,cause,bord,bordure,sort,destin"
+        }
+    ],
+    "general_pinyins": [
+        "yuán"
+    ],
+    "general_zhuyins": [
+        "ㄩㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "緣"
+    ],
+    "general_ytz": [
+        "緣",
+        "縁",
+        "𢅞"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F18",
+            "551551353334"
+        ],
+        "char_code_wubi": "xxey",
+        "char_code_cangjie": "vmvno",
+        "char_code_zhengma": "zzgq",
+        "char_code_sijiao": "27132"
+    },
+    "general_unicode": "基本区 U+7F18",
+    "general_bs_code": "551551353334"
+}

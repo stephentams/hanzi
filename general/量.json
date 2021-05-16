@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "measure, quantity, capacity"
+        },
+        {
+            "language": "德语",
+            "explanation": "Maß nehmen (z.B. beim Schneider)​  (V)​,messen  (V)​,Kapazität  (S)​,Leistungsvermögen  (S)​,Quant  (S)​,Quantum  (S)​,quantitativ  (Adj)​,Größe (z.b. Messgröße, mechan. Größe)​  (Phys)"
+        },
+        {
+            "language": "法语",
+            "explanation": "capacité,quantité,calculer,mesurer,mesurer,évaluer"
+        }
+    ],
+    "general_pinyins": [
+        "liáng",
+        "liàng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄤˊ",
+        "ㄌㄧㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "里",
+        "non_radical_sn": "5",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣊹",
+        "𨤥",
+        "𨤦",
+        "量"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "91CF",
+            "251112511211"
+        ],
+        "char_code_wubi": "jgjf",
+        "char_code_cangjie": "amwg",
+        "char_code_zhengma": "kakb",
+        "char_code_sijiao": "60105"
+    },
+    "general_unicode": "基本区 U+91CF",
+    "general_bs_code": "251112511211"
+}

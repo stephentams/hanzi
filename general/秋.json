@@ -1,0 +1,56 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "autumn, fall; year"
+        },
+        {
+            "language": "德语",
+            "explanation": "Herbst  (S)​,Qiu  (Eig, Fam)"
+        }
+    ],
+    "general_pinyins": [
+        "qiū"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄡ"
+    ],
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "秌",
+        "𤇫",
+        "𥝛",
+        "𥡄",
+        "𥡌",
+        "𥣨",
+        "𥤚",
+        "𥤛",
+        "𥤠",
+        "𧇸",
+        "𪔁",
+        "𪚼",
+        "𪛁",
+        "鞦",
+        "穐",
+        "龝",
+        "𥝚"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "79CB",
+            "312344334"
+        ],
+        "char_code_wubi": "toy",
+        "char_code_cangjie": "hdf",
+        "char_code_zhengma": "mfuo",
+        "char_code_sijiao": "29980"
+    },
+    "general_unicode": "基本区 U+79CB",
+    "general_bs_code": "312344334"
+}

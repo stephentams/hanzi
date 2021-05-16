@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "swaddling clothes"
+        },
+        {
+            "language": "法语",
+            "explanation": "langes"
+        }
+    ],
+    "general_pinyins": [
+        "qiǎng"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "衤",
+        "non_radical_sn": "12",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧟂",
+        "𧝿",
+        "𧚴",
+        "𦇤",
+        "繦",
+        "襁"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8941",
+            "45234515251251214"
+        ],
+        "char_code_wubi": "puxj",
+        "char_code_cangjie": "lnii",
+        "char_code_zhengma": "wtji",
+        "char_code_sijiao": "36236"
+    },
+    "general_unicode": "基本区 U+8941",
+    "general_bs_code": "45234515251251214"
+}

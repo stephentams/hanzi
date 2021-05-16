@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hand"
+        },
+        {
+            "language": "德语",
+            "explanation": "Hand"
+        },
+        {
+            "language": "法语",
+            "explanation": "main,ouvrier,64e radical"
+        }
+    ],
+    "general_pinyins": [
+        "shǒu"
+    ],
+    "general_zhuyins": [
+        "ㄕㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "手",
+        "non_radical_sn": "0",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠂿",
+        "𡴤",
+        "扌"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "624B",
+            "3112"
+        ],
+        "char_code_wubi": "rtgh",
+        "char_code_cangjie": "q",
+        "char_code_zhengma": "md",
+        "char_code_sijiao": "20500"
+    },
+    "general_unicode": "基本区 U+624B",
+    "general_bs_code": "3112"
+}

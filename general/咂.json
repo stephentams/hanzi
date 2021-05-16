@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to suck, to smack the lips; (Cant.) to cheat"
+        },
+        {
+            "language": "法语",
+            "explanation": "sucer,lécher"
+        }
+    ],
+    "general_pinyins": [
+        "zā"
+    ],
+    "general_zhuyins": [
+        "ㄗㄚ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "匝",
+        "啑",
+        "噈",
+        "𠯗",
+        "𠴴",
+        "𠶴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5482",
+            "25112525"
+        ],
+        "char_code_wubi": "kamh",
+        "char_code_cangjie": "rslb",
+        "char_code_zhengma": "jhli",
+        "char_code_sijiao": "61012"
+    },
+    "general_unicode": "基本区 U+5482",
+    "general_bs_code": "25112525"
+}

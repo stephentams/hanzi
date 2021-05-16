@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a fly which is used similarly to cantharides"
+        },
+        {
+            "language": "德语",
+            "explanation": "spanische Fliege"
+        },
+        {
+            "language": "法语",
+            "explanation": "cantharide,mylabris"
+        }
+    ],
+    "general_pinyins": [
+        "máo"
+    ],
+    "general_zhuyins": [
+        "ㄇㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "9",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "蛑",
+        "𧍟",
+        "𧎄",
+        "𧎻",
+        "𧐙",
+        "蟊",
+        "𧒚"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8765",
+            "545233134251214"
+        ],
+        "char_code_wubi": "cbtj|cnhj",
+        "char_code_cangjie": "nklmi",
+        "char_code_zhengma": "xsmi",
+        "char_code_sijiao": "18136"
+    },
+    "general_unicode": "基本区 U+8765",
+    "general_bs_code": "545233134251214"
+}

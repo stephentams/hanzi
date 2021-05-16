@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "contribute; give up, renounce"
+        },
+        {
+            "language": "德语",
+            "explanation": "beitragen, beisteuern ,besteuern, strapazieren ,spenden ,verlassen, aufgeben"
+        },
+        {
+            "language": "法语",
+            "explanation": "faire don,souscrire à,taxe"
+        }
+    ],
+    "general_pinyins": [
+        "juān"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄢ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6350",
+            "1212512511"
+        ],
+        "char_code_wubi": "rkeg",
+        "char_code_cangjie": "qrb",
+        "char_code_zhengma": "djq",
+        "char_code_sijiao": "56027"
+    },
+    "general_unicode": "基本区 U+6350",
+    "general_bs_code": "1212512511"
+}

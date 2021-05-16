@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "recommend, advise, urge"
+        },
+        {
+            "language": "德语",
+            "explanation": "drängen, dringend bitten ,ermahnen ,mitteilen, anraten ,jmd überreden  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "conseiller,persuader"
+        }
+    ],
+    "general_pinyins": [
+        "quàn"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "力",
+        "non_radical_sn": "2",
+        "total_sn": "4"
+    },
+    "general_stc": [
+        "勸"
+    ],
+    "general_ytz": [
+        "勸",
+        "勧",
+        "劷"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "529D",
+            "5453"
+        ],
+        "char_code_wubi": "cln|cet",
+        "char_code_cangjie": "eks",
+        "char_code_zhengma": "xsym",
+        "char_code_sijiao": "74427"
+    },
+    "general_unicode": "基本区 U+529D",
+    "general_bs_code": "5453"
+}

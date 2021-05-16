@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "neon"
+        },
+        {
+            "language": "德语",
+            "explanation": "Neon (Element 10, Ne)​ (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "néon"
+        }
+    ],
+    "general_pinyins": [
+        "nǎi"
+    ],
+    "general_zhuyins": [
+        "ㄋㄞˇ"
+    ],
+    "general_radical": {
+        "radical": "气",
+        "non_radical_sn": "2",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "氝"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6C16",
+            "311553"
+        ],
+        "char_code_wubi": "rneb|rbe",
+        "char_code_cangjie": "onnhs",
+        "char_code_zhengma": "myym",
+        "char_code_sijiao": "80217"
+    },
+    "general_unicode": "基本区 U+6C16",
+    "general_bs_code": "311553"
+}

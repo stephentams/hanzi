@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mountain in Henan"
+        },
+        {
+            "language": "法语",
+            "explanation": "(montagne dans le Henan)​,(nom d'une montagne dans le Henan)​"
+        }
+    ],
+    "general_pinyins": [
+        "xiáo"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㠙",
+        "殽",
+        "𡵔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5D24",
+            "25234132511"
+        ],
+        "char_code_wubi": "mqde|mrde",
+        "char_code_cangjie": "ukkb",
+        "char_code_zhengma": "llgq",
+        "char_code_sijiao": "24727"
+    },
+    "general_unicode": "基本区 U+5D24",
+    "general_bs_code": "25234132511"
+}

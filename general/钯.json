@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "palladium"
+        },
+        {
+            "language": "德语",
+            "explanation": "Palladium (Element 46, Pd)​ (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "palladium (chimie)​,palladium (chimie)​"
+        }
+    ],
+    "general_pinyins": [
+        "bǎ",
+        "pá"
+    ],
+    "general_zhuyins": [
+        "ㄅㄚˇ",
+        "ㄆㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "鈀"
+    ],
+    "general_ytz": [
+        "鈀"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94AF",
+            "311155215"
+        ],
+        "char_code_wubi": "qcn",
+        "char_code_cangjie": "opau",
+        "char_code_zhengma": "pyia",
+        "char_code_sijiao": "87717"
+    },
+    "general_unicode": "基本区 U+94AF",
+    "general_bs_code": "311155215"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "shine, glitter, sparkle"
+        },
+        {
+            "language": "德语",
+            "explanation": "funkeln, leuchten  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "reluire,scintiller,étinceler"
+        }
+    ],
+    "general_pinyins": [
+        "shuò"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "爍"
+    ],
+    "general_ytz": [
+        "爍",
+        "𤓈"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "70C1",
+            "433435234"
+        ],
+        "char_code_wubi": "oqiy|otni",
+        "char_code_cangjie": "fhvd",
+        "char_code_zhengma": "uork",
+        "char_code_sijiao": "92894"
+    },
+    "general_unicode": "基本区 U+70C1",
+    "general_bs_code": "433435234"
+}

@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "name of a district in Honan"
+        },
+        {
+            "language": "德语",
+            "explanation": "Yan  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom d'un état féodal)​,(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "yān"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "11",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "傿",
+        "漹"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9122",
+            "1212115444452"
+        ],
+        "char_code_wubi": "ghgb",
+        "char_code_cangjie": "mfnl",
+        "char_code_zhengma": "aiuy",
+        "char_code_sijiao": "17327"
+    },
+    "general_unicode": "基本区 U+9122",
+    "general_bs_code": "1212115444452"
+}

@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "exhibit, display; plead; a surname"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 Chen"
+        }
+    ],
+    "general_pinyins": [
+        "chén"
+    ],
+    "general_zhuyins": [
+        "ㄔㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "陳"
+    ],
+    "general_ytz": [
+        "陳",
+        "迧",
+        "軙",
+        "敶",
+        "𢽬",
+        "𨊴",
+        "𨸬",
+        "𨻰",
+        "𨼤"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9648",
+            "5215234"
+        ],
+        "char_code_wubi": "baiy",
+        "char_code_cangjie": "nlkd",
+        "char_code_zhengma": "yhko",
+        "char_code_sijiao": "74294"
+    },
+    "general_unicode": "基本区 U+9648",
+    "general_bs_code": "5215234"
+}

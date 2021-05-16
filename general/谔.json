@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "honest speech, straightforward"
+        },
+        {
+            "language": "法语",
+            "explanation": "discours intègre"
+        }
+    ],
+    "general_pinyins": [
+        "è"
+    ],
+    "general_zhuyins": [
+        "ㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "諤"
+    ],
+    "general_ytz": [
+        "諤",
+        "讍",
+        "𡅡",
+        "𣤲"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C14",
+            "45251251115"
+        ],
+        "char_code_wubi": "ykkn",
+        "char_code_cangjie": "ivrrs",
+        "char_code_zhengma": "sjbz",
+        "char_code_sijiao": "36727"
+    },
+    "general_unicode": "基本区 U+8C14",
+    "general_bs_code": "45251251115"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tooth decay"
+        },
+        {
+            "language": "德语",
+            "explanation": "Karies  (S, Med)"
+        },
+        {
+            "language": "法语",
+            "explanation": "carie"
+        }
+    ],
+    "general_pinyins": [
+        "qǔ"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩˇ"
+    ],
+    "general_radical": {
+        "radical": "齿",
+        "non_radical_sn": "9",
+        "total_sn": "17"
+    },
+    "general_stc": [
+        "齲"
+    ],
+    "general_ytz": [
+        "齲",
+        "䶚",
+        "𤘐"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9F8B",
+            "21213452325125214"
+        ],
+        "char_code_wubi": "hwby",
+        "char_code_cangjie": "yuhlb",
+        "char_code_zhengma": "ioil",
+        "char_code_sijiao": "22727"
+    },
+    "general_unicode": "基本区 U+9F8B",
+    "general_bs_code": "21213452325125214"
+}

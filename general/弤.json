@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bow"
+        },
+        {
+            "language": "法语",
+            "explanation": "archet sculpté"
+        }
+    ],
+    "general_pinyins": [
+        "dǐ"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "弓",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢏁",
+        "𢎸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F24",
+            "51535154"
+        ],
+        "char_code_wubi": "xqay",
+        "char_code_cangjie": "nhpm",
+        "char_code_zhengma": "yzrs",
+        "char_code_sijiao": "12240"
+    },
+    "general_unicode": "基本区 U+5F24",
+    "general_bs_code": "51535154"
+}

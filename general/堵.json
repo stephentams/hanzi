@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wall; stop, prevent; stop up"
+        },
+        {
+            "language": "德语",
+            "explanation": "zustopfen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "boucher,obstruer,étouffé,oppressé,(classificateur pour les murs)​"
+        }
+    ],
+    "general_pinyins": [
+        "dǔ"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "鍺",
+        "陼",
+        "𡦡",
+        "𩫭",
+        "闍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5835",
+            "12112132511"
+        ],
+        "char_code_wubi": "fftj",
+        "char_code_cangjie": "gjka",
+        "char_code_zhengma": "bbm",
+        "char_code_sijiao": "44160"
+    },
+    "general_unicode": "基本区 U+5835",
+    "general_bs_code": "12112132511"
+}

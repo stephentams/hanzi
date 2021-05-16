@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "penetrate, pervade; penetrating"
+        },
+        {
+            "language": "法语",
+            "explanation": "profond,complet,pénétrant,clairvoyant,traverser de part en part"
+        }
+    ],
+    "general_pinyins": [
+        "chè"
+    ],
+    "general_zhuyins": [
+        "ㄔㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "彳",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "徹"
+    ],
+    "general_ytz": [
+        "徹",
+        "𢕹",
+        "𢕿",
+        "𢖉",
+        "𦔞",
+        "𨅊"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F7B",
+            "3321553"
+        ],
+        "char_code_wubi": "tavn|tavt",
+        "char_code_cangjie": "hopsh",
+        "char_code_zhengma": "oihy",
+        "char_code_sijiao": "27220"
+    },
+    "general_unicode": "基本区 U+5F7B",
+    "general_bs_code": "3321553"
+}

@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "begin, commence, originate"
+        }
+    ],
+    "general_pinyins": [
+        "zhào"
+    ],
+    "general_zhuyins": [
+        "ㄓㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "聿",
+        "non_radical_sn": "8",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦘦",
+        "𦘥",
+        "𦘟",
+        "𢾹",
+        "肈"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8087",
+            "45133134511112"
+        ],
+        "char_code_wubi": "ynth|yntg",
+        "char_code_cangjie": "hklq",
+        "char_code_zhengma": "wmxb",
+        "char_code_sijiao": "38507"
+    },
+    "general_unicode": "基本区 U+8087",
+    "general_bs_code": "45133134511112"
+}

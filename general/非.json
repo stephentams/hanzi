@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "not, negative, non-; oppose"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 Afrika (Abkürzung)​ ,non-, nicht- (Präfix)​"
+        }
+    ],
+    "general_pinyins": [
+        "fēi"
+    ],
+    "general_zhuyins": [
+        "ㄈㄟ"
+    ],
+    "general_radical": {
+        "radical": "非",
+        "non_radical_sn": "0",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "975E",
+            "21112111"
+        ],
+        "char_code_wubi": "djdd|hdhd",
+        "char_code_cangjie": "lmsy",
+        "char_code_zhengma": "kc",
+        "char_code_sijiao": "11111"
+    },
+    "general_unicode": "基本区 U+975E",
+    "general_bs_code": "21112111"
+}

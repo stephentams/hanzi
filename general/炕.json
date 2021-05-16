@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "the brick-bed in northern China"
+        },
+        {
+            "language": "德语",
+            "explanation": "am Feuer erhitzen oder trocknen ,aus Ziegeln gemauerte beheizbare Schlafbank ,Ondol (\"Fußbodenheizung\")​  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "lit en briques,rôtir,sécher au feu"
+        }
+    ],
+    "general_pinyins": [
+        "kàng"
+    ],
+    "general_zhuyins": [
+        "ㄎㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "匟",
+        "坑",
+        "𤇛",
+        "𤊚",
+        "𤌁"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7095",
+            "43344135"
+        ],
+        "char_code_wubi": "oymn|oywn",
+        "char_code_cangjie": "fyhn",
+        "char_code_zhengma": "uosq",
+        "char_code_sijiao": "90817"
+    },
+    "general_unicode": "基本区 U+7095",
+    "general_bs_code": "43344135"
+}

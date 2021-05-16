@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "manganese"
+        },
+        {
+            "language": "德语",
+            "explanation": "Mangan (Element 25, Mn)​ (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "manganèse"
+        }
+    ],
+    "general_pinyins": [
+        "měng"
+    ],
+    "general_zhuyins": [
+        "ㄇㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "錳"
+    ],
+    "general_ytz": [
+        "錳"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9530",
+            "3111552125221"
+        ],
+        "char_code_wubi": "qblg",
+        "char_code_cangjie": "opndt",
+        "char_code_zhengma": "pylk",
+        "char_code_sijiao": "87712"
+    },
+    "general_unicode": "基本区 U+9530",
+    "general_bs_code": "3111552125221"
+}

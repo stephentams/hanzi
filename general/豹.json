@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "leopard, panther; surname"
+        },
+        {
+            "language": "德语",
+            "explanation": "Leopard  (Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "léopard,panthère"
+        }
+    ],
+    "general_pinyins": [
+        "bào"
+    ],
+    "general_zhuyins": [
+        "ㄅㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "豸",
+        "non_radical_sn": "3",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "犳",
+        "𤝧",
+        "𤞵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C79",
+            "3443533354"
+        ],
+        "char_code_wubi": "eeqy|eqyy",
+        "char_code_cangjie": "bhpi",
+        "char_code_zhengma": "pqrs",
+        "char_code_sijiao": "27220"
+    },
+    "general_unicode": "基本区 U+8C79",
+    "general_bs_code": "3443533354"
+}

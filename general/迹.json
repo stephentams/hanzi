@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "traces, impressions, footprints"
+        },
+        {
+            "language": "德语",
+            "explanation": "anreißen, zensieren  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "traces,empreinte de pas,vestiges,chercher,découvrir"
+        }
+    ],
+    "general_pinyins": [
+        "jì"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "跡"
+    ],
+    "general_ytz": [
+        "𨒪",
+        "𨒏",
+        "蹟",
+        "跡",
+        "脔",
+        "䢌",
+        "䟱",
+        "𨖊"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8FF9",
+            "413234454"
+        ],
+        "char_code_wubi": "yopi",
+        "char_code_cangjie": "yylc",
+        "char_code_zhengma": "snow",
+        "char_code_sijiao": "30303"
+    },
+    "general_unicode": "基本区 U+8FF9",
+    "general_bs_code": "413234454"
+}

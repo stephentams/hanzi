@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "德语",
+            "explanation": "gefährlich, gefahrbringend ,gefährlich, gefahrbringend"
+        },
+        {
+            "language": "法语",
+            "explanation": "dangereux,dangereux"
+        }
+    ],
+    "general_pinyins": [
+        "diàn"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "墊"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "963D",
+            "5221251"
+        ],
+        "char_code_wubi": "bhkg",
+        "char_code_cangjie": "nlyr",
+        "char_code_zhengma": "yij",
+        "char_code_sijiao": "71260"
+    },
+    "general_unicode": "基本区 U+963D",
+    "general_bs_code": "5221251"
+}

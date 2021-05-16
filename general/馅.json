@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "filling, stuffing; secret"
+        },
+        {
+            "language": "法语",
+            "explanation": "farce (viande)​"
+        }
+    ],
+    "general_pinyins": [
+        "xiàn"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "饣",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "餡"
+    ],
+    "general_ytz": [
+        "餡",
+        "𤑃",
+        "𨢝"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9985",
+            "35535321511"
+        ],
+        "char_code_wubi": "qnqv|qnqe",
+        "char_code_cangjie": "nvnhx",
+        "char_code_zhengma": "oxrn",
+        "char_code_sijiao": "27777"
+    },
+    "general_unicode": "基本区 U+9985",
+    "general_bs_code": "35535321511"
+}

@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a post, a stake; an axle"
+        },
+        {
+            "language": "法语",
+            "explanation": "cheville (bricolage)​,petite tige de bois"
+        }
+    ],
+    "general_pinyins": [
+        "jué"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "12",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "橛"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6A5C",
+            "1343152335341234"
+        ],
+        "char_code_wubi": "dubs",
+        "char_code_cangjie": "mod",
+        "char_code_zhengma": "ggrf",
+        "char_code_sijiao": "71904"
+    },
+    "general_unicode": "基本区 U+6A5C",
+    "general_bs_code": "1343152335341234"
+}

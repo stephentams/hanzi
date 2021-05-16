@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 拗) to pull; to drag, to break off, to pluck, as a flower"
+        }
+    ],
+    "general_pinyins": [
+        "ǎo"
+    ],
+    "general_zhuyins": [
+        "ㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "拗"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3443",
+            "3255453"
+        ],
+        "char_code_wubi": "wxln|wxet",
+        "char_code_cangjie": "ovis",
+        "char_code_zhengma": "nzzy",
+        "char_code_sijiao": "24227"
+    },
+    "general_unicode": "扩展A U+3443",
+    "general_bs_code": "3255453"
+}

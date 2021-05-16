@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hangover; uncomfortable"
+        },
+        {
+            "language": "法语",
+            "explanation": "ivre,saoul,éméché"
+        }
+    ],
+    "general_pinyins": [
+        "chéng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "酉",
+        "non_radical_sn": "7",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9172",
+            "12535112511121"
+        ],
+        "char_code_wubi": "sgkg",
+        "char_code_cangjie": "mwrmg",
+        "char_code_zhengma": "fdjc",
+        "char_code_sijiao": "16614"
+    },
+    "general_unicode": "基本区 U+9172",
+    "general_bs_code": "12535112511121"
+}

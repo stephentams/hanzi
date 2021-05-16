@@ -1,0 +1,58 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "help, aid, relieve; ferry, cross"
+        },
+        {
+            "language": "德语",
+            "explanation": "übersetzen, einen Fluß überqueren  (V)​,helfen, unterstützen  (V)​,hilfreich, nützlich, von Nutzem  (Adj)​,bedürfnislos, einfach ,Ji  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "traverser un cours d'eau,aider,secourir"
+        }
+    ],
+    "general_pinyins": [
+        "jì",
+        "jǐ"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˋ",
+        "ㄐㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "濟"
+    ],
+    "general_ytz": [
+        "濟",
+        "済",
+        "㴉",
+        "𣳵",
+        "𣸓",
+        "𣸫",
+        "𣺃",
+        "𣺴",
+        "𣽱",
+        "𣾯",
+        "𦪱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6D4E",
+            "441413432"
+        ],
+        "char_code_wubi": "iyjh",
+        "char_code_cangjie": "eykl",
+        "char_code_zhengma": "vsnd",
+        "char_code_sijiao": "30124"
+    },
+    "general_unicode": "基本区 U+6D4E",
+    "general_bs_code": "441413432"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "steamed bread; steamed dumplings"
+        },
+        {
+            "language": "德语",
+            "explanation": "gedämpfte Rolle,gedämpfte Brötchen,gedämpftes Brot  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "brioche à la vapeur"
+        }
+    ],
+    "general_pinyins": [
+        "mán"
+    ],
+    "general_zhuyins": [
+        "ㄇㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "饣",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "饅"
+    ],
+    "general_ytz": [
+        "饅",
+        "𪍩"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9992",
+            "35525112522154"
+        ],
+        "char_code_wubi": "qnjc",
+        "char_code_cangjie": "nvawe",
+        "char_code_zhengma": "oxlx",
+        "char_code_sijiao": "26747"
+    },
+    "general_unicode": "基本区 U+9992",
+    "general_bs_code": "35525112522154"
+}

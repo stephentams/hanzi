@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sound, tone, pitch, pronunciation"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ton, Laut"
+        },
+        {
+            "language": "法语",
+            "explanation": "son,bruit,tonalité,note (musique)​"
+        }
+    ],
+    "general_pinyins": [
+        "yīn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄣ"
+    ],
+    "general_radical": {
+        "radical": "音",
+        "non_radical_sn": "0",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤶴",
+        "𪛏",
+        "𦂺"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "97F3",
+            "414312511"
+        ],
+        "char_code_wubi": "ujf",
+        "char_code_cangjie": "yta",
+        "char_code_zhengma": "suk",
+        "char_code_sijiao": "00601"
+    },
+    "general_unicode": "基本区 U+97F3",
+    "general_bs_code": "414312511"
+}

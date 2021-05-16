@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "timorous; nervous"
+        },
+        {
+            "language": "德语",
+            "explanation": "nervös"
+        },
+        {
+            "language": "法语",
+            "explanation": "craintif"
+        }
+    ],
+    "general_pinyins": [
+        "tǎn"
+    ],
+    "general_zhuyins": [
+        "ㄊㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "3",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "憳"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5FD0",
+            "2114544"
+        ],
+        "char_code_wubi": "hnu",
+        "char_code_cangjie": "ymp",
+        "char_code_zhengma": "idaw",
+        "char_code_sijiao": "21331"
+    },
+    "general_unicode": "基本区 U+5FD0",
+    "general_bs_code": "2114544"
+}

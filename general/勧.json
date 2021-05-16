@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "recommend, advise, urge"
+        }
+    ],
+    "general_pinyins": [
+        "quàn"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "力",
+        "non_radical_sn": "11",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "勸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "52E7",
+            "3113241112153"
+        ],
+        "char_code_wubi": "rwyl|tgwe",
+        "char_code_cangjie": "ogks",
+        "char_code_zhengma": "many",
+        "char_code_sijiao": "84227"
+    },
+    "general_unicode": "基本区 U+52E7",
+    "general_bs_code": "3113241112153"
+}

@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "establish, create; knife cut"
+        },
+        {
+            "language": "法语",
+            "explanation": "établir,créer"
+        }
+    ],
+    "general_pinyins": [
+        "chuàng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "刀",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "創"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5231",
+            "11325344"
+        ],
+        "char_code_wubi": "fjvw",
+        "char_code_cangjie": "ttshi",
+        "char_code_zhengma": "bdyo",
+        "char_code_sijiao": "57030"
+    },
+    "general_unicode": "基本区 U+5231",
+    "general_bs_code": "11325344"
+}

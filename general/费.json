@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "expenses, expenditures, fee"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gebühr  (S)​,Kosten"
+        },
+        {
+            "language": "法语",
+            "explanation": "coûter,dépenser,consommer,frais,dépenses,charges,prix"
+        }
+    ],
+    "general_pinyins": [
+        "fèi"
+    ],
+    "general_zhuyins": [
+        "ㄈㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "費"
+    ],
+    "general_ytz": [
+        "費"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D39",
+            "515322534"
+        ],
+        "char_code_wubi": "xjmu",
+        "char_code_cangjie": "lnbo",
+        "char_code_zhengma": "yznl",
+        "char_code_sijiao": "55802"
+    },
+    "general_unicode": "基本区 U+8D39",
+    "general_bs_code": "515322534"
+}

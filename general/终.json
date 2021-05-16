@@ -1,0 +1,60 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "end; finally, in the end"
+        },
+        {
+            "language": "法语",
+            "explanation": "finalement,en fin de compte,fin,mort,finir,achever"
+        }
+    ],
+    "general_pinyins": [
+        "zhōng"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨㄥ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "終"
+    ],
+    "general_ytz": [
+        "終",
+        "㣎",
+        "𠂂",
+        "𠔾",
+        "𢍐",
+        "𢒣",
+        "𣈩",
+        "𣉉",
+        "𣊂",
+        "𣊜",
+        "𣧩",
+        "𤯚",
+        "𤽘",
+        "𤽟",
+        "𤽫",
+        "𤽬",
+        "𦄖",
+        "𦤒",
+        "𪚪"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EC8",
+            "55135444"
+        ],
+        "char_code_wubi": "xtuy",
+        "char_code_cangjie": "vmhey",
+        "char_code_zhengma": "zrtd",
+        "char_code_sijiao": "27133"
+    },
+    "general_unicode": "基本区 U+7EC8",
+    "general_bs_code": "55135444"
+}

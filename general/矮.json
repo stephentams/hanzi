@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "short, dwarf; low"
+        },
+        {
+            "language": "德语",
+            "explanation": "klein, kleinwüchsig, niedrig"
+        },
+        {
+            "language": "法语",
+            "explanation": "petit (taille)​,peu élevé,bas,faible (hauteur)​"
+        }
+    ],
+    "general_pinyins": [
+        "ǎi"
+    ],
+    "general_zhuyins": [
+        "ㄞˇ"
+    ],
+    "general_radical": {
+        "radical": "矢",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㾨",
+        "躷",
+        "𨱥",
+        "𩫇"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "77EE",
+            "3113431234531"
+        ],
+        "char_code_wubi": "tdtv",
+        "char_code_cangjie": "okhdv",
+        "char_code_zhengma": "mamz",
+        "char_code_sijiao": "82844"
+    },
+    "general_unicode": "基本区 U+77EE",
+    "general_bs_code": "3113431234531"
+}

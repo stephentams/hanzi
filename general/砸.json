@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "smash, crush, break; pound, mash"
+        },
+        {
+            "language": "德语",
+            "explanation": "auf etw. schlagen  (V)​,zerschlagen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "casser,pilonner"
+        }
+    ],
+    "general_pinyins": [
+        "zá"
+    ],
+    "general_zhuyins": [
+        "ㄗㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㩵",
+        "𢹼"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7838",
+            "1325112525"
+        ],
+        "char_code_wubi": "damh",
+        "char_code_cangjie": "mrslb",
+        "char_code_zhengma": "ghli",
+        "char_code_sijiao": "11612"
+    },
+    "general_unicode": "基本区 U+7838",
+    "general_bs_code": "1325112525"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "reason, logic; manage"
+        },
+        {
+            "language": "德语",
+            "explanation": "Recht, Naturwissenschaft  (S)​,sich kümmern, verwalten  (V)​,Li  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "gérer,mettre en ordre,ranger,raison,logique,vérité,science,texture,faire cas de"
+        }
+    ],
+    "general_pinyins": [
+        "lǐ"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "理"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7406",
+            "11212511211"
+        ],
+        "char_code_wubi": "gjfg",
+        "char_code_cangjie": "mgwg",
+        "char_code_zhengma": "ckb",
+        "char_code_sijiao": "16115"
+    },
+    "general_unicode": "基本区 U+7406",
+    "general_bs_code": "11212511211"
+}

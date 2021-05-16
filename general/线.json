@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "line, thread, wire; clue"
+        }
+    ],
+    "general_pinyins": [
+        "xiàn"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "綫",
+        "線"
+    ],
+    "general_ytz": [
+        "綫",
+        "線",
+        "絤",
+        "𦂷",
+        "𦇫"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EBF",
+            "55111534"
+        ],
+        "char_code_wubi": "xgt|xgay",
+        "char_code_cangjie": "vmij",
+        "char_code_zhengma": "zhm",
+        "char_code_sijiao": "23150"
+    },
+    "general_unicode": "基本区 U+7EBF",
+    "general_bs_code": "55111534"
+}

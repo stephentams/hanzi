@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "obscure, dark; darken"
+        },
+        {
+            "language": "德语",
+            "explanation": "verbergen, verhehlen"
+        },
+        {
+            "language": "法语",
+            "explanation": "obscur,sombre,peu éclairé,cacher"
+        }
+    ],
+    "general_pinyins": [
+        "mèi"
+    ],
+    "general_zhuyins": [
+        "ㄇㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣆜"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6627",
+            "251111234"
+        ],
+        "char_code_wubi": "jfiy|jfy",
+        "char_code_cangjie": "ajd",
+        "char_code_zhengma": "kbko",
+        "char_code_sijiao": "65090"
+    },
+    "general_unicode": "基本区 U+6627",
+    "general_bs_code": "251111234"
+}

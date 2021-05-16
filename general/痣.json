@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "spots, moles; birthmark"
+        },
+        {
+            "language": "德语",
+            "explanation": "Maulwurf  (S)​,Muttermal, Geburtsmal  (S, Med)"
+        },
+        {
+            "language": "法语",
+            "explanation": "naevus,grain de beauté,tache de naissance"
+        }
+    ],
+    "general_pinyins": [
+        "zhì"
+    ],
+    "general_zhuyins": [
+        "ㄓˋ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䏯",
+        "志",
+        "誌"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "75E3",
+            "413411214544"
+        ],
+        "char_code_wubi": "ufni",
+        "char_code_cangjie": "kgp",
+        "char_code_zhengma": "tbwz",
+        "char_code_sijiao": "00131"
+    },
+    "general_unicode": "基本区 U+75E3",
+    "general_bs_code": "413411214544"
+}

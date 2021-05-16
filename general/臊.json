@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rank; rancid; frowzy, fetid; bashful"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schüchternheit, Verlegenheit  (S)​,Verschämtheit  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "odeur de l'urine,odeur forte et désagréable d'animal,odeur d'urine,rance,fétide,honteux,confus,timide"
+        }
+    ],
+    "general_pinyins": [
+        "sāo",
+        "sào"
+    ],
+    "general_zhuyins": [
+        "ㄙㄠ",
+        "ㄙㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "13",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦠨",
+        "𦟅",
+        "𦞣",
+        "𦏛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "81CA",
+            "35112512512511234"
+        ],
+        "char_code_wubi": "ekks",
+        "char_code_cangjie": "brrd",
+        "char_code_zhengma": "qjjf",
+        "char_code_sijiao": "76294"
+    },
+    "general_unicode": "基本区 U+81CA",
+    "general_bs_code": "35112512512511234"
+}

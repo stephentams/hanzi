@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "raise, lift up; surname"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 abheben ,enthüllen, ausplaudern ,Jie  (Eig, Fam)"
+        }
+    ],
+    "general_pinyins": [
+        "jiē",
+        "qì"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄝ",
+        "ㄑㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "担",
+        "拮",
+        "掲",
+        "搩",
+        "𢶆",
+        "𢷒",
+        "楬",
+        "𡤒",
+        "𢷔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "63ED",
+            "121251135345"
+        ],
+        "char_code_wubi": "rjqn",
+        "char_code_cangjie": "qapv",
+        "char_code_zhengma": "dkry",
+        "char_code_sijiao": "56027"
+    },
+    "general_unicode": "基本区 U+63ED",
+    "general_bs_code": "121251135345"
+}

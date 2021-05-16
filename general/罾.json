@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a large square net, lowered and raised from the bank of the river"
+        }
+    ],
+    "general_pinyins": [
+        "zēng"
+    ],
+    "general_zhuyins": [
+        "ㄗㄥ"
+    ],
+    "general_radical": {
+        "radical": "罒",
+        "non_radical_sn": "12",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "繒",
+        "𦌘",
+        "𦌝"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F7E",
+            "25221432524312511"
+        ],
+        "char_code_wubi": "lulj",
+        "char_code_cangjie": "wlcwa",
+        "char_code_zhengma": "lklk",
+        "char_code_sijiao": "60606"
+    },
+    "general_unicode": "基本区 U+7F7E",
+    "general_bs_code": "25221432524312511"
+}

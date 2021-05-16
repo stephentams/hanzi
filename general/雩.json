@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "offer sacrifice for rain"
+        },
+        {
+            "language": "法语",
+            "explanation": "sacrifice d'été pour la pluie"
+        }
+    ],
+    "general_pinyins": [
+        "yú"
+    ],
+    "general_zhuyins": [
+        "ㄩˊ"
+    ],
+    "general_radical": {
+        "radical": "雨",
+        "non_radical_sn": "3",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦏻",
+        "𩁹"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "96E9",
+            "14524444115"
+        ],
+        "char_code_wubi": "ffnb",
+        "char_code_cangjie": "mbmms",
+        "char_code_zhengma": "fvbz",
+        "char_code_sijiao": "10027"
+    },
+    "general_unicode": "基本区 U+96E9",
+    "general_bs_code": "14524444115"
+}

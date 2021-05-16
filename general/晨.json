@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "early morning, daybreak"
+        },
+        {
+            "language": "德语",
+            "explanation": "Morgen  (S)​,Morgendämmerung, Morgengrauen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "matin,matinée"
+        }
+    ],
+    "general_pinyins": [
+        "chén"
+    ],
+    "general_zhuyins": [
+        "ㄔㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㫳",
+        "曟",
+        "𠔹",
+        "辰"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6668",
+            "25111311534"
+        ],
+        "char_code_wubi": "jdfe",
+        "char_code_cangjie": "ammv",
+        "char_code_zhengma": "kgh",
+        "char_code_sijiao": "60232"
+    },
+    "general_unicode": "基本区 U+6668",
+    "general_bs_code": "25111311534"
+}

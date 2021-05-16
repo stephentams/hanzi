@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 蚊) mosquito; gnat"
+        }
+    ],
+    "general_pinyins": [
+        "wén",
+        "wèn"
+    ],
+    "general_zhuyins": [
+        "ㄨㄣˊ",
+        "ㄨㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "16",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "蚊"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4607",
+            "4134251214251214251214"
+        ],
+        "char_code_wubi": "yjjj",
+        "char_code_cangjie": "yklii",
+        "char_code_zhengma": "soi",
+        "char_code_sijiao": "00136"
+    },
+    "general_unicode": "扩展A U+4607",
+    "general_bs_code": "4134251214251214251214"
+}

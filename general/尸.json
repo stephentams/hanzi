@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "corpse; to impersonate the dead; to preside; KangXi radical 44"
+        },
+        {
+            "language": "德语",
+            "explanation": "Radikal Nr. 44 = Leichnam, Leiche, Körper (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cadavre"
+        }
+    ],
+    "general_pinyins": [
+        "shī"
+    ],
+    "general_zhuyins": [
+        "ㄕ"
+    ],
+    "general_radical": {
+        "radical": "尸",
+        "non_radical_sn": "0",
+        "total_sn": "3"
+    },
+    "general_stc": [
+        "屍"
+    ],
+    "general_ytz": [
+        "死",
+        "𠃜",
+        "𡰣",
+        "屍"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5C38",
+            "513"
+        ],
+        "char_code_wubi": "nngt",
+        "char_code_cangjie": "s",
+        "char_code_zhengma": "xm",
+        "char_code_sijiao": "77207"
+    },
+    "general_unicode": "基本区 U+5C38",
+    "general_bs_code": "513"
+}

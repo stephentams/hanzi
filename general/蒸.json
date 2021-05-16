@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "steam; evaporate"
+        },
+        {
+            "language": "德语",
+            "explanation": "dämpfen, verdampfen, verdunsten  (V, Ess)"
+        },
+        {
+            "language": "法语",
+            "explanation": "s'évaporer,cuire à la vapeur"
+        }
+    ],
+    "general_pinyins": [
+        "zhēng"
+    ],
+    "general_zhuyins": [
+        "ㄓㄥ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𩟘",
+        "烝",
+        "䒱",
+        "𦲶"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "84B8",
+            "1225253414444"
+        ],
+        "char_code_wubi": "abio",
+        "char_code_cangjie": "tnef",
+        "char_code_zhengma": "exau",
+        "char_code_sijiao": "44331"
+    },
+    "general_unicode": "基本区 U+84B8",
+    "general_bs_code": "1225253414444"
+}

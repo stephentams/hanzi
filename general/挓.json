@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to open out; to expand"
+        },
+        {
+            "language": "德语",
+            "explanation": "ausweiten, erweitern"
+        }
+    ],
+    "general_pinyins": [
+        "zhā"
+    ],
+    "general_zhuyins": [
+        "ㄓㄚ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6313",
+            "121445315"
+        ],
+        "char_code_wubi": "rpta",
+        "char_code_cangjie": "qjhp",
+        "char_code_zhengma": "dwmh",
+        "char_code_sijiao": "53014"
+    },
+    "general_unicode": "基本区 U+6313",
+    "general_bs_code": "121445315"
+}

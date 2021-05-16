@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wink, blink; in a wink, a flash"
+        },
+        {
+            "language": "德语",
+            "explanation": "mit den Augen blinzeln, zwinkern"
+        },
+        {
+            "language": "法语",
+            "explanation": "clin d'oeil"
+        }
+    ],
+    "general_pinyins": [
+        "shùn"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "12",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "眴",
+        "䀢",
+        "瞚",
+        "瞤",
+        "𥋰",
+        "䀵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "77AC",
+            "25111344345354152"
+        ],
+        "char_code_wubi": "heph|hepg",
+        "char_code_cangjie": "bubbq",
+        "char_code_zhengma": "lprm",
+        "char_code_sijiao": "62052"
+    },
+    "general_unicode": "基本区 U+77AC",
+    "general_bs_code": "25111344345354152"
+}

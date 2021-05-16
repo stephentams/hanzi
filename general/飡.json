@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "meal; eat"
+        }
+    ],
+    "general_pinyins": [
+        "cān"
+    ],
+    "general_zhuyins": [
+        "ㄘㄢ"
+    ],
+    "general_radical": {
+        "radical": "冫",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "餐"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "98E1",
+            "41344511534"
+        ],
+        "char_code_wubi": "uwye|uwyv",
+        "char_code_cangjie": "imoiv",
+        "char_code_zhengma": "tdox",
+        "char_code_sijiao": "38132"
+    },
+    "general_unicode": "基本区 U+98E1",
+    "general_bs_code": "41344511534"
+}

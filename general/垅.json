@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mound, grave; ridge in field"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gebirgskamm, Erdwall  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "lǒng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "壠"
+    ],
+    "general_ytz": [
+        "壠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5785",
+            "12113534"
+        ],
+        "char_code_wubi": "fdxn|fdxy",
+        "char_code_cangjie": "gikp",
+        "char_code_zhengma": "bgm",
+        "char_code_sijiao": "43114"
+    },
+    "general_unicode": "基本区 U+5785",
+    "general_bs_code": "12113534"
+}

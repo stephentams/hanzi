@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bread"
+        },
+        {
+            "language": "德语",
+            "explanation": "kleines gedämpftes Brötchen, Spezialität in der Gegend um Xi'an  (können als Sandwiches mit Fleisch oder veg. Füllung angeboten werden)​  (S, Ess)"
+        }
+    ],
+    "general_pinyins": [
+        "mó"
+    ],
+    "general_zhuyins": [
+        "ㄇㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "饣",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "饃"
+    ],
+    "general_ytz": [
+        "饃",
+        "饝",
+        "𩟠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "998D",
+            "3551222511134"
+        ],
+        "char_code_wubi": "qnad",
+        "char_code_cangjie": "nvtak",
+        "char_code_zhengma": "oxkg",
+        "char_code_sijiao": "24784"
+    },
+    "general_unicode": "基本区 U+998D",
+    "general_bs_code": "3551222511134"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tinkle, clang, jingle"
+        },
+        {
+            "language": "德语",
+            "explanation": "Klang kleiner Glocken"
+        },
+        {
+            "language": "法语",
+            "explanation": "(onom.)​ tintement"
+        }
+    ],
+    "general_pinyins": [
+        "qiāng"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄤ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "9",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "鏘"
+    ],
+    "general_ytz": [
+        "鏘",
+        "𢐓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9535",
+            "31115412354124"
+        ],
+        "char_code_wubi": "quqf",
+        "char_code_cangjie": "oplmi",
+        "char_code_zhengma": "ptrd",
+        "char_code_sijiao": "87742"
+    },
+    "general_unicode": "基本区 U+9535",
+    "general_bs_code": "31115412354124"
+}

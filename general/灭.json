@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "extinguish; wipe out, exterminate"
+        },
+        {
+            "language": "德语",
+            "explanation": "abschalten, ausmachen, beenden  (V)​,ertrinken  (V)​,löschen, ausmachen (Licht, Feuer, Kerze)​  (V)​,vernichten  (V)​,erloschen (Licht, Feuer, Kerze)​  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "éteindre,exterminer"
+        }
+    ],
+    "general_pinyins": [
+        "miè"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "1",
+        "total_sn": "5"
+    },
+    "general_stc": [
+        "滅"
+    ],
+    "general_ytz": [
+        "滅",
+        "烕",
+        "𢛣"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "706D",
+            "14334"
+        ],
+        "char_code_wubi": "goi",
+        "char_code_cangjie": "mf",
+        "char_code_zhengma": "auo",
+        "char_code_sijiao": "10809"
+    },
+    "general_unicode": "基本区 U+706D",
+    "general_bs_code": "14334"
+}

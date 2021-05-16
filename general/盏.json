@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "small cup or container"
+        },
+        {
+            "language": "德语",
+            "explanation": "Zählwort für Lampen u.a.  (Zähl)"
+        },
+        {
+            "language": "法语",
+            "explanation": "coupe,godet,(numérateur pour les lampes)​"
+        }
+    ],
+    "general_pinyins": [
+        "zhǎn"
+    ],
+    "general_zhuyins": [
+        "ㄓㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "皿",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "盞"
+    ],
+    "general_ytz": [
+        "盞",
+        "琖",
+        "醆",
+        "𤐒",
+        "𥁘",
+        "𥁫",
+        "𦈻",
+        "𧣴"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "76CF",
+            "1153425221"
+        ],
+        "char_code_wubi": "glf|galf",
+        "char_code_cangjie": "ijbt",
+        "char_code_zhengma": "hmlk",
+        "char_code_sijiao": "53102"
+    },
+    "general_unicode": "基本区 U+76CF",
+    "general_bs_code": "1153425221"
+}

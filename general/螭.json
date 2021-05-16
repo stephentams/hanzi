@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a dragon whose horns have not grown; cruel"
+        },
+        {
+            "language": "法语",
+            "explanation": "dragon sans corne (folklore)​"
+        }
+    ],
+    "general_pinyins": [
+        "chī"
+    ],
+    "general_zhuyins": [
+        "ㄔ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "10",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "彲",
+        "𡖟",
+        "魑",
+        "彨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "87AD",
+            "2512144134522554"
+        ],
+        "char_code_wubi": "jybc|jyrc",
+        "char_code_cangjie": "liyub",
+        "char_code_zhengma": "islz",
+        "char_code_sijiao": "50127"
+    },
+    "general_unicode": "基本区 U+87AD",
+    "general_bs_code": "2512144134522554"
+}

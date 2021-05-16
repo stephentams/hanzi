@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "confused, stupid, dull, senile"
+        },
+        {
+            "language": "德语",
+            "explanation": "bestürzt, irritiert  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "confus,idiot,distrait,oublieux"
+        }
+    ],
+    "general_pinyins": [
+        "hūn",
+        "mèn"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄣ",
+        "ㄇㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "怋",
+        "惽",
+        "𩇇",
+        "昏",
+        "䫒"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "60DB",
+            "44235152511"
+        ],
+        "char_code_wubi": "nqaj",
+        "char_code_cangjie": "phpa",
+        "char_code_zhengma": "urk",
+        "char_code_sijiao": "92064"
+    },
+    "general_unicode": "基本区 U+60DB",
+    "general_bs_code": "44235152511"
+}

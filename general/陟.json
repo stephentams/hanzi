@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "climb, scale, ascend; proceed"
+        },
+        {
+            "language": "德语",
+            "explanation": "fortschreiten, vorrücken"
+        },
+        {
+            "language": "法语",
+            "explanation": "gravir,élever"
+        }
+    ],
+    "general_pinyins": [
+        "zhì"
+    ],
+    "general_zhuyins": [
+        "ㄓˋ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "徏",
+        "徝",
+        "𠉡",
+        "𠌹"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "965F",
+            "522121233"
+        ],
+        "char_code_wubi": "bhit|bhht",
+        "char_code_cangjie": "nlylh",
+        "char_code_zhengma": "yiko",
+        "char_code_sijiao": "71221"
+    },
+    "general_unicode": "基本区 U+965F",
+    "general_bs_code": "522121233"
+}

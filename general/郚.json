@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "towns in Shandong province"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ortsname  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom de lieu)​"
+        }
+    ],
+    "general_pinyins": [
+        "wú"
+    ],
+    "general_zhuyins": [
+        "ㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䦜",
+        "𨵒"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "90DA",
+            "125125152"
+        ],
+        "char_code_wubi": "gkbh",
+        "char_code_cangjie": "mrnl",
+        "char_code_zhengma": "bijy",
+        "char_code_sijiao": "17627"
+    },
+    "general_unicode": "基本区 U+90DA",
+    "general_bs_code": "125125152"
+}

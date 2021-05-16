@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a border; a limit; a dike; a frontier; a boundary"
+        },
+        {
+            "language": "德语",
+            "explanation": "säumen, Begrenzung  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "limite"
+        }
+    ],
+    "general_pinyins": [
+        "yì"
+    ],
+    "general_zhuyins": [
+        "ㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "57F8",
+            "12125113533"
+        ],
+        "char_code_wubi": "fjqr",
+        "char_code_cangjie": "gaph",
+        "char_code_zhengma": "bkro",
+        "char_code_sijiao": "46127"
+    },
+    "general_unicode": "基本区 U+57F8",
+    "general_bs_code": "12125113533"
+}

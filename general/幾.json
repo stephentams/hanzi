@@ -1,0 +1,55 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "how many? how much?; a few, some"
+        },
+        {
+            "language": "德语",
+            "explanation": "wie viele"
+        },
+        {
+            "language": "法语",
+            "explanation": "presque,combien,quelques,un peu"
+        }
+    ],
+    "general_pinyins": [
+        "jī",
+        "jǐ"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧ",
+        "ㄐㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "幺",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "几"
+    ],
+    "general_ytz": [
+        "㡬",
+        "几",
+        "𢆻",
+        "𢆼",
+        "𢇒",
+        "𢇓",
+        "𨗂",
+        "機"
+    ],
+    "general_structure": "右上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5E7E",
+            "554554134534"
+        ],
+        "char_code_wubi": "xxdt|xxaw",
+        "char_code_cangjie": "vihi",
+        "char_code_zhengma": "zzho",
+        "char_code_sijiao": "22453"
+    },
+    "general_unicode": "基本区 U+5E7E",
+    "general_bs_code": "554554134534"
+}

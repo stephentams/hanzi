@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "obstruct, impede; stop; resist"
+        },
+        {
+            "language": "德语",
+            "explanation": "behindern, hindern"
+        },
+        {
+            "language": "法语",
+            "explanation": "empêcher de faire qch,gêner,entraver un processus,résister à"
+        }
+    ],
+    "general_pinyins": [
+        "dǎng"
+    ],
+    "general_zhuyins": [
+        "ㄉㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "20",
+        "total_sn": "23"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "擋",
+        "擴",
+        "黨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6529",
+            "12124345251254312114444"
+        ],
+        "char_code_wubi": "ripo",
+        "char_code_cangjie": "qfbf",
+        "char_code_zhengma": "dkbu",
+        "char_code_sijiao": "59031"
+    },
+    "general_unicode": "基本区 U+6529",
+    "general_bs_code": "12124345251254312114444"
+}

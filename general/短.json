@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "short; brief; deficient, lacking"
+        },
+        {
+            "language": "德语",
+            "explanation": "fehlen  (V)​,klein ,knapp ,kurz ,unbetont"
+        },
+        {
+            "language": "法语",
+            "explanation": "court,bref,manquer de,faiblesse,défaut"
+        }
+    ],
+    "general_pinyins": [
+        "duǎn"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "矢",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢭃",
+        "𣠭",
+        "𥎭",
+        "𥎶",
+        "𥎷",
+        "𥏆",
+        "𥏸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "77ED",
+            "311341251431"
+        ],
+        "char_code_wubi": "tdgu",
+        "char_code_cangjie": "okmrt",
+        "char_code_zhengma": "maju",
+        "char_code_sijiao": "81818"
+    },
+    "general_unicode": "基本区 U+77ED",
+    "general_bs_code": "311341251431"
+}

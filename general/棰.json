@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "德语",
+            "explanation": "Knüttel  (S)​,peitschen  (V)​,prügeln  (V)​,schlagen  (V)"
+        }
+    ],
+    "general_pinyins": [
+        "chuí"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "捶",
+        "箠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "68F0",
+            "123431212211"
+        ],
+        "char_code_wubi": "stgf",
+        "char_code_cangjie": "dhjm",
+        "char_code_zhengma": "fmeb",
+        "char_code_sijiao": "42915"
+    },
+    "general_unicode": "基本区 U+68F0",
+    "general_bs_code": "123431212211"
+}

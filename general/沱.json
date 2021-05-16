@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rivers, streams, waterways; flow"
+        },
+        {
+            "language": "德语",
+            "explanation": "kleine Bucht an einem Flussufer  (S)​,abspringen, springen  (V)​,tränenvoll, tränenreich  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "petite baie d'une rivière"
+        }
+    ],
+    "general_pinyins": [
+        "tuó"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "池",
+        "沲",
+        "𣴾",
+        "𣵺",
+        "𣵻",
+        "𩃰",
+        "𩃱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6CB1",
+            "44144535"
+        ],
+        "char_code_wubi": "ipxn",
+        "char_code_cangjie": "ejp",
+        "char_code_zhengma": "vwrr",
+        "char_code_sijiao": "33112"
+    },
+    "general_unicode": "基本区 U+6CB1",
+    "general_bs_code": "44144535"
+}

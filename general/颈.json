@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "neck, throat"
+        },
+        {
+            "language": "德语",
+            "explanation": "Hals, Nacken  (S)​,Ausschnitt  (S)​,knutschen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cou"
+        }
+    ],
+    "general_pinyins": [
+        "jǐng",
+        "gěng"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄥˇ",
+        "ㄍㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "页",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "頸"
+    ],
+    "general_ytz": [
+        "頸",
+        "𧯬",
+        "𩒍",
+        "𩒤"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9888",
+            "54121132534"
+        ],
+        "char_code_wubi": "cadm",
+        "char_code_cangjie": "nmmbo",
+        "char_code_zhengma": "xsbg",
+        "char_code_sijiao": "11182"
+    },
+    "general_unicode": "基本区 U+9888",
+    "general_bs_code": "54121132534"
+}

@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "catch"
+        },
+        {
+            "language": "德语",
+            "explanation": "fangen, erwischen"
+        }
+    ],
+    "general_pinyins": [
+        "jǐ"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "丨",
+        "non_radical_sn": "3",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠃨",
+        "𩰊"
+    ],
+    "general_structure": "右上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4E2E",
+            "5112"
+        ],
+        "char_code_wubi": "nfhk|ngk",
+        "char_code_cangjie": "nq",
+        "char_code_zhengma": "ydab",
+        "char_code_sijiao": "17510"
+    },
+    "general_unicode": "基本区 U+4E2E",
+    "general_bs_code": "5112"
+}

@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "decline, falter, decrease; weaken"
+        },
+        {
+            "language": "德语",
+            "explanation": "verfallen, schwach werden  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "décliner,s'affaiblir,vêtement de deuil"
+        }
+    ],
+    "general_pinyins": [
+        "shuāi",
+        "cuī"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨㄞ",
+        "ㄘㄨㄟ"
+    ],
+    "general_radical": {
+        "radical": "衣",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠆂",
+        "𠆚",
+        "𠌺",
+        "𠱗",
+        "𣩖",
+        "𤸬",
+        "𧜸"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8870",
+            "4125113534"
+        ],
+        "char_code_wubi": "ykge",
+        "char_code_cangjie": "ywmv",
+        "char_code_zhengma": "skrh",
+        "char_code_sijiao": "00732"
+    },
+    "general_unicode": "基本区 U+8870",
+    "general_bs_code": "4125113534"
+}

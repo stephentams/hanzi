@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "eye socket; rim of eye"
+        },
+        {
+            "language": "德语",
+            "explanation": "Augenhöhle  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "orbite de l'oeil"
+        }
+    ],
+    "general_pinyins": [
+        "kuàng"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "匡",
+        "𩒑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7736",
+            "25111111215"
+        ],
+        "char_code_wubi": "hagg",
+        "char_code_cangjie": "busmg",
+        "char_code_zhengma": "lhc",
+        "char_code_sijiao": "61011"
+    },
+    "general_unicode": "基本区 U+7736",
+    "general_bs_code": "25111111215"
+}

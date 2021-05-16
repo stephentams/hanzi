@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "weigh, measure; select officials"
+        },
+        {
+            "language": "德语",
+            "explanation": "schätzen, bewerten"
+        }
+    ],
+    "general_pinyins": [
+        "quán"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "銓"
+    ],
+    "general_ytz": [
+        "銓",
+        "硂",
+        "𨩳"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94E8",
+            "31115341121"
+        ],
+        "char_code_wubi": "qwgg",
+        "char_code_cangjie": "opomg",
+        "char_code_zhengma": "poc",
+        "char_code_sijiao": "88714"
+    },
+    "general_unicode": "基本区 U+94E8",
+    "general_bs_code": "31115341121"
+}

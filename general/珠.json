@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "precious stone, gem, jewel, pearl"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kugel  (S)​,Perle  (S)​,Perlfluss  (S, Geo)​,颗  (Zähl)​,Zhu  (Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "perle,goutte"
+        }
+    ],
+    "general_pinyins": [
+        "zhū"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "73E0",
+            "1121311234"
+        ],
+        "char_code_wubi": "griy|gtfy",
+        "char_code_cangjie": "mghjd",
+        "char_code_zhengma": "cmko",
+        "char_code_sijiao": "15190"
+    },
+    "general_unicode": "基本区 U+73E0",
+    "general_bs_code": "1121311234"
+}

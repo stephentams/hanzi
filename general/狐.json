@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "species of fox"
+        },
+        {
+            "language": "德语",
+            "explanation": "Rotfuchs, Fuchs  (S, Bio)​,Hu  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "renard"
+        }
+    ],
+    "general_pinyins": [
+        "hú"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "瓠",
+        "瓡",
+        "𦍳",
+        "𧲲"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "72D0",
+            "35333544"
+        ],
+        "char_code_wubi": "qtry",
+        "char_code_cangjie": "khhvo",
+        "char_code_zhengma": "qmps",
+        "char_code_sijiao": "42230"
+    },
+    "general_unicode": "基本区 U+72D0",
+    "general_bs_code": "35333544"
+}

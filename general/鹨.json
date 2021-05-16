@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "Anthus species (various)"
+        }
+    ],
+    "general_pinyins": [
+        "liù"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "鸟",
+        "non_radical_sn": "11",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "鷚"
+    ],
+    "general_ytz": [
+        "鷚",
+        "𪅡"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E68",
+            "5415413433335451"
+        ],
+        "char_code_wubi": "nweg",
+        "char_code_cangjie": "shpym",
+        "char_code_zhengma": "ytpr",
+        "char_code_sijiao": "17227"
+    },
+    "general_unicode": "基本区 U+9E68",
+    "general_bs_code": "5415413433335451"
+}

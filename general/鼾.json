@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "snore loudly"
+        },
+        {
+            "language": "德语",
+            "explanation": "schnarchen"
+        },
+        {
+            "language": "法语",
+            "explanation": "ronfler"
+        }
+    ],
+    "general_pinyins": [
+        "hān"
+    ],
+    "general_zhuyins": [
+        "ㄏㄢ"
+    ],
+    "general_radical": {
+        "radical": "鼻",
+        "non_radical_sn": "3",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "哻",
+        "𠱢",
+        "𠵸",
+        "𪖟"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9F3E",
+            "32511125121132112"
+        ],
+        "char_code_wubi": "thlf",
+        "char_code_cangjie": "hlmj",
+        "char_code_zhengma": "nlae",
+        "char_code_sijiao": "21240"
+    },
+    "general_unicode": "基本区 U+9F3E",
+    "general_bs_code": "32511125121132112"
+}

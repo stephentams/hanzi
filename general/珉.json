@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stone resembling jade"
+        },
+        {
+            "language": "德语",
+            "explanation": "jadeähnlicher Stein  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "albâtre"
+        }
+    ],
+    "general_pinyins": [
+        "mín"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䂥",
+        "䃉",
+        "玟",
+        "琘",
+        "琝",
+        "瑉",
+        "砇",
+        "碈",
+        "𤤍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "73C9",
+            "112151515"
+        ],
+        "char_code_wubi": "gnan",
+        "char_code_cangjie": "mgrvp",
+        "char_code_zhengma": "cyhd",
+        "char_code_sijiao": "17147"
+    },
+    "general_unicode": "基本区 U+73C9",
+    "general_bs_code": "112151515"
+}

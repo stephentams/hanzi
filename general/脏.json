@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "internal organs, viscera; dirty"
+        },
+        {
+            "language": "法语",
+            "explanation": "sale,malpropre"
+        }
+    ],
+    "general_pinyins": [
+        "zāng",
+        "zàng"
+    ],
+    "general_zhuyins": [
+        "ㄗㄤ",
+        "ㄗㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "臟",
+        "髒"
+    ],
+    "general_ytz": [
+        "臟",
+        "髒",
+        "𣺹"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "810F",
+            "3511413121"
+        ],
+        "char_code_wubi": "eyfg|eofg",
+        "char_code_cangjie": "big",
+        "char_code_zhengma": "qtb",
+        "char_code_sijiao": "70214"
+    },
+    "general_unicode": "基本区 U+810F",
+    "general_bs_code": "3511413121"
+}

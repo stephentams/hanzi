@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "item, article; clause; fund"
+        },
+        {
+            "language": "德语",
+            "explanation": "Abschnitt, Paragraph  (S)​,Betrag, Kaufpreis  (S)​,Geld  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "somme d'argent,cordial,alinéa,paragraphe,(classificateur pour les modèles, versions)​"
+        }
+    ],
+    "general_pinyins": [
+        "kuǎn"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "欠",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㱁",
+        "欵",
+        "歀",
+        "𣢸",
+        "𣣇",
+        "𣣙",
+        "𣤂",
+        "𢡜",
+        "𤘯"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6B3E",
+            "121112343534"
+        ],
+        "char_code_wubi": "ffiw",
+        "char_code_cangjie": "gfno",
+        "char_code_zhengma": "bbro",
+        "char_code_sijiao": "47982"
+    },
+    "general_unicode": "基本区 U+6B3E",
+    "general_bs_code": "121112343534"
+}

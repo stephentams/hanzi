@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to pile up layer by layer, wedge, gatepost"
+        }
+    ],
+    "general_pinyins": [
+        "qì",
+        "zhǎ"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧˋ",
+        "ㄓㄚˇ"
+    ],
+    "general_radical": {
+        "radical": "尸",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢩖"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "379A",
+            "513312321511"
+        ],
+        "char_code_wubi": "ntfv|ntfe",
+        "char_code_cangjie": "shjx",
+        "char_code_zhengma": "xmmn",
+        "char_code_sijiao": "77277"
+    },
+    "general_unicode": "扩展A U+379A",
+    "general_bs_code": "513312321511"
+}

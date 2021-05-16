@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fine, tiny; slender, thin"
+        },
+        {
+            "language": "德语",
+            "explanation": "dünn, fein, minuziös, schlank  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "minutieusement,soigneusement,mince,fin"
+        }
+    ],
+    "general_pinyins": [
+        "xì"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "細"
+    ],
+    "general_ytz": [
+        "細",
+        "𥿳"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EC6",
+            "55125121"
+        ],
+        "char_code_wubi": "xlg",
+        "char_code_cangjie": "vmw",
+        "char_code_zhengma": "zki",
+        "char_code_sijiao": "26100"
+    },
+    "general_unicode": "基本区 U+7EC6",
+    "general_bs_code": "55125121"
+}

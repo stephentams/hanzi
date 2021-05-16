@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "breast, chest, thorax; clamor; the Hsiung Nu 'Huns'"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ungarn"
+        },
+        {
+            "language": "法语",
+            "explanation": "poitrine,clameurs,thorax"
+        }
+    ],
+    "general_pinyins": [
+        "xiōng"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄥ"
+    ],
+    "general_radical": {
+        "radical": "勹",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "匂",
+        "胸"
+    ],
+    "general_structure": "右上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5308",
+            "353452"
+        ],
+        "char_code_wubi": "qqbk|qrbk",
+        "char_code_cangjie": "puk",
+        "char_code_zhengma": "ryoz",
+        "char_code_sijiao": "27720"
+    },
+    "general_unicode": "基本区 U+5308",
+    "general_bs_code": "353452"
+}

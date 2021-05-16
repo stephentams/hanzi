@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "kind of sedge grass, used anciently for raincoats"
+        },
+        {
+            "language": "德语",
+            "explanation": "(English: (phonetic)​)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "roseau"
+        }
+    ],
+    "general_pinyins": [
+        "suō",
+        "shā"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨㄛ",
+        "ㄕㄚ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𪍬",
+        "𪌮",
+        "𦹈",
+        "艸",
+        "𢘿"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "838E",
+            "1224412343"
+        ],
+        "char_code_wubi": "aiit",
+        "char_code_cangjie": "tefh",
+        "char_code_zhengma": "evkm",
+        "char_code_sijiao": "44129"
+    },
+    "general_unicode": "基本区 U+838E",
+    "general_bs_code": "1224412343"
+}

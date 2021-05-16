@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "deep; depth; far; very, extreme"
+        },
+        {
+            "language": "德语",
+            "explanation": "dunkel, tief"
+        },
+        {
+            "language": "法语",
+            "explanation": "profond,intime,étroit,profondément,tard,difficile,à fond"
+        }
+    ],
+    "general_pinyins": [
+        "shēn"
+    ],
+    "general_zhuyins": [
+        "ㄕㄣ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㴱",
+        "𣵫",
+        "𥥍",
+        "冞",
+        "罙",
+        "𨤐"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6DF1",
+            "44145341234"
+        ],
+        "char_code_wubi": "ipws",
+        "char_code_cangjie": "ebcd",
+        "char_code_zhengma": "vwof",
+        "char_code_sijiao": "37194"
+    },
+    "general_unicode": "基本区 U+6DF1",
+    "general_bs_code": "44145341234"
+}

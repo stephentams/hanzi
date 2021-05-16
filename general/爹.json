@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "father, daddy"
+        },
+        {
+            "language": "德语",
+            "explanation": "Vati, Papa, Pa, Papi  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "père,papa"
+        }
+    ],
+    "general_pinyins": [
+        "diē"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧㄝ"
+    ],
+    "general_radical": {
+        "radical": "父",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7239",
+            "3434354354"
+        ],
+        "char_code_wubi": "wqqq|wrqq",
+        "char_code_cangjie": "cknin",
+        "char_code_zhengma": "oorr",
+        "char_code_sijiao": "80207"
+    },
+    "general_unicode": "基本区 U+7239",
+    "general_bs_code": "3434354354"
+}

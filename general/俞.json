@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "surname; consent, approve"
+        },
+        {
+            "language": "德语",
+            "explanation": "beipflichten, antreten ,Yu  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "yú",
+        "yù",
+        "shù"
+    ],
+    "general_zhuyins": [
+        "ㄩˊ",
+        "ㄩˋ",
+        "ㄕㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "人",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "兪"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4FDE",
+            "341251122"
+        ],
+        "char_code_wubi": "wgej",
+        "char_code_cangjie": "ombn",
+        "char_code_zhengma": "odqk",
+        "char_code_sijiao": "80221"
+    },
+    "general_unicode": "基本区 U+4FDE",
+    "general_bs_code": "341251122"
+}

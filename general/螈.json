@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a silkworm"
+        },
+        {
+            "language": "德语",
+            "explanation": "Molch  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "ver à soie"
+        }
+    ],
+    "general_pinyins": [
+        "yuán"
+    ],
+    "general_zhuyins": [
+        "ㄩㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "10",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䖠",
+        "蚖",
+        "𧔞"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8788",
+            "2512141332511234"
+        ],
+        "char_code_wubi": "jdri",
+        "char_code_cangjie": "limhf",
+        "char_code_zhengma": "ignk",
+        "char_code_sijiao": "51196"
+    },
+    "general_unicode": "基本区 U+8788",
+    "general_bs_code": "2512141332511234"
+}

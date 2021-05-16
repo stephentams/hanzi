@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "epistaxis, nosebleed; to be defeated"
+        },
+        {
+            "language": "法语",
+            "explanation": "saigner du nez"
+        }
+    ],
+    "general_pinyins": [
+        "nǜ"
+    ],
+    "general_zhuyins": [
+        "ㄋㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "血",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧗗",
+        "𧖷",
+        "𧖩",
+        "衂",
+        "䶊",
+        "䘐",
+        "䏔",
+        "𦤊",
+        "𪖔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8844",
+            "3252215211"
+        ],
+        "char_code_wubi": "tlnf|tlng",
+        "char_code_cangjie": "htng",
+        "char_code_zhengma": "mlxe",
+        "char_code_sijiao": "27112"
+    },
+    "general_unicode": "基本区 U+8844",
+    "general_bs_code": "3252215211"
+}

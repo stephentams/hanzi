@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "leg warmer"
+        }
+    ],
+    "general_pinyins": [
+        "la"
+    ],
+    "general_zhuyins": [
+        "˙ㄌㄚ"
+    ],
+    "general_radical": {
+        "radical": "革",
+        "non_radical_sn": "8",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𩋷"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "97A1",
+            "12212511212141431"
+        ],
+        "char_code_wubi": "afru",
+        "char_code_cangjie": "tjqyt",
+        "char_code_zhengma": "eeds",
+        "char_code_sijiao": "40518"
+    },
+    "general_unicode": "基本区 U+97A1",
+    "general_bs_code": "12212511212141431"
+}

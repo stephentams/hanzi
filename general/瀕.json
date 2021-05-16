@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "approach, be on verge of; near"
+        },
+        {
+            "language": "法语",
+            "explanation": "rive,rivage"
+        }
+    ],
+    "general_pinyins": [
+        "bīn"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄣ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "16",
+        "total_sn": "19"
+    },
+    "general_stc": [
+        "濒"
+    ],
+    "general_ytz": [
+        "濒",
+        "𩕨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7015",
+            "4412121233132511134"
+        ],
+        "char_code_wubi": "ihim|ihhm",
+        "char_code_cangjie": "eyhc",
+        "char_code_zhengma": "vikg",
+        "char_code_sijiao": "31186"
+    },
+    "general_unicode": "基本区 U+7015",
+    "general_bs_code": "4412121233132511134"
+}

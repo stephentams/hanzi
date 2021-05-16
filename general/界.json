@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "boundary, limit; domain; society; the world"
+        },
+        {
+            "language": "德语",
+            "explanation": "Reich 法语 frontière,étendue,milieu,monde"
+        }
+    ],
+    "general_pinyins": [
+        "jiè"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "田",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "介",
+        "堺",
+        "畍",
+        "𠇎",
+        "𠷟",
+        "𢌯",
+        "𨺬"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "754C",
+            "251213432"
+        ],
+        "char_code_wubi": "lwjj",
+        "char_code_cangjie": "woll",
+        "char_code_zhengma": "kion",
+        "char_code_sijiao": "60228"
+    },
+    "general_unicode": "基本区 U+754C",
+    "general_bs_code": "251213432"
+}

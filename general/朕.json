@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pronoun 'I'"
+        },
+        {
+            "language": "德语",
+            "explanation": "Wir (pluralis majestatis)​  (Pron)"
+        },
+        {
+            "language": "法语",
+            "explanation": "moi"
+        }
+    ],
+    "general_pinyins": [
+        "zhèn"
+    ],
+    "general_zhuyins": [
+        "ㄓㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣍹",
+        "𦨶",
+        "𦩎",
+        "𦩗",
+        "𢀹",
+        "𥆭",
+        "𥆵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6715",
+            "3511431134"
+        ],
+        "char_code_wubi": "eudy",
+        "char_code_cangjie": "btk",
+        "char_code_zhengma": "qugd",
+        "char_code_sijiao": "78284"
+    },
+    "general_unicode": "基本区 U+6715",
+    "general_bs_code": "3511431134"
+}

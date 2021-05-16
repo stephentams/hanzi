@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "straight, erect, vertical"
+        },
+        {
+            "language": "德语",
+            "explanation": "gerade, geradeaus, genau, ununterbrochen, direkt  (Adv)​,Zhi  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "directement,sans cesse,redresser,droit,vertical,franc,sincère"
+        }
+    ],
+    "general_pinyins": [
+        "zhí"
+    ],
+    "general_zhuyins": [
+        "ㄓˊ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "3",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "值",
+        "𠅺",
+        "𡇛",
+        "𣓟",
+        "𣖇",
+        "𣖈",
+        "𣖴",
+        "𥄂",
+        "𠤽",
+        "直"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "76F4",
+            "12251111"
+        ],
+        "char_code_wubi": "fhf",
+        "char_code_cangjie": "jbmm",
+        "char_code_zhengma": "edlc",
+        "char_code_sijiao": "40102"
+    },
+    "general_unicode": "基本区 U+76F4",
+    "general_bs_code": "12251111"
+}

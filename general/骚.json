@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "harass, bother, annoy, disturb"
+        },
+        {
+            "language": "德语",
+            "explanation": "Sex-Appeal haben ,Aufruhr, Unruhe  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "perturber,déranger,poésie,littérature,coquet,aguichant"
+        }
+    ],
+    "general_pinyins": [
+        "sāo",
+        "sǎo"
+    ],
+    "general_zhuyins": [
+        "ㄙㄠ",
+        "ㄙㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "马",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "騷"
+    ],
+    "general_ytz": [
+        "騷",
+        "騒"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A9A",
+            "551544251214"
+        ],
+        "char_code_wubi": "ccyj|cgcj",
+        "char_code_cangjie": "nmeii",
+        "char_code_zhengma": "xxsi",
+        "char_code_sijiao": "77136"
+    },
+    "general_unicode": "基本区 U+9A9A",
+    "general_bs_code": "551544251214"
+}

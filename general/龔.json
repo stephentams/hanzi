@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "give, present; reverential"
+        },
+        {
+            "language": "德语",
+            "explanation": "(Familienname)​  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "gōng"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄥ"
+    ],
+    "general_radical": {
+        "radical": "龍",
+        "non_radical_sn": "7",
+        "total_sn": "23"
+    },
+    "general_stc": [
+        "龚"
+    ],
+    "general_ytz": [
+        "供",
+        "龚"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9F94",
+            "4143125111515111122134"
+        ],
+        "char_code_wubi": "uegw",
+        "char_code_cangjie": "yptc",
+        "char_code_zhengma": "sieo",
+        "char_code_sijiao": "01801"
+    },
+    "general_unicode": "基本区 U+9F94",
+    "general_bs_code": "4143125111515111122134"
+}

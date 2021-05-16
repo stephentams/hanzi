@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "huge sea turtle"
+        },
+        {
+            "language": "德语",
+            "explanation": "Legendäre Riesenschildkröte  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "grosse tortue marine,tortue mythologique"
+        }
+    ],
+    "general_pinyins": [
+        "áo"
+    ],
+    "general_zhuyins": [
+        "ㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "10",
+        "total_sn": "18"
+    },
+    "general_stc": [
+        "鰲"
+    ],
+    "general_ytz": [
+        "鰲",
+        "鼇",
+        "𩼡"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9CCC",
+            "112153313435251211"
+        ],
+        "char_code_wubi": "gqtg",
+        "char_code_cangjie": "qknwm",
+        "char_code_zhengma": "cimr",
+        "char_code_sijiao": "58106"
+    },
+    "general_unicode": "基本区 U+9CCC",
+    "general_bs_code": "112153313435251211"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ear of grain; tassel; Guangzhou"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ähre  (S)​,Spike  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "épi,frange"
+        }
+    ],
+    "general_pinyins": [
+        "suì"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "12",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "穟",
+        "𥝩",
+        "𥣼",
+        "穂",
+        "繐"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7A57",
+            "31234125112144544"
+        ],
+        "char_code_wubi": "tgjn",
+        "char_code_cangjie": "hdjip",
+        "char_code_zhengma": "mffw",
+        "char_code_sijiao": "25933"
+    },
+    "general_unicode": "基本区 U+7A57",
+    "general_bs_code": "31234125112144544"
+}

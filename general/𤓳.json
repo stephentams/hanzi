@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "爪",
+        "non_radical_sn": "2",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "采"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "244F3",
+            "344315"
+        ],
+        "char_code_wubi": "egnb",
+        "char_code_cangjie": "bjs",
+        "char_code_zhengma": "pvaz"
+    },
+    "general_unicode": "扩展B U+244F3",
+    "general_bs_code": "344315"
+}

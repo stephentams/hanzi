@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "slender; quiet and modest, charming"
+        },
+        {
+            "language": "法语",
+            "explanation": "calme et reclus,gentil, plein de grâce et élégant"
+        }
+    ],
+    "general_pinyins": [
+        "tiǎo",
+        "yáo"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧㄠˇ",
+        "ㄧㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "穴",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "姚",
+        "𥧽",
+        "𥨑"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7A95",
+            "44534341534"
+        ],
+        "char_code_wubi": "pwiq|pwqi",
+        "char_code_cangjie": "jclmo",
+        "char_code_zhengma": "wovr",
+        "char_code_sijiao": "30113"
+    },
+    "general_unicode": "基本区 U+7A95",
+    "general_bs_code": "44534341534"
+}

@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "collide, bump into"
+        },
+        {
+            "language": "德语",
+            "explanation": "sich berühren, sich treffen mit, (zusammen-)​ stossen  (V)"
+        }
+    ],
+    "general_pinyins": [
+        "pèng"
+    ],
+    "general_zhuyins": [
+        "ㄆㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䰃",
+        "掽",
+        "踫",
+        "𩮗"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "78B0",
+            "1325143122431"
+        ],
+        "char_code_wubi": "duog",
+        "char_code_cangjie": "mrttc",
+        "char_code_zhengma": "guku",
+        "char_code_sijiao": "18612"
+    },
+    "general_unicode": "基本区 U+78B0",
+    "general_bs_code": "1325143122431"
+}

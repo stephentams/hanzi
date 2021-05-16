@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "heart, from bottom of one's heart"
+        },
+        {
+            "language": "德语",
+            "explanation": "Zhong  (Eig, Fam)​,im Herzen, im inneren, Herzensgrund"
+        },
+        {
+            "language": "法语",
+            "explanation": "for intérieur,coeur,sentiment,sincère"
+        }
+    ],
+    "general_pinyins": [
+        "zhōng"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨㄥ"
+    ],
+    "general_radical": {
+        "radical": "衣",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8877",
+            "4125123534"
+        ],
+        "char_code_wubi": "ykhe",
+        "char_code_cangjie": "jlhv",
+        "char_code_zhengma": "sjir",
+        "char_code_sijiao": "00732"
+    },
+    "general_unicode": "基本区 U+8877",
+    "general_bs_code": "4125123534"
+}

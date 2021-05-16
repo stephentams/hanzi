@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "reddish color, red, brown"
+        },
+        {
+            "language": "法语",
+            "explanation": "soie rouge orangée"
+        }
+    ],
+    "general_pinyins": [
+        "tí"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "緹"
+    ],
+    "general_ytz": [
+        "緹"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F07",
+            "551251112134"
+        ],
+        "char_code_wubi": "xjgh",
+        "char_code_cangjie": "vmamo",
+        "char_code_zhengma": "zkai",
+        "char_code_sijiao": "26181"
+    },
+    "general_unicode": "基本区 U+7F07",
+    "general_bs_code": "551251112134"
+}

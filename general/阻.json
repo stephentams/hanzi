@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "impede, hinder, obstruct; oppose"
+        },
+        {
+            "language": "德语",
+            "explanation": "abblocken, blockieren ,aufhalten, behindern ,versperren"
+        },
+        {
+            "language": "法语",
+            "explanation": "empêcher,bloquer"
+        }
+    ],
+    "general_pinyins": [
+        "zǔ"
+    ],
+    "general_zhuyins": [
+        "ㄗㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "跙",
+        "岨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "963B",
+            "5225111"
+        ],
+        "char_code_wubi": "begg",
+        "char_code_cangjie": "nlbm",
+        "char_code_zhengma": "ylc",
+        "char_code_sijiao": "77212"
+    },
+    "general_unicode": "基本区 U+963B",
+    "general_bs_code": "5225111"
+}

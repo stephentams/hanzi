@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bear children, give birth; birth"
+        },
+        {
+            "language": "德语",
+            "explanation": "absurd, grotesk ,Geburt, Geburtstag  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "naissance,anniversaire,absurde"
+        }
+    ],
+    "general_pinyins": [
+        "dàn"
+    ],
+    "general_zhuyins": [
+        "ㄉㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "誕"
+    ],
+    "general_ytz": [
+        "誕",
+        "訑",
+        "䜥",
+        "𧥡",
+        "𧩙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BDE",
+            "45321554"
+        ],
+        "char_code_wubi": "ythp",
+        "char_code_cangjie": "ivnkv",
+        "char_code_zhengma": "smiy",
+        "char_code_sijiao": "32741"
+    },
+    "general_unicode": "基本区 U+8BDE",
+    "general_bs_code": "45321554"
+}

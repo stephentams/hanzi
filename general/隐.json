@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hide, conceal; hidden, secret"
+        },
+        {
+            "language": "德语",
+            "explanation": "heimlich, verborgen ,Yin  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "caché,latent"
+        }
+    ],
+    "general_pinyins": [
+        "yǐn",
+        "yìn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄣˇ",
+        "ㄧㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "隱"
+    ],
+    "general_ytz": [
+        "隱",
+        "隠",
+        "𠃊",
+        "𤔌",
+        "𨼆"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9690",
+            "52355114544"
+        ],
+        "char_code_wubi": "bqvn",
+        "char_code_cangjie": "nlnsp",
+        "char_code_zhengma": "yrxw",
+        "char_code_sijiao": "77237"
+    },
+    "general_unicode": "基本区 U+9690",
+    "general_bs_code": "52355114544"
+}

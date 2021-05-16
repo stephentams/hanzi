@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bathe, wash; bath"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bad  (S)​,baden, waschen  (V)​,benetzen, schwimmen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bain,se baigner"
+        }
+    ],
+    "general_pinyins": [
+        "yù"
+    ],
+    "general_zhuyins": [
+        "ㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣴲"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6D74",
+            "4413434251"
+        ],
+        "char_code_wubi": "iwwk",
+        "char_code_cangjie": "ecor",
+        "char_code_zhengma": "vooj",
+        "char_code_sijiao": "38168"
+    },
+    "general_unicode": "基本区 U+6D74",
+    "general_bs_code": "4413434251"
+}

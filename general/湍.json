@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rapid water current, rapids"
+        },
+        {
+            "language": "德语",
+            "explanation": "rasen, drängen"
+        },
+        {
+            "language": "法语",
+            "explanation": "flux,rejaillir"
+        }
+    ],
+    "general_pinyins": [
+        "tuān"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄢ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "漙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6E4D",
+            "441252132522"
+        ],
+        "char_code_wubi": "imdj",
+        "char_code_cangjie": "eumb",
+        "char_code_zhengma": "vlgl",
+        "char_code_sijiao": "32127"
+    },
+    "general_unicode": "基本区 U+6E4D",
+    "general_bs_code": "441252132522"
+}

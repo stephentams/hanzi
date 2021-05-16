@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tribe"
+        },
+        {
+            "language": "德语",
+            "explanation": "Halbstiefel  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cothurne,(nom d'une tribu)​,turban"
+        }
+    ],
+    "general_pinyins": [
+        "hé"
+    ],
+    "general_zhuyins": [
+        "ㄏㄜˊ"
+    ],
+    "general_radical": {
+        "radical": "革",
+        "non_radical_sn": "9",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㓭",
+        "碟",
+        "𩍛",
+        "𩏌",
+        "𠞃",
+        "𧤠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "97A8",
+            "122125112251135345"
+        ],
+        "char_code_wubi": "afjn",
+        "char_code_cangjie": "tjapv",
+        "char_code_zhengma": "eekr",
+        "char_code_sijiao": "46527"
+    },
+    "general_unicode": "基本区 U+97A8",
+    "general_bs_code": "122125112251135345"
+}

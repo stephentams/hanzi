@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "valiant; brave, eminent"
+        }
+    ],
+    "general_pinyins": [
+        "jùn",
+        "kě"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄣˋ",
+        "ㄎㄜˇ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "15",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "儶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "349E",
+            "32252324111212525"
+        ],
+        "char_code_wubi": "wmwm",
+        "char_code_cangjie": "ouos",
+        "char_code_zhengma": "nliy",
+        "char_code_sijiao": "22227"
+    },
+    "general_unicode": "扩展A U+349E",
+    "general_bs_code": "32252324111212525"
+}

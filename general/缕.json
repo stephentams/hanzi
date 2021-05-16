@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "thread; detailed, precise"
+        },
+        {
+            "language": "德语",
+            "explanation": "Faden  (S)​,Gewinde  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "filet"
+        }
+    ],
+    "general_pinyins": [
+        "lǚ"
+    ],
+    "general_zhuyins": [
+        "ㄌㄩˇ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "縷"
+    ],
+    "general_ytz": [
+        "縷",
+        "𦇆",
+        "𫃵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F15",
+            "551431234531"
+        ],
+        "char_code_wubi": "xovg",
+        "char_code_cangjie": "vmfdv",
+        "char_code_zhengma": "zuzm",
+        "char_code_sijiao": "29144"
+    },
+    "general_unicode": "基本区 U+7F15",
+    "general_bs_code": "551431234531"
+}

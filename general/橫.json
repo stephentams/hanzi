@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "across, horizontal, lateral"
+        },
+        {
+            "language": "德语",
+            "explanation": "über, herüber ,horizontal, quer  (Adj)​,waagerecht  (Adj)​,Heng  (Eig, Fam)​,unbändig, ungebärdig"
+        },
+        {
+            "language": "法语",
+            "explanation": "horizontal,transversal,pervers,violent,déraisonnable"
+        }
+    ],
+    "general_pinyins": [
+        "héng",
+        "hèng"
+    ],
+    "general_zhuyins": [
+        "ㄏㄥˊ",
+        "ㄏㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "12",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "横"
+    ],
+    "general_ytz": [
+        "撗",
+        "横",
+        "櫎"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6A6B",
+            "1234122112512134"
+        ],
+        "char_code_wubi": "sagw",
+        "char_code_cangjie": "dtmc",
+        "char_code_zhengma": "feko",
+        "char_code_sijiao": "44986"
+    },
+    "general_unicode": "基本区 U+6A6B",
+    "general_bs_code": "1234122112512134"
+}

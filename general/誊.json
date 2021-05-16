@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "copy, transcribe"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 abschreiben  (V)​,ins Reine schreiben"
+        }
+    ],
+    "general_pinyins": [
+        "téng"
+    ],
+    "general_zhuyins": [
+        "ㄊㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "言",
+        "non_radical_sn": "6",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "謄"
+    ],
+    "general_ytz": [
+        "謄"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8A8A",
+            "4311344111251"
+        ],
+        "char_code_wubi": "udyf|ugyf",
+        "char_code_cangjie": "fqymr",
+        "char_code_zhengma": "ubs",
+        "char_code_sijiao": "90601"
+    },
+    "general_unicode": "基本区 U+8A8A",
+    "general_bs_code": "4311344111251"
+}

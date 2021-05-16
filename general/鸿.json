@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "species of wild swan; vast"
+        },
+        {
+            "language": "德语",
+            "explanation": "Brief, Schreiben  (S)​,Schwanengans  (S, Bio)​,groß, grandios  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "oie sauvage,grand,vaste"
+        }
+    ],
+    "general_pinyins": [
+        "hóng"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "鸟",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "鴻"
+    ],
+    "general_ytz": [
+        "鴻",
+        "䲨",
+        "𩾯",
+        "𪅯"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E3F",
+            "44112135451"
+        ],
+        "char_code_wubi": "iaqg",
+        "char_code_cangjie": "empm",
+        "char_code_zhengma": "vbrz",
+        "char_code_sijiao": "37127"
+    },
+    "general_unicode": "基本区 U+9E3F",
+    "general_bs_code": "44112135451"
+}

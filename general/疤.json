@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "scar, cicatrix; birthmark"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kratzer  (S)​,Narbe  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cicatrice"
+        }
+    ],
+    "general_pinyins": [
+        "bā"
+    ],
+    "general_zhuyins": [
+        "ㄅㄚ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "瘢",
+        "㿬"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "75A4",
+            "413415215"
+        ],
+        "char_code_wubi": "ucv",
+        "char_code_cangjie": "kau",
+        "char_code_zhengma": "tyia",
+        "char_code_sijiao": "00117"
+    },
+    "general_unicode": "基本区 U+75A4",
+    "general_bs_code": "413415215"
+}

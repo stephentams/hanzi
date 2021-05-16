@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mushrooms, fungus; mildew, mold"
+        },
+        {
+            "language": "德语",
+            "explanation": "formen, gestalten"
+        },
+        {
+            "language": "法语",
+            "explanation": "champignon"
+        }
+    ],
+    "general_pinyins": [
+        "xùn"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "覃",
+        "𧅸",
+        "𦽖"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8548",
+            "122125221251112"
+        ],
+        "char_code_wubi": "asjj",
+        "char_code_cangjie": "tmwj",
+        "char_code_zhengma": "efke",
+        "char_code_sijiao": "44406"
+    },
+    "general_unicode": "基本区 U+8548",
+    "general_bs_code": "122125221251112"
+}

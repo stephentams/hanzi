@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "squared timber; angle, edge"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kante  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "léng",
+        "lēng",
+        "líng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄥˊ",
+        "ㄌㄥ",
+        "ㄌㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "楞",
+        "稜",
+        "𤗷"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "68F1",
+            "123412134354"
+        ],
+        "char_code_wubi": "sfwt",
+        "char_code_cangjie": "dgce",
+        "char_code_zhengma": "fbor",
+        "char_code_sijiao": "44947"
+    },
+    "general_unicode": "基本区 U+68F1",
+    "general_bs_code": "123412134354"
+}

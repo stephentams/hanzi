@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "swim, float, wade"
+        },
+        {
+            "language": "德语",
+            "explanation": "tauchen, untertauchen"
+        },
+        {
+            "language": "法语",
+            "explanation": "nager"
+        }
+    ],
+    "general_pinyins": [
+        "qiú"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "攸",
+        "汓",
+        "湭"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6CC5",
+            "44125341"
+        ],
+        "char_code_wubi": "ilwy",
+        "char_code_cangjie": "ewo",
+        "char_code_zhengma": "vjod",
+        "char_code_sijiao": "36100"
+    },
+    "general_unicode": "基本区 U+6CC5",
+    "general_bs_code": "44125341"
+}

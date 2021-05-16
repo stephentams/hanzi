@@ -1,0 +1,32 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a small bird"
+        }
+    ],
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "隹",
+        "non_radical_sn": "14",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𪇕"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4A08",
+            "4451233251113432411121"
+        ],
+        "char_code_wubi": "pgiy|pghy",
+        "char_code_cangjie": "jcog",
+        "char_code_zhengma": "wdln",
+        "char_code_sijiao": "30815"
+    },
+    "general_unicode": "扩展A U+4A08",
+    "general_bs_code": "4451233251113432411121"
+}

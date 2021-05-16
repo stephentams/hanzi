@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "whetstone; grind, sharpen; whet"
+        },
+        {
+            "language": "德语",
+            "explanation": "ernst, stark  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "strict,dur,sévère"
+        }
+    ],
+    "general_pinyins": [
+        "lì"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "厂",
+        "non_radical_sn": "3",
+        "total_sn": "5"
+    },
+    "general_stc": [
+        "厲"
+    ],
+    "general_ytz": [
+        "厲",
+        "𥒿"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5389",
+            "13153"
+        ],
+        "char_code_wubi": "ddnv|dgqe",
+        "char_code_cangjie": "mms",
+        "char_code_zhengma": "ggay",
+        "char_code_sijiao": "71227"
+    },
+    "general_unicode": "基本区 U+5389",
+    "general_bs_code": "13153"
+}

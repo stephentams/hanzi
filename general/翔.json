@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "soar, glide, hover; detailed"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufsteigen, sich erheben ,Xiang  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "voler,planer"
+        }
+    ],
+    "general_pinyins": [
+        "xiáng"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "羽",
+        "non_radical_sn": "6",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "羏",
+        "鴹",
+        "𦍤"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7FD4",
+            "431113541541"
+        ],
+        "char_code_wubi": "udng|ung",
+        "char_code_cangjie": "tqsmm",
+        "char_code_zhengma": "ucyy",
+        "char_code_sijiao": "87520"
+    },
+    "general_unicode": "基本区 U+7FD4",
+    "general_bs_code": "431113541541"
+}

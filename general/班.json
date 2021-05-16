@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "class, group, grade; squad; job"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schulklasse, Gruppe, Team"
+        },
+        {
+            "language": "法语",
+            "explanation": "classe,équipe,relais,escouade,rang,régulier"
+        }
+    ],
+    "general_pinyins": [
+        "bān"
+    ],
+    "general_zhuyins": [
+        "ㄅㄢ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣪂",
+        "𤤻",
+        "𤦦",
+        "𤼬"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "73ED",
+            "1121431121"
+        ],
+        "char_code_wubi": "gytg",
+        "char_code_cangjie": "mgilg",
+        "char_code_zhengma": "cuc",
+        "char_code_sijiao": "11114"
+    },
+    "general_unicode": "基本区 U+73ED",
+    "general_bs_code": "1121431121"
+}

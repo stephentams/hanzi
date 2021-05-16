@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "guest, traveller; customer"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gast, fremd ,Ke  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "invité,hôte,client,visiteur,voyageur"
+        }
+    ],
+    "general_pinyins": [
+        "kè"
+    ],
+    "general_zhuyins": [
+        "ㄎㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "宀",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "疴"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5BA2",
+            "445354251"
+        ],
+        "char_code_wubi": "ptkf",
+        "char_code_cangjie": "jher",
+        "char_code_zhengma": "wdrj",
+        "char_code_sijiao": "30604"
+    },
+    "general_unicode": "基本区 U+5BA2",
+    "general_bs_code": "445354251"
+}

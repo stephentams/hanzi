@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sedan-chair, palanquin"
+        },
+        {
+            "language": "德语",
+            "explanation": "Sänfte  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "palanquin"
+        }
+    ],
+    "general_pinyins": [
+        "jiào"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "车",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "轎"
+    ],
+    "general_ytz": [
+        "轎",
+        "𨎄"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8F7F",
+            "1521313432"
+        ],
+        "char_code_wubi": "ltdj",
+        "char_code_cangjie": "kqhkl",
+        "char_code_zhengma": "hegn",
+        "char_code_sijiao": "42528"
+    },
+    "general_unicode": "基本区 U+8F7F",
+    "general_bs_code": "1521313432"
+}

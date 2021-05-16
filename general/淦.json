@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "river in Jiangxi province; water leaking into a boat"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom d'une rivière)​"
+        }
+    ],
+    "general_pinyins": [
+        "gàn"
+    ],
+    "general_zhuyins": [
+        "ㄍㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "涵",
+        "汵",
+        "浛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6DE6",
+            "44134112431"
+        ],
+        "char_code_wubi": "iqg",
+        "char_code_cangjie": "ec",
+        "char_code_zhengma": "vpvv",
+        "char_code_sijiao": "38119"
+    },
+    "general_unicode": "基本区 U+6DE6",
+    "general_bs_code": "44134112431"
+}

@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "eyeball; pupil of eye"
+        },
+        {
+            "language": "德语",
+            "explanation": "Augapfel  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "oeil,globe oculaire"
+        }
+    ],
+    "general_pinyins": [
+        "jīng"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄥ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "775B",
+            "2511111212511"
+        ],
+        "char_code_wubi": "hgeg",
+        "char_code_cangjie": "buqmb",
+        "char_code_zhengma": "lcq",
+        "char_code_sijiao": "65027"
+    },
+    "general_unicode": "基本区 U+775B",
+    "general_bs_code": "2511111212511"
+}

@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "turnip"
+        },
+        {
+            "language": "法语",
+            "explanation": "navet"
+        }
+    ],
+    "general_pinyins": [
+        "fú"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦻉"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "83D4",
+            "12235115254"
+        ],
+        "char_code_wubi": "aebc",
+        "char_code_cangjie": "tbse",
+        "char_code_zhengma": "eqyx",
+        "char_code_sijiao": "44247"
+    },
+    "general_unicode": "基本区 U+83D4",
+    "general_bs_code": "12235115254"
+}

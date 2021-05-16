@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "xián"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "彳",
+        "non_radical_sn": "14",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2258B",
+            "33212125121132112"
+        ],
+        "char_code_wubi": "tflh",
+        "char_code_cangjie": "hogtn",
+        "char_code_zhengma": "oike"
+    },
+    "general_unicode": "扩展B U+2258B",
+    "general_bs_code": "33212125121132112"
+}

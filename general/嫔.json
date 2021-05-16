@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "court lady; palace maid"
+        },
+        {
+            "language": "法语",
+            "explanation": "épouse"
+        }
+    ],
+    "general_pinyins": [
+        "pín"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "嬪"
+    ],
+    "general_ytz": [
+        "嬪",
+        "娦",
+        "𡣑",
+        "𡣕",
+        "𡤁",
+        "𡜷",
+        "𨊕"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5AD4",
+            "5314453212134"
+        ],
+        "char_code_wubi": "vprw",
+        "char_code_cangjie": "vjoc",
+        "char_code_zhengma": "zmpo",
+        "char_code_sijiao": "43481"
+    },
+    "general_unicode": "基本区 U+5AD4",
+    "general_bs_code": "5314453212134"
+}

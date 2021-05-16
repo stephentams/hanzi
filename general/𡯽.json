@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "gà"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "尢",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左下包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "21BFD",
+            "135131251534"
+        ],
+        "char_code_wubi": "dndt",
+        "char_code_cangjie": "kuihr",
+        "char_code_zhengma": "graj"
+    },
+    "general_unicode": "扩展B U+21BFD",
+    "general_bs_code": "135131251534"
+}

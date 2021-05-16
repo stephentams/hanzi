@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sound"
+        },
+        {
+            "language": "德语",
+            "explanation": "waschen, wässern ,ausbleichen, bleichen"
+        }
+    ],
+    "general_pinyins": [
+        "píng"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "泙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6D34",
+            "441431132"
+        ],
+        "char_code_wubi": "iuah",
+        "char_code_cangjie": "ett",
+        "char_code_zhengma": "vue",
+        "char_code_sijiao": "38141"
+    },
+    "general_unicode": "基本区 U+6D34",
+    "general_bs_code": "441431132"
+}

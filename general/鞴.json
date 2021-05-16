@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "saddle up horse; drive horse"
+        }
+    ],
+    "general_pinyins": [
+        "bèi"
+    ],
+    "general_zhuyins": [
+        "ㄅㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "革",
+        "non_radical_sn": "10",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𩌎",
+        "𩍁",
+        "𩍘",
+        "𩎬",
+        "韛",
+        "𩏦",
+        "𫖉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "97B4",
+            "1221251121221325112"
+        ],
+        "char_code_wubi": "afae",
+        "char_code_cangjie": "tjthb",
+        "char_code_zhengma": "eeml",
+        "char_code_sijiao": "44527"
+    },
+    "general_unicode": "基本区 U+97B4",
+    "general_bs_code": "1221251121221325112"
+}

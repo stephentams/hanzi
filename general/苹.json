@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "artemisia; duckweed; apple"
+        },
+        {
+            "language": "德语",
+            "explanation": "Wasserlinse, kleine, Entenflott  (S, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "pomme"
+        }
+    ],
+    "general_pinyins": [
+        "píng",
+        "pēng"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧㄥˊ",
+        "ㄆㄥ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "蘋"
+    ],
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "82F9",
+            "12214312"
+        ],
+        "char_code_wubi": "aguh|aguf",
+        "char_code_cangjie": "tmfj",
+        "char_code_zhengma": "eaua",
+        "char_code_sijiao": "44409"
+    },
+    "general_unicode": "基本区 U+82F9",
+    "general_bs_code": "12214312"
+}

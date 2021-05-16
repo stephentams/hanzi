@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a weir of bamboo to catch fish or crabs"
+        },
+        {
+            "language": "法语",
+            "explanation": "barrage en bambou,piège à poissons"
+        }
+    ],
+    "general_pinyins": [
+        "duàn"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "18",
+        "total_sn": "24"
+    },
+    "general_stc": [
+        "簖"
+    ],
+    "general_ytz": [
+        "斷",
+        "簖"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7C6A",
+            "314314554554155455453312"
+        ],
+        "char_code_wubi": "txxr",
+        "char_code_cangjie": "hvil",
+        "char_code_zhengma": "mzzp",
+        "char_code_sijiao": "88721"
+    },
+    "general_unicode": "基本区 U+7C6A",
+    "general_bs_code": "314314554554155455453312"
+}

@@ -1,0 +1,59 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "paste, stick on with paste"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kleister, Kleber, Klebstoff  (S, Chem)​,kleben, kleistern, leimen  (V)​,angebrannt, überkocht  (Adj, Ess)​,vermasselt, verwirrt  (Adj)​,vermasselte, verwirrte ,Futterbrei  (S)​,Maische  (S)​,Brei, Mus, Paste, Futterbrei  (S, Ess)​,Maische  (S, Bio)​,einfügen, kleben  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "coller,brûler en cuisant"
+        }
+    ],
+    "general_pinyins": [
+        "hū",
+        "hú",
+        "hù"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨ",
+        "ㄏㄨˊ",
+        "ㄏㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "米",
+        "non_radical_sn": "9",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䉿",
+        "䊀",
+        "餬",
+        "𩰯",
+        "𩱍",
+        "𩱒",
+        "煳",
+        "𥹽",
+        "𪍒",
+        "𪏳",
+        "𪏻",
+        "𪐉"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7CCA",
+            "431234122513511"
+        ],
+        "char_code_wubi": "odeg",
+        "char_code_cangjie": "fdjrb",
+        "char_code_zhengma": "ufjq",
+        "char_code_sijiao": "97920"
+    },
+    "general_unicode": "基本区 U+7CCA",
+    "general_bs_code": "431234122513511"
+}

@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "flat; tablet, signboard"
+        },
+        {
+            "language": "德语",
+            "explanation": "flach (bian3)​ ,Nachen"
+        },
+        {
+            "language": "法语",
+            "explanation": "plat (adj.)​ (arch.)​"
+        }
+    ],
+    "general_pinyins": [
+        "biǎn",
+        "piān"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄢˇ",
+        "ㄆㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "户",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "褊",
+        "鶣",
+        "𡲜",
+        "匾",
+        "藊",
+        "𠓫",
+        "𡈯"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6241",
+            "451325122"
+        ],
+        "char_code_wubi": "ynma",
+        "char_code_cangjie": "hsbt",
+        "char_code_zhengma": "wmld",
+        "char_code_sijiao": "30227"
+    },
+    "general_unicode": "基本区 U+6241",
+    "general_bs_code": "451325122"
+}

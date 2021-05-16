@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 婆) an older woman, mother of one's husband, one's grandmother"
+        }
+    ],
+    "general_pinyins": [
+        "fú",
+        "pó"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˊ",
+        "ㄆㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "婆"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3711",
+            "4411251124531"
+        ],
+        "char_code_wubi": "igev|isvf",
+        "char_code_cangjie": "ebv",
+        "char_code_zhengma": "vfzm",
+        "char_code_sijiao": "33404"
+    },
+    "general_unicode": "扩展A U+3711",
+    "general_bs_code": "4411251124531"
+}

@@ -1,0 +1,57 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "silkworms"
+        },
+        {
+            "language": "德语",
+            "explanation": "Seidenspinner"
+        },
+        {
+            "language": "法语",
+            "explanation": "ver à soie,toute chenille à cocon"
+        }
+    ],
+    "general_pinyins": [
+        "cán"
+    ],
+    "general_zhuyins": [
+        "ㄘㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "蠶"
+    ],
+    "general_ytz": [
+        "𧉂",
+        "𧉕",
+        "蠶",
+        "蝅",
+        "蠺",
+        "䗝",
+        "䗞",
+        "䘉",
+        "𧉏",
+        "𧌩",
+        "𧑯",
+        "𧕽"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8695",
+            "1134251214"
+        ],
+        "char_code_wubi": "gdju",
+        "char_code_cangjie": "hklmi",
+        "char_code_zhengma": "agi",
+        "char_code_sijiao": "10136"
+    },
+    "general_unicode": "基本区 U+8695",
+    "general_bs_code": "1134251214"
+}

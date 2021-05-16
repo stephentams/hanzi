@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a sickle"
+        },
+        {
+            "language": "德语",
+            "explanation": "Mähmesser, Sichel  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "faucille"
+        }
+    ],
+    "general_pinyins": [
+        "zhì"
+    ],
+    "general_zhuyins": [
+        "ㄓˋ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "銍"
+    ],
+    "general_ytz": [
+        "銍",
+        "䬹",
+        "𨧓",
+        "𨧵",
+        "𨫐"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94DA",
+            "31115154121"
+        ],
+        "char_code_wubi": "qgcf",
+        "char_code_cangjie": "opmig",
+        "char_code_zhengma": "phb",
+        "char_code_sijiao": "81714"
+    },
+    "general_unicode": "基本区 U+94DA",
+    "general_bs_code": "31115154121"
+}

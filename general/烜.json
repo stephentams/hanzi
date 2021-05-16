@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "light of the sun; to dry in the sun"
+        },
+        {
+            "language": "德语",
+            "explanation": "großartig, brillant"
+        }
+    ],
+    "general_pinyins": [
+        "xuǎn"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤉑",
+        "𤌓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "70DC",
+            "4334125111"
+        ],
+        "char_code_wubi": "ogjg",
+        "char_code_cangjie": "fmam",
+        "char_code_zhengma": "uobk",
+        "char_code_sijiao": "91816"
+    },
+    "general_unicode": "基本区 U+70DC",
+    "general_bs_code": "4334125111"
+}

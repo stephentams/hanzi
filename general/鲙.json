@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "minced fish; hash"
+        }
+    ],
+    "general_pinyins": [
+        "kuài"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "6",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "鱠"
+    ],
+    "general_ytz": [
+        "鱠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9C99",
+            "35251211341154"
+        ],
+        "char_code_wubi": "qgwc",
+        "char_code_cangjie": "nmomi",
+        "char_code_zhengma": "robz",
+        "char_code_sijiao": "28132"
+    },
+    "general_unicode": "基本区 U+9C99",
+    "general_bs_code": "35251211341154"
+}

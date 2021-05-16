@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "小",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "嘗"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "21BA2",
+            "24345251412511"
+        ],
+        "char_code_wubi": "ipkj",
+        "char_code_cangjie": "fbra",
+        "char_code_zhengma": "kosk"
+    },
+    "general_unicode": "扩展B U+21BA2",
+    "general_bs_code": "24345251412511"
+}

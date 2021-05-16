@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "table, desk, stand"
+        }
+    ],
+    "general_pinyins": [
+        "zhuō"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨㄛ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "卓",
+        "棹",
+        "槕"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "684C",
+            "2125111234"
+        ],
+        "char_code_wubi": "hjsu",
+        "char_code_cangjie": "yad",
+        "char_code_zhengma": "idkf",
+        "char_code_sijiao": "21904"
+    },
+    "general_unicode": "基本区 U+684C",
+    "general_bs_code": "2125111234"
+}

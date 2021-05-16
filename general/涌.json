@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "surge up, bubble up, gush forth"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufsteigen, hochsteigen, emporsteigen  (V)​,fluten, strömen, vorwärtsdrängen  (V)​,sprudeln, hervorquellen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(utilisés dans les noms de lieux)​"
+        }
+    ],
+    "general_pinyins": [
+        "yǒng",
+        "chōng"
+    ],
+    "general_zhuyins": [
+        "ㄩㄥˇ",
+        "ㄔㄨㄥ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "湧"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6D8C",
+            "4415425112"
+        ],
+        "char_code_wubi": "iceh",
+        "char_code_cangjie": "enib",
+        "char_code_zhengma": "vxld",
+        "char_code_sijiao": "37127"
+    },
+    "general_unicode": "基本区 U+6D8C",
+    "general_bs_code": "4415425112"
+}

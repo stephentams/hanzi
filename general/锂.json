@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lithium"
+        },
+        {
+            "language": "德语",
+            "explanation": "Lithium (Element 3, Li)​ (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "lithium"
+        }
+    ],
+    "general_pinyins": [
+        "lǐ"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "鋰"
+    ],
+    "general_ytz": [
+        "鋰"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9502",
+            "311152511211"
+        ],
+        "char_code_wubi": "qjfg",
+        "char_code_cangjie": "opwg",
+        "char_code_zhengma": "pkb",
+        "char_code_sijiao": "86715"
+    },
+    "general_unicode": "基本区 U+9502",
+    "general_bs_code": "311152511211"
+}

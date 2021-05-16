@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "help, assist; connect, adjoin"
+        },
+        {
+            "language": "德语",
+            "explanation": "angrenzen, nebeneinander liegen"
+        }
+    ],
+    "general_pinyins": [
+        "pí"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "比",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䀝",
+        "毘",
+        "𣬈",
+        "𣬉",
+        "𣬖",
+        "𤰨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6BD7",
+            "251211535"
+        ],
+        "char_code_wubi": "lxxn",
+        "char_code_cangjie": "wpp",
+        "char_code_zhengma": "kirr",
+        "char_code_sijiao": "62010"
+    },
+    "general_unicode": "基本区 U+6BD7",
+    "general_bs_code": "251211535"
+}

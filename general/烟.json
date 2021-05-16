@@ -1,0 +1,58 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "smoke, soot; opium; tobacco, cigarettes"
+        },
+        {
+            "language": "德语",
+            "explanation": "Qualm  (S)​,Rauch, Nebel  (S)​,Zigarette  (S)​,Zigarre  (S)​,Rauch"
+        },
+        {
+            "language": "法语",
+            "explanation": "fumée,brouillard,vapeur"
+        }
+    ],
+    "general_pinyins": [
+        "yān"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "煙"
+    ],
+    "general_ytz": [
+        "焑",
+        "煙",
+        "菸",
+        "㷑",
+        "𠖜",
+        "𠖣",
+        "𡇽",
+        "𡨾",
+        "𡫈",
+        "𤊗",
+        "𤎆",
+        "𤏯",
+        "𤇆"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "70DF",
+            "4334251341"
+        ],
+        "char_code_wubi": "oldy",
+        "char_code_cangjie": "fwk",
+        "char_code_zhengma": "uojd",
+        "char_code_sijiao": "96800"
+    },
+    "general_unicode": "基本区 U+70DF",
+    "general_bs_code": "4334251341"
+}

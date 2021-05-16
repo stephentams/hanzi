@@ -1,0 +1,56 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wrist"
+        },
+        {
+            "language": "德语",
+            "explanation": "Handgelenk  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "poignet"
+        }
+    ],
+    "general_pinyins": [
+        "wàn"
+    ],
+    "general_zhuyins": [
+        "ㄨㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䯛",
+        "捥",
+        "掔",
+        "𢫪",
+        "𢮗",
+        "𢮘",
+        "𢯫",
+        "𢯲",
+        "𥆶",
+        "𦙵",
+        "𦛥",
+        "𦞿",
+        "𢪸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8155",
+            "351144535455"
+        ],
+        "char_code_wubi": "epqb",
+        "char_code_cangjie": "bjnu",
+        "char_code_zhengma": "qwry",
+        "char_code_sijiao": "73212"
+    },
+    "general_unicode": "基本区 U+8155",
+    "general_bs_code": "351144535455"
+}

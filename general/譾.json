@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "shallow; stupid"
+        },
+        {
+            "language": "德语",
+            "explanation": "blödsinnig, dumm"
+        },
+        {
+            "language": "法语",
+            "explanation": "peu profond,stupide"
+        }
+    ],
+    "general_pinyins": [
+        "jiǎn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "言",
+        "non_radical_sn": "15",
+        "total_sn": "22"
+    },
+    "general_stc": [
+        "谫"
+    ],
+    "general_ytz": [
+        "謭",
+        "𧫌"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8B7E",
+            "4111251431251122541541"
+        ],
+        "char_code_wubi": "yuen",
+        "char_code_cangjie": "yrtbm",
+        "char_code_zhengma": "suyy",
+        "char_code_sijiao": "08627"
+    },
+    "general_unicode": "基本区 U+8B7E",
+    "general_bs_code": "4111251431251122541541"
+}

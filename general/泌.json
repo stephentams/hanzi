@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to seep out, excrete"
+        },
+        {
+            "language": "德语",
+            "explanation": "absondern, abscheiden  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "sécréter"
+        }
+    ],
+    "general_pinyins": [
+        "mì",
+        "bì"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧˋ",
+        "ㄅㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "泌"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6CCC",
+            "44145434"
+        ],
+        "char_code_wubi": "intt",
+        "char_code_cangjie": "eph",
+        "char_code_zhengma": "vwm",
+        "char_code_sijiao": "33104"
+    },
+    "general_unicode": "基本区 U+6CCC",
+    "general_bs_code": "44145434"
+}

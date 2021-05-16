@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "yǒu",
+        "yòu"
+    ],
+    "general_zhuyins": [
+        "ㄧㄡˇ",
+        "ㄧㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "又",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2A825"
+        ],
+        "char_code_zhengma": "bzko"
+    },
+    "general_unicode": "扩展C U+2A825"
+}

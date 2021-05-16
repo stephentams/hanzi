@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "strike, hit, beat; attack, fight"
+        },
+        {
+            "language": "德语",
+            "explanation": "angreifen, prügeln, schlagen  (V, Med)​,Schlag, Stoss"
+        },
+        {
+            "language": "法语",
+            "explanation": "battre,frapper,attaquer"
+        }
+    ],
+    "general_pinyins": [
+        "jī"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧ"
+    ],
+    "general_radical": {
+        "radical": "凵",
+        "non_radical_sn": "3",
+        "total_sn": "5"
+    },
+    "general_stc": [
+        "擊"
+    ],
+    "general_ytz": [
+        "擊",
+        "撃",
+        "𢱣"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "51FB",
+            "11252"
+        ],
+        "char_code_wubi": "fmk|gbk",
+        "char_code_cangjie": "qu",
+        "char_code_zhengma": "bizi",
+        "char_code_sijiao": "50772"
+    },
+    "general_unicode": "基本区 U+51FB",
+    "general_bs_code": "11252"
+}

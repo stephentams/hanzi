@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "window; lead enlightenment"
+        },
+        {
+            "language": "德语",
+            "explanation": "erleuchten ,Gitterfenster  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "fenêtre,diriger"
+        }
+    ],
+    "general_pinyins": [
+        "yǒu"
+    ],
+    "general_zhuyins": [
+        "ㄧㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "片",
+        "non_radical_sn": "11",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㰃",
+        "𤗱",
+        "牗"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7256",
+            "321545131251124"
+        ],
+        "char_code_wubi": "thgy|thgs",
+        "char_code_cangjie": "lnisb",
+        "char_code_zhengma": "nxwf",
+        "char_code_sijiao": "23027"
+    },
+    "general_unicode": "基本区 U+7256",
+    "general_bs_code": "321545131251124"
+}

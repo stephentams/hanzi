@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "the sides of a boat, bulwarks; a gunwale"
+        },
+        {
+            "language": "法语",
+            "explanation": "flanc d'un vaisseau,bord"
+        }
+    ],
+    "general_pinyins": [
+        "xián"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "舟",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8237",
+            "33541441554"
+        ],
+        "char_code_wubi": "teyx|tuyx",
+        "char_code_cangjie": "hyyvi",
+        "char_code_zhengma": "pyzz",
+        "char_code_sijiao": "20432"
+    },
+    "general_unicode": "基本区 U+8237",
+    "general_bs_code": "33541441554"
+}

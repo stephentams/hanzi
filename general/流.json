@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "flow, circulate, drift; class"
+        },
+        {
+            "language": "德语",
+            "explanation": "fließen  (V)​,strömen  (V)​,zirkulieren  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "courant,ordre,catégorie,couler"
+        }
+    ],
+    "general_pinyins": [
+        "liú"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㳅",
+        "𡵰",
+        "𣲖",
+        "𣳛",
+        "𣴑",
+        "𣹭",
+        "𣹳",
+        "𣻤",
+        "流",
+        "流"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6D41",
+            "4414154325"
+        ],
+        "char_code_wubi": "iycq|iyck",
+        "char_code_cangjie": "eyiu",
+        "char_code_zhengma": "vszn",
+        "char_code_sijiao": "30112"
+    },
+    "general_unicode": "基本区 U+6D41",
+    "general_bs_code": "4414154325"
+}

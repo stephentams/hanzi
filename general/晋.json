@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "advance, increase; promote"
+        },
+        {
+            "language": "德语",
+            "explanation": "befördert werden, aufsteigen  (V)​,eintreten, vorgehen, vorrücken  (V)​,Jin  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "avancer,promouvoir"
+        }
+    ],
+    "general_pinyins": [
+        "jìn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "晉"
+    ],
+    "general_ytz": [
+        "晉",
+        "㬐",
+        "㬜",
+        "𡥨",
+        "𣈆",
+        "𣋤",
+        "𣋧",
+        "𣌇",
+        "𦗎"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "664B",
+            "1224312511"
+        ],
+        "char_code_wubi": "gogj|gojf",
+        "char_code_cangjie": "mca",
+        "char_code_zhengma": "akk",
+        "char_code_sijiao": "10601"
+    },
+    "general_unicode": "基本区 U+664B",
+    "general_bs_code": "1224312511"
+}

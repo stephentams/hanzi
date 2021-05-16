@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "gentleman, young man; husband"
+        },
+        {
+            "language": "法语",
+            "explanation": "jeune homme,monsieur,maître"
+        }
+    ],
+    "general_pinyins": [
+        "láng",
+        "làng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄤˊ",
+        "ㄌㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "郞",
+        "𨝥",
+        "郒",
+        "郎"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "90CE",
+            "45115452"
+        ],
+        "char_code_wubi": "yvcb|yvbh",
+        "char_code_cangjie": "iinl",
+        "char_code_zhengma": "sxy",
+        "char_code_sijiao": "37727"
+    },
+    "general_unicode": "基本区 U+90CE",
+    "general_bs_code": "45115452"
+}

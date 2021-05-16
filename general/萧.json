@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "common artemisia; dejected"
+        },
+        {
+            "language": "德语",
+            "explanation": "traurig ,Xiao  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "triste,désert"
+        }
+    ],
+    "general_pinyins": [
+        "xiāo"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "蕭"
+    ],
+    "general_ytz": [
+        "蕭",
+        "䔥",
+        "𦘤"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8427",
+            "12251123234"
+        ],
+        "char_code_wubi": "avij|avhw",
+        "char_code_cangjie": "tlll",
+        "char_code_zhengma": "exno",
+        "char_code_sijiao": "44227"
+    },
+    "general_unicode": "基本区 U+8427",
+    "general_bs_code": "12251123234"
+}

@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cricket, locust; anxious"
+        },
+        {
+            "language": "德语",
+            "explanation": "ängstlich, bange ,Grashüpfer  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "anxieux,sauterelle,criquet"
+        }
+    ],
+    "general_pinyins": [
+        "qióng"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "6",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧏒",
+        "𧎦",
+        "𧌪",
+        "𧋳",
+        "𧋯",
+        "𧊮",
+        "𧊡",
+        "𧉨",
+        "蛬",
+        "𧋄"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "86E9",
+            "121354251214"
+        ],
+        "char_code_wubi": "amyj|awyj",
+        "char_code_cangjie": "mnlmi",
+        "char_code_zhengma": "biqi",
+        "char_code_sijiao": "17136"
+    },
+    "general_unicode": "基本区 U+86E9",
+    "general_bs_code": "121354251214"
+}

@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "jié"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "弓",
+        "non_radical_sn": "1",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "223A1",
+            "5154"
+        ],
+        "char_code_wubi": "xyy",
+        "char_code_cangjie": "no",
+        "char_code_zhengma": "yzs"
+    },
+    "general_unicode": "扩展B U+223A1",
+    "general_bs_code": "5154"
+}

@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "type of oak; stable"
+        },
+        {
+            "language": "法语",
+            "explanation": "auge d'écurie"
+        }
+    ],
+    "general_pinyins": [
+        "lì"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "櫪"
+    ],
+    "general_ytz": [
+        "櫪",
+        "𣙽"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "67A5",
+            "12341353"
+        ],
+        "char_code_wubi": "sdln|sdet",
+        "char_code_cangjie": "dmks",
+        "char_code_zhengma": "fgym",
+        "char_code_sijiao": "41927"
+    },
+    "general_unicode": "基本区 U+67A5",
+    "general_bs_code": "12341353"
+}

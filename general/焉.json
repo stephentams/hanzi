@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "thereupon, then; how? why? where?"
+        },
+        {
+            "language": "德语",
+            "explanation": "inwiefern, wie"
+        },
+        {
+            "language": "法语",
+            "explanation": "(employé à la fin d'une phrase)​,comment,seulement,ici,cela"
+        }
+    ],
+    "general_pinyins": [
+        "yān"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "灬",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤇟",
+        "𩾏"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7109",
+            "12121154444"
+        ],
+        "char_code_wubi": "ghgo",
+        "char_code_cangjie": "mylf",
+        "char_code_zhengma": "aizu",
+        "char_code_sijiao": "10327"
+    },
+    "general_unicode": "基本区 U+7109",
+    "general_bs_code": "12121154444"
+}

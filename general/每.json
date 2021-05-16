@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "every, each"
+        },
+        {
+            "language": "德语",
+            "explanation": "je, pro,oft, wiederholt,jeder (jede, jedes)​ (Pron)"
+        },
+        {
+            "language": "法语",
+            "explanation": "chaque,chacun,tous"
+        }
+    ],
+    "general_pinyins": [
+        "měi"
+    ],
+    "general_zhuyins": [
+        "ㄇㄟˇ"
+    ],
+    "general_radical": {
+        "radical": "母",
+        "non_radical_sn": "2",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "毎",
+        "𡴋",
+        "𡴕",
+        "𣫭"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6BCF",
+            "3155414"
+        ],
+        "char_code_wubi": "txgu|txu",
+        "char_code_cangjie": "owyi",
+        "char_code_zhengma": "mazy",
+        "char_code_sijiao": "80757"
+    },
+    "general_unicode": "基本区 U+6BCF",
+    "general_bs_code": "3155414"
+}

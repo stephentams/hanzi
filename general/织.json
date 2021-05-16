@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "weave, knit; organize, unite"
+        },
+        {
+            "language": "德语",
+            "explanation": "broschieren, sticken  (V)​,flechten  (V)​,stricken  (V)​,weben  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tisser,tricoter"
+        }
+    ],
+    "general_pinyins": [
+        "zhī",
+        "zhì"
+    ],
+    "general_zhuyins": [
+        "ㄓ",
+        "ㄓˋ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "織"
+    ],
+    "general_ytz": [
+        "織",
+        "綕",
+        "𥿗",
+        "𦀂",
+        "𦀗",
+        "𦁋",
+        "𦃎"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EC7",
+            "55125134"
+        ],
+        "char_code_wubi": "xkwy",
+        "char_code_cangjie": "vmrc",
+        "char_code_zhengma": "zjo",
+        "char_code_sijiao": "26180"
+    },
+    "general_unicode": "基本区 U+7EC7",
+    "general_bs_code": "55125134"
+}

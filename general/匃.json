@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "beggar; beg; give"
+        }
+    ],
+    "general_pinyins": [
+        "gài"
+    ],
+    "general_zhuyins": [
+        "ㄍㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "勹",
+        "non_radical_sn": "3",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "丐"
+    ],
+    "general_structure": "右上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5303",
+            "35345"
+        ],
+        "char_code_wubi": "qwnv",
+        "char_code_cangjie": "pvo",
+        "char_code_zhengma": "rya",
+        "char_code_sijiao": "27720"
+    },
+    "general_unicode": "基本区 U+5303",
+    "general_bs_code": "35345"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "soak, steep; dye; stains; sodden"
+        },
+        {
+            "language": "德语",
+            "explanation": "durchdringen, durchfeuchten"
+        },
+        {
+            "language": "法语",
+            "explanation": "tremper,confire,tache"
+        }
+    ],
+    "general_pinyins": [
+        "zì"
+    ],
+    "general_zhuyins": [
+        "ㄗˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "漬"
+    ],
+    "general_ytz": [
+        "漬",
+        "𣿙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6E0D",
+            "44111212534"
+        ],
+        "char_code_wubi": "igmy",
+        "char_code_cangjie": "eqmo",
+        "char_code_zhengma": "vclo",
+        "char_code_sijiao": "35182"
+    },
+    "general_unicode": "基本区 U+6E0D",
+    "general_bs_code": "44111212534"
+}

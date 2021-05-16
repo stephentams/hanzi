@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "queen, empress, sovereign"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kaiserin (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "arrière,descendant,descendance,génération future,reine,derrière,après,ensuite"
+        }
+    ],
+    "general_pinyins": [
+        "hòu"
+    ],
+    "general_zhuyins": [
+        "ㄏㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "後"
+    ],
+    "general_ytz": [
+        "後"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "540E",
+            "331251"
+        ],
+        "char_code_wubi": "rgkd",
+        "char_code_cangjie": "hmr",
+        "char_code_zhengma": "pdaj",
+        "char_code_sijiao": "72261"
+    },
+    "general_unicode": "基本区 U+540E",
+    "general_bs_code": "331251"
+}

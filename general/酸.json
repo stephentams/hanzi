@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tart, sour; acid; stiff; spoiled"
+        },
+        {
+            "language": "德语",
+            "explanation": "Säure ,Säuren ,sauer  (Adj, Ess)"
+        },
+        {
+            "language": "法语",
+            "explanation": "acide,aigre,peiné"
+        }
+    ],
+    "general_pinyins": [
+        "suān"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨㄢ"
+    ],
+    "general_radical": {
+        "radical": "酉",
+        "non_radical_sn": "7",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨢽",
+        "𨣪",
+        "痠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9178",
+            "12535115434354"
+        ],
+        "char_code_wubi": "sgct",
+        "char_code_cangjie": "mwice",
+        "char_code_zhengma": "fdor",
+        "char_code_sijiao": "13647"
+    },
+    "general_unicode": "基本区 U+9178",
+    "general_bs_code": "12535115434354"
+}

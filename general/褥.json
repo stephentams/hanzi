@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mattress, cushion; bedding"
+        },
+        {
+            "language": "德语",
+            "explanation": "Matratze  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "matelas,natte"
+        }
+    ],
+    "general_pinyins": [
+        "rù"
+    ],
+    "general_zhuyins": [
+        "ㄖㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "衤",
+        "non_radical_sn": "10",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "縟",
+        "蓐",
+        "𣯋"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8925",
+            "452341311534124"
+        ],
+        "char_code_wubi": "pudf",
+        "char_code_cangjie": "lmvi",
+        "char_code_zhengma": "wtgd",
+        "char_code_sijiao": "31243"
+    },
+    "general_unicode": "基本区 U+8925",
+    "general_bs_code": "452341311534124"
+}

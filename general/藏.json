@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hide, conceal; hoard, store up"
+        },
+        {
+            "language": "德语",
+            "explanation": "verbergen, verstecken, verheimlichen  (V)​,bewahren, aufheben"
+        },
+        {
+            "language": "法语",
+            "explanation": "cacher,mettre de côté,emmagasiner,cachette,dépôt,écritures bouddhistes ou taoïstes,région du Tibet ou Xizang"
+        }
+    ],
+    "general_pinyins": [
+        "cáng",
+        "zàng"
+    ],
+    "general_zhuyins": [
+        "ㄘㄤˊ",
+        "ㄗㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "14",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "臟",
+        "𤖋",
+        "𢧿",
+        "𡍱",
+        "蔵",
+        "臧",
+        "匨",
+        "䒙"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "85CF",
+            "12213513125125534"
+        ],
+        "char_code_wubi": "adnt|aauh",
+        "char_code_cangjie": "tims",
+        "char_code_zhengma": "ehzh",
+        "char_code_sijiao": "44253"
+    },
+    "general_unicode": "基本区 U+85CF",
+    "general_bs_code": "12213513125125534"
+}

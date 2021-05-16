@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "throw ground; know, be familiar"
+        },
+        {
+            "language": "德语",
+            "explanation": "kaputtschlagen, zerschmettern"
+        },
+        {
+            "language": "法语",
+            "explanation": "avoir l'habitude de,jeter à terre,tomber,porter une armure"
+        }
+    ],
+    "general_pinyins": [
+        "guàn"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "摜"
+    ],
+    "general_ytz": [
+        "摜"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "63BC",
+            "12155212534"
+        ],
+        "char_code_wubi": "rxfm|rxmy",
+        "char_code_cangjie": "qwjo",
+        "char_code_zhengma": "dzlo",
+        "char_code_sijiao": "57082"
+    },
+    "general_unicode": "基本区 U+63BC",
+    "general_bs_code": "12155212534"
+}

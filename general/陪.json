@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "accompany, be with, keep company"
+        },
+        {
+            "language": "德语",
+            "explanation": "begleiten  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "accompagner,tenir compagnie à qqn"
+        }
+    ],
+    "general_pinyins": [
+        "péi"
+    ],
+    "general_zhuyins": [
+        "ㄆㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "賠",
+        "𨻓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "966A",
+            "5241431251"
+        ],
+        "char_code_wubi": "bukg",
+        "char_code_cangjie": "nlytr",
+        "char_code_zhengma": "ysj",
+        "char_code_sijiao": "70261"
+    },
+    "general_unicode": "基本区 U+966A",
+    "general_bs_code": "5241431251"
+}

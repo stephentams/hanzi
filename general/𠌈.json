@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "人",
+        "non_radical_sn": "10",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "侖"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "20308",
+            "341343425122"
+        ],
+        "char_code_wubi": "wgwa",
+        "char_code_cangjie": "omob",
+        "char_code_zhengma": "odol"
+    },
+    "general_unicode": "扩展B U+20308",
+    "general_bs_code": "341343425122"
+}

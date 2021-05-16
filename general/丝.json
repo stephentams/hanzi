@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "silk; fine thread; wire; strings"
+        },
+        {
+            "language": "德语",
+            "explanation": "Seide  (S)​,in Streifen geschnitten  (Adj, Ess)"
+        },
+        {
+            "language": "法语",
+            "explanation": "soie,fil,filament"
+        }
+    ],
+    "general_pinyins": [
+        "sī"
+    ],
+    "general_zhuyins": [
+        "ㄙ"
+    ],
+    "general_radical": {
+        "radical": "一",
+        "non_radical_sn": "4",
+        "total_sn": "5"
+    },
+    "general_stc": [
+        "絲"
+    ],
+    "general_ytz": [
+        "絲",
+        "𢇁"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4E1D",
+            "55551"
+        ],
+        "char_code_wubi": "xxgf",
+        "char_code_cangjie": "vvm",
+        "char_code_zhengma": "zzza",
+        "char_code_sijiao": "22101"
+    },
+    "general_unicode": "基本区 U+4E1D",
+    "general_bs_code": "55551"
+}

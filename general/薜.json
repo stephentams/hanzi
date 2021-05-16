@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "evergreen shrubs, ligusticum"
+        },
+        {
+            "language": "法语",
+            "explanation": "ficus"
+        }
+    ],
+    "general_pinyins": [
+        "bì"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "蘗"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "859C",
+            "1225132514143112"
+        ],
+        "char_code_wubi": "anku",
+        "char_code_cangjie": "tsrj",
+        "char_code_zhengma": "exjs",
+        "char_code_sijiao": "44241"
+    },
+    "general_unicode": "基本区 U+859C",
+    "general_bs_code": "1225132514143112"
+}

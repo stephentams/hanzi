@@ -1,0 +1,55 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fly; gallop; run; prance; rise"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufsteigen, sich erheben ,auseinander ziehen, ausziehen ,entspringen, anschwellen ,galoppieren ,herumhüpfen, herumtanzen ,schweben"
+        },
+        {
+            "language": "法语",
+            "explanation": "galoper,bondir,déplacer"
+        }
+    ],
+    "general_pinyins": [
+        "téng"
+    ],
+    "general_zhuyins": [
+        "ㄊㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "騰"
+    ],
+    "general_ytz": [
+        "騰",
+        "駦",
+        "驣",
+        "䠮",
+        "𠗲",
+        "𦫀",
+        "𩥱",
+        "𩦜",
+        "𩧔",
+        "𩧖"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "817E",
+            "3511431134551"
+        ],
+        "char_code_wubi": "eudc|eugg",
+        "char_code_cangjie": "bfqm",
+        "char_code_zhengma": "qux",
+        "char_code_sijiao": "79227"
+    },
+    "general_unicode": "基本区 U+817E",
+    "general_bs_code": "3511431134551"
+}

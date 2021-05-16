@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "oriole, green finch; Sylvia species (various)"
+        },
+        {
+            "language": "德语",
+            "explanation": "Grasmücke  (S, Bio)​,Rohrsänger (Cettia cantans)​  (S, Bio)"
+        }
+    ],
+    "general_pinyins": [
+        "yīng"
+    ],
+    "general_zhuyins": [
+        "ㄧㄥ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "鶯"
+    ],
+    "general_ytz": [
+        "鶯",
+        "鶑",
+        "鴬",
+        "鷪",
+        "鸎"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "83BA",
+            "1224535451"
+        ],
+        "char_code_wubi": "apqg",
+        "char_code_cangjie": "tbpm",
+        "char_code_zhengma": "ewrz",
+        "char_code_sijiao": "44127"
+    },
+    "general_unicode": "基本区 U+83BA",
+    "general_bs_code": "1224535451"
+}

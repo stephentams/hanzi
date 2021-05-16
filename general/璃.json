@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "glass"
+        },
+        {
+            "language": "德语",
+            "explanation": "Glas, Spiegel  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "lí"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "琍",
+        "瓈"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7483",
+            "11214134522554"
+        ],
+        "char_code_wubi": "gybc|gyrc",
+        "char_code_cangjie": "mgyub",
+        "char_code_zhengma": "cslz",
+        "char_code_sijiao": "10127"
+    },
+    "general_unicode": "基本区 U+7483",
+    "general_bs_code": "11214134522554"
+}

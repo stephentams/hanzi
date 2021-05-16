@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fungus, tuber; licorice"
+        },
+        {
+            "language": "德语",
+            "explanation": "Pilz  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tubercule,champignon"
+        }
+    ],
+    "general_pinyins": [
+        "líng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "蓮",
+        "䕘"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "82D3",
+            "12234454"
+        ],
+        "char_code_wubi": "awyc",
+        "char_code_cangjie": "toii",
+        "char_code_zhengma": "eow",
+        "char_code_sijiao": "44302"
+    },
+    "general_unicode": "基本区 U+82D3",
+    "general_bs_code": "12234454"
+}

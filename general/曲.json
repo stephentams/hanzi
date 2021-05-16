@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "crooked, bent; wrong, false"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 gekrümmt, falsch  (V)​,Beuge  (S)​,Lied  (S)​,Unrecht  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "qū",
+        "qǔ"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩ",
+        "ㄑㄩˇ"
+    ],
+    "general_radical": {
+        "radical": "曰",
+        "non_radical_sn": "2",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䒼",
+        "𠚖",
+        "𨴈",
+        "麯",
+        "粬"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "66F2",
+            "251221"
+        ],
+        "char_code_wubi": "mad",
+        "char_code_cangjie": "tw",
+        "char_code_zhengma": "kkd",
+        "char_code_sijiao": "55600"
+    },
+    "general_unicode": "基本区 U+66F2",
+    "general_bs_code": "251221"
+}

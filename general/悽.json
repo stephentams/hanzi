@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sorrowful, grieved, melancholy"
+        },
+        {
+            "language": "德语",
+            "explanation": "betrübt, traurig"
+        },
+        {
+            "language": "法语",
+            "explanation": "lugubre,sombre,triste,lugubre,lamentable"
+        }
+    ],
+    "general_pinyins": [
+        "qī"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "恓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "60BD",
+            "44215112531"
+        ],
+        "char_code_wubi": "ngvv",
+        "char_code_cangjie": "pjlv",
+        "char_code_zhengma": "uaxz",
+        "char_code_sijiao": "95044"
+    },
+    "general_unicode": "基本区 U+60BD",
+    "general_bs_code": "44215112531"
+}

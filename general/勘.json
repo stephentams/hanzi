@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "investigate; compare; collate"
+        },
+        {
+            "language": "德语",
+            "explanation": "erkunden, prüfen, inspizieren, untersuchen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "examiner"
+        }
+    ],
+    "general_pinyins": [
+        "kān"
+    ],
+    "general_zhuyins": [
+        "ㄎㄢ"
+    ],
+    "general_radical": {
+        "radical": "力",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "戡"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "52D8",
+            "12211134553"
+        ],
+        "char_code_wubi": "adwl|dwne",
+        "char_code_cangjie": "tvks",
+        "char_code_zhengma": "eczy",
+        "char_code_sijiao": "44727"
+    },
+    "general_unicode": "基本区 U+52D8",
+    "general_bs_code": "12211134553"
+}

@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "slide, glide, slip; slippery"
+        },
+        {
+            "language": "德语",
+            "explanation": "Rollschuh laufen ,entwischen  (V)​,(weg)​schleichen"
+        },
+        {
+            "language": "法语",
+            "explanation": "couler,glisser,s'esquiver,partir en douce,glissant,courant,traînée"
+        }
+    ],
+    "general_pinyins": [
+        "liū",
+        "liù"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄡ",
+        "ㄌㄧㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "澑",
+        "瀏",
+        "蹓",
+        "𤄐",
+        "遛",
+        "霤",
+        "溜"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6E9C",
+            "4413545325121"
+        ],
+        "char_code_wubi": "iqyl",
+        "char_code_cangjie": "ehhw",
+        "char_code_zhengma": "vryk",
+        "char_code_sijiao": "37162"
+    },
+    "general_unicode": "基本区 U+6E9C",
+    "general_bs_code": "4413545325121"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "millipede"
+        },
+        {
+            "language": "德语",
+            "explanation": "Spinnenläufer"
+        },
+        {
+            "language": "法语",
+            "explanation": "scolopendre"
+        }
+    ],
+    "general_pinyins": [
+        "yóu"
+    ],
+    "general_zhuyins": [
+        "ㄧㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧏿"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "86B0",
+            "25121425121"
+        ],
+        "char_code_wubi": "jmg",
+        "char_code_cangjie": "lilw",
+        "char_code_zhengma": "ikia",
+        "char_code_sijiao": "55160"
+    },
+    "general_unicode": "基本区 U+86B0",
+    "general_bs_code": "25121425121"
+}

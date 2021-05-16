@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lose; articles lost; omit"
+        },
+        {
+            "language": "德语",
+            "explanation": "hinterlassen, zurücklassen ,verlieren"
+        },
+        {
+            "language": "法语",
+            "explanation": "perdre,abandonner,laisser,léguer,transmettre,omettre"
+        }
+    ],
+    "general_pinyins": [
+        "yí"
+    ],
+    "general_zhuyins": [
+        "ㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "遺"
+    ],
+    "general_ytz": [
+        "遺",
+        "𧸃",
+        "𧸯",
+        "𧸽",
+        "𨖽",
+        "𨗔",
+        "𨗭",
+        "𨗮",
+        "𨘤"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9057",
+            "251212534454"
+        ],
+        "char_code_wubi": "khgp",
+        "char_code_cangjie": "ylmo",
+        "char_code_zhengma": "jilw",
+        "char_code_sijiao": "35308"
+    },
+    "general_unicode": "基本区 U+9057",
+    "general_bs_code": "251212534454"
+}

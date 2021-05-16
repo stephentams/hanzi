@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rice growing in field, rice plant"
+        },
+        {
+            "language": "德语",
+            "explanation": "Reis  (Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "riz,paddy"
+        }
+    ],
+    "general_pinyins": [
+        "dào"
+    ],
+    "general_zhuyins": [
+        "ㄉㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "10",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "稲",
+        "𮇷"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7A3B",
+            "312343443321511"
+        ],
+        "char_code_wubi": "tevg|teeg",
+        "char_code_cangjie": "hdbhx",
+        "char_code_zhengma": "mfpn",
+        "char_code_sijiao": "22977"
+    },
+    "general_unicode": "基本区 U+7A3B",
+    "general_bs_code": "312343443321511"
+}

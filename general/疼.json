@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "aches, pains; be fond of; love"
+        },
+        {
+            "language": "德语",
+            "explanation": "schmerzen, weh tun; sehr lieb haben  (V)​,Schmerz  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "avoir mal,(qch)​ faire mal,chérir,douloureux,endolori"
+        }
+    ],
+    "general_pinyins": [
+        "téng"
+    ],
+    "general_zhuyins": [
+        "ㄊㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "痋",
+        "𤹤",
+        "𤻴",
+        "𤼆",
+        "𦙭"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "75BC",
+            "4134135444"
+        ],
+        "char_code_wubi": "utui",
+        "char_code_cangjie": "khey",
+        "char_code_zhengma": "trtd",
+        "char_code_sijiao": "00133"
+    },
+    "general_unicode": "基本区 U+75BC",
+    "general_bs_code": "4134135444"
+}

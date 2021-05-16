@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cart wheel with no spokes"
+        }
+    ],
+    "general_pinyins": [
+        "quán"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "车",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "輇"
+    ],
+    "general_ytz": [
+        "輇"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8F81",
+            "1521341121"
+        ],
+        "char_code_wubi": "lwgg",
+        "char_code_cangjie": "kqomg",
+        "char_code_zhengma": "heoc",
+        "char_code_sijiao": "48514"
+    },
+    "general_unicode": "基本区 U+8F81",
+    "general_bs_code": "1521341121"
+}

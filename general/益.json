@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "profit, benefit; advantage"
+        },
+        {
+            "language": "德语",
+            "explanation": "Vorteil, Nutzen, Überlegenheit  (S)​,nützlich, vorteilhaft  (Adj)​,noch mehr, in zunehmendem Maße"
+        },
+        {
+            "language": "法语",
+            "explanation": "profitable,avantageux,profit,avantage"
+        }
+    ],
+    "general_pinyins": [
+        "yì"
+    ],
+    "general_zhuyins": [
+        "ㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "皿",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "溢",
+        "𠍳",
+        "𦶩",
+        "鎰",
+        "㬲",
+        "益",
+        "益"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "76CA",
+            "4313425221"
+        ],
+        "char_code_wubi": "uwlf",
+        "char_code_cangjie": "tcbt",
+        "char_code_zhengma": "uaol",
+        "char_code_sijiao": "80102"
+    },
+    "general_unicode": "基本区 U+76CA",
+    "general_bs_code": "4313425221"
+}

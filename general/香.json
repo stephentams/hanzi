@@ -1,0 +1,56 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fragrant, sweet smelling, incense"
+        },
+        {
+            "language": "德语",
+            "explanation": "Weihrauch  (S, Philos)​,appetitlich, gut schmecken  (Adj, Ess)​,duftend, riechend  (Adj)​,Xiang  (Eig, Fam)​,Radikal Nr. 186 = Duft, duftend, fest, tief, Weihrauch"
+        },
+        {
+            "language": "法语",
+            "explanation": "épice,aromate,encens,parfumé,odorant,aromatique,délicieux,appétissant"
+        }
+    ],
+    "general_pinyins": [
+        "xiāng"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄤ"
+    ],
+    "general_radical": {
+        "radical": "香",
+        "non_radical_sn": "0",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㿝",
+        "䅨",
+        "薌",
+        "麘",
+        "稥",
+        "𣌡",
+        "𥞌",
+        "𩠼",
+        "𩡄",
+        "𩡠",
+        "𪏰",
+        "𪏽",
+        "𩡢"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9999",
+            "312342511"
+        ],
+        "char_code_wubi": "tjf",
+        "char_code_cangjie": "hda",
+        "char_code_zhengma": "mfk",
+        "char_code_sijiao": "20609"
+    },
+    "general_unicode": "基本区 U+9999",
+    "general_bs_code": "312342511"
+}

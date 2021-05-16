@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sneeze"
+        }
+    ],
+    "general_pinyins": [
+        "tì"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "15",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "嚏",
+        "𠳍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5694",
+            "251124525121542134"
+        ],
+        "char_code_wubi": "kfph",
+        "char_code_cangjie": "rjbo",
+        "char_code_zhengma": "jezi",
+        "char_code_sijiao": "64081"
+    },
+    "general_unicode": "基本区 U+5694",
+    "general_bs_code": "251124525121542134"
+}

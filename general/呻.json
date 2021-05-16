@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "groan, moan; recite with intonation"
+        },
+        {
+            "language": "德语",
+            "explanation": "ächzen,  aufstöhnen"
+        },
+        {
+            "language": "法语",
+            "explanation": "réciter,soupirer"
+        }
+    ],
+    "general_pinyins": [
+        "shēn"
+    ],
+    "general_zhuyins": [
+        "ㄕㄣ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠲳",
+        "𣢘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "547B",
+            "25125112"
+        ],
+        "char_code_wubi": "kjhh",
+        "char_code_cangjie": "rlwl",
+        "char_code_zhengma": "jkic",
+        "char_code_sijiao": "65006"
+    },
+    "general_unicode": "基本区 U+547B",
+    "general_bs_code": "25125112"
+}

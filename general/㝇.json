@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 鶉) quail"
+        }
+    ],
+    "general_pinyins": [
+        "chún"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "子",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "鶉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3747",
+            "4125152141251521"
+        ],
+        "char_code_wubi": "ybyb",
+        "char_code_cangjie": "ydyrd",
+        "char_code_zhengma": "sjjy",
+        "char_code_sijiao": "00447"
+    },
+    "general_unicode": "扩展A U+3747",
+    "general_bs_code": "4125152141251521"
+}

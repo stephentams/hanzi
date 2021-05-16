@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "vivid, illuminating; bright"
+        },
+        {
+            "language": "法语",
+            "explanation": "brillant,étincelant"
+        }
+    ],
+    "general_pinyins": [
+        "càn"
+    ],
+    "general_zhuyins": [
+        "ㄘㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "3",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "燦"
+    ],
+    "general_ytz": [
+        "燦",
+        "㻮",
+        "𪹥"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "707F",
+            "4334252"
+        ],
+        "char_code_wubi": "omh",
+        "char_code_cangjie": "fu",
+        "char_code_zhengma": "uoll",
+        "char_code_sijiao": "92870"
+    },
+    "general_unicode": "基本区 U+707F",
+    "general_bs_code": "4334252"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "shade, screen; to hide, screen"
+        },
+        {
+            "language": "德语",
+            "explanation": "überprüfen, verdecken ,beschatten, schattieren"
+        },
+        {
+            "language": "法语",
+            "explanation": "couvrir,taie"
+        }
+    ],
+    "general_pinyins": [
+        "yì"
+    ],
+    "general_zhuyins": [
+        "ㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "羽",
+        "non_radical_sn": "11",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "医",
+        "鷖",
+        "𩭅",
+        "瞖",
+        "𦒭"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7FF3",
+            "13113453554541541"
+        ],
+        "char_code_wubi": "atdn",
+        "char_code_cangjie": "sesmm",
+        "char_code_zhengma": "hmyy",
+        "char_code_sijiao": "77127"
+    },
+    "general_unicode": "基本区 U+7FF3",
+    "general_bs_code": "13113453554541541"
+}

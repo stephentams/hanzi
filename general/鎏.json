@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pure gold"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gold  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "liú"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "金",
+        "non_radical_sn": "10",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "瑬"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "938F",
+            "441415432534112431"
+        ],
+        "char_code_wubi": "iycq",
+        "char_code_cangjie": "euc",
+        "char_code_zhengma": "vsnp",
+        "char_code_sijiao": "30109"
+    },
+    "general_unicode": "基本区 U+938F",
+    "general_bs_code": "441415432534112431"
+}

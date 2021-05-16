@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to kneel for a long time, to go down on hands and knees"
+        },
+        {
+            "language": "德语",
+            "explanation": "hinknien, knien"
+        },
+        {
+            "language": "法语",
+            "explanation": "à genoux"
+        }
+    ],
+    "general_pinyins": [
+        "jì"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "7",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦜕",
+        "𨃡",
+        "𨄲"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8DFD",
+            "25121215154544"
+        ],
+        "char_code_wubi": "khnn",
+        "char_code_cangjie": "rmsup",
+        "char_code_zhengma": "jiyw",
+        "char_code_sijiao": "67131"
+    },
+    "general_unicode": "基本区 U+8DFD",
+    "general_bs_code": "25121215154544"
+}

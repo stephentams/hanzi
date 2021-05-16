@@ -1,0 +1,57 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "frontier pass; close; relation"
+        },
+        {
+            "language": "德语",
+            "explanation": "ausschalten, schließen, stilllegen, zumachen  (V)​,Joch, Pass, Passhöhe  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "passe,défilé,passage,col,difficulté,douane,fermer,clore,être fermé,éteindre,emprisonner,mettre en prison,concerner,avoir rapport à,faire faillite"
+        }
+    ],
+    "general_pinyins": [
+        "guān"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄢ"
+    ],
+    "general_radical": {
+        "radical": "丷",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "關"
+    ],
+    "general_ytz": [
+        "關",
+        "関",
+        "闗",
+        "𠴨",
+        "𨳹",
+        "𨴊",
+        "𨵿",
+        "𨶚",
+        "𨷀",
+        "𨳡",
+        "𨳨",
+        "𫔢"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5173",
+            "431134"
+        ],
+        "char_code_wubi": "udu",
+        "char_code_cangjie": "tk",
+        "char_code_zhengma": "uagd",
+        "char_code_sijiao": "80804"
+    },
+    "general_unicode": "基本区 U+5173",
+    "general_bs_code": "431134"
+}

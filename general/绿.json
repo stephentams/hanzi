@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "green; chlorine"
+        },
+        {
+            "language": "德语",
+            "explanation": "grün\"_x000d_"
+        },
+        {
+            "language": "法语",
+            "explanation": "vert"
+        }
+    ],
+    "general_pinyins": [
+        "lǜ",
+        "lù"
+    ],
+    "general_zhuyins": [
+        "ㄌㄩˋ",
+        "ㄌㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "綠",
+        "緑"
+    ],
+    "general_ytz": [
+        "綠",
+        "緑",
+        "𢅞"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EFF",
+            "55151124134"
+        ],
+        "char_code_wubi": "xviy",
+        "char_code_cangjie": "vmnme",
+        "char_code_zhengma": "zxkv",
+        "char_code_sijiao": "27199"
+    },
+    "general_unicode": "基本区 U+7EFF",
+    "general_bs_code": "55151124134"
+}

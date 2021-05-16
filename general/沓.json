@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "connected, joined; repeated"
+        },
+        {
+            "language": "德语",
+            "explanation": "viele ,Ta  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "accumuler,crue"
+        }
+    ],
+    "general_pinyins": [
+        "tà",
+        "dá"
+    ],
+    "general_zhuyins": [
+        "ㄊㄚˋ",
+        "ㄉㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "水",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠴲"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6C93",
+            "25342511"
+        ],
+        "char_code_wubi": "ijf",
+        "char_code_cangjie": "ea",
+        "char_code_zhengma": "kvk",
+        "char_code_sijiao": "12609"
+    },
+    "general_unicode": "基本区 U+6C93",
+    "general_bs_code": "25342511"
+}

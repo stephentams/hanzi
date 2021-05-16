@@ -1,0 +1,55 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hear; understand; obey, comply"
+        },
+        {
+            "language": "德语",
+            "explanation": "gehorchen, befolgen (V)​,hören (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "sourire (arch.)​"
+        }
+    ],
+    "general_pinyins": [
+        "tīng"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧㄥ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "聽"
+    ],
+    "general_ytz": [
+        "聽",
+        "聴",
+        "聼",
+        "𠯸",
+        "𦔽",
+        "𦕘",
+        "𦕢",
+        "𦖆",
+        "𦗟",
+        "𦘏"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "542C",
+            "2513312"
+        ],
+        "char_code_wubi": "krh",
+        "char_code_cangjie": "rhml",
+        "char_code_zhengma": "jpd",
+        "char_code_sijiao": "62021"
+    },
+    "general_unicode": "基本区 U+542C",
+    "general_bs_code": "2513312"
+}

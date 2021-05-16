@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "chaff, bran, husks; poor"
+        },
+        {
+            "language": "德语",
+            "explanation": "Spreu, Hülse, Schalen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "balle du grain,son,chétif,mesquin,sans soin"
+        }
+    ],
+    "general_pinyins": [
+        "kāng"
+    ],
+    "general_zhuyins": [
+        "ㄎㄤ"
+    ],
+    "general_radical": {
+        "radical": "米",
+        "non_radical_sn": "11",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "康",
+        "穅",
+        "粇",
+        "𢊪",
+        "𥹺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7CE0",
+            "43123441351124134"
+        ],
+        "char_code_wubi": "oyvi|oovi",
+        "char_code_cangjie": "fdile",
+        "char_code_zhengma": "ufxk",
+        "char_code_sijiao": "90999"
+    },
+    "general_unicode": "基本区 U+7CE0",
+    "general_bs_code": "43123441351124134"
+}

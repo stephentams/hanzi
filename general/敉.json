@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pacify, soothe, stabilize"
+        },
+        {
+            "language": "德语",
+            "explanation": "friedlich, einträchtig"
+        }
+    ],
+    "general_pinyins": [
+        "mǐ"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "攵",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "侎",
+        "𢘺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6549",
+            "4312343134"
+        ],
+        "char_code_wubi": "oty",
+        "char_code_cangjie": "fdok",
+        "char_code_zhengma": "ufmo",
+        "char_code_sijiao": "98940"
+    },
+    "general_unicode": "基本区 U+6549",
+    "general_bs_code": "4312343134"
+}

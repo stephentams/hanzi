@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wall"
+        },
+        {
+            "language": "德语",
+            "explanation": "Damm, Mauer  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "qiáng",
+        "sè"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄤˊ",
+        "ㄙㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "广",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "嗇",
+        "𢊂",
+        "𢋢",
+        "𢋾",
+        "牆",
+        "𢊉",
+        "𪪞"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5EE7",
+            "4131343421252511"
+        ],
+        "char_code_wubi": "yfwk|ofwk",
+        "char_code_cangjie": "igow",
+        "char_code_zhengma": "tgjj",
+        "char_code_sijiao": "00261"
+    },
+    "general_unicode": "基本区 U+5EE7",
+    "general_bs_code": "4131343421252511"
+}

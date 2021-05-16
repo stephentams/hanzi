@@ -1,0 +1,28 @@
+{
+    "general_pinyins": [
+        "hán"
+    ],
+    "general_zhuyins": [
+        "ㄏㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5A22",
+            "5313445251"
+        ],
+        "char_code_wubi": "vwyk",
+        "char_code_cangjie": "voir",
+        "char_code_zhengma": "zmxj",
+        "char_code_sijiao": "48462"
+    },
+    "general_unicode": "基本区 U+5A22",
+    "general_bs_code": "5313445251"
+}

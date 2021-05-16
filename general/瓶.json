@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "jug, pitcher, vase, jar, bottle"
+        }
+    ],
+    "general_pinyins": [
+        "píng"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "瓦",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦉇",
+        "𤬮",
+        "硑",
+        "甁",
+        "䍈",
+        "缾",
+        "鉼",
+        "𤭅",
+        "𪋋"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "74F6",
+            "4311321554"
+        ],
+        "char_code_wubi": "uagn|uagy",
+        "char_code_cangjie": "ttmvn",
+        "char_code_zhengma": "uays",
+        "char_code_sijiao": "81417"
+    },
+    "general_unicode": "基本区 U+74F6",
+    "general_bs_code": "4311321554"
+}

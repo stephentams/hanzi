@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ribbon or cord used attach ornaments"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schärpe, Schieberahmen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "écharpe,tenue pour sacrifice"
+        }
+    ],
+    "general_pinyins": [
+        "fú"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "紱"
+    ],
+    "general_ytz": [
+        "紱",
+        "𥾧",
+        "𥿈"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EC2",
+            "55113544"
+        ],
+        "char_code_wubi": "xdcy",
+        "char_code_cangjie": "vmike",
+        "char_code_zhengma": "zgxs",
+        "char_code_sijiao": "23147"
+    },
+    "general_unicode": "基本区 U+7EC2",
+    "general_bs_code": "55113544"
+}

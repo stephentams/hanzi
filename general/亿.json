@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hundred million; many"
+        },
+        {
+            "language": "德语",
+            "explanation": "hundert Millionen (100.000.000, 10^8)​ (Num)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cent millions"
+        }
+    ],
+    "general_pinyins": [
+        "yì"
+    ],
+    "general_zhuyins": [
+        "ㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "1",
+        "total_sn": "3"
+    },
+    "general_stc": [
+        "億"
+    ],
+    "general_ytz": [
+        "億",
+        "𠌼",
+        "𠐥"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4EBF",
+            "325"
+        ],
+        "char_code_wubi": "wnn",
+        "char_code_cangjie": "on",
+        "char_code_zhengma": "nyda",
+        "char_code_sijiao": "27210"
+    },
+    "general_unicode": "基本区 U+4EBF",
+    "general_bs_code": "325"
+}

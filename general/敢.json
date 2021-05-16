@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to dare, venture; bold, brave"
+        },
+        {
+            "language": "德语",
+            "explanation": "sich erlauben, sich die Freiheit nehmen  (V)​,wagen, sich trauen  (V)​,kühn, mutig, tapfer  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "audacieux,courageux,intrépide,oser,avoir l'audace"
+        }
+    ],
+    "general_pinyins": [
+        "gǎn"
+    ],
+    "general_zhuyins": [
+        "ㄍㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "攵",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠭖",
+        "𢼿",
+        "𢽤",
+        "𢽿",
+        "𣪏",
+        "𣆸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6562",
+            "51221113134"
+        ],
+        "char_code_wubi": "nbty",
+        "char_code_cangjie": "mjok",
+        "char_code_zhengma": "xcmo",
+        "char_code_sijiao": "18440"
+    },
+    "general_unicode": "基本区 U+6562",
+    "general_bs_code": "51221113134"
+}

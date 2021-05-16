@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "collect, compile, assemble; hedgehog"
+        },
+        {
+            "language": "德语",
+            "explanation": "Sammlung, Zusammenfassung  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "huì"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "彑",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "汇"
+    ],
+    "general_ytz": [
+        "彚",
+        "汇",
+        "猬",
+        "蝟",
+        "𡻼",
+        "𢍖",
+        "𢑤",
+        "𢑥",
+        "𢑷",
+        "𢑺",
+        "𣉰"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F59",
+            "5514525111234"
+        ],
+        "char_code_wubi": "xgps|xpjs",
+        "char_code_cangjie": "vmbwd",
+        "char_code_zhengma": "zmkf",
+        "char_code_sijiao": "27904"
+    },
+    "general_unicode": "基本区 U+5F59",
+    "general_bs_code": "5514525111234"
+}

@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dark, somber; deep, profound"
+        }
+    ],
+    "general_pinyins": [
+        "xián",
+        "xuán"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄢˊ",
+        "ㄒㄩㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠆺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4F2D",
+            "3241554"
+        ],
+        "char_code_wubi": "wyxy",
+        "char_code_cangjie": "oyvi",
+        "char_code_zhengma": "nszz",
+        "char_code_sijiao": "20232"
+    },
+    "general_unicode": "基本区 U+4F2D",
+    "general_bs_code": "3241554"
+}

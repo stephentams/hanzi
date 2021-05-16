@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fence; boundary; outlying border"
+        },
+        {
+            "language": "德语",
+            "explanation": "Zaun, Grenze, Vasallen-  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "han (japon)​"
+        }
+    ],
+    "general_pinyins": [
+        "fān"
+    ],
+    "general_zhuyins": [
+        "ㄈㄢ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "15",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "籓",
+        "樊"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "85E9",
+            "122441343123425121"
+        ],
+        "char_code_wubi": "aitl",
+        "char_code_cangjie": "tehw",
+        "char_code_zhengma": "evpk",
+        "char_code_sijiao": "44169"
+    },
+    "general_unicode": "基本区 U+85E9",
+    "general_bs_code": "122441343123425121"
+}

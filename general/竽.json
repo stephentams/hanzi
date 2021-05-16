@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ancient woodwind instrument"
+        },
+        {
+            "language": "德语",
+            "explanation": "Mundorgel"
+        },
+        {
+            "language": "法语",
+            "explanation": "orgue à bouche"
+        }
+    ],
+    "general_pinyins": [
+        "yú"
+    ],
+    "general_zhuyins": [
+        "ㄩˊ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "3",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥫡"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7AFD",
+            "314314112"
+        ],
+        "char_code_wubi": "tgfj",
+        "char_code_cangjie": "hmd",
+        "char_code_zhengma": "mad",
+        "char_code_sijiao": "88401"
+    },
+    "general_unicode": "基本区 U+7AFD",
+    "general_bs_code": "314314112"
+}

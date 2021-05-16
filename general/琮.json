@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "octagonal piece of jade with hole in middle"
+        },
+        {
+            "language": "德语",
+            "explanation": "Antikes Kultgefäß, rechteckig mit rundem Loch"
+        },
+        {
+            "language": "法语",
+            "explanation": "récipient de jade, de quatre faces perpendiculaires à l'extérieur, cylindrique à l'intérieur, utilisé lors des rites"
+        }
+    ],
+    "general_pinyins": [
+        "cóng"
+    ],
+    "general_zhuyins": [
+        "ㄘㄨㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "742E",
+            "112144511234"
+        ],
+        "char_code_wubi": "gpfi",
+        "char_code_cangjie": "mgjmf",
+        "char_code_zhengma": "cwbk",
+        "char_code_sijiao": "13191"
+    },
+    "general_unicode": "基本区 U+742E",
+    "general_bs_code": "112144511234"
+}

@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "chicken"
+        },
+        {
+            "language": "德语",
+            "explanation": "Huhn  (S, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "poule,coq,poulet"
+        }
+    ],
+    "general_pinyins": [
+        "jī"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧ"
+    ],
+    "general_radical": {
+        "radical": "鸟",
+        "non_radical_sn": "2",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "雞",
+        "鷄"
+    ],
+    "general_ytz": [
+        "鷄",
+        "雞",
+        "鶏",
+        "鳮"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E21",
+            "5435451"
+        ],
+        "char_code_wubi": "cqyg|cqgg",
+        "char_code_cangjie": "epym",
+        "char_code_zhengma": "xsrz",
+        "char_code_sijiao": "77427"
+    },
+    "general_unicode": "基本区 U+9E21",
+    "general_bs_code": "5435451"
+}

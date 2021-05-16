@@ -1,0 +1,35 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a goose"
+        }
+    ],
+    "general_pinyins": [
+        "gē"
+    ],
+    "general_zhuyins": [
+        "ㄍㄜ"
+    ],
+    "general_radical": {
+        "radical": "鳥",
+        "non_radical_sn": "10",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "鴚"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2A0FF",
+            "125121251232511154444"
+        ],
+        "char_code_wubi": "skso",
+        "char_code_cangjie": "mrhaf",
+        "char_code_zhengma": "aijr"
+    },
+    "general_unicode": "扩展B U+2A0FF",
+    "general_bs_code": "125121251232511154444"
+}

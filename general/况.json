@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "condition, situation; furthermore"
+        },
+        {
+            "language": "德语",
+            "explanation": "überdies, ausserdem, zudem"
+        },
+        {
+            "language": "法语",
+            "explanation": "situation,cas,de plus"
+        }
+    ],
+    "general_pinyins": [
+        "kuàng"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "冫",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "況"
+    ],
+    "general_ytz": [
+        "況",
+        "𡶢",
+        "况"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "51B5",
+            "4125135"
+        ],
+        "char_code_wubi": "ukqn",
+        "char_code_cangjie": "imrhu",
+        "char_code_zhengma": "tdjr",
+        "char_code_sijiao": "36112"
+    },
+    "general_unicode": "基本区 U+51B5",
+    "general_bs_code": "4125135"
+}

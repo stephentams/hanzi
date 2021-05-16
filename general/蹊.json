@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "footpath, trail; track"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fußpfad, Fußweg  (S)​,Fussweg  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "sentier pour piéton"
+        }
+    ],
+    "general_pinyins": [
+        "qī",
+        "xī"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧ",
+        "ㄒㄧ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "10",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "徯",
+        "𤲺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E4A",
+            "25121213443554134"
+        ],
+        "char_code_wubi": "khed",
+        "char_code_cangjie": "rmbvk",
+        "char_code_zhengma": "jizg",
+        "char_code_sijiao": "62184"
+    },
+    "general_unicode": "基本区 U+8E4A",
+    "general_bs_code": "25121213443554134"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "slush; mud"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schneematsch  (S)​,Nao  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "beau"
+        }
+    ],
+    "general_pinyins": [
+        "nào",
+        "chuò",
+        "zhuō"
+    ],
+    "general_zhuyins": [
+        "ㄋㄠˋ",
+        "ㄔㄨㄛˋ",
+        "ㄓㄨㄛ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6DD6",
+            "44121251112"
+        ],
+        "char_code_wubi": "ihjh",
+        "char_code_cangjie": "eyaj",
+        "char_code_zhengma": "vike",
+        "char_code_sijiao": "31146"
+    },
+    "general_unicode": "基本区 U+6DD6",
+    "general_bs_code": "44121251112"
+}

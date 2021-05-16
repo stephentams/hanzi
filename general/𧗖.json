@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "yè"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "血",
+        "non_radical_sn": "14",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "275D6",
+            "13251135411344325221"
+        ],
+        "char_code_wubi": "djel",
+        "char_code_cangjie": "mkhbt",
+        "char_code_zhengma": "ggml"
+    },
+    "general_unicode": "扩展B U+275D6",
+    "general_bs_code": "13251135411344325221"
+}

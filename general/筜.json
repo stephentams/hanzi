@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tall bamboo"
+        },
+        {
+            "language": "法语",
+            "explanation": "(bambou)​"
+        }
+    ],
+    "general_pinyins": [
+        "dāng"
+    ],
+    "general_zhuyins": [
+        "ㄉㄤ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "6",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "簹"
+    ],
+    "general_ytz": [
+        "簹"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7B5C",
+            "314314243511"
+        ],
+        "char_code_wubi": "tivf",
+        "char_code_cangjie": "hfsm",
+        "char_code_zhengma": "mkxb",
+        "char_code_sijiao": "88177"
+    },
+    "general_unicode": "基本区 U+7B5C",
+    "general_bs_code": "314314243511"
+}

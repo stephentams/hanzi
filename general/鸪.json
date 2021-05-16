@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "species of Taiwan pigeon"
+        },
+        {
+            "language": "德语",
+            "explanation": "Rebhuhn  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "perdrix,Francolinus chinensis"
+        }
+    ],
+    "general_pinyins": [
+        "gū"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨ"
+    ],
+    "general_radical": {
+        "radical": "鸟",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "鴣"
+    ],
+    "general_ytz": [
+        "鴣",
+        "䧸",
+        "𪆘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E2A",
+            "1225135451"
+        ],
+        "char_code_wubi": "dqyg|dqgg",
+        "char_code_cangjie": "jrpym",
+        "char_code_zhengma": "edjr",
+        "char_code_sijiao": "47627"
+    },
+    "general_unicode": "基本区 U+9E2A",
+    "general_bs_code": "1225135451"
+}

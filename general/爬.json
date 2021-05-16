@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "crawl, creep; climb; scramble"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufsteigen  (V)​,ersteigen, steigen  (V)​,klettern auf  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "avancer en s'aidant des mains,ramper,grimper,escalader"
+        }
+    ],
+    "general_pinyins": [
+        "pá"
+    ],
+    "general_zhuyins": [
+        "ㄆㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "爪",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "把",
+        "跁",
+        "耙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "722C",
+            "33245215"
+        ],
+        "char_code_wubi": "rhyc",
+        "char_code_cangjie": "hoau",
+        "char_code_zhengma": "pvyi",
+        "char_code_sijiao": "77231"
+    },
+    "general_unicode": "基本区 U+722C",
+    "general_bs_code": "33245215"
+}

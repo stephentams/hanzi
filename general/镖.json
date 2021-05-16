@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dart, spear, harpoon; escort"
+        },
+        {
+            "language": "法语",
+            "explanation": "dard,arme de jet"
+        }
+    ],
+    "general_pinyins": [
+        "biāo"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "11",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "鏢"
+    ],
+    "general_ytz": [
+        "鏢",
+        "𨯺",
+        "𨰐"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9556",
+            "3111512522111234"
+        ],
+        "char_code_wubi": "qsfi",
+        "char_code_cangjie": "opmwf",
+        "char_code_zhengma": "pfbk",
+        "char_code_sijiao": "81791"
+    },
+    "general_unicode": "基本区 U+9556",
+    "general_bs_code": "3111512522111234"
+}

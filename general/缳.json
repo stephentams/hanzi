@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "noose; hang death; tie, bind"
+        },
+        {
+            "language": "德语",
+            "explanation": "verbinden, binden"
+        },
+        {
+            "language": "法语",
+            "explanation": "lier,la corde de la potence (suicide)​,noeud"
+        }
+    ],
+    "general_pinyins": [
+        "huán"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "繯"
+    ],
+    "general_ytz": [
+        "繯",
+        "𦇏"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F33",
+            "5512522112513534"
+        ],
+        "char_code_wubi": "xlge",
+        "char_code_cangjie": "vmwlv",
+        "char_code_zhengma": "zljr",
+        "char_code_sijiao": "26132"
+    },
+    "general_unicode": "基本区 U+7F33",
+    "general_bs_code": "5512522112513534"
+}

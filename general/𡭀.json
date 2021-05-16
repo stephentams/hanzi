@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "寸",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "劉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "21B40",
+            "25221121121124"
+        ],
+        "char_code_wubi": "lfff",
+        "char_code_cangjie": "wgdi",
+        "char_code_zhengma": "lkbd"
+    },
+    "general_unicode": "扩展B U+21B40",
+    "general_bs_code": "25221121121124"
+}

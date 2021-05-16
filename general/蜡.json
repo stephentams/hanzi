@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wax; candle; waxy, glazed; maggot; as a non-simplified form sometimes used as an equivalent to U+410D (?), meaning imperial harvest"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kerze  (S)​,Wachs  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cire,bougie"
+        }
+    ],
+    "general_pinyins": [
+        "là"
+    ],
+    "general_zhuyins": [
+        "ㄌㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "8",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "蠟"
+    ],
+    "general_ytz": [
+        "䖳",
+        "蛆",
+        "䄍",
+        "𥛾",
+        "蠟",
+        "蝋",
+        "䗶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8721",
+            "25121412212511"
+        ],
+        "char_code_wubi": "jajg",
+        "char_code_cangjie": "lita",
+        "char_code_zhengma": "iek",
+        "char_code_sijiao": "54161"
+    },
+    "general_unicode": "基本区 U+8721",
+    "general_bs_code": "25121412212511"
+}

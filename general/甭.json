@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "there is no need"
+        },
+        {
+            "language": "德语",
+            "explanation": "nicht, nicht nötig, es erübrigt sich"
+        },
+        {
+            "language": "法语",
+            "explanation": "ce n'est pas la peine de,il n'est pas nécessaire de"
+        }
+    ],
+    "general_pinyins": [
+        "béng"
+    ],
+    "general_zhuyins": [
+        "ㄅㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "用",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "棄",
+        "甮"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "752D",
+            "132435112"
+        ],
+        "char_code_wubi": "giej|dhej",
+        "char_code_cangjie": "mfbq",
+        "char_code_zhengma": "gild",
+        "char_code_sijiao": "10227"
+    },
+    "general_unicode": "基本区 U+752D",
+    "general_bs_code": "132435112"
+}

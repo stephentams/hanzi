@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "and; and then; and yet; but"
+        },
+        {
+            "language": "德语",
+            "explanation": "aber (Konj)​,dennoch, jedoch (Konj)​,und (Konj)​,Er (Eig, Fam)​,<表示“到”的意思> ,<连接肯定和否定互相补充的成分> ,<连接语意相反的成分,表示转折> ,<连接语意相承的成分> ,<连接事理上前后相因的成分> ,<把表示时间或方式的成分连接到动词上面> ,<插在主、谓语之间、有“如果”的意思“> ,Radikal Nr. 126 = Bart, anheften; und dabei, und, aber, während (Sprachw)"
+        },
+        {
+            "language": "法语",
+            "explanation": "et,mais,tandis que,alors que"
+        }
+    ],
+    "general_pinyins": [
+        "ér"
+    ],
+    "general_zhuyins": [
+        "ㄦˊ"
+    ],
+    "general_radical": {
+        "radical": "而",
+        "non_radical_sn": "0",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "洏",
+        "耏",
+        "髵",
+        "能"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "800C",
+            "132522"
+        ],
+        "char_code_wubi": "dmjj",
+        "char_code_cangjie": "mbll",
+        "char_code_zhengma": "gl",
+        "char_code_sijiao": "10227"
+    },
+    "general_unicode": "基本区 U+800C",
+    "general_bs_code": "132522"
+}

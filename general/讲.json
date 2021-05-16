@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "explain; discuss; talk"
+        },
+        {
+            "language": "德语",
+            "explanation": "auf etw. Gewicht legen, berücksichtigen  (V)​,unterrichten, sagen, erklären, reden, erzählen  (V)​,erklären, interpretieren, verdeutlichen ,Berücksichtigung, Achtung  (S, Psych)​,sprechen, sagen, erzählen  (V)​,verhandeln"
+        },
+        {
+            "language": "法语",
+            "explanation": "parler,dire,raconter,expliquer,négocier"
+        }
+    ],
+    "general_pinyins": [
+        "jiǎng"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "講"
+    ],
+    "general_ytz": [
+        "講",
+        "𧪸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BB2",
+            "451132"
+        ],
+        "char_code_wubi": "yfjh",
+        "char_code_cangjie": "ivtt",
+        "char_code_zhengma": "sbnd",
+        "char_code_sijiao": "35700"
+    },
+    "general_unicode": "基本区 U+8BB2",
+    "general_bs_code": "451132"
+}

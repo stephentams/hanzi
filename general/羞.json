@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "disgrace, shame; ashamed; shy"
+        },
+        {
+            "language": "德语",
+            "explanation": "beschämt  (Adj)​,scheu  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "timidité,honte,timide,honteux,être intimidé,avoir honte"
+        }
+    ],
+    "general_pinyins": [
+        "xiū"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄡ"
+    ],
+    "general_radical": {
+        "radical": "羊",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "饈",
+        "𦍮",
+        "𦍟",
+        "𡔨"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F9E",
+            "4311135211"
+        ],
+        "char_code_wubi": "udnf|unhg",
+        "char_code_cangjie": "tqng",
+        "char_code_zhengma": "ucxe",
+        "char_code_sijiao": "80102"
+    },
+    "general_unicode": "基本区 U+7F9E",
+    "general_bs_code": "4311135211"
+}

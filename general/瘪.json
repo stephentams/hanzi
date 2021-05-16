@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "shrivelled up, dried up; vexed"
+        },
+        {
+            "language": "法语",
+            "explanation": "ratatiné,contracté,dégonflé"
+        }
+    ],
+    "general_pinyins": [
+        "biē",
+        "biě"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄝ",
+        "ㄅㄧㄝˇ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "10",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "癟"
+    ],
+    "general_ytz": [
+        "癟",
+        "㿜",
+        "𤻋"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "762A",
+            "413413251113435"
+        ],
+        "char_code_wubi": "uthx",
+        "char_code_cangjie": "xkhup",
+        "char_code_zhengma": "tnor",
+        "char_code_sijiao": "00112"
+    },
+    "general_unicode": "基本区 U+762A",
+    "general_bs_code": "413413251113435"
+}

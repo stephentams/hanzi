@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "forge metal; perfect one's skill"
+        }
+    ],
+    "general_pinyins": [
+        "duàn"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "鍛",
+        "𤊳"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7145",
+            "4334321113554"
+        ],
+        "char_code_wubi": "owdc|othc",
+        "char_code_cangjie": "fhje",
+        "char_code_zhengma": "uocq",
+        "char_code_sijiao": "97847"
+    },
+    "general_unicode": "基本区 U+7145",
+    "general_bs_code": "4334321113554"
+}

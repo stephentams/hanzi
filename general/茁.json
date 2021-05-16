@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to sprout, flourish; sprouts appearing above-ground; vigorous"
+        },
+        {
+            "language": "德语",
+            "explanation": "vermehren, vergrößern"
+        },
+        {
+            "language": "法语",
+            "explanation": "pousser,croître,grandir"
+        }
+    ],
+    "general_pinyins": [
+        "zhuó"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8301",
+            "12252252"
+        ],
+        "char_code_wubi": "abmj",
+        "char_code_cangjie": "tuu",
+        "char_code_zhengma": "ezzi",
+        "char_code_sijiao": "44772"
+    },
+    "general_unicode": "基本区 U+8301",
+    "general_bs_code": "12252252"
+}

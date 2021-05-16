@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lid of a caldron; Buddhist cloister"
+        },
+        {
+            "language": "法语",
+            "explanation": "récipient,conteneur,container"
+        }
+    ],
+    "general_pinyins": [
+        "ān"
+    ],
+    "general_zhuyins": [
+        "ㄢ"
+    ],
+    "general_radical": {
+        "radical": "皿",
+        "non_radical_sn": "11",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "庵",
+        "盫"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "76E6",
+            "3445125351125221"
+        ],
+        "char_code_wubi": "wynl",
+        "char_code_cangjie": "oint",
+        "char_code_zhengma": "odfl",
+        "char_code_sijiao": "80102"
+    },
+    "general_unicode": "基本区 U+76E6",
+    "general_bs_code": "3445125351125221"
+}

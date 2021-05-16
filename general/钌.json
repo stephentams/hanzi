@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ruthenium"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ruthenium (Element 44, Ru)​ (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "ruthénium"
+        }
+    ],
+    "general_pinyins": [
+        "liǎo",
+        "liào"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄠˇ",
+        "ㄌㄧㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "2",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "釕"
+    ],
+    "general_ytz": [
+        "釕"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "948C",
+            "3111552"
+        ],
+        "char_code_wubi": "qbh",
+        "char_code_cangjie": "opnn",
+        "char_code_zhengma": "pyvv",
+        "char_code_sijiao": "87727"
+    },
+    "general_unicode": "基本区 U+948C",
+    "general_bs_code": "3111552"
+}

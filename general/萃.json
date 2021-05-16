@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dense, thick, close-set; to collect together"
+        },
+        {
+            "language": "法语",
+            "explanation": "se réunir,se grouper"
+        }
+    ],
+    "general_pinyins": [
+        "cuì"
+    ],
+    "general_zhuyins": [
+        "ㄘㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦬡"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8403",
+            "12241343412"
+        ],
+        "char_code_wubi": "aywf",
+        "char_code_cangjie": "tyoj",
+        "char_code_zhengma": "esoe",
+        "char_code_sijiao": "44408"
+    },
+    "general_unicode": "基本区 U+8403",
+    "general_bs_code": "12241343412"
+}

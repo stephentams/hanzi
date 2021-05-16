@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "consider, conjecture; materials, ingredients"
+        },
+        {
+            "language": "德语",
+            "explanation": "Material"
+        },
+        {
+            "language": "法语",
+            "explanation": "prévoir,matériaux,matières,fourrage,étoffe"
+        }
+    ],
+    "general_pinyins": [
+        "liào"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "斗",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䉼",
+        "𥸾",
+        "料"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6599",
+            "4312344412"
+        ],
+        "char_code_wubi": "oufh",
+        "char_code_cangjie": "fdyj",
+        "char_code_zhengma": "ufte",
+        "char_code_sijiao": "94900"
+    },
+    "general_unicode": "基本区 U+6599",
+    "general_bs_code": "4312344412"
+}

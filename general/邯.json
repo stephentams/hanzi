@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "city in Hebei province; various"
+        },
+        {
+            "language": "德语",
+            "explanation": "altertümlicher Ortsname in der Provinz Hebei  (Eig, Geo)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom d'un quartier dans le Hebei)​"
+        }
+    ],
+    "general_pinyins": [
+        "hán"
+    ],
+    "general_zhuyins": [
+        "ㄏㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨚠",
+        "𣵷"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "90AF",
+            "1221152"
+        ],
+        "char_code_wubi": "afbh|fbh",
+        "char_code_cangjie": "tmnl",
+        "char_code_zhengma": "eby",
+        "char_code_sijiao": "47727"
+    },
+    "general_unicode": "基本区 U+90AF",
+    "general_bs_code": "1221152"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pottery, ceramics"
+        },
+        {
+            "language": "德语",
+            "explanation": "gefällt ,Keramik ,Töpferei  (S)​,Tao  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "poterie,terre cuite"
+        }
+    ],
+    "general_pinyins": [
+        "táo"
+    ],
+    "general_zhuyins": [
+        "ㄊㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "匋",
+        "𡍒",
+        "𨹋",
+        "𨺃"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9676",
+            "5235311252"
+        ],
+        "char_code_wubi": "bqrm|bqtb",
+        "char_code_cangjie": "nlpou",
+        "char_code_zhengma": "yrez",
+        "char_code_sijiao": "77220"
+    },
+    "general_unicode": "基本区 U+9676",
+    "general_bs_code": "5235311252"
+}

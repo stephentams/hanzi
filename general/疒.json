@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sick; KangXi radical 104"
+        },
+        {
+            "language": "德语",
+            "explanation": "Radikal Nr. 104 = Krankheit  (S, Med)"
+        },
+        {
+            "language": "法语",
+            "explanation": "maladie (radical)​"
+        }
+    ],
+    "general_pinyins": [
+        "nè"
+    ],
+    "general_zhuyins": [
+        "ㄋㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "0",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "疔",
+        "𤴫",
+        "𤴳"
+    ],
+    "general_structure": "单体结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7592",
+            "41341"
+        ],
+        "char_code_wubi": "uygg",
+        "char_code_cangjie": "iim",
+        "char_code_zhengma": "taaa",
+        "char_code_sijiao": "00100"
+    },
+    "general_unicode": "基本区 U+7592",
+    "general_bs_code": "41341"
+}

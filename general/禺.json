@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "district; mountain in Zhejiang"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 Bezirk, Gau  (S)​,Yu  (Eig, Fam)"
+        }
+    ],
+    "general_pinyins": [
+        "yú",
+        "yù",
+        "ǒu"
+    ],
+    "general_zhuyins": [
+        "ㄩˊ",
+        "ㄩˋ",
+        "ㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "田",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤟹"
+    ],
+    "general_structure": "单体结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "79BA",
+            "251125214"
+        ],
+        "char_code_wubi": "jmhy",
+        "char_code_cangjie": "wlbi",
+        "char_code_zhengma": "klzs",
+        "char_code_sijiao": "60227"
+    },
+    "general_unicode": "基本区 U+79BA",
+    "general_bs_code": "251125214"
+}

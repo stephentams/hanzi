@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "flaw in gem; fault, defect"
+        },
+        {
+            "language": "德语",
+            "explanation": "beflecken, Schönheitsfehler  (S)​,Erbärmlichkeit  (S)​,Xia  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "défaut d'une pierre précieuse,tache,vice"
+        }
+    ],
+    "general_pinyins": [
+        "xiá"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7455",
+            "1121512115154"
+        ],
+        "char_code_wubi": "gnhc",
+        "char_code_cangjie": "mgrse",
+        "char_code_zhengma": "cxxx",
+        "char_code_sijiao": "17147"
+    },
+    "general_unicode": "基本区 U+7455",
+    "general_bs_code": "1121512115154"
+}

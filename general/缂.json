@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "the woof of a woven item"
+        },
+        {
+            "language": "法语",
+            "explanation": "tramer,tisser"
+        }
+    ],
+    "general_pinyins": [
+        "kè"
+    ],
+    "general_zhuyins": [
+        "ㄎㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "緙"
+    ],
+    "general_ytz": [
+        "緙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F02",
+            "551122125112"
+        ],
+        "char_code_wubi": "xafh",
+        "char_code_cangjie": "vmtlj",
+        "char_code_zhengma": "zee",
+        "char_code_sijiao": "24156"
+    },
+    "general_unicode": "基本区 U+7F02",
+    "general_bs_code": "551122125112"
+}

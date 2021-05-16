@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "toil, slave away; busy"
+        },
+        {
+            "language": "德语",
+            "explanation": "quälen, schuften"
+        },
+        {
+            "language": "法语",
+            "explanation": "peiner"
+        }
+    ],
+    "general_pinyins": [
+        "kū"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "3",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "硈"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "77FB",
+            "13251315"
+        ],
+        "char_code_wubi": "dtnn",
+        "char_code_cangjie": "mron",
+        "char_code_zhengma": "gmyd",
+        "char_code_sijiao": "18617"
+    },
+    "general_unicode": "基本区 U+77FB",
+    "general_bs_code": "13251315"
+}

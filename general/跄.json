@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "walk rapidly"
+        },
+        {
+            "language": "德语",
+            "explanation": "Staffelung, abstufen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "marche agile"
+        }
+    ],
+    "general_pinyins": [
+        "qiāng",
+        "qiàng"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄤ",
+        "ㄑㄧㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "4",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "蹌"
+    ],
+    "general_ytz": [
+        "蹌",
+        "蹡",
+        "𦭠",
+        "𦭫"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8DC4",
+            "25121213455"
+        ],
+        "char_code_wubi": "khwb",
+        "char_code_cangjie": "rmosu",
+        "char_code_zhengma": "jioy",
+        "char_code_sijiao": "68112"
+    },
+    "general_unicode": "基本区 U+8DC4",
+    "general_bs_code": "25121213455"
+}

@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "project; reflect light"
+        },
+        {
+            "language": "德语",
+            "explanation": "reflektieren, spiegeln  (V)​,Ying  (Eig, Fam)"
+        }
+    ],
+    "general_pinyins": [
+        "yìng"
+    ],
+    "general_zhuyins": [
+        "ㄧㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䁐",
+        "暎"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6620",
+            "251125134"
+        ],
+        "char_code_wubi": "jmdy",
+        "char_code_cangjie": "albk",
+        "char_code_zhengma": "klgd",
+        "char_code_sijiao": "65080"
+    },
+    "general_unicode": "基本区 U+6620",
+    "general_bs_code": "251125134"
+}

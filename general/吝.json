@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stingy, miserly, parsimonious"
+        },
+        {
+            "language": "德语",
+            "explanation": "geizig"
+        }
+    ],
+    "general_pinyins": [
+        "lìn"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㖁",
+        "恡",
+        "悋",
+        "𠫤",
+        "𠯌",
+        "𠯛",
+        "𠲲",
+        "𠳈",
+        "𠳺",
+        "𠳻",
+        "𠴽",
+        "𢙵",
+        "吝"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "541D",
+            "4134251"
+        ],
+        "char_code_wubi": "ykf",
+        "char_code_cangjie": "ykr",
+        "char_code_zhengma": "soj",
+        "char_code_sijiao": "00604"
+    },
+    "general_unicode": "基本区 U+541D",
+    "general_bs_code": "4134251"
+}

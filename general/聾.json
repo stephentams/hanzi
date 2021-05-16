@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "deaf"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gehörlosigkeit  (S, Med)​,gehörlos, taub, hörbehindert  (Adj, Med)"
+        },
+        {
+            "language": "法语",
+            "explanation": "sourd"
+        }
+    ],
+    "general_pinyins": [
+        "lóng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "耳",
+        "non_radical_sn": "17",
+        "total_sn": "23"
+    },
+    "general_stc": [
+        "聋"
+    ],
+    "general_ytz": [
+        "𦗤",
+        "𤼃",
+        "聋",
+        "䏊",
+        "聾"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "807E",
+            "4143125111515111122111"
+        ],
+        "char_code_wubi": "uegb",
+        "char_code_cangjie": "ypsj",
+        "char_code_zhengma": "sice",
+        "char_code_sijiao": "01401"
+    },
+    "general_unicode": "基本区 U+807E",
+    "general_bs_code": "4143125111515111122111"
+}

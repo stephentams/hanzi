@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pith from rush (juncus effusus)"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kern, Docht (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "essence,intérieur (plante)​,moelle"
+        }
+    ],
+    "general_pinyins": [
+        "xīn",
+        "xìn"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄣ",
+        "ㄒㄧㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "82AF",
+            "1224544"
+        ],
+        "char_code_wubi": "anu",
+        "char_code_cangjie": "tp",
+        "char_code_zhengma": "ewz",
+        "char_code_sijiao": "44330"
+    },
+    "general_unicode": "基本区 U+82AF",
+    "general_bs_code": "1224544"
+}

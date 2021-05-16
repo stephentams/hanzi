@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "ràn"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "15",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "258F9",
+            "31234414313512214444"
+        ],
+        "char_code_wubi": "tuto",
+        "char_code_cangjie": "hdytf",
+        "char_code_zhengma": "mfxu"
+    },
+    "general_unicode": "扩展B U+258F9",
+    "general_bs_code": "31234414313512214444"
+}

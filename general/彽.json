@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "variant of 低 U+4F4E, low; to lower, hang, bend, bow"
+        }
+    ],
+    "general_pinyins": [
+        "dī"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧ"
+    ],
+    "general_radical": {
+        "radical": "彳",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢓎"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F7D",
+            "33235154"
+        ],
+        "char_code_wubi": "tqay",
+        "char_code_cangjie": "hohpm",
+        "char_code_zhengma": "oirs",
+        "char_code_sijiao": "22240"
+    },
+    "general_unicode": "基本区 U+5F7D",
+    "general_bs_code": "33235154"
+}

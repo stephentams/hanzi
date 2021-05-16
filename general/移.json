@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "change place, shift; move about"
+        },
+        {
+            "language": "德语",
+            "explanation": "abändern, ändern  (V)​,austauschen, tauschen  (V)​,entfernen, beseitigen  (V)​,verschieben, verlegen, bewegen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "déplacer,mouvoir,supprimer,enlever,éliminer"
+        }
+    ],
+    "general_pinyins": [
+        "yí"
+    ],
+    "general_zhuyins": [
+        "ㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䄬",
+        "扡",
+        "迻",
+        "𡖰",
+        "𢼏",
+        "𥞀",
+        "𥟻",
+        "𧚕",
+        "乁"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "79FB",
+            "31234354354"
+        ],
+        "char_code_wubi": "tqqy",
+        "char_code_cangjie": "hdnin",
+        "char_code_zhengma": "mfrr",
+        "char_code_sijiao": "27927"
+    },
+    "general_unicode": "基本区 U+79FB",
+    "general_bs_code": "31234354354"
+}

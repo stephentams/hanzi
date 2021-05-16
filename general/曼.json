@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "long, extended, vast; beautiful"
+        },
+        {
+            "language": "德语",
+            "explanation": "anmutog, entzückend, mild  (Adj)​,lang  (Adj)​,weit, groß"
+        },
+        {
+            "language": "法语",
+            "explanation": "gracieux,long,lointain"
+        }
+    ],
+    "general_pinyins": [
+        "màn"
+    ],
+    "general_zhuyins": [
+        "ㄇㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "曰",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㗈",
+        "㬅",
+        "縵",
+        "蔓"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "66FC",
+            "25112522154"
+        ],
+        "char_code_wubi": "jlcu",
+        "char_code_cangjie": "awle",
+        "char_code_zhengma": "klxs",
+        "char_code_sijiao": "60407"
+    },
+    "general_unicode": "基本区 U+66FC",
+    "general_bs_code": "25112522154"
+}

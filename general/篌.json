@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ancient music instrument; harp"
+        },
+        {
+            "language": "法语",
+            "explanation": "(grande harpe à 23 ou 25 cordes)​,sorte de roseau"
+        }
+    ],
+    "general_pinyins": [
+        "hóu"
+    ],
+    "general_zhuyins": [
+        "ㄏㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "9",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥰉"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7BCC",
+            "314314325131134"
+        ],
+        "char_code_wubi": "twnd",
+        "char_code_cangjie": "honk",
+        "char_code_zhengma": "mnxm",
+        "char_code_sijiao": "88284"
+    },
+    "general_unicode": "基本区 U+7BCC",
+    "general_bs_code": "314314325131134"
+}

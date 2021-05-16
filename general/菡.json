@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "buds, lotus buds"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 Lotusblüte"
+        }
+    ],
+    "general_pinyins": [
+        "hàn"
+    ],
+    "general_zhuyins": [
+        "ㄏㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣣖",
+        "䓿"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "83E1",
+            "12252413452"
+        ],
+        "char_code_wubi": "abib",
+        "char_code_cangjie": "tune",
+        "char_code_zhengma": "exkz",
+        "char_code_sijiao": "44772"
+    },
+    "general_unicode": "基本区 U+83E1",
+    "general_bs_code": "12252413452"
+}

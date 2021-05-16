@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "final exclamatory particle"
+        },
+        {
+            "language": "德语",
+            "explanation": "großsprecherisch"
+        },
+        {
+            "language": "法语",
+            "explanation": "vantard,emphatique"
+        }
+    ],
+    "general_pinyins": [
+        "xiāo",
+        "jiāo"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄠ",
+        "ㄐㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡀒",
+        "謬",
+        "驕"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5610",
+            "25154154134333"
+        ],
+        "char_code_wubi": "knwe",
+        "char_code_cangjie": "rsmh",
+        "char_code_zhengma": "jyop",
+        "char_code_sijiao": "67022"
+    },
+    "general_unicode": "基本区 U+5610",
+    "general_bs_code": "25154154134333"
+}

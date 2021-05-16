@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "strong"
+        },
+        {
+            "language": "法语",
+            "explanation": "(tortue légendaire)​,capable de supporter un grand poids"
+        }
+    ],
+    "general_pinyins": [
+        "bì"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "贔"
+    ],
+    "general_ytz": [
+        "贔"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D51",
+            "253425342534"
+        ],
+        "char_code_wubi": "mmmu",
+        "char_code_cangjie": "boboo",
+        "char_code_zhengma": "loll",
+        "char_code_sijiao": "77882"
+    },
+    "general_unicode": "基本区 U+8D51",
+    "general_bs_code": "253425342534"
+}

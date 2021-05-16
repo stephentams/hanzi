@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "17",
+        "total_sn": "23"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥴫"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "25DDD",
+            "31431451312213435543541"
+        ],
+        "char_code_wubi": "tnae",
+        "char_code_cangjie": "hseb",
+        "char_code_zhengma": "mxqq"
+    },
+    "general_unicode": "扩展B U+25DDD",
+    "general_bs_code": "31431451312213435543541"
+}

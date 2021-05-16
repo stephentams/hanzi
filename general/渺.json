@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "endlessly long, boundless, vast"
+        },
+        {
+            "language": "德语",
+            "explanation": "entfernt, fern"
+        },
+        {
+            "language": "法语",
+            "explanation": "vague,insignifiant,infime,minime"
+        }
+    ],
+    "general_pinyins": [
+        "miǎo"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "淼",
+        "𡙎",
+        "𢡾",
+        "𠋝"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6E3A",
+            "441251112343"
+        ],
+        "char_code_wubi": "ihit",
+        "char_code_cangjie": "ebuh",
+        "char_code_zhengma": "vlkm",
+        "char_code_sijiao": "39120"
+    },
+    "general_unicode": "基本区 U+6E3A",
+    "general_bs_code": "441251112343"
+}

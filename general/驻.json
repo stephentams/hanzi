@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to be stationed at, reside at; to stop"
+        },
+        {
+            "language": "德语",
+            "explanation": "stationieren  (V)​,stationiert sein"
+        },
+        {
+            "language": "法语",
+            "explanation": "rester,être stationné"
+        }
+    ],
+    "general_pinyins": [
+        "zhù"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "马",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "駐"
+    ],
+    "general_ytz": [
+        "駐"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A7B",
+            "55141121"
+        ],
+        "char_code_wubi": "cygg|cgyg",
+        "char_code_cangjie": "nmyg",
+        "char_code_zhengma": "xsc",
+        "char_code_sijiao": "70114"
+    },
+    "general_unicode": "基本区 U+9A7B",
+    "general_bs_code": "55141121"
+}

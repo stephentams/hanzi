@@ -1,0 +1,29 @@
+{
+    "general_pinyins": [
+        "gé"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "彳",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "格",
+        "佫",
+        "臵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "224DC",
+            "332354251"
+        ],
+        "char_code_wubi": "ttkg",
+        "char_code_cangjie": "hoher",
+        "char_code_zhengma": "oirj"
+    },
+    "general_unicode": "扩展B U+224DC",
+    "general_bs_code": "332354251"
+}

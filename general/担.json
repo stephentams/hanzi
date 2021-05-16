@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "carry, bear, undertake"
+        },
+        {
+            "language": "法语",
+            "explanation": "porter sur l'épaule,entreprendre,soutenir,être responsable de,charge,100 livres,1 picul"
+        }
+    ],
+    "general_pinyins": [
+        "dān",
+        "dàn",
+        "dǎn"
+    ],
+    "general_zhuyins": [
+        "ㄉㄢ",
+        "ㄉㄢˋ",
+        "ㄉㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "擔"
+    ],
+    "general_ytz": [
+        "揭",
+        "撣",
+        "擔",
+        "笪",
+        "𥣲",
+        "𧭃"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "62C5",
+            "12125111"
+        ],
+        "char_code_wubi": "rjgg",
+        "char_code_cangjie": "qam",
+        "char_code_zhengma": "dka",
+        "char_code_sijiao": "56010"
+    },
+    "general_unicode": "基本区 U+62C5",
+    "general_bs_code": "12125111"
+}

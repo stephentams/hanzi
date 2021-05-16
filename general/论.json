@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "debate; discuss; discourse"
+        },
+        {
+            "language": "德语",
+            "explanation": "Abhandlung, wiss. Arbeit, Beitrag  (S)​,Meinung, Auffassung  (S)​,Theorie, (wiss., phil., weltanschl.)​ Position  (S)​,analysieren, bewerten  (V)​,Lun  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(abrév. de LunYu, signifiant les Entretiens ou Analectes -de Confucius-)​,essai,théorie,doctrine,traiter,disserter de,discourir"
+        }
+    ],
+    "general_pinyins": [
+        "lùn",
+        "lún"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄣˋ",
+        "ㄌㄨㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "論"
+    ],
+    "general_ytz": [
+        "論",
+        "𠐜",
+        "𧪺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BBA",
+            "453435"
+        ],
+        "char_code_wubi": "ywxn",
+        "char_code_cangjie": "ivop",
+        "char_code_zhengma": "sorr",
+        "char_code_sijiao": "38712"
+    },
+    "general_unicode": "基本区 U+8BBA",
+    "general_bs_code": "453435"
+}

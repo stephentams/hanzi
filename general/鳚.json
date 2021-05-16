@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "general term of a kind of fish, a snake-like fish"
+        }
+    ],
+    "general_pinyins": [
+        "wèi"
+    ],
+    "general_zhuyins": [
+        "ㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "11",
+        "total_sn": "19"
+    },
+    "general_stc": [
+        "䲁"
+    ],
+    "general_ytz": [
+        "䲁",
+        "𩻍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9CDA",
+            "3525121151311234124"
+        ],
+        "char_code_wubi": "qgnf",
+        "char_code_cangjie": "nmsfi",
+        "char_code_zhengma": "rxbd",
+        "char_code_sijiao": "24100"
+    },
+    "general_unicode": "基本区 U+9CDA",
+    "general_bs_code": "3525121151311234124"
+}

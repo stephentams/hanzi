@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "great, expansive; agitated"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufgeregt, gehandelt ,grenzenlos"
+        },
+        {
+            "language": "法语",
+            "explanation": "vapeur s'élevant,vaste"
+        }
+    ],
+    "general_pinyins": [
+        "yāng"
+    ],
+    "general_zhuyins": [
+        "ㄧㄤ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "央"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6CF1",
+            "44125134"
+        ],
+        "char_code_wubi": "imdy",
+        "char_code_cangjie": "elbk",
+        "char_code_zhengma": "vlgd",
+        "char_code_sijiao": "35180"
+    },
+    "general_unicode": "基本区 U+6CF1",
+    "general_bs_code": "44125134"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "warship"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kriegsschiff  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "navire"
+        }
+    ],
+    "general_pinyins": [
+        "jiàn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "舟",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "艦"
+    ],
+    "general_ytz": [
+        "艦"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8230",
+            "3354142535"
+        ],
+        "char_code_wubi": "temq|tumq",
+        "char_code_cangjie": "hybhu",
+        "char_code_zhengma": "pylr",
+        "char_code_sijiao": "27412"
+    },
+    "general_unicode": "基本区 U+8230",
+    "general_bs_code": "3354142535"
+}

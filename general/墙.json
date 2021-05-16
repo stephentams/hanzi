@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wall"
+        },
+        {
+            "language": "德语",
+            "explanation": "Mauer; Wand  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "qiáng"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "墻",
+        "牆"
+    ],
+    "general_ytz": [
+        "墻",
+        "廧",
+        "牆",
+        "𡒅",
+        "𡓜",
+        "𢉈",
+        "𢋢",
+        "𤖠",
+        "𤖣",
+        "𤖧",
+        "𣡂"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5899",
+            "12112431252511"
+        ],
+        "char_code_wubi": "ffuk",
+        "char_code_cangjie": "ggcw",
+        "char_code_zhengma": "bbjj",
+        "char_code_sijiao": "44161"
+    },
+    "general_unicode": "基本区 U+5899",
+    "general_bs_code": "12112431252511"
+}

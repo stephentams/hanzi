@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "face; cheek; reputation"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ansehen, Prestige  (S)​,Gesicht  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "visage,face,réputation"
+        }
+    ],
+    "general_pinyins": [
+        "liǎn"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "臉"
+    ],
+    "general_ytz": [
+        "臉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8138",
+            "35113414431"
+        ],
+        "char_code_wubi": "ewgi|ewgg",
+        "char_code_cangjie": "bomm",
+        "char_code_zhengma": "qobv",
+        "char_code_sijiao": "78219"
+    },
+    "general_unicode": "基本区 U+8138",
+    "general_bs_code": "35113414431"
+}

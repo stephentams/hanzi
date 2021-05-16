@@ -1,0 +1,23 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "几",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左下包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2064D",
+            "35251214"
+        ],
+        "char_code_wubi": "mji",
+        "char_code_cangjie": "hnlmi",
+        "char_code_zhengma": "qdi"
+    },
+    "general_unicode": "扩展B U+2064D",
+    "general_bs_code": "35251214"
+}

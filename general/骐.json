@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "piebald horse; excellent horse"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schecke (Pferd mit geschecktem Fell)​  (S, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "pie (cheval)​"
+        }
+    ],
+    "general_pinyins": [
+        "qí"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "马",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "騏"
+    ],
+    "general_ytz": [
+        "騏",
+        "騹",
+        "䭶",
+        "䭼",
+        "𩥕"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A90",
+            "55112211134"
+        ],
+        "char_code_wubi": "cadw|cgdw",
+        "char_code_cangjie": "nmtmc",
+        "char_code_zhengma": "xec",
+        "char_code_sijiao": "74181"
+    },
+    "general_unicode": "基本区 U+9A90",
+    "general_bs_code": "55112211134"
+}

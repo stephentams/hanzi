@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "high door; high gate; high, lofty"
+        },
+        {
+            "language": "德语",
+            "explanation": "hohes Tor  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "làng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "门",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "閬"
+    ],
+    "general_ytz": [
+        "閬",
+        "𨶗"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9606",
+            "4254511534"
+        ],
+        "char_code_wubi": "uyve|uyvi",
+        "char_code_cangjie": "lsiav",
+        "char_code_zhengma": "tlsx",
+        "char_code_sijiao": "37732"
+    },
+    "general_unicode": "基本区 U+9606",
+    "general_bs_code": "4254511534"
+}

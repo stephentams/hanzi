@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "empty, hollow, bare, deserted"
+        },
+        {
+            "language": "德语",
+            "explanation": "wenig, leer, vergeblich  (Adj)​,Kong  (Eig, Fam)​,freie Zeit, Muße, Lücke  (S)​,Himmel, Luft  (Adj)​,leer, leerstehend, hohl, nichtig, haltlos, nichtsagend  (Adj)​,vergebens, vergeblich, erfolglos, umsonst, für nichts  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "vide,air,ciel,espace,en vain,pour rien,vider,laisser vide,laisser en blanc,vacant,vide,inoccupé,espace,temps libre,loisir"
+        }
+    ],
+    "general_pinyins": [
+        "kōng",
+        "kòng",
+        "kǒng"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄥ",
+        "ㄎㄨㄥˋ",
+        "ㄎㄨㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "穴",
+        "non_radical_sn": "3",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "孔",
+        "𢦉"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7A7A",
+            "44534121"
+        ],
+        "char_code_wubi": "pwaf",
+        "char_code_cangjie": "jcm",
+        "char_code_zhengma": "wobi",
+        "char_code_sijiao": "30102"
+    },
+    "general_unicode": "基本区 U+7A7A",
+    "general_bs_code": "44534121"
+}

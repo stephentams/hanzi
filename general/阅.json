@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "examine, inspect, review, read"
+        },
+        {
+            "language": "德语",
+            "explanation": "lesen, durchlesen, durchgehen  (V)​,prüfen, überrüfen, besichtigen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "lire,passer en revue"
+        }
+    ],
+    "general_pinyins": [
+        "yuè"
+    ],
+    "general_zhuyins": [
+        "ㄩㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "门",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "閱",
+        "閲"
+    ],
+    "general_ytz": [
+        "閱",
+        "閲",
+        "𧢅"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9605",
+            "4254325135"
+        ],
+        "char_code_wubi": "uukq",
+        "char_code_cangjie": "lscru",
+        "char_code_zhengma": "tljr",
+        "char_code_sijiao": "37212"
+    },
+    "general_unicode": "基本区 U+9605",
+    "general_bs_code": "4254325135"
+}

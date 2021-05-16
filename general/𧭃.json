@@ -1,0 +1,27 @@
+{
+    "general_pinyins": [
+        "dàn"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "言",
+        "non_radical_sn": "13",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "擔"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "27B43",
+            "113411343513354111251"
+        ],
+        "char_code_wubi": "fwfy",
+        "char_code_cangjie": "qoncr",
+        "char_code_zhengma": "bdos"
+    },
+    "general_unicode": "扩展B U+27B43",
+    "general_bs_code": "113411343513354111251"
+}

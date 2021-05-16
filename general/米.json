@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hulled or husked uncooked rice"
+        },
+        {
+            "language": "德语",
+            "explanation": "geschälter, ungekochter Reis (S)​,Reis (S)​,Meter (Zähl)​,Radikal Nr. 119 = Reisfeld, Reis (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "riz,grain,mètre"
+        }
+    ],
+    "general_pinyins": [
+        "mǐ"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "米",
+        "non_radical_sn": "0",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡭝",
+        "𥞪",
+        "侎"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7C73",
+            "431234"
+        ],
+        "char_code_wubi": "oyty",
+        "char_code_cangjie": "fd",
+        "char_code_zhengma": "uf",
+        "char_code_sijiao": "90904"
+    },
+    "general_unicode": "基本区 U+7C73",
+    "general_bs_code": "431234"
+}

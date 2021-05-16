@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hesitate, undecided; embarrassed"
+        },
+        {
+            "language": "法语",
+            "explanation": "indécis,hésitant"
+        }
+    ],
+    "general_pinyins": [
+        "chí"
+    ],
+    "general_zhuyins": [
+        "ㄔˊ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "8",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "歭",
+        "踶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E1F",
+            "251212131134251"
+        ],
+        "char_code_wubi": "khtk",
+        "char_code_cangjie": "rmokr",
+        "char_code_zhengma": "jimj",
+        "char_code_sijiao": "66100"
+    },
+    "general_unicode": "基本区 U+8E1F",
+    "general_bs_code": "251212131134251"
+}

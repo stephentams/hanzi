@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "urge on; rise up; stir, excite"
+        },
+        {
+            "language": "法语",
+            "explanation": "élever,exciter,ambitieux,sourd de naissance"
+        }
+    ],
+    "general_pinyins": [
+        "sǒng"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "耳",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "聳"
+    ],
+    "general_ytz": [
+        "聳",
+        "𡷽"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8038",
+            "3434122111"
+        ],
+        "char_code_wubi": "wwbf",
+        "char_code_cangjie": "oosj",
+        "char_code_zhengma": "odoc",
+        "char_code_sijiao": "88401"
+    },
+    "general_unicode": "基本区 U+8038",
+    "general_bs_code": "3434122111"
+}

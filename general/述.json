@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "narrate, state, express"
+        },
+        {
+            "language": "德语",
+            "explanation": "berichten, erzählen  (V)​,darlegen, erklären  (V)​,schildern, begleitend kommentieren  (V)​,Shu  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "exposer,narrer"
+        }
+    ],
+    "general_pinyins": [
+        "shù"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠰲",
+        "䢤"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8FF0",
+            "12344454"
+        ],
+        "char_code_wubi": "sypi",
+        "char_code_cangjie": "yid",
+        "char_code_zhengma": "fsw",
+        "char_code_sijiao": "33309"
+    },
+    "general_unicode": "基本区 U+8FF0",
+    "general_bs_code": "12344454"
+}

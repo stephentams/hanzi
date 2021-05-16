@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "flame, blaze; glowing, blazing"
+        },
+        {
+            "language": "德语",
+            "explanation": "anmachen, Anpflaumerei  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "yàn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㷔",
+        "炎",
+        "焔",
+        "燄",
+        "爓",
+        "𤒦",
+        "𦥿",
+        "熖",
+        "𤏭",
+        "𤑑",
+        "𤒰"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7130",
+            "433435321511"
+        ],
+        "char_code_wubi": "oqvg|oqeg",
+        "char_code_cangjie": "fnhx",
+        "char_code_zhengma": "uorn",
+        "char_code_sijiao": "97877"
+    },
+    "general_unicode": "基本区 U+7130",
+    "general_bs_code": "433435321511"
+}

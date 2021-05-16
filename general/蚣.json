@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "centipede"
+        },
+        {
+            "language": "德语",
+            "explanation": "Tausendfüßler, Skolopender"
+        },
+        {
+            "language": "法语",
+            "explanation": "mille-pattes"
+        }
+    ],
+    "general_pinyins": [
+        "gōng",
+        "zhōng"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄥ",
+        "ㄓㄨㄥ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "蜙",
+        "𧌻",
+        "𧐱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "86A3",
+            "2512143454"
+        ],
+        "char_code_wubi": "jwcy",
+        "char_code_cangjie": "lici",
+        "char_code_zhengma": "iozs",
+        "char_code_sijiao": "58132"
+    },
+    "general_unicode": "基本区 U+86A3",
+    "general_bs_code": "2512143454"
+}

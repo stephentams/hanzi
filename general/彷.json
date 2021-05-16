@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "like, resembling; resemble"
+        },
+        {
+            "language": "德语",
+            "explanation": "anscheinende  (Adv)​,unentschlossen"
+        },
+        {
+            "language": "法语",
+            "explanation": "imiter,copier,semblable,similaire,perplexe"
+        }
+    ],
+    "general_pinyins": [
+        "páng",
+        "fǎng"
+    ],
+    "general_zhuyins": [
+        "ㄆㄤˊ",
+        "ㄈㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "彳",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "妨",
+        "徬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F77",
+            "3324153"
+        ],
+        "char_code_wubi": "tyn|tyt",
+        "char_code_cangjie": "hoyhs",
+        "char_code_zhengma": "oisy",
+        "char_code_sijiao": "20227"
+    },
+    "general_unicode": "基本区 U+5F77",
+    "general_bs_code": "3324153"
+}

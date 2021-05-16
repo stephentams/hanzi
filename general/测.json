@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "measure, estimate, conjecture"
+        },
+        {
+            "language": "法语",
+            "explanation": "mesurer,sonder,prévoir,prédire"
+        }
+    ],
+    "general_pinyins": [
+        "cè"
+    ],
+    "general_zhuyins": [
+        "ㄘㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "測"
+    ],
+    "general_ytz": [
+        "測",
+        "𤂄"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6D4B",
+            "441253422"
+        ],
+        "char_code_wubi": "imjh",
+        "char_code_cangjie": "ebon",
+        "char_code_zhengma": "vlkd",
+        "char_code_sijiao": "32100"
+    },
+    "general_unicode": "基本区 U+6D4B",
+    "general_bs_code": "441253422"
+}

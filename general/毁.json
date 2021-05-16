@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "destroy"
+        },
+        {
+            "language": "德语",
+            "explanation": "beschädigen, schädigen ,notschlachten, vernichten ,verderben, ruinieren"
+        }
+    ],
+    "general_pinyins": [
+        "huǐ"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄟˇ"
+    ],
+    "general_radical": {
+        "radical": "殳",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "毀"
+    ],
+    "general_ytz": [
+        "毀",
+        "燬",
+        "譭",
+        "㩓",
+        "䃣",
+        "䛼",
+        "𡒂",
+        "𢾌",
+        "𣪷",
+        "𣫏",
+        "𪑺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6BC1",
+            "3215111213554"
+        ],
+        "char_code_wubi": "vamc|eawc",
+        "char_code_cangjie": "hmhne",
+        "char_code_zhengma": "nbbq",
+        "char_code_sijiao": "77147"
+    },
+    "general_unicode": "基本区 U+6BC1",
+    "general_bs_code": "3215111213554"
+}

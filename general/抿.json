@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pucker up lips in smile; press"
+        },
+        {
+            "language": "德语",
+            "explanation": "glätten, weichen"
+        },
+        {
+            "language": "法语",
+            "explanation": "pincer (lèvres)​,lisser,fermer légèrement,boire à petits coups"
+        }
+    ],
+    "general_pinyins": [
+        "mǐn"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㨉",
+        "冺",
+        "呡"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "62BF",
+            "12151515"
+        ],
+        "char_code_wubi": "rnan",
+        "char_code_cangjie": "qrvp",
+        "char_code_zhengma": "dyhd",
+        "char_code_sijiao": "57047"
+    },
+    "general_unicode": "基本区 U+62BF",
+    "general_bs_code": "12151515"
+}

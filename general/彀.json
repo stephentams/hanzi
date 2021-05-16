@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "enough, adequate fully, quite"
+        },
+        {
+            "language": "德语",
+            "explanation": "ausreichend, hinreichend"
+        },
+        {
+            "language": "法语",
+            "explanation": "assez"
+        }
+    ],
+    "general_pinyins": [
+        "gòu"
+    ],
+    "general_zhuyins": [
+        "ㄍㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "弓",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "够",
+        "𠥚",
+        "𢐙",
+        "彄",
+        "𡖜"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F40",
+            "1214515153554"
+        ],
+        "char_code_wubi": "fpgc",
+        "char_code_cangjie": "gnhne",
+        "char_code_zhengma": "bwyq",
+        "char_code_sijiao": "47247"
+    },
+    "general_unicode": "基本区 U+5F40",
+    "general_bs_code": "1214515153554"
+}

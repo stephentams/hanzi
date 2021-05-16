@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "non-glutinous long grain rice"
+        },
+        {
+            "language": "德语",
+            "explanation": "langgrannig-nichtklebriger Reis"
+        }
+    ],
+    "general_pinyins": [
+        "xiān"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "米",
+        "non_radical_sn": "3",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "秈"
+    ],
+    "general_ytz": [
+        "秈",
+        "䄳",
+        "䄽"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7C7C",
+            "431234252"
+        ],
+        "char_code_wubi": "omh",
+        "char_code_cangjie": "fdu",
+        "char_code_zhengma": "ufll",
+        "char_code_sijiao": "92970"
+    },
+    "general_unicode": "基本区 U+7C7C",
+    "general_bs_code": "431234252"
+}

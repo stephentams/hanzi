@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "follow, comply with"
+        },
+        {
+            "language": "德语",
+            "explanation": "beachten, befolgen"
+        },
+        {
+            "language": "法语",
+            "explanation": "se conformer à,suivre"
+        }
+    ],
+    "general_pinyins": [
+        "guī"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄟ"
+    ],
+    "general_radical": {
+        "radical": "白",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "歸",
+        "𦤇"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7688",
+            "325113354"
+        ],
+        "char_code_wubi": "rrcy",
+        "char_code_cangjie": "hahe",
+        "char_code_zhengma": "nkpx",
+        "char_code_sijiao": "22647"
+    },
+    "general_unicode": "基本区 U+7688",
+    "general_bs_code": "325113354"
+}

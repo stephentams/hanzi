@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "like, similar; resemble; pretty"
+        },
+        {
+            "language": "德语",
+            "explanation": "pfiffig, klug ,viel gefragt, sehr begehrt"
+        },
+        {
+            "language": "法语",
+            "explanation": "joli,coquet,qui se vend bien"
+        }
+    ],
+    "general_pinyins": [
+        "qiào",
+        "xiào"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄠˋ",
+        "ㄒㄧㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4FCF",
+            "322432511"
+        ],
+        "char_code_wubi": "wieg",
+        "char_code_cangjie": "ofb",
+        "char_code_zhengma": "nkq",
+        "char_code_sijiao": "29227"
+    },
+    "general_unicode": "基本区 U+4FCF",
+    "general_bs_code": "322432511"
+}

@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dawn, daybreak; clear, explicit"
+        },
+        {
+            "language": "法语",
+            "explanation": "aube,savoir,faire savoir"
+        }
+    ],
+    "general_pinyins": [
+        "xiǎo"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "曉"
+    ],
+    "general_ytz": [
+        "曉",
+        "暁",
+        "皢",
+        "𣉊"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6653",
+            "2511153135"
+        ],
+        "char_code_wubi": "jatq",
+        "char_code_cangjie": "ajpu",
+        "char_code_zhengma": "khgr",
+        "char_code_sijiao": "65012"
+    },
+    "general_unicode": "基本区 U+6653",
+    "general_bs_code": "2511153135"
+}

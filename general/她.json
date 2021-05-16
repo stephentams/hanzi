@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "she, her"
+        },
+        {
+            "language": "德语",
+            "explanation": "sie (ihr, ihre)​ 法语 elle"
+        }
+    ],
+    "general_pinyins": [
+        "tā",
+        "jiě"
+    ],
+    "general_zhuyins": [
+        "ㄊㄚ",
+        "ㄐㄧㄝˇ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "姐"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5979",
+            "531525"
+        ],
+        "char_code_wubi": "vbn",
+        "char_code_cangjie": "vpd",
+        "char_code_zhengma": "zmyi",
+        "char_code_sijiao": "44412"
+    },
+    "general_unicode": "基本区 U+5979",
+    "general_bs_code": "531525"
+}

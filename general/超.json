@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "jump over, leap over; surpass"
+        },
+        {
+            "language": "德语",
+            "explanation": "überbieten, überschreiten  (V)​,über-"
+        },
+        {
+            "language": "法语",
+            "explanation": "dépasser,devancer (préfixe)​ sur-,super-,ultra-,extra-"
+        }
+    ],
+    "general_pinyins": [
+        "chāo"
+    ],
+    "general_zhuyins": [
+        "ㄔㄠ"
+    ],
+    "general_radical": {
+        "radical": "走",
+        "non_radical_sn": "5",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "趫",
+        "趠"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D85",
+            "121213453251"
+        ],
+        "char_code_wubi": "fhvk",
+        "char_code_cangjie": "goshr",
+        "char_code_zhengma": "boyj",
+        "char_code_sijiao": "47806"
+    },
+    "general_unicode": "基本区 U+8D85",
+    "general_bs_code": "121213453251"
+}

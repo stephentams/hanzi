@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "yellow loam; clay; season; few"
+        },
+        {
+            "language": "德语",
+            "explanation": "wenig, wenige, ,Lehm(gelbe Tonerde)​"
+        }
+    ],
+    "general_pinyins": [
+        "jǐn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䒺",
+        "菫",
+        "蓳",
+        "𡎸",
+        "𡏳",
+        "𡐳",
+        "𦸧",
+        "𦸨",
+        "𦻋",
+        "𦻍",
+        "墐"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5807",
+            "12212511121"
+        ],
+        "char_code_wubi": "akgf",
+        "char_code_cangjie": "tlqm",
+        "char_code_zhengma": "eajc",
+        "char_code_sijiao": "44105"
+    },
+    "general_unicode": "基本区 U+5807",
+    "general_bs_code": "12212511121"
+}

@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "break, destroy; broken, tattered"
+        },
+        {
+            "language": "法语",
+            "explanation": "usé"
+        }
+    ],
+    "general_pinyins": [
+        "bì"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "攵",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "弊",
+        "㡀"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "655D",
+            "43252343134"
+        ],
+        "char_code_wubi": "umit|ity",
+        "char_code_cangjie": "fbok",
+        "char_code_zhengma": "kvlm",
+        "char_code_sijiao": "98240"
+    },
+    "general_unicode": "基本区 U+655D",
+    "general_bs_code": "43252343134"
+}

@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㝅"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "21535",
+            "1214534435215"
+        ],
+        "char_code_wubi": "fpen",
+        "char_code_cangjie": "gbbu",
+        "char_code_zhengma": "bwyz"
+    },
+    "general_unicode": "扩展B U+21535",
+    "general_bs_code": "1214534435215"
+}

@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hide; conceal, a house not so high"
+        }
+    ],
+    "general_pinyins": [
+        "chà",
+        "zé",
+        "zhái",
+        "zhé"
+    ],
+    "general_zhuyins": [
+        "ㄔㄚˋ",
+        "ㄗㄜˊ",
+        "ㄓㄞˊ",
+        "ㄓㄜˊ"
+    ],
+    "general_radical": {
+        "radical": "广",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "388E",
+            "413312321511"
+        ],
+        "char_code_wubi": "ytfv|otfe",
+        "char_code_cangjie": "ihjx",
+        "char_code_zhengma": "tgmn",
+        "char_code_sijiao": "00277"
+    },
+    "general_unicode": "扩展A U+388E",
+    "general_bs_code": "413312321511"
+}

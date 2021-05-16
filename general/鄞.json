@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "county in Zhejiang province"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 Begrenzung  (S)​,Yin  (Eig, Fam)"
+        }
+    ],
+    "general_pinyins": [
+        "yín"
+    ],
+    "general_zhuyins": [
+        "ㄧㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "11",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "911E",
+            "1221251112152"
+        ],
+        "char_code_wubi": "akgb",
+        "char_code_cangjie": "tmnl",
+        "char_code_zhengma": "eacy",
+        "char_code_sijiao": "47127"
+    },
+    "general_unicode": "基本区 U+911E",
+    "general_bs_code": "1221251112152"
+}

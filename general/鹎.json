@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bird"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bülbül  (S, Bio)"
+        }
+    ],
+    "general_pinyins": [
+        "bēi"
+    ],
+    "general_zhuyins": [
+        "ㄅㄟ"
+    ],
+    "general_radical": {
+        "radical": "鸟",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "鵯"
+    ],
+    "general_ytz": [
+        "鵯",
+        "𨿵",
+        "𪂃",
+        "𪄆"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E4E",
+            "3251131235451"
+        ],
+        "char_code_wubi": "rtfg",
+        "char_code_cangjie": "hjpym",
+        "char_code_zhengma": "njer",
+        "char_code_sijiao": "27427"
+    },
+    "general_unicode": "基本区 U+9E4E",
+    "general_bs_code": "3251131235451"
+}

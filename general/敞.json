@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "roomy, spacious, open, broad"
+        },
+        {
+            "language": "法语",
+            "explanation": "ouvrir,laisser ouvert,découvert,spacieux,dégagé,ample"
+        }
+    ],
+    "general_pinyins": [
+        "chǎng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "攵",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "僘",
+        "鋥"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "655E",
+            "243252513134"
+        ],
+        "char_code_wubi": "imkt",
+        "char_code_cangjie": "xfbok",
+        "char_code_zhengma": "kolm",
+        "char_code_sijiao": "98240"
+    },
+    "general_unicode": "基本区 U+655E",
+    "general_bs_code": "243252513134"
+}

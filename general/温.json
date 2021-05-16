@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lukewarm"
+        },
+        {
+            "language": "德语",
+            "explanation": "warm, Temperatur  (S)​,Wen  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "réchauffer,attiédir,réviser,revoir,température,tiède,doux"
+        }
+    ],
+    "general_pinyins": [
+        "wēn"
+    ],
+    "general_zhuyins": [
+        "ㄨㄣ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "溫"
+    ],
+    "general_ytz": [
+        "溫",
+        "昷",
+        "𣽭",
+        "𤀄"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6E29",
+            "441251125221"
+        ],
+        "char_code_wubi": "ijlg",
+        "char_code_cangjie": "eabt",
+        "char_code_zhengma": "vklk",
+        "char_code_sijiao": "36112"
+    },
+    "general_unicode": "基本区 U+6E29",
+    "general_bs_code": "441251125221"
+}

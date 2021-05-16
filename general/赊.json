@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "buy and sell on credit, distant"
+        },
+        {
+            "language": "德语",
+            "explanation": "etwas auf Kredit kaufen  (V)​,etwas auf Kredit verkaufen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "à crédit,différer"
+        }
+    ],
+    "general_pinyins": [
+        "shē"
+    ],
+    "general_zhuyins": [
+        "ㄕㄜ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "賒"
+    ],
+    "general_ytz": [
+        "賒",
+        "賖",
+        "𧴳",
+        "𧶟"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D4A",
+            "25343411234"
+        ],
+        "char_code_wubi": "mwfi",
+        "char_code_cangjie": "boomf",
+        "char_code_zhengma": "loob",
+        "char_code_sijiao": "78891"
+    },
+    "general_unicode": "基本区 U+8D4A",
+    "general_bs_code": "25343411234"
+}

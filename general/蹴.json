@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "kick; tread on; leap; solemn"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fußtritt; Stoß"
+        }
+    ],
+    "general_pinyins": [
+        "cù"
+    ],
+    "general_zhuyins": [
+        "ㄘㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "12",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "踓",
+        "蹙",
+        "蹵",
+        "𨉌",
+        "𨇳"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E74",
+            "2512121412512341354"
+        ],
+        "char_code_wubi": "khyn|khyy",
+        "char_code_cangjie": "rmyfu",
+        "char_code_zhengma": "jikg",
+        "char_code_sijiao": "63112"
+    },
+    "general_unicode": "基本区 U+8E74",
+    "general_bs_code": "2512121412512341354"
+}

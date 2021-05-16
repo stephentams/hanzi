@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "repay, recompense; restitution"
+        },
+        {
+            "language": "德语",
+            "explanation": "jmd. entschädigen, büßen  (V)​,zurückzahlen, zurückerstatten  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "payer,rembourser,satisfaire,exaucer,réparer"
+        }
+    ],
+    "general_pinyins": [
+        "cháng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "15",
+        "total_sn": "17"
+    },
+    "general_stc": [
+        "偿"
+    ],
+    "general_ytz": [
+        "偿"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "511F",
+            "32243452512511134"
+        ],
+        "char_code_wubi": "wipm",
+        "char_code_cangjie": "ofbc",
+        "char_code_zhengma": "nkjl",
+        "char_code_sijiao": "29286"
+    },
+    "general_unicode": "基本区 U+511F",
+    "general_bs_code": "32243452512511134"
+}

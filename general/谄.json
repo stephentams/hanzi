@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "flatter, truckle, toady"
+        },
+        {
+            "language": "法语",
+            "explanation": "flagorner,flatter"
+        }
+    ],
+    "general_pinyins": [
+        "chǎn"
+    ],
+    "general_zhuyins": [
+        "ㄔㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "諂"
+    ],
+    "general_ytz": [
+        "諂"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C04",
+            "4535321511"
+        ],
+        "char_code_wubi": "yqvg|yqeg",
+        "char_code_cangjie": "ivnhx",
+        "char_code_zhengma": "srnb",
+        "char_code_sijiao": "37777"
+    },
+    "general_unicode": "基本区 U+8C04",
+    "general_bs_code": "4535321511"
+}

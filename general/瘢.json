@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "scar, mole"
+        },
+        {
+            "language": "法语",
+            "explanation": "cicatrices,marques de la petite vérole"
+        }
+    ],
+    "general_pinyins": [
+        "bān"
+    ],
+    "general_zhuyins": [
+        "ㄅㄢ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "10",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "疤",
+        "𤻧"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7622",
+            "413413354143554"
+        ],
+        "char_code_wubi": "utec|utuc",
+        "char_code_cangjie": "khye",
+        "char_code_zhengma": "tpqx",
+        "char_code_sijiao": "00147"
+    },
+    "general_unicode": "基本区 U+7622",
+    "general_bs_code": "413413354143554"
+}

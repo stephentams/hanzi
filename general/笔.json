@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "writing brush; write; stroke"
+        },
+        {
+            "language": "德语",
+            "explanation": "Feder, Stift  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "stylo,crayon,pinceau,écrire ou composer,traits composant les caractères chinois,(classificateur des sommes d'argent et des affaires financières)​"
+        }
+    ],
+    "general_pinyins": [
+        "bǐ"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "毛",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "筆"
+    ],
+    "general_ytz": [
+        "筆",
+        "𡭩"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7B14",
+            "3143143115"
+        ],
+        "char_code_wubi": "ttfn|teb",
+        "char_code_cangjie": "hhqu",
+        "char_code_zhengma": "mmh",
+        "char_code_sijiao": "88714"
+    },
+    "general_unicode": "基本区 U+7B14",
+    "general_bs_code": "3143143115"
+}

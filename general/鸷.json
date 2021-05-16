@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hawk, vulture"
+        },
+        {
+            "language": "德语",
+            "explanation": "Raubvögel  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "oiseau de proie,battre"
+        }
+    ],
+    "general_pinyins": [
+        "zhì"
+    ],
+    "general_zhuyins": [
+        "ㄓˋ"
+    ],
+    "general_radical": {
+        "radical": "鸟",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "鷙"
+    ],
+    "general_ytz": [
+        "鷙"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E37",
+            "12135435451"
+        ],
+        "char_code_wubi": "rvyg",
+        "char_code_cangjie": "qipym",
+        "char_code_zhengma": "dqsr",
+        "char_code_sijiao": "55127"
+    },
+    "general_unicode": "基本区 U+9E37",
+    "general_bs_code": "12135435451"
+}

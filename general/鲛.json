@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "shark"
+        },
+        {
+            "language": "德语",
+            "explanation": "Haifisch, Hai  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "requin"
+        }
+    ],
+    "general_pinyins": [
+        "jiāo"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "6",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "鮫"
+    ],
+    "general_ytz": [
+        "鮫"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9C9B",
+            "35251211413434"
+        ],
+        "char_code_wubi": "qguq|qgur",
+        "char_code_cangjie": "nmyck",
+        "char_code_zhengma": "rsoo",
+        "char_code_sijiao": "20148"
+    },
+    "general_unicode": "基本区 U+9C9B",
+    "general_bs_code": "35251211413434"
+}

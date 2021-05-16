@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pocket, bag, sack, pouch"
+        },
+        {
+            "language": "德语",
+            "explanation": "Sack ,Tasche"
+        },
+        {
+            "language": "法语",
+            "explanation": "sac,poche"
+        }
+    ],
+    "general_pinyins": [
+        "dài"
+    ],
+    "general_zhuyins": [
+        "ㄉㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "衣",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "帒"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "888B",
+            "32154413534"
+        ],
+        "char_code_wubi": "waye",
+        "char_code_cangjie": "opyhv",
+        "char_code_zhengma": "nhsr",
+        "char_code_sijiao": "23732"
+    },
+    "general_unicode": "基本区 U+888B",
+    "general_bs_code": "32154413534"
+}

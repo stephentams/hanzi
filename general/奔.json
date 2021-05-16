@@ -1,0 +1,58 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "run fast, flee; rush about; run"
+        },
+        {
+            "language": "法语",
+            "explanation": "ruée"
+        }
+    ],
+    "general_pinyins": [
+        "bēn",
+        "bèn"
+    ],
+    "general_zhuyins": [
+        "ㄅㄣ",
+        "ㄅㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "大",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "倴",
+        "渀",
+        "犇",
+        "逩",
+        "𠬼",
+        "𡗲",
+        "𢍃",
+        "𣦴",
+        "𥝯",
+        "𧾜",
+        "𧾭",
+        "𧿣",
+        "𨁼",
+        "𨃦",
+        "𩦥",
+        "𩣺",
+        "奔"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5954",
+            "13412132"
+        ],
+        "char_code_wubi": "dfaj",
+        "char_code_cangjie": "kjt",
+        "char_code_zhengma": "gdee",
+        "char_code_sijiao": "40444"
+    },
+    "general_unicode": "基本区 U+5954",
+    "general_bs_code": "13412132"
+}

@@ -1,0 +1,57 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "subservient; servant; KangXi radical 171"
+        },
+        {
+            "language": "德语",
+            "explanation": "zugeneigt, zugetan ,anreißen, anzeichnen  (V)​,Li  (Eig, Fam)​,Radikal Nr. 171 = ergreifen, fangen, untergeordnet,untergeben sein, unterstehen"
+        },
+        {
+            "language": "法语",
+            "explanation": "dépendre de,être subordonné à,esclave,scribe"
+        }
+    ],
+    "general_pinyins": [
+        "lì",
+        "dài"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˋ",
+        "ㄉㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "隶",
+        "non_radical_sn": "0",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "隸"
+    ],
+    "general_ytz": [
+        "肄",
+        "逮",
+        "隸",
+        "隷",
+        "𣜩",
+        "𥛬",
+        "𨽻",
+        "𨽾",
+        "𨾀",
+        "𨾁"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "96B6",
+            "51124134"
+        ],
+        "char_code_wubi": "vii",
+        "char_code_cangjie": "le",
+        "char_code_zhengma": "xbkv",
+        "char_code_sijiao": "50909"
+    },
+    "general_unicode": "基本区 U+96B6",
+    "general_bs_code": "51124134"
+}

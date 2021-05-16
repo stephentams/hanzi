@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "main beams supporting house"
+        },
+        {
+            "language": "德语",
+            "explanation": "First, Dachfirst  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(classificateur pour les bâtiments)​,poutre de faîte,poutre maîtresse,pilier"
+        }
+    ],
+    "general_pinyins": [
+        "dòng"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "棟"
+    ],
+    "general_ytz": [
+        "棟",
+        "𤗗"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "680B",
+            "123415234"
+        ],
+        "char_code_wubi": "saiy",
+        "char_code_cangjie": "dkd",
+        "char_code_zhengma": "fhko",
+        "char_code_sijiao": "44994"
+    },
+    "general_unicode": "基本区 U+680B",
+    "general_bs_code": "123415234"
+}

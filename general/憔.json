@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "be worn-out, emaciated, haggard"
+        },
+        {
+            "language": "德语",
+            "explanation": "wild, abgehärmt"
+        }
+    ],
+    "general_pinyins": [
+        "qiáo"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "嫶",
+        "顦",
+        "䩌"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6194",
+            "442324111214444"
+        ],
+        "char_code_wubi": "nwyo",
+        "char_code_cangjie": "pogf",
+        "char_code_zhengma": "unuo",
+        "char_code_sijiao": "90031"
+    },
+    "general_unicode": "基本区 U+6194",
+    "general_bs_code": "442324111214444"
+}

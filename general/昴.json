@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "one of the 28 constellations"
+        },
+        {
+            "language": "法语",
+            "explanation": "Pléiades"
+        }
+    ],
+    "general_pinyins": [
+        "mǎo"
+    ],
+    "general_zhuyins": [
+        "ㄇㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣆻",
+        "𣇅",
+        "𣇯"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6634",
+            "251135352"
+        ],
+        "char_code_wubi": "jqtb",
+        "char_code_cangjie": "ahhl",
+        "char_code_zhengma": "krmy",
+        "char_code_sijiao": "60727"
+    },
+    "general_unicode": "基本区 U+6634",
+    "general_bs_code": "251135352"
+}

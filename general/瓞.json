@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "young melons just forming"
+        },
+        {
+            "language": "法语",
+            "explanation": "jeune melon"
+        }
+    ],
+    "general_pinyins": [
+        "dié"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "瓜",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤔅",
+        "𤫰",
+        "𤫴",
+        "𤫼",
+        "𤬈",
+        "𤬎"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "74DE",
+            "3354431134"
+        ],
+        "char_code_wubi": "rcyw|rcyg",
+        "char_code_cangjie": "hohqo",
+        "char_code_zhengma": "psmo",
+        "char_code_sijiao": "75238"
+    },
+    "general_unicode": "基本区 U+74DE",
+    "general_bs_code": "3354431134"
+}

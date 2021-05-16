@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cholera; colic"
+        },
+        {
+            "language": "德语",
+            "explanation": "Cholera  (S, Med)"
+        },
+        {
+            "language": "法语",
+            "explanation": "choléra"
+        }
+    ],
+    "general_pinyins": [
+        "shā"
+    ],
+    "general_zhuyins": [
+        "ㄕㄚ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤵌"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "75E7",
+            "413414412343"
+        ],
+        "char_code_wubi": "uiit",
+        "char_code_cangjie": "kefh",
+        "char_code_zhengma": "tvkm",
+        "char_code_sijiao": "00129"
+    },
+    "general_unicode": "基本区 U+75E7",
+    "general_bs_code": "413414412343"
+}

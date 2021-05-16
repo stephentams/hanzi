@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to eat, drink"
+        }
+    ],
+    "general_pinyins": [
+        "cān",
+        "sūn",
+        "qī"
+    ],
+    "general_zhuyins": [
+        "ㄘㄢ",
+        "ㄙㄨㄣ",
+        "ㄑㄧ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "飧",
+        "餐"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "55B0",
+            "251344511534"
+        ],
+        "char_code_wubi": "kwye|kwyv",
+        "char_code_cangjie": "roiv",
+        "char_code_zhengma": "jox",
+        "char_code_sijiao": "68032"
+    },
+    "general_unicode": "基本区 U+55B0",
+    "general_bs_code": "251344511534"
+}

@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "boast, brag; popular, well-known"
+        },
+        {
+            "language": "德语",
+            "explanation": "bekannt machen, 法语 se vanter"
+        }
+    ],
+    "general_pinyins": [
+        "xǔ"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩˇ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "詡"
+    ],
+    "general_ytz": [
+        "詡",
+        "𧩘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BE9",
+            "45541541"
+        ],
+        "char_code_wubi": "yng",
+        "char_code_cangjie": "ivsmm",
+        "char_code_zhengma": "syyt",
+        "char_code_sijiao": "37720"
+    },
+    "general_unicode": "基本区 U+8BE9",
+    "general_bs_code": "45541541"
+}

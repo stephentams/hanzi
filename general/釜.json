@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cauldron, pot, kettle"
+        },
+        {
+            "language": "德语",
+            "explanation": "Autoklav  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "chaudron,marmite,chaudière"
+        }
+    ],
+    "general_pinyins": [
+        "fǔ"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "金",
+        "non_radical_sn": "2",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "釡",
+        "鬴",
+        "𠿽",
+        "𤤎",
+        "𨥏",
+        "𩱉",
+        "𪺛"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "91DC",
+            "3434112431"
+        ],
+        "char_code_wubi": "wqfu|wrfu",
+        "char_code_cangjie": "ckmgc",
+        "char_code_zhengma": "oocu",
+        "char_code_sijiao": "80109"
+    },
+    "general_unicode": "基本区 U+91DC",
+    "general_bs_code": "3434112431"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "path; river in Ningbo; Ningbo"
+        },
+        {
+            "language": "德语",
+            "explanation": "Dienstmädchen  (S)​,Straße, Pfad"
+        },
+        {
+            "language": "法语",
+            "explanation": "Ningbo"
+        }
+    ],
+    "general_pinyins": [
+        "yǒng"
+    ],
+    "general_zhuyins": [
+        "ㄩㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "用",
+        "non_radical_sn": "2",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "埇",
+        "筩",
+        "𧗴"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "752C",
+            "5425112"
+        ],
+        "char_code_wubi": "cej",
+        "char_code_cangjie": "nibq",
+        "char_code_zhengma": "xsld",
+        "char_code_sijiao": "17227"
+    },
+    "general_unicode": "基本区 U+752C",
+    "general_bs_code": "5425112"
+}

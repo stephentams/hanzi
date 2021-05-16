@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "palace, temple, dwelling, enclose"
+        },
+        {
+            "language": "德语",
+            "explanation": "Palast  (S)​,Gong  (Eig, Fam)​,Palastbezirk; Festungsbezirk (im chinesischen Schach)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "palais,temple"
+        }
+    ],
+    "general_pinyins": [
+        "gōng"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄥ"
+    ],
+    "general_radical": {
+        "radical": "宀",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "宫"
+    ],
+    "general_ytz": [
+        "宫",
+        "𦞨"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5BAE",
+            "4452513251"
+        ],
+        "char_code_wubi": "pktk",
+        "char_code_cangjie": "jrhr",
+        "char_code_zhengma": "wdjn",
+        "char_code_sijiao": "30602"
+    },
+    "general_unicode": "基本区 U+5BAE",
+    "general_bs_code": "4452513251"
+}

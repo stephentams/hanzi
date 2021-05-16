@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "torrential rains, flow of water"
+        },
+        {
+            "language": "德语",
+            "explanation": "Regenflut  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "torrent de pluie"
+        }
+    ],
+    "general_pinyins": [
+        "pèi"
+    ],
+    "general_zhuyins": [
+        "ㄆㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "雨",
+        "non_radical_sn": "7",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "沛"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9708",
+            "145244444411251"
+        ],
+        "char_code_wubi": "figh",
+        "char_code_cangjie": "mbejb",
+        "char_code_zhengma": "fval",
+        "char_code_sijiao": "10127"
+    },
+    "general_unicode": "基本区 U+9708",
+    "general_bs_code": "145244444411251"
+}

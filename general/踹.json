@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "trample, tread on, kick; to crush"
+        },
+        {
+            "language": "法语",
+            "explanation": "donner un coup de pied,fouler du pied,marcher sur"
+        }
+    ],
+    "general_pinyins": [
+        "chuài"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "9",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E39",
+            "2512121252132522"
+        ],
+        "char_code_wubi": "khmj",
+        "char_code_cangjie": "rmumb",
+        "char_code_zhengma": "jilg",
+        "char_code_sijiao": "62127"
+    },
+    "general_unicode": "基本区 U+8E39",
+    "general_bs_code": "2512121252132522"
+}

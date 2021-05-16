@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "explain, clarify, elucidate"
+        },
+        {
+            "language": "德语",
+            "explanation": "enthüllen, aufdecken  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "manifester,expliquer,interpréter"
+        }
+    ],
+    "general_pinyins": [
+        "chǎn"
+    ],
+    "general_zhuyins": [
+        "ㄔㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "门",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "闡"
+    ],
+    "general_ytz": [
+        "闡",
+        "閳",
+        "𨴁",
+        "𨴝"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9610",
+            "42543251112"
+        ],
+        "char_code_wubi": "uujf",
+        "char_code_cangjie": "lscwj",
+        "char_code_zhengma": "tlke",
+        "char_code_sijiao": "37506"
+    },
+    "general_unicode": "基本区 U+9610",
+    "general_bs_code": "42543251112"
+}

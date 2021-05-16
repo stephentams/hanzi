@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "barley"
+        },
+        {
+            "language": "法语",
+            "explanation": "plantain (plantago major)​"
+        }
+    ],
+    "general_pinyins": [
+        "yǐ"
+    ],
+    "general_zhuyins": [
+        "ㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "苢"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "82E1",
+            "1225434"
+        ],
+        "char_code_wubi": "anyw",
+        "char_code_cangjie": "tvio",
+        "char_code_zhengma": "ezod",
+        "char_code_sijiao": "44780"
+    },
+    "general_unicode": "基本区 U+82E1",
+    "general_bs_code": "1225434"
+}

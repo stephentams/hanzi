@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wash, cleanse; purge"
+        },
+        {
+            "language": "德语",
+            "explanation": "reinigen"
+        },
+        {
+            "language": "法语",
+            "explanation": "nettoyer,purifier"
+        }
+    ],
+    "general_pinyins": [
+        "jiān"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣹅",
+        "𣾅",
+        "𣾥",
+        "濺",
+        "灒"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6E54",
+            "441431251122"
+        ],
+        "char_code_wubi": "iuej",
+        "char_code_cangjie": "etbn",
+        "char_code_zhengma": "vuqk",
+        "char_code_sijiao": "38121"
+    },
+    "general_unicode": "基本区 U+6E54",
+    "general_bs_code": "441431251122"
+}

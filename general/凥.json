@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to dwell"
+        }
+    ],
+    "general_pinyins": [
+        "jū"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩ"
+    ],
+    "general_radical": {
+        "radical": "几",
+        "non_radical_sn": "3",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "居"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "51E5",
+            "51335"
+        ],
+        "char_code_wubi": "nmv|nwv",
+        "char_code_cangjie": "shn",
+        "char_code_zhengma": "xmqd",
+        "char_code_sijiao": "77217"
+    },
+    "general_unicode": "基本区 U+51E5",
+    "general_bs_code": "51335"
+}

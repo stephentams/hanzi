@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "summon; propagate, transmit"
+        },
+        {
+            "language": "德语",
+            "explanation": "weitergeben, übermitteln  (V)​,Biographie, Lebenslauf (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "biographie,livre classique,passer,transmettre,communiquer,enseigner,répandre,propager,contaminer"
+        }
+    ],
+    "general_pinyins": [
+        "chuán",
+        "zhuàn"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨㄢˊ",
+        "ㄓㄨㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "11",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "传"
+    ],
+    "general_ytz": [
+        "传"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "50B3",
+            "3212511214124"
+        ],
+        "char_code_wubi": "wgjf",
+        "char_code_cangjie": "ojii",
+        "char_code_zhengma": "nfds",
+        "char_code_sijiao": "25243"
+    },
+    "general_unicode": "基本区 U+50B3",
+    "general_bs_code": "3212511214124"
+}

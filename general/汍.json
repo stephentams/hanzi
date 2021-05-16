@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "weep"
+        },
+        {
+            "language": "德语",
+            "explanation": "Tränen vergießen"
+        },
+        {
+            "language": "法语",
+            "explanation": "être en pleur"
+        }
+    ],
+    "general_pinyins": [
+        "wán"
+    ],
+    "general_zhuyins": [
+        "ㄨㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "洹"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6C4D",
+            "441354"
+        ],
+        "char_code_wubi": "ivyy",
+        "char_code_cangjie": "ekni",
+        "char_code_zhengma": "vqs",
+        "char_code_sijiao": "35117"
+    },
+    "general_unicode": "基本区 U+6C4D",
+    "general_bs_code": "441354"
+}

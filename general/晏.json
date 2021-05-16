@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "peaceful, quiet; clear; late in the day"
+        },
+        {
+            "language": "德语",
+            "explanation": "ruhig, still, gemütlich ,Yan  (Eig, Fam)​,spät"
+        },
+        {
+            "language": "法语",
+            "explanation": "tard"
+        }
+    ],
+    "general_pinyins": [
+        "yàn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡜑",
+        "𣇆"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "664F",
+            "2511445531"
+        ],
+        "char_code_wubi": "jpvf",
+        "char_code_cangjie": "ajv",
+        "char_code_zhengma": "kwzm",
+        "char_code_sijiao": "60404"
+    },
+    "general_unicode": "基本区 U+664F",
+    "general_bs_code": "2511445531"
+}

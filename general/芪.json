@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "celery"
+        },
+        {
+            "language": "德语",
+            "explanation": "Stilben ,Kräutergewächs  (S, Bio)​,Bohnenstroh (Dialekt)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "stilbène"
+        }
+    ],
+    "general_pinyins": [
+        "qí"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "82AA",
+            "1223515"
+        ],
+        "char_code_wubi": "aqab",
+        "char_code_cangjie": "thvp",
+        "char_code_zhengma": "erh",
+        "char_code_sijiao": "44742"
+    },
+    "general_unicode": "基本区 U+82AA",
+    "general_bs_code": "1223515"
+}

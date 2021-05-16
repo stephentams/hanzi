@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "go-between, broker, proxy"
+        },
+        {
+            "language": "德语",
+            "explanation": "Trödler, Maklergesellschaft  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "intermédiaire,courtier"
+        }
+    ],
+    "general_pinyins": [
+        "kuài"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "13",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "侩"
+    ],
+    "general_ytz": [
+        "侩",
+        "𩦱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5108",
+            "323412524312511"
+        ],
+        "char_code_wubi": "wwgj",
+        "char_code_cangjie": "ooma",
+        "char_code_zhengma": "nolk",
+        "char_code_sijiao": "28266"
+    },
+    "general_unicode": "基本区 U+5108",
+    "general_bs_code": "323412524312511"
+}

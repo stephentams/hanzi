@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "move lips as when speaking; hesitation"
+        },
+        {
+            "language": "法语",
+            "explanation": "bouger la bouche"
+        }
+    ],
+    "general_pinyins": [
+        "niè"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "18",
+        "total_sn": "21"
+    },
+    "general_stc": [
+        "嗫"
+    ],
+    "general_ytz": [
+        "嗫",
+        "聶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "56C1",
+            "251122111122111122111"
+        ],
+        "char_code_wubi": "kbbb",
+        "char_code_cangjie": "rsjj",
+        "char_code_zhengma": "jccc",
+        "char_code_sijiao": "61041"
+    },
+    "general_unicode": "基本区 U+56C1",
+    "general_bs_code": "251122111122111122111"
+}

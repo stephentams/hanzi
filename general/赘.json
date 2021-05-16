@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "unnecessary, superfluous"
+        },
+        {
+            "language": "德语",
+            "explanation": "überflüssig, unnötig"
+        },
+        {
+            "language": "法语",
+            "explanation": "répéter,joindre,excroissance,parasite,superflu"
+        }
+    ],
+    "general_pinyins": [
+        "zhuì"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "贅"
+    ],
+    "general_ytz": [
+        "贅",
+        "𤺅",
+        "𧷌",
+        "𧸆",
+        "𧸟"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D58",
+            "11215331342534"
+        ],
+        "char_code_wubi": "gqtm",
+        "char_code_cangjie": "qkbo",
+        "char_code_zhengma": "ciml",
+        "char_code_sijiao": "58802"
+    },
+    "general_unicode": "基本区 U+8D58",
+    "general_bs_code": "11215331342534"
+}

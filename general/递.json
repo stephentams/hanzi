@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hand over, deliver; substitute"
+        },
+        {
+            "language": "德语",
+            "explanation": "überreichen; aushändigen; übergeben  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "remettre,passer,transmettre,par ordre,successivement"
+        }
+    ],
+    "general_pinyins": [
+        "dì"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "遞"
+    ],
+    "general_ytz": [
+        "逓",
+        "遞",
+        "𨕑",
+        "𨓠",
+        "𨔄",
+        "𨔛"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9012",
+            "4351523454"
+        ],
+        "char_code_wubi": "uxhp",
+        "char_code_cangjie": "ycnh",
+        "char_code_zhengma": "udyw",
+        "char_code_sijiao": "38302"
+    },
+    "general_unicode": "基本区 U+9012",
+    "general_bs_code": "4351523454"
+}

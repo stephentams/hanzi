@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "喬"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "20CEE",
+            "1325125251"
+        ],
+        "char_code_wubi": "dkmk",
+        "char_code_cangjie": "krbr",
+        "char_code_zhengma": "gdjl"
+    },
+    "general_unicode": "扩展B U+20CEE",
+    "general_bs_code": "1325125251"
+}

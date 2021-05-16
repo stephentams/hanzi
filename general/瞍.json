@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "blind; no pupil in the eye"
+        },
+        {
+            "language": "德语",
+            "explanation": "Auge ohne Pupille  (S)​,Jalousie  (S)​,blind  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "aveugle"
+        }
+    ],
+    "general_pinyins": [
+        "sǒu"
+    ],
+    "general_zhuyins": [
+        "ㄙㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "9",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥈃",
+        "𥈟"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "778D",
+            "25111321511254"
+        ],
+        "char_code_wubi": "hvhc|hehc",
+        "char_code_cangjie": "buhxe",
+        "char_code_zhengma": "lnxs",
+        "char_code_sijiao": "67047"
+    },
+    "general_unicode": "基本区 U+778D",
+    "general_bs_code": "25111321511254"
+}

@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lees, dregs, sediments left after distilling liquor"
+        },
+        {
+            "language": "德语",
+            "explanation": "Niederschlag  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "lie de riz"
+        }
+    ],
+    "general_pinyins": [
+        "pò"
+    ],
+    "general_zhuyins": [
+        "ㄆㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "米",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "魄",
+        "𨠘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7C95",
+            "43123432511"
+        ],
+        "char_code_wubi": "org",
+        "char_code_cangjie": "fdha",
+        "char_code_zhengma": "ufnk",
+        "char_code_sijiao": "96902"
+    },
+    "general_unicode": "基本区 U+7C95",
+    "general_bs_code": "43123432511"
+}

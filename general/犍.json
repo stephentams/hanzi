@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "a bullock; a fabulous monster"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 Ochs  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "jiān",
+        "qián"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢ",
+        "ㄑㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "牜",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㓺",
+        "㸫",
+        "㹇",
+        "𤚳"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "728D",
+            "312151111254"
+        ],
+        "char_code_wubi": "trvp|cvgp",
+        "char_code_cangjie": "hqnkq",
+        "char_code_zhengma": "mbby",
+        "char_code_sijiao": "25540"
+    },
+    "general_unicode": "基本区 U+728D",
+    "general_bs_code": "312151111254"
+}

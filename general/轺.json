@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "small light carriage"
+        },
+        {
+            "language": "法语",
+            "explanation": "transport léger"
+        }
+    ],
+    "general_pinyins": [
+        "yáo"
+    ],
+    "general_zhuyins": [
+        "ㄧㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "车",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "軺"
+    ],
+    "general_ytz": [
+        "軺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8F7A",
+            "152153251"
+        ],
+        "char_code_wubi": "lvkg",
+        "char_code_cangjie": "kqshr",
+        "char_code_zhengma": "heyj",
+        "char_code_sijiao": "47562"
+    },
+    "general_unicode": "基本区 U+8F7A",
+    "general_bs_code": "152153251"
+}

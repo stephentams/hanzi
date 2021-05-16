@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tired, weary, fatigued"
+        },
+        {
+            "language": "法语",
+            "explanation": "fatiguer"
+        }
+    ],
+    "general_pinyins": [
+        "bèi"
+    ],
+    "general_zhuyins": [
+        "ㄅㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "憊"
+    ],
+    "general_ytz": [
+        "憊",
+        "𢞎",
+        "𢟡",
+        "𢣍",
+        "𤸶",
+        "𤻚"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "60EB",
+            "354251214544"
+        ],
+        "char_code_wubi": "tlnu",
+        "char_code_cangjie": "hewp",
+        "char_code_zhengma": "rskw",
+        "char_code_sijiao": "27336"
+    },
+    "general_unicode": "基本区 U+60EB",
+    "general_bs_code": "354251214544"
+}

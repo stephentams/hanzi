@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "celery, cabbage"
+        },
+        {
+            "language": "法语",
+            "explanation": "pe-tsaï,chou chinois"
+        }
+    ],
+    "general_pinyins": [
+        "sōng"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨㄥ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦬘",
+        "蘴",
+        "𥯆"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "83D8",
+            "12212343454"
+        ],
+        "char_code_wubi": "aswc",
+        "char_code_cangjie": "tdci",
+        "char_code_zhengma": "efoz",
+        "char_code_sijiao": "44932"
+    },
+    "general_unicode": "基本区 U+83D8",
+    "general_bs_code": "12212343454"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "trample down, oppress, overrun"
+        },
+        {
+            "language": "德语",
+            "explanation": "überfluten, überschwemmen, rasch um sich greifen  (V)​,unterdrücken, schikanieren  (V)"
+        }
+    ],
+    "general_pinyins": [
+        "lìn"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "19",
+        "total_sn": "26"
+    },
+    "general_stc": [
+        "躏"
+    ],
+    "general_ytz": [
+        "躏",
+        "蹸",
+        "躙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8EAA",
+            "25121211222511251132411121"
+        ],
+        "char_code_wubi": "khay",
+        "char_code_cangjie": "rmtag",
+        "char_code_zhengma": "jixn",
+        "char_code_sijiao": "64127"
+    },
+    "general_unicode": "基本区 U+8EAA",
+    "general_bs_code": "25121211222511251132411121"
+}

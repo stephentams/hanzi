@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wait for, await, expect, hope"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fußpfad, Fußweg  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "chemin,attendre"
+        }
+    ],
+    "general_pinyins": [
+        "xī"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧ"
+    ],
+    "general_radical": {
+        "radical": "彳",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "傒",
+        "蹊",
+        "𢓽",
+        "𧧹",
+        "𠌜",
+        "𧨍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5FAF",
+            "3323443554134"
+        ],
+        "char_code_wubi": "texd",
+        "char_code_cangjie": "hobvk",
+        "char_code_zhengma": "oizg",
+        "char_code_sijiao": "22284"
+    },
+    "general_unicode": "基本区 U+5FAF",
+    "general_bs_code": "3323443554134"
+}

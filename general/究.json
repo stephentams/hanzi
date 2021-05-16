@@ -1,0 +1,55 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "examine, investigate"
+        },
+        {
+            "language": "德语",
+            "explanation": "erforschen, eigentlich  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "examiner avec attention,approfondir,enquêter"
+        }
+    ],
+    "general_pinyins": [
+        "jiū"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄡ"
+    ],
+    "general_radical": {
+        "radical": "穴",
+        "non_radical_sn": "2",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "竅",
+        "𡧄",
+        "𡫄",
+        "𥤯",
+        "𥤳",
+        "𥦄",
+        "𥦵",
+        "𥨓",
+        "䆒",
+        "𥧖",
+        "𥨇",
+        "𥨶"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7A76",
+            "4453435"
+        ],
+        "char_code_wubi": "pwvb",
+        "char_code_cangjie": "jckn",
+        "char_code_zhengma": "woqy",
+        "char_code_sijiao": "30417"
+    },
+    "general_unicode": "基本区 U+7A76",
+    "general_bs_code": "4453435"
+}

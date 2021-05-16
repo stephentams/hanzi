@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "luxuriant growth"
+        }
+    ],
+    "general_pinyins": [
+        "péng"
+    ],
+    "general_zhuyins": [
+        "ㄆㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "梵"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8283",
+            "122354"
+        ],
+        "char_code_wubi": "amyu|awyu",
+        "char_code_cangjie": "thni",
+        "char_code_zhengma": "eqda",
+        "char_code_sijiao": "44217"
+    },
+    "general_unicode": "基本区 U+8283",
+    "general_bs_code": "122354"
+}

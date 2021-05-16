@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pass buck, lay blame on others"
+        },
+        {
+            "language": "德语",
+            "explanation": "drücken"
+        },
+        {
+            "language": "法语",
+            "explanation": "esquiver,éviter,donner des excuses"
+        }
+    ],
+    "general_pinyins": [
+        "wěi"
+    ],
+    "general_zhuyins": [
+        "ㄨㄟˇ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "諉"
+    ],
+    "general_ytz": [
+        "諉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BFF",
+            "4531234531"
+        ],
+        "char_code_wubi": "ytvg",
+        "char_code_cangjie": "ivhdv",
+        "char_code_zhengma": "smzm",
+        "char_code_sijiao": "32744"
+    },
+    "general_unicode": "基本区 U+8BFF",
+    "general_bs_code": "4531234531"
+}

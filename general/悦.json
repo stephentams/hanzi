@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pleased, contented, gratified"
+        },
+        {
+            "language": "德语",
+            "explanation": "glücklich machen, Freude machen, etw. gut gefallen  (V)​,sich erfreuen, sich ergötzen, entzücken  (V)​,fröhlich, glücklich, heiter, erfreut  (Adj)​,Yue  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "plaire à,content,joyeux"
+        }
+    ],
+    "general_pinyins": [
+        "yuè"
+    ],
+    "general_zhuyins": [
+        "ㄩㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "悅"
+    ],
+    "general_ytz": [
+        "悅",
+        "恱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "60A6",
+            "4424325135"
+        ],
+        "char_code_wubi": "nukq",
+        "char_code_cangjie": "pcru",
+        "char_code_zhengma": "uujr",
+        "char_code_sijiao": "98012"
+    },
+    "general_unicode": "基本区 U+60A6",
+    "general_bs_code": "4424325135"
+}

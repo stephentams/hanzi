@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "end of axle; divergent"
+        }
+    ],
+    "general_pinyins": [
+        "zhǐ"
+    ],
+    "general_zhuyins": [
+        "ㄓˇ"
+    ],
+    "general_radical": {
+        "radical": "车",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "軹"
+    ],
+    "general_ytz": [
+        "軹"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8F75",
+            "152125134"
+        ],
+        "char_code_wubi": "lkwy",
+        "char_code_cangjie": "kqrc",
+        "char_code_zhengma": "hejo",
+        "char_code_sijiao": "46580"
+    },
+    "general_unicode": "基本区 U+8F75",
+    "general_bs_code": "152125134"
+}

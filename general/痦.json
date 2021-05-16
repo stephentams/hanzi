@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "法语",
+            "explanation": "grain de beauté (plat)​"
+        }
+    ],
+    "general_pinyins": [
+        "wù"
+    ],
+    "general_zhuyins": [
+        "ㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤵐"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "75E6",
+            "413411251251"
+        ],
+        "char_code_wubi": "ugkd",
+        "char_code_cangjie": "kmmr",
+        "char_code_zhengma": "tbxj",
+        "char_code_sijiao": "00161"
+    },
+    "general_unicode": "基本区 U+75E6",
+    "general_bs_code": "413411251251"
+}

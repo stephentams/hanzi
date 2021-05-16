@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "beautiful jade"
+        },
+        {
+            "language": "法语",
+            "explanation": "jade ornemental,(pierre)​"
+        }
+    ],
+    "general_pinyins": [
+        "yú"
+    ],
+    "general_zhuyins": [
+        "ㄩˊ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "13",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "玙",
+        "𤪐",
+        "𤫌"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "74B5",
+            "11213211152511134"
+        ],
+        "char_code_wubi": "gwfw|gegw",
+        "char_code_cangjie": "mghxc",
+        "char_code_zhengma": "cnio",
+        "char_code_sijiao": "17181"
+    },
+    "general_unicode": "基本区 U+74B5",
+    "general_bs_code": "11213211152511134"
+}

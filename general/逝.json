@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pass away; die"
+        },
+        {
+            "language": "德语",
+            "explanation": "abfahren, abreisen ,Gewindeschneidbacke  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "passer,décéder"
+        }
+    ],
+    "general_pinyins": [
+        "shì"
+    ],
+    "general_zhuyins": [
+        "ㄕˋ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "遰",
+        "䠠"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "901D",
+            "1213312454"
+        ],
+        "char_code_wubi": "rrpk",
+        "char_code_cangjie": "yqhl",
+        "char_code_zhengma": "wdpd",
+        "char_code_sijiao": "32302"
+    },
+    "general_unicode": "基本区 U+901D",
+    "general_bs_code": "1213312454"
+}

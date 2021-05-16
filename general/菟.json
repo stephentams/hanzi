@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dodder; creeper"
+        },
+        {
+            "language": "德语",
+            "explanation": "schlottern"
+        }
+    ],
+    "general_pinyins": [
+        "tù",
+        "tú"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨˋ",
+        "ㄊㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "兔",
+        "檡",
+        "莵",
+        "𧈋"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "83DF",
+            "12235251354"
+        ],
+        "char_code_wubi": "aqky",
+        "char_code_cangjie": "tnai",
+        "char_code_zhengma": "errs",
+        "char_code_sijiao": "44413"
+    },
+    "general_unicode": "基本区 U+83DF",
+    "general_bs_code": "12235251354"
+}

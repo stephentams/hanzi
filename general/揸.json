@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "handful; to grasp, seize, pick up with fingers; (Cant.) to take, carry"
+        }
+    ],
+    "general_pinyins": [
+        "zhā"
+    ],
+    "general_zhuyins": [
+        "ㄓㄚ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "摣",
+        "𠭯",
+        "𢸉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "63F8",
+            "121123425111"
+        ],
+        "char_code_wubi": "rsjg",
+        "char_code_cangjie": "qdam",
+        "char_code_zhengma": "dfka",
+        "char_code_sijiao": "54016"
+    },
+    "general_unicode": "基本区 U+63F8",
+    "general_bs_code": "121123425111"
+}

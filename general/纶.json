@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "green silk thread or tassel"
+        },
+        {
+            "language": "德语",
+            "explanation": "klassifizieren, unterteilen ,Nähseide, entbastete Seide  (S)​,Lun  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cordon de soie,ajuster,classer"
+        }
+    ],
+    "general_pinyins": [
+        "lún",
+        "guān"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄣˊ",
+        "ㄍㄨㄢ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "綸"
+    ],
+    "general_ytz": [
+        "綸",
+        "𥿑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EB6",
+            "5513435"
+        ],
+        "char_code_wubi": "xwxn",
+        "char_code_cangjie": "vmop",
+        "char_code_zhengma": "zorr",
+        "char_code_sijiao": "28112"
+    },
+    "general_unicode": "基本区 U+7EB6",
+    "general_bs_code": "5513435"
+}

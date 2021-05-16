@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 副) to assist, secondary (in importance), rich and dense"
+        }
+    ],
+    "general_pinyins": [
+        "fù"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "田",
+        "non_radical_sn": "13",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "副"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3F6C",
+            "125125121125125121"
+        ],
+        "char_code_wubi": "gkll",
+        "char_code_cangjie": "mwmrw",
+        "char_code_zhengma": "ajjk",
+        "char_code_sijiao": "11666"
+    },
+    "general_unicode": "扩展A U+3F6C",
+    "general_bs_code": "125125121125125121"
+}

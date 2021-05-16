@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "color green; kingfisher"
+        },
+        {
+            "language": "德语",
+            "explanation": "bläulich grün"
+        },
+        {
+            "language": "法语",
+            "explanation": "bleu-vert,vert jade"
+        }
+    ],
+    "general_pinyins": [
+        "cuì"
+    ],
+    "general_zhuyins": [
+        "ㄘㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "羽",
+        "non_radical_sn": "8",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "翆",
+        "臎",
+        "𦐜"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7FE0",
+            "54154141343412"
+        ],
+        "char_code_wubi": "nywf",
+        "char_code_cangjie": "smyoj",
+        "char_code_zhengma": "ytoe",
+        "char_code_sijiao": "17408"
+    },
+    "general_unicode": "基本区 U+7FE0",
+    "general_bs_code": "54154141343412"
+}

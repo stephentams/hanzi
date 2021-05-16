@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "shade, shelter; protect"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 Schatten  (S)​,beschatten,  Ton ,Abenddämmerung  (S)​,schützen  (V)​,schirmen  (V)​,schattenspendend  (Adj)​,schattig  (Adj)​,Protektion durch hohe Stellung des Vaters"
+        }
+    ],
+    "general_pinyins": [
+        "yīn",
+        "yìn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄣ",
+        "ㄧㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "蔭"
+    ],
+    "general_ytz": [
+        "蔭",
+        "廕",
+        "𦺼"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "836B",
+            "122523511"
+        ],
+        "char_code_wubi": "abef",
+        "char_code_cangjie": "tnlb",
+        "char_code_zhengma": "eyq",
+        "char_code_sijiao": "44227"
+    },
+    "general_unicode": "基本区 U+836B",
+    "general_bs_code": "122523511"
+}

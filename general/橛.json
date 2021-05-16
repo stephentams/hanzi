@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "德语",
+            "explanation": "Holzpflock, Pflock  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "jué"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "12",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "嶡",
+        "厥",
+        "橜",
+        "氒",
+        "𣐍",
+        "𦪘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6A5B",
+            "1234134315233534"
+        ],
+        "char_code_wubi": "sduw",
+        "char_code_cangjie": "dmto",
+        "char_code_zhengma": "fgzr",
+        "char_code_sijiao": "41982"
+    },
+    "general_unicode": "基本区 U+6A5B",
+    "general_bs_code": "1234134315233534"
+}

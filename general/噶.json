@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "used in transliterations"
+        },
+        {
+            "language": "法语",
+            "explanation": "(phonétique)​"
+        }
+    ],
+    "general_pinyins": [
+        "gá"
+    ],
+    "general_zhuyins": [
+        "ㄍㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5676",
+            "251122251135345"
+        ],
+        "char_code_wubi": "kajn",
+        "char_code_cangjie": "rtav",
+        "char_code_zhengma": "jekr",
+        "char_code_sijiao": "64027"
+    },
+    "general_unicode": "基本区 U+5676",
+    "general_bs_code": "251122251135345"
+}

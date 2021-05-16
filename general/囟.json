@@ -1,0 +1,57 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "top of the head; skull"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schädel, Totenkopf  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "fontanelle"
+        }
+    ],
+    "general_pinyins": [
+        "xìn"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "囗",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䏤",
+        "䪿",
+        "暊",
+        "顖",
+        "𠈀",
+        "𠔋",
+        "𠙷",
+        "𠚁",
+        "𦞤",
+        "𩔙",
+        "𩕄",
+        "𡆧",
+        "𩒦",
+        "𩔨"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "56DF",
+            "325341"
+        ],
+        "char_code_wubi": "tlqi|tlri",
+        "char_code_cangjie": "hwk",
+        "char_code_zhengma": "njos",
+        "char_code_sijiao": "26000"
+    },
+    "general_unicode": "基本区 U+56DF",
+    "general_bs_code": "325341"
+}

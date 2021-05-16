@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "two pieces of jade joined together"
+        }
+    ],
+    "general_pinyins": [
+        "jué"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "玨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "73CF",
+            "112111214"
+        ],
+        "char_code_wubi": "ggyy",
+        "char_code_cangjie": "mgmgi",
+        "char_code_zhengma": "ccs",
+        "char_code_sijiao": "11113"
+    },
+    "general_unicode": "基本区 U+73CF",
+    "general_bs_code": "112111214"
+}

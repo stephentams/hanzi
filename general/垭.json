@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "character used in place names"
+        }
+    ],
+    "general_pinyins": [
+        "yā"
+    ],
+    "general_zhuyins": [
+        "ㄧㄚ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "埡"
+    ],
+    "general_ytz": [
+        "埡",
+        "𡸭",
+        "𡹄",
+        "𡹅"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "57AD",
+            "121122431"
+        ],
+        "char_code_wubi": "fgog",
+        "char_code_cangjie": "gmtc",
+        "char_code_zhengma": "baku",
+        "char_code_sijiao": "41112"
+    },
+    "general_unicode": "基本区 U+57AD",
+    "general_bs_code": "121122431"
+}

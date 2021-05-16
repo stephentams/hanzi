@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "spleen, pancreas; disposition"
+        },
+        {
+            "language": "德语",
+            "explanation": "Milz (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "rate"
+        }
+    ],
+    "general_pinyins": [
+        "pí"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "髀",
+        "𦜠",
+        "𦜉",
+        "𠧃",
+        "腗"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "813E",
+            "351132511312"
+        ],
+        "char_code_wubi": "ertf",
+        "char_code_cangjie": "bhwj",
+        "char_code_zhengma": "qned",
+        "char_code_sijiao": "76240"
+    },
+    "general_unicode": "基本区 U+813E",
+    "general_bs_code": "351132511312"
+}

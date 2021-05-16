@@ -1,0 +1,55 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "shrewd, astute, clever, keen"
+        },
+        {
+            "language": "德语",
+            "explanation": "weit vorausschauend"
+        },
+        {
+            "language": "法语",
+            "explanation": "perspicace"
+        }
+    ],
+    "general_pinyins": [
+        "ruì"
+    ],
+    "general_zhuyins": [
+        "ㄖㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "9",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䜭",
+        "叡",
+        "壑",
+        "壡",
+        "𠮉",
+        "𣦒",
+        "𣦳",
+        "𥈠",
+        "𧇖",
+        "㪫",
+        "㲊",
+        "𣥸"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "777F",
+            "21451343425111"
+        ],
+        "char_code_wubi": "hpgh",
+        "char_code_cangjie": "ybmcu",
+        "char_code_zhengma": "idol",
+        "char_code_sijiao": "21608"
+    },
+    "general_unicode": "基本区 U+777F",
+    "general_bs_code": "21451343425111"
+}

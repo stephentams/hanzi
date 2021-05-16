@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "learning, knowledge; school"
+        },
+        {
+            "language": "德语",
+            "explanation": "lernen, studieren  (V)​,Lehre, Fachgebiet  (S)​,-logie"
+        },
+        {
+            "language": "法语",
+            "explanation": "étudier,apprendre,science,-ologie"
+        }
+    ],
+    "general_pinyins": [
+        "xué"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "子",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "學"
+    ],
+    "general_ytz": [
+        "學",
+        "斈",
+        "𡕕"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5B66",
+            "44345521"
+        ],
+        "char_code_wubi": "ipbf",
+        "char_code_cangjie": "fbnd",
+        "char_code_zhengma": "vdwy",
+        "char_code_sijiao": "90407"
+    },
+    "general_unicode": "基本区 U+5B66",
+    "general_bs_code": "44345521"
+}

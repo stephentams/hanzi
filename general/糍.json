@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "food made of crushed and cooked rice"
+        }
+    ],
+    "general_pinyins": [
+        "cí"
+    ],
+    "general_zhuyins": [
+        "ㄘˊ"
+    ],
+    "general_radical": {
+        "radical": "米",
+        "non_radical_sn": "9",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "餈",
+        "䭣",
+        "粢",
+        "𥻓",
+        "𥻵",
+        "𩜴",
+        "𩝐"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7CCD",
+            "431234431554554"
+        ],
+        "char_code_wubi": "ouxx",
+        "char_code_cangjie": "fdtvi",
+        "char_code_zhengma": "ufzz",
+        "char_code_sijiao": "98932"
+    },
+    "general_unicode": "基本区 U+7CCD",
+    "general_bs_code": "431234431554554"
+}

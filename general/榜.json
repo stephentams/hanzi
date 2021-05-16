@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "placard; list of successful exam candidates"
+        },
+        {
+            "language": "法语",
+            "explanation": "tenir la barre,ramer,tableau d'affichage,affiche,liste de noms,avis,proclamation"
+        }
+    ],
+    "general_pinyins": [
+        "bǎng",
+        "bàng"
+    ],
+    "general_zhuyins": [
+        "ㄅㄤˇ",
+        "ㄅㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㮄",
+        "搒",
+        "牓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "699C",
+            "12344143454153"
+        ],
+        "char_code_wubi": "supy|syuy",
+        "char_code_cangjie": "dybs",
+        "char_code_zhengma": "fsws",
+        "char_code_sijiao": "40927"
+    },
+    "general_unicode": "基本区 U+699C",
+    "general_bs_code": "12344143454153"
+}

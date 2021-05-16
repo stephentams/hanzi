@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to taste, to sip; to spit; the sound of sipping; to surprise"
+        },
+        {
+            "language": "法语",
+            "explanation": "goûter,cracher"
+        }
+    ],
+    "general_pinyins": [
+        "cuì",
+        "qi"
+    ],
+    "general_zhuyins": [
+        "ㄘㄨㄟˋ",
+        "ㄑㄧ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "啛",
+        "𠯥",
+        "𠵒",
+        "𠻜"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5550",
+            "25141343412"
+        ],
+        "char_code_wubi": "kywf",
+        "char_code_cangjie": "ryoj",
+        "char_code_zhengma": "jsoe",
+        "char_code_sijiao": "60048"
+    },
+    "general_unicode": "基本区 U+5550",
+    "general_bs_code": "25141343412"
+}

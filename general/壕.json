@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "trench, ditch, channel, moat"
+        },
+        {
+            "language": "德语",
+            "explanation": "Graben  (S)​,Schützengraben  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "fossé"
+        }
+    ],
+    "general_pinyins": [
+        "háo"
+    ],
+    "general_zhuyins": [
+        "ㄏㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "14",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡐒",
+        "濠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "58D5",
+            "12141251451353334"
+        ],
+        "char_code_wubi": "fype",
+        "char_code_cangjie": "gyro",
+        "char_code_zhengma": "bswg",
+        "char_code_sijiao": "40132"
+    },
+    "general_unicode": "基本区 U+58D5",
+    "general_bs_code": "12141251451353334"
+}

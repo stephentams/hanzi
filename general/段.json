@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "section, piece, division"
+        },
+        {
+            "language": "德语",
+            "explanation": "Paragraph, Passage  (S)​,Teil, Stück, Strecke, Abschnitt  (S, Lit)"
+        },
+        {
+            "language": "法语",
+            "explanation": "section,tronçon,pièce,morceau"
+        }
+    ],
+    "general_pinyins": [
+        "duàn"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "殳",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠩻",
+        "𠪅",
+        "毈",
+        "緞",
+        "腶",
+        "鍛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6BB5",
+            "321113554"
+        ],
+        "char_code_wubi": "wdmc|thdc",
+        "char_code_cangjie": "hjhne",
+        "char_code_zhengma": "ncqx",
+        "char_code_sijiao": "77447"
+    },
+    "general_unicode": "基本区 U+6BB5",
+    "general_bs_code": "321113554"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tantalum"
+        },
+        {
+            "language": "德语",
+            "explanation": "Tantal (Element 73, Ta)​ (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tantale (chimie)​"
+        }
+    ],
+    "general_pinyins": [
+        "tǎn"
+    ],
+    "general_zhuyins": [
+        "ㄊㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "鉭"
+    ],
+    "general_ytz": [
+        "鉭"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94BD",
+            "3111525111"
+        ],
+        "char_code_wubi": "qjgg",
+        "char_code_cangjie": "opam",
+        "char_code_zhengma": "pka",
+        "char_code_sijiao": "86710"
+    },
+    "general_unicode": "基本区 U+94BD",
+    "general_bs_code": "3111525111"
+}

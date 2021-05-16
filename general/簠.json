@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "an ancient vessel used for holding boiled grain"
+        },
+        {
+            "language": "法语",
+            "explanation": "panier utilisé dans le culte d'État"
+        }
+    ],
+    "general_pinyins": [
+        "fǔ"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "皿",
+        "non_radical_sn": "13",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "盙",
+        "𠤱",
+        "𠤳",
+        "𦻌",
+        "𧁔",
+        "㝬"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7C20",
+            "314314125112425221"
+        ],
+        "char_code_wubi": "tgel|tslf",
+        "char_code_cangjie": "hibt",
+        "char_code_zhengma": "mflk",
+        "char_code_sijiao": "88102"
+    },
+    "general_unicode": "基本区 U+7C20",
+    "general_bs_code": "314314125112425221"
+}

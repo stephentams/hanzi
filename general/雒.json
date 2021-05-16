@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "black horse with white mane"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 ängstlich, furchtsam ,Luo  (Eig, Fam)"
+        }
+    ],
+    "general_pinyins": [
+        "luò"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "隹",
+        "non_radical_sn": "6",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "洛",
+        "烙",
+        "讎",
+        "𩁗"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "96D2",
+            "35425132411121"
+        ],
+        "char_code_wubi": "tkwy",
+        "char_code_cangjie": "hrog",
+        "char_code_zhengma": "rsjn",
+        "char_code_sijiao": "20615"
+    },
+    "general_unicode": "基本区 U+96D2",
+    "general_bs_code": "35425132411121"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "key; lock"
+        },
+        {
+            "language": "德语",
+            "explanation": "eingeben, tippen ,eingeben, tippen ,Passfeder  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "clé,serrure,clef"
+        }
+    ],
+    "general_pinyins": [
+        "yuè",
+        "yào"
+    ],
+    "general_zhuyins": [
+        "ㄩㄝˋ",
+        "ㄧㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "鑰"
+    ],
+    "general_ytz": [
+        "鑰"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94A5",
+            "311153511"
+        ],
+        "char_code_wubi": "qeg",
+        "char_code_cangjie": "opb",
+        "char_code_zhengma": "pqvv",
+        "char_code_sijiao": "87720"
+    },
+    "general_unicode": "基本区 U+94A5",
+    "general_bs_code": "311153511"
+}

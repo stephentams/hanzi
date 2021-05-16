@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "nest; cave, den; hiding place"
+        },
+        {
+            "language": "德语",
+            "explanation": "Nest  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "abriter,contenir,fléchir,courber,nichée,portée,nid,abri,creux,cavité"
+        }
+    ],
+    "general_pinyins": [
+        "wō"
+    ],
+    "general_zhuyins": [
+        "ㄨㄛ"
+    ],
+    "general_radical": {
+        "radical": "穴",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "窩"
+    ],
+    "general_ytz": [
+        "窩",
+        "䆧"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7A9D",
+            "445342512534"
+        ],
+        "char_code_wubi": "pwkw",
+        "char_code_cangjie": "jcrob",
+        "char_code_zhengma": "wolo",
+        "char_code_sijiao": "30227"
+    },
+    "general_unicode": "基本区 U+7A9D",
+    "general_bs_code": "445342512534"
+}

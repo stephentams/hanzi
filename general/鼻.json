@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "nose; first; KangXi radical 209"
+        },
+        {
+            "language": "德语",
+            "explanation": "Nase  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "nez"
+        }
+    ],
+    "general_pinyins": [
+        "bí"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "鼻",
+        "non_radical_sn": "0",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢋛",
+        "𢍂",
+        "𦤓"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9F3B",
+            "32511125121132"
+        ],
+        "char_code_wubi": "thlj",
+        "char_code_cangjie": "huwml",
+        "char_code_zhengma": "nlan",
+        "char_code_sijiao": "26221"
+    },
+    "general_unicode": "基本区 U+9F3B",
+    "general_bs_code": "32511125121132"
+}

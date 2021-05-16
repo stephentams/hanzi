@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "master, chief owner; host; lord"
+        },
+        {
+            "language": "德语",
+            "explanation": "Eigentümer, Meister, Herr"
+        },
+        {
+            "language": "法语",
+            "explanation": "hôte,propriétaire,patron,dieu,seigneur,diriger,présider,être pour,principal,essentiel"
+        }
+    ],
+    "general_pinyins": [
+        "zhǔ"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "丶",
+        "non_radical_sn": "4",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "炷"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4E3B",
+            "41121"
+        ],
+        "char_code_wubi": "ygd",
+        "char_code_cangjie": "yg",
+        "char_code_zhengma": "scvv",
+        "char_code_sijiao": "00104"
+    },
+    "general_unicode": "基本区 U+4E3B",
+    "general_bs_code": "41121"
+}

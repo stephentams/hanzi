@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cramped, narrow, crowded; mean"
+        },
+        {
+            "language": "法语",
+            "explanation": "petit"
+        }
+    ],
+    "general_pinyins": [
+        "biǎn"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "衤",
+        "non_radical_sn": "9",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "匾",
+        "惼",
+        "扁",
+        "𥚹"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "890A",
+            "45234451325122"
+        ],
+        "char_code_wubi": "puya",
+        "char_code_cangjie": "lhsb",
+        "char_code_zhengma": "wtwl",
+        "char_code_sijiao": "33227"
+    },
+    "general_unicode": "基本区 U+890A",
+    "general_bs_code": "45234451325122"
+}

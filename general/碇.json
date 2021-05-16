@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "anchor"
+        },
+        {
+            "language": "法语",
+            "explanation": "pierre servant d'ancre"
+        }
+    ],
+    "general_pinyins": [
+        "dìng"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "椗",
+        "矴",
+        "碠",
+        "磸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7887",
+            "1325144512134"
+        ],
+        "char_code_wubi": "dpgh",
+        "char_code_cangjie": "mrjmo",
+        "char_code_zhengma": "gwd",
+        "char_code_sijiao": "13681"
+    },
+    "general_unicode": "基本区 U+7887",
+    "general_bs_code": "1325144512134"
+}

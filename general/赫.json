@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bright, radiant, glowing"
+        },
+        {
+            "language": "德语",
+            "explanation": "Hertz  (S, Phys)​,hervorragend, prominent, auffällig, bemerkenswert  (Adj)​,He  (Eig, Fam)​,Hektor  (Eig)"
+        },
+        {
+            "language": "法语",
+            "explanation": "hertz,brillant,impressionnant,remarquable"
+        }
+    ],
+    "general_pinyins": [
+        "hè"
+    ],
+    "general_zhuyins": [
+        "ㄏㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "赤",
+        "non_radical_sn": "7",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㚘",
+        "䓇",
+        "嚇",
+        "焃",
+        "爀",
+        "𡎓",
+        "𧹘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D6B",
+            "12132341213234"
+        ],
+        "char_code_wubi": "fofo",
+        "char_code_cangjie": "gcglc",
+        "char_code_zhengma": "bnno",
+        "char_code_sijiao": "44231"
+    },
+    "general_unicode": "基本区 U+8D6B",
+    "general_bs_code": "12132341213234"
+}

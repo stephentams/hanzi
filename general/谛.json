@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "careful, attentive"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufmerksam  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "attentivement"
+        }
+    ],
+    "general_pinyins": [
+        "dì"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "諦"
+    ],
+    "general_ytz": [
+        "諦",
+        "𧫚"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C1B",
+            "45414345252"
+        ],
+        "char_code_wubi": "yuph|yyuh",
+        "char_code_cangjie": "ivybb",
+        "char_code_zhengma": "sswl",
+        "char_code_sijiao": "30727"
+    },
+    "general_unicode": "基本区 U+8C1B",
+    "general_bs_code": "45414345252"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sprouts; tares"
+        },
+        {
+            "language": "德语",
+            "explanation": "ausscheiden, aussondern"
+        },
+        {
+            "language": "法语",
+            "explanation": "couper,pousse,herbe,gazon"
+        }
+    ],
+    "general_pinyins": [
+        "yí",
+        "tí"
+    ],
+    "general_zhuyins": [
+        "ㄧˊ",
+        "ㄊㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦯔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8351",
+            "122151534"
+        ],
+        "char_code_wubi": "agxw",
+        "char_code_cangjie": "tkn",
+        "char_code_zhengma": "egyz",
+        "char_code_sijiao": "44802"
+    },
+    "general_unicode": "基本区 U+8351",
+    "general_bs_code": "122151534"
+}

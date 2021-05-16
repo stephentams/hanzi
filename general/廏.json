@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stable; barnyard"
+        }
+    ],
+    "general_pinyins": [
+        "jiù"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "广",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "廄"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5ECF",
+            "41332511353554"
+        ],
+        "char_code_wubi": "yrxc|orxc",
+        "char_code_cangjie": "ihpe",
+        "char_code_zhengma": "tgrq",
+        "char_code_sijiao": "00247"
+    },
+    "general_unicode": "基本区 U+5ECF",
+    "general_bs_code": "41332511353554"
+}

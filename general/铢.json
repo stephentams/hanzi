@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "unit of weight, one twenty-fourth of a Chinese ounce (liang)"
+        },
+        {
+            "language": "德语",
+            "explanation": "alte Gewichtseinheit (ca. 1,24 Liang)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "baht"
+        }
+    ],
+    "general_pinyins": [
+        "zhū"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "銖"
+    ],
+    "general_ytz": [
+        "銖"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94E2",
+            "31115311234"
+        ],
+        "char_code_wubi": "qriy|qtfy",
+        "char_code_cangjie": "ophjd",
+        "char_code_zhengma": "pmko",
+        "char_code_sijiao": "85790"
+    },
+    "general_unicode": "基本区 U+94E2",
+    "general_bs_code": "31115311234"
+}

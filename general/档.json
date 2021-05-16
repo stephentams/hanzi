@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "shelf; frame, crosspiece"
+        },
+        {
+            "language": "法语",
+            "explanation": "dossier,archives,barreau,traverse,classe,qualité"
+        }
+    ],
+    "general_pinyins": [
+        "dàng"
+    ],
+    "general_zhuyins": [
+        "ㄉㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "檔"
+    ],
+    "general_ytz": [
+        "檔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6863",
+            "1234243511"
+        ],
+        "char_code_wubi": "sivg",
+        "char_code_cangjie": "dfsm",
+        "char_code_zhengma": "fkxb",
+        "char_code_sijiao": "49977"
+    },
+    "general_unicode": "基本区 U+6863",
+    "general_bs_code": "1234243511"
+}

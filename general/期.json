@@ -1,0 +1,59 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "period of time; date; time limit"
+        },
+        {
+            "language": "德语",
+            "explanation": "Woche ,Frist  (S)​,Periode, Zeitraum, Phase  (S)​,erwarten, hoffen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "espérer,phase,terme,délai,durée,période"
+        }
+    ],
+    "general_pinyins": [
+        "qī",
+        "jī"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧ",
+        "ㄐㄧ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㫷",
+        "其",
+        "朞",
+        "稘",
+        "𠔸",
+        "𡢁",
+        "𣅆",
+        "𣇳",
+        "𣍠",
+        "𣍡",
+        "𣍣",
+        "𣔔",
+        "𥟝",
+        "𦝁"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "671F",
+            "122111343511"
+        ],
+        "char_code_wubi": "adwe|dweg",
+        "char_code_cangjie": "tcb",
+        "char_code_zhengma": "ecq",
+        "char_code_sijiao": "47820"
+    },
+    "general_unicode": "基本区 U+671F",
+    "general_bs_code": "122111343511"
+}

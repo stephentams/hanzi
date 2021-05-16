@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "petal; segment; valves"
+        },
+        {
+            "language": "德语",
+            "explanation": "Blumenblatt (S, Bio)​,Klappe, Lamelle (S, Bio)​,Scherbe, Bruchstück (S, Tech)​,ZEW Segment, Zehe, Stück (z.B. Knoblauchzehe, Apfelstück)​ (Zähl)"
+        },
+        {
+            "language": "法语",
+            "explanation": "morceau,segment,section,fragment,pièce,pétale,gousse,(classificateur pour les pièces, segments, etc.)​"
+        }
+    ],
+    "general_pinyins": [
+        "bàn"
+    ],
+    "general_zhuyins": [
+        "ㄅㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "瓜",
+        "non_radical_sn": "14",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "74E3",
+            "4143113335444143112"
+        ],
+        "char_code_wubi": "urcu",
+        "char_code_cangjie": "yjhoj",
+        "char_code_zhengma": "seps",
+        "char_code_sijiao": "00441"
+    },
+    "general_unicode": "基本区 U+74E3",
+    "general_bs_code": "4143113335444143112"
+}

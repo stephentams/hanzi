@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "gracilaria verrucosa"
+        },
+        {
+            "language": "法语",
+            "explanation": "Gracilaria confervoides"
+        }
+    ],
+    "general_pinyins": [
+        "lí"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "蘺"
+    ],
+    "general_ytz": [
+        "蘺"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "84E0",
+            "1224134522554"
+        ],
+        "char_code_wubi": "aybc|ayrc",
+        "char_code_cangjie": "tyub",
+        "char_code_zhengma": "eslz",
+        "char_code_sijiao": "44227"
+    },
+    "general_unicode": "基本区 U+84E0",
+    "general_bs_code": "1224134522554"
+}

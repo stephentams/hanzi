@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "river in Shaanxi; murky torrent"
+        },
+        {
+            "language": "法语",
+            "explanation": "débordement,ruisselant,larmes"
+        }
+    ],
+    "general_pinyins": [
+        "cén"
+    ],
+    "general_zhuyins": [
+        "ㄘㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6D94",
+            "4412523445"
+        ],
+        "char_code_wubi": "imwn",
+        "char_code_cangjie": "euon",
+        "char_code_zhengma": "vlsx",
+        "char_code_sijiao": "32127"
+    },
+    "general_unicode": "基本区 U+6D94",
+    "general_bs_code": "4412523445"
+}

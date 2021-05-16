@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tender; weak; gradually alterrrrating"
+        }
+    ],
+    "general_pinyins": [
+        "rǎn"
+    ],
+    "general_zhuyins": [
+        "ㄖㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "冂",
+        "non_radical_sn": "2",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "冉"
+    ],
+    "general_structure": "嵌套结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5184",
+            "2511"
+        ],
+        "char_code_wubi": "mfd",
+        "char_code_cangjie": "bmm",
+        "char_code_zhengma": "ldbd",
+        "char_code_sijiao": "77550"
+    },
+    "general_unicode": "基本区 U+5184",
+    "general_bs_code": "2511"
+}

@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "relaxed, comfortable, at ease"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 zuvor ,Yu  (Eig, Fam)"
+        }
+    ],
+    "general_pinyins": [
+        "yù"
+    ],
+    "general_zhuyins": [
+        "ㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "豕",
+        "non_radical_sn": "8",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "榭",
+        "余",
+        "櫲",
+        "𠄛",
+        "𠄝",
+        "𢄮",
+        "預",
+        "忬",
+        "𪜱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C6B",
+            "545235251353334"
+        ],
+        "char_code_wubi": "cbqe|cnhe",
+        "char_code_cangjie": "nnnao",
+        "char_code_zhengma": "xsjg",
+        "char_code_sijiao": "17232"
+    },
+    "general_unicode": "基本区 U+8C6B",
+    "general_bs_code": "545235251353334"
+}

@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "already; de facto; since; then"
+        },
+        {
+            "language": "德语",
+            "explanation": "schon, seit"
+        },
+        {
+            "language": "法语",
+            "explanation": "puisque,étant donné que,aussi... que,et... et...,déjà"
+        }
+    ],
+    "general_pinyins": [
+        "jì"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "旡",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "旣",
+        "既"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "65E2",
+            "511541535"
+        ],
+        "char_code_wubi": "vcaq|vaqn",
+        "char_code_cangjie": "aimvu",
+        "char_code_zhengma": "xohr",
+        "char_code_sijiao": "71712"
+    },
+    "general_unicode": "基本区 U+65E2",
+    "general_bs_code": "511541535"
+}

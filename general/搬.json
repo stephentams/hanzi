@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "transfer, move, remove, shift"
+        },
+        {
+            "language": "德语",
+            "explanation": "etwas an einen anderen Platz legen  (V)​,fortschaffen, befördern, umlegen, umstellen  (V)​,mechanisch nachahmen, mechanisch übernehmen  (V)​,umziehen, den Wohnsitz wechseln, übersiedeln  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "déplacer,remuer,déménager,emménager,copier machinalement,appliquer sans discrimination"
+        }
+    ],
+    "general_pinyins": [
+        "bān"
+    ],
+    "general_zhuyins": [
+        "ㄅㄢ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "搫",
+        "𢲎"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "642C",
+            "1213354143554"
+        ],
+        "char_code_wubi": "rtec|rtuc",
+        "char_code_cangjie": "qhye",
+        "char_code_zhengma": "dpqx",
+        "char_code_sijiao": "57047"
+    },
+    "general_unicode": "基本区 U+642C",
+    "general_bs_code": "1213354143554"
+}

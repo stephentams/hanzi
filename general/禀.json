@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "report to, petition"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bericht, Eingabe, Bittschrift, Rapport  (S)​,(Befehle u.ä.)​ entgegennehmen, befolgen  (V)​,Bericht (an seinen Vorgesetzten oder die Eltern)​ erstatten  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "informer un supérieur,pétition"
+        }
+    ],
+    "general_pinyins": [
+        "bǐng"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "示",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "稟"
+    ],
+    "general_ytz": [
+        "稟"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7980",
+            "4125251111234"
+        ],
+        "char_code_wubi": "ylki",
+        "char_code_cangjie": "ywrf",
+        "char_code_zhengma": "sjjb",
+        "char_code_sijiao": "00901"
+    },
+    "general_unicode": "基本区 U+7980",
+    "general_bs_code": "4125251111234"
+}

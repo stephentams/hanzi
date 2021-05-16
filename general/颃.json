@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fly down or downward"
+        },
+        {
+            "language": "法语",
+            "explanation": "voler vers le bas"
+        }
+    ],
+    "general_pinyins": [
+        "háng"
+    ],
+    "general_zhuyins": [
+        "ㄏㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "页",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "頏"
+    ],
+    "general_ytz": [
+        "頏",
+        "䀪"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9883",
+            "4135132534"
+        ],
+        "char_code_wubi": "ymdm|ywdm",
+        "char_code_cangjie": "ynmbo",
+        "char_code_zhengma": "sqgo",
+        "char_code_sijiao": "01282"
+    },
+    "general_unicode": "基本区 U+9883",
+    "general_bs_code": "4135132534"
+}

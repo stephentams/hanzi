@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "snail; slug, mole cricket"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schneckensorte  (S, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "Limace"
+        }
+    ],
+    "general_pinyins": [
+        "kuò"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "6",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "86DE",
+            "251214312251"
+        ],
+        "char_code_wubi": "jtdg",
+        "char_code_cangjie": "lihjr",
+        "char_code_zhengma": "imi",
+        "char_code_sijiao": "52164"
+    },
+    "general_unicode": "基本区 U+86DE",
+    "general_bs_code": "251214312251"
+}

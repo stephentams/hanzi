@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stroll, take walk"
+        },
+        {
+            "language": "德语",
+            "explanation": "bummeln, flanieren"
+        }
+    ],
+    "general_pinyins": [
+        "liū"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄡ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "10",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "溜",
+        "遛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E53",
+            "25121213545325121"
+        ],
+        "char_code_wubi": "khql",
+        "char_code_cangjie": "rmhhw",
+        "char_code_zhengma": "jiyk",
+        "char_code_sijiao": "67162"
+    },
+    "general_unicode": "基本区 U+8E53",
+    "general_bs_code": "25121213545325121"
+}

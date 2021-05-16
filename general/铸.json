@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "melt, cast; coin, mint"
+        },
+        {
+            "language": "德语",
+            "explanation": "Zhu  (Eig, Fam)​,gießen"
+        },
+        {
+            "language": "法语",
+            "explanation": "fondre (du métal)​,couler (du métal)​,fonderie"
+        }
+    ],
+    "general_pinyins": [
+        "zhù"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "鑄"
+    ],
+    "general_ytz": [
+        "鑄",
+        "𨥇",
+        "𨮩",
+        "𨮾"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94F8",
+            "311151113124"
+        ],
+        "char_code_wubi": "qdtf",
+        "char_code_cangjie": "opqki",
+        "char_code_zhengma": "pcds",
+        "char_code_sijiao": "85740"
+    },
+    "general_unicode": "基本区 U+94F8",
+    "general_bs_code": "311151113124"
+}

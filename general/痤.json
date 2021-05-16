@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a swelling of the lymph nodes"
+        },
+        {
+            "language": "法语",
+            "explanation": "acné"
+        }
+    ],
+    "general_pinyins": [
+        "cuó"
+    ],
+    "general_zhuyins": [
+        "ㄘㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "75E4",
+            "413413434121"
+        ],
+        "char_code_wubi": "uwwf",
+        "char_code_cangjie": "koog",
+        "char_code_zhengma": "toob",
+        "char_code_sijiao": "00114"
+    },
+    "general_unicode": "基本区 U+75E4",
+    "general_bs_code": "413413434121"
+}

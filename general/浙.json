@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "Zhejiang province; river"
+        },
+        {
+            "language": "德语",
+            "explanation": "Abkürzung für Zhejiang (chinesische Provinz)​ (S, Geo)"
+        }
+    ],
+    "general_pinyins": [
+        "zhè"
+    ],
+    "general_zhuyins": [
+        "ㄓㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "淛",
+        "𣹨"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6D59",
+            "4411213312"
+        ],
+        "char_code_wubi": "irrh",
+        "char_code_cangjie": "eqhl",
+        "char_code_zhengma": "vdpd",
+        "char_code_sijiao": "32121"
+    },
+    "general_unicode": "基本区 U+6D59",
+    "general_bs_code": "4411213312"
+}

@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sing; folksong, ballad; rumor"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gerücht, Sage  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "chanson populaire,rumeur"
+        }
+    ],
+    "general_pinyins": [
+        "yáo"
+    ],
+    "general_zhuyins": [
+        "ㄧㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "10",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "謠",
+        "謡"
+    ],
+    "general_ytz": [
+        "謠",
+        "謡",
+        "䚺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C23",
+            "453443311252"
+        ],
+        "char_code_wubi": "yerm|yetb",
+        "char_code_cangjie": "ivbou",
+        "char_code_zhengma": "spez",
+        "char_code_sijiao": "32772"
+    },
+    "general_unicode": "基本区 U+8C23",
+    "general_bs_code": "453443311252"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "herb, aromatic plant"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bodhisattva  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "Bodhisattva"
+        }
+    ],
+    "general_pinyins": [
+        "pú"
+    ],
+    "general_zhuyins": [
+        "ㄆㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "萯"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "83E9",
+            "12241431251"
+        ],
+        "char_code_wubi": "aukf",
+        "char_code_cangjie": "tytr",
+        "char_code_zhengma": "esj",
+        "char_code_sijiao": "44601"
+    },
+    "general_unicode": "基本区 U+83E9",
+    "general_bs_code": "12241431251"
+}

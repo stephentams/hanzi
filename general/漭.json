@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "vast; expansive"
+        },
+        {
+            "language": "德语",
+            "explanation": "gewaltig, ausgedehnt"
+        },
+        {
+            "language": "法语",
+            "explanation": "vaste,étendu"
+        }
+    ],
+    "general_pinyins": [
+        "mǎng"
+    ],
+    "general_zhuyins": [
+        "ㄇㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "汒",
+        "𣾘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6F2D",
+            "4411221344132"
+        ],
+        "char_code_wubi": "iada",
+        "char_code_cangjie": "etit",
+        "char_code_zhengma": "vese",
+        "char_code_sijiao": "34148"
+    },
+    "general_unicode": "基本区 U+6F2D",
+    "general_bs_code": "4411221344132"
+}

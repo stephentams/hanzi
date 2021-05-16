@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pray; entreat, beseech"
+        },
+        {
+            "language": "德语",
+            "explanation": "bitten, erfreuen ,Andacht  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "supplier,implorer,prier"
+        }
+    ],
+    "general_pinyins": [
+        "qí"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "礻",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䃽",
+        "𣂘",
+        "𣄨",
+        "𧘻",
+        "祈"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7948",
+            "45243312"
+        ],
+        "char_code_wubi": "pyrh",
+        "char_code_cangjie": "ifhml",
+        "char_code_zhengma": "wspd",
+        "char_code_sijiao": "32221"
+    },
+    "general_unicode": "基本区 U+7948",
+    "general_bs_code": "45243312"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "irregular teeth; discord"
+        },
+        {
+            "language": "德语",
+            "explanation": "irregulär, ordnungswidrig"
+        },
+        {
+            "language": "法语",
+            "explanation": "arcade dentaire irrégulière"
+        }
+    ],
+    "general_pinyins": [
+        "jǔ"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩˇ"
+    ],
+    "general_radical": {
+        "radical": "齿",
+        "non_radical_sn": "5",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "齟"
+    ],
+    "general_ytz": [
+        "齟",
+        "䶥",
+        "𪙵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9F83",
+            "2121345225111"
+        ],
+        "char_code_wubi": "hwbg",
+        "char_code_cangjie": "yubm",
+        "char_code_zhengma": "iolc",
+        "char_code_sijiao": "27712"
+    },
+    "general_unicode": "基本区 U+9F83",
+    "general_bs_code": "2121345225111"
+}

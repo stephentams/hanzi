@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "arsenic"
+        },
+        {
+            "language": "德语",
+            "explanation": "Arsen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "arsenic blanc"
+        }
+    ],
+    "general_pinyins": [
+        "pī"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "磇"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7812",
+            "132511535"
+        ],
+        "char_code_wubi": "dxxn",
+        "char_code_cangjie": "mrpp",
+        "char_code_zhengma": "grrr",
+        "char_code_sijiao": "12610"
+    },
+    "general_unicode": "基本区 U+7812",
+    "general_bs_code": "132511535"
+}

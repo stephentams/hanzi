@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "illness, sickness, disease; pain"
+        },
+        {
+            "language": "德语",
+            "explanation": "Krankheit, Leiden  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "maladie,maladie"
+        }
+    ],
+    "general_pinyins": [
+        "kē"
+    ],
+    "general_zhuyins": [
+        "ㄎㄜ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "痾"
+    ],
+    "general_ytz": [
+        "客",
+        "痾"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "75B4",
+            "4134112512"
+        ],
+        "char_code_wubi": "uskd",
+        "char_code_cangjie": "kmnr",
+        "char_code_zhengma": "taj",
+        "char_code_sijiao": "00121"
+    },
+    "general_unicode": "基本区 U+75B4",
+    "general_bs_code": "4134112512"
+}

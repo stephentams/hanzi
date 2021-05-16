@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sound of cat, cat's meow; meter; (Cant.) don't!"
+        },
+        {
+            "language": "德语",
+            "explanation": "miez! (um eine Katze zu rufen)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "(onom.)​ miaou"
+        }
+    ],
+    "general_pinyins": [
+        "mī"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "咩"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "54AA",
+            "251431234"
+        ],
+        "char_code_wubi": "koy",
+        "char_code_cangjie": "rfd",
+        "char_code_zhengma": "juf",
+        "char_code_sijiao": "69094"
+    },
+    "general_unicode": "基本区 U+54AA",
+    "general_bs_code": "251431234"
+}

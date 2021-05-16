@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "turn, move; shake, wag; drop down"
+        },
+        {
+            "language": "德语",
+            "explanation": "fallen, tropfen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tomber,perdre,tourner,se débarrasser de"
+        }
+    ],
+    "general_pinyins": [
+        "diào"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "挑",
+        "𢴿"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6389",
+            "12121251112"
+        ],
+        "char_code_wubi": "rhjh",
+        "char_code_cangjie": "qyaj",
+        "char_code_zhengma": "dike",
+        "char_code_sijiao": "51046"
+    },
+    "general_unicode": "基本区 U+6389",
+    "general_bs_code": "12121251112"
+}

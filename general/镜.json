@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mirror; lens; glass; glasses"
+        },
+        {
+            "language": "德语",
+            "explanation": "Linse  (S, Tech)​,optisches Glas  (S)​,Spiegel  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "miroir,verre,lunettes"
+        }
+    ],
+    "general_pinyins": [
+        "jìng"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "11",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "鏡"
+    ],
+    "general_ytz": [
+        "鏡",
+        "䤳"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "955C",
+            "3111541431251135"
+        ],
+        "char_code_wubi": "qujq",
+        "char_code_cangjie": "opytu",
+        "char_code_zhengma": "pskr",
+        "char_code_sijiao": "80712"
+    },
+    "general_unicode": "基本区 U+955C",
+    "general_bs_code": "3111541431251135"
+}

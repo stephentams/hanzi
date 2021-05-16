@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cocoon; callus, blister"
+        },
+        {
+            "language": "德语",
+            "explanation": "Hühnerauge  (S)​,Hornhaut, Schwiele  (S)​,Insektenpuppe  (S)​,Kokon  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "jiǎn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "繭"
+    ],
+    "general_ytz": [
+        "絸",
+        "繭",
+        "蠒",
+        "𥭥",
+        "𦇂",
+        "𧅇"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8327",
+            "122251214"
+        ],
+        "char_code_wubi": "aju",
+        "char_code_cangjie": "tlmi",
+        "char_code_zhengma": "eivv",
+        "char_code_sijiao": "44136"
+    },
+    "general_unicode": "基本区 U+8327",
+    "general_bs_code": "122251214"
+}

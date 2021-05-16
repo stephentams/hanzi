@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "alarmed, agitated"
+        }
+    ],
+    "general_pinyins": [
+        "chǎng",
+        "tǎng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄤˇ",
+        "ㄊㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "惝"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "22835",
+            "442243252513134"
+        ],
+        "char_code_wubi": "nimt",
+        "char_code_cangjie": "pfbk",
+        "char_code_zhengma": "uklm"
+    },
+    "general_unicode": "扩展B U+22835",
+    "general_bs_code": "442243252513134"
+}

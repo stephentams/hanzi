@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cage; cage-like basket"
+        },
+        {
+            "language": "德语",
+            "explanation": "Dampfkorb, Topfaufsatz zum Dämpfen  (S, Ess)​,Käfig  (S)​,Konsumverein  (S)​,Korb, Behälter aus Bambus  (S)​,die Hände in den Ärmeln stecken  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "envelopper,caisse,cage,panier"
+        }
+    ],
+    "general_pinyins": [
+        "lóng",
+        "lǒng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄥˊ",
+        "ㄌㄨㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "龙",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "籠"
+    ],
+    "general_ytz": [
+        "籠",
+        "儱",
+        "𦌼",
+        "𪚖"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7B3C",
+            "31431413534"
+        ],
+        "char_code_wubi": "tdxb|tdxy",
+        "char_code_cangjie": "hikp",
+        "char_code_zhengma": "mgm",
+        "char_code_sijiao": "88414"
+    },
+    "general_unicode": "基本区 U+7B3C",
+    "general_bs_code": "31431413534"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "trample under foot, tread on"
+        },
+        {
+            "language": "德语",
+            "explanation": "zertrampeln, trampeln"
+        },
+        {
+            "language": "法语",
+            "explanation": "fouler aux pieds"
+        }
+    ],
+    "general_pinyins": [
+        "róu"
+    ],
+    "general_zhuyins": [
+        "ㄖㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "9",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "厹",
+        "禸",
+        "𠘯",
+        "𧿪"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E42",
+            "2512121545231234"
+        ],
+        "char_code_wubi": "khcs",
+        "char_code_cangjie": "rmnhd",
+        "char_code_zhengma": "jimf",
+        "char_code_sijiao": "67194"
+    },
+    "general_unicode": "基本区 U+8E42",
+    "general_bs_code": "2512121545231234"
+}

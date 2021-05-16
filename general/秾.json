@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "thick, lush, in clusters"
+        },
+        {
+            "language": "法语",
+            "explanation": "végétation luxuriante,flore luxuriante,fortement regroupés"
+        }
+    ],
+    "general_pinyins": [
+        "nóng"
+    ],
+    "general_zhuyins": [
+        "ㄋㄨㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "穠"
+    ],
+    "general_ytz": [
+        "穠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "79FE",
+            "31234453534"
+        ],
+        "char_code_wubi": "tpey",
+        "char_code_cangjie": "hdhbv",
+        "char_code_zhengma": "mfwr",
+        "char_code_sijiao": "24932"
+    },
+    "general_unicode": "基本区 U+79FE",
+    "general_bs_code": "31234453534"
+}

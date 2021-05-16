@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "whirlwind, cyclone; floating"
+        },
+        {
+            "language": "德语",
+            "explanation": "flattern  (V)​,hin und her wehen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tourbillonner,flottant,gracieux"
+        }
+    ],
+    "general_pinyins": [
+        "piāo"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "风",
+        "non_radical_sn": "11",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "飄"
+    ],
+    "general_ytz": [
+        "飄",
+        "飃",
+        "𠠕",
+        "𩘞",
+        "𩙞"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "98D8",
+            "125221112343534"
+        ],
+        "char_code_wubi": "sfiq|sfir",
+        "char_code_cangjie": "mfhnk",
+        "char_code_zhengma": "fjqo",
+        "char_code_sijiao": "17910"
+    },
+    "general_unicode": "基本区 U+98D8",
+    "general_bs_code": "125221112343534"
+}

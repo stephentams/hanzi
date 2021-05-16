@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a bamboo basket used to catch fishes"
+        }
+    ],
+    "general_pinyins": [
+        "huò"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "13",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "篧"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "425F",
+            "3143141213241112154"
+        ],
+        "char_code_wubi": "trwc",
+        "char_code_cangjie": "hqoe",
+        "char_code_zhengma": "mdnx",
+        "char_code_sijiao": "88547"
+    },
+    "general_unicode": "扩展A U+425F",
+    "general_bs_code": "3143141213241112154"
+}

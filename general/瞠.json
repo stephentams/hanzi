@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "look at, stare at, gaze at"
+        },
+        {
+            "language": "德语",
+            "explanation": "jemanden oder etwas lange anstarren  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "regarder en face,regarder fixement"
+        }
+    ],
+    "general_pinyins": [
+        "chēng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄥ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "11",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䁎",
+        "憆",
+        "矃",
+        "𥊰",
+        "𥊲",
+        "𥊼"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "77A0",
+            "2511124345251121"
+        ],
+        "char_code_wubi": "hipf",
+        "char_code_cangjie": "bufbg",
+        "char_code_zhengma": "lkjb",
+        "char_code_sijiao": "69014"
+    },
+    "general_unicode": "基本区 U+77A0",
+    "general_bs_code": "2511124345251121"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cord"
+        },
+        {
+            "language": "德语",
+            "explanation": "binden, verbinden"
+        },
+        {
+            "language": "法语",
+            "explanation": "lien,corde"
+        }
+    ],
+    "general_pinyins": [
+        "mò"
+    ],
+    "general_zhuyins": [
+        "ㄇㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "糹",
+        "non_radical_sn": "15",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦄿"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7E86",
+            "554444254312114444121"
+        ],
+        "char_code_wubi": "xlff",
+        "char_code_cangjie": "vfwgg",
+        "char_code_zhengma": "zlub",
+        "char_code_sijiao": "26914"
+    },
+    "general_unicode": "基本区 U+7E86",
+    "general_bs_code": "554444254312114444121"
+}

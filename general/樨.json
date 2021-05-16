@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "德语",
+            "explanation": "Süße Duftblüte"
+        },
+        {
+            "language": "法语",
+            "explanation": "osmanthus fragrans"
+        }
+    ],
+    "general_pinyins": [
+        "xī"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "12",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6A28",
+            "1234513241343112"
+        ],
+        "char_code_wubi": "snih|snig",
+        "char_code_cangjie": "dseq",
+        "char_code_zhengma": "fxkm",
+        "char_code_sijiao": "47959"
+    },
+    "general_unicode": "基本区 U+6A28",
+    "general_bs_code": "1234513241343112"
+}

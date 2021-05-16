@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "loop, catch; fetter, shackle"
+        },
+        {
+            "language": "法语",
+            "explanation": "trébucher,buter,entraver"
+        }
+    ],
+    "general_pinyins": [
+        "bàn"
+    ],
+    "general_zhuyins": [
+        "ㄅㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "絆"
+    ],
+    "general_ytz": [
+        "絆",
+        "𨧘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7ECA",
+            "55143112"
+        ],
+        "char_code_wubi": "xufh|xugh",
+        "char_code_cangjie": "vmfq",
+        "char_code_zhengma": "zub",
+        "char_code_sijiao": "29150"
+    },
+    "general_unicode": "基本区 U+7ECA",
+    "general_bs_code": "55143112"
+}

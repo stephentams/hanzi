@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "better varieties of millet"
+        },
+        {
+            "language": "德语",
+            "explanation": "auserlesene Speise, gutes Essen  (S, Ess)​,Hirse, Sorghum  (S, Agrar)"
+        },
+        {
+            "language": "法语",
+            "explanation": "céréales d'excellente qualité,grains d'excellente qualité"
+        }
+    ],
+    "general_pinyins": [
+        "liáng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "米",
+        "non_radical_sn": "7",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥞹",
+        "𥹦",
+        "𥹭",
+        "𣸑"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7CB1",
+            "4415344431234"
+        ],
+        "char_code_wubi": "ivwo",
+        "char_code_cangjie": "ecfd",
+        "char_code_zhengma": "vyou",
+        "char_code_sijiao": "33904"
+    },
+    "general_unicode": "基本区 U+7CB1",
+    "general_bs_code": "4415344431234"
+}

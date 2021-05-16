@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "the steps leading to the eastern door"
+        },
+        {
+            "language": "德语",
+            "explanation": "Thron  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "degré"
+        }
+    ],
+    "general_pinyins": [
+        "zuò"
+    ],
+    "general_zhuyins": [
+        "ㄗㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䟭"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "963C",
+            "5231211"
+        ],
+        "char_code_wubi": "bthf",
+        "char_code_cangjie": "nlos",
+        "char_code_zhengma": "ymid",
+        "char_code_sijiao": "78211"
+    },
+    "general_unicode": "基本区 U+963C",
+    "general_bs_code": "5231211"
+}

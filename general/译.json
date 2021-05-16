@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "translate; decode; encode"
+        },
+        {
+            "language": "德语",
+            "explanation": "übersetzen, dolmetschen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "traduire,interpréter"
+        }
+    ],
+    "general_pinyins": [
+        "yì"
+    ],
+    "general_zhuyins": [
+        "ㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "譯"
+    ],
+    "general_ytz": [
+        "譯",
+        "訳",
+        "𧬳"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BD1",
+            "4554112"
+        ],
+        "char_code_wubi": "ycfh|ycgh",
+        "char_code_cangjie": "iveq",
+        "char_code_zhengma": "sxbi",
+        "char_code_sijiao": "37754"
+    },
+    "general_unicode": "基本区 U+8BD1",
+    "general_bs_code": "4554112"
+}

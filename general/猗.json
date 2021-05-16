@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "exclamation of admiration"
+        },
+        {
+            "language": "德语",
+            "explanation": "Yi  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "florissant"
+        }
+    ],
+    "general_pinyins": [
+        "yī",
+        "yǐ"
+    ],
+    "general_zhuyins": [
+        "ㄧ",
+        "ㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䝝",
+        "犄"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7317",
+            "35313412512"
+        ],
+        "char_code_wubi": "qtdk",
+        "char_code_cangjie": "khkmr",
+        "char_code_zhengma": "qmaj",
+        "char_code_sijiao": "44221"
+    },
+    "general_unicode": "基本区 U+7317",
+    "general_bs_code": "35313412512"
+}

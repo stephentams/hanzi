@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pleat, crease, wrinkles"
+        },
+        {
+            "language": "德语",
+            "explanation": "Falte (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "pli,robe de cour (archaïque)​"
+        }
+    ],
+    "general_pinyins": [
+        "zhě"
+    ],
+    "general_zhuyins": [
+        "ㄓㄜˇ"
+    ],
+    "general_radical": {
+        "radical": "衤",
+        "non_radical_sn": "11",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "摺",
+        "襵",
+        "𢄭",
+        "𧚻"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8936",
+            "4523454154132511"
+        ],
+        "char_code_wubi": "punr",
+        "char_code_cangjie": "lsma",
+        "char_code_zhengma": "wtyn",
+        "char_code_sijiao": "37262"
+    },
+    "general_unicode": "基本区 U+8936",
+    "general_bs_code": "4523454154132511"
+}

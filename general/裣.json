@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "draw one's hands into sleeve"
+        },
+        {
+            "language": "德语",
+            "explanation": "die Hände in die Ärmel schieben  (V)"
+        }
+    ],
+    "general_pinyins": [
+        "liǎn"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "衤",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "襝"
+    ],
+    "general_ytz": [
+        "襝"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "88E3",
+            "452343414431"
+        ],
+        "char_code_wubi": "puwi|puwg",
+        "char_code_cangjie": "lomm",
+        "char_code_zhengma": "wtbv",
+        "char_code_sijiao": "38219"
+    },
+    "general_unicode": "基本区 U+88E3",
+    "general_bs_code": "452343414431"
+}

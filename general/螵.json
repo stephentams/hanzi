@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a chrysalis"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schmetterlingspuppe"
+        }
+    ],
+    "general_pinyins": [
+        "piāo"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "11",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "87B5",
+            "25121412522111234"
+        ],
+        "char_code_wubi": "jsfi",
+        "char_code_cangjie": "limwf",
+        "char_code_zhengma": "ifbk",
+        "char_code_sijiao": "51191"
+    },
+    "general_unicode": "基本区 U+87B5",
+    "general_bs_code": "25121412522111234"
+}

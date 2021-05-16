@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "not progressing; to be checked"
+        },
+        {
+            "language": "德语",
+            "explanation": "stolpern"
+        },
+        {
+            "language": "法语",
+            "explanation": "faux pas"
+        }
+    ],
+    "general_pinyins": [
+        "liè"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "走",
+        "non_radical_sn": "6",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D94",
+            "1212134135422"
+        ],
+        "char_code_wubi": "fhgj",
+        "char_code_cangjie": "gomnn",
+        "char_code_zhengma": "bork",
+        "char_code_sijiao": "42800"
+    },
+    "general_unicode": "基本区 U+8D94",
+    "general_bs_code": "1212134135422"
+}

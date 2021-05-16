@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "heavy, weighty; double"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 wiederholen, verdoppeln,x-fach,schwer, stark (Adj)​,wichtig, bedeutend (Adj)​,Gewicht (S)​,Zhong (Eig, Fam)"
+        }
+    ],
+    "general_pinyins": [
+        "zhòng",
+        "chóng"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨㄥˋ",
+        "ㄔㄨㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "里",
+        "non_radical_sn": "2",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "緟",
+        "𡍴",
+        "𡍺",
+        "𡒀",
+        "𡔅",
+        "𡔌",
+        "𧝎",
+        "𨤣",
+        "𦌋"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "91CD",
+            "312511211"
+        ],
+        "char_code_wubi": "tgjf",
+        "char_code_cangjie": "hjwg",
+        "char_code_zhengma": "mekb",
+        "char_code_sijiao": "20105"
+    },
+    "general_unicode": "基本区 U+91CD",
+    "general_bs_code": "312511211"
+}

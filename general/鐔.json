@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dagger; small sword"
+        },
+        {
+            "language": "德语",
+            "explanation": "Tan  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "urne"
+        }
+    ],
+    "general_pinyins": [
+        "xín"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "釒",
+        "non_radical_sn": "12",
+        "total_sn": "20"
+    },
+    "general_stc": [
+        "镡"
+    ],
+    "general_ytz": [
+        "镡",
+        "𨰳"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9414",
+            "34112431125221251112"
+        ],
+        "char_code_wubi": "qsjh",
+        "char_code_cangjie": "cmwj",
+        "char_code_zhengma": "pfke",
+        "char_code_sijiao": "81146"
+    },
+    "general_unicode": "基本区 U+9414",
+    "general_bs_code": "34112431125221251112"
+}

@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "praise, commend, eulogize"
+        },
+        {
+            "language": "德语",
+            "explanation": "anpreisen, preisen"
+        }
+    ],
+    "general_pinyins": [
+        "zàn"
+    ],
+    "general_zhuyins": [
+        "ㄗㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "言",
+        "non_radical_sn": "19",
+        "total_sn": "26"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "囋",
+        "讃",
+        "贊"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8B9A",
+            "41112513121353121352511134"
+        ],
+        "char_code_wubi": "ytfm",
+        "char_code_cangjie": "yrhuc",
+        "char_code_zhengma": "smrl",
+        "char_code_sijiao": "04686"
+    },
+    "general_unicode": "基本区 U+8B9A",
+    "general_bs_code": "41112513121353121352511134"
+}

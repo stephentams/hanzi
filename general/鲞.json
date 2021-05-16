@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dried fish"
+        }
+    ],
+    "general_pinyins": [
+        "xiǎng"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "6",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "鮝",
+        "鯗"
+    ],
+    "general_ytz": [
+        "鮝",
+        "鯗"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9C9E",
+            "43113435251211"
+        ],
+        "char_code_wubi": "udqg|ugqg",
+        "char_code_cangjie": "fqnwm",
+        "char_code_zhengma": "ubr",
+        "char_code_sijiao": "90106"
+    },
+    "general_unicode": "基本区 U+9C9E",
+    "general_bs_code": "43113435251211"
+}

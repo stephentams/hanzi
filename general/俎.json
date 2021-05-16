@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "chopping board or block; painted"
+        },
+        {
+            "language": "法语",
+            "explanation": "table à sacrifices"
+        }
+    ],
+    "general_pinyins": [
+        "zǔ"
+    ],
+    "general_zhuyins": [
+        "ㄗㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "人",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "且",
+        "爼",
+        "𤕲"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4FCE",
+            "343425111"
+        ],
+        "char_code_wubi": "wweg",
+        "char_code_cangjie": "oobm",
+        "char_code_zhengma": "odol",
+        "char_code_sijiao": "87812"
+    },
+    "general_unicode": "基本区 U+4FCE",
+    "general_bs_code": "343425111"
+}

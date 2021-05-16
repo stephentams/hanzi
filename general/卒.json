@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "soldier; servant; at last, finally"
+        },
+        {
+            "language": "德语",
+            "explanation": "plötzlich, unerwartet, unvermittelt [ auch 猝 cu4 ]  (Adj, Lit)​,Diener, Helfeshelfer, Lakai, Büttel  (S)​,Gewindeschneidbacke  (S, Tech)​,Soldat ( schwarzer Stein im chinesischen Schach )​  (S)​,Soldat  (S, Mil)​,etw. beenden, beendigen, etw. ein Ende machen  (V)​,sterben, verenden  (V)​,verenden, versterben  (V)​,endlich, schließlich, zum Schluß, zuletzt  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "soldat,finir,achever,mourir"
+        }
+    ],
+    "general_pinyins": [
+        "zú",
+        "cù"
+    ],
+    "general_zhuyins": [
+        "ㄗㄨˊ",
+        "ㄘㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "十",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䘚",
+        "倅",
+        "卆",
+        "𠥾",
+        "𣨛",
+        "𨒳"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5352",
+            "41343412"
+        ],
+        "char_code_wubi": "ywwf",
+        "char_code_cangjie": "yooj",
+        "char_code_zhengma": "sooe",
+        "char_code_sijiao": "00408"
+    },
+    "general_unicode": "基本区 U+5352",
+    "general_bs_code": "41343412"
+}

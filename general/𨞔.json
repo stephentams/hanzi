@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "邑",
+        "non_radical_sn": "13",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "巷"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "28794",
+            "25152151221342515215"
+        ],
+        "char_code_wubi": "kcac",
+        "char_code_cangjie": "rutcu",
+        "char_code_zhengma": "jyjy"
+    },
+    "general_unicode": "扩展B U+28794",
+    "general_bs_code": "25152151221342515215"
+}

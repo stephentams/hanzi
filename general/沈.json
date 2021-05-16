@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sink, submerge; addicted to; surname"
+        },
+        {
+            "language": "德语",
+            "explanation": "leise, ruhig, still  (Adj)​,Ortsname  (S)​,Shen  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "shěn",
+        "chén"
+    ],
+    "general_zhuyins": [
+        "ㄕㄣˇ",
+        "ㄔㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "瀋"
+    ],
+    "general_ytz": [
+        "沉",
+        "湛",
+        "邥",
+        "瀋",
+        "沈"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6C88",
+            "4414535"
+        ],
+        "char_code_wubi": "ipqn",
+        "char_code_cangjie": "elbu",
+        "char_code_zhengma": "vwrd",
+        "char_code_sijiao": "34112"
+    },
+    "general_unicode": "基本区 U+6C88",
+    "general_bs_code": "4414535"
+}

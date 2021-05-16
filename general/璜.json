@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a semicircular jade ornament used as a pendant"
+        },
+        {
+            "language": "法语",
+            "explanation": "ornement de jade semi-circulaire"
+        }
+    ],
+    "general_pinyins": [
+        "huáng"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "11",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "749C",
+            "112112212512134"
+        ],
+        "char_code_wubi": "gamw",
+        "char_code_cangjie": "mgtlc",
+        "char_code_zhengma": "ceko",
+        "char_code_sijiao": "14186"
+    },
+    "general_unicode": "基本区 U+749C",
+    "general_bs_code": "112112212512134"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "knot; blemish, flaw, wicked"
+        },
+        {
+            "language": "德语",
+            "explanation": "einen Knoten machen, knoten"
+        },
+        {
+            "language": "法语",
+            "explanation": "faille,noeud,défaut,noeud"
+        }
+    ],
+    "general_pinyins": [
+        "lèi"
+    ],
+    "general_zhuyins": [
+        "ㄌㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "糸",
+        "non_radical_sn": "15",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "颣"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7E87",
+            "431234554234132511134"
+        ],
+        "char_code_wubi": "oxim",
+        "char_code_cangjie": "ffmbc",
+        "char_code_zhengma": "ufzg",
+        "char_code_sijiao": "91986"
+    },
+    "general_unicode": "基本区 U+7E87",
+    "general_bs_code": "431234554234132511134"
+}

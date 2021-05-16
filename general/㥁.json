@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as U+5FB7 德) morality; virtues, behavior; conduct"
+        }
+    ],
+    "general_pinyins": [
+        "dé",
+        "zhí",
+        "zhòu"
+    ],
+    "general_zhuyins": [
+        "ㄉㄜˊ",
+        "ㄓˊ",
+        "ㄓㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "德"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3941",
+            "132522154544"
+        ],
+        "char_code_wubi": "flnn",
+        "char_code_cangjie": "jwlp",
+        "char_code_zhengma": "edzw",
+        "char_code_sijiao": "40331"
+    },
+    "general_unicode": "扩展A U+3941",
+    "general_bs_code": "132522154544"
+}

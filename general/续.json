@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "continue, carry on; succeed"
+        },
+        {
+            "language": "德语",
+            "explanation": "andauern, fortdauern"
+        },
+        {
+            "language": "法语",
+            "explanation": "continuer,suivre,ajouter,additionner"
+        }
+    ],
+    "general_pinyins": [
+        "xù"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "續"
+    ],
+    "general_ytz": [
+        "續",
+        "続",
+        "𦁱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EED",
+            "55112544134"
+        ],
+        "char_code_wubi": "xfnd",
+        "char_code_cangjie": "vmjnk",
+        "char_code_zhengma": "zetg",
+        "char_code_sijiao": "24184"
+    },
+    "general_unicode": "基本区 U+7EED",
+    "general_bs_code": "55112544134"
+}

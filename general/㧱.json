@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as U+62FF 拿) to bring, to take, to apprehend, to grasp"
+        }
+    ],
+    "general_pinyins": [
+        "chèn",
+        "ná",
+        "nì",
+        "nì",
+        "tiàn"
+    ],
+    "general_zhuyins": [
+        "ㄔㄣˋ",
+        "ㄋㄚˊ",
+        "ㄋㄧˋ",
+        "ㄋㄧˋ",
+        "ㄊㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "手",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "拿"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "39F1",
+            "3412513112"
+        ],
+        "char_code_wubi": "wgkr",
+        "char_code_cangjie": "orq",
+        "char_code_zhengma": "odjm",
+        "char_code_sijiao": "82650"
+    },
+    "general_unicode": "扩展A U+39F1",
+    "general_bs_code": "3412513112"
+}

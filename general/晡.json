@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "late afternoon"
+        },
+        {
+            "language": "法语",
+            "explanation": "période entre 15 et 17h"
+        }
+    ],
+    "general_pinyins": [
+        "bū"
+    ],
+    "general_zhuyins": [
+        "ㄅㄨ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣆫",
+        "𣇀"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6661",
+            "25111251124"
+        ],
+        "char_code_wubi": "jgey|jsy",
+        "char_code_cangjie": "aijb",
+        "char_code_zhengma": "kfb",
+        "char_code_sijiao": "63027"
+    },
+    "general_unicode": "基本区 U+6661",
+    "general_bs_code": "25111251124"
+}

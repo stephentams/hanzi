@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "long legged spider; octopus; chrysalis of mantis"
+        },
+        {
+            "language": "德语",
+            "explanation": "Shao  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "araignée à longues pattes,pieuvre commune"
+        }
+    ],
+    "general_pinyins": [
+        "xiāo"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "7",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "86F8",
+            "2512142432511"
+        ],
+        "char_code_wubi": "jieg",
+        "char_code_cangjie": "lifb",
+        "char_code_zhengma": "ikq",
+        "char_code_sijiao": "59127"
+    },
+    "general_unicode": "基本区 U+86F8",
+    "general_bs_code": "2512142432511"
+}

@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cotton; cotton padded"
+        },
+        {
+            "language": "德语",
+            "explanation": "Baumwolle  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "coton,ouaté"
+        }
+    ],
+    "general_pinyins": [
+        "mián"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㮌",
+        "𣏜"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "68C9",
+            "123432511252"
+        ],
+        "char_code_wubi": "srmh",
+        "char_code_cangjie": "dhab",
+        "char_code_zhengma": "fnli",
+        "char_code_sijiao": "46927"
+    },
+    "general_unicode": "基本区 U+68C9",
+    "general_bs_code": "123432511252"
+}

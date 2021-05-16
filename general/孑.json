@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "remaining, left-over; lonely"
+        },
+        {
+            "language": "德语",
+            "explanation": "klein, unbedeutend ,Mückenlarven  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "seul"
+        }
+    ],
+    "general_pinyins": [
+        "jié"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "子",
+        "non_radical_sn": "0",
+        "total_sn": "3"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠆨",
+        "𠆬",
+        "𡤼"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5B51",
+            "521"
+        ],
+        "char_code_wubi": "bnhg",
+        "char_code_cangjie": "nnm",
+        "char_code_zhengma": "yavv",
+        "char_code_sijiao": "17407"
+    },
+    "general_unicode": "基本区 U+5B51",
+    "general_bs_code": "521"
+}

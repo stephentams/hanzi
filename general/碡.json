@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stone roller used to level fields"
+        },
+        {
+            "language": "法语",
+            "explanation": "rouleau de pierre"
+        }
+    ],
+    "general_pinyins": [
+        "zhóu"
+    ],
+    "general_zhuyins": [
+        "ㄓㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "9",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥖠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "78A1",
+            "13251112155414"
+        ],
+        "char_code_wubi": "dgxu|dgxy",
+        "char_code_cangjie": "mrqmy",
+        "char_code_zhengma": "gczy",
+        "char_code_sijiao": "15657"
+    },
+    "general_unicode": "基本区 U+78A1",
+    "general_bs_code": "13251112155414"
+}

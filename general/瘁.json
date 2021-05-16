@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "feel tired, be weary, be worn out"
+        },
+        {
+            "language": "法语",
+            "explanation": "fatigue,usé"
+        }
+    ],
+    "general_pinyins": [
+        "cuì"
+    ],
+    "general_zhuyins": [
+        "ㄘㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "疩"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7601",
+            "4134141343412"
+        ],
+        "char_code_wubi": "uywf",
+        "char_code_cangjie": "kyoj",
+        "char_code_zhengma": "tsoe",
+        "char_code_sijiao": "00148"
+    },
+    "general_unicode": "基本区 U+7601",
+    "general_bs_code": "4134141343412"
+}

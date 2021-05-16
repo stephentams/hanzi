@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "river in Hunan"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom d'une rivière)​"
+        }
+    ],
+    "general_pinyins": [
+        "xù"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "漵"
+    ],
+    "general_ytz": [
+        "漵",
+        "潊",
+        "㵰"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6E86",
+            "441341123454"
+        ],
+        "char_code_wubi": "iwtc|iwgc",
+        "char_code_cangjie": "eode",
+        "char_code_zhengma": "vomx",
+        "char_code_sijiao": "37140"
+    },
+    "general_unicode": "基本区 U+6E86",
+    "general_bs_code": "441341123454"
+}

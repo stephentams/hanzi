@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "[unknown: wu2? variant guan1?]"
+        }
+    ],
+    "general_pinyins": [
+        "guàn",
+        "wān"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄢˋ",
+        "ㄨㄢ"
+    ],
+    "general_radical": {
+        "radical": "毋",
+        "non_radical_sn": "0",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "貫"
+    ],
+    "general_structure": "单体结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6BCC",
+            "5521"
+        ],
+        "char_code_wubi": "xfk|xnnh",
+        "char_code_cangjie": "wj",
+        "char_code_zhengma": "zyaa",
+        "char_code_sijiao": "77740"
+    },
+    "general_unicode": "基本区 U+6BCC",
+    "general_bs_code": "5521"
+}

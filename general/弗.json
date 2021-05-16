@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "not, negative"
+        },
+        {
+            "language": "法语",
+            "explanation": "ne pas,non"
+        }
+    ],
+    "general_pinyins": [
+        "fú"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "弓",
+        "non_radical_sn": "2",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "怫",
+        "𢎵",
+        "𢏍"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F17",
+            "51532"
+        ],
+        "char_code_wubi": "xjk",
+        "char_code_cangjie": "lln",
+        "char_code_zhengma": "yznd",
+        "char_code_sijiao": "55027"
+    },
+    "general_unicode": "基本区 U+5F17",
+    "general_bs_code": "51532"
+}

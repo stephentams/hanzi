@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 毛 芼) to select; to choose; to pick out"
+        }
+    ],
+    "general_pinyins": [
+        "mào"
+    ],
+    "general_zhuyins": [
+        "ㄇㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "芼"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "39CC",
+            "1213115"
+        ],
+        "char_code_wubi": "rtfn|ren",
+        "char_code_cangjie": "qhqu",
+        "char_code_zhengma": "dmha",
+        "char_code_sijiao": "52014"
+    },
+    "general_unicode": "扩展A U+39CC",
+    "general_bs_code": "1213115"
+}

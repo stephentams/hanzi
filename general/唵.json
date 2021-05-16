@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "used in Buddhist texts to transliterate non-Chinese sounds; to eat with the hand"
+        },
+        {
+            "language": "德语",
+            "explanation": "Om ,Silbe  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "transcription du son Om (bouddhisme)​"
+        }
+    ],
+    "general_pinyins": [
+        "ǎn"
+    ],
+    "general_zhuyins": [
+        "ㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠵵",
+        "𠺄"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5535",
+            "25113425115"
+        ],
+        "char_code_wubi": "kdjn",
+        "char_code_cangjie": "rklu",
+        "char_code_zhengma": "jgkz",
+        "char_code_sijiao": "64016"
+    },
+    "general_unicode": "基本区 U+5535",
+    "general_bs_code": "25113425115"
+}

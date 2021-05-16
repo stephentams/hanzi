@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "falling of snow and rain"
+        },
+        {
+            "language": "法语",
+            "explanation": "chute de neige"
+        }
+    ],
+    "general_pinyins": [
+        "fēi"
+    ],
+    "general_zhuyins": [
+        "ㄈㄟ"
+    ],
+    "general_radical": {
+        "radical": "雨",
+        "non_radical_sn": "8",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䬠"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "970F",
+            "1452444421112111"
+        ],
+        "char_code_wubi": "fdjd|fhdd",
+        "char_code_cangjie": "mblmy",
+        "char_code_zhengma": "fvkc",
+        "char_code_sijiao": "10111"
+    },
+    "general_unicode": "基本区 U+970F",
+    "general_bs_code": "1452444421112111"
+}

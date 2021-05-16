@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lush; affable, friendly"
+        },
+        {
+            "language": "德语",
+            "explanation": "freundlich  (Adv)"
+        },
+        {
+            "language": "法语",
+            "explanation": "amicalement"
+        }
+    ],
+    "general_pinyins": [
+        "ǎi"
+    ],
+    "general_zhuyins": [
+        "ㄞˇ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "16",
+        "total_sn": "19"
+    },
+    "general_stc": [
+        "蔼"
+    ],
+    "general_ytz": [
+        "譪"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "85F9",
+            "1224111251251135345"
+        ],
+        "char_code_wubi": "ayjn",
+        "char_code_cangjie": "tyrv",
+        "char_code_zhengma": "eskr",
+        "char_code_sijiao": "44627"
+    },
+    "general_unicode": "基本区 U+85F9",
+    "general_bs_code": "1224111251251135345"
+}

@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "officer, military rank"
+        },
+        {
+            "language": "德语",
+            "explanation": "Offizier  (S)​,beruhigen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "officier subalterne"
+        }
+    ],
+    "general_pinyins": [
+        "wèi",
+        "yù"
+    ],
+    "general_zhuyins": [
+        "ㄨㄟˋ",
+        "ㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "寸",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㷉",
+        "叞",
+        "慰",
+        "熨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5C09",
+            "51311234124"
+        ],
+        "char_code_wubi": "nfif",
+        "char_code_cangjie": "sfdi",
+        "char_code_zhengma": "xmbd",
+        "char_code_sijiao": "74200"
+    },
+    "general_unicode": "基本区 U+5C09",
+    "general_bs_code": "51311234124"
+}

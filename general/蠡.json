@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wood-boring insect; bore into wood"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kalebasse  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "coquillage,calebasse coupée en deux, servant de louche,ver du bois"
+        }
+    ],
+    "general_pinyins": [
+        "lǐ"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "15",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "蠃",
+        "䗍",
+        "盠",
+        "蟸",
+        "𢍝",
+        "𥯵",
+        "𧋠",
+        "𧱤"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8821",
+            "551353334251214251214"
+        ],
+        "char_code_wubi": "xejj",
+        "char_code_cangjie": "volii",
+        "char_code_zhengma": "zmii",
+        "char_code_sijiao": "27136"
+    },
+    "general_unicode": "基本区 U+8821",
+    "general_bs_code": "551353334251214251214"
+}

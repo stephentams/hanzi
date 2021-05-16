@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cover, shield, protect"
+        },
+        {
+            "language": "德语",
+            "explanation": "abblenden, etw verdecken  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "couvrir,dissimuler,protéger,abriter"
+        }
+    ],
+    "general_pinyins": [
+        "zhē"
+    ],
+    "general_zhuyins": [
+        "ㄓㄜ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨖥"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "906E",
+            "41312214444454"
+        ],
+        "char_code_wubi": "yaop|oaop",
+        "char_code_cangjie": "yitf",
+        "char_code_zhengma": "tguw",
+        "char_code_sijiao": "30303"
+    },
+    "general_unicode": "基本区 U+906E",
+    "general_bs_code": "41312214444454"
+}

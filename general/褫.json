@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "strip, tear off, undress"
+        },
+        {
+            "language": "法语",
+            "explanation": "ôter,dévêtir,dépouiller,priver qqn de qch"
+        }
+    ],
+    "general_pinyins": [
+        "chǐ"
+    ],
+    "general_zhuyins": [
+        "ㄔˇ"
+    ],
+    "general_radical": {
+        "radical": "衤",
+        "non_radical_sn": "10",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧚜",
+        "裭"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "892B",
+            "452343321531535"
+        ],
+        "char_code_wubi": "purm|purw",
+        "char_code_cangjie": "lhyn",
+        "char_code_zhengma": "wtpi",
+        "char_code_sijiao": "32217"
+    },
+    "general_unicode": "基本区 U+892B",
+    "general_bs_code": "452343321531535"
+}

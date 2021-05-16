@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "child's governess; matron"
+        },
+        {
+            "language": "德语",
+            "explanation": "Erzieherin, Gouvernante  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "femme qui s'occupe de petits enfants"
+        }
+    ],
+    "general_pinyins": [
+        "mǔ"
+    ],
+    "general_zhuyins": [
+        "ㄇㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "娒",
+        "母"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "59C6",
+            "53155414"
+        ],
+        "char_code_wubi": "vxgu|vxy",
+        "char_code_cangjie": "vwyi",
+        "char_code_zhengma": "zmzy",
+        "char_code_sijiao": "47450"
+    },
+    "general_unicode": "基本区 U+59C6",
+    "general_bs_code": "53155414"
+}

@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "brindled ox; brindled in color"
+        }
+    ],
+    "general_pinyins": [
+        "luò"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "犖"
+    ],
+    "general_ytz": [
+        "犖"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8366",
+            "122453112"
+        ],
+        "char_code_wubi": "aprh|aptg",
+        "char_code_cangjie": "tbhq",
+        "char_code_zhengma": "ewmb",
+        "char_code_sijiao": "44502"
+    },
+    "general_unicode": "基本区 U+8366",
+    "general_bs_code": "122453112"
+}

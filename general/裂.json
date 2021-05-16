@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "split, crack, break open; rend"
+        },
+        {
+            "language": "德语",
+            "explanation": "platzen. zersplittern; Spalte"
+        },
+        {
+            "language": "法语",
+            "explanation": "se fendre,crever"
+        }
+    ],
+    "general_pinyins": [
+        "liè",
+        "liě"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄝˋ",
+        "ㄌㄧㄝˇ"
+    ],
+    "general_radical": {
+        "radical": "衣",
+        "non_radical_sn": "6",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "列",
+        "𧙩",
+        "𧙷",
+        "𧚲",
+        "𧛵",
+        "𧛯",
+        "裂"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "88C2",
+            "135422413534"
+        ],
+        "char_code_wubi": "gqje",
+        "char_code_cangjie": "mnyhv",
+        "char_code_zhengma": "arsr",
+        "char_code_sijiao": "12732"
+    },
+    "general_unicode": "基本区 U+88C2",
+    "general_bs_code": "135422413534"
+}

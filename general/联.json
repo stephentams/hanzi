@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "connect, join; associate, ally"
+        },
+        {
+            "language": "德语",
+            "explanation": "verbinden, anfügen ,verbinden, vereinigen ,vereinigen, einigen"
+        },
+        {
+            "language": "法语",
+            "explanation": "unir,joindre,assembler,s'allier"
+        }
+    ],
+    "general_pinyins": [
+        "lián"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "耳",
+        "non_radical_sn": "6",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "聯"
+    ],
+    "general_ytz": [
+        "聯",
+        "聨",
+        "聫",
+        "聮",
+        "䏈",
+        "𦕱",
+        "𦖹",
+        "𦘈"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8054",
+            "122111431134"
+        ],
+        "char_code_wubi": "budy",
+        "char_code_cangjie": "sjtk",
+        "char_code_zhengma": "ceug",
+        "char_code_sijiao": "18484"
+    },
+    "general_unicode": "基本区 U+8054",
+    "general_bs_code": "122111431134"
+}

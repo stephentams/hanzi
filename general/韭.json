@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "scallion, leek; radical 179"
+        },
+        {
+            "language": "德语",
+            "explanation": "Porree  (S)​,Radikal Nr. 179 = Lauch, Knoblauch  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "jiǔ"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "韭",
+        "non_radical_sn": "0",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "韮"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "97ED",
+            "211121111"
+        ],
+        "char_code_wubi": "djdg|hdhg",
+        "char_code_cangjie": "lsmm",
+        "char_code_zhengma": "kca",
+        "char_code_sijiao": "11101"
+    },
+    "general_unicode": "基本区 U+97ED",
+    "general_bs_code": "211121111"
+}

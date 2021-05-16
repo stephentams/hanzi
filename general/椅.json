@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "chair, seat"
+        },
+        {
+            "language": "德语",
+            "explanation": "Stuhl  (S)​,Yi  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "fauteuil,chaise"
+        }
+    ],
+    "general_pinyins": [
+        "yǐ",
+        "yī"
+    ],
+    "general_zhuyins": [
+        "ㄧˇ",
+        "ㄧ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "倚"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6905",
+            "123413412512"
+        ],
+        "char_code_wubi": "sdsk",
+        "char_code_cangjie": "dkmr",
+        "char_code_zhengma": "fgaj",
+        "char_code_sijiao": "44921"
+    },
+    "general_unicode": "基本区 U+6905",
+    "general_bs_code": "123413412512"
+}

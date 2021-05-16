@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "large poisonous snake"
+        },
+        {
+            "language": "法语",
+            "explanation": "serpent venimeux mythique,sans ambition"
+        }
+    ],
+    "general_pinyins": [
+        "huǐ",
+        "huī"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄟˇ",
+        "ㄏㄨㄟ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "3",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "虫",
+        "螝",
+        "𧉇",
+        "𩗝",
+        "𤳳"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "867A",
+            "135251214"
+        ],
+        "char_code_wubi": "gqji",
+        "char_code_cangjie": "mulmi",
+        "char_code_zhengma": "gri",
+        "char_code_sijiao": "15213"
+    },
+    "general_unicode": "基本区 U+867A",
+    "general_bs_code": "135251214"
+}

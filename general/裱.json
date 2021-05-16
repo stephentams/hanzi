@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to mount maps or scrolls to paste"
+        },
+        {
+            "language": "法语",
+            "explanation": "entoiler,cartonner"
+        }
+    ],
+    "general_pinyins": [
+        "biǎo"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "衤",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "88F1",
+            "4523411213534"
+        ],
+        "char_code_wubi": "puge",
+        "char_code_cangjie": "lqmv",
+        "char_code_zhengma": "wtcr",
+        "char_code_sijiao": "35232"
+    },
+    "general_unicode": "基本区 U+88F1",
+    "general_bs_code": "4523411213534"
+}

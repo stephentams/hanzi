@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bent, distorted, crooked; feeble"
+        }
+    ],
+    "general_pinyins": [
+        "yǎo",
+        "fó"
+    ],
+    "general_zhuyins": [
+        "ㄧㄠˇ",
+        "ㄈㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "佛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4EF8",
+            "323134"
+        ],
+        "char_code_wubi": "wtdy",
+        "char_code_cangjie": "ohk",
+        "char_code_zhengma": "nmgd",
+        "char_code_sijiao": "22284"
+    },
+    "general_unicode": "基本区 U+4EF8",
+    "general_bs_code": "323134"
+}

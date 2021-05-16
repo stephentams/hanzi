@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "obstinate, stubborn; recalcitrant"
+        },
+        {
+            "language": "德语",
+            "explanation": "dumm, unwissend, unsinnig  (Adj)​,frech, ungezogen, rüpelhaft, schelmisch  (Adj)​,starrköpfig, stur, hartnäckig, widerspenstig, eigensinnig  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "résistant,têtu,opiniâtre,conservateur (personne)​"
+        }
+    ],
+    "general_pinyins": [
+        "wán"
+    ],
+    "general_zhuyins": [
+        "ㄨㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "页",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "頑"
+    ],
+    "general_ytz": [
+        "頑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "987D",
+            "1135132534"
+        ],
+        "char_code_wubi": "fqdm",
+        "char_code_cangjie": "mumbo",
+        "char_code_zhengma": "bdrg",
+        "char_code_sijiao": "11282"
+    },
+    "general_unicode": "基本区 U+987D",
+    "general_bs_code": "1135132534"
+}

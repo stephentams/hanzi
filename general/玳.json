@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tortoise shell"
+        },
+        {
+            "language": "德语",
+            "explanation": "&gt ,Schildkröte  (S)​,Schildpatt  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "dài"
+    ],
+    "general_zhuyins": [
+        "ㄉㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "瑇",
+        "蝳",
+        "𣫹",
+        "𤱢",
+        "鴏"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "73B3",
+            "112132154"
+        ],
+        "char_code_wubi": "gway",
+        "char_code_cangjie": "mgoip",
+        "char_code_zhengma": "cnhs",
+        "char_code_sijiao": "13140"
+    },
+    "general_unicode": "基本区 U+73B3",
+    "general_bs_code": "112132154"
+}

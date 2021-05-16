@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "victory; excel, be better than"
+        },
+        {
+            "language": "德语",
+            "explanation": "Sieg, Erfolg, besiegen, übertreffen"
+        },
+        {
+            "language": "法语",
+            "explanation": "remarquable,excellent,supérieur,être égal à,être à la hauteur de,pouvoir supporter,victoire,succès,vaincre,remporter la victoire sur,surpasser,dépasser"
+        }
+    ],
+    "general_pinyins": [
+        "shèng"
+    ],
+    "general_zhuyins": [
+        "ㄕㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "勝"
+    ],
+    "general_ytz": [
+        "勝",
+        "肽",
+        "腥",
+        "𠙟",
+        "𠢧",
+        "𡕲",
+        "𢾶",
+        "𤯝"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "80DC",
+            "351131121"
+        ],
+        "char_code_wubi": "etgg",
+        "char_code_cangjie": "bhqm",
+        "char_code_zhengma": "qmc",
+        "char_code_sijiao": "75210"
+    },
+    "general_unicode": "基本区 U+80DC",
+    "general_bs_code": "351131121"
+}

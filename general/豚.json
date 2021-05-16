@@ -1,0 +1,61 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "small pig, suckling pig; suffle"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ferkel  (S, Bio)​,Schwein  (S, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cochon de lait,porcelet"
+        }
+    ],
+    "general_pinyins": [
+        "tún"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "豕",
+        "non_radical_sn": "4",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "腞",
+        "𨔡",
+        "𧱸",
+        "𧱯",
+        "𧱮",
+        "𧱔",
+        "𧰭",
+        "𦜼",
+        "𦚌",
+        "𤜨",
+        "𢄉",
+        "𢃻",
+        "𡱰",
+        "𠭣",
+        "逐",
+        "豘",
+        "肫",
+        "㹠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C5A",
+            "35111353334"
+        ],
+        "char_code_wubi": "eey|egey",
+        "char_code_cangjie": "bmso",
+        "char_code_zhengma": "qgq",
+        "char_code_sijiao": "71232"
+    },
+    "general_unicode": "基本区 U+8C5A",
+    "general_bs_code": "35111353334"
+}

@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wind around, bind; prepare"
+        },
+        {
+            "language": "德语",
+            "explanation": "Miao  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom de famille)​,s'enrouler"
+        }
+    ],
+    "general_pinyins": [
+        "móu",
+        "miù",
+        "miào",
+        "mù",
+        "liáo"
+    ],
+    "general_zhuyins": [
+        "ㄇㄡˊ",
+        "ㄇㄧㄡˋ",
+        "ㄇㄧㄠˋ",
+        "ㄇㄨˋ",
+        "ㄌㄧㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "繆"
+    ],
+    "general_ytz": [
+        "繆"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F2A",
+            "55154154134333"
+        ],
+        "char_code_wubi": "xnwe",
+        "char_code_cangjie": "vmsmh",
+        "char_code_zhengma": "zyop",
+        "char_code_sijiao": "27122"
+    },
+    "general_unicode": "基本区 U+7F2A",
+    "general_bs_code": "55154154134333"
+}

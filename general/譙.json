@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tower; surname"
+        },
+        {
+            "language": "德语",
+            "explanation": "beschuldigen, tadeln ,verhöhnen, Gespött  (S)​,Qiao  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tour du tambour,tour de guet,ridicule,à blâmer"
+        }
+    ],
+    "general_pinyins": [
+        "qiáo"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "言",
+        "non_radical_sn": "12",
+        "total_sn": "19"
+    },
+    "general_stc": [
+        "谯"
+    ],
+    "general_ytz": [
+        "誚",
+        "焦",
+        "谯"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8B59",
+            "4111251324111214444"
+        ],
+        "char_code_wubi": "ywyo",
+        "char_code_cangjie": "yrogf",
+        "char_code_zhengma": "snuo",
+        "char_code_sijiao": "00631"
+    },
+    "general_unicode": "基本区 U+8B59",
+    "general_bs_code": "4111251324111214444"
+}

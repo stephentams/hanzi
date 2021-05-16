@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "put, place; display; swing, sway"
+        },
+        {
+            "language": "德语",
+            "explanation": "Pendel  (Phys)​,setzen, stellen, legen"
+        },
+        {
+            "language": "法语",
+            "explanation": "disposer,arranger,agiter,pendule (physique)​"
+        }
+    ],
+    "general_pinyins": [
+        "bǎi"
+    ],
+    "general_zhuyins": [
+        "ㄅㄞˇ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "15",
+        "total_sn": "18"
+    },
+    "general_stc": [
+        "摆"
+    ],
+    "general_ytz": [
+        "摆",
+        "𢸇",
+        "捭"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "64FA",
+            "121252215425113535"
+        ],
+        "char_code_wubi": "rlcx",
+        "char_code_cangjie": "qwlp",
+        "char_code_zhengma": "dlrr",
+        "char_code_sijiao": "56012"
+    },
+    "general_unicode": "基本区 U+64FA",
+    "general_bs_code": "121252215425113535"
+}

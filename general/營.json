@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "encampment, barracks; manage"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bataillon  (S, Mil)​,Feldquartier  (S, Mil)​,verwalten, Nährstoff  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "rechercher,gérer,campement,caserne,bataillon"
+        }
+    ],
+    "general_pinyins": [
+        "yíng"
+    ],
+    "general_zhuyins": [
+        "ㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "12",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "营"
+    ],
+    "general_ytz": [
+        "営",
+        "营"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "71DF",
+            "4334433445251251"
+        ],
+        "char_code_wubi": "oopk",
+        "char_code_cangjie": "ffbrr",
+        "char_code_zhengma": "uojj",
+        "char_code_sijiao": "99606"
+    },
+    "general_unicode": "基本区 U+71DF",
+    "general_bs_code": "4334433445251251"
+}

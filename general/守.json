@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "defend, protect, guard, conserve"
+        },
+        {
+            "language": "德语",
+            "explanation": "bewachen, schützen  (V)​,verteidigen  (V)​,Shou  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "garder,défendre,monter la garde,respecter (une règle)​,être proche de"
+        }
+    ],
+    "general_pinyins": [
+        "shǒu"
+    ],
+    "general_zhuyins": [
+        "ㄕㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "宀",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㝊",
+        "垨",
+        "𡧕",
+        "𡬮",
+        "𡬴"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5B88",
+            "445124"
+        ],
+        "char_code_wubi": "pfu",
+        "char_code_cangjie": "jdi",
+        "char_code_zhengma": "wdds",
+        "char_code_sijiao": "30342"
+    },
+    "general_unicode": "基本区 U+5B88",
+    "general_bs_code": "445124"
+}

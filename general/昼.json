@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "daytime, daylight"
+        },
+        {
+            "language": "德语",
+            "explanation": "am Tage vorkommend, Tageszeit  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "jour"
+        }
+    ],
+    "general_pinyins": [
+        "zhòu"
+    ],
+    "general_zhuyins": [
+        "ㄓㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "晝"
+    ],
+    "general_ytz": [
+        "晝",
+        "𣅯",
+        "𦘘",
+        "𦘙"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "663C",
+            "513425111"
+        ],
+        "char_code_wubi": "nyjg",
+        "char_code_cangjie": "soam",
+        "char_code_zhengma": "xmka",
+        "char_code_sijiao": "77106"
+    },
+    "general_unicode": "基本区 U+663C",
+    "general_bs_code": "513425111"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "give present; bestow, confer"
+        },
+        {
+            "language": "德语",
+            "explanation": "schenken, überreichen"
+        },
+        {
+            "language": "法语",
+            "explanation": "offrir,faire présent"
+        }
+    ],
+    "general_pinyins": [
+        "zèng"
+    ],
+    "general_zhuyins": [
+        "ㄗㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "12",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "贈"
+    ],
+    "general_ytz": [
+        "贈",
+        "𧸑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D60",
+            "2534432524312511"
+        ],
+        "char_code_wubi": "mulj",
+        "char_code_cangjie": "bocwa",
+        "char_code_zhengma": "lolk",
+        "char_code_sijiao": "78866"
+    },
+    "general_unicode": "基本区 U+8D60",
+    "general_bs_code": "2534432524312511"
+}

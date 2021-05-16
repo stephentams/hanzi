@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fluorine"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fluor (Element 9, F)​ (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "fluor"
+        }
+    ],
+    "general_pinyins": [
+        "fú"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "气",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6C1F",
+            "311551532"
+        ],
+        "char_code_wubi": "rnxj|rxjk",
+        "char_code_cangjie": "onlln",
+        "char_code_zhengma": "myyn",
+        "char_code_sijiao": "80517"
+    },
+    "general_unicode": "基本区 U+6C1F",
+    "general_bs_code": "311551532"
+}

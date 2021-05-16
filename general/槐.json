@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "locust tree"
+        },
+        {
+            "language": "德语",
+            "explanation": "Japanischer Schnurbaum ( lat. Styphnolobium japonicum, Sophora japonica )​  (S, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "sophora japonica,acacia"
+        }
+    ],
+    "general_pinyins": [
+        "huái"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄞˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "69D0",
+            "1234325113554"
+        ],
+        "char_code_wubi": "srqc",
+        "char_code_cangjie": "dhui",
+        "char_code_zhengma": "fnj",
+        "char_code_sijiao": "46913"
+    },
+    "general_unicode": "基本区 U+69D0",
+    "general_bs_code": "1234325113554"
+}

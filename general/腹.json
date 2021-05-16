@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stomach, belly, abdomen; inside"
+        },
+        {
+            "language": "德语",
+            "explanation": "Abdomen, Unterleib, Bauch  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "ventre"
+        }
+    ],
+    "general_pinyins": [
+        "fù"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦞶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8179",
+            "3511312511354"
+        ],
+        "char_code_wubi": "etjt",
+        "char_code_cangjie": "boae",
+        "char_code_zhengma": "qmkr",
+        "char_code_sijiao": "78247"
+    },
+    "general_unicode": "基本区 U+8179",
+    "general_bs_code": "3511312511354"
+}

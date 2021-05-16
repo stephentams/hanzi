@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "abrogate, terminate, discard"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufgeben; fallenlassen ,invalid(e)​;körperlich behindert ,unbrauchbar; Abfall"
+        },
+        {
+            "language": "法语",
+            "explanation": "usé,perdu,abandonner,abolir,abroger"
+        }
+    ],
+    "general_pinyins": [
+        "fèi"
+    ],
+    "general_zhuyins": [
+        "ㄈㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "广",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "废"
+    ],
+    "general_ytz": [
+        "废",
+        "廃"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5EE2",
+            "413543345153554"
+        ],
+        "char_code_wubi": "ywxc|owxc",
+        "char_code_cangjie": "inoe",
+        "char_code_zhengma": "tgyq",
+        "char_code_sijiao": "00247"
+    },
+    "general_unicode": "基本区 U+5EE2",
+    "general_bs_code": "413543345153554"
+}

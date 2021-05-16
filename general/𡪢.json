@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "宀",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "寢"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "21AA2",
+            "445325113525254"
+        ],
+        "char_code_wubi": "pwvc",
+        "char_code_cangjie": "jose",
+        "char_code_zhengma": "wdlx"
+    },
+    "general_unicode": "扩展B U+21AA2",
+    "general_bs_code": "445325113525254"
+}

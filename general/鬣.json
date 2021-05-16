@@ -1,0 +1,57 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "horse's mane; fin; human whiskers"
+        },
+        {
+            "language": "德语",
+            "explanation": "Borste  (S)​,Mähne  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "crinière"
+        }
+    ],
+    "general_pinyins": [
+        "liè"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "髟",
+        "non_radical_sn": "15",
+        "total_sn": "25"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㲱",
+        "䝓",
+        "鬛",
+        "𣰫",
+        "𨲲",
+        "𩮊",
+        "𩮓",
+        "𩮮",
+        "𩯓",
+        "𩯝",
+        "𩯻",
+        "𩰇",
+        "𩮻",
+        "𩰆"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9B23",
+            "1211154333555253415445445"
+        ],
+        "char_code_wubi": "devn",
+        "char_code_cangjie": "shvvv",
+        "char_code_zhengma": "choz",
+        "char_code_sijiao": "72712"
+    },
+    "general_unicode": "基本区 U+9B23",
+    "general_bs_code": "1211154333555253415445445"
+}

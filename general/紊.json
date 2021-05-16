@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "confused, disorder"
+        },
+        {
+            "language": "德语",
+            "explanation": "verwickelt, verwickelte ,verwickelt, verwickelte"
+        },
+        {
+            "language": "法语",
+            "explanation": "désordre,en désordre,troublé,confus,embrouillé"
+        }
+    ],
+    "general_pinyins": [
+        "wěn"
+    ],
+    "general_zhuyins": [
+        "ㄨㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "糸",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7D0A",
+            "4134554234"
+        ],
+        "char_code_wubi": "yxiu",
+        "char_code_cangjie": "ykvif",
+        "char_code_zhengma": "soz",
+        "char_code_sijiao": "00903"
+    },
+    "general_unicode": "基本区 U+7D0A",
+    "general_bs_code": "4134554234"
+}

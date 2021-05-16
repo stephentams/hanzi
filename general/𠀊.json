@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "cāo"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "一",
+        "non_radical_sn": "3",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2000A",
+            "1324"
+        ],
+        "char_code_wubi": "dhu",
+        "char_code_cangjie": "kni",
+        "char_code_zhengma": "gdis"
+    },
+    "general_unicode": "扩展B U+2000A",
+    "general_bs_code": "1324"
+}

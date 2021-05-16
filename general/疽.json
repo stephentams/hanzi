@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ulcer, carbuncle, abscess"
+        },
+        {
+            "language": "德语",
+            "explanation": "Brand, Wundbrand  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "furoncle,gangrène"
+        }
+    ],
+    "general_pinyins": [
+        "jū"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "75BD",
+            "4134125111"
+        ],
+        "char_code_wubi": "uegd",
+        "char_code_cangjie": "kbm",
+        "char_code_zhengma": "tlc",
+        "char_code_sijiao": "00112"
+    },
+    "general_unicode": "基本区 U+75BD",
+    "general_bs_code": "4134125111"
+}

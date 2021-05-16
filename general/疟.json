@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "intermittent fever; malaria"
+        },
+        {
+            "language": "德语",
+            "explanation": "Malaria, Sumpffieber  (S)​,Malaria, Sumpffieber  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "malaria"
+        }
+    ],
+    "general_pinyins": [
+        "nüè",
+        "yào"
+    ],
+    "general_zhuyins": [
+        "ㄋㄩㄝˋ",
+        "ㄧㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "3",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "瘧"
+    ],
+    "general_ytz": [
+        "瘧",
+        "𤺝"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "759F",
+            "41341151"
+        ],
+        "char_code_wubi": "uagd",
+        "char_code_cangjie": "ksm",
+        "char_code_zhengma": "thvv",
+        "char_code_sijiao": "00114"
+    },
+    "general_unicode": "基本区 U+759F",
+    "general_bs_code": "41341151"
+}

@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hole, cave; cellar; underground"
+        },
+        {
+            "language": "德语",
+            "explanation": "Höhle  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "grotte,caverne,repaire,tanière"
+        }
+    ],
+    "general_pinyins": [
+        "kū"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨ"
+    ],
+    "general_radical": {
+        "radical": "穴",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "堀",
+        "窋",
+        "𡑣",
+        "𡑥",
+        "𡒈",
+        "𡻋",
+        "𢷈",
+        "𥦙",
+        "𥧊",
+        "𩨳",
+        "𥧋"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7A9F",
+            "4453451352252"
+        ],
+        "char_code_wubi": "pwnm",
+        "char_code_cangjie": "jcsuu",
+        "char_code_zhengma": "wozz",
+        "char_code_sijiao": "30272"
+    },
+    "general_unicode": "基本区 U+7A9F",
+    "general_bs_code": "4453451352252"
+}

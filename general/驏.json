@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "horse without saddle"
+        },
+        {
+            "language": "德语",
+            "explanation": "ungesatteltes Pferd reiten  (V)"
+        }
+    ],
+    "general_pinyins": [
+        "zhàn"
+    ],
+    "general_zhuyins": [
+        "ㄓㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "馬",
+        "non_radical_sn": "12",
+        "total_sn": "22"
+    },
+    "general_stc": [
+        "骣"
+    ],
+    "general_ytz": [
+        "骣"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A4F",
+            "1211254444513521521521"
+        ],
+        "char_code_wubi": "cnbb|conb",
+        "char_code_cangjie": "sfsnd",
+        "char_code_zhengma": "cuyy",
+        "char_code_sijiao": "77347"
+    },
+    "general_unicode": "基本区 U+9A4F",
+    "general_bs_code": "1211254444513521521521"
+}

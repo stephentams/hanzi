@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "palm tree, coconut palm"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kokospalme ,Kokospalme  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cocotier,cocos nucifera"
+        }
+    ],
+    "general_pinyins": [
+        "yē"
+    ],
+    "general_zhuyins": [
+        "ㄧㄝ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㭨",
+        "䓉",
+        "枒",
+        "𣚋"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6930",
+            "123412211152"
+        ],
+        "char_code_wubi": "sbbh",
+        "char_code_cangjie": "dsjl",
+        "char_code_zhengma": "fcy",
+        "char_code_sijiao": "47927"
+    },
+    "general_unicode": "基本区 U+6930",
+    "general_bs_code": "123412211152"
+}

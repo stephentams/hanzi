@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fodder, horse feed; feed horse"
+        },
+        {
+            "language": "德语",
+            "explanation": "Pferdefutter  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "fourrage"
+        }
+    ],
+    "general_pinyins": [
+        "mò"
+    ],
+    "general_zhuyins": [
+        "ㄇㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䬴",
+        "𥞪",
+        "𥡸",
+        "𦾒",
+        "𧀅",
+        "𥤀"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "79E3",
+            "3123411234"
+        ],
+        "char_code_wubi": "tgsy",
+        "char_code_cangjie": "hddj",
+        "char_code_zhengma": "mfaf",
+        "char_code_sijiao": "25990"
+    },
+    "general_unicode": "基本区 U+79E3",
+    "general_bs_code": "3123411234"
+}

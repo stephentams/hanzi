@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bromine"
+        },
+        {
+            "language": "德语",
+            "explanation": "Brom (Element 35, Br)​ (S, Chem)​,bromo (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "brome"
+        }
+    ],
+    "general_pinyins": [
+        "xiù"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6EB4",
+            "4413251111344"
+        ],
+        "char_code_wubi": "ithd",
+        "char_code_cangjie": "ehuk",
+        "char_code_zhengma": "vngs",
+        "char_code_sijiao": "36184"
+    },
+    "general_unicode": "基本区 U+6EB4",
+    "general_bs_code": "4413251111344"
+}

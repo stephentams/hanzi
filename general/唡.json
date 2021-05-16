@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ounce"
+        },
+        {
+            "language": "德语",
+            "explanation": "Luchs  (S, Bio)​,Unze  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "liǎng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "啢"
+    ],
+    "general_ytz": [
+        "啢"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5521",
+            "2511253434"
+        ],
+        "char_code_wubi": "kgmw",
+        "char_code_cangjie": "rmob",
+        "char_code_zhengma": "jaoo",
+        "char_code_sijiao": "61027"
+    },
+    "general_unicode": "基本区 U+5521",
+    "general_bs_code": "2511253434"
+}

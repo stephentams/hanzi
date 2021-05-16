@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fear, dread, awe, reverence"
+        },
+        {
+            "language": "德语",
+            "explanation": "fürchten  (V)​,schätzen, bewundern, achten, respektieren"
+        },
+        {
+            "language": "法语",
+            "explanation": "craindre"
+        }
+    ],
+    "general_pinyins": [
+        "wèi"
+    ],
+    "general_zhuyins": [
+        "ㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "田",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "威",
+        "崴",
+        "喂",
+        "𠂽",
+        "𤰣",
+        "𤰲",
+        "𤰵",
+        "𤱖",
+        "𤱫",
+        "𤰰",
+        "𪽉"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "754F",
+            "251211534"
+        ],
+        "char_code_wubi": "lgeu",
+        "char_code_cangjie": "wmv",
+        "char_code_zhengma": "kih",
+        "char_code_sijiao": "60732"
+    },
+    "general_unicode": "基本区 U+754F",
+    "general_bs_code": "251211534"
+}

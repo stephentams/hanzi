@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "step back, retreat, withdraw"
+        },
+        {
+            "language": "德语",
+            "explanation": "zurückgeben, zurücktreten  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "reculer,faire reculer,baisser,descendre,rembourser,rendre"
+        }
+    ],
+    "general_pinyins": [
+        "tuì"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "褪",
+        "𩄮",
+        "𨘍",
+        "𨔫",
+        "𨓤",
+        "𨓆",
+        "𨑧",
+        "𢔕",
+        "𢓴",
+        "𢓇"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9000",
+            "511534454"
+        ],
+        "char_code_wubi": "vepi|vpi",
+        "char_code_cangjie": "yav",
+        "char_code_zhengma": "wxo",
+        "char_code_sijiao": "37303"
+    },
+    "general_unicode": "基本区 U+9000",
+    "general_bs_code": "511534454"
+}

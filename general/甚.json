@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "great extent; considerably"
+        },
+        {
+            "language": "德语",
+            "explanation": "das, was ,extrem, in höchstem Maße ,mehr, weiter"
+        },
+        {
+            "language": "法语",
+            "explanation": "que,quoi,tout,n'importe quel,quelconque,très,extrêmement,plus que,très,extrêmement,plus que"
+        }
+    ],
+    "general_pinyins": [
+        "shèn",
+        "shén"
+    ],
+    "general_zhuyins": [
+        "ㄕㄣˋ",
+        "ㄕㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "甘",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠥄",
+        "𠯕",
+        "𢍩",
+        "𤯅",
+        "𥱅",
+        "𫞪"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "751A",
+            "122111345"
+        ],
+        "char_code_wubi": "adwn|dwnb",
+        "char_code_cangjie": "tmmv",
+        "char_code_zhengma": "ecz",
+        "char_code_sijiao": "44718"
+    },
+    "general_unicode": "基本区 U+751A",
+    "general_bs_code": "122111345"
+}

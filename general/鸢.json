@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "kite; Milvus species (various)"
+        },
+        {
+            "language": "德语",
+            "explanation": "Drachen, Papierdrachen  (S)​,flitzen, fliegen, schnell sein  (V)​,braun, teefarbig  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "Milvus"
+        }
+    ],
+    "general_pinyins": [
+        "yuān"
+    ],
+    "general_zhuyins": [
+        "ㄩㄢ"
+    ],
+    "general_radical": {
+        "radical": "鸟",
+        "non_radical_sn": "3",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "鳶"
+    ],
+    "general_ytz": [
+        "鳶",
+        "䳒",
+        "䳣",
+        "𩾭",
+        "𪀝",
+        "𪃘"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E22",
+            "15435451"
+        ],
+        "char_code_wubi": "aqyg|ayqg",
+        "char_code_cangjie": "ippym",
+        "char_code_zhengma": "hsrz",
+        "char_code_sijiao": "43127"
+    },
+    "general_unicode": "基本区 U+9E22",
+    "general_bs_code": "15435451"
+}

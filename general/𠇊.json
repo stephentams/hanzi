@@ -1,0 +1,27 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "奼",
+        "瓜",
+        "途"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "201CA",
+            "323534"
+        ],
+        "char_code_wubi": "wey",
+        "char_code_cangjie": "ohv",
+        "char_code_zhengma": "nrh"
+    },
+    "general_unicode": "扩展B U+201CA",
+    "general_bs_code": "323534"
+}

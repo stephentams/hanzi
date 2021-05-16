@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "alder"
+        },
+        {
+            "language": "德语",
+            "explanation": "Erlenholz, Erle  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "aulne"
+        }
+    ],
+    "general_pinyins": [
+        "qī"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "榿"
+    ],
+    "general_ytz": [
+        "榿"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6864",
+            "1234252515"
+        ],
+        "char_code_wubi": "smnn",
+        "char_code_cangjie": "dusu",
+        "char_code_zhengma": "flyy",
+        "char_code_sijiao": "42917"
+    },
+    "general_unicode": "基本区 U+6864",
+    "general_bs_code": "1234252515"
+}

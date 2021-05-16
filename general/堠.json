@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "battlements, battlemented walls"
+        },
+        {
+            "language": "法语",
+            "explanation": "butte de terre servant de balise (arch.)​"
+        }
+    ],
+    "general_pinyins": [
+        "hòu"
+    ],
+    "general_zhuyins": [
+        "ㄏㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡎇"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5820",
+            "121325131134"
+        ],
+        "char_code_wubi": "fwnd",
+        "char_code_cangjie": "gonk",
+        "char_code_zhengma": "bnxm",
+        "char_code_sijiao": "47184"
+    },
+    "general_unicode": "基本区 U+5820",
+    "general_bs_code": "121325131134"
+}

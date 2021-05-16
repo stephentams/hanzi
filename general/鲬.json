@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a flathead (fish)"
+        }
+    ],
+    "general_pinyins": [
+        "yǒng"
+    ],
+    "general_zhuyins": [
+        "ㄩㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "7",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "鯒"
+    ],
+    "general_ytz": [
+        "鯒"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9CAC",
+            "352512115425112"
+        ],
+        "char_code_wubi": "qgce",
+        "char_code_cangjie": "nmnib",
+        "char_code_zhengma": "rxld",
+        "char_code_sijiao": "27127"
+    },
+    "general_unicode": "基本区 U+9CAC",
+    "general_bs_code": "352512115425112"
+}

@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(corrupted form of 拯)to save; to lift up"
+        }
+    ],
+    "general_pinyins": [
+        "chèng",
+        "zhěng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄥˋ",
+        "ㄓㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "343C",
+            "323132"
+        ],
+        "char_code_wubi": "wtah",
+        "char_code_cangjie": "oht",
+        "char_code_zhengma": "nmea",
+        "char_code_sijiao": "24200"
+    },
+    "general_unicode": "扩展A U+343C",
+    "general_bs_code": "323132"
+}

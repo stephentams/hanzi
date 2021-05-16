@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "scaly dragon with four legs"
+        },
+        {
+            "language": "德语",
+            "explanation": "Haifisch  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "crocodile"
+        }
+    ],
+    "general_pinyins": [
+        "jiāo"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "6",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "鮫"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "86DF",
+            "251214413434"
+        ],
+        "char_code_wubi": "juqy|jury",
+        "char_code_cangjie": "liyck",
+        "char_code_zhengma": "isoo",
+        "char_code_sijiao": "50148"
+    },
+    "general_unicode": "基本区 U+86DF",
+    "general_bs_code": "251214413434"
+}

@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to dust; a duster"
+        },
+        {
+            "language": "法语",
+            "explanation": "brosser légèrement,épousseter"
+        }
+    ],
+    "general_pinyins": [
+        "dǎn",
+        "shàn"
+    ],
+    "general_zhuyins": [
+        "ㄉㄢˇ",
+        "ㄕㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "撣"
+    ],
+    "general_ytz": [
+        "撣",
+        "撢"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "63B8",
+            "12143251112"
+        ],
+        "char_code_wubi": "rujf",
+        "char_code_cangjie": "qcwj",
+        "char_code_zhengma": "duke",
+        "char_code_sijiao": "58056"
+    },
+    "general_unicode": "基本区 U+63B8",
+    "general_bs_code": "12143251112"
+}

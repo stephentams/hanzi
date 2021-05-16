@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to walk alone; self-reliant"
+        },
+        {
+            "language": "德语",
+            "explanation": "bucklig"
+        },
+        {
+            "language": "法语",
+            "explanation": "aller seul"
+        }
+    ],
+    "general_pinyins": [
+        "jǔ"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩˇ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "9",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "偊"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E3D",
+            "2512121325125214"
+        ],
+        "char_code_wubi": "khty",
+        "char_code_cangjie": "rmhlb",
+        "char_code_zhengma": "jiil",
+        "char_code_sijiao": "62127"
+    },
+    "general_unicode": "基本区 U+8E3D",
+    "general_bs_code": "2512121325125214"
+}

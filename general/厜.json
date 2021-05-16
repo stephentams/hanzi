@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a mountain peak"
+        },
+        {
+            "language": "法语",
+            "explanation": "crête de montagne"
+        }
+    ],
+    "general_pinyins": [
+        "zuī"
+    ],
+    "general_zhuyins": [
+        "ㄗㄨㄟ"
+    ],
+    "general_radical": {
+        "radical": "厂",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠪪",
+        "𤷣"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "539C",
+            "1331212211"
+        ],
+        "char_code_wubi": "dtgf",
+        "char_code_cangjie": "mhjm",
+        "char_code_zhengma": "ggeb",
+        "char_code_sijiao": "71215"
+    },
+    "general_unicode": "基本区 U+539C",
+    "general_bs_code": "1331212211"
+}

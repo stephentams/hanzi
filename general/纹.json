@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "line, streak, stripe; wrinkle"
+        },
+        {
+            "language": "德语",
+            "explanation": "anreißen, zensieren ,Vers  (S)​,Zeile  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "raie,veine"
+        }
+    ],
+    "general_pinyins": [
+        "wén",
+        "wèn"
+    ],
+    "general_zhuyins": [
+        "ㄨㄣˊ",
+        "ㄨㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "紋"
+    ],
+    "general_ytz": [
+        "紋"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EB9",
+            "5514134"
+        ],
+        "char_code_wubi": "xyy",
+        "char_code_cangjie": "vmyk",
+        "char_code_zhengma": "zso",
+        "char_code_sijiao": "20140"
+    },
+    "general_unicode": "基本区 U+7EB9",
+    "general_bs_code": "5514134"
+}

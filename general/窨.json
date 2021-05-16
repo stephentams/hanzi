@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a cellar, a store-room"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kellergeschoss  (S)​,etw. parfümieren (Tee)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "cave"
+        }
+    ],
+    "general_pinyins": [
+        "yìn",
+        "xūn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄣˋ",
+        "ㄒㄩㄣ"
+    ],
+    "general_radical": {
+        "radical": "穴",
+        "non_radical_sn": "9",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "堷",
+        "蔭"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7AA8",
+            "44534414312511"
+        ],
+        "char_code_wubi": "pwuj",
+        "char_code_cangjie": "jcyta",
+        "char_code_zhengma": "wosk",
+        "char_code_sijiao": "30601"
+    },
+    "general_unicode": "基本区 U+7AA8",
+    "general_bs_code": "44534414312511"
+}

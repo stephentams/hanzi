@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wheel; revolve, turn; recur"
+        },
+        {
+            "language": "德语",
+            "explanation": "Dampfer  (S)​,Durchgang  (S, Sport)​,Rad  (S)​,Ring  (S)​,Runde  (S)​,Turnus  (S)​,drehen  (V)​,rotieren  (V)​,Runde  (Zähl)​,Scheibe  (Zähl)​,Lun  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "roue,disque,alterner,(classificateur pour le soleil et la lune)​,(classificateur pour les événements et phases)​"
+        }
+    ],
+    "general_pinyins": [
+        "lún"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "车",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "輪"
+    ],
+    "general_ytz": [
+        "輪"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8F6E",
+            "15213435"
+        ],
+        "char_code_wubi": "lwxn",
+        "char_code_cangjie": "kqop",
+        "char_code_zhengma": "heor",
+        "char_code_sijiao": "48512"
+    },
+    "general_unicode": "基本区 U+8F6E",
+    "general_bs_code": "15213435"
+}

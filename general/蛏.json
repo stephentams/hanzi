@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "razor clam"
+        },
+        {
+            "language": "法语",
+            "explanation": "solen"
+        }
+    ],
+    "general_pinyins": [
+        "chēng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄥ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "蟶"
+    ],
+    "general_ytz": [
+        "蟶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "86CF",
+            "25121454121"
+        ],
+        "char_code_wubi": "jcfg",
+        "char_code_cangjie": "lieg",
+        "char_code_zhengma": "ixb",
+        "char_code_sijiao": "57114"
+    },
+    "general_unicode": "基本区 U+86CF",
+    "general_bs_code": "25121454121"
+}

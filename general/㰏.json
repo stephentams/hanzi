@@ -1,0 +1,32 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 篙) a bamboo pole; a pole for punting a boat"
+        }
+    ],
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "16",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "篙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3C0F",
+            "12343143144125125251"
+        ],
+        "char_code_wubi": "styk",
+        "char_code_cangjie": "dhyb",
+        "char_code_zhengma": "fmjl",
+        "char_code_sijiao": "48927"
+    },
+    "general_unicode": "扩展A U+3C0F",
+    "general_bs_code": "12343143144125125251"
+}

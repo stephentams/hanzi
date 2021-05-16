@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "aldehyde"
+        },
+        {
+            "language": "德语",
+            "explanation": "Aldehyd, Aldehyde  (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "aldéhyde"
+        }
+    ],
+    "general_pinyins": [
+        "quán"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "酉",
+        "non_radical_sn": "9",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "酫"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "919B",
+            "1253511122341121"
+        ],
+        "char_code_wubi": "sgag",
+        "char_code_cangjie": "mwtog",
+        "char_code_zhengma": "fdoc",
+        "char_code_sijiao": "14614"
+    },
+    "general_unicode": "基本区 U+919B",
+    "general_bs_code": "1253511122341121"
+}

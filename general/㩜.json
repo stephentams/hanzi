@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as U+652C 攬) to be in possession of; to grasp, to make selective collection or coverage of; (Cant.) actually; strong"
+        }
+    ],
+    "general_pinyins": [
+        "lǎn"
+    ],
+    "general_zhuyins": [
+        "ㄌㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "14",
+        "total_sn": "17"
+    },
+    "general_stc": [
+        "㨫"
+    ],
+    "general_ytz": [
+        "㨫",
+        "攬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3A5C",
+            "12112512531425221"
+        ],
+        "char_code_wubi": "rahl",
+        "char_code_cangjie": "qsit",
+        "char_code_zhengma": "dhml",
+        "char_code_sijiao": "58012"
+    },
+    "general_unicode": "扩展A U+3A5C",
+    "general_bs_code": "12112512531425221"
+}

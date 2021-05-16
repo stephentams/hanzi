@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "finally, after all, at last"
+        },
+        {
+            "language": "德语",
+            "explanation": "tatsächlich, in der Tat ,unvermutet, unerwartet"
+        },
+        {
+            "language": "法语",
+            "explanation": "finir,accomplir,malgré tout,contre toute attente,finalement,cependant,même"
+        }
+    ],
+    "general_pinyins": [
+        "jìng"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "立",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "境",
+        "傹",
+        "𧡟"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7ADF",
+            "41431251135"
+        ],
+        "char_code_wubi": "ujqb",
+        "char_code_cangjie": "ytahu",
+        "char_code_zhengma": "sukr",
+        "char_code_sijiao": "00212"
+    },
+    "general_unicode": "基本区 U+7ADF",
+    "general_bs_code": "41431251135"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rafter; malus toringo"
+        },
+        {
+            "language": "德语",
+            "explanation": "Dachsparren, Flößer  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "chevron"
+        }
+    ],
+    "general_pinyins": [
+        "jué"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "構"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6877",
+            "12343535112"
+        ],
+        "char_code_wubi": "sqeh",
+        "char_code_cangjie": "xdnbq",
+        "char_code_zhengma": "frld",
+        "char_code_sijiao": "47927"
+    },
+    "general_unicode": "基本区 U+6877",
+    "general_bs_code": "12343535112"
+}

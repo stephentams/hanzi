@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wicker, bamboo"
+        },
+        {
+            "language": "法语",
+            "explanation": "osier,clayonnage"
+        }
+    ],
+    "general_pinyins": [
+        "bì"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "6",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "篳"
+    ],
+    "general_ytz": [
+        "篳",
+        "荜",
+        "𠢽"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7B5A",
+            "314314153512"
+        ],
+        "char_code_wubi": "txxf",
+        "char_code_cangjie": "hppj",
+        "char_code_zhengma": "mrre",
+        "char_code_sijiao": "88401"
+    },
+    "general_unicode": "基本区 U+7B5A",
+    "general_bs_code": "314314153512"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hug, embrace; drag, pull"
+        },
+        {
+            "language": "德语",
+            "explanation": "akquirieren, dringend bitten ,erfassen, sammeln ,sammeln, einsammeln ,schuften, Schiebung  (S)​,erfassen, umfassen ,liebkosen, umarmen"
+        },
+        {
+            "language": "法语",
+            "explanation": "embrasser,étreindre"
+        }
+    ],
+    "general_pinyins": [
+        "lǒu",
+        "lōu"
+    ],
+    "general_zhuyins": [
+        "ㄌㄡˇ",
+        "ㄌㄡ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "摟"
+    ],
+    "general_ytz": [
+        "摟"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6402",
+            "121431234531"
+        ],
+        "char_code_wubi": "rovg",
+        "char_code_cangjie": "qfdv",
+        "char_code_zhengma": "duzm",
+        "char_code_sijiao": "59044"
+    },
+    "general_unicode": "基本区 U+6402",
+    "general_bs_code": "121431234531"
+}

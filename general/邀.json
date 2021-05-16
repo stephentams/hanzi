@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "invite, welcome; meet, intercept"
+        },
+        {
+            "language": "德语",
+            "explanation": "bitten  (V)​,einladen  (V)​,ersuchen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "inviter,demander"
+        }
+    ],
+    "general_pinyins": [
+        "yāo"
+    ],
+    "general_zhuyins": [
+        "ㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "徼",
+        "撽",
+        "𨖟"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9080",
+            "3251141533134454"
+        ],
+        "char_code_wubi": "rytp",
+        "char_code_cangjie": "yhsk",
+        "char_code_zhengma": "nkmw",
+        "char_code_sijiao": "38304"
+    },
+    "general_unicode": "基本区 U+9080",
+    "general_bs_code": "3251141533134454"
+}

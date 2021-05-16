@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "abundant, luxuriant vegetation"
+        },
+        {
+            "language": "德语",
+            "explanation": "wuchern (Vegetation)​  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "végétation luxuriante,touffu"
+        }
+    ],
+    "general_pinyins": [
+        "zhēn"
+    ],
+    "general_zhuyins": [
+        "ㄓㄣ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "84C1",
+            "1221113431234"
+        ],
+        "char_code_wubi": "adwt",
+        "char_code_cangjie": "tqkd",
+        "char_code_zhengma": "ecmf",
+        "char_code_sijiao": "44904"
+    },
+    "general_unicode": "基本区 U+84C1",
+    "general_bs_code": "1221113431234"
+}

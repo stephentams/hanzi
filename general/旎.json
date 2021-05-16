@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "法语",
+            "explanation": "fluttering of flag; romantic"
+        }
+    ],
+    "general_pinyins": [
+        "nǐ"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "方",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "65CE",
+            "41533151335"
+        ],
+        "char_code_wubi": "ytnx",
+        "char_code_cangjie": "ysosp",
+        "char_code_zhengma": "syxr",
+        "char_code_sijiao": "08212"
+    },
+    "general_unicode": "基本区 U+65CE",
+    "general_bs_code": "41533151335"
+}

@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "peep at; watch, spy on"
+        },
+        {
+            "language": "法语",
+            "explanation": "épier,guetter"
+        }
+    ],
+    "general_pinyins": [
+        "qù",
+        "qū"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩˋ",
+        "ㄑㄩ"
+    ],
+    "general_radical": {
+        "radical": "见",
+        "non_radical_sn": "11",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "覷"
+    ],
+    "general_ytz": [
+        "覷",
+        "覰",
+        "覻",
+        "䁦",
+        "𡳆",
+        "𧠢"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "89D1",
+            "215315224312535"
+        ],
+        "char_code_wubi": "haoq|homq",
+        "char_code_cangjie": "ycbhu",
+        "char_code_zhengma": "ihkl",
+        "char_code_sijiao": "27212"
+    },
+    "general_unicode": "基本区 U+89D1",
+    "general_bs_code": "215315224312535"
+}

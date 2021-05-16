@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lofty"
+        },
+        {
+            "language": "法语",
+            "explanation": "élevé,haut"
+        }
+    ],
+    "general_pinyins": [
+        "é"
+    ],
+    "general_zhuyins": [
+        "ㄜˊ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "峨"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5CE9",
+            "2523121534"
+        ],
+        "char_code_wubi": "mtrt|mtry",
+        "char_code_cangjie": "uhqi",
+        "char_code_zhengma": "llmh",
+        "char_code_sijiao": "22553"
+    },
+    "general_unicode": "基本区 U+5CE9",
+    "general_bs_code": "2523121534"
+}

@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "submit, show; appear; petition"
+        },
+        {
+            "language": "德语",
+            "explanation": "hat Form, Farbe oder Zustand wie ,sieht aus wie"
+        },
+        {
+            "language": "法语",
+            "explanation": "avoir une forme (une couleur)​,soumettre,présenter"
+        }
+    ],
+    "general_pinyins": [
+        "chéng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "狂",
+        "𡉚"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5448",
+            "2511121"
+        ],
+        "char_code_wubi": "kgf",
+        "char_code_cangjie": "rhg",
+        "char_code_zhengma": "jcvv",
+        "char_code_sijiao": "60104"
+    },
+    "general_unicode": "基本区 U+5448",
+    "general_bs_code": "2511121"
+}

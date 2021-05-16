@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "paste to, stick on; attached to"
+        },
+        {
+            "language": "德语",
+            "explanation": "kleben  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "coller,appliquer"
+        }
+    ],
+    "general_pinyins": [
+        "tiē"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧㄝ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "貼"
+    ],
+    "general_ytz": [
+        "貼"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D34",
+            "253421251"
+        ],
+        "char_code_wubi": "mhkg",
+        "char_code_cangjie": "boyr",
+        "char_code_zhengma": "loij",
+        "char_code_sijiao": "71860"
+    },
+    "general_unicode": "基本区 U+8D34",
+    "general_bs_code": "253421251"
+}

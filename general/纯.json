@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pure, clean, simple"
+        },
+        {
+            "language": "德语",
+            "explanation": "rein, lauter, unvermischt"
+        },
+        {
+            "language": "法语",
+            "explanation": "pur,sincère"
+        }
+    ],
+    "general_pinyins": [
+        "chún"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "純"
+    ],
+    "general_ytz": [
+        "純",
+        "㝄",
+        "𠄤",
+        "𥾑",
+        "𥾴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EAF",
+            "5511525"
+        ],
+        "char_code_wubi": "xgbn",
+        "char_code_cangjie": "vmpu",
+        "char_code_zhengma": "zhzi",
+        "char_code_sijiao": "25117"
+    },
+    "general_unicode": "基本区 U+7EAF",
+    "general_bs_code": "5511525"
+}

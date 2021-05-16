@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "banyan tree"
+        },
+        {
+            "language": "德语",
+            "explanation": "Feigenbaum (Ficus)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "figuier,banian"
+        }
+    ],
+    "general_pinyins": [
+        "róng"
+    ],
+    "general_zhuyins": [
+        "ㄖㄨㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "槦",
+        "穃",
+        "㯴",
+        "𣙚"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6995",
+            "12344453434251"
+        ],
+        "char_code_wubi": "spwk",
+        "char_code_cangjie": "djcr",
+        "char_code_zhengma": "fwoj",
+        "char_code_sijiao": "43968"
+    },
+    "general_unicode": "基本区 U+6995",
+    "general_bs_code": "12344453434251"
+}

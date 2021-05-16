@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 嚏) to sneeze; a running at the nose"
+        }
+    ],
+    "general_pinyins": [
+        "tì"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "嚏"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "35E3",
+            "25112213545252"
+        ],
+        "char_code_wubi": "kaqh",
+        "char_code_cangjie": "rkpb",
+        "char_code_zhengma": "jewl",
+        "char_code_sijiao": "64027"
+    },
+    "general_unicode": "扩展A U+35E3",
+    "general_bs_code": "25112213545252"
+}

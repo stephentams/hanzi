@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hinge; shears, scissors"
+        },
+        {
+            "language": "德语",
+            "explanation": "schneiden, kürzen ,Marihuana, Messer  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "pivot,pointe,couper,dorer"
+        }
+    ],
+    "general_pinyins": [
+        "jiǎo"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "鉸"
+    ],
+    "general_ytz": [
+        "鉸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94F0",
+            "31115413434"
+        ],
+        "char_code_wubi": "quqy|qury",
+        "char_code_cangjie": "opyck",
+        "char_code_zhengma": "psoo",
+        "char_code_sijiao": "80748"
+    },
+    "general_unicode": "基本区 U+94F0",
+    "general_bs_code": "31115413434"
+}

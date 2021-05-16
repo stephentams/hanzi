@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "follow a course, go along"
+        },
+        {
+            "language": "德语",
+            "explanation": "längs,entlang,Flussufer  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "berge,bord de rivière,le long de,suivant,bord,suivre,longer"
+        }
+    ],
+    "general_pinyins": [
+        "yán"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㳂",
+        "𡵴",
+        "沇",
+        "㕣"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6CBF",
+            "44135251"
+        ],
+        "char_code_wubi": "imkg|iwkg",
+        "char_code_cangjie": "ecr",
+        "char_code_zhengma": "vqj",
+        "char_code_sijiao": "37161"
+    },
+    "general_unicode": "基本区 U+6CBF",
+    "general_bs_code": "44135251"
+}

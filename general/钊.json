@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "endeavor, strive; encourage; cut"
+        },
+        {
+            "language": "德语",
+            "explanation": "abseihen, strapazieren ,fördern, ermutigen ,schneiden, kürzen"
+        },
+        {
+            "language": "法语",
+            "explanation": "encourager,exhorter"
+        }
+    ],
+    "general_pinyins": [
+        "zhāo"
+    ],
+    "general_zhuyins": [
+        "ㄓㄠ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "2",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "釗"
+    ],
+    "general_ytz": [
+        "釗"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "948A",
+            "3111522"
+        ],
+        "char_code_wubi": "qjh",
+        "char_code_cangjie": "opln",
+        "char_code_zhengma": "pkd",
+        "char_code_sijiao": "82700"
+    },
+    "general_unicode": "基本区 U+948A",
+    "general_bs_code": "3111522"
+}

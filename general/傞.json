@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "unsteady"
+        },
+        {
+            "language": "德语",
+            "explanation": "unbeständig, veränderlich ,uneben, ungleichmäßig"
+        },
+        {
+            "language": "法语",
+            "explanation": "inégal,instable"
+        }
+    ],
+    "general_pinyins": [
+        "suō"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨㄛ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠈱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "509E",
+            "32431113121"
+        ],
+        "char_code_wubi": "wuda|wuag",
+        "char_code_cangjie": "otqm",
+        "char_code_zhengma": "nubi",
+        "char_code_sijiao": "28212"
+    },
+    "general_unicode": "基本区 U+509E",
+    "general_bs_code": "32431113121"
+}

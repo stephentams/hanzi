@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "grind, rub; study, research"
+        },
+        {
+            "language": "法语",
+            "explanation": "broyer,étudier,examiner à fond,rechercher"
+        }
+    ],
+    "general_pinyins": [
+        "yán",
+        "yàn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢˊ",
+        "ㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䂴",
+        "揅",
+        "硏",
+        "趼",
+        "𥓋",
+        "𥓨",
+        "硯"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7814",
+            "132511132"
+        ],
+        "char_code_wubi": "dgah",
+        "char_code_cangjie": "mrmt",
+        "char_code_zhengma": "gae",
+        "char_code_sijiao": "11640"
+    },
+    "general_unicode": "基本区 U+7814",
+    "general_bs_code": "132511132"
+}

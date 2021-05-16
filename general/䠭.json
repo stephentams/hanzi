@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lame; crippled, to stumble"
+        }
+    ],
+    "general_pinyins": [
+        "lái",
+        "lài"
+    ],
+    "general_zhuyins": [
+        "ㄌㄞˊ",
+        "ㄌㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "16",
+        "total_sn": "23"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "482D",
+            "25121211251234352511134"
+        ],
+        "char_code_wubi": "khgm|khsm",
+        "char_code_cangjie": "rmdlc",
+        "char_code_zhengma": "jirl",
+        "char_code_sijiao": "67186"
+    },
+    "general_unicode": "扩展A U+482D",
+    "general_bs_code": "25121211251234352511134"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cloudy sky, haze; calm, peaceful"
+        },
+        {
+            "language": "法语",
+            "explanation": "ciel nuageux,amicalement,brume,calme,paisible,amical"
+        }
+    ],
+    "general_pinyins": [
+        "ǎi"
+    ],
+    "general_zhuyins": [
+        "ㄞˇ"
+    ],
+    "general_radical": {
+        "radical": "雨",
+        "non_radical_sn": "11",
+        "total_sn": "19"
+    },
+    "general_stc": [
+        "靄"
+    ],
+    "general_ytz": [
+        "靄",
+        "䨠",
+        "𩅳"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "972D",
+            "1452444445251135345"
+        ],
+        "char_code_wubi": "fyjn",
+        "char_code_cangjie": "mbivv",
+        "char_code_zhengma": "fvkr",
+        "char_code_sijiao": "10727"
+    },
+    "general_unicode": "基本区 U+972D",
+    "general_bs_code": "1452444445251135345"
+}

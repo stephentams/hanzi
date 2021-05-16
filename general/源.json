@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "spring; source, head; surname"
+        },
+        {
+            "language": "德语",
+            "explanation": "Quelle, Ursprung eines Flusses  (S, Geol)​,Ursprung, Ursache, Grund, Quelle  (S)​,Yuan  (Eig, Fam)​,Ursprung"
+        },
+        {
+            "language": "法语",
+            "explanation": "source"
+        }
+    ],
+    "general_pinyins": [
+        "yuán"
+    ],
+    "general_zhuyins": [
+        "ㄩㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "厵",
+        "𠫐",
+        "𠫒",
+        "𡇋",
+        "𨻣"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6E90",
+            "4411332511234"
+        ],
+        "char_code_wubi": "idri",
+        "char_code_cangjie": "emhf",
+        "char_code_zhengma": "vgnk",
+        "char_code_sijiao": "31196"
+    },
+    "general_unicode": "基本区 U+6E90",
+    "general_bs_code": "4411332511234"
+}

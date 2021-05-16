@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "injure, spoil; oppress; broken"
+        },
+        {
+            "language": "德语",
+            "explanation": "zerstören, vernichten  (V)​,brutal  (Adj)​,grausam  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "incomplet,défectueux,invalide,handicapé,reste,résidu,sauvage,brutal,cruel,détruire,ruiner"
+        }
+    ],
+    "general_pinyins": [
+        "cán"
+    ],
+    "general_zhuyins": [
+        "ㄘㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "歹",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "殘"
+    ],
+    "general_ytz": [
+        "殘",
+        "㱚",
+        "𠡡",
+        "𠡹",
+        "𣧚",
+        "𣧻"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6B8B",
+            "135411534"
+        ],
+        "char_code_wubi": "gqgt|gqga",
+        "char_code_cangjie": "mnij",
+        "char_code_zhengma": "arhm",
+        "char_code_sijiao": "13250"
+    },
+    "general_unicode": "基本区 U+6B8B",
+    "general_bs_code": "135411534"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "melt, fuse; market, sell"
+        },
+        {
+            "language": "德语",
+            "explanation": "annulieren, verschmelzen, schmelzen, absetzen, verkaufen  (V)​,Keil"
+        },
+        {
+            "language": "法语",
+            "explanation": "verrou,brûler,fondre,vendre"
+        }
+    ],
+    "general_pinyins": [
+        "xiāo"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "銷"
+    ],
+    "general_ytz": [
+        "銷"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9500",
+            "311152432511"
+        ],
+        "char_code_wubi": "qieg",
+        "char_code_cangjie": "opfb",
+        "char_code_zhengma": "pkq",
+        "char_code_sijiao": "89727"
+    },
+    "general_unicode": "基本区 U+9500",
+    "general_bs_code": "311152432511"
+}

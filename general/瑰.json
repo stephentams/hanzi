@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "extraordinary, fabulous; rose"
+        },
+        {
+            "language": "德语",
+            "explanation": "außergewöhnlich, merkwürdig"
+        }
+    ],
+    "general_pinyins": [
+        "guī"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄟ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㻁",
+        "璝",
+        "瓌",
+        "𤤨",
+        "𤩫",
+        "𤪿"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7470",
+            "1121325113554"
+        ],
+        "char_code_wubi": "grqc",
+        "char_code_cangjie": "mghui",
+        "char_code_zhengma": "cnj",
+        "char_code_sijiao": "16113"
+    },
+    "general_unicode": "基本区 U+7470",
+    "general_bs_code": "1121325113554"
+}

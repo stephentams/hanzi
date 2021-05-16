@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "swelling, goiter"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gallapfel  (Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "goitre"
+        }
+    ],
+    "general_pinyins": [
+        "yǐng"
+    ],
+    "general_zhuyins": [
+        "ㄧㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "11",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "癭"
+    ],
+    "general_ytz": [
+        "癭",
+        "䑍",
+        "𩖍"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "763F",
+            "4134125342534531"
+        ],
+        "char_code_wubi": "ummv",
+        "char_code_cangjie": "kbov",
+        "char_code_zhengma": "tllz",
+        "char_code_sijiao": "00144"
+    },
+    "general_unicode": "基本区 U+763F",
+    "general_bs_code": "4134125342534531"
+}

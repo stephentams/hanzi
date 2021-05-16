@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(non-classical form of 嫂) wife of one's elder's brother"
+        }
+    ],
+    "general_pinyins": [
+        "sǎo"
+    ],
+    "general_zhuyins": [
+        "ㄙㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "嫂"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "36D0",
+            "5311251134"
+        ],
+        "char_code_wubi": "vgjq|vgjr",
+        "char_code_cangjie": "vmlk",
+        "char_code_zhengma": "zmko",
+        "char_code_sijiao": "41446"
+    },
+    "general_unicode": "扩展A U+36D0",
+    "general_bs_code": "5311251134"
+}

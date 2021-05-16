@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stupid, doltish, foolish"
+        },
+        {
+            "language": "德语",
+            "explanation": "jdn für dumm verkaufen, jdn hereinlegen  (V)​,dumm,  blöd  (Adj)​,Yu  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bête,idiot,tricher ou tromper"
+        }
+    ],
+    "general_pinyins": [
+        "yú"
+    ],
+    "general_zhuyins": [
+        "ㄩˊ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㥥"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "611A",
+            "2511252144544"
+        ],
+        "char_code_wubi": "jmhn",
+        "char_code_cangjie": "wbp",
+        "char_code_zhengma": "klzw",
+        "char_code_sijiao": "60332"
+    },
+    "general_unicode": "基本区 U+611A",
+    "general_bs_code": "2511252144544"
+}

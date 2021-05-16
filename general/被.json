@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "passive indicator 'by'; bedding"
+        },
+        {
+            "language": "德语",
+            "explanation": "法语 couverture,couette,par,(utilisé devant un verbe ou devant un complément d'agent pour exprimer une action passive)​"
+        }
+    ],
+    "general_pinyins": [
+        "bèi",
+        "pī"
+    ],
+    "general_zhuyins": [
+        "ㄅㄟˋ",
+        "ㄆㄧ"
+    ],
+    "general_radical": {
+        "radical": "衤",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "帔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "88AB",
+            "4523453254"
+        ],
+        "char_code_wubi": "puhc|puby",
+        "char_code_cangjie": "ldhe",
+        "char_code_zhengma": "wtxi",
+        "char_code_sijiao": "34247"
+    },
+    "general_unicode": "基本区 U+88AB",
+    "general_bs_code": "4523453254"
+}

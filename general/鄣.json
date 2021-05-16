@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "name of an ancient city in N. Jiangsu, near Shandong"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ortsname  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom de lieu)​"
+        }
+    ],
+    "general_pinyins": [
+        "zhāng"
+    ],
+    "general_zhuyins": [
+        "ㄓㄤ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "11",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "障"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9123",
+            "4143125111252"
+        ],
+        "char_code_wubi": "ujbh",
+        "char_code_cangjie": "yjnl",
+        "char_code_zhengma": "suey",
+        "char_code_sijiao": "07427"
+    },
+    "general_unicode": "基本区 U+9123",
+    "general_bs_code": "4143125111252"
+}

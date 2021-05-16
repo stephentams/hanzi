@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "德语",
+            "explanation": "Vorleger  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tapis"
+        }
+    ],
+    "general_pinyins": [
+        "shū"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨ"
+    ],
+    "general_radical": {
+        "radical": "毛",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "毺",
+        "氀",
+        "𣭴",
+        "𣭵",
+        "𣮵",
+        "𣯁",
+        "𣰎",
+        "𣰟"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6BF9",
+            "3412511223115"
+        ],
+        "char_code_wubi": "wgen|wgee",
+        "char_code_cangjie": "onhqu",
+        "char_code_zhengma": "odkm",
+        "char_code_sijiao": "82214"
+    },
+    "general_unicode": "基本区 U+6BF9",
+    "general_bs_code": "3412511223115"
+}

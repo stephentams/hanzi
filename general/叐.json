@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to prick a dog to make him go"
+        }
+    ],
+    "general_pinyins": [
+        "bá"
+    ],
+    "general_zhuyins": [
+        "ㄅㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "又",
+        "non_radical_sn": "3",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "拔"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "53D0",
+            "31354"
+        ],
+        "char_code_wubi": "tdcu|tdci",
+        "char_code_cangjie": "hke",
+        "char_code_zhengma": "mgxs",
+        "char_code_sijiao": "20407"
+    },
+    "general_unicode": "基本区 U+53D0",
+    "general_bs_code": "31354"
+}

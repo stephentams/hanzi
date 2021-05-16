@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "border, boundary; raised path"
+        },
+        {
+            "language": "德语",
+            "explanation": "Grenze  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "limite,divergence"
+        }
+    ],
+    "general_pinyins": [
+        "zhěn"
+    ],
+    "general_zhuyins": [
+        "ㄓㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "田",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "聄",
+        "𤱏",
+        "𤱥",
+        "𤱼",
+        "𤲆"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "755B",
+            "2512134333"
+        ],
+        "char_code_wubi": "lwet",
+        "char_code_cangjie": "wohh",
+        "char_code_zhengma": "kiop",
+        "char_code_sijiao": "68022"
+    },
+    "general_unicode": "基本区 U+755B",
+    "general_bs_code": "2512134333"
+}

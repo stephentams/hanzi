@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "county in Henan province"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ortsname  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom de lieu)​"
+        }
+    ],
+    "general_pinyins": [
+        "yǎn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "匽",
+        "燕",
+        "𨜘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "90FE",
+            "12511531552"
+        ],
+        "char_code_wubi": "ajvb",
+        "char_code_cangjie": "svnl",
+        "char_code_zhengma": "hkzy",
+        "char_code_sijiao": "77727"
+    },
+    "general_unicode": "基本区 U+90FE",
+    "general_bs_code": "12511531552"
+}

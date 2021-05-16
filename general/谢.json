@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "thank; decline"
+        },
+        {
+            "language": "德语",
+            "explanation": "danken, sich bedanken (V)​,welken, vertrocknen, verblühen (V)​,Xie (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "remercier,s'excuser,refuser,se flétrir,dépérir"
+        }
+    ],
+    "general_pinyins": [
+        "xiè"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "10",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "謝"
+    ],
+    "general_ytz": [
+        "謝",
+        "㓔",
+        "𧧬",
+        "𧬄"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C22",
+            "453251113124"
+        ],
+        "char_code_wubi": "ytmf",
+        "char_code_cangjie": "ivhhi",
+        "char_code_zhengma": "snds",
+        "char_code_sijiao": "34700"
+    },
+    "general_unicode": "基本区 U+8C22",
+    "general_bs_code": "453251113124"
+}

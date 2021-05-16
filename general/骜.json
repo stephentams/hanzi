@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wild horse, mustang; wild"
+        },
+        {
+            "language": "德语",
+            "explanation": "ungezähmt  (Adj)​,edles Wildpferd  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "indompté,sauvage,étalon,orgueilleux,fier"
+        }
+    ],
+    "general_pinyins": [
+        "ào"
+    ],
+    "general_zhuyins": [
+        "ㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "马",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "驁"
+    ],
+    "general_ytz": [
+        "驁",
+        "䮯",
+        "𩦨"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A9C",
+            "1121533134551"
+        ],
+        "char_code_wubi": "gqtc|gqtg",
+        "char_code_cangjie": "qknvm",
+        "char_code_zhengma": "cimx",
+        "char_code_sijiao": "58127"
+    },
+    "general_unicode": "基本区 U+9A9C",
+    "general_bs_code": "1121533134551"
+}

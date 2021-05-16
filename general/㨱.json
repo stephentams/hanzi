@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to shake, to wave, to row"
+        }
+    ],
+    "general_pinyins": [
+        "yáo"
+    ],
+    "general_zhuyins": [
+        "ㄧㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "摿",
+        "搖"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3A31",
+            "12135444111251"
+        ],
+        "char_code_wubi": "rqyg",
+        "char_code_cangjie": "qbyr",
+        "char_code_zhengma": "drs",
+        "char_code_sijiao": "57061"
+    },
+    "general_unicode": "扩展A U+3A31",
+    "general_bs_code": "12135444111251"
+}

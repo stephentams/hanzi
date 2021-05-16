@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "工",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "新"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2201D",
+            "1243123"
+        ],
+        "char_code_wubi": "giht",
+        "char_code_cangjie": "mcnh",
+        "char_code_zhengma": "biim"
+    },
+    "general_unicode": "扩展B U+2201D",
+    "general_bs_code": "1243123"
+}

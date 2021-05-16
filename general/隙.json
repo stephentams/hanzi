@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "crack, split, fissure; grudge"
+        },
+        {
+            "language": "法语",
+            "explanation": "fente,fissure,occasion"
+        }
+    ],
+    "general_pinyins": [
+        "xì"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "10",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨻶",
+        "隟",
+        "䧍",
+        "𡭴",
+        "𡭽",
+        "𡮂",
+        "𧯈",
+        "𧯊",
+        "𨻩"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9699",
+            "522342511234"
+        ],
+        "char_code_wubi": "biji",
+        "char_code_cangjie": "nlfaf",
+        "char_code_zhengma": "ykkk",
+        "char_code_sijiao": "79296"
+    },
+    "general_unicode": "基本区 U+9699",
+    "general_bs_code": "522342511234"
+}

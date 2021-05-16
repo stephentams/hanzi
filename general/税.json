@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "taxes"
+        },
+        {
+            "language": "德语",
+            "explanation": "Steuer  (S, Rechtsw)​,Shui  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "impôt,taxe"
+        }
+    ],
+    "general_pinyins": [
+        "shuì"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "稅"
+    ],
+    "general_ytz": [
+        "稅",
+        "𨓚"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7A0E",
+            "312344325135"
+        ],
+        "char_code_wubi": "tukq",
+        "char_code_cangjie": "hdcru",
+        "char_code_zhengma": "mfjr",
+        "char_code_sijiao": "28912"
+    },
+    "general_unicode": "基本区 U+7A0E",
+    "general_bs_code": "312344325135"
+}

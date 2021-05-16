@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "grand, stately; secure, lasting"
+        },
+        {
+            "language": "德语",
+            "explanation": "hügelig, hüglig"
+        },
+        {
+            "language": "法语",
+            "explanation": "haut et puissant (montagne)​,vallonné"
+        }
+    ],
+    "general_pinyins": [
+        "kuī"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄟ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "18",
+        "total_sn": "21"
+    },
+    "general_stc": [
+        "岿"
+    ],
+    "general_ytz": [
+        "嵬",
+        "岿",
+        "𡿢"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5DCB",
+            "252325151212151145252"
+        ],
+        "char_code_wubi": "mwnh|mtnh",
+        "char_code_cangjie": "uhmb",
+        "char_code_zhengma": "llwl",
+        "char_code_sijiao": "22127"
+    },
+    "general_unicode": "基本区 U+5DCB",
+    "general_bs_code": "252325151212151145252"
+}

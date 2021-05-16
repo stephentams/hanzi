@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "foreign things"
+        },
+        {
+            "language": "法语",
+            "explanation": "luxuriant,abondant,divers et varié"
+        }
+    ],
+    "general_pinyins": [
+        "fán"
+    ],
+    "general_zhuyins": [
+        "ㄈㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䮳",
+        "番",
+        "𧂵"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8543",
+            "122343123425121"
+        ],
+        "char_code_wubi": "atol",
+        "char_code_cangjie": "thdw",
+        "char_code_zhengma": "epki",
+        "char_code_sijiao": "44609"
+    },
+    "general_unicode": "基本区 U+8543",
+    "general_bs_code": "122343123425121"
+}

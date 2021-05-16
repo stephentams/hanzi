@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "obey, submit to, go along with"
+        },
+        {
+            "language": "德语",
+            "explanation": "befolgen, entlang zu bilden, folgen, ordnen  (V)​,angemessen, vorteilhaft  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "suivant,le long de,suivre,aller le long de,favorable"
+        }
+    ],
+    "general_pinyins": [
+        "shùn"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "页",
+        "non_radical_sn": "3",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "順"
+    ],
+    "general_ytz": [
+        "順",
+        "㥧",
+        "𠈼",
+        "𩑎"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "987A",
+            "322132534"
+        ],
+        "char_code_wubi": "kdmy",
+        "char_code_cangjie": "lllo",
+        "char_code_zhengma": "ndgo",
+        "char_code_sijiao": "21082"
+    },
+    "general_unicode": "基本区 U+987A",
+    "general_bs_code": "322132534"
+}

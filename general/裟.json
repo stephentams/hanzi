@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a cassock or robe of a monk"
+        },
+        {
+            "language": "法语",
+            "explanation": "chape de bonze"
+        }
+    ],
+    "general_pinyins": [
+        "shā"
+    ],
+    "general_zhuyins": [
+        "ㄕㄚ"
+    ],
+    "general_radical": {
+        "radical": "衣",
+        "non_radical_sn": "7",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "88DF",
+            "4412343413534"
+        ],
+        "char_code_wubi": "iite",
+        "char_code_cangjie": "ehyhv",
+        "char_code_zhengma": "vksr",
+        "char_code_sijiao": "39732"
+    },
+    "general_unicode": "基本区 U+88DF",
+    "general_bs_code": "4412343413534"
+}

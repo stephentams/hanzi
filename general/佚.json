@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "indulge in pleasures; flee"
+        },
+        {
+            "language": "德语",
+            "explanation": "faul, müßig ,Yi  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "oisif,fainéant,omettre"
+        }
+    ],
+    "general_pinyins": [
+        "yì",
+        "dié"
+    ],
+    "general_zhuyins": [
+        "ㄧˋ",
+        "ㄉㄧㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "失",
+        "怢"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4F5A",
+            "3231134"
+        ],
+        "char_code_wubi": "wrwy|wtgy",
+        "char_code_cangjie": "ohqo",
+        "char_code_zhengma": "nmod",
+        "char_code_sijiao": "25280"
+    },
+    "general_unicode": "基本区 U+4F5A",
+    "general_bs_code": "3231134"
+}

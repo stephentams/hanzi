@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "china root; medicinal fungus"
+        },
+        {
+            "language": "法语",
+            "explanation": "champignon pachyma cocos,truffe chinoise"
+        }
+    ],
+    "general_pinyins": [
+        "fú"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "832F",
+            "122321344"
+        ],
+        "char_code_wubi": "awdu",
+        "char_code_cangjie": "toik",
+        "char_code_zhengma": "engs",
+        "char_code_sijiao": "44284"
+    },
+    "general_unicode": "基本区 U+832F",
+    "general_bs_code": "122321344"
+}

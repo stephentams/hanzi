@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "post; position"
+        },
+        {
+            "language": "德语",
+            "explanation": "Anhöhe, Bodenerhebung, kleiner Hügel, Aufschüttung  (S)​,Wachposten, Wache, Posten, Wachdienst  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "colline,poste,garde"
+        }
+    ],
+    "general_pinyins": [
+        "gǎng",
+        "gāng"
+    ],
+    "general_zhuyins": [
+        "ㄍㄤˇ",
+        "ㄍㄤ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "岗"
+    ],
+    "general_ytz": [
+        "岗",
+        "𡹏",
+        "𡹤"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5D17",
+            "25225431252"
+        ],
+        "char_code_wubi": "mmum",
+        "char_code_cangjie": "ubtu",
+        "char_code_zhengma": "llld",
+        "char_code_sijiao": "22227"
+    },
+    "general_unicode": "基本区 U+5D17",
+    "general_bs_code": "25225431252"
+}

@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "large rope; rope attached to bier"
+        },
+        {
+            "language": "法语",
+            "explanation": "câble,lier"
+        }
+    ],
+    "general_pinyins": [
+        "fú"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "紼"
+    ],
+    "general_ytz": [
+        "紼",
+        "𥿏",
+        "𦂓",
+        "𩎛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7ECB",
+            "55151532"
+        ],
+        "char_code_wubi": "xxjh",
+        "char_code_cangjie": "vmlln",
+        "char_code_zhengma": "zynd",
+        "char_code_sijiao": "25127"
+    },
+    "general_unicode": "基本区 U+7ECB",
+    "general_bs_code": "55151532"
+}

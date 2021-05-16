@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "raise, rear, bring up; support"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufziehen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "nourrir,entretenir,élever,se soigner"
+        }
+    ],
+    "general_pinyins": [
+        "yǎng"
+    ],
+    "general_zhuyins": [
+        "ㄧㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "丷",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "養"
+    ],
+    "general_ytz": [
+        "飬",
+        "養",
+        "䄅",
+        "𢼝",
+        "𢽁"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "517B",
+            "431113432"
+        ],
+        "char_code_wubi": "udyj|ugjj",
+        "char_code_cangjie": "toll",
+        "char_code_zhengma": "ucnd",
+        "char_code_sijiao": "80228"
+    },
+    "general_unicode": "基本区 U+517B",
+    "general_bs_code": "431113432"
+}

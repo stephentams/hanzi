@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "long feathers; scraggy"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 zottig, zottige"
+        }
+    ],
+    "general_pinyins": [
+        "sān"
+    ],
+    "general_zhuyins": [
+        "ㄙㄢ"
+    ],
+    "general_radical": {
+        "radical": "毛",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "毿"
+    ],
+    "general_ytz": [
+        "毿",
+        "𣮟",
+        "𣯶",
+        "𣯺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6BF5",
+            "541343333115"
+        ],
+        "char_code_wubi": "cden|cdee",
+        "char_code_cangjie": "ihhqu",
+        "char_code_zhengma": "zspm",
+        "char_code_sijiao": "22214"
+    },
+    "general_unicode": "基本区 U+6BF5",
+    "general_bs_code": "541343333115"
+}

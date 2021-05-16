@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "separate; shield; barricade"
+        },
+        {
+            "language": "德语",
+            "explanation": "abblocken, blockieren ,aufhalten, behindern ,versperren"
+        },
+        {
+            "language": "法语",
+            "explanation": "obstacle,barrière,bloquer"
+        }
+    ],
+    "general_pinyins": [
+        "zhàng"
+    ],
+    "general_zhuyins": [
+        "ㄓㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "11",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "嶂",
+        "㢓",
+        "墇",
+        "章",
+        "鄣",
+        "𩌬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "969C",
+            "5241431251112"
+        ],
+        "char_code_wubi": "bujh",
+        "char_code_cangjie": "nlytj",
+        "char_code_zhengma": "yske",
+        "char_code_sijiao": "70246"
+    },
+    "general_unicode": "基本区 U+969C",
+    "general_bs_code": "5241431251112"
+}

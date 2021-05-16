@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "huó"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "尢",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左下包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "21BE2",
+            "135312251"
+        ],
+        "char_code_wubi": "dntd",
+        "char_code_cangjie": "kuhjr",
+        "char_code_zhengma": "grmi"
+    },
+    "general_unicode": "扩展B U+21BE2",
+    "general_bs_code": "135312251"
+}

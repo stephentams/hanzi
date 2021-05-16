@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "the fighting sound made by two tigers"
+        }
+    ],
+    "general_pinyins": [
+        "yín",
+        "yìn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄣˊ",
+        "ㄧㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "虍",
+        "non_radical_sn": "14",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "459C",
+            "21531535215315352511"
+        ],
+        "char_code_wubi": "hamj|hwhj",
+        "char_code_cangjie": "yna",
+        "char_code_zhengma": "ihik",
+        "char_code_sijiao": "21601"
+    },
+    "general_unicode": "扩展A U+459C",
+    "general_bs_code": "21531535215315352511"
+}

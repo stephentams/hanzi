@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "jug, winecup, goblet; square"
+        },
+        {
+            "language": "法语",
+            "explanation": "vase,angle"
+        }
+    ],
+    "general_pinyins": [
+        "gū"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨ"
+    ],
+    "general_radical": {
+        "radical": "角",
+        "non_radical_sn": "5",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨠋",
+        "𧣗",
+        "䉉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "89DA",
+            "353511233544"
+        ],
+        "char_code_wubi": "qery",
+        "char_code_cangjie": "nbhvo",
+        "char_code_zhengma": "rlps",
+        "char_code_sijiao": "22230"
+    },
+    "general_unicode": "基本区 U+89DA",
+    "general_bs_code": "353511233544"
+}

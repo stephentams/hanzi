@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "feather, plume; wings; rad. 124"
+        },
+        {
+            "language": "德语",
+            "explanation": "Feder  (S)​,Radikal Nr. 124 = Vogelfeder, Feder  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "plume"
+        }
+    ],
+    "general_pinyins": [
+        "yǔ"
+    ],
+    "general_zhuyins": [
+        "ㄩˇ"
+    ],
+    "general_radical": {
+        "radical": "羽",
+        "non_radical_sn": "0",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䨒",
+        "𦏲",
+        "羽"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7FBD",
+            "541541"
+        ],
+        "char_code_wubi": "nnyg",
+        "char_code_cangjie": "smsim",
+        "char_code_zhengma": "ytyt",
+        "char_code_sijiao": "17120"
+    },
+    "general_unicode": "基本区 U+7FBD",
+    "general_bs_code": "541541"
+}

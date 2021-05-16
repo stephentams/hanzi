@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "法语",
+            "explanation": "a stone roller; a heavy stone, a weight, a plummet"
+        }
+    ],
+    "general_pinyins": [
+        "tuó"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "堶",
+        "砤",
+        "碢",
+        "𥓿",
+        "𥞒"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7823",
+            "1325144535"
+        ],
+        "char_code_wubi": "dpxn",
+        "char_code_cangjie": "mrjp",
+        "char_code_zhengma": "gwrr",
+        "char_code_sijiao": "13612"
+    },
+    "general_unicode": "基本区 U+7823",
+    "general_bs_code": "1325144535"
+}

@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fistula, sore, ulcer, goiter"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fistel  (S)​,Fistel  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "Fistule"
+        }
+    ],
+    "general_pinyins": [
+        "lòu"
+    ],
+    "general_zhuyins": [
+        "ㄌㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "9",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "瘺",
+        "瘻"
+    ],
+    "general_ytz": [
+        "瘻",
+        "瘺",
+        "𤵿"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7618",
+            "41341431234531"
+        ],
+        "char_code_wubi": "uovd",
+        "char_code_cangjie": "kfdv",
+        "char_code_zhengma": "tuzm",
+        "char_code_sijiao": "00144"
+    },
+    "general_unicode": "基本区 U+7618",
+    "general_bs_code": "41341431234531"
+}

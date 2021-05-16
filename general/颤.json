@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "shiver, tremble; trembling"
+        },
+        {
+            "language": "德语",
+            "explanation": "bangen, erschauern ,bewegen, rütteln ,erschauern ,schwanken, schwingen"
+        },
+        {
+            "language": "法语",
+            "explanation": "trembler,frissonner"
+        }
+    ],
+    "general_pinyins": [
+        "chàn",
+        "zhàn"
+    ],
+    "general_zhuyins": [
+        "ㄔㄢˋ",
+        "ㄓㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "页",
+        "non_radical_sn": "13",
+        "total_sn": "19"
+    },
+    "general_stc": [
+        "顫"
+    ],
+    "general_ytz": [
+        "顫",
+        "𢥇"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "98A4",
+            "4125251125111132534"
+        ],
+        "char_code_wubi": "ylkm",
+        "char_code_cangjie": "ymmbo",
+        "char_code_zhengma": "sjag",
+        "char_code_sijiao": "01182"
+    },
+    "general_unicode": "基本区 U+98A4",
+    "general_bs_code": "4125251125111132534"
+}

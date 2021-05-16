@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stroll, pace, walk slowly"
+        },
+        {
+            "language": "法语",
+            "explanation": "marcher lentement"
+        }
+    ],
+    "general_pinyins": [
+        "duó"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "9",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨀟",
+        "𨂸",
+        "躇"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E31",
+            "2512121413122154"
+        ],
+        "char_code_wubi": "khyc|khoc",
+        "char_code_cangjie": "rmite",
+        "char_code_zhengma": "jiex",
+        "char_code_sijiao": "60147"
+    },
+    "general_unicode": "基本区 U+8E31",
+    "general_bs_code": "2512121413122154"
+}

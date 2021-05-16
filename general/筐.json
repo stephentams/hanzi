@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bamboo basket or chest"
+        },
+        {
+            "language": "德语",
+            "explanation": "aus Bambus geflochtender Korb  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "panier"
+        }
+    ],
+    "general_pinyins": [
+        "kuāng"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄤ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "6",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "匡",
+        "𥮟",
+        "筺"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7B50",
+            "314314111215"
+        ],
+        "char_code_wubi": "tagf",
+        "char_code_cangjie": "hsmg",
+        "char_code_zhengma": "mhc",
+        "char_code_sijiao": "88711"
+    },
+    "general_unicode": "基本区 U+7B50",
+    "general_bs_code": "314314111215"
+}

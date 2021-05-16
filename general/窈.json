@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "obscure, secluded; refined"
+        },
+        {
+            "language": "法语",
+            "explanation": "retiré"
+        }
+    ],
+    "general_pinyins": [
+        "yǎo"
+    ],
+    "general_zhuyins": [
+        "ㄧㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "穴",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䆗",
+        "𡢵",
+        "𡣠",
+        "𥥆",
+        "𥦖",
+        "窔",
+        "𡣡",
+        "𡢹",
+        "𥥎"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7A88",
+            "4453455453"
+        ],
+        "char_code_wubi": "pwxl|pwxe",
+        "char_code_cangjie": "jcvis",
+        "char_code_zhengma": "wozy",
+        "char_code_sijiao": "30727"
+    },
+    "general_unicode": "基本区 U+7A88",
+    "general_bs_code": "4453455453"
+}

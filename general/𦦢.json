@@ -1,0 +1,25 @@
+{
+    "general_pinyins": [
+        "chéng"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "臼",
+        "non_radical_sn": "12",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "269A2",
+            "243252513134321511"
+        ],
+        "char_code_wubi": "imkv",
+        "char_code_cangjie": "fkhx",
+        "char_code_zhengma": "komn"
+    },
+    "general_unicode": "扩展B U+269A2",
+    "general_bs_code": "243252513134321511"
+}

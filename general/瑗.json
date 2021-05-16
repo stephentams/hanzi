@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "large ring of fine jade"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 Großer Jadering"
+        }
+    ],
+    "general_pinyins": [
+        "yuàn"
+    ],
+    "general_zhuyins": [
+        "ㄩㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "環"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7457",
+            "1121344311354"
+        ],
+        "char_code_wubi": "gefc|gegc",
+        "char_code_cangjie": "mgbme",
+        "char_code_zhengma": "cpgx",
+        "char_code_sijiao": "12147"
+    },
+    "general_unicode": "基本区 U+7457",
+    "general_bs_code": "1121344311354"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "salute, bow; defer to, yield"
+        },
+        {
+            "language": "德语",
+            "explanation": "Begrüßung ( trad. chin. Begrüßung mit vor edr Brust gefalteten Händen )​  (S)​,begrüßen, grüßen   ( trad. chin. Begrüßung mit vor edr Brust gefalteten Händen )​  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "saluer en levant les mains jointes"
+        }
+    ],
+    "general_pinyins": [
+        "yī"
+    ],
+    "general_zhuyins": [
+        "ㄧ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢯇",
+        "𢱼",
+        "撎"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "63D6",
+            "121251122111"
+        ],
+        "char_code_wubi": "rkbg",
+        "char_code_cangjie": "qrsj",
+        "char_code_zhengma": "djce",
+        "char_code_sijiao": "56041"
+    },
+    "general_unicode": "基本区 U+63D6",
+    "general_bs_code": "121251122111"
+}

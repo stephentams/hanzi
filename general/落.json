@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fall, drop; net income, surplus"
+        },
+        {
+            "language": "德语",
+            "explanation": "hinterlassen, zurücklassen  (V)​,gleich wie 落 (luo)​; wird in manchen umgangsprachlichen Wörtern verwendet (V, vulg)​,absetzen, fallen ,fallen, absinken ,landen ,Luo  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "laisser derrière,abandonner,oublier,baisser,tomber,descendre"
+        }
+    ],
+    "general_pinyins": [
+        "là",
+        "luò",
+        "lào"
+    ],
+    "general_zhuyins": [
+        "ㄌㄚˋ",
+        "ㄌㄨㄛˋ",
+        "ㄌㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𩂣",
+        "𣧳",
+        "𣛗",
+        "茖",
+        "落"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "843D",
+            "122441354251"
+        ],
+        "char_code_wubi": "aitk",
+        "char_code_cangjie": "tehr",
+        "char_code_zhengma": "evrj",
+        "char_code_sijiao": "44164"
+    },
+    "general_unicode": "基本区 U+843D",
+    "general_bs_code": "122441354251"
+}

@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "poison, venom; poisonous"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gift, Narkotikum"
+        },
+        {
+            "language": "法语",
+            "explanation": "empoisonner,empoisonné,venimeux,toxique,méchant,cruel,poison,drogue"
+        }
+    ],
+    "general_pinyins": [
+        "dú",
+        "dài"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨˊ",
+        "ㄉㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "母",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡴛",
+        "𡹆",
+        "𥲮",
+        "𦸕",
+        "𧉉",
+        "𣫴",
+        "𤯟"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6BD2",
+            "112155414"
+        ],
+        "char_code_wubi": "gxgu|gxu",
+        "char_code_cangjie": "qmwyi",
+        "char_code_zhengma": "cizy",
+        "char_code_sijiao": "50757"
+    },
+    "general_unicode": "基本区 U+6BD2",
+    "general_bs_code": "112155414"
+}

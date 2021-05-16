@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "already; sign of past"
+        },
+        {
+            "language": "德语",
+            "explanation": "früher einmal  (Adj)​,schon einmal  (Adj)​,jemals"
+        },
+        {
+            "language": "法语",
+            "explanation": "arrière-grand-parent,arrière-petit-enfant,jadis,autrefois,une fois"
+        }
+    ],
+    "general_pinyins": [
+        "zēng",
+        "céng"
+    ],
+    "general_zhuyins": [
+        "ㄗㄥ",
+        "ㄘㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "曰",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "曽"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "66FE",
+            "432524312511"
+        ],
+        "char_code_wubi": "uljf",
+        "char_code_cangjie": "cwa",
+        "char_code_zhengma": "udlk",
+        "char_code_sijiao": "80606"
+    },
+    "general_unicode": "基本区 U+66FE",
+    "general_bs_code": "432524312511"
+}

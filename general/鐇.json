@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "vanadium"
+        },
+        {
+            "language": "德语",
+            "explanation": "Vanadium  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "fán"
+    ],
+    "general_zhuyins": [
+        "ㄈㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "釒",
+        "non_radical_sn": "12",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𫔍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9407",
+            "34112431343123425121"
+        ],
+        "char_code_wubi": "qtol",
+        "char_code_cangjie": "chdw",
+        "char_code_zhengma": "ppki",
+        "char_code_sijiao": "82169"
+    },
+    "general_unicode": "基本区 U+9407",
+    "general_bs_code": "34112431343123425121"
+}

@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "drum carried on horseback"
+        },
+        {
+            "language": "法语",
+            "explanation": "drum carried on horseback"
+        }
+    ],
+    "general_pinyins": [
+        "pí"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "鼓",
+        "non_radical_sn": "8",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧯿",
+        "𥀷",
+        "𦗺"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9F19",
+            "121251431125432511312"
+        ],
+        "char_code_wubi": "fkuf",
+        "char_code_cangjie": "gehwj",
+        "char_code_zhengma": "bjne",
+        "char_code_sijiao": "44406"
+    },
+    "general_unicode": "基本区 U+9F19",
+    "general_bs_code": "121251431125432511312"
+}

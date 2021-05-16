@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "go to; attend, be present"
+        },
+        {
+            "language": "德语",
+            "explanation": "sich begeben, gehen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "aller à,se rendre à"
+        }
+    ],
+    "general_pinyins": [
+        "fù"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "走",
+        "non_radical_sn": "2",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䟔",
+        "𨕍"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D74",
+            "121213424"
+        ],
+        "char_code_wubi": "fhhi",
+        "char_code_cangjie": "goy",
+        "char_code_zhengma": "boid",
+        "char_code_sijiao": "43800"
+    },
+    "general_unicode": "基本区 U+8D74",
+    "general_bs_code": "121213424"
+}

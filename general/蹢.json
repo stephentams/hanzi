@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hoof; a falter; to hesitate"
+        },
+        {
+            "language": "德语",
+            "explanation": "Huf, Klaue  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "sabot"
+        }
+    ],
+    "general_pinyins": [
+        "dí"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "11",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "豴",
+        "𨅙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E62",
+            "251212141432512251"
+        ],
+        "char_code_wubi": "khud|khyd",
+        "char_code_cangjie": "rmycb",
+        "char_code_zhengma": "jiul",
+        "char_code_sijiao": "60127"
+    },
+    "general_unicode": "基本区 U+8E62",
+    "general_bs_code": "251212141432512251"
+}

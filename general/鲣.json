@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "skipjack, bonito"
+        },
+        {
+            "language": "德语",
+            "explanation": "Echter Bonito  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "katsuwonus pelamis"
+        }
+    ],
+    "general_pinyins": [
+        "jiān"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "7",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "鰹"
+    ],
+    "general_ytz": [
+        "鰹"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9CA3",
+            "352512112254121"
+        ],
+        "char_code_wubi": "qgjf",
+        "char_code_cangjie": "nmleg",
+        "char_code_zhengma": "rkxb",
+        "char_code_sijiao": "27114"
+    },
+    "general_unicode": "基本区 U+9CA3",
+    "general_bs_code": "352512112254121"
+}

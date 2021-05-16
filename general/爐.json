@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fireplace, stove, oven, furnace"
+        },
+        {
+            "language": "德语",
+            "explanation": "Herd, Küchenherd  (S)​,Ofen, Kessel  (S)​,Lu  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "fourneau,four"
+        }
+    ],
+    "general_pinyins": [
+        "lú"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "16",
+        "total_sn": "20"
+    },
+    "general_stc": [
+        "炉"
+    ],
+    "general_ytz": [
+        "炉",
+        "盧",
+        "鑪",
+        "𨈝",
+        "爐"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7210",
+            "43342153152512125221"
+        ],
+        "char_code_wubi": "ohal|ohll",
+        "char_code_cangjie": "fypt",
+        "char_code_zhengma": "uokl",
+        "char_code_sijiao": "91812"
+    },
+    "general_unicode": "基本区 U+7210",
+    "general_bs_code": "43342153152512125221"
+}

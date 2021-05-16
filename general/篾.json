@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bamboo splints or slats"
+        },
+        {
+            "language": "法语",
+            "explanation": "bambou fendu en fines lanières"
+        }
+    ],
+    "general_pinyins": [
+        "miè"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "11",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䈼",
+        "𥯣",
+        "𥰓",
+        "𥱡",
+        "𥴸"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7BFE",
+            "31431425221134534"
+        ],
+        "char_code_wubi": "tldt|tlaw",
+        "char_code_cangjie": "hwli",
+        "char_code_zhengma": "mlhs",
+        "char_code_sijiao": "88253"
+    },
+    "general_unicode": "基本区 U+7BFE",
+    "general_bs_code": "31431425221134534"
+}

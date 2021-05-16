@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "seal script; seal, official stamp"
+        },
+        {
+            "language": "德语",
+            "explanation": "Siegelschrift  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "caractères antiques des sceaux,sceau,écriture sigillaire"
+        }
+    ],
+    "general_pinyins": [
+        "zhuàn"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "9",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "蒃",
+        "𡩀",
+        "𡩚"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7BC6",
+            "314314551353334"
+        ],
+        "char_code_wubi": "txeu",
+        "char_code_cangjie": "hvno",
+        "char_code_zhengma": "mzgq",
+        "char_code_sijiao": "88232"
+    },
+    "general_unicode": "基本区 U+7BC6",
+    "general_bs_code": "314314551353334"
+}

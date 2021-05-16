@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "surname; a kind of pheasant; plumes"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fasanenfeder  (S)​,langschwänziger Fasan  (S, Bio)​,Zhai (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "faisan à longue queue,(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "dí",
+        "zhái"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧˊ",
+        "ㄓㄞˊ"
+    ],
+    "general_radical": {
+        "radical": "羽",
+        "non_radical_sn": "8",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡽢"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7FDF",
+            "54154132411121"
+        ],
+        "char_code_wubi": "nwyf",
+        "char_code_cangjie": "smog",
+        "char_code_zhengma": "ytyn",
+        "char_code_sijiao": "17215"
+    },
+    "general_unicode": "基本区 U+7FDF",
+    "general_bs_code": "54154132411121"
+}

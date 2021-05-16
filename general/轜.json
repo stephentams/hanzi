@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hearse"
+        }
+    ],
+    "general_pinyins": [
+        "ér"
+    ],
+    "general_zhuyins": [
+        "ㄦˊ"
+    ],
+    "general_radical": {
+        "radical": "車",
+        "non_radical_sn": "14",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "輀"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8F5C",
+            "125111214524444132522"
+        ],
+        "char_code_wubi": "lfdj",
+        "char_code_cangjie": "jjmbb",
+        "char_code_zhengma": "fkfg",
+        "char_code_sijiao": "51027"
+    },
+    "general_unicode": "基本区 U+8F5C",
+    "general_bs_code": "125111214524444132522"
+}

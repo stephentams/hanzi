@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "'OM'; bellow; (Cant.) dull, stupid"
+        },
+        {
+            "language": "法语",
+            "explanation": "grondement ou cri d'un animal,mugissement,Om,Aum"
+        }
+    ],
+    "general_pinyins": [
+        "hǒu",
+        "hōng",
+        "ōu"
+    ],
+    "general_zhuyins": [
+        "ㄏㄡˇ",
+        "ㄏㄨㄥ",
+        "ㄡ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "吼",
+        "呍",
+        "𠴣"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "543D",
+            "2513112"
+        ],
+        "char_code_wubi": "krhh|ktgh",
+        "char_code_cangjie": "rhq",
+        "char_code_zhengma": "jmb",
+        "char_code_sijiao": "65000"
+    },
+    "general_unicode": "基本区 U+543D",
+    "general_bs_code": "2513112"
+}

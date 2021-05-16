@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "column, pillar; numerary adjunct"
+        },
+        {
+            "language": "德语",
+            "explanation": "Pfeiler, Pfeiler  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "colonne"
+        }
+    ],
+    "general_pinyins": [
+        "yíng"
+    ],
+    "general_zhuyins": [
+        "ㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "桯",
+        "𣟅"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6979",
+            "1234535425221"
+        ],
+        "char_code_wubi": "secl|sbcl",
+        "char_code_cangjie": "dnst",
+        "char_code_zhengma": "fyxl",
+        "char_code_sijiao": "47912"
+    },
+    "general_unicode": "基本区 U+6979",
+    "general_bs_code": "1234535425221"
+}

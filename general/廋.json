@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "conceal, hide; search for, seek"
+        },
+        {
+            "language": "德语",
+            "explanation": "durchsuchen, forschen"
+        },
+        {
+            "language": "法语",
+            "explanation": "chercher,être caché"
+        }
+    ],
+    "general_pinyins": [
+        "sōu"
+    ],
+    "general_zhuyins": [
+        "ㄙㄡ"
+    ],
+    "general_radical": {
+        "radical": "广",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "廀"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5ECB",
+            "413321511254"
+        ],
+        "char_code_wubi": "yvhc|oehc",
+        "char_code_cangjie": "ihxe",
+        "char_code_zhengma": "tgnx",
+        "char_code_sijiao": "00247"
+    },
+    "general_unicode": "基本区 U+5ECB",
+    "general_bs_code": "413321511254"
+}

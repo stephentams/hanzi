@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "buttocks; thigh, thigh bone"
+        },
+        {
+            "language": "法语",
+            "explanation": "cuisse"
+        }
+    ],
+    "general_pinyins": [
+        "bì"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "骨",
+        "non_radical_sn": "8",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䏶",
+        "䠋",
+        "䯗",
+        "肶",
+        "脾",
+        "𩩙",
+        "𩩚",
+        "𩪅",
+        "𩪖"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9AC0",
+            "25545251132511312"
+        ],
+        "char_code_wubi": "merf",
+        "char_code_cangjie": "bbhwj",
+        "char_code_zhengma": "lwne",
+        "char_code_sijiao": "76240"
+    },
+    "general_unicode": "基本区 U+9AC0",
+    "general_bs_code": "25545251132511312"
+}

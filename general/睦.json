@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "friendly, amiable, peaceful"
+        },
+        {
+            "language": "德语",
+            "explanation": "freundlich, befreundetem ,Mu  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "amical,cordial"
+        }
+    ],
+    "general_pinyins": [
+        "mù"
+    ],
+    "general_zhuyins": [
+        "ㄇㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡍬",
+        "𡐑",
+        "𡻲",
+        "𥄈"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7766",
+            "2511112134121"
+        ],
+        "char_code_wubi": "hfwf",
+        "char_code_cangjie": "bugcg",
+        "char_code_zhengma": "lbob",
+        "char_code_sijiao": "64014"
+    },
+    "general_unicode": "基本区 U+7766",
+    "general_bs_code": "2511112134121"
+}

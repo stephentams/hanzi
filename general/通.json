@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pass through, common, communicate"
+        },
+        {
+            "language": "德语",
+            "explanation": "verbinden  (V)​,frei  (Adj)​, allgemein"
+        },
+        {
+            "language": "法语",
+            "explanation": "passer librement,déboucher,mener à,communiquer,informer,connaître,comprendre à fond,logique,commun,tout,entier,ouvert,dégagé,expert,spécialiste"
+        }
+    ],
+    "general_pinyins": [
+        "tōng"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄥ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢓶",
+        "𨓛"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "901A",
+            "5425112454"
+        ],
+        "char_code_wubi": "cepk",
+        "char_code_cangjie": "ynib",
+        "char_code_zhengma": "wxld",
+        "char_code_sijiao": "37302"
+    },
+    "general_unicode": "基本区 U+901A",
+    "general_bs_code": "5425112454"
+}

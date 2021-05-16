@@ -1,0 +1,55 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "repeat, duplicate; repetitious"
+        },
+        {
+            "language": "德语",
+            "explanation": "anhäufen, stapeln"
+        },
+        {
+            "language": "法语",
+            "explanation": "entasser,superposer,plier"
+        }
+    ],
+    "general_pinyins": [
+        "dié"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "田",
+        "non_radical_sn": "17",
+        "total_sn": "22"
+    },
+    "general_stc": [
+        "叠"
+    ],
+    "general_ytz": [
+        "㬪",
+        "叠",
+        "曡",
+        "畳",
+        "疂",
+        "疉",
+        "迭",
+        "𣆹",
+        "𤴁",
+        "碟"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "758A",
+            "2512125121251214525111"
+        ],
+        "char_code_wubi": "lllg",
+        "char_code_cangjie": "wwwm",
+        "char_code_zhengma": "kiwl",
+        "char_code_sijiao": "60102"
+    },
+    "general_unicode": "基本区 U+758A",
+    "general_bs_code": "2512125121251214525111"
+}

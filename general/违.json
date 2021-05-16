@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "disobey, violate, defy; be apart from"
+        },
+        {
+            "language": "德语",
+            "explanation": "missachten, nicht gehorchen  (V)​,trennen, ausscheiden  (V)​,verletzen, vergewaltigen  (V)​,Gesetz verletzen ,zuwiderhandeln, verstoßen (gegen das Gesetz, die Regel, die Norm)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "désobéir à,enfreindre,violer,être séparé"
+        }
+    ],
+    "general_pinyins": [
+        "wéi"
+    ],
+    "general_zhuyins": [
+        "ㄨㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "違"
+    ],
+    "general_ytz": [
+        "違",
+        "𢾝",
+        "𢾁",
+        "𣪡",
+        "𨔻",
+        "𨕸"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8FDD",
+            "1152454"
+        ],
+        "char_code_wubi": "fnhp",
+        "char_code_cangjie": "yqs",
+        "char_code_zhengma": "biyw",
+        "char_code_sijiao": "35302"
+    },
+    "general_unicode": "基本区 U+8FDD",
+    "general_bs_code": "1152454"
+}

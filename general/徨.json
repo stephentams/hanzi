@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "doubtful, irresolute, vacillating"
+        },
+        {
+            "language": "德语",
+            "explanation": "unentschlossen"
+        },
+        {
+            "language": "法语",
+            "explanation": "indécis,irrésolu"
+        }
+    ],
+    "general_pinyins": [
+        "huáng"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "彳",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "遑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5FA8",
+            "332325111121"
+        ],
+        "char_code_wubi": "trgg",
+        "char_code_cangjie": "hohag",
+        "char_code_zhengma": "oinc",
+        "char_code_sijiao": "26214"
+    },
+    "general_unicode": "基本区 U+5FA8",
+    "general_bs_code": "332325111121"
+}

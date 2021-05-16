@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "breast, bosom, chest; thorax"
+        },
+        {
+            "language": "德语",
+            "explanation": "Brustkasten, Brustkorb, Brust, Busen  (S)​,Herz, Sinn, Gesinnung  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "poitrine"
+        }
+    ],
+    "general_pinyins": [
+        "xiōng"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄥ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦛄",
+        "𦚾",
+        "𦚍",
+        "𦙞",
+        "𦙄",
+        "胷",
+        "匈"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "80F8",
+            "3511353452"
+        ],
+        "char_code_wubi": "eqqb|eqrb",
+        "char_code_cangjie": "bpuk",
+        "char_code_zhengma": "qroz",
+        "char_code_sijiao": "77220"
+    },
+    "general_unicode": "基本区 U+80F8",
+    "general_bs_code": "3511353452"
+}

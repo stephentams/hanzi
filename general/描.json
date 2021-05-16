@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "copy, trace, sketch; depict"
+        },
+        {
+            "language": "德语",
+            "explanation": "anreißen, aufspüren ,darstellen, schildern ,nachahmen, abschreiben ,nachbessern"
+        },
+        {
+            "language": "法语",
+            "explanation": "copier,retoucher"
+        }
+    ],
+    "general_pinyins": [
+        "miáo"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "63CF",
+            "12112225121"
+        ],
+        "char_code_wubi": "ralg",
+        "char_code_cangjie": "qtw",
+        "char_code_zhengma": "deki",
+        "char_code_sijiao": "54060"
+    },
+    "general_unicode": "基本区 U+63CF",
+    "general_bs_code": "12112225121"
+}

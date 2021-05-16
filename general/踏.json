@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "step on, trample, tread on, walk"
+        },
+        {
+            "language": "德语",
+            "explanation": "etwas antreten  (V)​,etwas aufsuchen  (V)​,etwas begehen  (V)​,etwas betreten  (V)​,sich an Ort und Stelle begeben  (V)​,an Ort und Stelle ,auf etwas treten  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "marcher sur,piétiner"
+        }
+    ],
+    "general_pinyins": [
+        "tà"
+    ],
+    "general_zhuyins": [
+        "ㄊㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "8",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "蹋",
+        "蹹",
+        "𣥂",
+        "𨅵",
+        "𨆀",
+        "𣥗"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E0F",
+            "251212125342511"
+        ],
+        "char_code_wubi": "khij",
+        "char_code_cangjie": "rmea",
+        "char_code_zhengma": "jikk",
+        "char_code_sijiao": "62169"
+    },
+    "general_unicode": "基本区 U+8E0F",
+    "general_bs_code": "251212125342511"
+}

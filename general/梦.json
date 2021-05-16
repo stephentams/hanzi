@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dream; visionary; wishful"
+        },
+        {
+            "language": "德语",
+            "explanation": "träumen  (V)​,Traum  (S)​,Wunschtraum, Illusion  (S)​,Meng  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "rêve,songe"
+        }
+    ],
+    "general_pinyins": [
+        "mèng"
+    ],
+    "general_zhuyins": [
+        "ㄇㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "夢"
+    ],
+    "general_ytz": [
+        "夢",
+        "夣",
+        "㝱",
+        "𡪎",
+        "𦴋"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "68A6",
+            "12341234354"
+        ],
+        "char_code_wubi": "ssqu",
+        "char_code_cangjie": "ddni",
+        "char_code_zhengma": "ffrs",
+        "char_code_sijiao": "44207"
+    },
+    "general_unicode": "基本区 U+68A6",
+    "general_bs_code": "12341234354"
+}

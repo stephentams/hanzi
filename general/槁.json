@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wither; withered, rotten, dead"
+        },
+        {
+            "language": "德语",
+            "explanation": "abtrocknen, dörren  (V)​,mies, faulig  (Adj)​,welk  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "sec"
+        }
+    ],
+    "general_pinyins": [
+        "gǎo"
+    ],
+    "general_zhuyins": [
+        "ㄍㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "槀",
+        "稿",
+        "藁",
+        "𩫓",
+        "犒",
+        "笴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "69C1",
+            "12344125125251"
+        ],
+        "char_code_wubi": "symk",
+        "char_code_cangjie": "dyrb",
+        "char_code_zhengma": "fsjl",
+        "char_code_sijiao": "40927"
+    },
+    "general_unicode": "基本区 U+69C1",
+    "general_bs_code": "12344125125251"
+}

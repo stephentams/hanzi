@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "uproot, pull out"
+        }
+    ],
+    "general_pinyins": [
+        "bá"
+    ],
+    "general_zhuyins": [
+        "ㄅㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "拔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "629C",
+            "1211354"
+        ],
+        "char_code_wubi": "rdcy",
+        "char_code_cangjie": "qke",
+        "char_code_zhengma": "dgxs",
+        "char_code_sijiao": "54047"
+    },
+    "general_unicode": "基本区 U+629C",
+    "general_bs_code": "1211354"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "real, actual, true, genuine"
+        },
+        {
+            "language": "德语",
+            "explanation": "wirklich, echt, real  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "vraiment,réellement,vrai,véritable"
+        }
+    ],
+    "general_pinyins": [
+        "zhēn"
+    ],
+    "general_zhuyins": [
+        "ㄓㄣ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "眞",
+        "𡙊",
+        "𠤤"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "771F",
+            "1225111134"
+        ],
+        "char_code_wubi": "fhwu",
+        "char_code_cangjie": "jbmc",
+        "char_code_zhengma": "edlo",
+        "char_code_sijiao": "40801"
+    },
+    "general_unicode": "基本区 U+771F",
+    "general_bs_code": "1225111134"
+}

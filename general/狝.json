@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hunt; autumn hunting; to capture with a fine net"
+        },
+        {
+            "language": "德语",
+            "explanation": "jagen, durchsuchen ,löschen, töten"
+        },
+        {
+            "language": "法语",
+            "explanation": "chasser,tuer"
+        }
+    ],
+    "general_pinyins": [
+        "xiǎn"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "獮"
+    ],
+    "general_ytz": [
+        "獮",
+        "𤣐",
+        "𤣔",
+        "𤣗",
+        "𤣝",
+        "𤫏"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "72DD",
+            "35335234"
+        ],
+        "char_code_wubi": "qtqi",
+        "char_code_cangjie": "khnf",
+        "char_code_zhengma": "qmrk",
+        "char_code_sijiao": "47292"
+    },
+    "general_unicode": "基本区 U+72DD",
+    "general_bs_code": "35335234"
+}

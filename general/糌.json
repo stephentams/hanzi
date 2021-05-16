@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "法语",
+            "explanation": "zanba (pain d'orge tibétain)​"
+        }
+    ],
+    "general_pinyins": [
+        "zān"
+    ],
+    "general_zhuyins": [
+        "ㄗㄢ"
+    ],
+    "general_radical": {
+        "radical": "米",
+        "non_radical_sn": "9",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7CCC",
+            "431234354242511"
+        ],
+        "char_code_wubi": "othj",
+        "char_code_cangjie": "fdhoa",
+        "char_code_zhengma": "ufik",
+        "char_code_sijiao": "93964"
+    },
+    "general_unicode": "基本区 U+7CCC",
+    "general_bs_code": "431234354242511"
+}

@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fish guts"
+        }
+    ],
+    "general_pinyins": [
+        "gù"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "8",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "鯝"
+    ],
+    "general_ytz": [
+        "鯝"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9CB4",
+            "3525121125122511"
+        ],
+        "char_code_wubi": "qgld",
+        "char_code_cangjie": "nmwjr",
+        "char_code_zhengma": "rjej",
+        "char_code_sijiao": "26100"
+    },
+    "general_unicode": "基本区 U+9CB4",
+    "general_bs_code": "3525121125122511"
+}

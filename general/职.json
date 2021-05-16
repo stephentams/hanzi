@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "duty, profession; office, post"
+        },
+        {
+            "language": "德语",
+            "explanation": "Dienst, Pflicht, Beruf, Amt"
+        },
+        {
+            "language": "法语",
+            "explanation": "fonctions,poste,devoir,tâche,charge,gérer,se charger de"
+        }
+    ],
+    "general_pinyins": [
+        "zhí"
+    ],
+    "general_zhuyins": [
+        "ㄓˊ"
+    ],
+    "general_radical": {
+        "radical": "耳",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "職"
+    ],
+    "general_ytz": [
+        "職",
+        "聀",
+        "軄"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "804C",
+            "12211125134"
+        ],
+        "char_code_wubi": "bkwy",
+        "char_code_cangjie": "sjrc",
+        "char_code_zhengma": "cejo",
+        "char_code_sijiao": "16480"
+    },
+    "general_unicode": "基本区 U+804C",
+    "general_bs_code": "12211125134"
+}

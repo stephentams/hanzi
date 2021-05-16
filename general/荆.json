@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "thorns; brambles; my wife; cane"
+        },
+        {
+            "language": "德语",
+            "explanation": "Brombeersträucher  (S)​,Dornen  (S)​,Jing  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "gattilier ou baies"
+        }
+    ],
+    "general_pinyins": [
+        "jīng"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄥ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "荊"
+    ],
+    "general_ytz": [
+        "荊",
+        "𠛼",
+        "𠞣",
+        "𦮓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8346",
+            "122113222"
+        ],
+        "char_code_wubi": "agaj",
+        "char_code_cangjie": "tjln",
+        "char_code_zhengma": "eaek",
+        "char_code_sijiao": "42400"
+    },
+    "general_unicode": "基本区 U+8346",
+    "general_bs_code": "122113222"
+}

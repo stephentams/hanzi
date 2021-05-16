@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "large boat, barge"
+        },
+        {
+            "language": "德语",
+            "explanation": "Lastkahn  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "barge"
+        }
+    ],
+    "general_pinyins": [
+        "gě"
+    ],
+    "general_zhuyins": [
+        "ㄍㄜˇ"
+    ],
+    "general_radical": {
+        "radical": "舟",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "柯"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8238",
+            "33541412512"
+        ],
+        "char_code_wubi": "tesk|tusk",
+        "char_code_cangjie": "hymnr",
+        "char_code_zhengma": "pyaj",
+        "char_code_sijiao": "21420"
+    },
+    "general_unicode": "基本区 U+8238",
+    "general_bs_code": "33541412512"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "windlass, pulley, capstan; wheel"
+        },
+        {
+            "language": "德语",
+            "explanation": "winden, winschen ,Ankerwinde  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "poulie,roue"
+        }
+    ],
+    "general_pinyins": [
+        "lù"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "车",
+        "non_radical_sn": "11",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "轆"
+    ],
+    "general_ytz": [
+        "轆",
+        "𨌠",
+        "𩌫"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8F98",
+            "152141352211535"
+        ],
+        "char_code_wubi": "lynx|loxx",
+        "char_code_cangjie": "kqixp",
+        "char_code_zhengma": "hetx",
+        "char_code_sijiao": "40512"
+    },
+    "general_unicode": "基本区 U+8F98",
+    "general_bs_code": "152141352211535"
+}

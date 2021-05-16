@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "Guangdong and Guangxi provinces; initial particle"
+        },
+        {
+            "language": "德语",
+            "explanation": "Guangdong, Kanton ( Akz. )​  (S, Geo)"
+        },
+        {
+            "language": "法语",
+            "explanation": "autre nom de la province du Guangdong"
+        }
+    ],
+    "general_pinyins": [
+        "yuè"
+    ],
+    "general_zhuyins": [
+        "ㄩㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "米",
+        "non_radical_sn": "6",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "粵"
+    ],
+    "general_ytz": [
+        "粵",
+        "𠿋",
+        "𡩭"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7CA4",
+            "325431234115"
+        ],
+        "char_code_wubi": "tlon",
+        "char_code_cangjie": "hwmvs",
+        "char_code_zhengma": "njaz",
+        "char_code_sijiao": "26027"
+    },
+    "general_unicode": "基本区 U+7CA4",
+    "general_bs_code": "325431234115"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "time, occasion; take journey"
+        },
+        {
+            "language": "德语",
+            "explanation": "Zähleinheitswort für Bewegungen;eine Zeit, eine Reise"
+        },
+        {
+            "language": "法语",
+            "explanation": "parcourir,fouler des pieds,fois"
+        }
+    ],
+    "general_pinyins": [
+        "tàng",
+        "tāng"
+    ],
+    "general_zhuyins": [
+        "ㄊㄤˋ",
+        "ㄊㄤ"
+    ],
+    "general_radical": {
+        "radical": "走",
+        "non_radical_sn": "8",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䠀",
+        "蹚"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D9F",
+            "121213424325251"
+        ],
+        "char_code_wubi": "fhik",
+        "char_code_cangjie": "gofbr",
+        "char_code_zhengma": "bokl",
+        "char_code_sijiao": "49802"
+    },
+    "general_unicode": "基本区 U+8D9F",
+    "general_bs_code": "121213424325251"
+}

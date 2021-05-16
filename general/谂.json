@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "consult carefully with, counsel"
+        },
+        {
+            "language": "德语",
+            "explanation": "konsultieren, Befragen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "savoir,réprimander,conseiller,désirer qch,dire,informer"
+        }
+    ],
+    "general_pinyins": [
+        "shěn"
+    ],
+    "general_zhuyins": [
+        "ㄕㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "諗"
+    ],
+    "general_ytz": [
+        "諗"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C02",
+            "4534454544"
+        ],
+        "char_code_wubi": "ywyn",
+        "char_code_cangjie": "ivoip",
+        "char_code_zhengma": "soxw",
+        "char_code_sijiao": "38732"
+    },
+    "general_unicode": "基本区 U+8C02",
+    "general_bs_code": "4534454544"
+}

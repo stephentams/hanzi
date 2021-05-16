@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "coins, money, wealth"
+        },
+        {
+            "language": "德语",
+            "explanation": "Geld  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "acide sulfurique,(argent)​,chaîne de pièces de monnaie"
+        }
+    ],
+    "general_pinyins": [
+        "qiǎng"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "12",
+        "total_sn": "17"
+    },
+    "general_stc": [
+        "鏹"
+    ],
+    "general_ytz": [
+        "鏹"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "956A",
+            "31115515251251214"
+        ],
+        "char_code_wubi": "qxkj",
+        "char_code_cangjie": "opnri",
+        "char_code_zhengma": "pyji",
+        "char_code_sijiao": "86736"
+    },
+    "general_unicode": "基本区 U+956A",
+    "general_bs_code": "31115515251251214"
+}

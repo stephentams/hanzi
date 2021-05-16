@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "scroll of silk or cloth presente"
+        },
+        {
+            "language": "法语",
+            "explanation": "morceau de soie portant une inscription"
+        }
+    ],
+    "general_pinyins": [
+        "zhàng"
+    ],
+    "general_zhuyins": [
+        "ㄓㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "巾",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5E5B",
+            "25241431251112"
+        ],
+        "char_code_wubi": "mhuj",
+        "char_code_cangjie": "lbytj",
+        "char_code_zhengma": "like",
+        "char_code_sijiao": "40246"
+    },
+    "general_unicode": "基本区 U+5E5B",
+    "general_bs_code": "25241431251112"
+}

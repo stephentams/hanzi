@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ankle"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fußknöchel, Knöchel  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cheville (anatomie)​"
+        }
+    ],
+    "general_pinyins": [
+        "huái"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄞˊ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "8",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "腂",
+        "髁"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E1D",
+            "251212125111234"
+        ],
+        "char_code_wubi": "khjs",
+        "char_code_cangjie": "rmwd",
+        "char_code_zhengma": "jikf",
+        "char_code_sijiao": "66194"
+    },
+    "general_unicode": "基本区 U+8E1D",
+    "general_bs_code": "251212125111234"
+}

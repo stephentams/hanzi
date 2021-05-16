@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stem, stalk"
+        },
+        {
+            "language": "德语",
+            "explanation": "Sprossachse  (S, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tige"
+        }
+    ],
+    "general_pinyins": [
+        "jīng"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄥ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "莖"
+    ],
+    "general_ytz": [
+        "莖"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "830E",
+            "12254121"
+        ],
+        "char_code_wubi": "acaf",
+        "char_code_cangjie": "tnom",
+        "char_code_zhengma": "exbi",
+        "char_code_sijiao": "44102"
+    },
+    "general_unicode": "基本区 U+830E",
+    "general_bs_code": "12254121"
+}

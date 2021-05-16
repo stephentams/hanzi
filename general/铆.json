@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rivet"
+        },
+        {
+            "language": "德语",
+            "explanation": "nieten, zusammennieten  (V, Tech)"
+        },
+        {
+            "language": "法语",
+            "explanation": "riveter"
+        }
+    ],
+    "general_pinyins": [
+        "mǎo"
+    ],
+    "general_zhuyins": [
+        "ㄇㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "鉚"
+    ],
+    "general_ytz": [
+        "鉚"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94C6",
+            "3111535351"
+        ],
+        "char_code_wubi": "qqtb",
+        "char_code_cangjie": "ophhl",
+        "char_code_zhengma": "prmy",
+        "char_code_sijiao": "87720"
+    },
+    "general_unicode": "基本区 U+94C6",
+    "general_bs_code": "3111535351"
+}

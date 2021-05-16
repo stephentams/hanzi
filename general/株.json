@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "numerary adjunct for trees; root"
+        },
+        {
+            "language": "德语",
+            "explanation": "Pflanze  (S, Bio)​,Stamm, Baumstamm  (S, Bio)​,Wurzeln, Wurzelwerk ( über der Erde )​  (S, Bio)​,ZEW Zählwort für Bäume, Pflanzen  (Zähl)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tronc,souche,plant,(classificateur pour les arbres)​"
+        }
+    ],
+    "general_pinyins": [
+        "zhū"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "朱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "682A",
+            "1234311234"
+        ],
+        "char_code_wubi": "sriy|stfy",
+        "char_code_cangjie": "dhjd",
+        "char_code_zhengma": "fmko",
+        "char_code_sijiao": "45990"
+    },
+    "general_unicode": "基本区 U+682A",
+    "general_bs_code": "1234311234"
+}

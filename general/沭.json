@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "river in Shantung"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom d'une rivière dans la province du Shandong)​"
+        }
+    ],
+    "general_pinyins": [
+        "shù"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣻚"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6CAD",
+            "44112344"
+        ],
+        "char_code_wubi": "isyy",
+        "char_code_cangjie": "xeid",
+        "char_code_zhengma": "vfs",
+        "char_code_sijiao": "33194"
+    },
+    "general_unicode": "基本区 U+6CAD",
+    "general_bs_code": "44112344"
+}

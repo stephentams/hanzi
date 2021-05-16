@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "enmesh, wrap around; web, net"
+        },
+        {
+            "language": "德语",
+            "explanation": "netzförmiges Gebilde ,mit einem Netz umwickeln, aufspulen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "petit filet,filament,réseau,envelopper,enrouler"
+        }
+    ],
+    "general_pinyins": [
+        "luò",
+        "lào"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄛˋ",
+        "ㄌㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "絡"
+    ],
+    "general_ytz": [
+        "絡",
+        "𦃅",
+        "𦃆"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EDC",
+            "551354251"
+        ],
+        "char_code_wubi": "xtkg",
+        "char_code_cangjie": "vmher",
+        "char_code_zhengma": "zrj",
+        "char_code_sijiao": "27164"
+    },
+    "general_unicode": "基本区 U+7EDC",
+    "general_bs_code": "551354251"
+}

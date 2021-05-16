@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(Cant.) blister"
+        }
+    ],
+    "general_pinyins": [
+        "báo",
+        "bó"
+    ],
+    "general_zhuyins": [
+        "ㄅㄠˊ",
+        "ㄅㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "15",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㿺",
+        "𤿈",
+        "𤿉",
+        "𦣃"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2688A",
+            "3541251112213424134"
+        ],
+        "char_code_wubi": "ejai",
+        "char_code_cangjie": "bate",
+        "char_code_zhengma": "qkok"
+    },
+    "general_unicode": "扩展B U+2688A",
+    "general_bs_code": "3541251112213424134"
+}

@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a monkey with yellow hair"
+        },
+        {
+            "language": "德语",
+            "explanation": "löschen, kratzen ,Gekritzel  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "singe (arch.)​"
+        }
+    ],
+    "general_pinyins": [
+        "náo"
+    ],
+    "general_zhuyins": [
+        "ㄋㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㑱",
+        "㺀",
+        "獶",
+        "獿",
+        "蝚",
+        "𧳨",
+        "夒"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7331",
+            "353545231234"
+        ],
+        "char_code_wubi": "qtcs",
+        "char_code_cangjie": "khnhd",
+        "char_code_zhengma": "qmmf",
+        "char_code_sijiao": "47294"
+    },
+    "general_unicode": "基本区 U+7331",
+    "general_bs_code": "353545231234"
+}

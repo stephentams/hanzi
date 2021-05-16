@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "island"
+        },
+        {
+            "language": "德语",
+            "explanation": "Inselchen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "îlot,île"
+        }
+    ],
+    "general_pinyins": [
+        "yǔ"
+    ],
+    "general_zhuyins": [
+        "ㄩˇ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "嶼"
+    ],
+    "general_ytz": [
+        "嶼",
+        "㠘",
+        "𡽬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5C7F",
+            "252151"
+        ],
+        "char_code_wubi": "mgng",
+        "char_code_cangjie": "uysm",
+        "char_code_zhengma": "llza",
+        "char_code_sijiao": "21727"
+    },
+    "general_unicode": "基本区 U+5C7F",
+    "general_bs_code": "252151"
+}

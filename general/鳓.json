@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "Chinese herring; shad"
+        }
+    ],
+    "general_pinyins": [
+        "lè"
+    ],
+    "general_zhuyins": [
+        "ㄌㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "11",
+        "total_sn": "19"
+    },
+    "general_stc": [
+        "鰳"
+    ],
+    "general_ytz": [
+        "鰳"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9CD3",
+            "3525121112212511253"
+        ],
+        "char_code_wubi": "qgal|qgae",
+        "char_code_cangjie": "nmtjs",
+        "char_code_zhengma": "reym",
+        "char_code_sijiao": "24127"
+    },
+    "general_unicode": "基本区 U+9CD3",
+    "general_bs_code": "3525121112212511253"
+}

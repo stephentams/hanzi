@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "clever, nimble"
+        },
+        {
+            "language": "德语",
+            "explanation": "ausgeklügelt, erfindungsreich"
+        },
+        {
+            "language": "法语",
+            "explanation": "malin,ingénieux,frivole"
+        }
+    ],
+    "general_pinyins": [
+        "xuān"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄢ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "13",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠐛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5107",
+            "322522112513534"
+        ],
+        "char_code_wubi": "wlge",
+        "char_code_cangjie": "owlv",
+        "char_code_zhengma": "nljr",
+        "char_code_sijiao": "26232"
+    },
+    "general_unicode": "基本区 U+5107",
+    "general_bs_code": "322522112513534"
+}

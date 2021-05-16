@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "Hunan province"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kurzbez. für die Provinz Hunan  (Eig, Geo)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom d'une rivière)​,autre nom de la province du Hunan"
+        }
+    ],
+    "general_pinyins": [
+        "xiāng"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄤ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6E58",
+            "441123425111"
+        ],
+        "char_code_wubi": "ishg",
+        "char_code_cangjie": "edbu",
+        "char_code_zhengma": "vfl",
+        "char_code_sijiao": "36100"
+    },
+    "general_unicode": "基本区 U+6E58",
+    "general_bs_code": "441123425111"
+}

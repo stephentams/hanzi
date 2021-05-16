@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "brew, ferment"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufbrühen, ausbrüten  (V)​,etwas gären lassen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "faire fermenter,brasser,causer,provoquer"
+        }
+    ],
+    "general_pinyins": [
+        "niàng"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "酉",
+        "non_radical_sn": "7",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "釀"
+    ],
+    "general_ytz": [
+        "釀",
+        "醸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "917F",
+            "12535114511534"
+        ],
+        "char_code_wubi": "sgye|sgyv",
+        "char_code_cangjie": "mwiav",
+        "char_code_zhengma": "fdsx",
+        "char_code_sijiao": "13632"
+    },
+    "general_unicode": "基本区 U+917F",
+    "general_bs_code": "12535114511534"
+}

@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "gigantic strength"
+        },
+        {
+            "language": "德语",
+            "explanation": "übermenschliche Kraft  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "xì"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "尸",
+        "non_radical_sn": "21",
+        "total_sn": "24"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㞒",
+        "𠫍"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5C6D",
+            "513251113425111342511134"
+        ],
+        "char_code_wubi": "nmmm",
+        "char_code_cangjie": "sbcc",
+        "char_code_zhengma": "xmll",
+        "char_code_sijiao": "77286"
+    },
+    "general_unicode": "基本区 U+5C6D",
+    "general_bs_code": "513251113425111342511134"
+}

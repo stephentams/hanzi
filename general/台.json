@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "platform; unit; term of address"
+        },
+        {
+            "language": "德语",
+            "explanation": "Station  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "tái",
+        "tāi"
+    ],
+    "general_zhuyins": [
+        "ㄊㄞˊ",
+        "ㄊㄞ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "2",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㣍",
+        "邰",
+        "𠘭",
+        "怡",
+        "檯",
+        "瓵",
+        "臺",
+        "颱",
+        "鮐",
+        "𡐬"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "53F0",
+            "54251"
+        ],
+        "char_code_wubi": "ckf",
+        "char_code_cangjie": "ir",
+        "char_code_zhengma": "zsj",
+        "char_code_sijiao": "23600"
+    },
+    "general_unicode": "基本区 U+53F0",
+    "general_bs_code": "54251"
+}

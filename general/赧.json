@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "blush, turn red"
+        },
+        {
+            "language": "德语",
+            "explanation": "Scham  (S)​,Schamröte  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "honte"
+        }
+    ],
+    "general_pinyins": [
+        "nǎn"
+    ],
+    "general_zhuyins": [
+        "ㄋㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "赤",
+        "non_radical_sn": "4",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䩅",
+        "𢠱",
+        "𧹞",
+        "𧹠",
+        "𩈑",
+        "𩈫",
+        "𩈶",
+        "𢟻"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D67",
+            "12132345254"
+        ],
+        "char_code_wubi": "fobc",
+        "char_code_cangjie": "gcsle",
+        "char_code_zhengma": "bnyx",
+        "char_code_sijiao": "47247"
+    },
+    "general_unicode": "基本区 U+8D67",
+    "general_bs_code": "12132345254"
+}

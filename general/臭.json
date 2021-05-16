@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "smell, stink, emit foul odor"
+        },
+        {
+            "language": "德语",
+            "explanation": "schlecht riechend, stinkend (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "odeur,puant,dégoûtant,détestable"
+        }
+    ],
+    "general_pinyins": [
+        "chòu",
+        "xiù"
+    ],
+    "general_zhuyins": [
+        "ㄔㄡˋ",
+        "ㄒㄧㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "自",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "殠",
+        "臰",
+        "𣧁",
+        "𦤀",
+        "臭"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "81ED",
+            "3251111344"
+        ],
+        "char_code_wubi": "thdu",
+        "char_code_cangjie": "huik",
+        "char_code_zhengma": "nlgs",
+        "char_code_sijiao": "26804"
+    },
+    "general_unicode": "基本区 U+81ED",
+    "general_bs_code": "3251111344"
+}

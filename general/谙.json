@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "versed in, fully acquainted with"
+        },
+        {
+            "language": "法语",
+            "explanation": "savoir parfaitement"
+        }
+    ],
+    "general_pinyins": [
+        "ān"
+    ],
+    "general_zhuyins": [
+        "ㄢ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "諳"
+    ],
+    "general_ytz": [
+        "諳",
+        "𧩸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C19",
+            "45414312511"
+        ],
+        "char_code_wubi": "yujg",
+        "char_code_cangjie": "ivyta",
+        "char_code_zhengma": "ssk",
+        "char_code_sijiao": "30761"
+    },
+    "general_unicode": "基本区 U+8C19",
+    "general_bs_code": "45414312511"
+}

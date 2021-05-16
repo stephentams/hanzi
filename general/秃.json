@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bald"
+        },
+        {
+            "language": "德语",
+            "explanation": "unverblümt ,glatzköpfig  (Adj)​,kahlköpfig  (Adj)​,Tu  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "chauve,nu"
+        }
+    ],
+    "general_pinyins": [
+        "tū"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨ"
+    ],
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "2",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "禿"
+    ],
+    "general_ytz": [
+        "禿",
+        "痜",
+        "𣬜"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "79C3",
+            "3123435"
+        ],
+        "char_code_wubi": "tmb|twb",
+        "char_code_cangjie": "hdhn",
+        "char_code_zhengma": "mfqd",
+        "char_code_sijiao": "20217"
+    },
+    "general_unicode": "基本区 U+79C3",
+    "general_bs_code": "3123435"
+}

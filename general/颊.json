@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cheeks, jaw"
+        },
+        {
+            "language": "德语",
+            "explanation": "Pobacken, Backen  (S)​,Wange  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "joue"
+        }
+    ],
+    "general_pinyins": [
+        "jiá"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "页",
+        "non_radical_sn": "6",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "頰"
+    ],
+    "general_ytz": [
+        "頰",
+        "頬",
+        "脥",
+        "𡖳",
+        "𩠗",
+        "𩠣"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "988A",
+            "143134132534"
+        ],
+        "char_code_wubi": "guwm|gudm",
+        "char_code_cangjie": "ktmbo",
+        "char_code_zhengma": "bdug",
+        "char_code_sijiao": "51882"
+    },
+    "general_unicode": "基本区 U+988A",
+    "general_bs_code": "143134132534"
+}

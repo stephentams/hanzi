@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sediment, lees, dregs"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ablagerung  (S)​,Abschaum  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "lie,vice"
+        }
+    ],
+    "general_pinyins": [
+        "zǐ"
+    ],
+    "general_zhuyins": [
+        "ㄗˇ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6ED3",
+            "4414454143112"
+        ],
+        "char_code_wubi": "ipuh",
+        "char_code_cangjie": "ejyj",
+        "char_code_zhengma": "vwse",
+        "char_code_sijiao": "33141"
+    },
+    "general_unicode": "基本区 U+6ED3",
+    "general_bs_code": "4414454143112"
+}

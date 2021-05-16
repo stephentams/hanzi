@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "moss; edible berries"
+        },
+        {
+            "language": "德语",
+            "explanation": "Beere  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "baie,fraise"
+        }
+    ],
+    "general_pinyins": [
+        "méi"
+    ],
+    "general_zhuyins": [
+        "ㄇㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦱞",
+        "苺"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8393",
+            "1223155414"
+        ],
+        "char_code_wubi": "atxu",
+        "char_code_cangjie": "towy",
+        "char_code_zhengma": "emzy",
+        "char_code_sijiao": "44757"
+    },
+    "general_unicode": "基本区 U+8393",
+    "general_bs_code": "1223155414"
+}

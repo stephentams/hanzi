@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a wild dog, a not very large lock-up"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gefängnis, Kerker"
+        },
+        {
+            "language": "法语",
+            "explanation": "prison,cellule"
+        }
+    ],
+    "general_pinyins": [
+        "hān",
+        "àn"
+    ],
+    "general_zhuyins": [
+        "ㄏㄢ",
+        "ㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤝪",
+        "𤞿",
+        "𤟉",
+        "豻",
+        "𤞶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "72B4",
+            "353112"
+        ],
+        "char_code_wubi": "qtfh",
+        "char_code_cangjie": "khmj",
+        "char_code_zhengma": "qmae",
+        "char_code_sijiao": "41240"
+    },
+    "general_unicode": "基本区 U+72B4",
+    "general_bs_code": "353112"
+}

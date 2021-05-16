@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ancient lute; build"
+        },
+        {
+            "language": "德语",
+            "explanation": "bauen  (V)​,Zhú (altes chinesisches Saiteninstrument)​ - Langzeichen auch 筑!  (Eig, Mus)"
+        },
+        {
+            "language": "法语",
+            "explanation": "construire,bâtir"
+        }
+    ],
+    "general_pinyins": [
+        "zhù",
+        "zhú"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨˋ",
+        "ㄓㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "6",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "築"
+    ],
+    "general_ytz": [
+        "築",
+        "𥬑",
+        "𥬶",
+        "𥬾",
+        "𥴀"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7B51",
+            "314314121354"
+        ],
+        "char_code_wubi": "tamy|tawy",
+        "char_code_cangjie": "hmhn",
+        "char_code_zhengma": "mbqd",
+        "char_code_sijiao": "88117"
+    },
+    "general_unicode": "基本区 U+7B51",
+    "general_bs_code": "314314121354"
+}

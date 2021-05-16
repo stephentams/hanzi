@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "oyster"
+        },
+        {
+            "language": "德语",
+            "explanation": "Auster, Austern ( lat. Ostreidae )​  (S, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "huître"
+        }
+    ],
+    "general_pinyins": [
+        "lì"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "蠣"
+    ],
+    "general_ytz": [
+        "蠣",
+        "蠇",
+        "䘈",
+        "𧖄"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "86CE",
+            "25121413153"
+        ],
+        "char_code_wubi": "jddn|jdgq",
+        "char_code_cangjie": "limms",
+        "char_code_zhengma": "igay",
+        "char_code_sijiao": "51127"
+    },
+    "general_unicode": "基本区 U+86CE",
+    "general_bs_code": "25121413153"
+}

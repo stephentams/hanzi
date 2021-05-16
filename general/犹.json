@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "like, similar to, just like, as"
+        },
+        {
+            "language": "德语",
+            "explanation": "als ob; wie; gleich ,dennoch, doch; noch immer ,schikanieren  (V)​,You  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "comme,encore"
+        }
+    ],
+    "general_pinyins": [
+        "yóu"
+    ],
+    "general_zhuyins": [
+        "ㄧㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "猶"
+    ],
+    "general_ytz": [
+        "尤",
+        "猶",
+        "𤠁"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "72B9",
+            "3531354"
+        ],
+        "char_code_wubi": "qtdn|qtdy",
+        "char_code_cangjie": "khiku",
+        "char_code_zhengma": "qmgr",
+        "char_code_sijiao": "43212"
+    },
+    "general_unicode": "基本区 U+72B9",
+    "general_bs_code": "3531354"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ask, request; invite; please"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bitte !  (Int)​,bitten, einladen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "solliciter,inviter,(veuillez)​ s'il vous plaît,je vous en prie,demander"
+        }
+    ],
+    "general_pinyins": [
+        "qǐng"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "請"
+    ],
+    "general_ytz": [
+        "請"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BF7",
+            "4511212511"
+        ],
+        "char_code_wubi": "ygeg",
+        "char_code_cangjie": "ivqmb",
+        "char_code_zhengma": "scq",
+        "char_code_sijiao": "35727"
+    },
+    "general_unicode": "基本区 U+8BF7",
+    "general_bs_code": "4511212511"
+}

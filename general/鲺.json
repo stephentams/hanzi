@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cat fish"
+        }
+    ],
+    "general_pinyins": [
+        "shī"
+    ],
+    "general_zhuyins": [
+        "ㄕ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "8",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "鯴"
+    ],
+    "general_ytz": [
+        "鯴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9CBA",
+            "3525121153251214"
+        ],
+        "char_code_wubi": "qgnj",
+        "char_code_cangjie": "nmnhi",
+        "char_code_zhengma": "rymi",
+        "char_code_sijiao": "27110"
+    },
+    "general_unicode": "基本区 U+9CBA",
+    "general_bs_code": "3525121153251214"
+}

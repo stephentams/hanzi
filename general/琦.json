@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "gem, precious stone, jade"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kuriosität  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bibelot,pierre de valeur"
+        }
+    ],
+    "general_pinyins": [
+        "qí"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤦺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7426",
+            "112113412512"
+        ],
+        "char_code_wubi": "gdsk",
+        "char_code_cangjie": "mgkmr",
+        "char_code_zhengma": "cgaj",
+        "char_code_sijiao": "14121"
+    },
+    "general_unicode": "基本区 U+7426",
+    "general_bs_code": "112113412512"
+}

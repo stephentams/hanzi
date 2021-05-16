@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "abundant, flourishing; contain; fill"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufblühend, in voller Blüte stehen, gedeihen ,energisch, kraftvoll  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "abondant,copieux,robuste,florissant,prospère,en plein épanouissement,faire l'éloge de,exalter,contenir,recevoir,mettre dans"
+        }
+    ],
+    "general_pinyins": [
+        "shèng",
+        "chéng"
+    ],
+    "general_zhuyins": [
+        "ㄕㄥˋ",
+        "ㄔㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "皿",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "晟",
+        "晠",
+        "盛"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "76DB",
+            "13553425221"
+        ],
+        "char_code_wubi": "dnnl|dnlf",
+        "char_code_cangjie": "isbt",
+        "char_code_zhengma": "hmyl",
+        "char_code_sijiao": "53102"
+    },
+    "general_unicode": "基本区 U+76DB",
+    "general_bs_code": "13553425221"
+}

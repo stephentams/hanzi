@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "soak, steep; sodden or soaked"
+        },
+        {
+            "language": "德语",
+            "explanation": "blubbern, sprudeln ,abschüssig, einweichen"
+        },
+        {
+            "language": "法语",
+            "explanation": "bulle,mousse,faire tremper,faire macérer,rouir"
+        }
+    ],
+    "general_pinyins": [
+        "òu",
+        "ōu"
+    ],
+    "general_zhuyins": [
+        "ㄡˋ",
+        "ㄡ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "漚"
+    ],
+    "general_ytz": [
+        "漚",
+        "䌔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6CA4",
+            "4411345"
+        ],
+        "char_code_wubi": "iaqy|iary",
+        "char_code_cangjie": "esk",
+        "char_code_zhengma": "vhos",
+        "char_code_sijiao": "31114"
+    },
+    "general_unicode": "基本区 U+6CA4",
+    "general_bs_code": "4411345"
+}

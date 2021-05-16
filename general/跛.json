@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lame"
+        },
+        {
+            "language": "法语",
+            "explanation": "boiteux,boiter"
+        }
+    ],
+    "general_pinyins": [
+        "bǒ"
+    ],
+    "general_zhuyins": [
+        "ㄅㄛˇ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "5",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㝿",
+        "𤿑",
+        "𨈵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8DDB",
+            "251212153254"
+        ],
+        "char_code_wubi": "khhc|khby",
+        "char_code_cangjie": "rmdhe",
+        "char_code_zhengma": "jixi",
+        "char_code_sijiao": "64147"
+    },
+    "general_unicode": "基本区 U+8DDB",
+    "general_bs_code": "251212153254"
+}

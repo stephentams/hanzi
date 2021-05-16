@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "criticize, scold, blame, ridicule"
+        },
+        {
+            "language": "德语",
+            "explanation": "beschuldigen, tadeln ,verhöhnen, Gespött  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "blâmer,ridiculiser"
+        }
+    ],
+    "general_pinyins": [
+        "qiào"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "誚"
+    ],
+    "general_ytz": [
+        "誚"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BEE",
+            "452432511"
+        ],
+        "char_code_wubi": "yieg",
+        "char_code_cangjie": "ivfb",
+        "char_code_zhengma": "skq",
+        "char_code_sijiao": "39727"
+    },
+    "general_unicode": "基本区 U+8BEE",
+    "general_bs_code": "452432511"
+}

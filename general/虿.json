@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a kind of scorpion"
+        },
+        {
+            "language": "法语",
+            "explanation": "scorpion"
+        }
+    ],
+    "general_pinyins": [
+        "chài"
+    ],
+    "general_zhuyins": [
+        "ㄔㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "3",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "蠆"
+    ],
+    "general_ytz": [
+        "蠆",
+        "䘍",
+        "𧓽",
+        "𧔱",
+        "𧔴",
+        "𧕧"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "867F",
+            "153251214"
+        ],
+        "char_code_wubi": "dnju|gqju",
+        "char_code_cangjie": "mslmi",
+        "char_code_zhengma": "ayi",
+        "char_code_sijiao": "10136"
+    },
+    "general_unicode": "基本区 U+867F",
+    "general_bs_code": "153251214"
+}

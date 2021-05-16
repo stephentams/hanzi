@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cheekbone; path, road; intersection"
+        },
+        {
+            "language": "法语",
+            "explanation": "pommettes"
+        }
+    ],
+    "general_pinyins": [
+        "kuí"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "首",
+        "non_radical_sn": "2",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "逵",
+        "㙺",
+        "𠃳",
+        "𡯾",
+        "𩠒",
+        "𦔱"
+    ],
+    "general_structure": "左下包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9997",
+            "35431325111"
+        ],
+        "char_code_wubi": "vuth",
+        "char_code_cangjie": "knthu",
+        "char_code_zhengma": "qyun",
+        "char_code_sijiao": "48016"
+    },
+    "general_unicode": "基本区 U+9997",
+    "general_bs_code": "35431325111"
+}

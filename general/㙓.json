@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "earth; land; soil; ground; territory, opium"
+        }
+    ],
+    "general_pinyins": [
+        "kuí"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3653",
+            "121121121121"
+        ],
+        "char_code_wubi": "ffff",
+        "char_code_cangjie": "gggg",
+        "char_code_zhengma": "bbbb",
+        "char_code_sijiao": "40104"
+    },
+    "general_unicode": "扩展A U+3653",
+    "general_bs_code": "121121121121"
+}

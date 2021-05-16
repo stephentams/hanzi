@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "soothe, appease, pacify"
+        },
+        {
+            "language": "德语",
+            "explanation": "befrieden, beruhigen, beschwichtigen  (V)​,friedlich, ruhig  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "paisible,calme,pacifier,calmer"
+        }
+    ],
+    "general_pinyins": [
+        "suí"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "綏"
+    ],
+    "general_ytz": [
+        "綏"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EE5",
+            "5513443531"
+        ],
+        "char_code_wubi": "xevg",
+        "char_code_cangjie": "vmbv",
+        "char_code_zhengma": "zpzm",
+        "char_code_sijiao": "22144"
+    },
+    "general_unicode": "基本区 U+7EE5",
+    "general_bs_code": "5513443531"
+}

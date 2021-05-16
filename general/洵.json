@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "true, real, truly, really"
+        },
+        {
+            "language": "德语",
+            "explanation": "ungelogen, wahrlich"
+        },
+        {
+            "language": "法语",
+            "explanation": "vraiment,sincère"
+        }
+    ],
+    "general_pinyins": [
+        "xún"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6D35",
+            "441352511"
+        ],
+        "char_code_wubi": "iqjg",
+        "char_code_cangjie": "epa",
+        "char_code_zhengma": "vrk",
+        "char_code_sijiao": "37120"
+    },
+    "general_unicode": "基本区 U+6D35",
+    "general_bs_code": "441352511"
+}

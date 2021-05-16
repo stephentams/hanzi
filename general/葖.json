@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "德语",
+            "explanation": "Follikel  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "tū"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦴯"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8456",
+            "122445341344"
+        ],
+        "char_code_wubi": "apwd",
+        "char_code_cangjie": "tjck",
+        "char_code_zhengma": "ewgs",
+        "char_code_sijiao": "44804"
+    },
+    "general_unicode": "基本区 U+8456",
+    "general_bs_code": "122445341344"
+}

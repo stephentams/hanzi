@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "patient, earnest; earnestly"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 wiederholt, verschiedentlich"
+        }
+    ],
+    "general_pinyins": [
+        "zhūn"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨㄣ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "諄"
+    ],
+    "general_ytz": [
+        "諄",
+        "𣮢",
+        "𧭫",
+        "𧭺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C06",
+            "4541251521"
+        ],
+        "char_code_wubi": "yybg",
+        "char_code_cangjie": "ivyrd",
+        "char_code_zhengma": "ssjy",
+        "char_code_sijiao": "30747"
+    },
+    "general_unicode": "基本区 U+8C06",
+    "general_bs_code": "4541251521"
+}

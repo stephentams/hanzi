@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "alum"
+        },
+        {
+            "language": "德语",
+            "explanation": "Alaun (ein Salz)​ (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "alun"
+        }
+    ],
+    "general_pinyins": [
+        "fán"
+    ],
+    "general_zhuyins": [
+        "ㄈㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "3",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "礬"
+    ],
+    "general_ytz": [
+        "礬",
+        "𥖎"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "77FE",
+            "13251354"
+        ],
+        "char_code_wubi": "dmyy|dwyy",
+        "char_code_cangjie": "mrhni",
+        "char_code_zhengma": "gqda",
+        "char_code_sijiao": "17610"
+    },
+    "general_unicode": "基本区 U+77FE",
+    "general_bs_code": "13251354"
+}

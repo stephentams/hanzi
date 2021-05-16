@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to feed, support, provide for; food"
+        },
+        {
+            "language": "法语",
+            "explanation": "mets,nourriture,repas"
+        }
+    ],
+    "general_pinyins": [
+        "zhuàn"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "饣",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "饌"
+    ],
+    "general_ytz": [
+        "饌",
+        "𧃊",
+        "𩜹",
+        "𩝁"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9994",
+            "355515515122134"
+        ],
+        "char_code_wubi": "qnnw",
+        "char_code_cangjie": "nvruc",
+        "char_code_zhengma": "oxeo",
+        "char_code_sijiao": "27781"
+    },
+    "general_unicode": "基本区 U+9994",
+    "general_bs_code": "355515515122134"
+}

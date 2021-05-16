@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "eyebrows; upper margin of book"
+        },
+        {
+            "language": "德语",
+            "explanation": "Augenbraue, Braue  (S)​,Mei  (Eig, Fam)​,oberer Rahmen, oberer freier Rand einer Buchseite  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "sourcil"
+        }
+    ],
+    "general_pinyins": [
+        "méi"
+    ],
+    "general_zhuyins": [
+        "ㄇㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "睂",
+        "𣮮",
+        "𥅉",
+        "𥅕",
+        "𥅮",
+        "𥇮",
+        "𠃜",
+        "𠪃"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7709",
+            "521325111"
+        ],
+        "char_code_wubi": "nhd",
+        "char_code_cangjie": "ahbu",
+        "char_code_zhengma": "xml",
+        "char_code_sijiao": "77267"
+    },
+    "general_unicode": "基本区 U+7709",
+    "general_bs_code": "521325111"
+}

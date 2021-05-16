@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "kind of thick stiff silk"
+        },
+        {
+            "language": "德语",
+            "explanation": "locker gewobene Seide"
+        },
+        {
+            "language": "法语",
+            "explanation": "étoffe légère de soie,lustrine"
+        }
+    ],
+    "general_pinyins": [
+        "juàn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "絹"
+    ],
+    "general_ytz": [
+        "絹"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EE2",
+            "5512512511"
+        ],
+        "char_code_wubi": "xkeg",
+        "char_code_cangjie": "vmrb",
+        "char_code_zhengma": "zjq",
+        "char_code_sijiao": "26127"
+    },
+    "general_unicode": "基本区 U+7EE2",
+    "general_bs_code": "5512512511"
+}

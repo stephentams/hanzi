@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "endure, bear; resist; patient"
+        },
+        {
+            "language": "德语",
+            "explanation": "unerträglich sein, nicht im Stande sein"
+        },
+        {
+            "language": "法语",
+            "explanation": "supporter,endurer"
+        }
+    ],
+    "general_pinyins": [
+        "nài"
+    ],
+    "general_zhuyins": [
+        "ㄋㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "而",
+        "non_radical_sn": "3",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "奈",
+        "耏",
+        "𡬪",
+        "能",
+        "𩈃"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8010",
+            "132522124"
+        ],
+        "char_code_wubi": "dmjf",
+        "char_code_cangjie": "mbdi",
+        "char_code_zhengma": "glds",
+        "char_code_sijiao": "14200"
+    },
+    "general_unicode": "基本区 U+8010",
+    "general_bs_code": "132522124"
+}

@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "harness"
+        }
+    ],
+    "general_pinyins": [
+        "xiǎn"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "革",
+        "non_radical_sn": "14",
+        "total_sn": "23"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䩙",
+        "𩌹",
+        "𩌺",
+        "𩎌",
+        "𩎍",
+        "𩏰"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "97C5",
+            "12212511225115545544444"
+        ],
+        "char_code_wubi": "afjo",
+        "char_code_cangjie": "tjavf",
+        "char_code_zhengma": "eezu",
+        "char_code_sijiao": "46533"
+    },
+    "general_unicode": "基本区 U+97C5",
+    "general_bs_code": "12212511225115545544444"
+}

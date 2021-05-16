@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "boil, cook; quick fry, stir fry"
+        },
+        {
+            "language": "德语",
+            "explanation": "kochen; aufbrühen  (V)​,schnell in Öl braten und würzen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bouillir,cuire"
+        }
+    ],
+    "general_pinyins": [
+        "pēng"
+    ],
+    "general_zhuyins": [
+        "ㄆㄥ"
+    ],
+    "general_radical": {
+        "radical": "灬",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "亨",
+        "𨢶",
+        "𩱋",
+        "𤈽"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "70F9",
+            "41251524444"
+        ],
+        "char_code_wubi": "ybou",
+        "char_code_cangjie": "yrnf",
+        "char_code_zhengma": "sjyu",
+        "char_code_sijiao": "00332"
+    },
+    "general_unicode": "基本区 U+70F9",
+    "general_bs_code": "41251524444"
+}

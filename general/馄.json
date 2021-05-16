@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dumpling soup, wonton"
+        },
+        {
+            "language": "法语",
+            "explanation": "(sorte de ravioli chinois)​"
+        }
+    ],
+    "general_pinyins": [
+        "hún"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "饣",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "餛"
+    ],
+    "general_ytz": [
+        "餛",
+        "䊐"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9984",
+            "35525111535"
+        ],
+        "char_code_wubi": "qnjx",
+        "char_code_cangjie": "nvapp",
+        "char_code_zhengma": "oxrr",
+        "char_code_sijiao": "26712"
+    },
+    "general_unicode": "基本区 U+9984",
+    "general_bs_code": "35525111535"
+}

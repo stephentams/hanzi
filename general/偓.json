@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to fuss"
+        },
+        {
+            "language": "德语",
+            "explanation": "gezwungen ,Wo  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "contraint"
+        }
+    ],
+    "general_pinyins": [
+        "wò"
+    ],
+    "general_zhuyins": [
+        "ㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5053",
+            "32513154121"
+        ],
+        "char_code_wubi": "wngf",
+        "char_code_cangjie": "osmg",
+        "char_code_zhengma": "nxhb",
+        "char_code_sijiao": "27214"
+    },
+    "general_unicode": "基本区 U+5053",
+    "general_bs_code": "32513154121"
+}

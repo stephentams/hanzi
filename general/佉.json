@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "surname; name of a divine being; transliteration of Sanskrit 'kh'"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "qū"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠳞",
+        "祛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4F49",
+            "3212154"
+        ],
+        "char_code_wubi": "wfcy",
+        "char_code_cangjie": "ogi",
+        "char_code_zhengma": "nbzs",
+        "char_code_sijiao": "24232"
+    },
+    "general_unicode": "基本区 U+4F49",
+    "general_bs_code": "3212154"
+}

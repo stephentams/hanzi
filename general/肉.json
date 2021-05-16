@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "flesh; meat; KangXi radical 130"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fleisch (S)​,Radikal Nr. 130 = Fleisch (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "viande,chair,pulpe"
+        }
+    ],
+    "general_pinyins": [
+        "ròu"
+    ],
+    "general_zhuyins": [
+        "ㄖㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "肉",
+        "non_radical_sn": "0",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "宍",
+        "月",
+        "𠕎",
+        "𠕜",
+        "𡧢",
+        "𥤬",
+        "𥤰"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8089",
+            "253434"
+        ],
+        "char_code_wubi": "mwwi",
+        "char_code_cangjie": "obo",
+        "char_code_zhengma": "ldoo",
+        "char_code_sijiao": "40227"
+    },
+    "general_unicode": "基本区 U+8089",
+    "general_bs_code": "253434"
+}

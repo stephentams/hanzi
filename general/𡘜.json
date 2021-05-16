@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "大",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "哭"
+    ],
+    "general_structure": "嵌套结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2161C",
+            "251251134"
+        ],
+        "char_code_wubi": "kkdi",
+        "char_code_cangjie": "rrk",
+        "char_code_zhengma": "jjgd"
+    },
+    "general_unicode": "扩展B U+2161C",
+    "general_bs_code": "251251134"
+}

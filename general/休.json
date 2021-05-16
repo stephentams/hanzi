@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rest, stop; retire; do not!"
+        },
+        {
+            "language": "德语",
+            "explanation": "beenden, sich ausruhen  (V)​,sich ausruhen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cesser,se reposer"
+        }
+    ],
+    "general_pinyins": [
+        "xiū",
+        "xǔ"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄡ",
+        "ㄒㄩˇ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "庥",
+        "烋",
+        "茠",
+        "𠇾",
+        "𠇲"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4F11",
+            "321234"
+        ],
+        "char_code_wubi": "wsy",
+        "char_code_cangjie": "od",
+        "char_code_zhengma": "nfvv",
+        "char_code_sijiao": "24290"
+    },
+    "general_unicode": "基本区 U+4F11",
+    "general_bs_code": "321234"
+}

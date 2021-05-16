@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "valley, gorge, ravine"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 Maserung  (S)​,Tal  (S)​,Gu  (Eig, Fam)​,Radikal Nr. 150 = Tal, Schlucht, Getreide, Hirse, (ungeschälter)​ Reis  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "gǔ"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "谷",
+        "non_radical_sn": "0",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "穀"
+    ],
+    "general_ytz": [
+        "噱",
+        "穀",
+        "𡵾",
+        "䅽",
+        "𠔌"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C37",
+            "3434251"
+        ],
+        "char_code_wubi": "wwkf",
+        "char_code_cangjie": "cor",
+        "char_code_zhengma": "ooj",
+        "char_code_sijiao": "80608"
+    },
+    "general_unicode": "基本区 U+8C37",
+    "general_bs_code": "3434251"
+}

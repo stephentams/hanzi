@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "farewell party; see off, send off"
+        },
+        {
+            "language": "德语",
+            "explanation": "bewahrt, eingemachte"
+        },
+        {
+            "language": "法语",
+            "explanation": "conserves,salaisons,repas d'adieu"
+        }
+    ],
+    "general_pinyins": [
+        "jiàn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "饣",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "餞"
+    ],
+    "general_ytz": [
+        "餞",
+        "䬻"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "996F",
+            "35511534"
+        ],
+        "char_code_wubi": "qngt|qnga",
+        "char_code_cangjie": "nvij",
+        "char_code_zhengma": "oxhm",
+        "char_code_sijiao": "23750"
+    },
+    "general_unicode": "基本区 U+996F",
+    "general_bs_code": "35511534"
+}

@@ -1,0 +1,58 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "evil, wicked, bad, foul"
+        },
+        {
+            "language": "德语",
+            "explanation": "Übeltat, Laster, Verbrechen  (S)​,böse, grausam, erbittert  (Adj)​,schlecht, übel  (Adj)​,hassen, nicht mögen ,verabscheuen"
+        },
+        {
+            "language": "法语",
+            "explanation": "mal,mauvais,méchant,vicieux,haïr,détestable"
+        }
+    ],
+    "general_pinyins": [
+        "è",
+        "wù",
+        "ě",
+        "wū"
+    ],
+    "general_zhuyins": [
+        "ㄜˋ",
+        "ㄨˋ",
+        "ㄜˇ",
+        "ㄨ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "惡"
+    ],
+    "general_ytz": [
+        "噁",
+        "惡",
+        "悪",
+        "僫",
+        "𡌥",
+        "𢙣",
+        "𢝏"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6076",
+            "1224314544"
+        ],
+        "char_code_wubi": "gogn|gonu",
+        "char_code_cangjie": "mcp",
+        "char_code_zhengma": "akwz",
+        "char_code_sijiao": "10331"
+    },
+    "general_unicode": "基本区 U+6076",
+    "general_bs_code": "1224314544"
+}

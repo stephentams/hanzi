@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sweet smelling, rich in aroma; (Cant.) to move, hit"
+        },
+        {
+            "language": "德语",
+            "explanation": "elegant, elegante ,Yu  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "triste,mélancolique,stagnant,réprimé"
+        }
+    ],
+    "general_pinyins": [
+        "yù"
+    ],
+    "general_zhuyins": [
+        "ㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "鬱"
+    ],
+    "general_ytz": [
+        "𨚼",
+        "𨟝",
+        "鬱",
+        "欝",
+        "𦉚",
+        "𩰪"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "90C1",
+            "13251152"
+        ],
+        "char_code_wubi": "debh",
+        "char_code_cangjie": "kbnl",
+        "char_code_zhengma": "gdqy",
+        "char_code_sijiao": "47227"
+    },
+    "general_unicode": "基本区 U+90C1",
+    "general_bs_code": "13251152"
+}

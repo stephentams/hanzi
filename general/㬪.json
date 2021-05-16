@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(a variant of 疊) to fold up, to repeat, to duplicate"
+        }
+    ],
+    "general_pinyins": [
+        "dié",
+        "zhì"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧㄝˊ",
+        "ㄓˋ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "14",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "疊"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3B2A",
+            "251125112511445551"
+        ],
+        "char_code_wubi": "jjjg|jjjx",
+        "char_code_cangjie": "aaam",
+        "char_code_zhengma": "kkwz",
+        "char_code_sijiao": "60102"
+    },
+    "general_unicode": "扩展A U+3B2A",
+    "general_bs_code": "251125112511445551"
+}

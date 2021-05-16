@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "clan, family; mister"
+        },
+        {
+            "language": "德语",
+            "explanation": "Name  (S)​,Shi  (Eig, Fam)​,er ,Frau ... ,Herr ... ,ich (eine Frau)​ ,Mädchenname der Frau ,sie ,Radikal Nr. 83 = Familie, Familienname, geboren, Sippe  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "shì",
+        "zhī"
+    ],
+    "general_zhuyins": [
+        "ㄕˋ",
+        "ㄓ"
+    ],
+    "general_radical": {
+        "radical": "氏",
+        "non_radical_sn": "0",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠂩",
+        "𧦄"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6C0F",
+            "3515"
+        ],
+        "char_code_wubi": "qav",
+        "char_code_cangjie": "hvp",
+        "char_code_zhengma": "rh",
+        "char_code_sijiao": "72740"
+    },
+    "general_unicode": "基本区 U+6C0F",
+    "general_bs_code": "3515"
+}

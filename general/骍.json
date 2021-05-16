@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "red, brown, bay; neat, harmonious"
+        }
+    ],
+    "general_pinyins": [
+        "xīng"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄥ"
+    ],
+    "general_radical": {
+        "radical": "马",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "騂"
+    ],
+    "general_ytz": [
+        "騂",
+        "𤛫",
+        "𩤑",
+        "𩥍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A8D",
+            "5514143112"
+        ],
+        "char_code_wubi": "cuh|cguh",
+        "char_code_cangjie": "nmytj",
+        "char_code_zhengma": "xse",
+        "char_code_sijiao": "70141"
+    },
+    "general_unicode": "基本区 U+9A8D",
+    "general_bs_code": "5514143112"
+}

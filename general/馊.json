@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "spoiled, rotten, stale, rancid"
+        },
+        {
+            "language": "法语",
+            "explanation": "aigre,gâté"
+        }
+    ],
+    "general_pinyins": [
+        "sōu"
+    ],
+    "general_zhuyins": [
+        "ㄙㄡ"
+    ],
+    "general_radical": {
+        "radical": "饣",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "餿"
+    ],
+    "general_ytz": [
+        "餿"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "998A",
+            "355321511254"
+        ],
+        "char_code_wubi": "qnvc|qnec",
+        "char_code_cangjie": "nvhxe",
+        "char_code_zhengma": "oxnx",
+        "char_code_sijiao": "27747"
+    },
+    "general_unicode": "基本区 U+998A",
+    "general_bs_code": "355321511254"
+}

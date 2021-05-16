@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 軨) frames on the sides and front of a carriage, wheels of a carriage"
+        }
+    ],
+    "general_pinyins": [
+        "líng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "車",
+        "non_radical_sn": "17",
+        "total_sn": "24"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "軨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "487C",
+            "125111214524444251251251"
+        ],
+        "char_code_wubi": "lfkk",
+        "char_code_cangjie": "jjmbr",
+        "char_code_zhengma": "fkjj",
+        "char_code_sijiao": "51061"
+    },
+    "general_unicode": "扩展A U+487C",
+    "general_bs_code": "125111214524444251251251"
+}

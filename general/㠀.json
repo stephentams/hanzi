@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 島) island; isle"
+        }
+    ],
+    "general_pinyins": [
+        "dǎo"
+    ],
+    "general_zhuyins": [
+        "ㄉㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "島"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3800",
+            "3251115444252"
+        ],
+        "char_code_wubi": "wvgm|qomj",
+        "char_code_cangjie": "hfu",
+        "char_code_zhengma": "rzll",
+        "char_code_sijiao": "27772"
+    },
+    "general_unicode": "扩展A U+3800",
+    "general_bs_code": "3251115444252"
+}

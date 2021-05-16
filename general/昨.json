@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "yesterday; in former times, past"
+        },
+        {
+            "language": "德语",
+            "explanation": "gestern"
+        },
+        {
+            "language": "法语",
+            "explanation": "hier"
+        }
+    ],
+    "general_pinyins": [
+        "zuó"
+    ],
+    "general_zhuyins": [
+        "ㄗㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6628",
+            "251131211"
+        ],
+        "char_code_wubi": "jthf",
+        "char_code_cangjie": "aos",
+        "char_code_zhengma": "kmid",
+        "char_code_sijiao": "68011"
+    },
+    "general_unicode": "基本区 U+6628",
+    "general_bs_code": "251131211"
+}

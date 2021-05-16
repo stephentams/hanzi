@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to press down heavily with the fingers"
+        },
+        {
+            "language": "德语",
+            "explanation": "nach rechts gezeichneter Kalligraphiestrich (English: downwards-right concave character stroke)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "presser avec la main,piquer,rembourrer,(trait d'un sinogramme, concave du haut vers le bas, de gauche à droite)​"
+        }
+    ],
+    "general_pinyins": [
+        "nà"
+    ],
+    "general_zhuyins": [
+        "ㄋㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "637A",
+            "12113411234"
+        ],
+        "char_code_wubi": "rdfi",
+        "char_code_cangjie": "qkmf",
+        "char_code_zhengma": "dgbk",
+        "char_code_sijiao": "54091"
+    },
+    "general_unicode": "基本区 U+637A",
+    "general_bs_code": "12113411234"
+}

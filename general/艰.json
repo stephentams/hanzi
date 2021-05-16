@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "difficult, hard; distressing"
+        },
+        {
+            "language": "德语",
+            "explanation": "schwer ,Gefahr  (S)​,Geldnot  (S)​,Mühsal  (S)​,Not  (S)​,Notbremse  (S)​,Notfall  (S)​,Nothilfe  (S)​,Notruf  (S)​,notwendig  (S)​,Raumnot  (S)​,Wassernot  (S)​,Wohnungsnot  (S)​,Zeitnot  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "difficile,dur"
+        }
+    ],
+    "general_pinyins": [
+        "jiān"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "艮",
+        "non_radical_sn": "2",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "艱"
+    ],
+    "general_ytz": [
+        "艱",
+        "囏",
+        "𡅤",
+        "𡅸",
+        "𦫒"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8270",
+            "54511534"
+        ],
+        "char_code_wubi": "cvey|cvy",
+        "char_code_cangjie": "eav",
+        "char_code_zhengma": "xsxo",
+        "char_code_sijiao": "77432"
+    },
+    "general_unicode": "基本区 U+8270",
+    "general_bs_code": "54511534"
+}

@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "large rope, cable; rules, laws; to demand, to exact; to search, inquire; isolated"
+        },
+        {
+            "language": "德语",
+            "explanation": "Strick  (S)​,suchen, fordern"
+        },
+        {
+            "language": "法语",
+            "explanation": "chercher,réclamer,corde"
+        }
+    ],
+    "general_pinyins": [
+        "suǒ"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨㄛˇ"
+    ],
+    "general_radical": {
+        "radical": "糸",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䌇",
+        "𡩡",
+        "𢱢",
+        "𥿟",
+        "𥿿",
+        "𦃦",
+        "索"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7D22",
+            "1245554234"
+        ],
+        "char_code_wubi": "fpxi",
+        "char_code_cangjie": "jbvif",
+        "char_code_zhengma": "edwz",
+        "char_code_sijiao": "40903"
+    },
+    "general_unicode": "基本区 U+7D22",
+    "general_bs_code": "1245554234"
+}

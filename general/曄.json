@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bright; radiant; thriving"
+        },
+        {
+            "language": "德语",
+            "explanation": "funkeln"
+        },
+        {
+            "language": "法语",
+            "explanation": "lumière vive,briller"
+        }
+    ],
+    "general_pinyins": [
+        "yè"
+    ],
+    "general_zhuyins": [
+        "ㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "11",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "晔"
+    ],
+    "general_ytz": [
+        "晔",
+        "曅",
+        "曗",
+        "爗",
+        "𣊚",
+        "𣋌",
+        "𣋓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "66C4",
+            "251112211212112"
+        ],
+        "char_code_wubi": "jagf|jagg",
+        "char_code_cangjie": "atmj",
+        "char_code_zhengma": "keeb",
+        "char_code_sijiao": "64054"
+    },
+    "general_unicode": "基本区 U+66C4",
+    "general_bs_code": "251112211212112"
+}

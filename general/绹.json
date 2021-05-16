@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to braid, twist; twisted or braided"
+        },
+        {
+            "language": "德语",
+            "explanation": "binden, verbinden"
+        },
+        {
+            "language": "法语",
+            "explanation": "lien,corde,tortillon,lien,corde,tortillon"
+        }
+    ],
+    "general_pinyins": [
+        "táo"
+    ],
+    "general_zhuyins": [
+        "ㄊㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "綯"
+    ],
+    "general_ytz": [
+        "綯",
+        "𥿐",
+        "𦃥"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EF9",
+            "55135311252"
+        ],
+        "char_code_wubi": "xqrm|xqtb",
+        "char_code_cangjie": "vmpou",
+        "char_code_zhengma": "zrez",
+        "char_code_sijiao": "27120"
+    },
+    "general_unicode": "基本区 U+7EF9",
+    "general_bs_code": "55135311252"
+}

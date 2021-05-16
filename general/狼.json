@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wolf"
+        },
+        {
+            "language": "德语",
+            "explanation": "Wolf  (S, Bio)​,Lang  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "loup,féroce"
+        }
+    ],
+    "general_pinyins": [
+        "láng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤠸",
+        "狼"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "72FC",
+            "3534511534"
+        ],
+        "char_code_wubi": "qtye|qtyv",
+        "char_code_cangjie": "khiav",
+        "char_code_zhengma": "qmsx",
+        "char_code_sijiao": "43232"
+    },
+    "general_unicode": "基本区 U+72FC",
+    "general_bs_code": "3534511534"
+}

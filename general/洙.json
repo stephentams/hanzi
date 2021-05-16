@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "name of a river in Shandong"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom de famille)​,(nom d'une rivière)​"
+        }
+    ],
+    "general_pinyins": [
+        "zhū"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6D19",
+            "441311234"
+        ],
+        "char_code_wubi": "iriy|itfy",
+        "char_code_cangjie": "ehjd",
+        "char_code_zhengma": "vmko",
+        "char_code_sijiao": "35190"
+    },
+    "general_unicode": "基本区 U+6D19",
+    "general_bs_code": "441311234"
+}

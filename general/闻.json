@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hear; smell; make known; news"
+        },
+        {
+            "language": "德语",
+            "explanation": "riechen, hören (V)​,Wen (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "entendre,sentir (une odeur)​,information"
+        }
+    ],
+    "general_pinyins": [
+        "wén"
+    ],
+    "general_zhuyins": [
+        "ㄨㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "门",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "聞"
+    ],
+    "general_ytz": [
+        "聞",
+        "䎹",
+        "䎽",
+        "𥹢",
+        "𦕁",
+        "𦕌",
+        "𦖫",
+        "𪖴"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "95FB",
+            "425122111"
+        ],
+        "char_code_wubi": "ubd",
+        "char_code_cangjie": "lssj",
+        "char_code_zhengma": "tlce",
+        "char_code_sijiao": "37401"
+    },
+    "general_unicode": "基本区 U+95FB",
+    "general_bs_code": "425122111"
+}

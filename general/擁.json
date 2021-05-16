@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "embrace, hug, squeeze; crowd"
+        },
+        {
+            "language": "德语",
+            "explanation": "fördern, stützen ,halten, festhalten ,Gedränge  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "embrasser,étreindre,posséder,disposer de,se ruer vers,affluer vers"
+        }
+    ],
+    "general_pinyins": [
+        "yōng"
+    ],
+    "general_zhuyins": [
+        "ㄩㄥ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "拥"
+    ],
+    "general_ytz": [
+        "㨣",
+        "拥",
+        "𢶜",
+        "𢹬",
+        "𢹭",
+        "𢺠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "64C1",
+            "1214155332411121"
+        ],
+        "char_code_wubi": "ryxy",
+        "char_code_cangjie": "qyvg",
+        "char_code_zhengma": "dszn",
+        "char_code_sijiao": "50015"
+    },
+    "general_unicode": "基本区 U+64C1",
+    "general_bs_code": "1214155332411121"
+}

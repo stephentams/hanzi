@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cup; pot; bowl; abundant"
+        },
+        {
+            "language": "德语",
+            "explanation": "reichlich  (Adj)​,Schale, Schüssel, Pot"
+        },
+        {
+            "language": "法语",
+            "explanation": "abondant,vase de terre cuite à large panse et ouverture étroite,cruche"
+        }
+    ],
+    "general_pinyins": [
+        "àng"
+    ],
+    "general_zhuyins": [
+        "ㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "皿",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㼜",
+        "𤬺",
+        "𤭹"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "76CE",
+            "2513425221"
+        ],
+        "char_code_wubi": "mdlf",
+        "char_code_cangjie": "lkbt",
+        "char_code_zhengma": "ldgl",
+        "char_code_sijiao": "50102"
+    },
+    "general_unicode": "基本区 U+76CE",
+    "general_bs_code": "2513425221"
+}

@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cracking of tile"
+        }
+    ],
+    "general_pinyins": [
+        "xiè"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "瓦",
+        "non_radical_sn": "17",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤮶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3F4A",
+            "411125143344334541554"
+        ],
+        "char_code_wubi": "oyon|yooy",
+        "char_code_cangjie": "femvn",
+        "char_code_zhengma": "uoys",
+        "char_code_sijiao": "91417"
+    },
+    "general_unicode": "扩展A U+3F4A",
+    "general_bs_code": "411125143344334541554"
+}

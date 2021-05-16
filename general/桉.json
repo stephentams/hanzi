@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "法语",
+            "explanation": "eucalyptus globulus"
+        }
+    ],
+    "general_pinyins": [
+        "ān"
+    ],
+    "general_zhuyins": [
+        "ㄢ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "案"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6849",
+            "1234445531"
+        ],
+        "char_code_wubi": "spvg",
+        "char_code_cangjie": "djv",
+        "char_code_zhengma": "fwzm",
+        "char_code_sijiao": "43944"
+    },
+    "general_unicode": "基本区 U+6849",
+    "general_bs_code": "1234445531"
+}

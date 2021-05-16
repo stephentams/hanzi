@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mountain range; pointed mountain"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gebirgsgebiet"
+        },
+        {
+            "language": "法语",
+            "explanation": "cime"
+        }
+    ],
+    "general_pinyins": [
+        "luán"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "19",
+        "total_sn": "22"
+    },
+    "general_stc": [
+        "峦"
+    ],
+    "general_ytz": [
+        "峦"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5DD2",
+            "4111251554444554444252"
+        ],
+        "char_code_wubi": "xyxm|yxxm",
+        "char_code_cangjie": "vfu",
+        "char_code_zhengma": "zsll",
+        "char_code_sijiao": "22772"
+    },
+    "general_unicode": "基本区 U+5DD2",
+    "general_bs_code": "4111251554444554444252"
+}

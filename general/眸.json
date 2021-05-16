@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pupil of eye; eye"
+        },
+        {
+            "language": "德语",
+            "explanation": "Pupille, Auge (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "pupille de l'oeil"
+        }
+    ],
+    "general_pinyins": [
+        "móu"
+    ],
+    "general_zhuyins": [
+        "ㄇㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "牟"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7738",
+            "25111543112"
+        ],
+        "char_code_wubi": "hcrh|hctg",
+        "char_code_cangjie": "buihq",
+        "char_code_zhengma": "lzmb",
+        "char_code_sijiao": "63050"
+    },
+    "general_unicode": "基本区 U+7738",
+    "general_bs_code": "25111543112"
+}

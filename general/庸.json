@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "usual, common, ordinary, mediocre"
+        },
+        {
+            "language": "德语",
+            "explanation": "mittelmäßig  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "médiocre"
+        }
+    ],
+    "general_pinyins": [
+        "yōng"
+    ],
+    "general_zhuyins": [
+        "ㄩㄥ"
+    ],
+    "general_radical": {
+        "radical": "广",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "傭",
+        "𠆌",
+        "𠭻",
+        "𦤘",
+        "慵",
+        "㐯",
+        "𧆿"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5EB8",
+            "41351125112"
+        ],
+        "char_code_wubi": "yveh|oveh",
+        "char_code_cangjie": "ilb",
+        "char_code_zhengma": "tgxl",
+        "char_code_sijiao": "00227"
+    },
+    "general_unicode": "基本区 U+5EB8",
+    "general_bs_code": "41351125112"
+}

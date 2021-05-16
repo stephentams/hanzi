@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "throat, gullet, larynx; guttural"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gicht, Ventilbohrungskehle  (S)​,Gurgel  (S)​,Kehle, Kehlkopf  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "hóu"
+    ],
+    "general_zhuyins": [
+        "ㄏㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㗋",
+        "𦞕"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5589",
+            "251325131134"
+        ],
+        "char_code_wubi": "kwnd",
+        "char_code_cangjie": "ronk",
+        "char_code_zhengma": "jnxm",
+        "char_code_sijiao": "67084"
+    },
+    "general_unicode": "基本区 U+5589",
+    "general_bs_code": "251325131134"
+}

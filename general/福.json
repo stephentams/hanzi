@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "happiness, good fortune, blessing"
+        },
+        {
+            "language": "德语",
+            "explanation": "Glück, glückbringend"
+        },
+        {
+            "language": "法语",
+            "explanation": "bonheur,bonne fortune,chance,bénédiction"
+        }
+    ],
+    "general_pinyins": [
+        "fú"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "礻",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "副",
+        "畗",
+        "𤔜",
+        "福"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "798F",
+            "4524125125121"
+        ],
+        "char_code_wubi": "pygl",
+        "char_code_cangjie": "ifmrw",
+        "char_code_zhengma": "wsjk",
+        "char_code_sijiao": "31266"
+    },
+    "general_unicode": "基本区 U+798F",
+    "general_bs_code": "4524125125121"
+}

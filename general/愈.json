@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "more and more, even more"
+        },
+        {
+            "language": "德语",
+            "explanation": "愈多愈好 je mehr, desto besser ,bessern, besser werden  (V)​,entdecken, wiederherstellen  (V)"
+        }
+    ],
+    "general_pinyins": [
+        "yù"
+    ],
+    "general_zhuyins": [
+        "ㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "瘉",
+        "癒",
+        "踰",
+        "逾",
+        "愈",
+        "𠃄",
+        "𡩗",
+        "𢠚"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6108",
+            "3412511224544"
+        ],
+        "char_code_wubi": "wgen",
+        "char_code_cangjie": "ombp",
+        "char_code_zhengma": "odkw",
+        "char_code_sijiao": "80332"
+    },
+    "general_unicode": "基本区 U+6108",
+    "general_bs_code": "3412511224544"
+}

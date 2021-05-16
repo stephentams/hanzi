@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "jump, leap, vault, bounce; dance"
+        },
+        {
+            "language": "德语",
+            "explanation": "springen, hüpfen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "sauter,bondir,palpiter,battre"
+        }
+    ],
+    "general_pinyins": [
+        "tiào",
+        "táo"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧㄠˋ",
+        "ㄊㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "6",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䂽",
+        "䟭",
+        "𧿮",
+        "𨁓",
+        "𨁔",
+        "𨃜",
+        "逃",
+        "趒",
+        "𣆷"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8DF3",
+            "2512121341534"
+        ],
+        "char_code_wubi": "khiq|khqi",
+        "char_code_cangjie": "rmlmo",
+        "char_code_zhengma": "jivr",
+        "char_code_sijiao": "62113"
+    },
+    "general_unicode": "基本区 U+8DF3",
+    "general_bs_code": "2512121341534"
+}

@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ice, frost, icicles; cold"
+        }
+    ],
+    "general_pinyins": [
+        "bīng"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄥ"
+    ],
+    "general_radical": {
+        "radical": "水",
+        "non_radical_sn": "1",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "冰"
+    ],
+    "general_structure": "嵌套结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6C37",
+            "42534"
+        ],
+        "char_code_wubi": "yii",
+        "char_code_cangjie": "ie",
+        "char_code_zhengma": "skv",
+        "char_code_sijiao": "32900"
+    },
+    "general_unicode": "基本区 U+6C37",
+    "general_bs_code": "42534"
+}

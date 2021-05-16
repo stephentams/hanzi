@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "the shoulder, shoulder blade"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schulterblatt  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "omoplate"
+        }
+    ],
+    "general_pinyins": [
+        "jiǎ"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄚˇ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𩨹",
+        "甲"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "80DB",
+            "351125112"
+        ],
+        "char_code_wubi": "elh",
+        "char_code_cangjie": "bwl",
+        "char_code_zhengma": "qkib",
+        "char_code_sijiao": "76250"
+    },
+    "general_unicode": "基本区 U+80DB",
+    "general_bs_code": "351125112"
+}

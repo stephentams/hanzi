@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hop, jump; hurriedly, urgently"
+        },
+        {
+            "language": "德语",
+            "explanation": "abspringen, springen ,Staffelung, abstufen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "sauter"
+        }
+    ],
+    "general_pinyins": [
+        "liáng",
+        "liàng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄤˊ",
+        "ㄌㄧㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "7",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E09",
+            "25121214511534"
+        ],
+        "char_code_wubi": "khye|khyv",
+        "char_code_cangjie": "rmiav",
+        "char_code_zhengma": "jisx",
+        "char_code_sijiao": "63132"
+    },
+    "general_unicode": "基本区 U+8E09",
+    "general_bs_code": "25121214511534"
+}

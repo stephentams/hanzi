@@ -1,0 +1,26 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "孀"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3700",
+            "531123425111"
+        ],
+        "char_code_wubi": "vshg",
+        "char_code_cangjie": "vdbu",
+        "char_code_zhengma": "zmfl",
+        "char_code_sijiao": "46400"
+    },
+    "general_unicode": "扩展A U+3700",
+    "general_bs_code": "531123425111"
+}

@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "swarm, crowd together, cluster"
+        },
+        {
+            "language": "德语",
+            "explanation": "Haufen; Bündel"
+        },
+        {
+            "language": "法语",
+            "explanation": "faisceau,bouquet"
+        }
+    ],
+    "general_pinyins": [
+        "cù"
+    ],
+    "general_zhuyins": [
+        "ㄘㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "11",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7C07",
+            "31431441533131134"
+        ],
+        "char_code_wubi": "tytd",
+        "char_code_cangjie": "hysk",
+        "char_code_zhengma": "msmm",
+        "char_code_sijiao": "88284"
+    },
+    "general_unicode": "基本区 U+7C07",
+    "general_bs_code": "31431441533131134"
+}

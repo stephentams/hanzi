@@ -1,0 +1,30 @@
+{
+    "general_pinyins": [
+        "chēng",
+        "chèng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄥ",
+        "ㄔㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "牙",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "725A",
+            "243452511523"
+        ],
+        "char_code_wubi": "ipkt",
+        "char_code_cangjie": "fbrmh",
+        "char_code_zhengma": "kojh",
+        "char_code_sijiao": "90241"
+    },
+    "general_unicode": "基本区 U+725A",
+    "general_bs_code": "243452511523"
+}

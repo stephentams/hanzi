@@ -1,0 +1,60 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "eat heartily; eat one's fill"
+        },
+        {
+            "language": "德语",
+            "explanation": "satt, gesättigt  (Adj)​,befriedigen, genügen, zufriedenstellen  (V)​,reichlich, ausreichend, hinlänglich  (Adj)​,voll, prall  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "rassasié,assouvi,repu,plein,rebondi,satisfait"
+        }
+    ],
+    "general_pinyins": [
+        "bǎo"
+    ],
+    "general_zhuyins": [
+        "ㄅㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "饣",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "飽"
+    ],
+    "general_ytz": [
+        "飽",
+        "飹",
+        "䭋",
+        "𨩭",
+        "𩛁",
+        "𩛊",
+        "𩛒",
+        "𩛞",
+        "𩛴",
+        "𩜕",
+        "𩜿",
+        "𩝒",
+        "𩝓",
+        "𩝩",
+        "𩞛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9971",
+            "35535515"
+        ],
+        "char_code_wubi": "qnqn",
+        "char_code_cangjie": "nvpru",
+        "char_code_zhengma": "oxry",
+        "char_code_sijiao": "27712"
+    },
+    "general_unicode": "基本区 U+9971",
+    "general_bs_code": "35535515"
+}

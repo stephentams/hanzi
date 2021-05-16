@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bag, valise; stuff, pad; surname"
+        },
+        {
+            "language": "德语",
+            "explanation": "Chu (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom de famille)​,rembourrage (vêtements)​"
+        }
+    ],
+    "general_pinyins": [
+        "zhǔ",
+        "chǔ"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨˇ",
+        "ㄔㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "衤",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧝙",
+        "禇"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "891A",
+            "4523412132511"
+        ],
+        "char_code_wubi": "pufj",
+        "char_code_cangjie": "ljka",
+        "char_code_zhengma": "wtbm",
+        "char_code_sijiao": "34260"
+    },
+    "general_unicode": "基本区 U+891A",
+    "general_bs_code": "4523412132511"
+}

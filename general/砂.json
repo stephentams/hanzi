@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sand; pebbles, gravel; gritty"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kies  (S)​,Sand  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "sable,gravier"
+        }
+    ],
+    "general_pinyins": [
+        "shā"
+    ],
+    "general_zhuyins": [
+        "ㄕㄚ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "沙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7802",
+            "132512343"
+        ],
+        "char_code_wubi": "ditt",
+        "char_code_cangjie": "mrfh",
+        "char_code_zhengma": "gkm",
+        "char_code_sijiao": "19620"
+    },
+    "general_unicode": "基本区 U+7802",
+    "general_bs_code": "132512343"
+}

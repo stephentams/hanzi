@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "arrow with attached silk cord"
+        }
+    ],
+    "general_pinyins": [
+        "zēng"
+    ],
+    "general_zhuyins": [
+        "ㄗㄥ"
+    ],
+    "general_radical": {
+        "radical": "矢",
+        "non_radical_sn": "12",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢎒",
+        "𢨉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "77F0",
+            "31134432524312511"
+        ],
+        "char_code_wubi": "tduj",
+        "char_code_cangjie": "okcwa",
+        "char_code_zhengma": "malk",
+        "char_code_sijiao": "88866"
+    },
+    "general_unicode": "基本区 U+77F0",
+    "general_bs_code": "31134432524312511"
+}

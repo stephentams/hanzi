@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dim-sighted; dull, bewildered"
+        },
+        {
+            "language": "法语",
+            "explanation": "qui a une mauvaise vue"
+        }
+    ],
+    "general_pinyins": [
+        "mào"
+    ],
+    "general_zhuyins": [
+        "ㄇㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "毣",
+        "𥉗"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "770A",
+            "251113115"
+        ],
+        "char_code_wubi": "htfn|hen",
+        "char_code_cangjie": "buhqu",
+        "char_code_zhengma": "lmh",
+        "char_code_sijiao": "62014"
+    },
+    "general_unicode": "基本区 U+770A",
+    "general_bs_code": "251113115"
+}

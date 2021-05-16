@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "accuse, blame, curse, scold"
+        }
+    ],
+    "general_pinyins": [
+        "mà"
+    ],
+    "general_zhuyins": [
+        "ㄇㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "马",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "罵",
+        "駡"
+    ],
+    "general_ytz": [
+        "駡",
+        "罵",
+        "𦋻",
+        "𩡿"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A82",
+            "251251551"
+        ],
+        "char_code_wubi": "kkcf|kkcg",
+        "char_code_cangjie": "rrnvm",
+        "char_code_zhengma": "jjx",
+        "char_code_sijiao": "66127"
+    },
+    "general_unicode": "基本区 U+9A82",
+    "general_bs_code": "251251551"
+}

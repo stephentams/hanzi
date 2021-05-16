@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a department in the State of Lu; in what is now Shantung or N. China"
+        },
+        {
+            "language": "德语",
+            "explanation": "Familienname  (Eig)"
+        }
+    ],
+    "general_pinyins": [
+        "pī"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "岯",
+        "妚",
+        "𨛧",
+        "𨚀",
+        "𨚸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "90B3",
+            "1324152"
+        ],
+        "char_code_wubi": "gigb|dhgb",
+        "char_code_cangjie": "mmnl",
+        "char_code_zhengma": "giay",
+        "char_code_sijiao": "17127"
+    },
+    "general_unicode": "基本区 U+90B3",
+    "general_bs_code": "1324152"
+}

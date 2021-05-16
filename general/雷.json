@@ -1,0 +1,56 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "thunder"
+        },
+        {
+            "language": "德语",
+            "explanation": "Lei  (Eig, Fam)​,Donner"
+        },
+        {
+            "language": "法语",
+            "explanation": "tonnerre,écho,terrifiant,terrible,(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "léi"
+    ],
+    "general_zhuyins": [
+        "ㄌㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "雨",
+        "non_radical_sn": "5",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "擂",
+        "㗊",
+        "䨓",
+        "畾",
+        "靁",
+        "𤳳",
+        "𤴌",
+        "𤴐",
+        "𤴑",
+        "𩂩",
+        "𩄣",
+        "𩇓",
+        "雷"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "96F7",
+            "1452444425121"
+        ],
+        "char_code_wubi": "flf",
+        "char_code_cangjie": "mbw",
+        "char_code_zhengma": "fvki",
+        "char_code_sijiao": "10601"
+    },
+    "general_unicode": "基本区 U+96F7",
+    "general_bs_code": "1452444425121"
+}

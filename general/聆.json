@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "listen, hear"
+        },
+        {
+            "language": "德语",
+            "explanation": "hören, zuhören  (V)​,lauschen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "écouter,entendre,obéir"
+        }
+    ],
+    "general_pinyins": [
+        "líng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "耳",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䠲",
+        "令",
+        "𨉄",
+        "聆"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8046",
+            "12211134454"
+        ],
+        "char_code_wubi": "bwyc",
+        "char_code_cangjie": "sjoii",
+        "char_code_zhengma": "ceow",
+        "char_code_sijiao": "18432"
+    },
+    "general_unicode": "基本区 U+8046",
+    "general_bs_code": "12211134454"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rob, ransack, plunder; pass by"
+        },
+        {
+            "language": "德语",
+            "explanation": "Beute, Beute machen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "piller,prendre de force,effleurer,raser"
+        }
+    ],
+    "general_pinyins": [
+        "lüè"
+    ],
+    "general_zhuyins": [
+        "ㄌㄩㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㨼",
+        "剠",
+        "𢱊",
+        "稤",
+        "掠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "63A0",
+            "12141251234"
+        ],
+        "char_code_wubi": "ryiy",
+        "char_code_cangjie": "qyrf",
+        "char_code_zhengma": "dsjk",
+        "char_code_sijiao": "50096"
+    },
+    "general_unicode": "基本区 U+63A0",
+    "general_bs_code": "12141251234"
+}

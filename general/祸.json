@@ -1,0 +1,65 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "misfortune, calamity, disaster"
+        },
+        {
+            "language": "德语",
+            "explanation": "Desaster, Katastrophe  (S)​,Unglück, Unheil  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "causer du malheur à,malheur,désastre,catastrophe"
+        }
+    ],
+    "general_pinyins": [
+        "huò"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "礻",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "禍"
+    ],
+    "general_ytz": [
+        "禍",
+        "旤",
+        "䄀",
+        "𢢸",
+        "𣄸",
+        "𣨱",
+        "𣨷",
+        "𥙯",
+        "𥚁",
+        "𥚍",
+        "𥚟",
+        "𥚣",
+        "𥚽",
+        "𥛔",
+        "𧙹",
+        "𧛂",
+        "𧜓",
+        "𨉒",
+        "𨉵",
+        "𨊇"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7978",
+            "45242512534"
+        ],
+        "char_code_wubi": "pykw",
+        "char_code_cangjie": "ifrob",
+        "char_code_zhengma": "wslo",
+        "char_code_sijiao": "36227"
+    },
+    "general_unicode": "基本区 U+7978",
+    "general_bs_code": "45242512534"
+}

@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "look, see; examine, scrutinize"
+        },
+        {
+            "language": "德语",
+            "explanation": "sehen, schauen, etw. ansehen, etw. anschauen, blicken (V)​,bei jdn vorbeischauen, besuchen (V)​,betrachten (V)​,lesen (V)​,nach jdn. sehen, auf jd. aufpassen (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "garder,soigner,surveiller,voir,regarder,lire,considérer comme,voir que,traiter en tant que,juger,considérer,estimer,traiter,soigner"
+        }
+    ],
+    "general_pinyins": [
+        "kàn",
+        "kān"
+    ],
+    "general_zhuyins": [
+        "ㄎㄢˋ",
+        "ㄎㄢ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡈟",
+        "𡰶",
+        "𥉏",
+        "𨌁",
+        "㸔"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "770B",
+            "311325111"
+        ],
+        "char_code_wubi": "rhf",
+        "char_code_cangjie": "hqbu",
+        "char_code_zhengma": "mdl",
+        "char_code_sijiao": "20605"
+    },
+    "general_unicode": "基本区 U+770B",
+    "general_bs_code": "311325111"
+}

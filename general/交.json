@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mix; intersect; exchange, communicate; deliver"
+        },
+        {
+            "language": "德语",
+            "explanation": "abgeben, übergeben, austauschen  (V)​,mit jmd. Umgang haben"
+        },
+        {
+            "language": "法语",
+            "explanation": "jonction,rencontre,acquitter,donner,livrer,remettre,échanger,se croiser,nouer des relations,s'associer,amitié"
+        }
+    ],
+    "general_pinyins": [
+        "jiāo"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "亠",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㬵",
+        "胶",
+        "跤",
+        "䢒",
+        "𨓩"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4EA4",
+            "413434"
+        ],
+        "char_code_wubi": "uqu|uru",
+        "char_code_cangjie": "yck",
+        "char_code_zhengma": "soos",
+        "char_code_sijiao": "00408"
+    },
+    "general_unicode": "基本区 U+4EA4",
+    "general_bs_code": "413434"
+}

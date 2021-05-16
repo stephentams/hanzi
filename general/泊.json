@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "anchor vessel; lie at anchor"
+        },
+        {
+            "language": "法语",
+            "explanation": "lac,mouiller,jeter l'ancre,s'amarrer"
+        }
+    ],
+    "general_pinyins": [
+        "bó",
+        "pō"
+    ],
+    "general_zhuyins": [
+        "ㄅㄛˊ",
+        "ㄆㄛ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "洦",
+        "淿",
+        "湐",
+        "濼",
+        "𣶊",
+        "薄"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6CCA",
+            "44132511"
+        ],
+        "char_code_wubi": "irg",
+        "char_code_cangjie": "eha",
+        "char_code_zhengma": "vnk",
+        "char_code_sijiao": "36102"
+    },
+    "general_unicode": "基本区 U+6CCA",
+    "general_bs_code": "44132511"
+}

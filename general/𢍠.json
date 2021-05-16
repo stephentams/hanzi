@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "廾",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "契"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "22360",
+            "121121354132"
+        ],
+        "char_code_wubi": "ffva",
+        "char_code_cangjie": "git",
+        "char_code_zhengma": "bbqe"
+    },
+    "general_unicode": "扩展B U+22360",
+    "general_bs_code": "121121354132"
+}

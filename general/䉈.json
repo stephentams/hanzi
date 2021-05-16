@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a kind of bamboo with a red skin; it is used for fine mats and other purposes"
+        }
+    ],
+    "general_pinyins": [
+        "sǎn"
+    ],
+    "general_zhuyins": [
+        "ㄙㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "12",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥷭"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4248",
+            "314314122125113134"
+        ],
+        "char_code_wubi": "taet",
+        "char_code_cangjie": "htbk",
+        "char_code_zhengma": "meqm",
+        "char_code_sijiao": "88248"
+    },
+    "general_unicode": "扩展A U+4248",
+    "general_bs_code": "314314122125113134"
+}

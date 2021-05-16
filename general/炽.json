@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "burning-hot, intense; to burn, blaze; splendid, illustrious"
+        },
+        {
+            "language": "法语",
+            "explanation": "enflammé,en feu,en flammes"
+        }
+    ],
+    "general_pinyins": [
+        "chì"
+    ],
+    "general_zhuyins": [
+        "ㄔˋ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "熾"
+    ],
+    "general_ytz": [
+        "熾",
+        "𢧾",
+        "𢨙",
+        "𤎷",
+        "𥏛",
+        "𧹹"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "70BD",
+            "433425134"
+        ],
+        "char_code_wubi": "okwy",
+        "char_code_cangjie": "frc",
+        "char_code_zhengma": "uojo",
+        "char_code_sijiao": "96880"
+    },
+    "general_unicode": "基本区 U+70BD",
+    "general_bs_code": "433425134"
+}

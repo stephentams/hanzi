@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "the throat; to quarrel, choke"
+        },
+        {
+            "language": "德语",
+            "explanation": "würgen; verschlucken (V)​,Rachen (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "suffoquer,s'étouffer (en avalant)​,être étranglé (par les sanglots)​"
+        }
+    ],
+    "general_pinyins": [
+        "yì",
+        "ài"
+    ],
+    "general_zhuyins": [
+        "ㄧˋ",
+        "ㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠍳",
+        "𡁐",
+        "𣣼"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "55CC",
+            "2514313425221"
+        ],
+        "char_code_wubi": "kuwl",
+        "char_code_cangjie": "rtct",
+        "char_code_zhengma": "juol",
+        "char_code_sijiao": "68012"
+    },
+    "general_unicode": "基本区 U+55CC",
+    "general_bs_code": "2514313425221"
+}

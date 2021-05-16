@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a kind of monkey"
+        },
+        {
+            "language": "法语",
+            "explanation": "(sorte de singe)​"
+        }
+    ],
+    "general_pinyins": [
+        "lì"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7301",
+            "3533123422"
+        ],
+        "char_code_wubi": "qttj",
+        "char_code_cangjie": "khhdn",
+        "char_code_zhengma": "qmmk",
+        "char_code_sijiao": "42200"
+    },
+    "general_unicode": "基本区 U+7301",
+    "general_bs_code": "3533123422"
+}

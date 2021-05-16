@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "place in Sichuan"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom de lieu dans le Sichuan)​"
+        }
+    ],
+    "general_pinyins": [
+        "yù"
+    ],
+    "general_zhuyins": [
+        "ㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "澦"
+    ],
+    "general_ytz": [
+        "澦",
+        "𤂻"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6EEA",
+            "4415452132534"
+        ],
+        "char_code_wubi": "icbm|icnm",
+        "char_code_cangjie": "enno",
+        "char_code_zhengma": "vxig",
+        "char_code_sijiao": "31182"
+    },
+    "general_unicode": "基本区 U+6EEA",
+    "general_bs_code": "4415452132534"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sit cross-legged; back of the foo"
+        },
+        {
+            "language": "德语",
+            "explanation": "Rist  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "assis en tailleur,pied"
+        }
+    ],
+    "general_pinyins": [
+        "fū"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "4",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "呋",
+        "夫",
+        "𠰵",
+        "𨁜",
+        "跗"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8DBA",
+            "25121211134"
+        ],
+        "char_code_wubi": "khfw|khgy",
+        "char_code_cangjie": "rmqo",
+        "char_code_zhengma": "jibo",
+        "char_code_sijiao": "65180"
+    },
+    "general_unicode": "基本区 U+8DBA",
+    "general_bs_code": "25121211134"
+}

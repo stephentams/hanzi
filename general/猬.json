@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "vulgar; wanton; low; many; varied; a hedgehog, porcupine"
+        },
+        {
+            "language": "德语",
+            "explanation": "Igel (lat: Erinaceidae)​  (S, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "hérisson,porc-épic,hérisson"
+        }
+    ],
+    "general_pinyins": [
+        "wèi"
+    ],
+    "general_zhuyins": [
+        "ㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "蝟"
+    ],
+    "general_ytz": [
+        "𧳪",
+        "𧒞",
+        "𢑯",
+        "𢑭",
+        "蝟",
+        "猥",
+        "彙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "732C",
+            "353251212511"
+        ],
+        "char_code_wubi": "qtle",
+        "char_code_cangjie": "khwb",
+        "char_code_zhengma": "qmkq",
+        "char_code_sijiao": "46227"
+    },
+    "general_unicode": "基本区 U+732C",
+    "general_bs_code": "353251212511"
+}

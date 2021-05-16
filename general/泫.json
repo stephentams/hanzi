@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "weep; cry; shine, glisten"
+        },
+        {
+            "language": "德语",
+            "explanation": "laufen, weinen"
+        },
+        {
+            "language": "法语",
+            "explanation": "couler"
+        }
+    ],
+    "general_pinyins": [
+        "xuàn"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "玄"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6CEB",
+            "44141554"
+        ],
+        "char_code_wubi": "iyxy",
+        "char_code_cangjie": "eyvi",
+        "char_code_zhengma": "vszz",
+        "char_code_sijiao": "30132"
+    },
+    "general_unicode": "基本区 U+6CEB",
+    "general_bs_code": "44141554"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "foot; attain, satisfy, enough"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fuss  (S)​,genügen  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "excessif,pied,jambe,au moins,suffisant,assez,suffisamment"
+        }
+    ],
+    "general_pinyins": [
+        "zú"
+    ],
+    "general_zhuyins": [
+        "ㄗㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "0",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠯁",
+        "𠯣",
+        "𤴕"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8DB3",
+            "2512134"
+        ],
+        "char_code_wubi": "khu",
+        "char_code_cangjie": "ryo",
+        "char_code_zhengma": "ji",
+        "char_code_sijiao": "60801"
+    },
+    "general_unicode": "基本区 U+8DB3",
+    "general_bs_code": "2512134"
+}

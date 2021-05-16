@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "weak, lame"
+        },
+        {
+            "language": "德语",
+            "explanation": "zaudern, zögern ,legen, lehnen"
+        },
+        {
+            "language": "法语",
+            "explanation": "empêché"
+        }
+    ],
+    "general_pinyins": [
+        "qiè",
+        "jū"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄝˋ",
+        "ㄐㄩ"
+    ],
+    "general_radical": {
+        "radical": "走",
+        "non_radical_sn": "5",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "跙",
+        "𧼀",
+        "𧻾",
+        "𧽀",
+        "𨒚"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D84",
+            "121213425111"
+        ],
+        "char_code_wubi": "fheg",
+        "char_code_cangjie": "gobm",
+        "char_code_zhengma": "bolc",
+        "char_code_sijiao": "47801"
+    },
+    "general_unicode": "基本区 U+8D84",
+    "general_bs_code": "121213425111"
+}

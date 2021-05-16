@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "taste, smell, odor; delicacy"
+        },
+        {
+            "language": "德语",
+            "explanation": "Geruch  (S)​,Geschmack 法语 goût,odeur"
+        }
+    ],
+    "general_pinyins": [
+        "wèi"
+    ],
+    "general_zhuyins": [
+        "ㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "未"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5473",
+            "25111234"
+        ],
+        "char_code_wubi": "kfiy|kfy",
+        "char_code_cangjie": "rjd",
+        "char_code_zhengma": "jbko",
+        "char_code_sijiao": "65090"
+    },
+    "general_unicode": "基本区 U+5473",
+    "general_bs_code": "25111234"
+}

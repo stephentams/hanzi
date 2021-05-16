@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "silver carp, hypophthalmiathys"
+        },
+        {
+            "language": "法语",
+            "explanation": "tanche"
+        }
+    ],
+    "general_pinyins": [
+        "lián"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "7",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "鰱"
+    ],
+    "general_ytz": [
+        "鰱",
+        "𩽴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9CA2",
+            "352512111512454"
+        ],
+        "char_code_wubi": "qglp",
+        "char_code_cangjie": "nmykq",
+        "char_code_zhengma": "rwhe",
+        "char_code_sijiao": "24135"
+    },
+    "general_unicode": "基本区 U+9CA2",
+    "general_bs_code": "352512111512454"
+}

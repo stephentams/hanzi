@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "happy, joyous, delighted"
+        },
+        {
+            "language": "法语",
+            "explanation": "heureux,joyeux"
+        }
+    ],
+    "general_pinyins": [
+        "xīn"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄣ"
+    ],
+    "general_radical": {
+        "radical": "欠",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "俽",
+        "惞",
+        "訢",
+        "䜣"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6B23",
+            "33123534"
+        ],
+        "char_code_wubi": "rqwy",
+        "char_code_cangjie": "hlno",
+        "char_code_zhengma": "pdro",
+        "char_code_sijiao": "77282"
+    },
+    "general_unicode": "基本区 U+6B23",
+    "general_bs_code": "33123534"
+}

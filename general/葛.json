@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "edible bean; surname"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schlingpflanze, deren Fasern zum Weben benutzt werden  (S, Bio)​,Ge  (Eig, Fam)​,Pueraria Thunbergiana  (Eig, Bio)​,Verbindung  (S)​,Verwandtschaft  (S)​,Verwicklung  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "puéraire,toile de chanvre,(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "gé",
+        "gě"
+    ],
+    "general_zhuyins": [
+        "ㄍㄜˊ",
+        "ㄍㄜˇ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨞛",
+        "匂"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "845B",
+            "122251135345"
+        ],
+        "char_code_wubi": "ajqn",
+        "char_code_cangjie": "tapv",
+        "char_code_zhengma": "ekry",
+        "char_code_sijiao": "44727"
+    },
+    "general_unicode": "基本区 U+845B",
+    "general_bs_code": "122251135345"
+}

@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "steep hill; mountain in Hubei"
+        }
+    ],
+    "general_pinyins": [
+        "xiàn"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "峴"
+    ],
+    "general_ytz": [
+        "峴",
+        "𡷹"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5C98",
+            "2522535"
+        ],
+        "char_code_wubi": "mmqn",
+        "char_code_cangjie": "ubhu",
+        "char_code_zhengma": "lllr",
+        "char_code_sijiao": "27712"
+    },
+    "general_unicode": "基本区 U+5C98",
+    "general_bs_code": "2522535"
+}

@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "official residence, residence of"
+        },
+        {
+            "language": "法语",
+            "explanation": "résidence"
+        }
+    ],
+    "general_pinyins": [
+        "dǐ"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨚏",
+        "𨚎",
+        "䣌"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "90B8",
+            "3515452"
+        ],
+        "char_code_wubi": "qayb",
+        "char_code_cangjie": "hmnl",
+        "char_code_zhengma": "rhsy",
+        "char_code_sijiao": "77727"
+    },
+    "general_unicode": "基本区 U+90B8",
+    "general_bs_code": "3515452"
+}

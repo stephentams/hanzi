@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to cultivate, plant; to care for plants"
+        },
+        {
+            "language": "德语",
+            "explanation": "pflanzen,züchten  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "planter,tomber"
+        }
+    ],
+    "general_pinyins": [
+        "zāi"
+    ],
+    "general_zhuyins": [
+        "ㄗㄞ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㘽",
+        "𣒭",
+        "𣔮",
+        "𣖋",
+        "𥯒",
+        "𦳦",
+        "㦳"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "683D",
+            "1211234534"
+        ],
+        "char_code_wubi": "fasi",
+        "char_code_cangjie": "jid",
+        "char_code_zhengma": "eh",
+        "char_code_sijiao": "43950"
+    },
+    "general_unicode": "基本区 U+683D",
+    "general_bs_code": "1211234534"
+}

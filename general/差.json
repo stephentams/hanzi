@@ -1,0 +1,57 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to differ; different, wrong; nearly, almost; an officer"
+        },
+        {
+            "language": "德语",
+            "explanation": "fehlen, ermangeln  (V)​,nicht gleichen, nicht übereinstimmen, sich mit etwas nicht decken, mit etwas nicht identisch sein  (V)​,falsch, irrig  (Adj)​,schlecht, ungenügend, unbefriedigend  (Adj)​,fehlend, geringer als, kurz vor  (Adv)​,Posten, Amt, Anstellung  (S)​,jdm befehlen, etwas zu tun  (V)​,jdn mit etw beauftragen  (V)​,jdn schicken, etwas zu machen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "inégal,différence,écart,faute,erreur,se tromper,faire une erreur,différer de,en deçà de,moins de,inférieur,faire partir en mission,commission,service"
+        }
+    ],
+    "general_pinyins": [
+        "chà",
+        "chā",
+        "chāi",
+        "cī"
+    ],
+    "general_zhuyins": [
+        "ㄔㄚˋ",
+        "ㄔㄚ",
+        "ㄔㄞ",
+        "ㄘ"
+    ],
+    "general_radical": {
+        "radical": "工",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "荖",
+        "𢀞",
+        "𢀠",
+        "𢀩",
+        "嗟",
+        "瘥",
+        "蹉",
+        "䁟"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5DEE",
+            "431113121"
+        ],
+        "char_code_wubi": "udaf|uaf",
+        "char_code_cangjie": "tqm",
+        "char_code_zhengma": "ucbi",
+        "char_code_sijiao": "80102"
+    },
+    "general_unicode": "基本区 U+5DEE",
+    "general_bs_code": "431113121"
+}

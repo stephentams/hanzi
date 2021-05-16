@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a whetstone; to polish"
+        },
+        {
+            "language": "法语",
+            "explanation": "cloison,pierre à aiguiser"
+        }
+    ],
+    "general_pinyins": [
+        "dǐ"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䂡",
+        "厎",
+        "𥐺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7825",
+            "1325135154"
+        ],
+        "char_code_wubi": "dqay",
+        "char_code_cangjie": "mrhpm",
+        "char_code_zhengma": "grs",
+        "char_code_sijiao": "12640"
+    },
+    "general_unicode": "基本区 U+7825",
+    "general_bs_code": "1325135154"
+}

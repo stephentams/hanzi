@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "chirping, squeaking, hissing"
+        },
+        {
+            "language": "法语",
+            "explanation": "(onom.)​ craquement ou grognement,(onom.)​ grincement"
+        }
+    ],
+    "general_pinyins": [
+        "zhī",
+        "zī"
+    ],
+    "general_zhuyins": [
+        "ㄓ",
+        "ㄗ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5431",
+            "2511254"
+        ],
+        "char_code_wubi": "kfcy",
+        "char_code_cangjie": "rje",
+        "char_code_zhengma": "jexs",
+        "char_code_sijiao": "64047"
+    },
+    "general_unicode": "基本区 U+5431",
+    "general_bs_code": "2511254"
+}

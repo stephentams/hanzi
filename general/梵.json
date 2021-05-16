@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "Buddhist, Sanskrit"
+        },
+        {
+            "language": "法语",
+            "explanation": "pur,bouddhique"
+        }
+    ],
+    "general_pinyins": [
+        "fàn"
+    ],
+    "general_zhuyins": [
+        "ㄈㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣑽",
+        "檒",
+        "芃"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "68B5",
+            "12341234354"
+        ],
+        "char_code_wubi": "ssmy|sswy",
+        "char_code_cangjie": "ddhni",
+        "char_code_zhengma": "ffqd",
+        "char_code_sijiao": "44217"
+    },
+    "general_unicode": "基本区 U+68B5",
+    "general_bs_code": "12341234354"
+}

@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sew, stitch; insufficient"
+        },
+        {
+            "language": "法语",
+            "explanation": "inadéquat,insuffisant"
+        }
+    ],
+    "general_pinyins": [
+        "chù"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "絀"
+    ],
+    "general_ytz": [
+        "絀"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7ECC",
+            "55152252"
+        ],
+        "char_code_wubi": "xbmh",
+        "char_code_cangjie": "vmuu",
+        "char_code_zhengma": "zzzi",
+        "char_code_sijiao": "22172"
+    },
+    "general_unicode": "基本区 U+7ECC",
+    "general_bs_code": "55152252"
+}

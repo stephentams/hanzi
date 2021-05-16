@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "county in Hubei province"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom de lieu)​"
+        }
+    ],
+    "general_pinyins": [
+        "yún"
+    ],
+    "general_zhuyins": [
+        "ㄩㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "鄖"
+    ],
+    "general_ytz": [
+        "鄖",
+        "䢵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "90E7",
+            "251253452"
+        ],
+        "char_code_wubi": "kmbh",
+        "char_code_cangjie": "ronl",
+        "char_code_zhengma": "jly",
+        "char_code_sijiao": "67827"
+    },
+    "general_unicode": "基本区 U+90E7",
+    "general_bs_code": "251253452"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "interjection of surprise"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ja doch! O Weh! Ach!  (Int)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(interjection de surprise ou de la désapprobation)​ hé !,holà !,Pourquoi ?,Attention !,Comment osez-vous !"
+        }
+    ],
+    "general_pinyins": [
+        "āi"
+    ],
+    "general_zhuyins": [
+        "ㄞ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "噯"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "54CE",
+            "25112234"
+        ],
+        "char_code_wubi": "kaqy|kary",
+        "char_code_cangjie": "rtk",
+        "char_code_zhengma": "jeos",
+        "char_code_sijiao": "64040"
+    },
+    "general_unicode": "基本区 U+54CE",
+    "general_bs_code": "25112234"
+}

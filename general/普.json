@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "universal, general, widespread"
+        },
+        {
+            "language": "德语",
+            "explanation": "durchgängig, allgemein"
+        },
+        {
+            "language": "法语",
+            "explanation": "universel,général"
+        }
+    ],
+    "general_pinyins": [
+        "pǔ"
+    ],
+    "general_zhuyins": [
+        "ㄆㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "暜",
+        "溥",
+        "替"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "666E",
+            "431224312511"
+        ],
+        "char_code_wubi": "uogj|uojf",
+        "char_code_cangjie": "tca",
+        "char_code_zhengma": "uakk",
+        "char_code_sijiao": "80601"
+    },
+    "general_unicode": "基本区 U+666E",
+    "general_bs_code": "431224312511"
+}

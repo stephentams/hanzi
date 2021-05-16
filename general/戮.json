@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "kill, massacre; oppress"
+        },
+        {
+            "language": "德语",
+            "explanation": "löschen, töten"
+        },
+        {
+            "language": "法语",
+            "explanation": "tuer,mettre à mort,massacrer"
+        }
+    ],
+    "general_pinyins": [
+        "lù"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "戈",
+        "non_radical_sn": "11",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "剹",
+        "𠞨",
+        "𡠢",
+        "𡭁",
+        "𣩍",
+        "𦐟",
+        "𦐱",
+        "𦞋",
+        "勠",
+        "戮"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "622E",
+            "541541343331534"
+        ],
+        "char_code_wubi": "nwea",
+        "char_code_cangjie": "shi",
+        "char_code_zhengma": "ytph",
+        "char_code_sijiao": "13250"
+    },
+    "general_unicode": "基本区 U+622E",
+    "general_bs_code": "541541343331534"
+}

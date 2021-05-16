@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cobalt; household iron"
+        },
+        {
+            "language": "德语",
+            "explanation": "Cobalt (Element 27, Co)​ (S, Chem)​,Kobalt (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cobalt"
+        }
+    ],
+    "general_pinyins": [
+        "gǔ"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "鈷"
+    ],
+    "general_ytz": [
+        "鈷"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94B4",
+            "3111512251"
+        ],
+        "char_code_wubi": "qdg",
+        "char_code_cangjie": "opjr",
+        "char_code_zhengma": "pej",
+        "char_code_sijiao": "84760"
+    },
+    "general_unicode": "基本区 U+94B4",
+    "general_bs_code": "3111512251"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "choose, select; gouge, pluck out"
+        },
+        {
+            "language": "德语",
+            "explanation": "auswählen, wählen"
+        },
+        {
+            "language": "法语",
+            "explanation": "extirper,arracher,creuser,trier,sélectionner"
+        }
+    ],
+    "general_pinyins": [
+        "jué"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "挗"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6289",
+            "1215134"
+        ],
+        "char_code_wubi": "rnwy",
+        "char_code_cangjie": "qdk",
+        "char_code_zhengma": "dxgd",
+        "char_code_sijiao": "55080"
+    },
+    "general_unicode": "基本区 U+6289",
+    "general_bs_code": "1215134"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bream"
+        },
+        {
+            "language": "法语",
+            "explanation": "brème"
+        }
+    ],
+    "general_pinyins": [
+        "biān"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "9",
+        "total_sn": "17"
+    },
+    "general_stc": [
+        "鯿"
+    ],
+    "general_ytz": [
+        "鯿",
+        "鯾",
+        "𩼧"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9CCA",
+            "35251211451325122"
+        ],
+        "char_code_wubi": "qgya",
+        "char_code_cangjie": "xnmis",
+        "char_code_zhengma": "rwld",
+        "char_code_sijiao": "23127"
+    },
+    "general_unicode": "基本区 U+9CCA",
+    "general_bs_code": "35251211451325122"
+}

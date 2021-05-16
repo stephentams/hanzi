@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "grieved"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 ängstlich, ängstlich, besorgt ,bekümmerte"
+        }
+    ],
+    "general_pinyins": [
+        "xū"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩ"
+    ],
+    "general_radical": {
+        "radical": "页",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "頊"
+    ],
+    "general_ytz": [
+        "頊"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "987C",
+            "1121132534"
+        ],
+        "char_code_wubi": "gdmy",
+        "char_code_cangjie": "mgmbo",
+        "char_code_zhengma": "cgo",
+        "char_code_sijiao": "11182"
+    },
+    "general_unicode": "基本区 U+987C",
+    "general_bs_code": "1121132534"
+}

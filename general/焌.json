@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to light"
+        },
+        {
+            "language": "法语",
+            "explanation": "éteindre par immersion dans de l'eau,méthode de cuisson,roussir à l'aide d'un objet incandescent,mettre le feu à,mettre à feu"
+        }
+    ],
+    "general_pinyins": [
+        "qū",
+        "jùn"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩ",
+        "ㄐㄩㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "焞",
+        "燇",
+        "𪸘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "710C",
+            "43345434354"
+        ],
+        "char_code_wubi": "ocwt",
+        "char_code_cangjie": "fice",
+        "char_code_zhengma": "uoor",
+        "char_code_sijiao": "93847"
+    },
+    "general_unicode": "基本区 U+710C",
+    "general_bs_code": "43345434354"
+}

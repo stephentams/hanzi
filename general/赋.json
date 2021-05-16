@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tax; give; endow; army; diffuse"
+        },
+        {
+            "language": "德语",
+            "explanation": "verleihen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "impôt,poème,composer (un poème)​"
+        }
+    ],
+    "general_pinyins": [
+        "fù"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "賦"
+    ],
+    "general_ytz": [
+        "賦",
+        "䝾",
+        "𧵐",
+        "𧶣",
+        "𧷲"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D4B",
+            "253411212154"
+        ],
+        "char_code_wubi": "mgah|mgay",
+        "char_code_cangjie": "bompm",
+        "char_code_zhengma": "lohi",
+        "char_code_sijiao": "73840"
+    },
+    "general_unicode": "基本区 U+8D4B",
+    "general_bs_code": "253411212154"
+}

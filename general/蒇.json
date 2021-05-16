@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "finish, complete; solve; complete"
+        },
+        {
+            "language": "法语",
+            "explanation": "achever,résoudre,régler"
+        }
+    ],
+    "general_pinyins": [
+        "chǎn"
+    ],
+    "general_zhuyins": [
+        "ㄔㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "蕆"
+    ],
+    "general_ytz": [
+        "蕆"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8487",
+            "122132534534"
+        ],
+        "char_code_wubi": "admt|admu",
+        "char_code_cangjie": "tiho",
+        "char_code_zhengma": "ehlo",
+        "char_code_sijiao": "44253"
+    },
+    "general_unicode": "基本区 U+8487",
+    "general_bs_code": "122132534534"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fireplace, stove, oven, furnace"
+        },
+        {
+            "language": "德语",
+            "explanation": "Rutherfordium (Element 104, Rf)​ (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "rutherfordium"
+        }
+    ],
+    "general_pinyins": [
+        "lú"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "釒",
+        "non_radical_sn": "16",
+        "total_sn": "24"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "爐",
+        "盧",
+        "鹵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "946A",
+            "341124312153152512125221"
+        ],
+        "char_code_wubi": "qhal|qhll",
+        "char_code_cangjie": "cypt",
+        "char_code_zhengma": "pikl",
+        "char_code_sijiao": "81112"
+    },
+    "general_unicode": "基本区 U+946A",
+    "general_bs_code": "341124312153152512125221"
+}

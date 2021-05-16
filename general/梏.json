@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "handcuffs, manacles, fetters"
+        },
+        {
+            "language": "德语",
+            "explanation": "fesselt ,legt Handfesseln an ,Hosenträger, Klammern  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "menottes en bois"
+        }
+    ],
+    "general_pinyins": [
+        "gù"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "牿"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "688F",
+            "12343121251"
+        ],
+        "char_code_wubi": "stfk",
+        "char_code_cangjie": "dhgr",
+        "char_code_zhengma": "fmj",
+        "char_code_sijiao": "44961"
+    },
+    "general_unicode": "基本区 U+688F",
+    "general_bs_code": "12343121251"
+}

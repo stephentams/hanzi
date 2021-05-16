@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "drink; shout, call out"
+        },
+        {
+            "language": "德语",
+            "explanation": "trinken (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "crier fort,boire"
+        }
+    ],
+    "general_pinyins": [
+        "hē",
+        "hè",
+        "yè"
+    ],
+    "general_zhuyins": [
+        "ㄏㄜ",
+        "ㄏㄜˋ",
+        "ㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "哈",
+        "𠿒",
+        "𡀽",
+        "𡁁",
+        "欱",
+        "喝",
+        "喝"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "559D",
+            "251251135345"
+        ],
+        "char_code_wubi": "kjqn",
+        "char_code_cangjie": "rapv",
+        "char_code_zhengma": "jkry",
+        "char_code_sijiao": "66027"
+    },
+    "general_unicode": "基本区 U+559D",
+    "general_bs_code": "251251135345"
+}

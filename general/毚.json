@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cunning; greedy; crafty"
+        },
+        {
+            "language": "德语",
+            "explanation": "listig"
+        },
+        {
+            "language": "法语",
+            "explanation": "rusé,roublard"
+        }
+    ],
+    "general_pinyins": [
+        "chán"
+    ],
+    "general_zhuyins": [
+        "ㄔㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "比",
+        "non_radical_sn": "13",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㺥",
+        "纔",
+        "鑱",
+        "饞"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6BDA",
+            "35251153535251354"
+        ],
+        "char_code_wubi": "qkxy",
+        "char_code_cangjie": "nrppi",
+        "char_code_zhengma": "rjrs",
+        "char_code_sijiao": "27413"
+    },
+    "general_unicode": "基本区 U+6BDA",
+    "general_bs_code": "35251153535251354"
+}

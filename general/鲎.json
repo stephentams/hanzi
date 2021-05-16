@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "king crab"
+        },
+        {
+            "language": "德语",
+            "explanation": "Königskrabbe  (S, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "limule,limulus"
+        }
+    ],
+    "general_pinyins": [
+        "hòu"
+    ],
+    "general_zhuyins": [
+        "ㄏㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "5",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "鱟"
+    ],
+    "general_ytz": [
+        "鱟"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9C8E",
+            "4434535251211"
+        ],
+        "char_code_wubi": "ipqg",
+        "char_code_cangjie": "fbnwm",
+        "char_code_zhengma": "vdwr",
+        "char_code_sijiao": "90106"
+    },
+    "general_unicode": "基本区 U+9C8E",
+    "general_bs_code": "4434535251211"
+}

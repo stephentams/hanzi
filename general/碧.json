@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "jade; green, blue"
+        },
+        {
+            "language": "法语",
+            "explanation": "émeraude,vert bleuâtre,jade vert"
+        }
+    ],
+    "general_pinyins": [
+        "bì"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "9",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤫅",
+        "𦃧"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "78A7",
+            "11213251113251"
+        ],
+        "char_code_wubi": "grdf",
+        "char_code_cangjie": "mamr",
+        "char_code_zhengma": "cng",
+        "char_code_sijiao": "16602"
+    },
+    "general_unicode": "基本区 U+78A7",
+    "general_bs_code": "11213251113251"
+}

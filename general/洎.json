@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "until; till; soup; to soak"
+        },
+        {
+            "language": "德语",
+            "explanation": "erreichen, ankommen ,während, als"
+        },
+        {
+            "language": "法语",
+            "explanation": "ajouter de l'eau de cuisson,imbiber,humecter"
+        }
+    ],
+    "general_pinyins": [
+        "jì"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6D0E",
+            "441325111"
+        ],
+        "char_code_wubi": "ithg",
+        "char_code_cangjie": "ehbu",
+        "char_code_zhengma": "vnl",
+        "char_code_sijiao": "36102"
+    },
+    "general_unicode": "基本区 U+6D0E",
+    "general_bs_code": "441325111"
+}

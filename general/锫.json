@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "berkelium"
+        }
+    ],
+    "general_pinyins": [
+        "péi"
+    ],
+    "general_zhuyins": [
+        "ㄆㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "錇"
+    ],
+    "general_ytz": [
+        "錇"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "952B",
+            "3111541431251"
+        ],
+        "char_code_wubi": "qukg",
+        "char_code_cangjie": "opytr",
+        "char_code_zhengma": "psj",
+        "char_code_sijiao": "80761"
+    },
+    "general_unicode": "基本区 U+952B",
+    "general_bs_code": "3111541431251"
+}

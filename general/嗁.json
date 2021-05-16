@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "give forth sound, make noise"
+        },
+        {
+            "language": "法语",
+            "explanation": "pleurer,crier,chanter (oiseau)​,hurler"
+        }
+    ],
+    "general_pinyins": [
+        "tí"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "啼"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "55C1",
+            "2513321531535"
+        ],
+        "char_code_wubi": "krhm|krhw",
+        "char_code_cangjie": "rhyn",
+        "char_code_zhengma": "jpih",
+        "char_code_sijiao": "62017"
+    },
+    "general_unicode": "基本区 U+55C1",
+    "general_bs_code": "2513321531535"
+}

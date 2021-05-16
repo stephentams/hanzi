@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "interrogative or exclamatory final particle"
+        },
+        {
+            "language": "法语",
+            "explanation": "à,dans,de,vers,(part. interrog.)​"
+        }
+    ],
+    "general_pinyins": [
+        "hū"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨ"
+    ],
+    "general_radical": {
+        "radical": "丿",
+        "non_radical_sn": "4",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "虖",
+        "𠂞"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4E4E",
+            "34312"
+        ],
+        "char_code_wubi": "tuhk|tufk",
+        "char_code_cangjie": "hfd",
+        "char_code_zhengma": "mua",
+        "char_code_sijiao": "20409"
+    },
+    "general_unicode": "基本区 U+4E4E",
+    "general_bs_code": "34312"
+}

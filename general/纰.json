@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "spoiled silk; hem of dress; mista"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fehler, Irrtum  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "lâche"
+        }
+    ],
+    "general_pinyins": [
+        "pī",
+        "pí",
+        "bǐ"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧ",
+        "ㄆㄧˊ",
+        "ㄅㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "紕"
+    ],
+    "general_ytz": [
+        "紕",
+        "𦀘",
+        "𧧺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EB0",
+            "5511535"
+        ],
+        "char_code_wubi": "xxxn",
+        "char_code_cangjie": "vmpp",
+        "char_code_zhengma": "zrrr",
+        "char_code_sijiao": "22110"
+    },
+    "general_unicode": "基本区 U+7EB0",
+    "general_bs_code": "5511535"
+}

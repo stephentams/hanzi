@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "harvest"
+        },
+        {
+            "language": "法语",
+            "explanation": "chaume,éteule,récolte,opportunité"
+        }
+    ],
+    "general_pinyins": [
+        "chá"
+    ],
+    "general_zhuyins": [
+        "ㄔㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "荏",
+        "槎",
+        "𣞚",
+        "𣕗",
+        "𠞊",
+        "楂",
+        "查"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "832C",
+            "122132121"
+        ],
+        "char_code_wubi": "adhf",
+        "char_code_cangjie": "tklg",
+        "char_code_zhengma": "egib",
+        "char_code_sijiao": "44214"
+    },
+    "general_unicode": "基本区 U+832C",
+    "general_bs_code": "122132121"
+}

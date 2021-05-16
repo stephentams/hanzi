@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to float; to deep fry; (Cant.) to turn inside-out"
+        }
+    ],
+    "general_pinyins": [
+        "tǔn"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "水",
+        "non_radical_sn": "2",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣵞"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6C3D",
+            "342534"
+        ],
+        "char_code_wubi": "wiu",
+        "char_code_cangjie": "oe",
+        "char_code_zhengma": "odkv",
+        "char_code_sijiao": "80902"
+    },
+    "general_unicode": "基本区 U+6C3D",
+    "general_bs_code": "342534"
+}

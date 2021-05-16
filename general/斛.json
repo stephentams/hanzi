@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dry measure equal to some five or ten dou (U+6597 舒)"
+        },
+        {
+            "language": "德语",
+            "explanation": "(English: 5 pecks (M)​)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "mesure de 10 boisseaux"
+        }
+    ],
+    "general_pinyins": [
+        "hú"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "斗",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㪶",
+        "𧤰",
+        "𩵬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "659B",
+            "35351124412"
+        ],
+        "char_code_wubi": "qeuf",
+        "char_code_cangjie": "nbyj",
+        "char_code_zhengma": "rlte",
+        "char_code_sijiao": "24200"
+    },
+    "general_unicode": "基本区 U+659B",
+    "general_bs_code": "35351124412"
+}

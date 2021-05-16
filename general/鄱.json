@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "county and lake in Jiangxi"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom d'un lac)​"
+        }
+    ],
+    "general_pinyins": [
+        "pó"
+    ],
+    "general_zhuyins": [
+        "ㄆㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "12",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "番"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9131",
+            "34312342512152"
+        ],
+        "char_code_wubi": "tolb",
+        "char_code_cangjie": "hwnl",
+        "char_code_zhengma": "pfky",
+        "char_code_sijiao": "27627"
+    },
+    "general_unicode": "基本区 U+9131",
+    "general_bs_code": "34312342512152"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "magnetic; magnetism; porcelain"
+        },
+        {
+            "language": "德语",
+            "explanation": "Magnetismus  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "porcelaine,aimant"
+        }
+    ],
+    "general_pinyins": [
+        "cí"
+    ],
+    "general_zhuyins": [
+        "ㄘˊ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "9",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "瓷",
+        "礠",
+        "𥔵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "78C1",
+            "13251431554554"
+        ],
+        "char_code_wubi": "duxx",
+        "char_code_cangjie": "mrtvi",
+        "char_code_zhengma": "guzz",
+        "char_code_sijiao": "18632"
+    },
+    "general_unicode": "基本区 U+78C1",
+    "general_bs_code": "13251431554554"
+}

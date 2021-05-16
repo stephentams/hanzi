@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a basket for carrying earth"
+        }
+    ],
+    "general_pinyins": [
+        "kuì"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "14",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7C44",
+            "31431412512125111345"
+        ],
+        "char_code_wubi": "takm",
+        "char_code_cangjie": "hslc",
+        "char_code_zhengma": "mhal",
+        "char_code_sijiao": "88718"
+    },
+    "general_unicode": "基本区 U+7C44",
+    "general_bs_code": "31431412512125111345"
+}

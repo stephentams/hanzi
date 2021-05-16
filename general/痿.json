@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "paralysis; impotence"
+        },
+        {
+            "language": "德语",
+            "explanation": "Verkümmerung  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "atrophie"
+        }
+    ],
+    "general_pinyins": [
+        "wěi"
+    ],
+    "general_zhuyins": [
+        "ㄨㄟˇ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㾯",
+        "𣨙",
+        "萎",
+        "𤸆"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "75FF",
+            "4134131234531"
+        ],
+        "char_code_wubi": "utvd",
+        "char_code_cangjie": "khdv",
+        "char_code_zhengma": "tmzm",
+        "char_code_sijiao": "00144"
+    },
+    "general_unicode": "基本区 U+75FF",
+    "general_bs_code": "4134131234531"
+}

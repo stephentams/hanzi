@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "儿",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "簪"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "20480",
+            "1243135"
+        ],
+        "char_code_wubi": "fuqb",
+        "char_code_cangjie": "gchu",
+        "char_code_zhengma": "edug"
+    },
+    "general_unicode": "扩展B U+20480",
+    "general_bs_code": "1243135"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to limp"
+        },
+        {
+            "language": "德语",
+            "explanation": "sich verstauchen; sich verrenken  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "drogue"
+        }
+    ],
+    "general_pinyins": [
+        "bié"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "11",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䠥"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E69",
+            "432523431342512134"
+        ],
+        "char_code_wubi": "umih|itkh",
+        "char_code_cangjie": "fkryo",
+        "char_code_zhengma": "kvmj",
+        "char_code_sijiao": "98801"
+    },
+    "general_unicode": "基本区 U+8E69",
+    "general_bs_code": "432523431342512134"
+}

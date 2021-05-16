@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "reeds, rushes, grass; surname"
+        },
+        {
+            "language": "德语",
+            "explanation": "Dachstroh  (S)​,Mao  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "roseau"
+        }
+    ],
+    "general_pinyins": [
+        "máo"
+    ],
+    "general_zhuyins": [
+        "ㄇㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8305",
+            "12254523"
+        ],
+        "char_code_wubi": "acbt|acnt",
+        "char_code_cangjie": "tnih",
+        "char_code_zhengma": "exim",
+        "char_code_sijiao": "44222"
+    },
+    "general_unicode": "基本区 U+8305",
+    "general_bs_code": "12254523"
+}

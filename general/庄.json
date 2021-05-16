@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "village, hamlet; villa, manor"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 Bauernhof, Farm  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "zhuāng"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨㄤ"
+    ],
+    "general_radical": {
+        "radical": "广",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "莊"
+    ],
+    "general_ytz": [
+        "莊",
+        "庒",
+        "荘",
+        "㽵",
+        "𠗎",
+        "𤕶",
+        "𤖄",
+        "𤖈",
+        "𦻊"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5E84",
+            "413121"
+        ],
+        "char_code_wubi": "yfd|ofd",
+        "char_code_cangjie": "ig",
+        "char_code_zhengma": "tgb",
+        "char_code_sijiao": "00214"
+    },
+    "general_unicode": "基本区 U+5E84",
+    "general_bs_code": "413121"
+}

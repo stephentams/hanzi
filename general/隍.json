@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dry ditch, dry moat"
+        },
+        {
+            "language": "法语",
+            "explanation": "fossé de rempart,génie d'une ville"
+        }
+    ],
+    "general_pinyins": [
+        "huáng"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "堭",
+        "墴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "968D",
+            "52325111121"
+        ],
+        "char_code_wubi": "brgg",
+        "char_code_cangjie": "nlhag",
+        "char_code_zhengma": "ync",
+        "char_code_sijiao": "76214"
+    },
+    "general_unicode": "基本区 U+968D",
+    "general_bs_code": "52325111121"
+}

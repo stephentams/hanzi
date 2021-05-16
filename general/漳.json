@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "name of a river in Henan"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom d'une rivière dans le Fujian)​"
+        }
+    ],
+    "general_pinyins": [
+        "zhāng"
+    ],
+    "general_zhuyins": [
+        "ㄓㄤ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "章"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6F33",
+            "44141431251112"
+        ],
+        "char_code_wubi": "iujh",
+        "char_code_cangjie": "eytj",
+        "char_code_zhengma": "vske",
+        "char_code_sijiao": "30146"
+    },
+    "general_unicode": "基本区 U+6F33",
+    "general_bs_code": "44141431251112"
+}

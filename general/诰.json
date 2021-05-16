@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "inform, notify, admonish, order"
+        },
+        {
+            "language": "德语",
+            "explanation": "auferlegen, vorschreiben ,bewilligen, gestatten"
+        },
+        {
+            "language": "法语",
+            "explanation": "annonce,informer un inférieur,décret"
+        }
+    ],
+    "general_pinyins": [
+        "gào"
+    ],
+    "general_zhuyins": [
+        "ㄍㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "誥"
+    ],
+    "general_ytz": [
+        "誥",
+        "𠬳",
+        "𧧙",
+        "𧧞"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BF0",
+            "453121251"
+        ],
+        "char_code_wubi": "ytfk",
+        "char_code_cangjie": "ivhgr",
+        "char_code_zhengma": "smj",
+        "char_code_sijiao": "34761"
+    },
+    "general_unicode": "基本区 U+8BF0",
+    "general_bs_code": "453121251"
+}

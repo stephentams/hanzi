@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a general designation of officials"
+        },
+        {
+            "language": "法语",
+            "explanation": "officier principal"
+        }
+    ],
+    "general_pinyins": [
+        "yuàn"
+    ],
+    "general_zhuyins": [
+        "ㄩㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "63BE",
+            "121551353334"
+        ],
+        "char_code_wubi": "rxey",
+        "char_code_cangjie": "qvno",
+        "char_code_zhengma": "dzgq",
+        "char_code_sijiao": "57032"
+    },
+    "general_unicode": "基本区 U+63BE",
+    "general_bs_code": "121551353334"
+}

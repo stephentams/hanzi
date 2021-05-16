@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "play with words, quip; talk nonse"
+        },
+        {
+            "language": "德语",
+            "explanation": "vervollständigen, packen"
+        },
+        {
+            "language": "法语",
+            "explanation": "inventer,composer,fabriquer"
+        }
+    ],
+    "general_pinyins": [
+        "zhōu"
+    ],
+    "general_zhuyins": [
+        "ㄓㄡ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "謅"
+    ],
+    "general_ytz": [
+        "謅",
+        "㗙",
+        "𠴾",
+        "𧩖"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BCC",
+            "4535511"
+        ],
+        "char_code_wubi": "yqvg",
+        "char_code_cangjie": "ivnsm",
+        "char_code_zhengma": "srxb",
+        "char_code_sijiao": "37777"
+    },
+    "general_unicode": "基本区 U+8BCC",
+    "general_bs_code": "4535511"
+}

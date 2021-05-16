@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "storey, layer, floor, stratum"
+        },
+        {
+            "language": "德语",
+            "explanation": "Implikation  (S)​,Schicht, Überzug, Belag  (S)​,Stockwerk  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "couche,étage,strate,niveau,superposer"
+        }
+    ],
+    "general_pinyins": [
+        "céng"
+    ],
+    "general_zhuyins": [
+        "ㄘㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "尸",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "层"
+    ],
+    "general_ytz": [
+        "层",
+        "層"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5C64",
+            "513432524312511"
+        ],
+        "char_code_wubi": "nulj",
+        "char_code_cangjie": "scwa",
+        "char_code_zhengma": "xmlk",
+        "char_code_sijiao": "77266"
+    },
+    "general_unicode": "基本区 U+5C64",
+    "general_bs_code": "513432524312511"
+}

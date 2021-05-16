@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a small door or window; a hole in the wall to cut through a wall"
+        },
+        {
+            "language": "法语",
+            "explanation": "trou,petite porte"
+        }
+    ],
+    "general_pinyins": [
+        "yú"
+    ],
+    "general_zhuyins": [
+        "ㄩˊ"
+    ],
+    "general_radical": {
+        "radical": "穴",
+        "non_radical_sn": "9",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥦧",
+        "𥦹"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7AAC",
+            "44534341251122"
+        ],
+        "char_code_wubi": "pwwj",
+        "char_code_cangjie": "jcomn",
+        "char_code_zhengma": "woqk",
+        "char_code_sijiao": "30221"
+    },
+    "general_unicode": "基本区 U+7AAC",
+    "general_bs_code": "44534341251122"
+}

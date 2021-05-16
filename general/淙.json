@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "gurgling sound of water"
+        },
+        {
+            "language": "德语",
+            "explanation": "rauschen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "clapotis,bruit de l'eau qui coule"
+        }
+    ],
+    "general_pinyins": [
+        "cóng"
+    ],
+    "general_zhuyins": [
+        "ㄘㄨㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "潀",
+        "漴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6DD9",
+            "44144511234"
+        ],
+        "char_code_wubi": "ipfi",
+        "char_code_cangjie": "ejmf",
+        "char_code_zhengma": "vwbk",
+        "char_code_sijiao": "33191"
+    },
+    "general_unicode": "基本区 U+6DD9",
+    "general_bs_code": "44144511234"
+}

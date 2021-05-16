@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "inn; lodge; travel"
+        },
+        {
+            "language": "德语",
+            "explanation": "in Verwahrung geben ,Gasthaus, Gasthof  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "retenir,réfréner,maîtriser"
+        }
+    ],
+    "general_pinyins": [
+        "jī"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧ"
+    ],
+    "general_radical": {
+        "radical": "罒",
+        "non_radical_sn": "17",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "羈"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F87",
+            "2522112212511213412512"
+        ],
+        "char_code_wubi": "lafk",
+        "char_code_cangjie": "wltjr",
+        "char_code_zhengma": "lkaj",
+        "char_code_sijiao": "60521"
+    },
+    "general_unicode": "基本区 U+7F87",
+    "general_bs_code": "2522112212511213412512"
+}

@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "grass, straw, thatch, herbs"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gras, Stroh  (Ess)"
+        },
+        {
+            "language": "法语",
+            "explanation": "herbe,paille,négligent,rédiger un brouillon"
+        }
+    ],
+    "general_pinyins": [
+        "cǎo"
+    ],
+    "general_zhuyins": [
+        "ㄘㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦷣",
+        "𦳕",
+        "𦯨",
+        "𢂉",
+        "艸",
+        "艹",
+        "騲"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8349",
+            "122251112"
+        ],
+        "char_code_wubi": "ajj",
+        "char_code_cangjie": "taj",
+        "char_code_zhengma": "eked",
+        "char_code_sijiao": "44406"
+    },
+    "general_unicode": "基本区 U+8349",
+    "general_bs_code": "122251112"
+}

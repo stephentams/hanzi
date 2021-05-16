@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "deceive, lie, delude, cheat"
+        },
+        {
+            "language": "德语",
+            "explanation": "betrügen, täuschen ,liegt"
+        },
+        {
+            "language": "法语",
+            "explanation": "tromper,duper"
+        }
+    ],
+    "general_pinyins": [
+        "kuáng"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "誑"
+    ],
+    "general_ytz": [
+        "誑",
+        "𧪴"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BF3",
+            "453531121"
+        ],
+        "char_code_wubi": "yqtg",
+        "char_code_cangjie": "ivkhg",
+        "char_code_zhengma": "sqc",
+        "char_code_sijiao": "31714"
+    },
+    "general_unicode": "基本区 U+8BF3",
+    "general_bs_code": "453531121"
+}

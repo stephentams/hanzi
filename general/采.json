@@ -1,0 +1,58 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "collect, gather; pick, pluck"
+        },
+        {
+            "language": "德语",
+            "explanation": "Aussehen, Miene, Gesichtsausdruck  (S)​,auswählen, anwenden, verwenden  (V)​,Bodenschätze zutage fördern, abbauen, gewinnen  (V)​,pflücken, abnehmen, zusammenlesen  (V, Med)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cueillir,exploiter,recueillir,extraire,fief"
+        }
+    ],
+    "general_pinyins": [
+        "cǎi",
+        "cài"
+    ],
+    "general_zhuyins": [
+        "ㄘㄞˇ",
+        "ㄘㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "采",
+        "non_radical_sn": "1",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "埰",
+        "採"
+    ],
+    "general_ytz": [
+        "彩",
+        "睬",
+        "綵",
+        "啋",
+        "埰",
+        "寀",
+        "採",
+        "𤓳",
+        "菜",
+        "宷"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "91C7",
+            "34431234"
+        ],
+        "char_code_wubi": "esu",
+        "char_code_cangjie": "bd",
+        "char_code_zhengma": "pvf",
+        "char_code_sijiao": "20904"
+    },
+    "general_unicode": "基本区 U+91C7",
+    "general_bs_code": "34431234"
+}

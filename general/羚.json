@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "species of antelope"
+        },
+        {
+            "language": "德语",
+            "explanation": "Antilope  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "antilope"
+        }
+    ],
+    "general_pinyins": [
+        "líng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "羊",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䴫",
+        "麢",
+        "𦏪",
+        "𦏰",
+        "𪋦",
+        "𪋪",
+        "𪋶",
+        "𪋓",
+        "𪋚",
+        "𪋳",
+        "羚"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F9A",
+            "43111334454"
+        ],
+        "char_code_wubi": "udwc|uwyc",
+        "char_code_cangjie": "tqoii",
+        "char_code_zhengma": "ucow",
+        "char_code_sijiao": "88532"
+    },
+    "general_unicode": "基本区 U+7F9A",
+    "general_bs_code": "43111334454"
+}

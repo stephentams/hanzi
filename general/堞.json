@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "plate"
+        },
+        {
+            "language": "法语",
+            "explanation": "créneau"
+        }
+    ],
+    "general_pinyins": [
+        "dié"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡍕",
+        "𡐽",
+        "𡑢",
+        "𡔁",
+        "𥏭"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "581E",
+            "121122151234"
+        ],
+        "char_code_wubi": "fans",
+        "char_code_cangjie": "gptd",
+        "char_code_zhengma": "bezf",
+        "char_code_sijiao": "44194"
+    },
+    "general_unicode": "基本区 U+581E",
+    "general_bs_code": "121122151234"
+}

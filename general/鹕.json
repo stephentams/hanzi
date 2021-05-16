@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pelican"
+        },
+        {
+            "language": "德语",
+            "explanation": "Pelikan  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "pélican"
+        }
+    ],
+    "general_pinyins": [
+        "hú"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "鸟",
+        "non_radical_sn": "9",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "鶘"
+    ],
+    "general_ytz": [
+        "鶘",
+        "𩀉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E55",
+            "12251351135451"
+        ],
+        "char_code_wubi": "deqg",
+        "char_code_cangjie": "jrbpm",
+        "char_code_zhengma": "edqr",
+        "char_code_sijiao": "47627"
+    },
+    "general_unicode": "基本区 U+9E55",
+    "general_bs_code": "12251351135451"
+}

@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "extensive, full; fill; complete"
+        },
+        {
+            "language": "德语",
+            "explanation": "füllen, ausfüllen ,voll, komplett ,Mi  (Eig, Fam)"
+        }
+    ],
+    "general_pinyins": [
+        "mí",
+        "mǐ"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧˊ",
+        "ㄇㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "弓",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "彌"
+    ],
+    "general_ytz": [
+        "彌",
+        "瀰",
+        "镾",
+        "㳽",
+        "𢏏",
+        "𢐳",
+        "𢐶",
+        "𢑀"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F25",
+            "51535234"
+        ],
+        "char_code_wubi": "xqiy",
+        "char_code_cangjie": "nnf",
+        "char_code_zhengma": "yzrk",
+        "char_code_sijiao": "17292"
+    },
+    "general_unicode": "基本区 U+5F25",
+    "general_bs_code": "51535234"
+}

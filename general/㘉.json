@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to make sound; to speak; (Cant.) to tickle, squeeze"
+        }
+    ],
+    "general_pinyins": [
+        "zhì"
+    ],
+    "general_zhuyins": [
+        "ㄓˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "唧",
+        "𠰱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3609",
+            "2513143145115452"
+        ],
+        "char_code_wubi": "ktvb",
+        "char_code_cangjie": "rhal",
+        "char_code_zhengma": "jmxy",
+        "char_code_sijiao": "68027"
+    },
+    "general_unicode": "扩展A U+3609",
+    "general_bs_code": "2513143145115452"
+}

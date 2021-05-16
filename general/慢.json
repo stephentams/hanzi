@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "slow(ly), leisurely, sluggish"
+        },
+        {
+            "language": "德语",
+            "explanation": "langsam  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "lent,lentement"
+        }
+    ],
+    "general_pinyins": [
+        "màn"
+    ],
+    "general_zhuyins": [
+        "ㄇㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "悗",
+        "僈",
+        "𢢔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6162",
+            "44225112522154"
+        ],
+        "char_code_wubi": "njlc",
+        "char_code_cangjie": "pawe",
+        "char_code_zhengma": "uklx",
+        "char_code_sijiao": "96047"
+    },
+    "general_unicode": "基本区 U+6162",
+    "general_bs_code": "44225112522154"
+}

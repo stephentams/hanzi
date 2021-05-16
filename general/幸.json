@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "luck(ily), favor, fortunately"
+        },
+        {
+            "language": "法语",
+            "explanation": "heureusement,bonheur,chance,bonne fortune,honneur,se réjouir"
+        }
+    ],
+    "general_pinyins": [
+        "xìng"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "干",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㚔",
+        "倖",
+        "婞",
+        "𠂷",
+        "𡴘",
+        "𢆎",
+        "羍",
+        "𦍒"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5E78",
+            "12143112"
+        ],
+        "char_code_wubi": "fufj",
+        "char_code_cangjie": "gtj",
+        "char_code_zhengma": "bub",
+        "char_code_sijiao": "40401"
+    },
+    "general_unicode": "基本区 U+5E78",
+    "general_bs_code": "12143112"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "appraise, criticize, evaluate"
+        },
+        {
+            "language": "德语",
+            "explanation": "auswählen, küren ,bemängeln, kritisieren ,besprechen, bereden ,kommentieren ,richten, beurteilen"
+        },
+        {
+            "language": "法语",
+            "explanation": "commenter,critiquer,juger"
+        }
+    ],
+    "general_pinyins": [
+        "píng"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "評"
+    ],
+    "general_ytz": [
+        "評"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BC4",
+            "4514312"
+        ],
+        "char_code_wubi": "yguh|yguf",
+        "char_code_cangjie": "ivmfj",
+        "char_code_zhengma": "saua",
+        "char_code_sijiao": "31749"
+    },
+    "general_unicode": "基本区 U+8BC4",
+    "general_bs_code": "4514312"
+}

@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "can't move; to falter"
+        },
+        {
+            "language": "德语",
+            "explanation": "schwanken, taumeln  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "chanceler,incapable de se déplacer"
+        }
+    ],
+    "general_pinyins": [
+        "zī"
+    ],
+    "general_zhuyins": [
+        "ㄗ"
+    ],
+    "general_radical": {
+        "radical": "走",
+        "non_radical_sn": "6",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "赼",
+        "趦",
+        "𧾕",
+        "𨀥",
+        "𨒮",
+        "𧿞"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D91",
+            "1212134413534"
+        ],
+        "char_code_wubi": "fhuw",
+        "char_code_cangjie": "goimo",
+        "char_code_zhengma": "botr",
+        "char_code_sijiao": "47808"
+    },
+    "general_unicode": "基本区 U+8D91",
+    "general_bs_code": "1212134413534"
+}

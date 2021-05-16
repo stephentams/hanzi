@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "yellow; surname"
+        },
+        {
+            "language": "德语",
+            "explanation": "gelb  (Adj)​,scheitern, zunichte werden, im Sande verlaufen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "jaune,pornographique"
+        }
+    ],
+    "general_pinyins": [
+        "huáng"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "黄",
+        "non_radical_sn": "0",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "黃"
+    ],
+    "general_ytz": [
+        "黃",
+        "𡕛",
+        "𨝴"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9EC4",
+            "12212512134"
+        ],
+        "char_code_wubi": "amwu",
+        "char_code_cangjie": "tlwc",
+        "char_code_zhengma": "eako",
+        "char_code_sijiao": "44806"
+    },
+    "general_unicode": "基本区 U+9EC4",
+    "general_bs_code": "12212512134"
+}

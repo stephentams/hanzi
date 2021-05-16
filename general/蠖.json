@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "inch-worm; looper caterpiller"
+        },
+        {
+            "language": "德语",
+            "explanation": "Raupe  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "chenille arpenteuse"
+        }
+    ],
+    "general_pinyins": [
+        "huò"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "13",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8816",
+            "2512141223241112154"
+        ],
+        "char_code_wubi": "jawc",
+        "char_code_cangjie": "litoe",
+        "char_code_zhengma": "ienx",
+        "char_code_sijiao": "54147"
+    },
+    "general_unicode": "基本区 U+8816",
+    "general_bs_code": "2512141223241112154"
+}

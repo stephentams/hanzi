@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "neck, nape of neck; sum; funds"
+        },
+        {
+            "language": "德语",
+            "explanation": "ZEW für Projekt (项目)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "nuque,terme,chose,article,(classificateur pour les principes, les articles)​,(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "xiàng"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "页",
+        "non_radical_sn": "3",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "項"
+    ],
+    "general_ytz": [
+        "項"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9879",
+            "121132534"
+        ],
+        "char_code_wubi": "admy",
+        "char_code_cangjie": "mmbo",
+        "char_code_zhengma": "bigo",
+        "char_code_sijiao": "11182"
+    },
+    "general_unicode": "基本区 U+9879",
+    "general_bs_code": "121132534"
+}

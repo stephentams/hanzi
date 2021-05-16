@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "general name for the hornless deer; to collect to band together"
+        },
+        {
+            "language": "法语",
+            "explanation": "daim"
+        }
+    ],
+    "general_pinyins": [
+        "jūn",
+        "qún"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄣ",
+        "ㄑㄩㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "鹿",
+        "non_radical_sn": "5",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "麏",
+        "麕",
+        "𪊼"
+    ],
+    "general_structure": "半包围",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E87",
+            "4135221153531234"
+        ],
+        "char_code_wubi": "ynjt|oxxt",
+        "char_code_cangjie": "iphd",
+        "char_code_zhengma": "txmf",
+        "char_code_sijiao": "00294"
+    },
+    "general_unicode": "基本区 U+9E87",
+    "general_bs_code": "4135221153531234"
+}

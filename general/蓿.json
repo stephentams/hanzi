@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "clover, lucerne"
+        },
+        {
+            "language": "德语",
+            "explanation": "Pflanzensorte  (S, Bio)"
+        }
+    ],
+    "general_pinyins": [
+        "xù"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦼑"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "84FF",
+            "12244532132511"
+        ],
+        "char_code_wubi": "apwj",
+        "char_code_cangjie": "tjoa",
+        "char_code_zhengma": "ewan",
+        "char_code_sijiao": "44262"
+    },
+    "general_unicode": "基本区 U+84FF",
+    "general_bs_code": "12244532132511"
+}

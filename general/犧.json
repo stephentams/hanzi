@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sacrifice, give up; sacrificial"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufopfern, Opfer  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "animal pour le sacrifice,sacrifice"
+        }
+    ],
+    "general_pinyins": [
+        "xī"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧ"
+    ],
+    "general_radical": {
+        "radical": "牜",
+        "non_radical_sn": "16",
+        "total_sn": "20"
+    },
+    "general_stc": [
+        "牺"
+    ],
+    "general_ytz": [
+        "戲",
+        "牺",
+        "犠",
+        "獻",
+        "羲"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "72A7",
+            "31214311213123415534"
+        ],
+        "char_code_wubi": "trut|cugy",
+        "char_code_cangjie": "hqtgs",
+        "char_code_zhengma": "mbzh",
+        "char_code_sijiao": "28553"
+    },
+    "general_unicode": "基本区 U+72A7",
+    "general_bs_code": "31214311213123415534"
+}

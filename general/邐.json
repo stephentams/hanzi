@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "meandering, winding"
+        },
+        {
+            "language": "德语",
+            "explanation": "biegend, kurvenreich"
+        },
+        {
+            "language": "法语",
+            "explanation": "sinueux,tortueux"
+        }
+    ],
+    "general_pinyins": [
+        "lǐ"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "19",
+        "total_sn": "22"
+    },
+    "general_stc": [
+        "逦"
+    ],
+    "general_ytz": [
+        "𨘶",
+        "𨓦",
+        "逦"
+    ],
+    "general_structure": "左下包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9090",
+            "1254125441352211535454"
+        ],
+        "char_code_wubi": "gmyp",
+        "char_code_cangjie": "ymmp",
+        "char_code_zhengma": "altw",
+        "char_code_sijiao": "31301"
+    },
+    "general_unicode": "基本区 U+9090",
+    "general_bs_code": "1254125441352211535454"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hair rolled up in a bun, topknot"
+        },
+        {
+            "language": "德语",
+            "explanation": "Haarknoten, Dutt  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "chignon"
+        }
+    ],
+    "general_pinyins": [
+        "jì"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "髟",
+        "non_radical_sn": "6",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䦇",
+        "結",
+        "𣯦",
+        "𨲡"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9AFB",
+            "1211154333121251"
+        ],
+        "char_code_wubi": "defk",
+        "char_code_cangjie": "shgr",
+        "char_code_zhengma": "chbj",
+        "char_code_sijiao": "72601"
+    },
+    "general_unicode": "基本区 U+9AFB",
+    "general_bs_code": "1211154333121251"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "case, box, chest, trunk"
+        },
+        {
+            "language": "德语",
+            "explanation": "Box, Kasten, Stamm  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "caisse,malle,boîte"
+        }
+    ],
+    "general_pinyins": [
+        "xiāng"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄤ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "9",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "廂"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7BB1",
+            "314314123425111"
+        ],
+        "char_code_wubi": "tshf",
+        "char_code_cangjie": "hdbu",
+        "char_code_zhengma": "mfl",
+        "char_code_sijiao": "88963"
+    },
+    "general_unicode": "基本区 U+7BB1",
+    "general_bs_code": "314314123425111"
+}

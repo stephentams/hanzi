@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "should, ought to, need to"
+        },
+        {
+            "language": "德语",
+            "explanation": "der bewusste, der betreffende; derartig, besagt, erwähnt ,müssen. sollen, sich gehören, sich geziemen; dürfen; würde, wäre  (V)​,schulden, schuldig bleiben  (V)​, an der Reihe sein  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "devoir,falloir,mériter,ce,ledit,(adverbe employé pour marquer l'emphase)​"
+        }
+    ],
+    "general_pinyins": [
+        "gāi"
+    ],
+    "general_zhuyins": [
+        "ㄍㄞ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "該"
+    ],
+    "general_ytz": [
+        "該"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BE5",
+            "45415334"
+        ],
+        "char_code_wubi": "yynw",
+        "char_code_cangjie": "ivyvo",
+        "char_code_zhengma": "sszo",
+        "char_code_sijiao": "30782"
+    },
+    "general_unicode": "基本区 U+8BE5",
+    "general_bs_code": "45415334"
+}

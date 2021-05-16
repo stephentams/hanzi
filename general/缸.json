@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "earthen jug, crock, cistern"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fass, (Ton)​Topf, Krug"
+        },
+        {
+            "language": "法语",
+            "explanation": "cuve,grande jarre"
+        }
+    ],
+    "general_pinyins": [
+        "gāng"
+    ],
+    "general_zhuyins": [
+        "ㄍㄤ"
+    ],
+    "general_radical": {
+        "radical": "缶",
+        "non_radical_sn": "3",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㼚",
+        "堈",
+        "堽",
+        "罁",
+        "𤬽",
+        "𤭛",
+        "𤭺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F38",
+            "311252121"
+        ],
+        "char_code_wubi": "rmag|tfba",
+        "char_code_cangjie": "oum",
+        "char_code_zhengma": "mazb",
+        "char_code_sijiao": "81712"
+    },
+    "general_unicode": "基本区 U+7F38",
+    "general_bs_code": "311252121"
+}

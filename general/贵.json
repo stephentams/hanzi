@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "expensive, costly, valuable"
+        },
+        {
+            "language": "德语",
+            "explanation": "wertvoll, teuer ,geehrt ,Gui  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cher,coûteux,précieux,votre honorable ... (politesse)​"
+        }
+    ],
+    "general_pinyins": [
+        "guì"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "貴"
+    ],
+    "general_ytz": [
+        "貴",
+        "䝿",
+        "𡭙",
+        "𧶪"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D35",
+            "251212534"
+        ],
+        "char_code_wubi": "khgm",
+        "char_code_cangjie": "lmbo",
+        "char_code_zhengma": "jial",
+        "char_code_sijiao": "50802"
+    },
+    "general_unicode": "基本区 U+8D35",
+    "general_bs_code": "251212534"
+}

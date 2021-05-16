@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "nibble away; erode; eclipse"
+        },
+        {
+            "language": "德语",
+            "explanation": "etw. frisst sich in etwas hinein  (V)​,korrodieren, hineinfressen"
+        },
+        {
+            "language": "法语",
+            "explanation": "perdre,corroder,ronger"
+        }
+    ],
+    "general_pinyins": [
+        "shí"
+    ],
+    "general_zhuyins": [
+        "ㄕˊ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "3",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "蝕"
+    ],
+    "general_ytz": [
+        "蝕",
+        "䞌",
+        "𧐂",
+        "𧵳"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8680",
+            "355251214"
+        ],
+        "char_code_wubi": "qnjy",
+        "char_code_cangjie": "nvlmi",
+        "char_code_zhengma": "oxi",
+        "char_code_sijiao": "25736"
+    },
+    "general_unicode": "基本区 U+8680",
+    "general_bs_code": "355251214"
+}

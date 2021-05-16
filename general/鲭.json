@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mackerel"
+        },
+        {
+            "language": "德语",
+            "explanation": "Makrele  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "maquereau"
+        }
+    ],
+    "general_pinyins": [
+        "qīng"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄥ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "8",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "鯖"
+    ],
+    "general_ytz": [
+        "鯖"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9CAD",
+            "3525121111212511"
+        ],
+        "char_code_wubi": "qgge",
+        "char_code_cangjie": "nmqmb",
+        "char_code_zhengma": "rcq",
+        "char_code_sijiao": "25127"
+    },
+    "general_unicode": "基本区 U+9CAD",
+    "general_bs_code": "3525121111212511"
+}

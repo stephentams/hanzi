@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cheat, swindle, lie"
+        },
+        {
+            "language": "德语",
+            "explanation": "betrügen, schwindeln ,irreführen, beirren"
+        },
+        {
+            "language": "法语",
+            "explanation": "tromper"
+        }
+    ],
+    "general_pinyins": [
+        "kuāng"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄤ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "誆"
+    ],
+    "general_ytz": [
+        "誆"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BD3",
+            "45111215"
+        ],
+        "char_code_wubi": "yagg",
+        "char_code_cangjie": "ivsmg",
+        "char_code_zhengma": "shc",
+        "char_code_sijiao": "31711"
+    },
+    "general_unicode": "基本区 U+8BD3",
+    "general_bs_code": "45111215"
+}

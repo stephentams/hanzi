@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "follow, listen to, submit to"
+        },
+        {
+            "language": "德语",
+            "explanation": "befolgen, folgen, in Abhängigkeit von  (V)​,Sui  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "au fur et à mesure,suivre,se conformer à,permettre"
+        }
+    ],
+    "general_pinyins": [
+        "suí"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "隨"
+    ],
+    "general_ytz": [
+        "遀",
+        "隨",
+        "䢫",
+        "𨔳",
+        "𨼕"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "968F",
+            "52132511454"
+        ],
+        "char_code_wubi": "bdep",
+        "char_code_cangjie": "nlykb",
+        "char_code_zhengma": "ygqw",
+        "char_code_sijiao": "74232"
+    },
+    "general_unicode": "基本区 U+968F",
+    "general_bs_code": "52132511454"
+}

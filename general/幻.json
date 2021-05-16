@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "illusion, fantasy, mirage"
+        },
+        {
+            "language": "法语",
+            "explanation": "illusoire,irréel"
+        }
+    ],
+    "general_pinyins": [
+        "huàn"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "幺",
+        "non_radical_sn": "1",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㕕",
+        "𠄔",
+        "𢆱",
+        "𣥌"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5E7B",
+            "5545"
+        ],
+        "char_code_wubi": "xnn",
+        "char_code_cangjie": "vis",
+        "char_code_zhengma": "zzy",
+        "char_code_sijiao": "27720"
+    },
+    "general_unicode": "基本区 U+5E7B",
+    "general_bs_code": "5545"
+}

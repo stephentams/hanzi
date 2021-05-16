@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "type of willow; tamarisk"
+        },
+        {
+            "language": "法语",
+            "explanation": "tamaris,tamarix"
+        }
+    ],
+    "general_pinyins": [
+        "chēng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄥ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "檉"
+    ],
+    "general_ytz": [
+        "檉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "67FD",
+            "123454121"
+        ],
+        "char_code_wubi": "scfg",
+        "char_code_cangjie": "deg",
+        "char_code_zhengma": "fxb",
+        "char_code_sijiao": "47914"
+    },
+    "general_unicode": "基本区 U+67FD",
+    "general_bs_code": "123454121"
+}

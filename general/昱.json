@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "bright light, sunlight; dazzling"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 Sonnenlicht  (S)​,(English: bright light)​"
+        }
+    ],
+    "general_pinyins": [
+        "yù"
+    ],
+    "general_zhuyins": [
+        "ㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "煜",
+        "翌"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6631",
+            "251141431"
+        ],
+        "char_code_wubi": "juf",
+        "char_code_cangjie": "ayt",
+        "char_code_zhengma": "ksu",
+        "char_code_sijiao": "60108"
+    },
+    "general_unicode": "基本区 U+6631",
+    "general_bs_code": "251141431"
+}

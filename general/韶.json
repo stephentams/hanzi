@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "music of the emperor Shun; beautiful"
+        },
+        {
+            "language": "德语",
+            "explanation": "hold, schön  (Eig)"
+        },
+        {
+            "language": "法语",
+            "explanation": "beau,joli"
+        }
+    ],
+    "general_pinyins": [
+        "sháo"
+    ],
+    "general_zhuyins": [
+        "ㄕㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "音",
+        "non_radical_sn": "5",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㲈",
+        "𢨍",
+        "𪔓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "97F6",
+            "41431251153251"
+        ],
+        "char_code_wubi": "ujvk",
+        "char_code_cangjie": "yashr",
+        "char_code_zhengma": "suyj",
+        "char_code_sijiao": "07662"
+    },
+    "general_unicode": "基本区 U+97F6",
+    "general_bs_code": "41431251153251"
+}

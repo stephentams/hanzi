@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "duckweed; wandering, traveling"
+        },
+        {
+            "language": "德语",
+            "explanation": "Wasserlinse, kleine, Entenflott  (S, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "lentille d'eau"
+        }
+    ],
+    "general_pinyins": [
+        "píng"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦶊",
+        "𦭃",
+        "蓱",
+        "苹",
+        "䓑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "840D",
+            "12244114312"
+        ],
+        "char_code_wubi": "aigh|aigf",
+        "char_code_cangjie": "temj",
+        "char_code_zhengma": "evau",
+        "char_code_sijiao": "44149"
+    },
+    "general_unicode": "基本区 U+840D",
+    "general_bs_code": "12244114312"
+}

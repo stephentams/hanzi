@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rivet gaze upon, keep eyes on"
+        },
+        {
+            "language": "德语",
+            "explanation": "fixieren, mustern"
+        },
+        {
+            "language": "法语",
+            "explanation": "regarder fixement"
+        }
+    ],
+    "general_pinyins": [
+        "dīng"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧㄥ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "2",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "76EF",
+            "2511112"
+        ],
+        "char_code_wubi": "hsh",
+        "char_code_cangjie": "bumn",
+        "char_code_zhengma": "lai",
+        "char_code_sijiao": "61020"
+    },
+    "general_unicode": "基本区 U+76EF",
+    "general_bs_code": "2511112"
+}

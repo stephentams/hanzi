@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "visit; ask, inquire"
+        },
+        {
+            "language": "法语",
+            "explanation": "visiter,rendre visite,enquêter"
+        }
+    ],
+    "general_pinyins": [
+        "fǎng"
+    ],
+    "general_zhuyins": [
+        "ㄈㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "訪"
+    ],
+    "general_ytz": [
+        "訪",
+        "𧪃"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BBF",
+            "454153"
+        ],
+        "char_code_wubi": "yyn|yyt",
+        "char_code_cangjie": "ivyhs",
+        "char_code_zhengma": "ssy",
+        "char_code_sijiao": "30727"
+    },
+    "general_unicode": "基本区 U+8BBF",
+    "general_bs_code": "454153"
+}

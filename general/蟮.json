@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "type of earthworm"
+        },
+        {
+            "language": "德语",
+            "explanation": "Wurmsorte  (S, Bio)"
+        }
+    ],
+    "general_pinyins": [
+        "shàn"
+    ],
+    "general_zhuyins": [
+        "ㄕㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "12",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "蟺",
+        "鱔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "87EE",
+            "251214431112431251"
+        ],
+        "char_code_wubi": "judk|juuk",
+        "char_code_cangjie": "littr",
+        "char_code_zhengma": "iuuj",
+        "char_code_sijiao": "58161"
+    },
+    "general_unicode": "基本区 U+87EE",
+    "general_bs_code": "251214431112431251"
+}

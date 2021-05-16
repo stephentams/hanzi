@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "degree, system; manner; to consider"
+        },
+        {
+            "language": "德语",
+            "explanation": "Grad"
+        },
+        {
+            "language": "法语",
+            "explanation": "degré (en)​,mesure,capacité,degré,règle,régler,passer"
+        }
+    ],
+    "general_pinyins": [
+        "dù",
+        "duó"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨˋ",
+        "ㄉㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "广",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "剫",
+        "宅",
+        "㡯",
+        "渡",
+        "𢜬",
+        "𤸿",
+        "度"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5EA6",
+            "413122154"
+        ],
+        "char_code_wubi": "yaci|oaci",
+        "char_code_cangjie": "ite",
+        "char_code_zhengma": "tgex",
+        "char_code_sijiao": "00247"
+    },
+    "general_unicode": "基本区 U+5EA6",
+    "general_bs_code": "413122154"
+}

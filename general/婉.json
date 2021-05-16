@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "amiable, congenial; restrained"
+        },
+        {
+            "language": "德语",
+            "explanation": "ansprechend, elegant"
+        },
+        {
+            "language": "法语",
+            "explanation": "aimable,douce,jolie,gracieuse"
+        }
+    ],
+    "general_pinyins": [
+        "wǎn"
+    ],
+    "general_zhuyins": [
+        "ㄨㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䛷",
+        "䩊",
+        "𡟰"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5A49",
+            "53144535455"
+        ],
+        "char_code_wubi": "vpqb",
+        "char_code_cangjie": "vjnu",
+        "char_code_zhengma": "zmry",
+        "char_code_sijiao": "43412"
+    },
+    "general_unicode": "基本区 U+5A49",
+    "general_bs_code": "53144535455"
+}

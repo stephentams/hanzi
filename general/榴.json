@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pomegranate"
+        },
+        {
+            "language": "德语",
+            "explanation": "Granatapfel  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "grenade"
+        }
+    ],
+    "general_pinyins": [
+        "liú"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "橊",
+        "留"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "69B4",
+            "12343545325121"
+        ],
+        "char_code_wubi": "sqyl",
+        "char_code_cangjie": "dhhw",
+        "char_code_zhengma": "fryk",
+        "char_code_sijiao": "47962"
+    },
+    "general_unicode": "基本区 U+69B4",
+    "general_bs_code": "12343545325121"
+}

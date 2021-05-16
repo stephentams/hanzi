@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lapel and belt"
+        }
+    ],
+    "general_pinyins": [
+        "zhú",
+        "zhǔ"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨˊ",
+        "ㄓㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "糹",
+        "non_radical_sn": "21",
+        "total_sn": "27"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦅉",
+        "𦆂"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4335",
+            "554444513241342522135251214"
+        ],
+        "char_code_wubi": "xnij",
+        "char_code_cangjie": "vfsei",
+        "char_code_zhengma": "zxri",
+        "char_code_sijiao": "27927"
+    },
+    "general_unicode": "扩展A U+4335",
+    "general_bs_code": "554444513241342522135251214"
+}

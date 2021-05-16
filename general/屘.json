@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "the youngest"
+        },
+        {
+            "language": "法语",
+            "explanation": "le plus jeune"
+        }
+    ],
+    "general_pinyins": [
+        "mǎn"
+    ],
+    "general_zhuyins": [
+        "ㄇㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "尸",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左下包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5C58",
+            "5133115521"
+        ],
+        "char_code_wubi": "ntfb|nebd",
+        "char_code_cangjie": "sund",
+        "char_code_zhengma": "xmmy",
+        "char_code_sijiao": "77214"
+    },
+    "general_unicode": "基本区 U+5C58",
+    "general_bs_code": "5133115521"
+}

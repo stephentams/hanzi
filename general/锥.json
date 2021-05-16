@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "gimlet, awl, drill, auger; bore"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ahle  (S)​,langweilen, sich bohren  (V)​,Pfriem"
+        },
+        {
+            "language": "法语",
+            "explanation": "poinçon,cône"
+        }
+    ],
+    "general_pinyins": [
+        "zhuī"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨㄟ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "錐"
+    ],
+    "general_ytz": [
+        "錐"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9525",
+            "3111532411121"
+        ],
+        "char_code_wubi": "qwyg",
+        "char_code_cangjie": "opog",
+        "char_code_zhengma": "pni",
+        "char_code_sijiao": "80715"
+    },
+    "general_unicode": "基本区 U+9525",
+    "general_bs_code": "3111532411121"
+}

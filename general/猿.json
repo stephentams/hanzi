@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ape"
+        },
+        {
+            "language": "德语",
+            "explanation": "Affe, Menschenaffe (S, Bio)"
+        }
+    ],
+    "general_pinyins": [
+        "yuán"
+    ],
+    "general_zhuyins": [
+        "ㄩㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "猨",
+        "蝯",
+        "𤝌",
+        "𤟗",
+        "𤠔",
+        "𧳭",
+        "𧳷"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "733F",
+            "3531212513534"
+        ],
+        "char_code_wubi": "qtfe",
+        "char_code_cangjie": "khgrv",
+        "char_code_zhengma": "qmjr",
+        "char_code_sijiao": "44232"
+    },
+    "general_unicode": "基本区 U+733F",
+    "general_bs_code": "3531212513534"
+}

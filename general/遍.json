@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "everywhere, all over, throughout"
+        },
+        {
+            "language": "德语",
+            "explanation": "ZEW für den Verlauf einer Handlung von Angang bis Ende  (Num)​,einmal (ganz)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "fois,partout,(classificateur pour les actions)​"
+        }
+    ],
+    "general_pinyins": [
+        "biàn"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "徧",
+        "𨖠",
+        "㴜"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "904D",
+            "451325122454"
+        ],
+        "char_code_wubi": "ynmp",
+        "char_code_cangjie": "yhsb",
+        "char_code_zhengma": "wmlw",
+        "char_code_sijiao": "33302"
+    },
+    "general_unicode": "基本区 U+904D",
+    "general_bs_code": "451325122454"
+}

@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "string; relatives; conspire"
+        },
+        {
+            "language": "德语",
+            "explanation": "Reihe, Kette  (S)​,Zeichenkette, String  (S, EDV)​,aufreihen, aneinanderreihen, etwas auf einer Schnur ziehen  (V)​,aufreihen, verbinden, anschließen  (V)​,eine Rolle (in einem Stück)​ spielen  (V)​,ganz durcheinandergeraten  (V)​,sich mit jemandem verschwören, sich zusammentun, konspirieren  (V)​,vermengen  (V)​,verschwören  (V)​,von Ort zu Ort gehen, verschiedene Orte aufsuchen, umherlaufen  (V)​,ZEW für Schnur, Bund, Traube, Aneinanderreihung  (Zähl)"
+        },
+        {
+            "language": "法语",
+            "explanation": "enfiler,enchaîner,aller çà et là,errer,se liguer"
+        }
+    ],
+    "general_pinyins": [
+        "chuàn"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "丨",
+        "non_radical_sn": "6",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "穿",
+        "串"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4E32",
+            "2512512"
+        ],
+        "char_code_wubi": "kkhk",
+        "char_code_cangjie": "ll",
+        "char_code_zhengma": "jji",
+        "char_code_sijiao": "50006"
+    },
+    "general_unicode": "基本区 U+4E32",
+    "general_bs_code": "2512512"
+}

@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to build with soil, plaster over with mud"
+        },
+        {
+            "language": "德语",
+            "explanation": "verbergen, begraben"
+        },
+        {
+            "language": "法语",
+            "explanation": "construire avec de la terre,plâtre avec de la boue"
+        }
+    ],
+    "general_pinyins": [
+        "jìn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "堇",
+        "𡒣"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5890",
+            "12112212511121"
+        ],
+        "char_code_wubi": "fakg",
+        "char_code_cangjie": "gtlm",
+        "char_code_zhengma": "bejc",
+        "char_code_sijiao": "44115"
+    },
+    "general_unicode": "基本区 U+5890",
+    "general_bs_code": "12112212511121"
+}

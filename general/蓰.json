@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to increase five-fold"
+        },
+        {
+            "language": "法语",
+            "explanation": "quintuple"
+        }
+    ],
+    "general_pinyins": [
+        "xǐ"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨈉"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "84F0",
+            "12233221212134"
+        ],
+        "char_code_wubi": "athh",
+        "char_code_cangjie": "thoo",
+        "char_code_zhengma": "eoii",
+        "char_code_sijiao": "44281"
+    },
+    "general_unicode": "基本区 U+84F0",
+    "general_bs_code": "12233221212134"
+}

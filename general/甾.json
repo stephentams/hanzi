@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ground that has been under cultivation for one year; evil, calamity"
+        },
+        {
+            "language": "德语",
+            "explanation": "Zai  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "stéroïde"
+        }
+    ],
+    "general_pinyins": [
+        "zāi",
+        "zī"
+    ],
+    "general_zhuyins": [
+        "ㄗㄞ",
+        "ㄗ"
+    ],
+    "general_radical": {
+        "radical": "田",
+        "non_radical_sn": "3",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "淄",
+        "畠",
+        "𠙹",
+        "𠙾",
+        "𠚀",
+        "𠚋",
+        "鶅",
+        "災"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "753E",
+            "55525121"
+        ],
+        "char_code_wubi": "vlf",
+        "char_code_cangjie": "vvw",
+        "char_code_zhengma": "zdki",
+        "char_code_sijiao": "22603"
+    },
+    "general_unicode": "基本区 U+753E",
+    "general_bs_code": "55525121"
+}

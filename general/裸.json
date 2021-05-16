@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bare, nude; undress, strip"
+        },
+        {
+            "language": "德语",
+            "explanation": "nackt, bloß (Adj)​,unbekleidet, unverhüllt (Adj)"
+        }
+    ],
+    "general_pinyins": [
+        "luǒ"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄛˇ"
+    ],
+    "general_radical": {
+        "radical": "衤",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㒩",
+        "倮",
+        "儽",
+        "臝",
+        "躶",
+        "𦣔",
+        "𧝹",
+        "𡑤",
+        "裸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "88F8",
+            "4523425111234"
+        ],
+        "char_code_wubi": "pujs",
+        "char_code_cangjie": "lwd",
+        "char_code_zhengma": "wtkf",
+        "char_code_sijiao": "36294"
+    },
+    "general_unicode": "基本区 U+88F8",
+    "general_bs_code": "4523425111234"
+}

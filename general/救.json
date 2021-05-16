@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "save, rescue, relieve; help, aid"
+        },
+        {
+            "language": "德语",
+            "explanation": "fördern, assistieren ,retten ,sichern, einsparen ,Jiu  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "sauver,secourir,assister,aider,délivrer"
+        }
+    ],
+    "general_pinyins": [
+        "jiù"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "攵",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "勼",
+        "㤹",
+        "捄",
+        "𣪋",
+        "𥘦",
+        "𧘶",
+        "𧧷"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6551",
+            "12413443134"
+        ],
+        "char_code_wubi": "fiyt|giyt",
+        "char_code_cangjie": "ieok",
+        "char_code_zhengma": "dvsm",
+        "char_code_sijiao": "48940"
+    },
+    "general_unicode": "基本区 U+6551",
+    "general_bs_code": "12413443134"
+}

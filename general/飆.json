@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "whirlwind, stormy gale"
+        },
+        {
+            "language": "法语",
+            "explanation": "ouragan,vent violent,tourbillon"
+        }
+    ],
+    "general_pinyins": [
+        "biāo"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "風",
+        "non_radical_sn": "12",
+        "total_sn": "21"
+    },
+    "general_stc": [
+        "飙"
+    ],
+    "general_ytz": [
+        "猋",
+        "颮",
+        "颷",
+        "飇",
+        "飈",
+        "飊",
+        "飙",
+        "𩖚",
+        "𩖡",
+        "𩖧",
+        "𩗈"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "98C6",
+            "134413441344353251214"
+        ],
+        "char_code_wubi": "dddj",
+        "char_code_cangjie": "ikhni",
+        "char_code_zhengma": "gdsq",
+        "char_code_sijiao": "47810"
+    },
+    "general_unicode": "基本区 U+98C6",
+    "general_bs_code": "134413441344353251214"
+}

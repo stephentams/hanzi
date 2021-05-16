@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lead by hand, take with; carry"
+        },
+        {
+            "language": "德语",
+            "explanation": "halten, festhalten ,mitbringen ,mitnehmen ,tragen, befördern"
+        },
+        {
+            "language": "法语",
+            "explanation": "emporter avec soi"
+        }
+    ],
+    "general_pinyins": [
+        "xié"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "18",
+        "total_sn": "21"
+    },
+    "general_stc": [
+        "携"
+    ],
+    "general_ytz": [
+        "㩗",
+        "㩦",
+        "儶",
+        "携",
+        "擕"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "651C",
+            "121252324111212534251"
+        ],
+        "char_code_wubi": "rmwk",
+        "char_code_cangjie": "quob",
+        "char_code_zhengma": "dlnl",
+        "char_code_sijiao": "52027"
+    },
+    "general_unicode": "基本区 U+651C",
+    "general_bs_code": "121252324111212534251"
+}

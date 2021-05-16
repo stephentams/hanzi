@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "warn, admonish; warning"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gebot, Warnung  (S)​,warnen, verwarnen, ermahnen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "avertir,recommander"
+        }
+    ],
+    "general_pinyins": [
+        "jiè"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "誡"
+    ],
+    "general_ytz": [
+        "誡",
+        "䛺",
+        "𧪖"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BEB",
+            "451132534"
+        ],
+        "char_code_wubi": "yaah",
+        "char_code_cangjie": "ivit",
+        "char_code_zhengma": "she",
+        "char_code_sijiao": "33750"
+    },
+    "general_unicode": "基本区 U+8BEB",
+    "general_bs_code": "451132534"
+}

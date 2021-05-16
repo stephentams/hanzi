@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to bend"
+        }
+    ],
+    "general_pinyins": [
+        "yuè"
+    ],
+    "general_zhuyins": [
+        "ㄩㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6288",
+            "1213511"
+        ],
+        "char_code_wubi": "reg",
+        "char_code_cangjie": "qb",
+        "char_code_zhengma": "dqvv",
+        "char_code_sijiao": "57020"
+    },
+    "general_unicode": "基本区 U+6288",
+    "general_bs_code": "1213511"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "niece"
+        },
+        {
+            "language": "德语",
+            "explanation": "Nichte  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "neveu"
+        }
+    ],
+    "general_pinyins": [
+        "zhí"
+    ],
+    "general_zhuyins": [
+        "ㄓˊ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㜼",
+        "侄",
+        "妷",
+        "𡥺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "59EA",
+            "531154121"
+        ],
+        "char_code_wubi": "vgcf",
+        "char_code_cangjie": "vmig",
+        "char_code_zhengma": "zmhb",
+        "char_code_sijiao": "41414"
+    },
+    "general_unicode": "基本区 U+59EA",
+    "general_bs_code": "531154121"
+}

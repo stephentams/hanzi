@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "compose, write, compile"
+        }
+    ],
+    "general_pinyins": [
+        "zhuàn"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "篹",
+        "籑",
+        "譔",
+        "𢰅",
+        "𢵬",
+        "算",
+        "選",
+        "僎"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "64B0",
+            "121515515122134"
+        ],
+        "char_code_wubi": "rnnw",
+        "char_code_cangjie": "qruc",
+        "char_code_zhengma": "dyeo",
+        "char_code_sijiao": "57081"
+    },
+    "general_unicode": "基本区 U+64B0",
+    "general_bs_code": "121515515122134"
+}

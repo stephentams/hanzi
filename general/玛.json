@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "agate; cornelian"
+        },
+        {
+            "language": "德语",
+            "explanation": "Achat  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "agate,cornaline"
+        }
+    ],
+    "general_pinyins": [
+        "mǎ"
+    ],
+    "general_zhuyins": [
+        "ㄇㄚˇ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "3",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "瑪"
+    ],
+    "general_ytz": [
+        "瑪"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "739B",
+            "1121551"
+        ],
+        "char_code_wubi": "gcg|gcgg",
+        "char_code_cangjie": "mgnvm",
+        "char_code_zhengma": "cxvv",
+        "char_code_sijiao": "17127"
+    },
+    "general_unicode": "基本区 U+739B",
+    "general_bs_code": "1121551"
+}

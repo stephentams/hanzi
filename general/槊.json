@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "spear, lance"
+        },
+        {
+            "language": "法语",
+            "explanation": "longue lance"
+        }
+    ],
+    "general_pinyins": [
+        "shuò"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㮶",
+        "䔠",
+        "搠",
+        "矟",
+        "銏",
+        "鎙",
+        "𣓞",
+        "𣔒"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "69CA",
+            "43152335111234"
+        ],
+        "char_code_wubi": "ubts",
+        "char_code_cangjie": "tbd",
+        "char_code_zhengma": "uaqf",
+        "char_code_sijiao": "87904"
+    },
+    "general_unicode": "基本区 U+69CA",
+    "general_bs_code": "43152335111234"
+}

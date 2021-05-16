@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "agree"
+        },
+        {
+            "language": "德语",
+            "explanation": "übereinstimmen, beipflichten"
+        },
+        {
+            "language": "法语",
+            "explanation": "unir"
+        }
+    ],
+    "general_pinyins": [
+        "xī"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧ"
+    ],
+    "general_radical": {
+        "radical": "羽",
+        "non_radical_sn": "6",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "歙",
+        "翖",
+        "𦐬"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7FD5",
+            "341251541541"
+        ],
+        "char_code_wubi": "wgkn",
+        "char_code_cangjie": "orsmm",
+        "char_code_zhengma": "odyy",
+        "char_code_sijiao": "80127"
+    },
+    "general_unicode": "基本区 U+7FD5",
+    "general_bs_code": "341251541541"
+}

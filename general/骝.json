@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "famous horse"
+        },
+        {
+            "language": "德语",
+            "explanation": "Rappe (schwarzes Pferd mit schwarzer Mähne)​  (S, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cheval bai à la crinière noire"
+        }
+    ],
+    "general_pinyins": [
+        "liú"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "马",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "騮"
+    ],
+    "general_ytz": [
+        "騮",
+        "駠",
+        "駵",
+        "驑",
+        "𩣒",
+        "𩤃"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A9D",
+            "5513545325121"
+        ],
+        "char_code_wubi": "cqyl|cgql",
+        "char_code_cangjie": "nmhhw",
+        "char_code_zhengma": "xryk",
+        "char_code_sijiao": "77162"
+    },
+    "general_unicode": "基本区 U+9A9D",
+    "general_bs_code": "5513545325121"
+}

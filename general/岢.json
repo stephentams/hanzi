@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "德语",
+            "explanation": "Ort in Shanxi"
+        }
+    ],
+    "general_pinyins": [
+        "kě"
+    ],
+    "general_zhuyins": [
+        "ㄎㄜˇ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㞹"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5CA2",
+            "25212512"
+        ],
+        "char_code_wubi": "mskf",
+        "char_code_cangjie": "umnr",
+        "char_code_zhengma": "llaj",
+        "char_code_sijiao": "22621"
+    },
+    "general_unicode": "基本区 U+5CA2",
+    "general_bs_code": "25212512"
+}

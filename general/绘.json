@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "draw, sketch, paint"
+        },
+        {
+            "language": "德语",
+            "explanation": "anstreichen, bemalen ,malen, saugen"
+        },
+        {
+            "language": "法语",
+            "explanation": "peindre,dessiner"
+        }
+    ],
+    "general_pinyins": [
+        "huì"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "繪"
+    ],
+    "general_ytz": [
+        "繪",
+        "絵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7ED8",
+            "551341154"
+        ],
+        "char_code_wubi": "xwfc",
+        "char_code_cangjie": "vmomi",
+        "char_code_zhengma": "zobz",
+        "char_code_sijiao": "28132"
+    },
+    "general_unicode": "基本区 U+7ED8",
+    "general_bs_code": "551341154"
+}

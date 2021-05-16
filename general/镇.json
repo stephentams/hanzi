@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "town, market place; suppress"
+        },
+        {
+            "language": "德语",
+            "explanation": "Großgemeinde  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "réprimer,presser,garder,bourg"
+        }
+    ],
+    "general_pinyins": [
+        "zhèn"
+    ],
+    "general_zhuyins": [
+        "ㄓㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "10",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "鎮"
+    ],
+    "general_ytz": [
+        "鎮",
+        "鎭",
+        "𨥵",
+        "𨦸",
+        "𨱅"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9547",
+            "311151225111134"
+        ],
+        "char_code_wubi": "qfhw",
+        "char_code_cangjie": "opjbc",
+        "char_code_zhengma": "pelo",
+        "char_code_sijiao": "84781"
+    },
+    "general_unicode": "基本区 U+9547",
+    "general_bs_code": "311151225111134"
+}

@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "advance money, pay for another"
+        },
+        {
+            "language": "法语",
+            "explanation": "mettre en dessous,coussin,matelas"
+        }
+    ],
+    "general_pinyins": [
+        "diàn"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "墊"
+    ],
+    "general_ytz": [
+        "墊",
+        "㼭"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "57AB",
+            "121354121"
+        ],
+        "char_code_wubi": "rvyf",
+        "char_code_cangjie": "qig",
+        "char_code_zhengma": "dqsb",
+        "char_code_sijiao": "55104"
+    },
+    "general_unicode": "基本区 U+57AB",
+    "general_bs_code": "121354121"
+}

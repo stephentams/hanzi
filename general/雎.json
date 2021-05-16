@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "osprey, fishhawk; hold back"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fischadler  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "mouette"
+        }
+    ],
+    "general_pinyins": [
+        "jū"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩ"
+    ],
+    "general_radical": {
+        "radical": "隹",
+        "non_radical_sn": "5",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "鴡"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "96CE",
+            "2511132411121"
+        ],
+        "char_code_wubi": "egwy",
+        "char_code_cangjie": "bmog",
+        "char_code_zhengma": "lcni",
+        "char_code_sijiao": "70115"
+    },
+    "general_unicode": "基本区 U+96CE",
+    "general_bs_code": "2511132411121"
+}

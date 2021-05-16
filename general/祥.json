@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "good luck, good omen; happiness"
+        },
+        {
+            "language": "德语",
+            "explanation": "Glück verheißend, günstig"
+        },
+        {
+            "language": "法语",
+            "explanation": "propice,faste"
+        }
+    ],
+    "general_pinyins": [
+        "xiáng"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "礻",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢒑",
+        "祥"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7965",
+            "4524431112"
+        ],
+        "char_code_wubi": "pyud|pyuh",
+        "char_code_cangjie": "iftq",
+        "char_code_zhengma": "wsuc",
+        "char_code_sijiao": "38251"
+    },
+    "general_unicode": "基本区 U+7965",
+    "general_bs_code": "4524431112"
+}

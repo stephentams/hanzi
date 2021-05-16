@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "roast, broil; toast; cauterize"
+        },
+        {
+            "language": "德语",
+            "explanation": "grillen"
+        },
+        {
+            "language": "法语",
+            "explanation": "faire rôtir"
+        }
+    ],
+    "general_pinyins": [
+        "zhì"
+    ],
+    "general_zhuyins": [
+        "ㄓˋ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䏑",
+        "熫",
+        "𤐬",
+        "𤒗",
+        "𦛧",
+        "𦜡",
+        "𦠁",
+        "炙"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7099",
+            "35444334"
+        ],
+        "char_code_wubi": "qou",
+        "char_code_cangjie": "bf",
+        "char_code_zhengma": "rsuo",
+        "char_code_sijiao": "27809"
+    },
+    "general_unicode": "基本区 U+7099",
+    "general_bs_code": "35444334"
+}

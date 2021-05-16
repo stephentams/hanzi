@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sickness; distress"
+        },
+        {
+            "language": "德语",
+            "explanation": "peinigen, Bedrängnis  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "détresse"
+        }
+    ],
+    "general_pinyins": [
+        "mò"
+    ],
+    "general_zhuyins": [
+        "ㄇㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "10",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "763C",
+            "413411222511134"
+        ],
+        "char_code_wubi": "uajd",
+        "char_code_cangjie": "ktak",
+        "char_code_zhengma": "tekg",
+        "char_code_sijiao": "00184"
+    },
+    "general_unicode": "基本区 U+763C",
+    "general_bs_code": "413411222511134"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "the instep"
+        },
+        {
+            "language": "法语",
+            "explanation": "cou-de-pied"
+        }
+    ],
+    "general_pinyins": [
+        "fū"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "5",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "柎",
+        "胕",
+        "趺",
+        "𧿤",
+        "𨁵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8DD7",
+            "251212132124"
+        ],
+        "char_code_wubi": "khwf",
+        "char_code_cangjie": "rmodi",
+        "char_code_zhengma": "jind",
+        "char_code_sijiao": "64100"
+    },
+    "general_unicode": "基本区 U+8DD7",
+    "general_bs_code": "251212132124"
+}

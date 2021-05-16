@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "samarium"
+        },
+        {
+            "language": "德语",
+            "explanation": "Samarium (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "samarium"
+        }
+    ],
+    "general_pinyins": [
+        "shān",
+        "shàn"
+    ],
+    "general_zhuyins": [
+        "ㄕㄢ",
+        "ㄕㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "3",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "釤"
+    ],
+    "general_ytz": [
+        "釤",
+        "鐥"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9490",
+            "31115333"
+        ],
+        "char_code_wubi": "qet",
+        "char_code_cangjie": "ophhh",
+        "char_code_zhengma": "ppd",
+        "char_code_sijiao": "82722"
+    },
+    "general_unicode": "基本区 U+9490",
+    "general_bs_code": "31115333"
+}

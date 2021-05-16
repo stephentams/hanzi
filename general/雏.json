@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "chick, fledging; infant, toddler"
+        },
+        {
+            "language": "德语",
+            "explanation": "Jungvogel, Vogeljunges  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "petit,jeune,oisillon,poussin"
+        }
+    ],
+    "general_pinyins": [
+        "chú"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "隹",
+        "non_radical_sn": "5",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "雛"
+    ],
+    "general_ytz": [
+        "雛",
+        "鶵",
+        "𨿉",
+        "𨿊",
+        "𩿮",
+        "𩿿",
+        "𪀫",
+        "𪄞"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "96CF",
+            "3551132411121"
+        ],
+        "char_code_wubi": "qvwy",
+        "char_code_cangjie": "nsog",
+        "char_code_zhengma": "rxni",
+        "char_code_sijiao": "20115"
+    },
+    "general_unicode": "基本区 U+96CF",
+    "general_bs_code": "3551132411121"
+}

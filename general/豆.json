@@ -1,0 +1,55 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "beans, peas; bean-shaped"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schale auf schmalem Säulenfuß  (S)​,Bohne, Hülsenfrucht  (S, Agrar)​,Dou  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "légumineux,haricot,pois"
+        }
+    ],
+    "general_pinyins": [
+        "dòu"
+    ],
+    "general_zhuyins": [
+        "ㄉㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "豆",
+        "non_radical_sn": "0",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "痘",
+        "䇺",
+        "梪",
+        "𣅋",
+        "𣅣",
+        "𤽋",
+        "𧯚",
+        "𧯜",
+        "𧯝",
+        "荳",
+        "𣅑",
+        "𤽔"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C46",
+            "1251431"
+        ],
+        "char_code_wubi": "gkuf",
+        "char_code_cangjie": "mrt",
+        "char_code_zhengma": "ajua",
+        "char_code_sijiao": "10108"
+    },
+    "general_unicode": "基本区 U+8C46",
+    "general_bs_code": "1251431"
+}

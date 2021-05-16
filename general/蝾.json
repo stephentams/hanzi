@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lizard"
+        },
+        {
+            "language": "德语",
+            "explanation": "Molch, Salamander  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "salamandre"
+        }
+    ],
+    "general_pinyins": [
+        "róng"
+    ],
+    "general_zhuyins": [
+        "ㄖㄨㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "9",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "蠑"
+    ],
+    "general_ytz": [
+        "蠑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "877E",
+            "251214122451234"
+        ],
+        "char_code_wubi": "japs",
+        "char_code_cangjie": "litbd",
+        "char_code_zhengma": "iewf",
+        "char_code_sijiao": "54194"
+    },
+    "general_unicode": "基本区 U+877E",
+    "general_bs_code": "251214122451234"
+}

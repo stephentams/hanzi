@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "numerary adjunct for trees"
+        },
+        {
+            "language": "德语",
+            "explanation": "Zähleinheitswort für Bäume und ähnliche Pflanzen  (Zähl)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(classificateur des arbres, perles, etc.)​"
+        }
+    ],
+    "general_pinyins": [
+        "kē"
+    ],
+    "general_zhuyins": [
+        "ㄎㄜ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "梡",
+        "科",
+        "窠",
+        "𤖇"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "68F5",
+            "123425111234"
+        ],
+        "char_code_wubi": "sjsy",
+        "char_code_cangjie": "dwd",
+        "char_code_zhengma": "fkf",
+        "char_code_sijiao": "46994"
+    },
+    "general_unicode": "基本区 U+68F5",
+    "general_bs_code": "123425111234"
+}

@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "favorite, concubine; favor"
+        },
+        {
+            "language": "法语",
+            "explanation": "adorer,choyer"
+        }
+    ],
+    "general_pinyins": [
+        "chǒng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "宀",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "寵"
+    ],
+    "general_ytz": [
+        "寵"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5BA0",
+            "44513534"
+        ],
+        "char_code_wubi": "pdxb|pdxy",
+        "char_code_cangjie": "jikp",
+        "char_code_zhengma": "wdgm",
+        "char_code_sijiao": "30414"
+    },
+    "general_unicode": "基本区 U+5BA0",
+    "general_bs_code": "44513534"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "patterned silk; tie knot"
+        },
+        {
+            "language": "德语",
+            "explanation": "einen Knoten binden ,knoten, Krawattenknoten  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tricoter,faire un noeud"
+        }
+    ],
+    "general_pinyins": [
+        "xié"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "纈"
+    ],
+    "general_ytz": [
+        "纈"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F2C",
+            "551121251132534"
+        ],
+        "char_code_wubi": "xfkm",
+        "char_code_cangjie": "vmgro",
+        "char_code_zhengma": "zbjg",
+        "char_code_sijiao": "21182"
+    },
+    "general_unicode": "基本区 U+7F2C",
+    "general_bs_code": "551121251132534"
+}

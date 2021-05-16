@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hungry, starving, famished"
+        },
+        {
+            "language": "德语",
+            "explanation": "hungrig"
+        },
+        {
+            "language": "法语",
+            "explanation": "avoir faim,perdre courage"
+        }
+    ],
+    "general_pinyins": [
+        "něi"
+    ],
+    "general_zhuyins": [
+        "ㄋㄟˇ"
+    ],
+    "general_radical": {
+        "radical": "饣",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "餒"
+    ],
+    "general_ytz": [
+        "餒"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9981",
+            "3553443531"
+        ],
+        "char_code_wubi": "qnev",
+        "char_code_cangjie": "nvbv",
+        "char_code_zhengma": "oxpz",
+        "char_code_sijiao": "22744"
+    },
+    "general_unicode": "基本区 U+9981",
+    "general_bs_code": "3553443531"
+}

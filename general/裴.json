@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "surname; look of a flowing gown"
+        },
+        {
+            "language": "德语",
+            "explanation": "Pei [ ein Nachname ]  (Eig, Fam)​,ein Nachname  (Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "Pei (nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "péi"
+    ],
+    "general_zhuyins": [
+        "ㄆㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "衣",
+        "non_radical_sn": "8",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "裵",
+        "𨛬"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "88F4",
+            "21112111413534"
+        ],
+        "char_code_wubi": "djde|hdhe",
+        "char_code_cangjie": "lyyhv",
+        "char_code_zhengma": "kcsr",
+        "char_code_sijiao": "11732"
+    },
+    "general_unicode": "基本区 U+88F4",
+    "general_bs_code": "21112111413534"
+}

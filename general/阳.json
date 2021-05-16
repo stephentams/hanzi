@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "'male' principle; light; sun"
+        },
+        {
+            "language": "德语",
+            "explanation": "Sonne  (S)​,irdisch, von dieser Welt  (Adj)​,positiv  (Adj)​,Yang (das männliche oder positive Prinzip in der Natur nach der altchinesischen Philosophie, Medizin usw.)​  (Eig, Med)"
+        },
+        {
+            "language": "法语",
+            "explanation": "Yang (principe mâle opposé au Yin)​,Soleil,éclairé,adret (versant d'une montagne exposé au soleil)​,masculin,positif (électricité)​,(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "yáng"
+    ],
+    "general_zhuyins": [
+        "ㄧㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "陽"
+    ],
+    "general_ytz": [
+        "陽",
+        "阦",
+        "氜",
+        "昜",
+        "𥌖",
+        "𨹈",
+        "𨼗",
+        "𨼘",
+        "𨼡"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9633",
+            "522511"
+        ],
+        "char_code_wubi": "bjg",
+        "char_code_cangjie": "nla",
+        "char_code_zhengma": "ykvv",
+        "char_code_sijiao": "76200"
+    },
+    "general_unicode": "基本区 U+9633",
+    "general_bs_code": "522511"
+}

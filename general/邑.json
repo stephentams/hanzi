@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "area, district, city, state"
+        },
+        {
+            "language": "法语",
+            "explanation": "ville,village"
+        }
+    ],
+    "general_pinyins": [
+        "yì"
+    ],
+    "general_zhuyins": [
+        "ㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "邑",
+        "non_radical_sn": "0",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡇃",
+        "𨙨"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9091",
+            "2515215"
+        ],
+        "char_code_wubi": "kcb",
+        "char_code_cangjie": "rau",
+        "char_code_zhengma": "jyia",
+        "char_code_sijiao": "60717"
+    },
+    "general_unicode": "基本区 U+9091",
+    "general_bs_code": "2515215"
+}

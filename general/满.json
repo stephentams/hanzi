@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fill; full, satisfied"
+        },
+        {
+            "language": "德语",
+            "explanation": "die Zeit verstreichen (lassen)​  (V)​,vollmachen, füllen  (V)​,voll, erfüllt, ausgebucht  (Adj)​,zufrieden, selbstzufrieden  (Adj)​,Man  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "plein,rempli,complet,satisfait,suffisant,orgueilleux,remplir,complètement"
+        }
+    ],
+    "general_pinyins": [
+        "mǎn"
+    ],
+    "general_zhuyins": [
+        "ㄇㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "滿"
+    ],
+    "general_ytz": [
+        "滿",
+        "満",
+        "𠐎",
+        "𡈝",
+        "𡈪",
+        "𣼛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6EE1",
+            "4411221253434"
+        ],
+        "char_code_wubi": "iagw",
+        "char_code_cangjie": "etmb",
+        "char_code_zhengma": "veoo",
+        "char_code_sijiao": "34127"
+    },
+    "general_unicode": "基本区 U+6EE1",
+    "general_bs_code": "4411221253434"
+}

@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "longitude, lengthwise; length"
+        },
+        {
+            "language": "德语",
+            "explanation": "Pferdelänge, Dauer  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "du Nord au Sud"
+        }
+    ],
+    "general_pinyins": [
+        "mào"
+    ],
+    "general_zhuyins": [
+        "ㄇㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "衣",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧝺",
+        "𧞉"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "88A4",
+            "41545233534"
+        ],
+        "char_code_wubi": "ycbe|ycne",
+        "char_code_cangjie": "ynhv",
+        "char_code_zhengma": "sxmr",
+        "char_code_sijiao": "00732"
+    },
+    "general_unicode": "基本区 U+88A4",
+    "general_bs_code": "41545233534"
+}

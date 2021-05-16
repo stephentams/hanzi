@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "geld, castrate"
+        },
+        {
+            "language": "德语",
+            "explanation": "Wallach ( kastriertes Pferd )​  (S, Bio)​,kastrieren ( Tiere )​  (V, Med)"
+        },
+        {
+            "language": "法语",
+            "explanation": "châtrer"
+        }
+    ],
+    "general_pinyins": [
+        "shàn"
+    ],
+    "general_zhuyins": [
+        "ㄕㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "马",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "騸"
+    ],
+    "general_ytz": [
+        "騸",
+        "𠞛",
+        "𩦐"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A9F",
+            "5514513541541"
+        ],
+        "char_code_wubi": "cynn|cgyn",
+        "char_code_cangjie": "nmism",
+        "char_code_zhengma": "xwyy",
+        "char_code_sijiao": "73127"
+    },
+    "general_unicode": "基本区 U+9A9F",
+    "general_bs_code": "5514513541541"
+}

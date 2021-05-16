@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "Chinese oriole; Oriolus oriolus"
+        },
+        {
+            "language": "德语",
+            "explanation": "chinesischer Pirol  (Eig, Bio)​,Goldammer  (Eig, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "loriot,oriolus"
+        }
+    ],
+    "general_pinyins": [
+        "lí"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "鸟",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "鸝"
+    ],
+    "general_ytz": [
+        "鸝",
+        "𪁐",
+        "𪅆",
+        "𪅌",
+        "𪇺",
+        "𪇾",
+        "𪈳",
+        "𪈹"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E42",
+            "125425435451"
+        ],
+        "char_code_wubi": "gmyg",
+        "char_code_cangjie": "mbpym",
+        "char_code_zhengma": "allr",
+        "char_code_sijiao": "17227"
+    },
+    "general_unicode": "基本区 U+9E42",
+    "general_bs_code": "125425435451"
+}

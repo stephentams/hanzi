@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "seek; search"
+        },
+        {
+            "language": "德语",
+            "explanation": "positionieren, suchen"
+        }
+    ],
+    "general_pinyins": [
+        "mì"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "见",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "覓"
+    ],
+    "general_ytz": [
+        "覓",
+        "覔",
+        "𥦀",
+        "𧠘",
+        "𧠙",
+        "𧠨"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "89C5",
+            "34432535"
+        ],
+        "char_code_wubi": "emqb",
+        "char_code_cangjie": "bbhu",
+        "char_code_zhengma": "pvlr",
+        "char_code_sijiao": "20212"
+    },
+    "general_unicode": "基本区 U+89C5",
+    "general_bs_code": "34432535"
+}

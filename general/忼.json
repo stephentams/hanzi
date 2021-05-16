@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ardent; generous, magnanimous"
+        }
+    ],
+    "general_pinyins": [
+        "kāng",
+        "hàng"
+    ],
+    "general_zhuyins": [
+        "ㄎㄤ",
+        "ㄏㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "慷",
+        "𪫤"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5FFC",
+            "4424135"
+        ],
+        "char_code_wubi": "nymn|nywn",
+        "char_code_cangjie": "pyhn",
+        "char_code_zhengma": "usqd",
+        "char_code_sijiao": "90017"
+    },
+    "general_unicode": "基本区 U+5FFC",
+    "general_bs_code": "4424135"
+}

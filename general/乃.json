@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "then; really, indeed; as it turned out, after all; namely"
+        },
+        {
+            "language": "德语",
+            "explanation": "mithin ,sein, lauten"
+        }
+    ],
+    "general_pinyins": [
+        "nǎi"
+    ],
+    "general_zhuyins": [
+        "ㄋㄞˇ"
+    ],
+    "general_radical": {
+        "radical": "丿",
+        "non_radical_sn": "1",
+        "total_sn": "2"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "廼",
+        "𠄎",
+        "𠄕",
+        "𠚝",
+        "𠧟",
+        "𠧤",
+        "𢎗",
+        "𢎧",
+        "𢏩"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4E43",
+            "53"
+        ],
+        "char_code_wubi": "etn|bnt",
+        "char_code_cangjie": "nhs",
+        "char_code_zhengma": "ymvv",
+        "char_code_sijiao": "17227"
+    },
+    "general_unicode": "基本区 U+4E43",
+    "general_bs_code": "53"
+}

@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "know, perceive, comprehend"
+        },
+        {
+            "language": "德语",
+            "explanation": "wissen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "savoir,connaître,connaissances"
+        }
+    ],
+    "general_pinyins": [
+        "zhī",
+        "zhì"
+    ],
+    "general_zhuyins": [
+        "ㄓ",
+        "ㄓˋ"
+    ],
+    "general_radical": {
+        "radical": "矢",
+        "non_radical_sn": "3",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "智",
+        "𢇻",
+        "𥎵",
+        "𥎿"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "77E5",
+            "31134251"
+        ],
+        "char_code_wubi": "tdkg",
+        "char_code_cangjie": "okr",
+        "char_code_zhengma": "maj",
+        "char_code_sijiao": "86800"
+    },
+    "general_unicode": "基本区 U+77E5",
+    "general_bs_code": "31134251"
+}

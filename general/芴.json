@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "德语",
+            "explanation": "Fluor  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "fluorène"
+        }
+    ],
+    "general_pinyins": [
+        "wù",
+        "hū"
+    ],
+    "general_zhuyins": [
+        "ㄨˋ",
+        "ㄏㄨ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "82B4",
+            "1223533"
+        ],
+        "char_code_wubi": "aqrr",
+        "char_code_cangjie": "tphh",
+        "char_code_zhengma": "erod",
+        "char_code_sijiao": "44227"
+    },
+    "general_unicode": "基本区 U+82B4",
+    "general_bs_code": "1223533"
+}

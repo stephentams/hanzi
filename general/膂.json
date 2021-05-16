@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "backbone, spinal column"
+        },
+        {
+            "language": "德语",
+            "explanation": "Rückgrat, Wirbelsäule  (S, Bio)​,Stärke  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "colonne vertébrale,épine dorsale"
+        }
+    ],
+    "general_pinyins": [
+        "lǚ"
+    ],
+    "general_zhuyins": [
+        "ㄌㄩˇ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "膐"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8182",
+            "41533135342511"
+        ],
+        "char_code_wubi": "ytee",
+        "char_code_cangjie": "yvb",
+        "char_code_zhengma": "syrq",
+        "char_code_sijiao": "08227"
+    },
+    "general_unicode": "基本区 U+8182",
+    "general_bs_code": "41533135342511"
+}

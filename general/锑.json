@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "antimony"
+        },
+        {
+            "language": "德语",
+            "explanation": "Antimon (Element 51, Sb)​ (S, Chem)​,Stibium 法语 antimoine"
+        }
+    ],
+    "general_pinyins": [
+        "tī"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "銻"
+    ],
+    "general_ytz": [
+        "銻"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9511",
+            "311154351523"
+        ],
+        "char_code_wubi": "quxt",
+        "char_code_cangjie": "opcnh",
+        "char_code_zhengma": "puyz",
+        "char_code_sijiao": "88727"
+    },
+    "general_unicode": "基本区 U+9511",
+    "general_bs_code": "311154351523"
+}

@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "人",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "老"
+    ],
+    "general_structure": "左下包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "20223",
+            "31213534"
+        ],
+        "char_code_wubi": "tfqw",
+        "char_code_cangjie": "huo",
+        "char_code_zhengma": "mbro"
+    },
+    "general_unicode": "扩展B U+20223",
+    "general_bs_code": "31213534"
+}

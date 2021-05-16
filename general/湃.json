@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sound of waves; turbulent"
+        },
+        {
+            "language": "法语",
+            "explanation": "bruit des vagues"
+        }
+    ],
+    "general_pinyins": [
+        "pài"
+    ],
+    "general_zhuyins": [
+        "ㄆㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𪿪"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6E43",
+            "441311311112"
+        ],
+        "char_code_wubi": "irdf",
+        "char_code_cangjie": "ehqj",
+        "char_code_zhengma": "vmac",
+        "char_code_sijiao": "31150"
+    },
+    "general_unicode": "基本区 U+6E43",
+    "general_bs_code": "441311311112"
+}

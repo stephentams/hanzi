@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "draw, reel"
+        },
+        {
+            "language": "法语",
+            "explanation": "dévider un cocon"
+        }
+    ],
+    "general_pinyins": [
+        "sāo"
+    ],
+    "general_zhuyins": [
+        "ㄙㄠ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "繅"
+    ],
+    "general_ytz": [
+        "繅",
+        "𦃐",
+        "𦃨",
+        "𦅒"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F2B",
+            "55155525111234"
+        ],
+        "char_code_wubi": "xvjs",
+        "char_code_cangjie": "vmvvd",
+        "char_code_zhengma": "zzkf",
+        "char_code_sijiao": "22194"
+    },
+    "general_unicode": "基本区 U+7F2B",
+    "general_bs_code": "55155525111234"
+}

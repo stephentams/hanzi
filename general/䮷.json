@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "movement of a horse, a traveling horse"
+        }
+    ],
+    "general_pinyins": [
+        "dú"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "馬",
+        "non_radical_sn": "13",
+        "total_sn": "23"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𩧈"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4BB7",
+            "12112544442522135251214"
+        ],
+        "char_code_wubi": "clqj|colj",
+        "char_code_cangjie": "sfwli",
+        "char_code_zhengma": "curi",
+        "char_code_sijiao": "76327"
+    },
+    "general_unicode": "扩展A U+4BB7",
+    "general_bs_code": "12112544442522135251214"
+}

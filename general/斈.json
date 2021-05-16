@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "learning, knowledge; school"
+        }
+    ],
+    "general_pinyins": [
+        "xué"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "文",
+        "non_radical_sn": "3",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "學"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6588",
+            "4134521"
+        ],
+        "char_code_wubi": "ybf",
+        "char_code_cangjie": "yknd",
+        "char_code_zhengma": "soya",
+        "char_code_sijiao": "00407"
+    },
+    "general_unicode": "基本区 U+6588",
+    "general_bs_code": "4134521"
+}

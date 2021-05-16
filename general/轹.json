@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "run over something with vehicle"
+        },
+        {
+            "language": "德语",
+            "explanation": "einschüchtern, nötigen"
+        }
+    ],
+    "general_pinyins": [
+        "lì"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "车",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "轢"
+    ],
+    "general_ytz": [
+        "轢"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8F79",
+            "152135234"
+        ],
+        "char_code_wubi": "lqiy|ltni",
+        "char_code_cangjie": "kqhvd",
+        "char_code_zhengma": "herk",
+        "char_code_sijiao": "42594"
+    },
+    "general_unicode": "基本区 U+8F79",
+    "general_bs_code": "152135234"
+}

@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "vast, boundless, widespread"
+        },
+        {
+            "language": "法语",
+            "explanation": "incertain,vaste"
+        }
+    ],
+    "general_pinyins": [
+        "máng"
+    ],
+    "general_zhuyins": [
+        "ㄇㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "慌",
+        "𣴭",
+        "汒"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "832B",
+            "122441415"
+        ],
+        "char_code_wubi": "aiyn",
+        "char_code_cangjie": "teyv",
+        "char_code_zhengma": "evsh",
+        "char_code_sijiao": "44110"
+    },
+    "general_unicode": "基本区 U+832B",
+    "general_bs_code": "122441415"
+}

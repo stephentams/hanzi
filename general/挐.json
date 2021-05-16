@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "drag"
+        },
+        {
+            "language": "德语",
+            "explanation": "ergreifen, einnehmen"
+        },
+        {
+            "language": "法语",
+            "explanation": "appréhender,prendre"
+        }
+    ],
+    "general_pinyins": [
+        "rú",
+        "ná"
+    ],
+    "general_zhuyins": [
+        "ㄖㄨˊ",
+        "ㄋㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "手",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "拿",
+        "𣖹"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6310",
+            "5312513112"
+        ],
+        "char_code_wubi": "vkrj",
+        "char_code_cangjie": "vrq",
+        "char_code_zhengma": "zmjm",
+        "char_code_sijiao": "46502"
+    },
+    "general_unicode": "基本区 U+6310",
+    "general_bs_code": "5312513112"
+}

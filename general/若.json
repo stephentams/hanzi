@@ -1,0 +1,60 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "if, supposing, assuming; similar"
+        },
+        {
+            "language": "德语",
+            "explanation": "als ob... ,ob, sofern ,scheinen, deuchen ,wie"
+        },
+        {
+            "language": "法语",
+            "explanation": "si,comme,supposé que"
+        }
+    ],
+    "general_pinyins": [
+        "ruò",
+        "rě"
+    ],
+    "general_zhuyins": [
+        "ㄖㄨㄛˋ",
+        "ㄖㄜˇ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧁇",
+        "𦴈",
+        "𦱶",
+        "𦱡",
+        "𥉧",
+        "𣞆",
+        "𡧻",
+        "𠰥",
+        "𠭞",
+        "𠭚",
+        "𠭀",
+        "叒",
+        "𡻦",
+        "𦱢",
+        "若"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "82E5",
+            "12213251"
+        ],
+        "char_code_wubi": "adkf",
+        "char_code_cangjie": "tkr",
+        "char_code_zhengma": "egj",
+        "char_code_sijiao": "44604"
+    },
+    "general_unicode": "基本区 U+82E5",
+    "general_bs_code": "12213251"
+}

@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lapel; hidden lapel of coat"
+        }
+    ],
+    "general_pinyins": [
+        "rèn"
+    ],
+    "general_zhuyins": [
+        "ㄖㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "衤",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "袵",
+        "𢂧",
+        "𧙨",
+        "祍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "887D",
+            "452343121"
+        ],
+        "char_code_wubi": "putf",
+        "char_code_cangjie": "lhg",
+        "char_code_zhengma": "wtmb",
+        "char_code_sijiao": "32214"
+    },
+    "general_unicode": "基本区 U+887D",
+    "general_bs_code": "452343121"
+}

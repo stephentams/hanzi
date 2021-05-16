@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "disturb, agitate, stir up"
+        },
+        {
+            "language": "德语",
+            "explanation": "anregen, bewegen ,ärgern, belästige ,durcheinander bringen, beunruhigen ,mischen, mixen"
+        },
+        {
+            "language": "法语",
+            "explanation": "remuer,mélanger,déranger"
+        }
+    ],
+    "general_pinyins": [
+        "jiǎo"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "20",
+        "total_sn": "23"
+    },
+    "general_stc": [
+        "搅"
+    ],
+    "general_ytz": [
+        "㩭",
+        "捁",
+        "攪",
+        "撹"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "652A",
+            "12132113434511452511135"
+        ],
+        "char_code_wubi": "rwfq|rerq",
+        "char_code_cangjie": "qhbu",
+        "char_code_zhengma": "dnol",
+        "char_code_sijiao": "57012"
+    },
+    "general_unicode": "基本区 U+652A",
+    "general_bs_code": "12132113434511452511135"
+}

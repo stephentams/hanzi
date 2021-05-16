@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mustard plant; mustard; tiny"
+        },
+        {
+            "language": "德语",
+            "explanation": "senffarben, Mostrich  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "moutarde,sénevé"
+        }
+    ],
+    "general_pinyins": [
+        "jiè",
+        "gài"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄝˋ",
+        "ㄍㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦬉",
+        "𠟝"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "82A5",
+            "1223432"
+        ],
+        "char_code_wubi": "awjj",
+        "char_code_cangjie": "toll",
+        "char_code_zhengma": "eond",
+        "char_code_sijiao": "44228"
+    },
+    "general_unicode": "基本区 U+82A5",
+    "general_bs_code": "1223432"
+}

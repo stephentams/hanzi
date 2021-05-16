@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tile, brick"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ziegel, Ziegelstein, Klinker, Backstein  (S)​,Zhuan  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "brique,carreau"
+        }
+    ],
+    "general_pinyins": [
+        "zhuān"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨㄢ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "磚"
+    ],
+    "general_ytz": [
+        "磚",
+        "磗",
+        "塼",
+        "甎",
+        "㼷"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7816",
+            "132511154"
+        ],
+        "char_code_wubi": "dfny",
+        "char_code_cangjie": "mrqni",
+        "char_code_zhengma": "gbzs",
+        "char_code_sijiao": "15632"
+    },
+    "general_unicode": "基本区 U+7816",
+    "general_bs_code": "132511154"
+}

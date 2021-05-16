@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wrap, bind; encircle, confine"
+        },
+        {
+            "language": "德语",
+            "explanation": "Verband  (S)​,verbinden  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "envelopper"
+        }
+    ],
+    "general_pinyins": [
+        "guǒ"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄛˇ"
+    ],
+    "general_radical": {
+        "radical": "衣",
+        "non_radical_sn": "8",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䙨",
+        "褁",
+        "𦆪"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "88F9",
+            "41251112343534"
+        ],
+        "char_code_wubi": "yjse",
+        "char_code_cangjie": "ywdv",
+        "char_code_zhengma": "skfr",
+        "char_code_sijiao": "00732"
+    },
+    "general_unicode": "基本区 U+88F9",
+    "general_bs_code": "41251112343534"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "shackles, manacles"
+        },
+        {
+            "language": "德语",
+            "explanation": "Handschelle  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "menottes,passer les menottes"
+        }
+    ],
+    "general_pinyins": [
+        "kào"
+    ],
+    "general_zhuyins": [
+        "ㄎㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "銬"
+    ],
+    "general_ytz": [
+        "銬",
+        "𨯕"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94D0",
+            "31115121315"
+        ],
+        "char_code_wubi": "qftn",
+        "char_code_cangjie": "opjks",
+        "char_code_zhengma": "pbaz",
+        "char_code_sijiao": "84727"
+    },
+    "general_unicode": "基本区 U+94D0",
+    "general_bs_code": "31115121315"
+}

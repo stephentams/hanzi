@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "repeatedly, frequently"
+        },
+        {
+            "language": "德语",
+            "explanation": "abwechselnd"
+        },
+        {
+            "language": "法语",
+            "explanation": "alternativement,à maintes reprises"
+        }
+    ],
+    "general_pinyins": [
+        "dié"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "達",
+        "疊",
+        "𨒔",
+        "軼",
+        "臷",
+        "㦶"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8FED",
+            "31134454"
+        ],
+        "char_code_wubi": "rwpi|tgpi",
+        "char_code_cangjie": "yhqo",
+        "char_code_zhengma": "mbow",
+        "char_code_sijiao": "35308"
+    },
+    "general_unicode": "基本区 U+8FED",
+    "general_bs_code": "31134454"
+}

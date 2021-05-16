@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dumb, mute; become hoarse"
+        },
+        {
+            "language": "德语",
+            "explanation": "stumm ,sprachlos ,stumm  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "muet,rauque"
+        }
+    ],
+    "general_pinyins": [
+        "yǎ",
+        "yā"
+    ],
+    "general_zhuyins": [
+        "ㄧㄚˇ",
+        "ㄧㄚ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "啞"
+    ],
+    "general_ytz": [
+        "啞",
+        "痖",
+        "唖",
+        "𠴀",
+        "𣣾",
+        "𤷸",
+        "𤺘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "54D1",
+            "251122431"
+        ],
+        "char_code_wubi": "kgog",
+        "char_code_cangjie": "rmtc",
+        "char_code_zhengma": "jaku",
+        "char_code_sijiao": "61012"
+    },
+    "general_unicode": "基本区 U+54D1",
+    "general_bs_code": "251122431"
+}

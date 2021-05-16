@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a disease's name in Chinese medicine"
+        }
+    ],
+    "general_pinyins": [
+        "nǔ"
+    ],
+    "general_zhuyins": [
+        "ㄋㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "肉",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "80EC",
+            "53154253434"
+        ],
+        "char_code_wubi": "vcmw",
+        "char_code_cangjie": "veobo",
+        "char_code_zhengma": "zmoo",
+        "char_code_sijiao": "47227"
+    },
+    "general_unicode": "基本区 U+80EC",
+    "general_bs_code": "53154253434"
+}

@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "majestic, solemn, reverent; calm"
+        },
+        {
+            "language": "德语",
+            "explanation": "ernst, feierlich ,Mu  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "solennel,grave"
+        }
+    ],
+    "general_pinyins": [
+        "mù"
+    ],
+    "general_zhuyins": [
+        "ㄇㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "11",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢾓",
+        "𢿉",
+        "𢿬",
+        "𥟙",
+        "𥟟",
+        "𥠇",
+        "𥡻",
+        "𥢣",
+        "𥡆"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7A46",
+            "3123432511234333"
+        ],
+        "char_code_wubi": "trie",
+        "char_code_cangjie": "hdhah",
+        "char_code_zhengma": "mfkp",
+        "char_code_sijiao": "26922"
+    },
+    "general_unicode": "基本区 U+7A46",
+    "general_bs_code": "3123432511234333"
+}

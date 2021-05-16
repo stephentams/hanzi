@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "people; subjects; vassals"
+        },
+        {
+            "language": "德语",
+            "explanation": "unstet, wandernd ,Leute, Menschen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "canaille,gens du peuple(venus des pays étrangers au temps jadis)​"
+        }
+    ],
+    "general_pinyins": [
+        "méng",
+        "máng"
+    ],
+    "general_zhuyins": [
+        "ㄇㄥˊ",
+        "ㄇㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "亠",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣱅",
+        "𦫋",
+        "甿",
+        "䇇"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6C13",
+            "41551515"
+        ],
+        "char_code_wubi": "ynna",
+        "char_code_cangjie": "yvrvp",
+        "char_code_zhengma": "shyh",
+        "char_code_sijiao": "07747"
+    },
+    "general_unicode": "基本区 U+6C13",
+    "general_bs_code": "41551515"
+}

@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to doze; to nap; to nod"
+        },
+        {
+            "language": "法语",
+            "explanation": "sommeiller"
+        }
+    ],
+    "general_pinyins": [
+        "dǔn"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥇜"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "76F9",
+            "251111525"
+        ],
+        "char_code_wubi": "hgbn",
+        "char_code_cangjie": "bupu",
+        "char_code_zhengma": "lhzi",
+        "char_code_sijiao": "65017"
+    },
+    "general_unicode": "基本区 U+76F9",
+    "general_bs_code": "251111525"
+}

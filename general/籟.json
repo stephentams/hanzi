@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bamboo flute; pipe; various sound"
+        },
+        {
+            "language": "德语",
+            "explanation": "Musik  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(ancien instrument à vent chinois)​,bruit sonore"
+        }
+    ],
+    "general_pinyins": [
+        "lài"
+    ],
+    "general_zhuyins": [
+        "ㄌㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "16",
+        "total_sn": "22"
+    },
+    "general_stc": [
+        "籁"
+    ],
+    "general_ytz": [
+        "籁"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7C5F",
+            "3143141251234352511134"
+        ],
+        "char_code_wubi": "tgkm|tskm",
+        "char_code_cangjie": "hdlc",
+        "char_code_zhengma": "mfrl",
+        "char_code_sijiao": "88986"
+    },
+    "general_unicode": "基本区 U+7C5F",
+    "general_bs_code": "3143141251234352511134"
+}

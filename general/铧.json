@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "spade, shovel, plowshare"
+        },
+        {
+            "language": "德语",
+            "explanation": "Pflugschar  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "soc,bêche,pelle"
+        }
+    ],
+    "general_pinyins": [
+        "huá"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "鏵"
+    ],
+    "general_ytz": [
+        "鏵",
+        "釫",
+        "𣏼",
+        "𨫽"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94E7",
+            "31115323512"
+        ],
+        "char_code_wubi": "qwxf",
+        "char_code_cangjie": "opopj",
+        "char_code_zhengma": "pnre",
+        "char_code_sijiao": "84741"
+    },
+    "general_unicode": "基本区 U+94E7",
+    "general_bs_code": "31115323512"
+}

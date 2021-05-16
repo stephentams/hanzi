@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "thing, substance, creature"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ding, Gegenstand  (Wirtsch)"
+        },
+        {
+            "language": "法语",
+            "explanation": "objet,chose,un être,matière"
+        }
+    ],
+    "general_pinyins": [
+        "wù"
+    ],
+    "general_zhuyins": [
+        "ㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "牜",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㘬",
+        "𣃦"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7269",
+            "31213533"
+        ],
+        "char_code_wubi": "trqr|cqrt",
+        "char_code_cangjie": "hqphh",
+        "char_code_zhengma": "mbro",
+        "char_code_sijiao": "27520"
+    },
+    "general_unicode": "基本区 U+7269",
+    "general_bs_code": "31213533"
+}

@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a legendary animal; a greedy person"
+        },
+        {
+            "language": "德语",
+            "explanation": "gefräßig"
+        },
+        {
+            "language": "法语",
+            "explanation": "gourmand,goinfre,vorace"
+        }
+    ],
+    "general_pinyins": [
+        "tiè"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "飠",
+        "non_radical_sn": "9",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "飻",
+        "𡞬",
+        "𩚝",
+        "𩚸",
+        "𩚺",
+        "𡝢"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "992E",
+            "135434333344511534"
+        ],
+        "char_code_wubi": "gqwe|gqwv",
+        "char_code_cangjie": "mhoiv",
+        "char_code_zhengma": "arpo",
+        "char_code_sijiao": "18732"
+    },
+    "general_unicode": "基本区 U+992E",
+    "general_bs_code": "135434333344511534"
+}

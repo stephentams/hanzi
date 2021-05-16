@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "the owl"
+        }
+    ],
+    "general_pinyins": [
+        "liú"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "鸟",
+        "non_radical_sn": "10",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "鶹"
+    ],
+    "general_ytz": [
+        "鶹",
+        "𪅳"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E60",
+            "354532512135451"
+        ],
+        "char_code_wubi": "qyvg",
+        "char_code_cangjie": "hwpym",
+        "char_code_zhengma": "rhkr",
+        "char_code_sijiao": "77627"
+    },
+    "general_unicode": "基本区 U+9E60",
+    "general_bs_code": "354532512135451"
+}

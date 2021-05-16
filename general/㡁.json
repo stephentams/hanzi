@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a robe; a long gown, a shirt; a short gown"
+        }
+    ],
+    "general_pinyins": [
+        "kǎi",
+        "kuà"
+    ],
+    "general_zhuyins": [
+        "ㄎㄞˇ",
+        "ㄎㄨㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "巾",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "袔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3841",
+            "252134115"
+        ],
+        "char_code_wubi": "mhdn",
+        "char_code_cangjie": "lbkms",
+        "char_code_zhengma": "libz",
+        "char_code_sijiao": "44227"
+    },
+    "general_unicode": "扩展A U+3841",
+    "general_bs_code": "252134115"
+}

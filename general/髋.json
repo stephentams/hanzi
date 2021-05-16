@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hipbone; hip"
+        },
+        {
+            "language": "德语",
+            "explanation": "Becken  (S, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bassin osseux"
+        }
+    ],
+    "general_pinyins": [
+        "kuān"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄢ"
+    ],
+    "general_radical": {
+        "radical": "骨",
+        "non_radical_sn": "10",
+        "total_sn": "19"
+    },
+    "general_stc": [
+        "髖"
+    ],
+    "general_ytz": [
+        "髖",
+        "𦢮"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9ACB",
+            "2554525114451222535"
+        ],
+        "char_code_wubi": "mepq",
+        "char_code_cangjie": "bbjtu",
+        "char_code_zhengma": "lwel",
+        "char_code_sijiao": "73212"
+    },
+    "general_unicode": "基本区 U+9ACB",
+    "general_bs_code": "2554525114451222535"
+}

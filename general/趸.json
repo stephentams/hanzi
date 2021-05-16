@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sell or buy wholesale; store"
+        },
+        {
+            "language": "法语",
+            "explanation": "vente en gros"
+        }
+    ],
+    "general_pinyins": [
+        "dǔn"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "3",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "躉"
+    ],
+    "general_ytz": [
+        "躉"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8DB8",
+            "1532512134"
+        ],
+        "char_code_wubi": "dnkh|gqkh",
+        "char_code_cangjie": "msryo",
+        "char_code_zhengma": "ayji",
+        "char_code_sijiao": "10801"
+    },
+    "general_unicode": "基本区 U+8DB8",
+    "general_bs_code": "1532512134"
+}

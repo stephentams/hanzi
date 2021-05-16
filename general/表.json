@@ -1,0 +1,55 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "show, express, manifest, display"
+        },
+        {
+            "language": "德语",
+            "explanation": "Außenseite, Äußere, Oberfläche, außen, äußerlich  (S)​,Bericht an den Kaiser, Eingabe an den Thron  (S)​,durch die Verabreichung von Arzneien, die in den Körper eingedrungene „Kälte“ austreiben  (S)​,Messgerät, Messinstrument, Zähler  (S, Tech)​,Modell, Beispiel, Vorbild  (S)​,Tabelle, Liste, Formular, grafische Darstellung  (S)​,zeigen, ausdrücken  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "montre-bracelet,montre de poche,instrument,compteur,jauge,tableau,montrer,exprimer,manifester,extérieur,apparence,cadran solaire ancien,disposé en tableau,(marqueur de parenté)​"
+        }
+    ],
+    "general_pinyins": [
+        "biǎo"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "衣",
+        "non_radical_sn": "2",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "錶"
+    ],
+    "general_ytz": [
+        "𧘝",
+        "𧘦",
+        "𧘰",
+        "𧜫",
+        "𧞧",
+        "𧞱",
+        "𪊘",
+        "𪊬",
+        "錶",
+        "𧞯"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8868",
+            "11213534"
+        ],
+        "char_code_wubi": "geu",
+        "char_code_cangjie": "qmv",
+        "char_code_zhengma": "cirh",
+        "char_code_sijiao": "50732"
+    },
+    "general_unicode": "基本区 U+8868",
+    "general_bs_code": "11213534"
+}

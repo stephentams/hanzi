@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "words; phrase, expression"
+        },
+        {
+            "language": "德语",
+            "explanation": "Arbeiten, Diktion, klassisches chinesisches Gedicht, Phrasen, Wort  (Eig)"
+        },
+        {
+            "language": "法语",
+            "explanation": "mot,terme,expression,phrase courte,paroles"
+        }
+    ],
+    "general_pinyins": [
+        "cí"
+    ],
+    "general_zhuyins": [
+        "ㄘˊ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "詞"
+    ],
+    "general_ytz": [
+        "詞",
+        "䛐",
+        "𧥝"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BCD",
+            "4551251"
+        ],
+        "char_code_wubi": "yngk",
+        "char_code_cangjie": "ivsmr",
+        "char_code_zhengma": "syaj",
+        "char_code_sijiao": "37720"
+    },
+    "general_unicode": "基本区 U+8BCD",
+    "general_bs_code": "4551251"
+}

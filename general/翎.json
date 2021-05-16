@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "feather; plume; wing"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schwanzfeder  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "plume,ailes"
+        }
+    ],
+    "general_pinyins": [
+        "líng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "羽",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦐽"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7FCE",
+            "34454541541"
+        ],
+        "char_code_wubi": "wycn",
+        "char_code_cangjie": "oismm",
+        "char_code_zhengma": "odyy",
+        "char_code_sijiao": "87320"
+    },
+    "general_unicode": "基本区 U+7FCE",
+    "general_bs_code": "34454541541"
+}

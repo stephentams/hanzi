@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tungsten, wolfram"
+        },
+        {
+            "language": "法语",
+            "explanation": "Billot (du bourreau)​,Billot (du bourreau)​"
+        }
+    ],
+    "general_pinyins": [
+        "zhì"
+    ],
+    "general_zhuyins": [
+        "ㄓˋ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "鑕"
+    ],
+    "general_ytz": [
+        "鑕"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9527",
+            "3111533122534"
+        ],
+        "char_code_wubi": "qrfm",
+        "char_code_cangjie": "ophjo",
+        "char_code_zhengma": "ppel",
+        "char_code_sijiao": "82782"
+    },
+    "general_unicode": "基本区 U+9527",
+    "general_bs_code": "3111533122534"
+}

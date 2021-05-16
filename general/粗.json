@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rough, thick, course; rude"
+        },
+        {
+            "language": "德语",
+            "explanation": "unfertig  (Adj)​,derb, roh ,ungehobelt"
+        }
+    ],
+    "general_pinyins": [
+        "cū"
+    ],
+    "general_zhuyins": [
+        "ㄘㄨ"
+    ],
+    "general_radical": {
+        "radical": "米",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "蔍",
+        "麄",
+        "麆",
+        "麤",
+        "𥼗",
+        "𥼡",
+        "𧇿",
+        "𪋙",
+        "𪋨",
+        "觕",
+        "麁",
+        "𡔙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7C97",
+            "43123425111"
+        ],
+        "char_code_wubi": "oegg",
+        "char_code_cangjie": "fdbm",
+        "char_code_zhengma": "uflc",
+        "char_code_sijiao": "97912"
+    },
+    "general_unicode": "基本区 U+7C97",
+    "general_bs_code": "43123425111"
+}

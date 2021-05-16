@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "river in Shandong province"
+        }
+    ],
+    "general_pinyins": [
+        "hé"
+    ],
+    "general_zhuyins": [
+        "ㄏㄜˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "渮",
+        "𦶒"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "83CF",
+            "12244112512"
+        ],
+        "char_code_wubi": "aisk",
+        "char_code_cangjie": "temr",
+        "char_code_zhengma": "evaj",
+        "char_code_sijiao": "44121"
+    },
+    "general_unicode": "基本区 U+83CF",
+    "general_bs_code": "12244112512"
+}

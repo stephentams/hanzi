@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "scandium"
+        },
+        {
+            "language": "德语",
+            "explanation": "Scandium (Element 21, Sc)​ (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "scandium"
+        }
+    ],
+    "general_pinyins": [
+        "kàng"
+    ],
+    "general_zhuyins": [
+        "ㄎㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "鈧"
+    ],
+    "general_ytz": [
+        "鈧",
+        "錹"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94AA",
+            "311154135"
+        ],
+        "char_code_wubi": "qymn|qywn",
+        "char_code_cangjie": "opyhn",
+        "char_code_zhengma": "psqd",
+        "char_code_sijiao": "80717"
+    },
+    "general_unicode": "基本区 U+94AA",
+    "general_bs_code": "311154135"
+}

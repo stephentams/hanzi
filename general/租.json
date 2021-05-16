@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rent, lease; rental; tax"
+        },
+        {
+            "language": "德语",
+            "explanation": "mieten, Miete  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "louer (qch)​,loyer"
+        }
+    ],
+    "general_pinyins": [
+        "zū"
+    ],
+    "general_zhuyins": [
+        "ㄗㄨ"
+    ],
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥠙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "79DF",
+            "3123425111"
+        ],
+        "char_code_wubi": "tegg",
+        "char_code_cangjie": "hdbm",
+        "char_code_zhengma": "mflc",
+        "char_code_sijiao": "27912"
+    },
+    "general_unicode": "基本区 U+79DF",
+    "general_bs_code": "3123425111"
+}

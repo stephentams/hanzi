@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rumble, explosion, blast"
+        },
+        {
+            "language": "德语",
+            "explanation": "knallen, bumsen  (V)​,vertreiben, aufscheuchen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(onom.)​ boum!,gronder,bombarder,explosion,attaquer,chasser (au loin)​,expulser"
+        }
+    ],
+    "general_pinyins": [
+        "hōng"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄥ"
+    ],
+    "general_radical": {
+        "radical": "车",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "轟"
+    ],
+    "general_ytz": [
+        "轟",
+        "軣",
+        "揈",
+        "𨊷",
+        "𨋌",
+        "𨎇"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8F70",
+            "15125454"
+        ],
+        "char_code_wubi": "lccu",
+        "char_code_cangjie": "kqee",
+        "char_code_zhengma": "hexx",
+        "char_code_sijiao": "40447"
+    },
+    "general_unicode": "基本区 U+8F70",
+    "general_bs_code": "15125454"
+}

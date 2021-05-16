@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "maid, servant girl; cute girl"
+        },
+        {
+            "language": "德语",
+            "explanation": "Mädchen, Mädel  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "fillette"
+        }
+    ],
+    "general_pinyins": [
+        "nī"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "59AE",
+            "53151335"
+        ],
+        "char_code_wubi": "vnxn",
+        "char_code_cangjie": "vsp",
+        "char_code_zhengma": "zmxr",
+        "char_code_sijiao": "47412"
+    },
+    "general_unicode": "基本区 U+59AE",
+    "general_bs_code": "53151335"
+}

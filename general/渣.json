@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "refuse, dregs, lees, sediment"
+        },
+        {
+            "language": "德语",
+            "explanation": "Abschaum  (S)​,Bodensatz  (S)​,Filtrationsrückstand  (S, Tech)"
+        },
+        {
+            "language": "法语",
+            "explanation": "résidu,miette"
+        }
+    ],
+    "general_pinyins": [
+        "zhā"
+    ],
+    "general_zhuyins": [
+        "ㄓㄚ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥹁",
+        "溠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6E23",
+            "441123425111"
+        ],
+        "char_code_wubi": "isjg",
+        "char_code_cangjie": "edam",
+        "char_code_zhengma": "vfka",
+        "char_code_sijiao": "34116"
+    },
+    "general_unicode": "基本区 U+6E23",
+    "general_bs_code": "441123425111"
+}

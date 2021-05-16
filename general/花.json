@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "flower; blossoms"
+        },
+        {
+            "language": "德语",
+            "explanation": "Blüte, Blume  (S, Bio)​,ausgeben, aufwenden, kosten  (V)​,bunt, vielfarbig  (Adj)​,verziert, blumenreich  (Adj)​,Hua  (Eig, Fam)​,Pocken, Blattern"
+        }
+    ],
+    "general_pinyins": [
+        "huā"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄚ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "化",
+        "芲",
+        "華",
+        "蘤",
+        "𠌶",
+        "𤾡",
+        "𤾸",
+        "𧅅"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "82B1",
+            "1223235"
+        ],
+        "char_code_wubi": "awxb",
+        "char_code_cangjie": "top",
+        "char_code_zhengma": "enrr",
+        "char_code_sijiao": "44214"
+    },
+    "general_unicode": "基本区 U+82B1",
+    "general_bs_code": "1223235"
+}

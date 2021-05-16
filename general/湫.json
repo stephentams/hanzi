@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a small pond; a damp and narrow place"
+        },
+        {
+            "language": "德语",
+            "explanation": "tiefliegend (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "marais,marécage"
+        }
+    ],
+    "general_pinyins": [
+        "qiū",
+        "jiǎo"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄡ",
+        "ㄐㄧㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "湬",
+        "𣹌",
+        "𨺹"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6E6B",
+            "441312344334"
+        ],
+        "char_code_wubi": "itoy",
+        "char_code_cangjie": "ehdf",
+        "char_code_zhengma": "vmuo",
+        "char_code_sijiao": "39180"
+    },
+    "general_unicode": "基本区 U+6E6B",
+    "general_bs_code": "441312344334"
+}

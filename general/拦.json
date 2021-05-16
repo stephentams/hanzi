@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "obstruct, impede, bar, hinder"
+        },
+        {
+            "language": "德语",
+            "explanation": "behindern, hindern"
+        },
+        {
+            "language": "法语",
+            "explanation": "barrer,bloquer"
+        }
+    ],
+    "general_pinyins": [
+        "lán"
+    ],
+    "general_zhuyins": [
+        "ㄌㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "攔"
+    ],
+    "general_ytz": [
+        "攔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "62E6",
+            "12143111"
+        ],
+        "char_code_wubi": "rufg|rudg",
+        "char_code_cangjie": "qtmm",
+        "char_code_zhengma": "dubd",
+        "char_code_sijiao": "58011"
+    },
+    "general_unicode": "基本区 U+62E6",
+    "general_bs_code": "12143111"
+}

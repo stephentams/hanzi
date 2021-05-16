@@ -1,0 +1,28 @@
+{
+    "general_pinyins": [
+        "gǎ",
+        "gě"
+    ],
+    "general_zhuyins": [
+        "ㄍㄚˇ",
+        "ㄍㄜˇ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "20BB6",
+            "251342"
+        ],
+        "char_code_wubi": "kwhh",
+        "char_code_zhengma": "joi"
+    },
+    "general_unicode": "扩展B U+20BB6",
+    "general_bs_code": "251342"
+}

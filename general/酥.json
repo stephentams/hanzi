@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "butter; flaky, crispy, light, fluffy"
+        },
+        {
+            "language": "德语",
+            "explanation": "flockig, flockige ,knusprig  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "croquant,croustillant,sablé,mou,flasque"
+        }
+    ],
+    "general_pinyins": [
+        "sū"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨ"
+    ],
+    "general_radical": {
+        "radical": "酉",
+        "non_radical_sn": "5",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦢦",
+        "𦣑",
+        "𨢭",
+        "𨣺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9165",
+            "125351131234"
+        ],
+        "char_code_wubi": "sgty",
+        "char_code_cangjie": "mwhd",
+        "char_code_zhengma": "fdmf",
+        "char_code_sijiao": "12694"
+    },
+    "general_unicode": "基本区 U+9165",
+    "general_bs_code": "125351131234"
+}

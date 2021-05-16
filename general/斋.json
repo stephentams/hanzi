@@ -1,0 +1,60 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "vegetarian diet; study"
+        },
+        {
+            "language": "德语",
+            "explanation": "Stube, Zimmer, Atelier, Künstlerwerkstatt  (S)​,vegetarisches Essen  (S)​,vegetarisches Essen ( nach den religiösen Regeln z.B. Buddhimus )​  (S, Rel)​,fasten  (V, Rel)"
+        },
+        {
+            "language": "法语",
+            "explanation": "jeûner,régime végétarien"
+        }
+    ],
+    "general_pinyins": [
+        "zhāi"
+    ],
+    "general_zhuyins": [
+        "ㄓㄞ"
+    ],
+    "general_radical": {
+        "radical": "文",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "齋"
+    ],
+    "general_ytz": [
+        "齋",
+        "亝",
+        "夈",
+        "斎",
+        "㪰",
+        "䄢",
+        "䬩",
+        "𠫱",
+        "𥚪",
+        "𩛚",
+        "𩱥",
+        "𩱳",
+        "𪗑",
+        "𪗒",
+        "𪗓"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "658B",
+            "4134132522"
+        ],
+        "char_code_wubi": "ydmj",
+        "char_code_cangjie": "ykmbl",
+        "char_code_zhengma": "sogl",
+        "char_code_sijiao": "00227"
+    },
+    "general_unicode": "基本区 U+658B",
+    "general_bs_code": "4134132522"
+}

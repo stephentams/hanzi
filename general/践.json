@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "trample, tread upon, walk on"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gang  (S)​,ableisten, vollziehen  (V)​,auf etwas treten, betreten"
+        },
+        {
+            "language": "法语",
+            "explanation": "marcher sur,piétiner,tenir une promesse"
+        }
+    ],
+    "general_pinyins": [
+        "jiàn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "5",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "踐"
+    ],
+    "general_ytz": [
+        "踐",
+        "㣤"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8DF5",
+            "251212111534"
+        ],
+        "char_code_wubi": "khgt|khga",
+        "char_code_cangjie": "rmij",
+        "char_code_zhengma": "jihm",
+        "char_code_sijiao": "63150"
+    },
+    "general_unicode": "基本区 U+8DF5",
+    "general_bs_code": "251212111534"
+}

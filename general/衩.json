@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "the open seam of a garment which allows freedom of movement"
+        },
+        {
+            "language": "法语",
+            "explanation": "shorts,culottes,fente latérale d'une robe"
+        }
+    ],
+    "general_pinyins": [
+        "chà"
+    ],
+    "general_zhuyins": [
+        "ㄔㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "衤",
+        "non_radical_sn": "3",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "紁",
+        "𥘓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8869",
+            "45234544"
+        ],
+        "char_code_wubi": "pucy",
+        "char_code_cangjie": "lei",
+        "char_code_zhengma": "wtxs",
+        "char_code_sijiao": "37243"
+    },
+    "general_unicode": "基本区 U+8869",
+    "general_bs_code": "45234544"
+}

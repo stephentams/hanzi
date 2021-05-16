@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ligustrum sinenese, tree"
+        },
+        {
+            "language": "德语",
+            "explanation": "Handschellen  (S)​,Handschellen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "abricot rouge,menottes de torture"
+        }
+    ],
+    "general_pinyins": [
+        "niǔ",
+        "chǒu"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧㄡˇ",
+        "ㄔㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "杻"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "677B",
+            "12345211"
+        ],
+        "char_code_wubi": "snfg|snhg",
+        "char_code_cangjie": "dng",
+        "char_code_zhengma": "fxed",
+        "char_code_sijiao": "47912"
+    },
+    "general_unicode": "基本区 U+677B",
+    "general_bs_code": "12345211"
+}

@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mirror, looking glass; reflect"
+        },
+        {
+            "language": "德语",
+            "explanation": "Beispiel, Leitbild  (S)​,Messing- oder Bronzespiegel  (S)​,nachdenken, widerspiegeln  (S)​,ermahnen, warnen  (V)​,inspizieren, beschauen  (V)​,prüfen, einsehen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "miroir,avertissement,refléter"
+        }
+    ],
+    "general_pinyins": [
+        "jiàn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "金",
+        "non_radical_sn": "5",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "鑒"
+    ],
+    "general_ytz": [
+        "鑒",
+        "鍳",
+        "鑑",
+        "鑬",
+        "𨰲"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9274",
+            "2231434112431"
+        ],
+        "char_code_wubi": "jtyq",
+        "char_code_cangjie": "lic",
+        "char_code_zhengma": "kdmp",
+        "char_code_sijiao": "28109"
+    },
+    "general_unicode": "基本区 U+9274",
+    "general_bs_code": "2231434112431"
+}

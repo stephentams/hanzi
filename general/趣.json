@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "what attracts one's attention"
+        },
+        {
+            "language": "德语",
+            "explanation": "interessieren ,interessant, Anteil  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "intéressant,amusant,goût,intérêt"
+        }
+    ],
+    "general_pinyins": [
+        "qù",
+        "cù"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩˋ",
+        "ㄘㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "走",
+        "non_radical_sn": "8",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "掫",
+        "趨",
+        "𠮋",
+        "𧺥",
+        "𧻃",
+        "𧻽",
+        "𧼈",
+        "𧼝",
+        "𧾉"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8DA3",
+            "121213412211154"
+        ],
+        "char_code_wubi": "fhbc",
+        "char_code_cangjie": "gosje",
+        "char_code_zhengma": "bocx",
+        "char_code_sijiao": "47804"
+    },
+    "general_unicode": "基本区 U+8DA3",
+    "general_bs_code": "121213412211154"
+}

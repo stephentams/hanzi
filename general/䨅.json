@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 鷯) small birds -- the wren, tit, etc."
+        }
+    ],
+    "general_pinyins": [
+        "liáo"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "隹",
+        "non_radical_sn": "12",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "鷯"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4A05",
+            "13443251123432411121"
+        ],
+        "char_code_wubi": "dujy",
+        "char_code_cangjie": "kfog",
+        "char_code_zhengma": "gdkn",
+        "char_code_sijiao": "40915"
+    },
+    "general_unicode": "扩展A U+4A05",
+    "general_bs_code": "13443251123432411121"
+}

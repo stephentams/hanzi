@@ -1,0 +1,26 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "舉",
+        "茻"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "26B07",
+            "1212132"
+        ],
+        "char_code_wubi": "aaj",
+        "char_code_cangjie": "tt",
+        "char_code_zhengma": "eevv"
+    },
+    "general_unicode": "扩展B U+26B07",
+    "general_bs_code": "1212132"
+}

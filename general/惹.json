@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "irritate, vex, offend, incite"
+        },
+        {
+            "language": "德语",
+            "explanation": "ärgern ,ärgern, belästige ,herausfordern, provozieren"
+        },
+        {
+            "language": "法语",
+            "explanation": "provoquer,irriter"
+        }
+    ],
+    "general_pinyins": [
+        "rě"
+    ],
+    "general_zhuyins": [
+        "ㄖㄜˇ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "偌",
+        "𢜪",
+        "𢞇"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "60F9",
+            "122132514544"
+        ],
+        "char_code_wubi": "adkn",
+        "char_code_cangjie": "tkrp",
+        "char_code_zhengma": "egjw",
+        "char_code_sijiao": "44336"
+    },
+    "general_unicode": "基本区 U+60F9",
+    "general_bs_code": "122132514544"
+}

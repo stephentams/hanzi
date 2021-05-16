@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(ancient form of U+5F97 得) to get, complacent, (same as U+7919 礙) to obstruct, to hinder, to stop progress, to injure, to offend, to concern, hindrance, restraint"
+        }
+    ],
+    "general_pinyins": [
+        "dé"
+    ],
+    "general_zhuyins": [
+        "ㄉㄜˊ"
+    ],
+    "general_radical": {
+        "radical": "寸",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "得",
+        "礙"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3775",
+            "25111124"
+        ],
+        "char_code_wubi": "jgfu",
+        "char_code_cangjie": "amdi",
+        "char_code_zhengma": "kads",
+        "char_code_sijiao": "60341"
+    },
+    "general_unicode": "扩展A U+3775",
+    "general_bs_code": "25111124"
+}

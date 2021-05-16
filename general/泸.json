@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "river in Jiangxi province"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ortsname  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom de lieu)​"
+        }
+    ],
+    "general_pinyins": [
+        "lú"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "瀘"
+    ],
+    "general_ytz": [
+        "瀘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6CF8",
+            "44121513"
+        ],
+        "char_code_wubi": "ihnt",
+        "char_code_cangjie": "eys",
+        "char_code_zhengma": "vixm",
+        "char_code_sijiao": "31107"
+    },
+    "general_unicode": "基本区 U+6CF8",
+    "general_bs_code": "44121513"
+}

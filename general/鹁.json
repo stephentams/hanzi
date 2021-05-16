@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "species of pigeon"
+        },
+        {
+            "language": "法语",
+            "explanation": "palombe,tourterelle"
+        }
+    ],
+    "general_pinyins": [
+        "bó"
+    ],
+    "general_zhuyins": [
+        "ㄅㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "鸟",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "鵓"
+    ],
+    "general_ytz": [
+        "鵓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E41",
+            "124552135451"
+        ],
+        "char_code_wubi": "fpbg",
+        "char_code_cangjie": "jdpym",
+        "char_code_zhengma": "edyr",
+        "char_code_sijiao": "47427"
+    },
+    "general_unicode": "基本区 U+9E41",
+    "general_bs_code": "124552135451"
+}

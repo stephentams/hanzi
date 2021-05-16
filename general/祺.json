@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "good luck, good fortune"
+        },
+        {
+            "language": "德语",
+            "explanation": "Glück  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "faste,propice,de bon augure,bonne chance,bonheur,euphorie"
+        }
+    ],
+    "general_pinyins": [
+        "qí"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "礻",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "禥",
+        "𥘕",
+        "𥚼"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "797A",
+            "452412211134"
+        ],
+        "char_code_wubi": "pyaw|pydw",
+        "char_code_cangjie": "iftmc",
+        "char_code_zhengma": "wsec",
+        "char_code_sijiao": "34281"
+    },
+    "general_unicode": "基本区 U+797A",
+    "general_bs_code": "452412211134"
+}

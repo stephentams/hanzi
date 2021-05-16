@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "long and narrow war-boat"
+        },
+        {
+            "language": "法语",
+            "explanation": "navire de guerre"
+        }
+    ],
+    "general_pinyins": [
+        "méng"
+    ],
+    "general_zhuyins": [
+        "ㄇㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "舟",
+        "non_radical_sn": "13",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8268",
+            "3354141224511353334"
+        ],
+        "char_code_wubi": "teae|tuae",
+        "char_code_cangjie": "hytbo",
+        "char_code_zhengma": "pyag",
+        "char_code_sijiao": "24432"
+    },
+    "general_unicode": "基本区 U+8268",
+    "general_bs_code": "3354141224511353334"
+}

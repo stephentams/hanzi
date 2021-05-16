@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "words, speech, expression, phrase"
+        },
+        {
+            "language": "德语",
+            "explanation": "abdanken, aufgeben  (V, Lit)"
+        },
+        {
+            "language": "法语",
+            "explanation": "terme,parole,prendre congé de qqn,démissionner,licencier,éviter,se soustraire"
+        }
+    ],
+    "general_pinyins": [
+        "cí"
+    ],
+    "general_zhuyins": [
+        "ㄘˊ"
+    ],
+    "general_radical": {
+        "radical": "辛",
+        "non_radical_sn": "6",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "辭"
+    ],
+    "general_ytz": [
+        "辭",
+        "辝",
+        "辤",
+        "𤔧",
+        "𤔲",
+        "𦧦",
+        "𨐲",
+        "𨾱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8F9E",
+            "3122514143112"
+        ],
+        "char_code_wubi": "tduh",
+        "char_code_cangjie": "hrytj",
+        "char_code_zhengma": "mise",
+        "char_code_sijiao": "20641"
+    },
+    "general_unicode": "基本区 U+8F9E",
+    "general_bs_code": "3122514143112"
+}

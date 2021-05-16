@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "elder brother"
+        },
+        {
+            "language": "德语",
+            "explanation": "älterer Bruder  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "frère aîné"
+        }
+    ],
+    "general_pinyins": [
+        "xiōng"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄥ"
+    ],
+    "general_radical": {
+        "radical": "儿",
+        "non_radical_sn": "3",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "況"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5144",
+            "25135"
+        ],
+        "char_code_wubi": "kqb",
+        "char_code_cangjie": "rhu",
+        "char_code_zhengma": "jrd",
+        "char_code_sijiao": "60212"
+    },
+    "general_unicode": "基本区 U+5144",
+    "general_bs_code": "25135"
+}

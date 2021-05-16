@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hairpin; gold inlaid work, filigree"
+        },
+        {
+            "language": "法语",
+            "explanation": "ouvrage incrusté d'or,ornement en métal"
+        }
+    ],
+    "general_pinyins": [
+        "diàn",
+        "tián"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧㄢˋ",
+        "ㄊㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "鈿"
+    ],
+    "general_ytz": [
+        "鈿",
+        "䥖",
+        "𨰎"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94BF",
+            "3111525121"
+        ],
+        "char_code_wubi": "qlg",
+        "char_code_cangjie": "opw",
+        "char_code_zhengma": "pki",
+        "char_code_sijiao": "86700"
+    },
+    "general_unicode": "基本区 U+94BF",
+    "general_bs_code": "3111525121"
+}

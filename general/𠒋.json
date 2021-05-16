@@ -1,0 +1,26 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "儿",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "兇",
+        "凶"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2048B",
+            "41345235"
+        ],
+        "char_code_wubi": "ybqb",
+        "char_code_cangjie": "yuku",
+        "char_code_zhengma": "sozr"
+    },
+    "general_unicode": "扩展B U+2048B",
+    "general_bs_code": "41345235"
+}

@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sell; child, childish; nourish"
+        },
+        {
+            "language": "德语",
+            "explanation": "verkaufen ,Yu  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "vente,nourrir"
+        }
+    ],
+    "general_pinyins": [
+        "yù"
+    ],
+    "general_zhuyins": [
+        "ㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "鬲",
+        "non_radical_sn": "12",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "粥",
+        "㣃",
+        "俼",
+        "𢑍",
+        "𢑎",
+        "𩱙",
+        "𧷏",
+        "𧸇",
+        "𩱌"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9B3B",
+            "5154312345151251254312"
+        ],
+        "char_code_wubi": "xoxh",
+        "char_code_cangjie": "nnmrb",
+        "char_code_zhengma": "yzjl",
+        "char_code_sijiao": "17227"
+    },
+    "general_unicode": "基本区 U+9B3B",
+    "general_bs_code": "5154312345151251254312"
+}

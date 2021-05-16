@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fall, slip; let fall; die"
+        },
+        {
+            "language": "德语",
+            "explanation": "fallen, absinken ,Meteor  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tomber du ciel"
+        }
+    ],
+    "general_pinyins": [
+        "yǔn"
+    ],
+    "general_zhuyins": [
+        "ㄩㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "隕"
+    ],
+    "general_ytz": [
+        "隕",
+        "磒"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9668",
+            "522512534"
+        ],
+        "char_code_wubi": "bkmy",
+        "char_code_cangjie": "nlrbo",
+        "char_code_zhengma": "yjlo",
+        "char_code_sijiao": "76282"
+    },
+    "general_unicode": "基本区 U+9668",
+    "general_bs_code": "522512534"
+}

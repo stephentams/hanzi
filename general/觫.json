@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to start, tremble with fear"
+        },
+        {
+            "language": "法语",
+            "explanation": "crainte,trembler"
+        }
+    ],
+    "general_pinyins": [
+        "sù"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "角",
+        "non_radical_sn": "7",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧥆"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "89EB",
+            "35351121251234"
+        ],
+        "char_code_wubi": "qegi|qesk",
+        "char_code_cangjie": "nbdl",
+        "char_code_zhengma": "rlfj",
+        "char_code_sijiao": "25296"
+    },
+    "general_unicode": "基本区 U+89EB",
+    "general_bs_code": "35351121251234"
+}

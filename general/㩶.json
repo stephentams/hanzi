@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to hold; to grasp; to seize, to retain"
+        }
+    ],
+    "general_pinyins": [
+        "niè",
+        "nǐng"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧㄝˋ",
+        "ㄋㄧㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "20",
+        "total_sn": "23"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢰀",
+        "𢲺",
+        "𢺊",
+        "𢺣"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3A76",
+            "12131431413425234343434"
+        ],
+        "char_code_wubi": "rtgq|rtgr",
+        "char_code_cangjie": "qhmb",
+        "char_code_zhengma": "dmoo",
+        "char_code_sijiao": "58027"
+    },
+    "general_unicode": "扩展A U+3A76",
+    "general_bs_code": "12131431413425234343434"
+}

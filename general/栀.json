@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "gardenia"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gardenia augusta"
+        },
+        {
+            "language": "法语",
+            "explanation": "gardénia florida"
+        }
+    ],
+    "general_pinyins": [
+        "zhī"
+    ],
+    "general_zhuyins": [
+        "ㄓ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "梔"
+    ],
+    "general_ytz": [
+        "梔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6800",
+            "123433155"
+        ],
+        "char_code_wubi": "srgb",
+        "char_code_cangjie": "dhmu",
+        "char_code_zhengma": "fpay",
+        "char_code_sijiao": "42912"
+    },
+    "general_unicode": "基本区 U+6800",
+    "general_bs_code": "123433155"
+}

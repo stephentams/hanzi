@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wife of mother's brother"
+        },
+        {
+            "language": "德语",
+            "explanation": "Tante  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tante,belle-soeur"
+        }
+    ],
+    "general_pinyins": [
+        "jìn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡢳"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5997",
+            "5313445"
+        ],
+        "char_code_wubi": "vwyn",
+        "char_code_cangjie": "voin",
+        "char_code_zhengma": "zmsx",
+        "char_code_sijiao": "48427"
+    },
+    "general_unicode": "基本区 U+5997",
+    "general_bs_code": "5313445"
+}

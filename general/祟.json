@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "evil spirit; evil influence"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gespenst, böse Geister"
+        },
+        {
+            "language": "法语",
+            "explanation": "néfaste"
+        }
+    ],
+    "general_pinyins": [
+        "suì"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "示",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣦅",
+        "𥘣",
+        "𥚢",
+        "𥜱",
+        "𥘐"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "795F",
+            "5225211234"
+        ],
+        "char_code_wubi": "bmfi",
+        "char_code_cangjie": "uummf",
+        "char_code_zhengma": "zizb",
+        "char_code_sijiao": "22901"
+    },
+    "general_unicode": "基本区 U+795F",
+    "general_bs_code": "5225211234"
+}

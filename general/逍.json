@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ramble, stroll, jaunt, loiter"
+        },
+        {
+            "language": "德语",
+            "explanation": "gemächlich ,locker, gelassen"
+        },
+        {
+            "language": "法语",
+            "explanation": "errer,flâner"
+        }
+    ],
+    "general_pinyins": [
+        "xiāo"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "消"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "900D",
+            "2432511454"
+        ],
+        "char_code_wubi": "iepd",
+        "char_code_cangjie": "yfb",
+        "char_code_zhengma": "koqw",
+        "char_code_sijiao": "39302"
+    },
+    "general_unicode": "基本区 U+900D",
+    "general_bs_code": "2432511454"
+}

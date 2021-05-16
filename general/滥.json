@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "flood, overflow; excessive"
+        },
+        {
+            "language": "德语",
+            "explanation": "ausschließlich, ausschweifend"
+        },
+        {
+            "language": "法语",
+            "explanation": "abusivement,excessivement"
+        }
+    ],
+    "general_pinyins": [
+        "làn"
+    ],
+    "general_zhuyins": [
+        "ㄌㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "濫"
+    ],
+    "general_ytz": [
+        "濫",
+        "㳕",
+        "𣽦"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6EE5",
+            "4412231425221"
+        ],
+        "char_code_wubi": "ijtl",
+        "char_code_cangjie": "elit",
+        "char_code_zhengma": "vkml",
+        "char_code_sijiao": "38112"
+    },
+    "general_unicode": "基本区 U+6EE5",
+    "general_bs_code": "4412231425221"
+}

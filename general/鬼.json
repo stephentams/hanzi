@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ghost; spirit of dead; devil"
+        },
+        {
+            "language": "德语",
+            "explanation": "Geistererscheinung  (S)​,Gespenst  (S, Bio)​,listig, schlau  (S)​,Gui  (Eig, Fam)​,Radikal Nr. 194 = Gespenst, Dämon , Geist, hinterlistig, miserabel, trostlos, gerissen, schlau  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "fantôme,démon,revenant,esprit,diable,194e radical,malin,rusé"
+        }
+    ],
+    "general_pinyins": [
+        "guǐ"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄟˇ"
+    ],
+    "general_radical": {
+        "radical": "鬼",
+        "non_radical_sn": "0",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢇼",
+        "𢧩",
+        "𣆠",
+        "𤱲",
+        "𩲚",
+        "𩲞",
+        "𩲡",
+        "𩳉",
+        "𩳹",
+        "𩴿",
+        "𢝾"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9B3C",
+            "325113554"
+        ],
+        "char_code_wubi": "rqci",
+        "char_code_cangjie": "hui",
+        "char_code_zhengma": "nj",
+        "char_code_sijiao": "26513"
+    },
+    "general_unicode": "基本区 U+9B3C",
+    "general_bs_code": "325113554"
+}

@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hair on temples"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schläfenhaare  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tempes,cheveux des tempes"
+        }
+    ],
+    "general_pinyins": [
+        "bìn"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "髟",
+        "non_radical_sn": "10",
+        "total_sn": "20"
+    },
+    "general_stc": [
+        "鬢"
+    ],
+    "general_ytz": [
+        "鬢",
+        "髩",
+        "鬂",
+        "𨲺",
+        "𩬆",
+        "𩯫"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9B13",
+            "12111543334453212134"
+        ],
+        "char_code_wubi": "depw",
+        "char_code_cangjie": "shjoc",
+        "char_code_zhengma": "chpo",
+        "char_code_sijiao": "72801"
+    },
+    "general_unicode": "基本区 U+9B13",
+    "general_bs_code": "12111543334453212134"
+}

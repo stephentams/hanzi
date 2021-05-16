@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bud, sprout"
+        },
+        {
+            "language": "德语",
+            "explanation": "Leute, Menschen  (S)​,Meng  (Eig, Fam)​,keimen, sprießen, knospen, ausschlagen"
+        },
+        {
+            "language": "法语",
+            "explanation": "germer,bourgeonner,mignon,adorable"
+        }
+    ],
+    "general_pinyins": [
+        "méng"
+    ],
+    "general_zhuyins": [
+        "ㄇㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦹩",
+        "𢡗",
+        "鋂"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "840C",
+            "12225113511"
+        ],
+        "char_code_wubi": "ajef",
+        "char_code_cangjie": "tab",
+        "char_code_zhengma": "ekq",
+        "char_code_sijiao": "44627"
+    },
+    "general_unicode": "基本区 U+840C",
+    "general_bs_code": "12225113511"
+}

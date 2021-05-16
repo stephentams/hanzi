@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tense, tight, taut; firm, secure"
+        },
+        {
+            "language": "德语",
+            "explanation": "dicht, eng"
+        },
+        {
+            "language": "法语",
+            "explanation": "tendu,serré,étroit,urgent"
+        }
+    ],
+    "general_pinyins": [
+        "jǐn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "糸",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "緊"
+    ],
+    "general_ytz": [
+        "緊",
+        "𦂳",
+        "𦃂"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7D27",
+            "2254554234"
+        ],
+        "char_code_wubi": "jcxi",
+        "char_code_cangjie": "levif",
+        "char_code_zhengma": "kdxz",
+        "char_code_sijiao": "27903"
+    },
+    "general_unicode": "基本区 U+7D27",
+    "general_bs_code": "2254554234"
+}

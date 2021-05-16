@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "possessive, adjectival suffix"
+        },
+        {
+            "language": "德语",
+            "explanation": "subordinierende Strukturpartikel, Attributpartikel (S)​,[用在定语的后面,表示修饰关系] ,[表示相乘] <口> ,[表示肯定语气] ,[表示它前面的词或组是状语] ,[表示强调动作的施事者或时间、地点、方式等] ,[表示或事物有这样的, 有那样的] ,[表示或事物] ,[表示某种情况] ,[表示与别人无关] ,[列举时表示同类事物] ,[在定语之后,表示职务或身份] ,[在定语之后,表示动作的受事者]"
+        },
+        {
+            "language": "法语",
+            "explanation": "vrai,le centre de la cible,but,objectif,de,(utilisé après un adjectif, un nom, un verbe pour indiquer la possession ou une relation)​,voir"
+        }
+    ],
+    "general_pinyins": [
+        "dí",
+        "dì",
+        "de"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧˊ",
+        "ㄉㄧˋ",
+        "˙ㄉㄜ"
+    ],
+    "general_radical": {
+        "radical": "白",
+        "non_radical_sn": "3",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㢩",
+        "勺",
+        "墑",
+        "旳",
+        "𤾠",
+        "𥡦",
+        "菂"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7684",
+            "32511354"
+        ],
+        "char_code_wubi": "rqyy",
+        "char_code_cangjie": "hapi",
+        "char_code_zhengma": "nkrs",
+        "char_code_sijiao": "27620"
+    },
+    "general_unicode": "基本区 U+7684",
+    "general_bs_code": "32511354"
+}

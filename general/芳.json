@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fragrant; virtuous; beautiful"
+        },
+        {
+            "language": "德语",
+            "explanation": "duftend, wohlriechend"
+        },
+        {
+            "language": "法语",
+            "explanation": "parfumé,aromatique,bon,réputé"
+        }
+    ],
+    "general_pinyins": [
+        "fāng"
+    ],
+    "general_zhuyins": [
+        "ㄈㄤ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "82B3",
+            "1224153"
+        ],
+        "char_code_wubi": "ayb|ayr",
+        "char_code_cangjie": "tyhs",
+        "char_code_zhengma": "esy",
+        "char_code_sijiao": "44227"
+    },
+    "general_unicode": "基本区 U+82B3",
+    "general_bs_code": "1224153"
+}

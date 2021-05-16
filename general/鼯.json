@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "flying squirrel"
+        },
+        {
+            "language": "法语",
+            "explanation": "Pteromyinae"
+        }
+    ],
+    "general_pinyins": [
+        "wú"
+    ],
+    "general_zhuyins": [
+        "ㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "鼠",
+        "non_radical_sn": "7",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧋋",
+        "𪁙",
+        "𪕜",
+        "𪕡"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9F2F",
+            "32151154454451251251"
+        ],
+        "char_code_wubi": "vnuk|enuk",
+        "char_code_cangjie": "hvmmr",
+        "char_code_zhengma": "nbxj",
+        "char_code_sijiao": "71761"
+    },
+    "general_unicode": "基本区 U+9F2F",
+    "general_bs_code": "32151154454451251251"
+}

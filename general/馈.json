@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "offer food superior; send gift"
+        },
+        {
+            "language": "德语",
+            "explanation": "beschenken ,Ernährung, Essen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "offrir,présenter"
+        }
+    ],
+    "general_pinyins": [
+        "kuì"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "饣",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "饋"
+    ],
+    "general_ytz": [
+        "饋",
+        "餽",
+        "𠩸",
+        "𧷛",
+        "𩟱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9988",
+            "355251212534"
+        ],
+        "char_code_wubi": "qnkm",
+        "char_code_cangjie": "nvlmo",
+        "char_code_zhengma": "oxal",
+        "char_code_sijiao": "25782"
+    },
+    "general_unicode": "基本区 U+9988",
+    "general_bs_code": "355251212534"
+}

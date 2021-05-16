@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "walk carefully"
+        },
+        {
+            "language": "法语",
+            "explanation": "marcher avec précaution"
+        }
+    ],
+    "general_pinyins": [
+        "sù"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "11",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E5C",
+            "251212144532132511"
+        ],
+        "char_code_wubi": "khpj",
+        "char_code_cangjie": "rmjoa",
+        "char_code_zhengma": "jian",
+        "char_code_sijiao": "63162"
+    },
+    "general_unicode": "基本区 U+8E5C",
+    "general_bs_code": "251212144532132511"
+}

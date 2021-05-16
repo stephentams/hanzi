@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fog, mist, vapor, fine spray"
+        },
+        {
+            "language": "德语",
+            "explanation": "Dunst  (S, Met)​,Nebel  (S, Met)"
+        },
+        {
+            "language": "法语",
+            "explanation": "brouillard"
+        }
+    ],
+    "general_pinyins": [
+        "wù"
+    ],
+    "general_zhuyins": [
+        "ㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "雨",
+        "non_radical_sn": "5",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "霧"
+    ],
+    "general_ytz": [
+        "雺",
+        "霚",
+        "霧",
+        "𩄯",
+        "𩅗"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "96FE",
+            "1452444435453"
+        ],
+        "char_code_wubi": "ftlb|fter",
+        "char_code_cangjie": "mbhes",
+        "char_code_zhengma": "fvry",
+        "char_code_sijiao": "10427"
+    },
+    "general_unicode": "基本区 U+96FE",
+    "general_bs_code": "1452444435453"
+}

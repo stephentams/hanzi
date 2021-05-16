@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "protactinium"
+        },
+        {
+            "language": "德语",
+            "explanation": "Protactinium (Element 91, Pa)​ (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "protactinium"
+        }
+    ],
+    "general_pinyins": [
+        "pú"
+    ],
+    "general_zhuyins": [
+        "ㄆㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "釒",
+        "non_radical_sn": "12",
+        "total_sn": "20"
+    },
+    "general_stc": [
+        "镤"
+    ],
+    "general_ytz": [
+        "镤",
+        "𨮓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "93F7",
+            "34112431224314311134"
+        ],
+        "char_code_wubi": "qogy|qoug",
+        "char_code_cangjie": "ctco",
+        "char_code_zhengma": "pkuc",
+        "char_code_sijiao": "82185"
+    },
+    "general_unicode": "基本区 U+93F7",
+    "general_bs_code": "34112431224314311134"
+}

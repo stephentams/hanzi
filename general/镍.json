@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "nickel"
+        },
+        {
+            "language": "德语",
+            "explanation": "Nickel (Element 28, Ni)​ (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "nickel"
+        }
+    ],
+    "general_pinyins": [
+        "niè"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "10",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "鎳"
+    ],
+    "general_ytz": [
+        "鎳"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "954D",
+            "311153251111234"
+        ],
+        "char_code_wubi": "qths",
+        "char_code_cangjie": "ophud",
+        "char_code_zhengma": "pnf",
+        "char_code_sijiao": "86794"
+    },
+    "general_unicode": "基本区 U+954D",
+    "general_bs_code": "311153251111234"
+}

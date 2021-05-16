@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "expel, disperse, exorcise"
+        },
+        {
+            "language": "德语",
+            "explanation": "bewegen, exerzieren"
+        },
+        {
+            "language": "法语",
+            "explanation": "dissiper,chasser (au loin)​"
+        }
+    ],
+    "general_pinyins": [
+        "qū"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩ"
+    ],
+    "general_radical": {
+        "radical": "礻",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "佉",
+        "袪"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "795B",
+            "452412154"
+        ],
+        "char_code_wubi": "pyfc",
+        "char_code_cangjie": "ifgi",
+        "char_code_zhengma": "wsbz",
+        "char_code_sijiao": "34232"
+    },
+    "general_unicode": "基本区 U+795B",
+    "general_bs_code": "452412154"
+}

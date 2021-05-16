@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "close; whole, entire; all; leaf"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 ganz, vollständig ,Einlegeboden  (S)​,He  (Eig, Fam)"
+        }
+    ],
+    "general_pinyins": [
+        "hé"
+    ],
+    "general_zhuyins": [
+        "ㄏㄜˊ"
+    ],
+    "general_radical": {
+        "radical": "门",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "闔"
+    ],
+    "general_ytz": [
+        "闔",
+        "𨵯",
+        "𨶩"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9616",
+            "4251215425221"
+        ],
+        "char_code_wubi": "ufcl",
+        "char_code_cangjie": "lsgit",
+        "char_code_zhengma": "tlzl",
+        "char_code_sijiao": "37102"
+    },
+    "general_unicode": "基本区 U+9616",
+    "general_bs_code": "4251215425221"
+}

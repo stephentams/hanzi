@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mine; mineral, ore"
+        },
+        {
+            "language": "德语",
+            "explanation": "mein, meiner ,Bergwerk  (S)​,Erz  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "kuàng"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "3",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "礦"
+    ],
+    "general_ytz": [
+        "礦",
+        "砿",
+        "鋛",
+        "鑛",
+        "𥐫",
+        "𥒩",
+        "𥔾",
+        "𨥑",
+        "𨥥",
+        "𨨭",
+        "𪿨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "77FF",
+            "13251413"
+        ],
+        "char_code_wubi": "dyt|dot",
+        "char_code_cangjie": "mri",
+        "char_code_zhengma": "gtg",
+        "char_code_sijiao": "10600"
+    },
+    "general_unicode": "基本区 U+77FF",
+    "general_bs_code": "13251413"
+}

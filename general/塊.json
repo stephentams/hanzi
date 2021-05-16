@@ -1,0 +1,57 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "piece, lump; dollar"
+        },
+        {
+            "language": "德语",
+            "explanation": "ZEW für Rechteckige Dinge, Währungseinheit (Zähl)"
+        },
+        {
+            "language": "法语",
+            "explanation": "motte de terre,morceau,yuan (familier)​,(classificateur des briques, piastres, etc.)​,masse,pièce"
+        }
+    ],
+    "general_pinyins": [
+        "kuài"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "块"
+    ],
+    "general_ytz": [
+        "㙕",
+        "傀",
+        "凷",
+        "块",
+        "墤",
+        "磈",
+        "蒯",
+        "𠙽",
+        "𠚛",
+        "𡉇",
+        "𡒽",
+        "𣁈"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "584A",
+            "121325113554"
+        ],
+        "char_code_wubi": "frqc",
+        "char_code_cangjie": "ghui",
+        "char_code_zhengma": "bnj",
+        "char_code_sijiao": "46113"
+    },
+    "general_unicode": "基本区 U+584A",
+    "general_bs_code": "121325113554"
+}

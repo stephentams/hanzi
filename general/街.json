@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "street, road, thoroughfare"
+        },
+        {
+            "language": "德语",
+            "explanation": "Straße  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "rue"
+        }
+    ],
+    "general_pinyins": [
+        "jiē"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄝ"
+    ],
+    "general_radical": {
+        "radical": "行",
+        "non_radical_sn": "6",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8857",
+            "332121121112"
+        ],
+        "char_code_wubi": "tffh|tffs",
+        "char_code_cangjie": "hoggn",
+        "char_code_zhengma": "oibb",
+        "char_code_sijiao": "21221"
+    },
+    "general_unicode": "基本区 U+8857",
+    "general_bs_code": "332121121112"
+}

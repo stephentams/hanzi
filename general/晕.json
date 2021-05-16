@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "halo in sky; fog; dizzy, faint"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ohnmacht, Schwindel  (S)​,schwindlig  (Adv)"
+        },
+        {
+            "language": "法语",
+            "explanation": "halo,vapeurs,étourdissement,vertige,étourdi,avoir le vertige,avoir la tête qui tourne,s'évanouir,perdre connaissance"
+        }
+    ],
+    "general_pinyins": [
+        "yùn",
+        "yūn"
+    ],
+    "general_zhuyins": [
+        "ㄩㄣˋ",
+        "ㄩㄣ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "暈"
+    ],
+    "general_ytz": [
+        "暈"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6655",
+            "2511451512"
+        ],
+        "char_code_wubi": "jplj",
+        "char_code_cangjie": "abkq",
+        "char_code_zhengma": "kwhe",
+        "char_code_sijiao": "60504"
+    },
+    "general_unicode": "基本区 U+6655",
+    "general_bs_code": "2511451512"
+}

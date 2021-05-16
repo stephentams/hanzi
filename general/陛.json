@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "steps leading throne; throne"
+        },
+        {
+            "language": "法语",
+            "explanation": "marche du trône"
+        }
+    ],
+    "general_pinyins": [
+        "bì"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㙄",
+        "坒",
+        "𨹼",
+        "𨻘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "965B",
+            "521535121"
+        ],
+        "char_code_wubi": "bxxf",
+        "char_code_cangjie": "nlppg",
+        "char_code_zhengma": "yrrb",
+        "char_code_sijiao": "72214"
+    },
+    "general_unicode": "基本区 U+965B",
+    "general_bs_code": "521535121"
+}

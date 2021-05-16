@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "superior, outstanding, talented"
+        },
+        {
+            "language": "德语",
+            "explanation": "klug, listig ,Jun  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "gras,savoureux,signifiant,significatif"
+        }
+    ],
+    "general_pinyins": [
+        "jùn",
+        "juàn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄣˋ",
+        "ㄐㄩㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "隹",
+        "non_radical_sn": "2",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "雋"
+    ],
+    "general_ytz": [
+        "雋"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "96BD",
+            "3241112153"
+        ],
+        "char_code_wubi": "wyeb|wybr",
+        "char_code_cangjie": "ognhs",
+        "char_code_zhengma": "niym",
+        "char_code_sijiao": "20227"
+    },
+    "general_unicode": "基本区 U+96BD",
+    "general_bs_code": "3241112153"
+}

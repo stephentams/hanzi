@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "win; surplus, gain, profit"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gewinn, Profit  (S)​,gewinnen, siegen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "gagner,vaincre"
+        }
+    ],
+    "general_pinyins": [
+        "yíng"
+    ],
+    "general_zhuyins": [
+        "ㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "13",
+        "total_sn": "17"
+    },
+    "general_stc": [
+        "贏"
+    ],
+    "general_ytz": [
+        "贏",
+        "𡧐",
+        "𦢼"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D62",
+            "41525135112534354"
+        ],
+        "char_code_wubi": "ynky|yemy",
+        "char_code_cangjie": "ynbo",
+        "char_code_zhengma": "shlq",
+        "char_code_sijiao": "00217"
+    },
+    "general_unicode": "基本区 U+8D62",
+    "general_bs_code": "41525135112534354"
+}

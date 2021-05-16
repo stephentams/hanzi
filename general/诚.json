@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sincere, honest; true, real"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufrichtig  (Adj)​,ehrlich  (Adj)​,wahr"
+        },
+        {
+            "language": "法语",
+            "explanation": "en effet,vraiment,certainement,sincère,franc,honnête"
+        }
+    ],
+    "general_pinyins": [
+        "chéng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "誠"
+    ],
+    "general_ytz": [
+        "誠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BDA",
+            "45135534"
+        ],
+        "char_code_wubi": "ydnt|ydnn",
+        "char_code_cangjie": "ivihs",
+        "char_code_zhengma": "shv",
+        "char_code_sijiao": "33750"
+    },
+    "general_unicode": "基本区 U+8BDA",
+    "general_bs_code": "45135534"
+}

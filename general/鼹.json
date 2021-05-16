@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a kind of insectivorous rodent"
+        },
+        {
+            "language": "德语",
+            "explanation": "Maulwurf  (S)​,Mole, Spion  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "Talpidae"
+        }
+    ],
+    "general_pinyins": [
+        "yǎn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "鼠",
+        "non_radical_sn": "10",
+        "total_sn": "23"
+    },
+    "general_stc": [
+        "鼴"
+    ],
+    "general_ytz": [
+        "鼴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9F39",
+            "32151154454452511445531"
+        ],
+        "char_code_wubi": "vnuv|enuv",
+        "char_code_cangjie": "hvajv",
+        "char_code_zhengma": "nbwz",
+        "char_code_sijiao": "76744"
+    },
+    "general_unicode": "基本区 U+9F39",
+    "general_bs_code": "32151154454452511445531"
+}

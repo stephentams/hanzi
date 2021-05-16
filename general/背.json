@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "back; back side; behind; betray"
+        },
+        {
+            "language": "德语",
+            "explanation": "auf dem Rücken , der Schulter tragen, beladen sein ,Rücken, Rückseite e. Körpers oder Gegenstandes  (S)​,auswendig lernen, aus dem Gedächtnis wiedergeben  (V)​,etwas verbergen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "porter sur le dos,assumer,dos,tourner le dos,dissimuler,apprendre par coeur,réciter par coeur"
+        }
+    ],
+    "general_pinyins": [
+        "bèi",
+        "bēi"
+    ],
+    "general_zhuyins": [
+        "ㄅㄟˋ",
+        "ㄅㄟ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "倍",
+        "偝",
+        "北",
+        "揹",
+        "𧶙",
+        "褙"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "80CC",
+            "211352511"
+        ],
+        "char_code_wubi": "uxef",
+        "char_code_cangjie": "lpb",
+        "char_code_zhengma": "tirq",
+        "char_code_sijiao": "12227"
+    },
+    "general_unicode": "基本区 U+80CC",
+    "general_bs_code": "211352511"
+}

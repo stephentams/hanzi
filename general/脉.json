@@ -1,0 +1,58 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "blood vessels, veins, arteries"
+        },
+        {
+            "language": "德语",
+            "explanation": "Puls"
+        },
+        {
+            "language": "法语",
+            "explanation": "(affectueusement)​"
+        }
+    ],
+    "general_pinyins": [
+        "mài",
+        "mò"
+    ],
+    "general_zhuyins": [
+        "ㄇㄞˋ",
+        "ㄇㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "脈"
+    ],
+    "general_ytz": [
+        "𧵾",
+        "𧰍",
+        "𧖹",
+        "𧖴",
+        "衇",
+        "脈",
+        "𧠧",
+        "眽",
+        "䘑",
+        "𦚡",
+        "𩈗"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8109",
+            "351145534"
+        ],
+        "char_code_wubi": "eyni",
+        "char_code_cangjie": "bine",
+        "char_code_zhengma": "qsk",
+        "char_code_sijiao": "73292"
+    },
+    "general_unicode": "基本区 U+8109",
+    "general_bs_code": "351145534"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "female; feminine; gentle, soft"
+        },
+        {
+            "language": "德语",
+            "explanation": "weiblich; feminin"
+        },
+        {
+            "language": "法语",
+            "explanation": "femelle"
+        }
+    ],
+    "general_pinyins": [
+        "cí"
+    ],
+    "general_zhuyins": [
+        "ㄘˊ"
+    ],
+    "general_radical": {
+        "radical": "隹",
+        "non_radical_sn": "6",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䧳",
+        "䳄",
+        "鴜",
+        "𣦘",
+        "𩾰"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "96CC",
+            "21213532411121"
+        ],
+        "char_code_wubi": "hxwy",
+        "char_code_cangjie": "ympog",
+        "char_code_zhengma": "iirn",
+        "char_code_sijiao": "20115"
+    },
+    "general_unicode": "基本区 U+96CC",
+    "general_bs_code": "21213532411121"
+}

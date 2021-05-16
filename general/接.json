@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "receive; continue; catch; connect"
+        },
+        {
+            "language": "德语",
+            "explanation": "verbinden, verknüpfen, abholen, empfangen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "être proche de,joindre,(aller)​ chercher qqn,récupérer qqn,relier,recevoir,accueillir,reprendre,répondre (au téléphone)​"
+        }
+    ],
+    "general_pinyins": [
+        "jiē"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄝ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "扱",
+        "擑",
+        "椄",
+        "翣",
+        "𦁉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "63A5",
+            "12141431531"
+        ],
+        "char_code_wubi": "ruvg",
+        "char_code_cangjie": "qytv",
+        "char_code_zhengma": "dszm",
+        "char_code_sijiao": "50044"
+    },
+    "general_unicode": "基本区 U+63A5",
+    "general_bs_code": "12141431531"
+}

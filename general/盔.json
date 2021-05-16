@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "helmet; bowl; basin"
+        },
+        {
+            "language": "德语",
+            "explanation": "Helm, Sturmhaube (hist.)​  (S, Mil)​,Kopfbedeckung  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "casque"
+        }
+    ],
+    "general_pinyins": [
+        "kuī"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄟ"
+    ],
+    "general_radical": {
+        "radical": "皿",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨫿"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "76D4",
+            "13433425221"
+        ],
+        "char_code_wubi": "dolf",
+        "char_code_cangjie": "kfbt",
+        "char_code_zhengma": "gdul",
+        "char_code_sijiao": "40102"
+    },
+    "general_unicode": "基本区 U+76D4",
+    "general_bs_code": "13433425221"
+}

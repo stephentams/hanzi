@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "well-cooked; ripe; familiar with"
+        },
+        {
+            "language": "德语",
+            "explanation": "reif (Früchte)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "profondément,mûr,cuit,familier,habile,qualifié"
+        }
+    ],
+    "general_pinyins": [
+        "shú",
+        "shóu"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨˊ",
+        "ㄕㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "灬",
+        "non_radical_sn": "11",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "孰",
+        "𡒒",
+        "𡦦",
+        "𤒒",
+        "𦏧",
+        "𤋩",
+        "𤍨",
+        "𤒆"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "719F",
+            "412515213544444"
+        ],
+        "char_code_wubi": "ybvo",
+        "char_code_cangjie": "yif",
+        "char_code_zhengma": "sjsu",
+        "char_code_sijiao": "05331"
+    },
+    "general_unicode": "基本区 U+719F",
+    "general_bs_code": "412515213544444"
+}

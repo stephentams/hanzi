@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "刀",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "耕"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "206DD",
+            "1132534"
+        ],
+        "char_code_wubi": "fjvy",
+        "char_code_cangjie": "ttshi",
+        "char_code_zhengma": "bdys"
+    },
+    "general_unicode": "扩展B U+206DD",
+    "general_bs_code": "1132534"
+}

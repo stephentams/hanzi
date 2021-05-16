@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "basin; cup"
+        },
+        {
+            "language": "德语",
+            "explanation": "Behälter, Container  (S)​,Tasse  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "grande tasse,cuvette"
+        }
+    ],
+    "general_pinyins": [
+        "yú"
+    ],
+    "general_zhuyins": [
+        "ㄩˊ"
+    ],
+    "general_radical": {
+        "radical": "皿",
+        "non_radical_sn": "3",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥁄"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "76C2",
+            "11225221"
+        ],
+        "char_code_wubi": "gflf",
+        "char_code_cangjie": "mdbt",
+        "char_code_zhengma": "adlk",
+        "char_code_sijiao": "10102"
+    },
+    "general_unicode": "基本区 U+76C2",
+    "general_bs_code": "11225221"
+}

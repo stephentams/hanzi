@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "torrential; voluminous"
+        },
+        {
+            "language": "德语",
+            "explanation": "hetzend, sausend"
+        },
+        {
+            "language": "法语",
+            "explanation": "précipitation (eau)​"
+        }
+    ],
+    "general_pinyins": [
+        "pāng"
+    ],
+    "general_zhuyins": [
+        "ㄆㄤ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "汸",
+        "沗",
+        "雱",
+        "𣶢",
+        "𣹿"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6EC2",
+            "4414143454153"
+        ],
+        "char_code_wubi": "iupy|iyuy",
+        "char_code_cangjie": "eybs",
+        "char_code_zhengma": "vsws",
+        "char_code_sijiao": "30127"
+    },
+    "general_unicode": "基本区 U+6EC2",
+    "general_bs_code": "4414143454153"
+}

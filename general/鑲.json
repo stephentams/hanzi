@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "insert, inlay, set, mount; fill"
+        },
+        {
+            "language": "德语",
+            "explanation": "auslegen, einlegen ,einschließen, lagern ,Grat  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "incruster,monter"
+        }
+    ],
+    "general_pinyins": [
+        "xiāng"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄤ"
+    ],
+    "general_radical": {
+        "radical": "釒",
+        "non_radical_sn": "17",
+        "total_sn": "25"
+    },
+    "general_stc": [
+        "镶"
+    ],
+    "general_ytz": [
+        "镶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9472",
+            "3411243141251251112213534"
+        ],
+        "char_code_wubi": "qyke",
+        "char_code_cangjie": "cyrv",
+        "char_code_zhengma": "pser",
+        "char_code_sijiao": "80132"
+    },
+    "general_unicode": "基本区 U+9472",
+    "general_bs_code": "3411243141251251112213534"
+}

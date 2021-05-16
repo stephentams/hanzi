@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "to fish; seize; pursue; surname"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 angeln, fischen ,Fischer  (S)​,Fischfang  (S)​,Yu  (Eig, Fam)"
+        }
+    ],
+    "general_pinyins": [
+        "yú"
+    ],
+    "general_zhuyins": [
+        "ㄩˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "漁"
+    ],
+    "general_ytz": [
+        "漁",
+        "䰻",
+        "𣿡",
+        "𤀯",
+        "𩵎",
+        "𩼪"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6E14",
+            "44135251211"
+        ],
+        "char_code_wubi": "iqgg",
+        "char_code_cangjie": "enwm",
+        "char_code_zhengma": "vrvv",
+        "char_code_sijiao": "37116"
+    },
+    "general_unicode": "基本区 U+6E14",
+    "general_bs_code": "44135251211"
+}

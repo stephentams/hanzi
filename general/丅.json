@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "under, underneath, below; down; inferior; bring down; used to transliterate the Latin letter 'T'"
+        }
+    ],
+    "general_pinyins": [
+        "xià"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "一",
+        "non_radical_sn": "1",
+        "total_sn": "2"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "下"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4E05",
+            "12"
+        ],
+        "char_code_wubi": "ghk",
+        "char_code_cangjie": "ml",
+        "char_code_zhengma": "aiaa",
+        "char_code_sijiao": "10200"
+    },
+    "general_unicode": "基本区 U+4E05",
+    "general_bs_code": "12"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "this, the, here"
+        },
+        {
+            "language": "德语",
+            "explanation": "dies (hier)​, das (hier)​  (Pron)​,dieser, diese, dieses  (Pron)​,nun, jetzt  (Adv)​,diese, dieser, dieses (Pron)"
+        },
+        {
+            "language": "法语",
+            "explanation": "ce,ceci,cet,cette"
+        }
+    ],
+    "general_pinyins": [
+        "zhè",
+        "zhèi"
+    ],
+    "general_zhuyins": [
+        "ㄓㄜˋ",
+        "ㄓㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "這"
+    ],
+    "general_ytz": [
+        "這"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8FD9",
+            "4134454"
+        ],
+        "char_code_wubi": "ypi",
+        "char_code_cangjie": "yyk",
+        "char_code_zhengma": "sow",
+        "char_code_sijiao": "30304"
+    },
+    "general_unicode": "基本区 U+8FD9",
+    "general_bs_code": "4134454"
+}

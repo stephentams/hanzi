@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "grass used for making mats; Huanpu, place famous for robbers"
+        },
+        {
+            "language": "法语",
+            "explanation": "(roseau)​"
+        }
+    ],
+    "general_pinyins": [
+        "huán"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧂴",
+        "𦻧",
+        "雚",
+        "𦻃",
+        "𧀉"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8411",
+            "12232411121"
+        ],
+        "char_code_wubi": "awyf",
+        "char_code_cangjie": "tog",
+        "char_code_zhengma": "eni",
+        "char_code_sijiao": "44215"
+    },
+    "general_unicode": "基本区 U+8411",
+    "general_bs_code": "12232411121"
+}

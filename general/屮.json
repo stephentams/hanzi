@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sprout; KangXi radical 45"
+        },
+        {
+            "language": "德语",
+            "explanation": "Radikal Nr. 45 = Spross, Keim"
+        },
+        {
+            "language": "法语",
+            "explanation": "germe,45e radical"
+        }
+    ],
+    "general_pinyins": [
+        "chè",
+        "cǎo"
+    ],
+    "general_zhuyins": [
+        "ㄔㄜˋ",
+        "ㄘㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "屮",
+        "non_radical_sn": "0",
+        "total_sn": "3"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "屮"
+    ],
+    "general_structure": "嵌套结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5C6E",
+            "522"
+        ],
+        "char_code_wubi": "bhk",
+        "char_code_cangjie": "ul",
+        "char_code_zhengma": "ziaa",
+        "char_code_sijiao": "22400"
+    },
+    "general_unicode": "基本区 U+5C6E",
+    "general_bs_code": "522"
+}

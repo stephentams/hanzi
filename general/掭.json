@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to manipulate; a pricker for a lamp-wick"
+        },
+        {
+            "language": "德语",
+            "explanation": "Pinsel in die Tusche tauchen  (V)"
+        }
+    ],
+    "general_pinyins": [
+        "tiàn"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "63AD",
+            "12111342444"
+        ],
+        "char_code_wubi": "rgdn",
+        "char_code_cangjie": "qhkp",
+        "char_code_zhengma": "dagu",
+        "char_code_sijiao": "51038"
+    },
+    "general_unicode": "基本区 U+63AD",
+    "general_bs_code": "12111342444"
+}

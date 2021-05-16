@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "page, sheet, leaf; rad. no. 181"
+        },
+        {
+            "language": "德语",
+            "explanation": "Blatt  (S)​,Blätter  (S)​,Seite  (S)​,Seiten...  (S)​,Seitenrand  (S)​,Seitentür  (S)​,Seitenzahl  (S)​,Startseite  (S)​,Radikal Nr. 181 = Kopf, Seite, Blatt"
+        },
+        {
+            "language": "法语",
+            "explanation": "page,feuille"
+        }
+    ],
+    "general_pinyins": [
+        "yè"
+    ],
+    "general_zhuyins": [
+        "ㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "页",
+        "non_radical_sn": "0",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "頁"
+    ],
+    "general_ytz": [
+        "頁",
+        "䈎",
+        "𩑋"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9875",
+            "132534"
+        ],
+        "char_code_wubi": "dmu",
+        "char_code_cangjie": "mbo",
+        "char_code_zhengma": "go",
+        "char_code_sijiao": "10802"
+    },
+    "general_unicode": "基本区 U+9875",
+    "general_bs_code": "132534"
+}

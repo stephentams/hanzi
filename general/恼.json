@@ -1,0 +1,58 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "angered, filled with hate"
+        },
+        {
+            "language": "德语",
+            "explanation": "verärgert, irritiert, hasserfüllt, Ärger, Hass"
+        },
+        {
+            "language": "法语",
+            "explanation": "se fâcher,être mécontent,se troubler"
+        }
+    ],
+    "general_pinyins": [
+        "nǎo"
+    ],
+    "general_zhuyins": [
+        "ㄋㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "惱"
+    ],
+    "general_ytz": [
+        "惱",
+        "悩",
+        "㛴",
+        "𡡟",
+        "𡢆",
+        "𡢋",
+        "𡛛",
+        "𡜣",
+        "𡜪",
+        "𡝲",
+        "𢙉",
+        "𢚰",
+        "𤹻"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "607C",
+            "442413452"
+        ],
+        "char_code_wubi": "nybh|nyrb",
+        "char_code_cangjie": "pyuk",
+        "char_code_zhengma": "usoz",
+        "char_code_sijiao": "90072"
+    },
+    "general_unicode": "基本区 U+607C",
+    "general_bs_code": "442413452"
+}

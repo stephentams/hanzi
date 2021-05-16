@@ -1,0 +1,27 @@
+{
+    "general_pinyins": [
+        "què"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "16",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "礐"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "255D9",
+            "132513211343451145521"
+        ],
+        "char_code_wubi": "dwfb",
+        "char_code_cangjie": "mrhbd",
+        "char_code_zhengma": "gnoy"
+    },
+    "general_unicode": "扩展B U+255D9",
+    "general_bs_code": "132513211343451145521"
+}

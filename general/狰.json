@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fierce-looking, ferocious"
+        },
+        {
+            "language": "德语",
+            "explanation": "abscheulich, scheußlich"
+        },
+        {
+            "language": "法语",
+            "explanation": "hideux,aspect féroce"
+        }
+    ],
+    "general_pinyins": [
+        "zhēng"
+    ],
+    "general_zhuyins": [
+        "ㄓㄥ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "猙"
+    ],
+    "general_ytz": [
+        "猙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "72F0",
+            "353355112"
+        ],
+        "char_code_wubi": "qtqh",
+        "char_code_cangjie": "khnsd",
+        "char_code_zhengma": "qmrx",
+        "char_code_sijiao": "47257"
+    },
+    "general_unicode": "基本区 U+72F0",
+    "general_bs_code": "353355112"
+}

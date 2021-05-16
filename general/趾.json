@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "toe; tracks, footprints"
+        },
+        {
+            "language": "德语",
+            "explanation": "ausweichen, Parallelität  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "orteil"
+        }
+    ],
+    "general_pinyins": [
+        "zhǐ"
+    ],
+    "general_zhuyins": [
+        "ㄓˇ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "4",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "止",
+        "阯",
+        "䟖"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8DBE",
+            "25121212121"
+        ],
+        "char_code_wubi": "khhg",
+        "char_code_cangjie": "rmylm",
+        "char_code_zhengma": "jiii",
+        "char_code_sijiao": "61110"
+    },
+    "general_unicode": "基本区 U+8DBE",
+    "general_bs_code": "25121212121"
+}

@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "galloping; speeding"
+        }
+    ],
+    "general_pinyins": [
+        "qīn"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄣ"
+    ],
+    "general_radical": {
+        "radical": "马",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "駸"
+    ],
+    "general_ytz": [
+        "駸",
+        "𩤨",
+        "𩤿"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A8E",
+            "5515114554"
+        ],
+        "char_code_wubi": "cvpc|cgvc",
+        "char_code_cangjie": "nmsme",
+        "char_code_zhengma": "xxwx",
+        "char_code_sijiao": "77147"
+    },
+    "general_unicode": "基本区 U+9A8E",
+    "general_bs_code": "5515114554"
+}

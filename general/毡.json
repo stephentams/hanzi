@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "felt; rug, carpet"
+        },
+        {
+            "language": "德语",
+            "explanation": "abgetastet, empfunden ,Filz  (S, Pol)"
+        }
+    ],
+    "general_pinyins": [
+        "zhān"
+    ],
+    "general_zhuyins": [
+        "ㄓㄢ"
+    ],
+    "general_radical": {
+        "radical": "毛",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "氈"
+    ],
+    "general_ytz": [
+        "氈",
+        "氊",
+        "𣭣",
+        "𣰔",
+        "𩎄"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6BE1",
+            "311521251"
+        ],
+        "char_code_wubi": "tfnk|ehkd",
+        "char_code_cangjie": "huyr",
+        "char_code_zhengma": "mhij",
+        "char_code_sijiao": "21716"
+    },
+    "general_unicode": "基本区 U+6BE1",
+    "general_bs_code": "311521251"
+}

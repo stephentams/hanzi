@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "forge metal; temper, refine"
+        },
+        {
+            "language": "德语",
+            "explanation": "schmieden  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "forger,marteler"
+        }
+    ],
+    "general_pinyins": [
+        "duàn"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "9",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "鍛"
+    ],
+    "general_ytz": [
+        "鍛",
+        "𨩷",
+        "𨪇"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "953B",
+            "31115321113554"
+        ],
+        "char_code_wubi": "qwdc|qthc",
+        "char_code_cangjie": "ophje",
+        "char_code_zhengma": "pncq",
+        "char_code_sijiao": "87747"
+    },
+    "general_unicode": "基本区 U+953B",
+    "general_bs_code": "31115321113554"
+}

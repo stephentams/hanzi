@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "why? what? where?"
+        },
+        {
+            "language": "德语",
+            "explanation": "als, während ,das, was"
+        },
+        {
+            "language": "法语",
+            "explanation": "pourquoi ?,quoi ?,où ?"
+        }
+    ],
+    "general_pinyins": [
+        "hé"
+    ],
+    "general_zhuyins": [
+        "ㄏㄜˊ"
+    ],
+    "general_radical": {
+        "radical": "曰",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "愒"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "66F7",
+            "251135345"
+        ],
+        "char_code_wubi": "jqwn",
+        "char_code_cangjie": "apvo",
+        "char_code_zhengma": "kry",
+        "char_code_sijiao": "60727"
+    },
+    "general_unicode": "基本区 U+66F7",
+    "general_bs_code": "251135345"
+}

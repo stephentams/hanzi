@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "salt"
+        },
+        {
+            "language": "德语",
+            "explanation": "Salz (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "sel,salé,saler"
+        }
+    ],
+    "general_pinyins": [
+        "yán"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "皿",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "鹽"
+    ],
+    "general_ytz": [
+        "鹽",
+        "塩",
+        "䀋",
+        "𥂁",
+        "𨣎",
+        "𪉟",
+        "𪉩"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "76D0",
+            "1212425221"
+        ],
+        "char_code_wubi": "fhlf",
+        "char_code_cangjie": "gybt",
+        "char_code_zhengma": "bilk",
+        "char_code_sijiao": "43102"
+    },
+    "general_unicode": "基本区 U+76D0",
+    "general_bs_code": "1212425221"
+}

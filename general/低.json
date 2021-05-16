@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "low; to lower, hang, bend, bow"
+        },
+        {
+            "language": "德语",
+            "explanation": "senken, sinken lassen, hängen lassen  (V)​,niedrig, tief  (Adv)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bas,peu élevé,inférieur,baisser,pencher"
+        }
+    ],
+    "general_pinyins": [
+        "dī"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "仾",
+        "氐",
+        "𠇓",
+        "𠍪",
+        "𢘢",
+        "𩉶",
+        "𠉃"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4F4E",
+            "3235154"
+        ],
+        "char_code_wubi": "wqay",
+        "char_code_cangjie": "ohpm",
+        "char_code_zhengma": "nrs",
+        "char_code_sijiao": "22240"
+    },
+    "general_unicode": "基本区 U+4F4E",
+    "general_bs_code": "3235154"
+}

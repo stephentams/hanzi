@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "walk, go on foot; run; leave"
+        },
+        {
+            "language": "德语",
+            "explanation": "bewegen, gehen, spazieren  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "marcher,y aller,partir,aller,visiter,quitter,156e radical"
+        }
+    ],
+    "general_pinyins": [
+        "zǒu"
+    ],
+    "general_zhuyins": [
+        "ㄗㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "走",
+        "non_radical_sn": "0",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㞫",
+        "赱",
+        "𡗱",
+        "𣥕",
+        "𣥚",
+        "𧺆",
+        "𡹦",
+        "𨑿",
+        "𨒨"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D70",
+            "1212134"
+        ],
+        "char_code_wubi": "fhu",
+        "char_code_cangjie": "gyo",
+        "char_code_zhengma": "bo",
+        "char_code_sijiao": "40801"
+    },
+    "general_unicode": "基本区 U+8D70",
+    "general_bs_code": "1212134"
+}

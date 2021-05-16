@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "kind of wood from which perfume"
+        },
+        {
+            "language": "法语",
+            "explanation": "bois aromatique,parfum"
+        }
+    ],
+    "general_pinyins": [
+        "fēn"
+    ],
+    "general_zhuyins": [
+        "ㄈㄣ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "梤",
+        "㯣",
+        "𦯳"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "68FB",
+            "12234531234"
+        ],
+        "char_code_wubi": "awvs",
+        "char_code_cangjie": "tcsd",
+        "char_code_zhengma": "eoyf",
+        "char_code_sijiao": "44904"
+    },
+    "general_unicode": "基本区 U+68FB",
+    "general_bs_code": "12234531234"
+}

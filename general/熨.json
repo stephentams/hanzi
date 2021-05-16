@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "iron, press"
+        },
+        {
+            "language": "德语",
+            "explanation": "glatt, lieblich ,bügeln  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "repasser"
+        }
+    ],
+    "general_pinyins": [
+        "yùn",
+        "yù"
+    ],
+    "general_zhuyins": [
+        "ㄩㄣˋ",
+        "ㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "11",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "尉",
+        "熅",
+        "𣂊",
+        "𤈫",
+        "𤓮"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "71A8",
+            "513112341244334"
+        ],
+        "char_code_wubi": "nfio",
+        "char_code_cangjie": "sif",
+        "char_code_zhengma": "xmdu",
+        "char_code_sijiao": "74809"
+    },
+    "general_unicode": "基本区 U+71A8",
+    "general_bs_code": "513112341244334"
+}

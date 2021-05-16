@@ -1,0 +1,30 @@
+{
+    "general_pinyins": [
+        "liú"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "馬",
+        "non_radical_sn": "12",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "騮"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A51",
+            "1211254444122155125121"
+        ],
+        "char_code_wubi": "cgal|cogl",
+        "char_code_cangjie": "sfmlw",
+        "char_code_zhengma": "cuxk",
+        "char_code_sijiao": "71362"
+    },
+    "general_unicode": "基本区 U+9A51",
+    "general_bs_code": "1211254444122155125121"
+}

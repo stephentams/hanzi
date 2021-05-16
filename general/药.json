@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "leaf of Dahurian angelica plant; medicine"
+        },
+        {
+            "language": "德语",
+            "explanation": "Medikament  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "médicament"
+        }
+    ],
+    "general_pinyins": [
+        "yào"
+    ],
+    "general_zhuyins": [
+        "ㄧㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "葯",
+        "藥"
+    ],
+    "general_ytz": [
+        "藥",
+        "葯",
+        "薬",
+        "𤒝"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "836F",
+            "122551354"
+        ],
+        "char_code_wubi": "axqy",
+        "char_code_cangjie": "tvmi",
+        "char_code_zhengma": "ezrs",
+        "char_code_sijiao": "44127"
+    },
+    "general_unicode": "基本区 U+836F",
+    "general_bs_code": "122551354"
+}

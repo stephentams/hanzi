@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "inundate, flood; torrent"
+        },
+        {
+            "language": "德语",
+            "explanation": "überflutet, überschwemmte"
+        },
+        {
+            "language": "法语",
+            "explanation": "inondation"
+        }
+    ],
+    "general_pinyins": [
+        "lào"
+    ],
+    "general_zhuyins": [
+        "ㄌㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "澇"
+    ],
+    "general_ytz": [
+        "澇"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6D9D",
+            "4411224553"
+        ],
+        "char_code_wubi": "iapl|iape",
+        "char_code_cangjie": "etbs",
+        "char_code_zhengma": "vewy",
+        "char_code_sijiao": "34127"
+    },
+    "general_unicode": "基本区 U+6D9D",
+    "general_bs_code": "4411224553"
+}

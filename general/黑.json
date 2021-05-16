@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "black; dark; evil, sinister"
+        },
+        {
+            "language": "德语",
+            "explanation": "schwarz"
+        },
+        {
+            "language": "法语",
+            "explanation": "noir,sombre,secret"
+        }
+    ],
+    "general_pinyins": [
+        "hēi"
+    ],
+    "general_zhuyins": [
+        "ㄏㄟ"
+    ],
+    "general_radical": {
+        "radical": "黑",
+        "non_radical_sn": "0",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "黒",
+        "𪐗",
+        "𪐫"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9ED1",
+            "254312114444"
+        ],
+        "char_code_wubi": "lfou",
+        "char_code_cangjie": "wgf",
+        "char_code_zhengma": "lkbu",
+        "char_code_sijiao": "60331"
+    },
+    "general_unicode": "基本区 U+9ED1",
+    "general_bs_code": "254312114444"
+}

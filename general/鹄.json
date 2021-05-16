@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "target"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schwan, weißhaarig"
+        },
+        {
+            "language": "法语",
+            "explanation": "cygne"
+        }
+    ],
+    "general_pinyins": [
+        "hú"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "鸟",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "鵠"
+    ],
+    "general_ytz": [
+        "鵠",
+        "䧼"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E44",
+            "312125135451"
+        ],
+        "char_code_wubi": "tfkg",
+        "char_code_cangjie": "hrpym",
+        "char_code_zhengma": "mbjr",
+        "char_code_sijiao": "27627"
+    },
+    "general_unicode": "基本区 U+9E44",
+    "general_bs_code": "312125135451"
+}

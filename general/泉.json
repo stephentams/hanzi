@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "spring, fountain; wealth, money"
+        },
+        {
+            "language": "德语",
+            "explanation": "Quelle"
+        },
+        {
+            "language": "法语",
+            "explanation": "source"
+        }
+    ],
+    "general_pinyins": [
+        "quán"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "水",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㟫",
+        "洤",
+        "湶",
+        "灥",
+        "𣹻",
+        "𤱄",
+        "𤲴",
+        "𤽄",
+        "𤽇",
+        "𡺙"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6CC9",
+            "325112534"
+        ],
+        "char_code_wubi": "riu",
+        "char_code_cangjie": "hae",
+        "char_code_zhengma": "nkkv",
+        "char_code_sijiao": "26902"
+    },
+    "general_unicode": "基本区 U+6CC9",
+    "general_bs_code": "325112534"
+}

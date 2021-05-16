@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "intoxicated, drunk; addicted to"
+        },
+        {
+            "language": "德语",
+            "explanation": "trunken, betrunken  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "s'adonner à,se plonger dans,ivre,soûl,saoul"
+        }
+    ],
+    "general_pinyins": [
+        "zuì"
+    ],
+    "general_zhuyins": [
+        "ㄗㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "酉",
+        "non_radical_sn": "8",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "酔",
+        "𨠪",
+        "酻"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9189",
+            "125351141343412"
+        ],
+        "char_code_wubi": "sgyf",
+        "char_code_cangjie": "mwyoj",
+        "char_code_zhengma": "fdoe",
+        "char_code_sijiao": "10648"
+    },
+    "general_unicode": "基本区 U+9189",
+    "general_bs_code": "125351141343412"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lack; poor"
+        },
+        {
+            "language": "法语",
+            "explanation": "manquer de,faire défaut,fatigué"
+        }
+    ],
+    "general_pinyins": [
+        "fá"
+    ],
+    "general_zhuyins": [
+        "ㄈㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "丿",
+        "non_radical_sn": "3",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "疺",
+        "貶",
+        "𠂜",
+        "𠓟",
+        "𣥄"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4E4F",
+            "3454"
+        ],
+        "char_code_wubi": "tpi|tpu",
+        "char_code_cangjie": "hino",
+        "char_code_zhengma": "mwvv",
+        "char_code_sijiao": "20302"
+    },
+    "general_unicode": "基本区 U+4E4F",
+    "general_bs_code": "3454"
+}

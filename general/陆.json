@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "land, continental; army"
+        },
+        {
+            "language": "德语",
+            "explanation": "Festland  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "terre ferme,six (forme anti-fraude)​"
+        }
+    ],
+    "general_pinyins": [
+        "lù"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "陸"
+    ],
+    "general_ytz": [
+        "陸",
+        "踛",
+        "𡽷",
+        "𤱒",
+        "𨸪",
+        "𨽐",
+        "𨽫",
+        "𨽰",
+        "𩣱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9646",
+            "5211252"
+        ],
+        "char_code_wubi": "bfmh|bgbh",
+        "char_code_cangjie": "nlqu",
+        "char_code_zhengma": "ybzi",
+        "char_code_sijiao": "75272"
+    },
+    "general_unicode": "基本区 U+9646",
+    "general_bs_code": "5211252"
+}

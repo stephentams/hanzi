@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "法语",
+            "explanation": "(onom.)​ son des pas de chevaux"
+        }
+    ],
+    "general_pinyins": [
+        "dē",
+        "dēi"
+    ],
+    "general_zhuyins": [
+        "ㄉㄜ",
+        "ㄉㄟ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "561A",
+            "25133225111124"
+        ],
+        "char_code_wubi": "ktjf",
+        "char_code_cangjie": "rhoi",
+        "char_code_zhengma": "joad",
+        "char_code_sijiao": "66041"
+    },
+    "general_unicode": "基本区 U+561A",
+    "general_bs_code": "25133225111124"
+}

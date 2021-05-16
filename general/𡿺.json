@@ -1,0 +1,32 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "brain"
+        }
+    ],
+    "general_pinyins": [
+        "nǎo"
+    ],
+    "general_zhuyins": [
+        "ㄋㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "巛",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "21FFA",
+            "555325341"
+        ],
+        "char_code_wubi": "vtlq",
+        "char_code_zhengma": "zdno"
+    },
+    "general_unicode": "扩展B U+21FFA",
+    "general_bs_code": "555325341"
+}

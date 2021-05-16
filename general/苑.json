@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pasture, park, garden; mansion"
+        },
+        {
+            "language": "德语",
+            "explanation": "Wildpark, Gehege, Garten  (S)​,Zenrum für Künste, Kunstzentrum  (S, Arch)​,Yuan  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "enclos,parc,centre,cercle"
+        }
+    ],
+    "general_pinyins": [
+        "yuàn"
+    ],
+    "general_zhuyins": [
+        "ㄩㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "82D1",
+            "12235455"
+        ],
+        "char_code_wubi": "aqbb",
+        "char_code_cangjie": "tniu",
+        "char_code_zhengma": "eryy",
+        "char_code_sijiao": "44212"
+    },
+    "general_unicode": "基本区 U+82D1",
+    "general_bs_code": "12235455"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "plow, cultivate"
+        },
+        {
+            "language": "德语",
+            "explanation": "fräsen, umfräsen ,pflügen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "labourer"
+        }
+    ],
+    "general_pinyins": [
+        "gēng"
+    ],
+    "general_zhuyins": [
+        "ㄍㄥ"
+    ],
+    "general_radical": {
+        "radical": "耒",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "畊",
+        "𠛝",
+        "𣚣",
+        "𥝷",
+        "𦓮"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8015",
+            "1112341132"
+        ],
+        "char_code_wubi": "difj|fsfj",
+        "char_code_cangjie": "qdtt",
+        "char_code_zhengma": "ckbn",
+        "char_code_sijiao": "55900"
+    },
+    "general_unicode": "基本区 U+8015",
+    "general_bs_code": "1112341132"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cord; woven belt; hem; hemming"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kordel, Kord  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cordon,ceinture brodée,coudre"
+        }
+    ],
+    "general_pinyins": [
+        "gǔn"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "緄"
+    ],
+    "general_ytz": [
+        "緄"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EF2",
+            "55125111535"
+        ],
+        "char_code_wubi": "xjxx",
+        "char_code_cangjie": "vmapp",
+        "char_code_zhengma": "zkrr",
+        "char_code_sijiao": "26112"
+    },
+    "general_unicode": "基本区 U+7EF2",
+    "general_bs_code": "55125111535"
+}

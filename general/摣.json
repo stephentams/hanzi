@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a handful. to pick up with the fingers. to seize"
+        }
+    ],
+    "general_pinyins": [
+        "zhā"
+    ],
+    "general_zhuyins": [
+        "ㄓㄚ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "抯",
+        "揸",
+        "𢸉",
+        "𠭯",
+        "𢳛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6463",
+            "12121531525111"
+        ],
+        "char_code_wubi": "rhag|rheg",
+        "char_code_cangjie": "qypm",
+        "char_code_zhengma": "dilc",
+        "char_code_sijiao": "51012"
+    },
+    "general_unicode": "基本区 U+6463",
+    "general_bs_code": "12121531525111"
+}

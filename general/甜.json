@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sweet, sweetness"
+        },
+        {
+            "language": "德语",
+            "explanation": "süß  (Adj, Ess)"
+        },
+        {
+            "language": "法语",
+            "explanation": "sucré,doux"
+        }
+    ],
+    "general_pinyins": [
+        "tián"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "舌",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䑚",
+        "䣶",
+        "甛",
+        "餂",
+        "𥑠",
+        "𦧩",
+        "𩚣"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "751C",
+            "31225112211"
+        ],
+        "char_code_wubi": "tdaf|tdfg",
+        "char_code_cangjie": "hrtm",
+        "char_code_zhengma": "mieb",
+        "char_code_sijiao": "24670"
+    },
+    "general_unicode": "基本区 U+751C",
+    "general_bs_code": "31225112211"
+}

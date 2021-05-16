@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sacrifice"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufopfern, Opfer  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "sacrifice"
+        }
+    ],
+    "general_pinyins": [
+        "zhào"
+    ],
+    "general_zhuyins": [
+        "ㄓㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "兆",
+        "𤱩"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5797",
+            "121341534"
+        ],
+        "char_code_wubi": "fiqn|fqiy",
+        "char_code_cangjie": "glmo",
+        "char_code_zhengma": "bvrd",
+        "char_code_sijiao": "42113"
+    },
+    "general_unicode": "基本区 U+5797",
+    "general_bs_code": "121341534"
+}

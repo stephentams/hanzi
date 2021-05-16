@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "language of the savage or barbarian"
+        }
+    ],
+    "general_pinyins": [
+        "chè",
+        "zhì"
+    ],
+    "general_zhuyins": [
+        "ㄔㄜˋ",
+        "ㄓˋ"
+    ],
+    "general_radical": {
+        "radical": "言",
+        "non_radical_sn": "15",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡂒"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4720",
+            "4111251331233122511134"
+        ],
+        "char_code_wubi": "yrrm",
+        "char_code_cangjie": "yrhlc",
+        "char_code_zhengma": "sppl",
+        "char_code_sijiao": "02686"
+    },
+    "general_unicode": "扩展A U+4720",
+    "general_bs_code": "4111251331233122511134"
+}

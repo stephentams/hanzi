@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "kind of rapier"
+        },
+        {
+            "language": "德语",
+            "explanation": "Streitkolben  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "massue"
+        }
+    ],
+    "general_pinyins": [
+        "jiǎn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "鐧"
+    ],
+    "general_ytz": [
+        "鐧",
+        "鐗",
+        "𨰓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "950F",
+            "311154252511"
+        ],
+        "char_code_wubi": "qujg",
+        "char_code_cangjie": "oplsa",
+        "char_code_zhengma": "ptk",
+        "char_code_sijiao": "87720"
+    },
+    "general_unicode": "基本区 U+950F",
+    "general_bs_code": "311154252511"
+}

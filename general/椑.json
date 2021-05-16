@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "oval"
+        },
+        {
+            "language": "法语",
+            "explanation": "hêtre,Fagus sylvatica"
+        }
+    ],
+    "general_pinyins": [
+        "bēi"
+    ],
+    "general_zhuyins": [
+        "ㄅㄟ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣔬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6911",
+            "123432511312"
+        ],
+        "char_code_wubi": "srtf",
+        "char_code_cangjie": "dhwj",
+        "char_code_zhengma": "fned",
+        "char_code_sijiao": "46940"
+    },
+    "general_unicode": "基本区 U+6911",
+    "general_bs_code": "123432511312"
+}

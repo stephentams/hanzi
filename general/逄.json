@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a surname"
+        },
+        {
+            "language": "德语",
+            "explanation": "Pang  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "páng"
+    ],
+    "general_zhuyins": [
+        "ㄆㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9004",
+            "354152454"
+        ],
+        "char_code_wubi": "tahp|tgpk",
+        "char_code_cangjie": "yheq",
+        "char_code_zhengma": "rsmw",
+        "char_code_sijiao": "37305"
+    },
+    "general_unicode": "基本区 U+9004",
+    "general_bs_code": "354152454"
+}

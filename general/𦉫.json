@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "网",
+        "non_radical_sn": "0",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "网"
+    ],
+    "general_structure": "上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2626B",
+            "2522"
+        ],
+        "char_code_wubi": "mjk",
+        "char_code_cangjie": "bll",
+        "char_code_zhengma": "ldkd"
+    },
+    "general_unicode": "扩展B U+2626B",
+    "general_bs_code": "2522"
+}

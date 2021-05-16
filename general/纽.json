@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "knot; button; handle, knob; tie"
+        },
+        {
+            "language": "德语",
+            "explanation": "drehen, rotieren ,reißen,  reißen ,Knopf, Schaltfläche  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "noeud,bouton"
+        }
+    ],
+    "general_pinyins": [
+        "niǔ"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "紐"
+    ],
+    "general_ytz": [
+        "紐",
+        "靵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EBD",
+            "5515211"
+        ],
+        "char_code_wubi": "xnfg|xnhg",
+        "char_code_cangjie": "vmng",
+        "char_code_zhengma": "zxed",
+        "char_code_sijiao": "27112"
+    },
+    "general_unicode": "基本区 U+7EBD",
+    "general_bs_code": "5515211"
+}

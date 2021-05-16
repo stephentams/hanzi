@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pimple, sore, boil, wart, pustule"
+        },
+        {
+            "language": "德语",
+            "explanation": "Pickel, Finne (Pustel)​  (S, Med)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bouton,verrue"
+        }
+    ],
+    "general_pinyins": [
+        "gē",
+        "yì"
+    ],
+    "general_zhuyins": [
+        "ㄍㄜ",
+        "ㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "3",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢖴",
+        "𤴸",
+        "𤵀"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7599",
+            "41341315"
+        ],
+        "char_code_wubi": "utnv",
+        "char_code_cangjie": "kon",
+        "char_code_zhengma": "tmyd",
+        "char_code_sijiao": "00117"
+    },
+    "general_unicode": "基本区 U+7599",
+    "general_bs_code": "41341315"
+}

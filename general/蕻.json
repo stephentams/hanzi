@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "德语",
+            "explanation": "knospend"
+        },
+        {
+            "language": "法语",
+            "explanation": "en herbe,naissant,en bourgeon,florissant,luxuriant"
+        }
+    ],
+    "general_pinyins": [
+        "hòng"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦶓",
+        "𦮎"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "857B",
+            "1221211154122134"
+        ],
+        "char_code_wubi": "adaw",
+        "char_code_cangjie": "tsic",
+        "char_code_zhengma": "eceo",
+        "char_code_sijiao": "44781"
+    },
+    "general_unicode": "基本区 U+857B",
+    "general_bs_code": "1221211154122134"
+}

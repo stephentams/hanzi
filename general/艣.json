@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stern oar, scull [?]"
+        }
+    ],
+    "general_pinyins": [
+        "lǔ"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "舟",
+        "non_radical_sn": "13",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "櫓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8263",
+            "3354142153152512153"
+        ],
+        "char_code_wubi": "tehl|tuhe",
+        "char_code_cangjie": "hyyps",
+        "char_code_zhengma": "pyky",
+        "char_code_sijiao": "21427"
+    },
+    "general_unicode": "基本区 U+8263",
+    "general_bs_code": "3354142153152512153"
+}

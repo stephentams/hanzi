@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cakes, pastry"
+        },
+        {
+            "language": "德语",
+            "explanation": "Block  (S)​,Kuchen  (S, Ess)"
+        }
+    ],
+    "general_pinyins": [
+        "gāo"
+    ],
+    "general_zhuyins": [
+        "ㄍㄠ"
+    ],
+    "general_radical": {
+        "radical": "米",
+        "non_radical_sn": "10",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "餻",
+        "𥻷",
+        "𥼯",
+        "𩝏",
+        "𩝝"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7CD5",
+            "4312344311214444"
+        ],
+        "char_code_wubi": "ougo",
+        "char_code_cangjie": "fdtgf",
+        "char_code_zhengma": "ufuu",
+        "char_code_sijiao": "98931"
+    },
+    "general_unicode": "基本区 U+7CD5",
+    "general_bs_code": "4312344311214444"
+}

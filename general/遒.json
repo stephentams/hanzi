@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "strong, unyielding, forceful"
+        },
+        {
+            "language": "法语",
+            "explanation": "urgent,rapide,énergique,vigoureux,inflexible,ferme,fort,magnifique,resplendissant,se rapprocher"
+        }
+    ],
+    "general_pinyins": [
+        "qiú"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "逎"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9052",
+            "431253511454"
+        ],
+        "char_code_wubi": "usgp",
+        "char_code_cangjie": "ytcw",
+        "char_code_zhengma": "udfw",
+        "char_code_sijiao": "38306"
+    },
+    "general_unicode": "基本区 U+9052",
+    "general_bs_code": "431253511454"
+}

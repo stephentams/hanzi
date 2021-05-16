@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "number seven"
+        },
+        {
+            "language": "德语",
+            "explanation": "7, sieben (alternative Form für Finanzwesen, fälschungssicherer)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "sept,vernis"
+        }
+    ],
+    "general_pinyins": [
+        "qī"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "七",
+        "㭍",
+        "漆"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "67D2",
+            "441151234"
+        ],
+        "char_code_wubi": "iasu",
+        "char_code_cangjie": "epd",
+        "char_code_zhengma": "vhf",
+        "char_code_sijiao": "34904"
+    },
+    "general_unicode": "基本区 U+67D2",
+    "general_bs_code": "441151234"
+}

@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "smile at; sneer at"
+        }
+    ],
+    "general_pinyins": [
+        "yǐn",
+        "shěn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄣˇ",
+        "ㄕㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "哂"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5432",
+            "2515152"
+        ],
+        "char_code_wubi": "kxhh",
+        "char_code_cangjie": "rnl",
+        "char_code_zhengma": "jyi",
+        "char_code_sijiao": "62000"
+    },
+    "general_unicode": "基本区 U+5432",
+    "general_bs_code": "2515152"
+}

@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "speak ill of, vilify; berate"
+        },
+        {
+            "language": "德语",
+            "explanation": "missbrauchen, beschimpfen"
+        }
+    ],
+    "general_pinyins": [
+        "suì"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "誶"
+    ],
+    "general_ytz": [
+        "誶",
+        "譢"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C07",
+            "4541343412"
+        ],
+        "char_code_wubi": "yywf",
+        "char_code_cangjie": "ivyoj",
+        "char_code_zhengma": "ssoe",
+        "char_code_sijiao": "30748"
+    },
+    "general_unicode": "基本区 U+8C07",
+    "general_bs_code": "4541343412"
+}

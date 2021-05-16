@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "turn up, lift, elevate, raise"
+        },
+        {
+            "language": "德语",
+            "explanation": "Haarschmuck der Frauen [ hist. ]  (S, Gesch)​,Schwanzfeder [hist ]  (S, Bio)​,heben, anheben, etw. an einem Ende nach oben heben  (V)​,krümmen, sich nach oben biegen  (V)​,hervorragend"
+        },
+        {
+            "language": "法语",
+            "explanation": "avoir un côté relevé,rebiquer,lever,dresser,excellent"
+        }
+    ],
+    "general_pinyins": [
+        "qiáo",
+        "qiào"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄠˊ",
+        "ㄑㄧㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "羽",
+        "non_radical_sn": "6",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "翹"
+    ],
+    "general_ytz": [
+        "翹",
+        "㚁",
+        "𦒒"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7FD8",
+            "153135541541"
+        ],
+        "char_code_wubi": "atgn",
+        "char_code_cangjie": "jusmm",
+        "char_code_zhengma": "hmyy",
+        "char_code_sijiao": "57212"
+    },
+    "general_unicode": "基本区 U+7FD8",
+    "general_bs_code": "153135541541"
+}

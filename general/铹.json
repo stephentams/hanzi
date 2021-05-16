@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lr"
+        },
+        {
+            "language": "德语",
+            "explanation": "Lawrencium (Element 103, Lr)​ (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "lawrencium"
+        }
+    ],
+    "general_pinyins": [
+        "láo"
+    ],
+    "general_zhuyins": [
+        "ㄌㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "鐒"
+    ],
+    "general_ytz": [
+        "鐒"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94F9",
+            "311151224553"
+        ],
+        "char_code_wubi": "qapl|qape",
+        "char_code_cangjie": "optbs",
+        "char_code_zhengma": "pewy",
+        "char_code_sijiao": "84727"
+    },
+    "general_unicode": "基本区 U+94F9",
+    "general_bs_code": "311151224553"
+}

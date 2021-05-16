@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "冂",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "肉"
+    ],
+    "general_structure": "上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2054E",
+            "253434"
+        ],
+        "char_code_wubi": "mwwi",
+        "char_code_cangjie": "boo",
+        "char_code_zhengma": "ldoo"
+    },
+    "general_unicode": "扩展B U+2054E",
+    "general_bs_code": "253434"
+}

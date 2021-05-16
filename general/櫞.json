@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "citrus"
+        },
+        {
+            "language": "法语",
+            "explanation": "Citrus medica,Cédratier"
+        }
+    ],
+    "general_pinyins": [
+        "yuán"
+    ],
+    "general_zhuyins": [
+        "ㄩㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "15",
+        "total_sn": "19"
+    },
+    "general_stc": [
+        "橼"
+    ],
+    "general_ytz": [
+        "橼"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6ADE",
+            "1234554444551353334"
+        ],
+        "char_code_wubi": "sxxe",
+        "char_code_cangjie": "dvfo",
+        "char_code_zhengma": "fzzg",
+        "char_code_sijiao": "47932"
+    },
+    "general_unicode": "基本区 U+6ADE",
+    "general_bs_code": "1234554444551353334"
+}

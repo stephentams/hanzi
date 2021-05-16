@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "overflow of water; spreading"
+        },
+        {
+            "language": "德语",
+            "explanation": "frei, offenherzig  (Adj)​,überlaufen, auslaufen"
+        },
+        {
+            "language": "法语",
+            "explanation": "partout,librement,déborder"
+        }
+    ],
+    "general_pinyins": [
+        "màn"
+    ],
+    "general_zhuyins": [
+        "ㄇㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "墁",
+        "澫",
+        "澷",
+        "𣸞"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6F2B",
+            "44125112522154"
+        ],
+        "char_code_wubi": "ijlc",
+        "char_code_cangjie": "eawe",
+        "char_code_zhengma": "vklx",
+        "char_code_sijiao": "36147"
+    },
+    "general_unicode": "基本区 U+6F2B",
+    "general_bs_code": "44125112522154"
+}

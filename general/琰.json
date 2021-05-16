@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "jewel, gem; glitter of gems"
+        },
+        {
+            "language": "德语",
+            "explanation": "Edelstein  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "pierre précieuse,étincelles de pierres précieuses"
+        }
+    ],
+    "general_pinyins": [
+        "yǎn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣨬",
+        "𤥎"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7430",
+            "112143344334"
+        ],
+        "char_code_wubi": "gooy",
+        "char_code_cangjie": "mgff",
+        "char_code_zhengma": "cuuo",
+        "char_code_sijiao": "19189"
+    },
+    "general_unicode": "基本区 U+7430",
+    "general_bs_code": "112143344334"
+}

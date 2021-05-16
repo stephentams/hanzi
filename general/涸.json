@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dried up; exhausted, tired; dry"
+        },
+        {
+            "language": "德语",
+            "explanation": "abtrocknen, dörren ,ausdorren, stecken bleiben"
+        },
+        {
+            "language": "法语",
+            "explanation": "dessécher"
+        }
+    ],
+    "general_pinyins": [
+        "hé"
+    ],
+    "general_zhuyins": [
+        "ㄏㄜˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤃯"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6DB8",
+            "44125122511"
+        ],
+        "char_code_wubi": "ildg",
+        "char_code_cangjie": "ewjr",
+        "char_code_zhengma": "vjej",
+        "char_code_sijiao": "36100"
+    },
+    "general_unicode": "基本区 U+6DB8",
+    "general_bs_code": "44125122511"
+}

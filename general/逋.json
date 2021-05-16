@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "flee, run away, leave debt unsettled"
+        },
+        {
+            "language": "法语",
+            "explanation": "fuir,s'échapper,s'enfuir"
+        }
+    ],
+    "general_pinyins": [
+        "bū"
+    ],
+    "general_zhuyins": [
+        "ㄅㄨ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨗗",
+        "𨕝",
+        "𨓥"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "900B",
+            "1251124454"
+        ],
+        "char_code_wubi": "gehp|spi",
+        "char_code_cangjie": "yijb",
+        "char_code_zhengma": "fbw",
+        "char_code_sijiao": "33302"
+    },
+    "general_unicode": "基本区 U+900B",
+    "general_bs_code": "1251124454"
+}

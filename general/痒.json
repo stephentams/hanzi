@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "itch"
+        },
+        {
+            "language": "德语",
+            "explanation": "kitzeln ,jucken  (V)​,prickeln  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "gratter,démanger,démangeaison,Prurit"
+        }
+    ],
+    "general_pinyins": [
+        "yǎng"
+    ],
+    "general_zhuyins": [
+        "ㄧㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "癢"
+    ],
+    "general_ytz": [
+        "𤶪",
+        "𦍲",
+        "癢",
+        "𤻰"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "75D2",
+            "41341431112"
+        ],
+        "char_code_wubi": "uudk|uuk",
+        "char_code_cangjie": "ktq",
+        "char_code_zhengma": "tuc",
+        "char_code_sijiao": "00151"
+    },
+    "general_unicode": "基本区 U+75D2",
+    "general_bs_code": "41341431112"
+}

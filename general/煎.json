@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fry in fat or oil; boil in water"
+        },
+        {
+            "language": "德语",
+            "explanation": "braten"
+        },
+        {
+            "language": "法语",
+            "explanation": "poêler,faire sauter"
+        }
+    ],
+    "general_pinyins": [
+        "jiān"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "灬",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㷙",
+        "𤋎",
+        "𤌺",
+        "𤎴",
+        "𤎵"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "714E",
+            "4312511224444"
+        ],
+        "char_code_wubi": "uejo",
+        "char_code_cangjie": "tbnf",
+        "char_code_zhengma": "uaku",
+        "char_code_sijiao": "80332"
+    },
+    "general_unicode": "基本区 U+714E",
+    "general_bs_code": "4312511224444"
+}

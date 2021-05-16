@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a mountain in Kansu, where there is a cave into which the sun is said to sink at night"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom d'une province dans le Gansu)​"
+        }
+    ],
+    "general_pinyins": [
+        "yān"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "嶖",
+        "𡹛",
+        "𡹮",
+        "㟢"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5D26",
+            "25213425115"
+        ],
+        "char_code_wubi": "mdjn",
+        "char_code_cangjie": "uklu",
+        "char_code_zhengma": "llkz",
+        "char_code_sijiao": "24716"
+    },
+    "general_unicode": "基本区 U+5D26",
+    "general_bs_code": "25213425115"
+}

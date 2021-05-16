@@ -1,0 +1,34 @@
+{
+    "general_pinyins": [
+        "luán",
+        "luàn"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄢˊ",
+        "ㄌㄨㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "水",
+        "non_radical_sn": "19",
+        "total_sn": "23"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "亂",
+        "灤",
+        "𤅇"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7053",
+            "41112515544445544442534"
+        ],
+        "char_code_wubi": "xyxi|yxxi",
+        "char_code_cangjie": "vfe",
+        "char_code_zhengma": "zskv",
+        "char_code_sijiao": "22902"
+    },
+    "general_unicode": "基本区 U+7053",
+    "general_bs_code": "41112515544445544442534"
+}

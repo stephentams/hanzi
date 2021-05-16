@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "railing, balustrade; animal pan"
+        },
+        {
+            "language": "德语",
+            "explanation": "(Zeitungs)​Spalte  (S)​,Brüstung  (S)​,Geländer  (S)​,Hürde  (S)​,Kolonne  (S)​,Kolumne  (S)​,Koppel  (S)​,Pferch  (S)​,Kolonne"
+        },
+        {
+            "language": "法语",
+            "explanation": "barrière,clôture,obstacle,rubrique,colonne (de texte ou de tableau)​"
+        }
+    ],
+    "general_pinyins": [
+        "lán"
+    ],
+    "general_zhuyins": [
+        "ㄌㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "欄"
+    ],
+    "general_ytz": [
+        "欄",
+        "𣟬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "680F",
+            "123443111"
+        ],
+        "char_code_wubi": "sufg|sudg",
+        "char_code_cangjie": "dtmm",
+        "char_code_zhengma": "fubd",
+        "char_code_sijiao": "48911"
+    },
+    "general_unicode": "基本区 U+680F",
+    "general_bs_code": "123443111"
+}

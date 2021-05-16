@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "chin, jowl; give nod"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kinn  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "menton,incliner la tête"
+        }
+    ],
+    "general_pinyins": [
+        "hàn"
+    ],
+    "general_zhuyins": [
+        "ㄏㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "页",
+        "non_radical_sn": "7",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "頷"
+    ],
+    "general_ytz": [
+        "頷",
+        "顄",
+        "䫲",
+        "𠹄",
+        "𩩂",
+        "𩩊"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9894",
+            "3445251132534"
+        ],
+        "char_code_wubi": "wynm",
+        "char_code_cangjie": "ormbo",
+        "char_code_zhengma": "odjg",
+        "char_code_sijiao": "81682"
+    },
+    "general_unicode": "基本区 U+9894",
+    "general_bs_code": "3445251132534"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "suddenly, quickly, abruptly"
+        },
+        {
+            "language": "德语",
+            "explanation": "plötzlich, unvermittelt"
+        },
+        {
+            "language": "法语",
+            "explanation": "soudain,subitement,tout à coup"
+        }
+    ],
+    "general_pinyins": [
+        "mò"
+    ],
+    "general_zhuyins": [
+        "ㄇㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "驀"
+    ],
+    "general_ytz": [
+        "驀"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "84E6",
+            "1222511134551"
+        ],
+        "char_code_wubi": "ajdc|ajdg",
+        "char_code_cangjie": "takm",
+        "char_code_zhengma": "ekgx",
+        "char_code_sijiao": "44127"
+    },
+    "general_unicode": "基本区 U+84E6",
+    "general_bs_code": "1222511134551"
+}

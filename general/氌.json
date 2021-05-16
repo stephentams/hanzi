@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "thick rough serge from Tibet"
+        }
+    ],
+    "general_pinyins": [
+        "lǔ"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "毛",
+        "non_radical_sn": "15",
+        "total_sn": "19"
+    },
+    "general_stc": [
+        "氇"
+    ],
+    "general_ytz": [
+        "氇",
+        "𣱀"
+    ],
+    "general_structure": "左下包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6C0C",
+            "3115352512144442511"
+        ],
+        "char_code_wubi": "tfnj|eqoj",
+        "char_code_cangjie": "hunwa",
+        "char_code_zhengma": "mhrk",
+        "char_code_sijiao": "27716"
+    },
+    "general_unicode": "基本区 U+6C0C",
+    "general_bs_code": "3115352512144442511"
+}

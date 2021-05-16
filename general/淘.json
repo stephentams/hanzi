@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wash in sieve; weed out"
+        },
+        {
+            "language": "德语",
+            "explanation": "waschen, wässern ,ausmisten ,entfernen, beseitigen"
+        },
+        {
+            "language": "法语",
+            "explanation": "laver dans un tamis,sélectionner,trier,vidanger"
+        }
+    ],
+    "general_pinyins": [
+        "táo"
+    ],
+    "general_zhuyins": [
+        "ㄊㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "洮"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6DD8",
+            "44135311252"
+        ],
+        "char_code_wubi": "iqrm|iqtb",
+        "char_code_cangjie": "epou",
+        "char_code_zhengma": "vrez",
+        "char_code_sijiao": "37120"
+    },
+    "general_unicode": "基本区 U+6DD8",
+    "general_bs_code": "44135311252"
+}

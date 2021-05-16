@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "circle around; return; curving"
+        },
+        {
+            "language": "法语",
+            "explanation": "Hui (ethnie)​"
+        }
+    ],
+    "general_pinyins": [
+        "huí"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "廴",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "回",
+        "廽"
+    ],
+    "general_structure": "左下包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5EFB",
+            "25251154"
+        ],
+        "char_code_wubi": "lkpd",
+        "char_code_cangjie": "nkwr",
+        "char_code_zhengma": "jdjy",
+        "char_code_sijiao": "16400"
+    },
+    "general_unicode": "基本区 U+5EFB",
+    "general_bs_code": "25251154"
+}

@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "county in Shaanxi province"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom de lieu ancien)​"
+        }
+    ],
+    "general_pinyins": [
+        "méi"
+    ],
+    "general_zhuyins": [
+        "ㄇㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨞅"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "90FF",
+            "52132511152"
+        ],
+        "char_code_wubi": "nhbh",
+        "char_code_cangjie": "aunl",
+        "char_code_zhengma": "xmly",
+        "char_code_sijiao": "77227"
+    },
+    "general_unicode": "基本区 U+90FF",
+    "general_bs_code": "52132511152"
+}

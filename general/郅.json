@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to go up to. flourishing a superlative"
+        },
+        {
+            "language": "德语",
+            "explanation": "extrem, überaus ,Zhi  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "extrêmement,très"
+        }
+    ],
+    "general_pinyins": [
+        "zhì"
+    ],
+    "general_zhuyins": [
+        "ㄓˋ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "90C5",
+            "15412152"
+        ],
+        "char_code_wubi": "gcfb",
+        "char_code_cangjie": "mgnl",
+        "char_code_zhengma": "hby",
+        "char_code_sijiao": "17127"
+    },
+    "general_unicode": "基本区 U+90C5",
+    "general_bs_code": "15412152"
+}

@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "soul, spirit"
+        },
+        {
+            "language": "德语",
+            "explanation": "Seele"
+        },
+        {
+            "language": "法语",
+            "explanation": "âme,esprit"
+        }
+    ],
+    "general_pinyins": [
+        "hún"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "鬼",
+        "non_radical_sn": "4",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䰟",
+        "𠇌"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9B42",
+            "1154325113554"
+        ],
+        "char_code_wubi": "fcrc",
+        "char_code_cangjie": "mihui",
+        "char_code_zhengma": "bdzn",
+        "char_code_sijiao": "16713"
+    },
+    "general_unicode": "基本区 U+9B42",
+    "general_bs_code": "1154325113554"
+}

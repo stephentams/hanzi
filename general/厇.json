@@ -1,0 +1,32 @@
+{
+    "general_pinyins": [
+        "zhé",
+        "zhái"
+    ],
+    "general_zhuyins": [
+        "ㄓㄜˊ",
+        "ㄓㄞˊ"
+    ],
+    "general_radical": {
+        "radical": "厂",
+        "non_radical_sn": "3",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "宅"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5387",
+            "13315"
+        ],
+        "char_code_wubi": "dtav",
+        "char_code_cangjie": "mhp",
+        "char_code_zhengma": "ggmh",
+        "char_code_sijiao": "71214"
+    },
+    "general_unicode": "基本区 U+5387",
+    "general_bs_code": "13315"
+}

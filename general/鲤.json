@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "carp"
+        },
+        {
+            "language": "德语",
+            "explanation": "Karpfen (S, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "carpe"
+        }
+    ],
+    "general_pinyins": [
+        "lǐ"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "7",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "鯉"
+    ],
+    "general_ytz": [
+        "鯉",
+        "𩼆",
+        "𩼞"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9CA4",
+            "352512112511211"
+        ],
+        "char_code_wubi": "qgjf",
+        "char_code_cangjie": "nmwg",
+        "char_code_zhengma": "rkb",
+        "char_code_sijiao": "26115"
+    },
+    "general_unicode": "基本区 U+9CA4",
+    "general_bs_code": "352512112511211"
+}

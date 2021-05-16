@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "terminate, end, finish; quit"
+        },
+        {
+            "language": "德语",
+            "explanation": "vollenden"
+        },
+        {
+            "language": "法语",
+            "explanation": "achever,terminer"
+        }
+    ],
+    "general_pinyins": [
+        "jùn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "立",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "踆",
+        "𤶗",
+        "𥪣"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7AE3",
+            "414315434354"
+        ],
+        "char_code_wubi": "ucwt",
+        "char_code_cangjie": "ytice",
+        "char_code_zhengma": "suor",
+        "char_code_sijiao": "03147"
+    },
+    "general_unicode": "基本区 U+7AE3",
+    "general_bs_code": "414315434354"
+}

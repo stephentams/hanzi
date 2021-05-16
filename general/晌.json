@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "noon, midday; moment; unit land measurement equal to seven mou (U+755D 畝), or the area that can be sown in one day"
+        },
+        {
+            "language": "德语",
+            "explanation": "Tagesabschnitt"
+        },
+        {
+            "language": "法语",
+            "explanation": "midi"
+        }
+    ],
+    "general_pinyins": [
+        "shǎng"
+    ],
+    "general_zhuyins": [
+        "ㄕㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "曏",
+        "餉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "664C",
+            "2511325251"
+        ],
+        "char_code_wubi": "jtmk",
+        "char_code_cangjie": "ahbr",
+        "char_code_zhengma": "knj",
+        "char_code_sijiao": "67020"
+    },
+    "general_unicode": "基本区 U+664C",
+    "general_bs_code": "2511325251"
+}

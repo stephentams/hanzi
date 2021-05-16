@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sieve, filter, screen; sift"
+        },
+        {
+            "language": "德语",
+            "explanation": "Sieb  (S, Agrar)​,durchsieben  (V)​,filtern  (V)​,sichten, sieben  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tamiser,cribler,tamis"
+        }
+    ],
+    "general_pinyins": [
+        "shāi"
+    ],
+    "general_zhuyins": [
+        "ㄕㄞ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "6",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "篩"
+    ],
+    "general_ytz": [
+        "篩",
+        "簁",
+        "籭"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7B5B",
+            "314314231252"
+        ],
+        "char_code_wubi": "tjgh",
+        "char_code_cangjie": "hllb",
+        "char_code_zhengma": "mkal",
+        "char_code_sijiao": "88227"
+    },
+    "general_unicode": "基本区 U+7B5B",
+    "general_bs_code": "314314231252"
+}

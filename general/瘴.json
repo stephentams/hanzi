@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "malaria pestilential vapors"
+        },
+        {
+            "language": "德语",
+            "explanation": "Sumpffieber  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "malaria"
+        }
+    ],
+    "general_pinyins": [
+        "zhàng"
+    ],
+    "general_zhuyins": [
+        "ㄓㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "11",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㢓",
+        "障",
+        "𩅈"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7634",
+            "4134141431251112"
+        ],
+        "char_code_wubi": "uujk",
+        "char_code_cangjie": "kytj",
+        "char_code_zhengma": "tske",
+        "char_code_sijiao": "00146"
+    },
+    "general_unicode": "基本区 U+7634",
+    "general_bs_code": "4134141431251112"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "i.d. tag, tally, symbol, charm"
+        },
+        {
+            "language": "德语",
+            "explanation": "Zeichen,  Symbol ,Fu  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tableau magique,talisman,s'accorder avec,être conforme à"
+        }
+    ],
+    "general_pinyins": [
+        "fú"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "苻"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7B26",
+            "31431432124"
+        ],
+        "char_code_wubi": "twfu",
+        "char_code_cangjie": "hodi",
+        "char_code_zhengma": "mnds",
+        "char_code_sijiao": "88243"
+    },
+    "general_unicode": "基本区 U+7B26",
+    "general_bs_code": "31431432124"
+}

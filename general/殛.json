@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to put to death to imprison for life"
+        },
+        {
+            "language": "德语",
+            "explanation": "hinrichten"
+        },
+        {
+            "language": "法语",
+            "explanation": "mettre à mort"
+        }
+    ],
+    "general_pinyins": [
+        "jí"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "歹",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6B9B",
+            "135452251541"
+        ],
+        "char_code_wubi": "gqbg",
+        "char_code_cangjie": "mnmem",
+        "char_code_zhengma": "arxa",
+        "char_code_sijiao": "17214"
+    },
+    "general_unicode": "基本区 U+6B9B",
+    "general_bs_code": "135452251541"
+}

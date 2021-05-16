@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "privy, latrine; turbid, dirty"
+        },
+        {
+            "language": "德语",
+            "explanation": "zerrüttet"
+        },
+        {
+            "language": "法语",
+            "explanation": "trouble"
+        }
+    ],
+    "general_pinyins": [
+        "hùn"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "圂",
+        "混",
+        "𢒤"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6EB7",
+            "4412513533341"
+        ],
+        "char_code_wubi": "iley|ilge",
+        "char_code_cangjie": "ewmo",
+        "char_code_zhengma": "vjgq",
+        "char_code_sijiao": "36100"
+    },
+    "general_unicode": "基本区 U+6EB7",
+    "general_bs_code": "4412513533341"
+}

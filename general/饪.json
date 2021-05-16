@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cooked food; cook until well done"
+        }
+    ],
+    "general_pinyins": [
+        "rèn"
+    ],
+    "general_zhuyins": [
+        "ㄖㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "饣",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "飪"
+    ],
+    "general_ytz": [
+        "飪",
+        "餁",
+        "㶵",
+        "䏕",
+        "𤇲",
+        "𤏼",
+        "𦜙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "996A",
+            "3553121"
+        ],
+        "char_code_wubi": "qntf",
+        "char_code_cangjie": "nvhg",
+        "char_code_zhengma": "oxmb",
+        "char_code_sijiao": "22714"
+    },
+    "general_unicode": "基本区 U+996A",
+    "general_bs_code": "3553121"
+}

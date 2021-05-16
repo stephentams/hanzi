@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wrap, wind around; tie, bind"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufspulen  (V)​,winden, wickeln  (V)​,herumwickeln, einwickeln ,Rolle,Spule"
+        },
+        {
+            "language": "法语",
+            "explanation": "enrouler,entourer,emmêler,mêler,être retenu,importuner,ennuyer"
+        }
+    ],
+    "general_pinyins": [
+        "chán"
+    ],
+    "general_zhuyins": [
+        "ㄔㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "糹",
+        "non_radical_sn": "15",
+        "total_sn": "21"
+    },
+    "general_stc": [
+        "缠"
+    ],
+    "general_ytz": [
+        "緾",
+        "繵",
+        "纒",
+        "缠",
+        "𦆑",
+        "𬘉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7E8F",
+            "554444413251121134121"
+        ],
+        "char_code_wubi": "xyjf|xojf",
+        "char_code_cangjie": "vfiwg",
+        "char_code_zhengma": "ztob",
+        "char_code_sijiao": "20914"
+    },
+    "general_unicode": "基本区 U+7E8F",
+    "general_bs_code": "554444413251121134121"
+}

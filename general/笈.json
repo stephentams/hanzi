@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bamboo box used carry books"
+        },
+        {
+            "language": "德语",
+            "explanation": "Koffer  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "malle à livres"
+        }
+    ],
+    "general_pinyins": [
+        "jí"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "3",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥭊"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7B08",
+            "314314354"
+        ],
+        "char_code_wubi": "teyu|tbyu",
+        "char_code_cangjie": "hnhe",
+        "char_code_zhengma": "myms",
+        "char_code_sijiao": "88247"
+    },
+    "general_unicode": "基本区 U+7B08",
+    "general_bs_code": "314314354"
+}

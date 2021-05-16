@@ -1,0 +1,56 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "thick; substantial; greatly"
+        },
+        {
+            "language": "德语",
+            "explanation": "Hou  (Eig, Fam)​,tief, dick"
+        },
+        {
+            "language": "法语",
+            "explanation": "épais,important,cordial,fort"
+        }
+    ],
+    "general_pinyins": [
+        "hòu"
+    ],
+    "general_zhuyins": [
+        "ㄏㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "厂",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㫗",
+        "垕",
+        "𠩞",
+        "𠩰",
+        "𠪀",
+        "𠪋",
+        "𡎋",
+        "𡦩",
+        "𡦬",
+        "𣆉",
+        "𣆪",
+        "𢈲",
+        "𢛥"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "539A",
+            "132511521"
+        ],
+        "char_code_wubi": "djbd",
+        "char_code_cangjie": "mand",
+        "char_code_zhengma": "ggky",
+        "char_code_sijiao": "71247"
+    },
+    "general_unicode": "基本区 U+539A",
+    "general_bs_code": "132511521"
+}

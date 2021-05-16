@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tungsten, wolfram"
+        },
+        {
+            "language": "德语",
+            "explanation": "Wolfram (Element 74, W)​ (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tungstène"
+        }
+    ],
+    "general_pinyins": [
+        "wū"
+    ],
+    "general_zhuyins": [
+        "ㄨ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "鎢"
+    ],
+    "general_ytz": [
+        "鎢"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94A8",
+            "311153551"
+        ],
+        "char_code_wubi": "qqng|qtng",
+        "char_code_cangjie": "oppvm",
+        "char_code_zhengma": "prza",
+        "char_code_sijiao": "87727"
+    },
+    "general_unicode": "基本区 U+94A8",
+    "general_bs_code": "311153551"
+}

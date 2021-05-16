@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "drag, tow, haul; delay, prolong"
+        },
+        {
+            "language": "德语",
+            "explanation": "ziehen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tirer,traîner,retarder"
+        }
+    ],
+    "general_pinyins": [
+        "tuō"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄛ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "扡",
+        "拕",
+        "柂",
+        "𠰹",
+        "𢫌",
+        "搋"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "62D6",
+            "12131525"
+        ],
+        "char_code_wubi": "rtbn",
+        "char_code_cangjie": "qopd",
+        "char_code_zhengma": "dmyi",
+        "char_code_sijiao": "58012"
+    },
+    "general_unicode": "基本区 U+62D6",
+    "general_bs_code": "12131525"
+}

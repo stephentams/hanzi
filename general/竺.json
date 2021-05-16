@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "India; bamboo; surname"
+        },
+        {
+            "language": "德语",
+            "explanation": "Zhu  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bambou,Inde,(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "zhú",
+        "dǔ"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨˊ",
+        "ㄉㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "2",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "笁",
+        "篤"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7AFA",
+            "31431411"
+        ],
+        "char_code_wubi": "tff",
+        "char_code_cangjie": "hmm",
+        "char_code_zhengma": "mbd",
+        "char_code_sijiao": "88101"
+    },
+    "general_unicode": "基本区 U+7AFA",
+    "general_bs_code": "31431411"
+}

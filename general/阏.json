@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "block, obstruct, stop up"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 absperren, aufhören"
+        }
+    ],
+    "general_pinyins": [
+        "è",
+        "yān"
+    ],
+    "general_zhuyins": [
+        "ㄜˋ",
+        "ㄧㄢˉ"
+    ],
+    "general_radical": {
+        "radical": "门",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "閼"
+    ],
+    "general_ytz": [
+        "閼"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "960F",
+            "42541533444"
+        ],
+        "char_code_wubi": "uywu",
+        "char_code_cangjie": "lsysy",
+        "char_code_zhengma": "tlot",
+        "char_code_sijiao": "37233"
+    },
+    "general_unicode": "基本区 U+960F",
+    "general_bs_code": "42541533444"
+}

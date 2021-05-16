@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lock, latch; stamp, seal"
+        },
+        {
+            "language": "德语",
+            "explanation": "versiegeln, siegeln"
+        },
+        {
+            "language": "法语",
+            "explanation": "loquet de porte,fermoir"
+        }
+    ],
+    "general_pinyins": [
+        "qián"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "鈐"
+    ],
+    "general_ytz": [
+        "鈐",
+        "𨥩"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94A4",
+            "311153445"
+        ],
+        "char_code_wubi": "qwyn",
+        "char_code_cangjie": "opoin",
+        "char_code_zhengma": "posx",
+        "char_code_sijiao": "88727"
+    },
+    "general_unicode": "基本区 U+94A4",
+    "general_bs_code": "311153445"
+}

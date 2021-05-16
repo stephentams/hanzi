@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pimple, sore, boil"
+        },
+        {
+            "language": "德语",
+            "explanation": "Geschwür  (S, Med)"
+        },
+        {
+            "language": "法语",
+            "explanation": "petit abcès,pustule,bouton"
+        }
+    ],
+    "general_pinyins": [
+        "jiē"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄝ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "2",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "癤"
+    ],
+    "general_ytz": [
+        "癤",
+        "𤻛",
+        "𤻵"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7596",
+            "4134152"
+        ],
+        "char_code_wubi": "ubk",
+        "char_code_cangjie": "ksl",
+        "char_code_zhengma": "tyvv",
+        "char_code_sijiao": "00127"
+    },
+    "general_unicode": "基本区 U+7596",
+    "general_bs_code": "4134152"
+}

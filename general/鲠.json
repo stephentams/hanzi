@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fish bones; honest, upright"
+        },
+        {
+            "language": "德语",
+            "explanation": "offen, unverblümt ,Gräten  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "arête"
+        }
+    ],
+    "general_pinyins": [
+        "gěng"
+    ],
+    "general_zhuyins": [
+        "ㄍㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "7",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "鯁"
+    ],
+    "general_ytz": [
+        "鯁",
+        "骾",
+        "𦛟",
+        "𩹐",
+        "𩺂"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9CA0",
+            "352512111251134"
+        ],
+        "char_code_wubi": "qggq|qggr",
+        "char_code_cangjie": "nmmlk",
+        "char_code_zhengma": "rako",
+        "char_code_sijiao": "21146"
+    },
+    "general_unicode": "基本区 U+9CA0",
+    "general_bs_code": "352512111251134"
+}

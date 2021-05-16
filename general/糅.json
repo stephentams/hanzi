@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "blend, mix; mixed"
+        },
+        {
+            "language": "德语",
+            "explanation": "mischen, mixen"
+        },
+        {
+            "language": "法语",
+            "explanation": "mélange,mix,mixé"
+        }
+    ],
+    "general_pinyins": [
+        "róu"
+    ],
+    "general_zhuyins": [
+        "ㄖㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "米",
+        "non_radical_sn": "9",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "粈",
+        "𩚖"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7CC5",
+            "431234545231234"
+        ],
+        "char_code_wubi": "ocbs|ocns",
+        "char_code_cangjie": "fdnhd",
+        "char_code_zhengma": "ufmf",
+        "char_code_sijiao": "97994"
+    },
+    "general_unicode": "基本区 U+7CC5",
+    "general_bs_code": "431234545231234"
+}

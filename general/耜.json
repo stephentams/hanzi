@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "spade-shaped tool; plow"
+        },
+        {
+            "language": "德语",
+            "explanation": "Pflug, pflügen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "soc"
+        }
+    ],
+    "general_pinyins": [
+        "sì"
+    ],
+    "general_zhuyins": [
+        "ㄙˋ"
+    ],
+    "general_radical": {
+        "radical": "耒",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㭒",
+        "䎣",
+        "枱",
+        "梩",
+        "鈶",
+        "𣏌",
+        "𥞐",
+        "𦓨",
+        "𦓵",
+        "𣙼",
+        "𨐠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "801C",
+            "11123425151"
+        ],
+        "char_code_wubi": "dinn|fsng",
+        "char_code_cangjie": "qdrlr",
+        "char_code_zhengma": "cky",
+        "char_code_sijiao": "57977"
+    },
+    "general_unicode": "基本区 U+801C",
+    "general_bs_code": "11123425151"
+}

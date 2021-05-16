@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to counel, to consult together; to take part in; to intervene"
+        }
+    ],
+    "general_pinyins": [
+        "cān",
+        "shēn",
+        "cēn",
+        "sān"
+    ],
+    "general_zhuyins": [
+        "ㄘㄢ",
+        "ㄕㄣ",
+        "ㄘㄣ",
+        "ㄙㄢ"
+    ],
+    "general_radical": {
+        "radical": "厶",
+        "non_radical_sn": "10",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "參"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "53C5",
+            "545454342444"
+        ],
+        "char_code_wubi": "cccn",
+        "char_code_cangjie": "iiip",
+        "char_code_zhengma": "zsou",
+        "char_code_sijiao": "23338"
+    },
+    "general_unicode": "基本区 U+53C5",
+    "general_bs_code": "545454342444"
+}

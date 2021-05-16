@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "unpolished rice; brown rice"
+        },
+        {
+            "language": "德语",
+            "explanation": "unpolierter Reis  (S)​,roh, grob"
+        },
+        {
+            "language": "法语",
+            "explanation": "grain grossier,grossier (grain)​"
+        }
+    ],
+    "general_pinyins": [
+        "lì"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "米",
+        "non_radical_sn": "14",
+        "total_sn": "20"
+    },
+    "general_stc": [
+        "粝"
+    ],
+    "general_ytz": [
+        "𥻃",
+        "粝",
+        "𥻑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7CF2",
+            "43123413122251125214"
+        ],
+        "char_code_wubi": "oday",
+        "char_code_cangjie": "fdmtb",
+        "char_code_zhengma": "uflz",
+        "char_code_sijiao": "91927"
+    },
+    "general_unicode": "基本区 U+7CF2",
+    "general_bs_code": "43123413122251125214"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cheek bones"
+        },
+        {
+            "language": "德语",
+            "explanation": "Jochbein (Ossa cygomatica)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "pommettes des joues"
+        }
+    ],
+    "general_pinyins": [
+        "quán"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "頁",
+        "non_radical_sn": "17",
+        "total_sn": "26"
+    },
+    "general_stc": [
+        "颧"
+    ],
+    "general_ytz": [
+        "𩪼",
+        "颧"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9874",
+            "12225125132411121132511134"
+        ],
+        "char_code_wubi": "akkm",
+        "char_code_cangjie": "tgmbc",
+        "char_code_zhengma": "ejng",
+        "char_code_sijiao": "41286"
+    },
+    "general_unicode": "基本区 U+9874",
+    "general_bs_code": "12225125132411121132511134"
+}

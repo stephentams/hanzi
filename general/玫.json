@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rose"
+        },
+        {
+            "language": "德语",
+            "explanation": "Rose  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(rose (couleur)​)​"
+        }
+    ],
+    "general_pinyins": [
+        "méi"
+    ],
+    "general_zhuyins": [
+        "ㄇㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "攵",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㺳",
+        "珻"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "73AB",
+            "11213134"
+        ],
+        "char_code_wubi": "gty",
+        "char_code_cangjie": "xmgok",
+        "char_code_zhengma": "cmo",
+        "char_code_sijiao": "18140"
+    },
+    "general_unicode": "基本区 U+73AB",
+    "general_bs_code": "11213134"
+}

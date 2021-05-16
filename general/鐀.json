@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a cupboard; a press; a wardrobe shop-counter"
+        }
+    ],
+    "general_pinyins": [
+        "guì"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "釒",
+        "non_radical_sn": "12",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "匱",
+        "鑎"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9400",
+            "34112431251212511134"
+        ],
+        "char_code_wubi": "qkhm",
+        "char_code_cangjie": "clmc",
+        "char_code_zhengma": "pjal",
+        "char_code_sijiao": "85186"
+    },
+    "general_unicode": "基本区 U+9400",
+    "general_bs_code": "34112431251212511134"
+}

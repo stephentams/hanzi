@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "celery"
+        },
+        {
+            "language": "德语",
+            "explanation": "verschiedene Doldengewächse (Apioideae)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "céleri,persil,cresson"
+        }
+    ],
+    "general_pinyins": [
+        "qín"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䓅",
+        "斳",
+        "菦",
+        "𧁲",
+        "𣂼"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "82B9",
+            "1223312"
+        ],
+        "char_code_wubi": "arj",
+        "char_code_cangjie": "thml",
+        "char_code_zhengma": "epd",
+        "char_code_sijiao": "44221"
+    },
+    "general_unicode": "基本区 U+82B9",
+    "general_bs_code": "1223312"
+}

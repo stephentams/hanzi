@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ascend, go up, rise"
+        },
+        {
+            "language": "德语",
+            "explanation": "hinaufgehen"
+        },
+        {
+            "language": "法语",
+            "explanation": "monter,s'élever"
+        }
+    ],
+    "general_pinyins": [
+        "jī"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "6",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "躋"
+    ],
+    "general_ytz": [
+        "躋",
+        "䠁",
+        "𢁃",
+        "𤼥",
+        "𧾙",
+        "𨹷",
+        "𨼻"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8DFB",
+            "2512121413432"
+        ],
+        "char_code_wubi": "khyj",
+        "char_code_cangjie": "rmykl",
+        "char_code_zhengma": "jisn",
+        "char_code_sijiao": "60124"
+    },
+    "general_unicode": "基本区 U+8DFB",
+    "general_bs_code": "2512121413432"
+}

@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "raise, hold high; fly, soar"
+        },
+        {
+            "language": "法语",
+            "explanation": "défectueux,déficient,élever"
+        }
+    ],
+    "general_pinyins": [
+        "qiān"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "马",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "騫"
+    ],
+    "general_ytz": [
+        "騫"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A9E",
+            "4451122134551"
+        ],
+        "char_code_wubi": "pfjc|pawg",
+        "char_code_cangjie": "jtcm",
+        "char_code_zhengma": "wdox",
+        "char_code_sijiao": "30127"
+    },
+    "general_unicode": "基本区 U+9A9E",
+    "general_bs_code": "4451122134551"
+}

@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "insects that eat books, clothes"
+        },
+        {
+            "language": "德语",
+            "explanation": "langweilen, sich bohren ,Termite  (Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "ronger,se vermouler"
+        }
+    ],
+    "general_pinyins": [
+        "zhù"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧉶",
+        "𧏼"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "86C0",
+            "25121441121"
+        ],
+        "char_code_wubi": "jygg",
+        "char_code_cangjie": "liyg",
+        "char_code_zhengma": "isc",
+        "char_code_sijiao": "50114"
+    },
+    "general_unicode": "基本区 U+86C0",
+    "general_bs_code": "25121441121"
+}

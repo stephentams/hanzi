@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sound of flowing water"
+        },
+        {
+            "language": "法语",
+            "explanation": "débit,filet d'eau"
+        }
+    ],
+    "general_pinyins": [
+        "chán"
+    ],
+    "general_zhuyins": [
+        "ㄔㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "潹",
+        "𣹏"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6F7A",
+            "441513521521521"
+        ],
+        "char_code_wubi": "inbb",
+        "char_code_cangjie": "esnd",
+        "char_code_zhengma": "vxyy",
+        "char_code_sijiao": "37147"
+    },
+    "general_unicode": "基本区 U+6F7A",
+    "general_bs_code": "441513521521521"
+}

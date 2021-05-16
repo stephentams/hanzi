@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sail; navigate; ship, boat"
+        },
+        {
+            "language": "德语",
+            "explanation": "Luftfahrt  (S)​,mit dem Schiff fahren, fliegen  (V)​,Schiff, Schifffahrt  (V)​,Navigation, navigieren"
+        },
+        {
+            "language": "法语",
+            "explanation": "bateau,vaisseau,naviguer"
+        }
+    ],
+    "general_pinyins": [
+        "háng"
+    ],
+    "general_zhuyins": [
+        "ㄏㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "舟",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "斻",
+        "杭",
+        "桁",
+        "𦨵",
+        "𣃚"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "822A",
+            "3354144135"
+        ],
+        "char_code_wubi": "teym|tuyw",
+        "char_code_cangjie": "hyyhn",
+        "char_code_zhengma": "pysq",
+        "char_code_sijiao": "20417"
+    },
+    "general_unicode": "基本区 U+822A",
+    "general_bs_code": "3354144135"
+}

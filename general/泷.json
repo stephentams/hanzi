@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "raining; wet; soaked; a river in Guangdong"
+        },
+        {
+            "language": "德语",
+            "explanation": "sturzflutartig, wolkenbruchartig"
+        },
+        {
+            "language": "法语",
+            "explanation": "torrentiel,diluvien,à verse,rivière Shuang (dans le Hunan et Guangdong)​"
+        }
+    ],
+    "general_pinyins": [
+        "lóng",
+        "shuāng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄥˊ",
+        "ㄕㄨㄤ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "瀧"
+    ],
+    "general_ytz": [
+        "瀧",
+        "滝"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6CF7",
+            "44113534"
+        ],
+        "char_code_wubi": "idxn|idxy",
+        "char_code_cangjie": "eikp",
+        "char_code_zhengma": "vgm",
+        "char_code_sijiao": "33114"
+    },
+    "general_unicode": "基本区 U+6CF7",
+    "general_bs_code": "44113534"
+}

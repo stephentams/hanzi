@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "raft; time, occasion; to hew"
+        },
+        {
+            "language": "法语",
+            "explanation": "radeau"
+        }
+    ],
+    "general_pinyins": [
+        "chá"
+    ],
+    "general_zhuyins": [
+        "ㄔㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣞚",
+        "𣕗",
+        "𠞊",
+        "茬",
+        "楂",
+        "查",
+        "𣗩"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "69CE",
+            "1234431113121"
+        ],
+        "char_code_wubi": "suda|suag",
+        "char_code_cangjie": "dtqm",
+        "char_code_zhengma": "fubi",
+        "char_code_sijiao": "48912"
+    },
+    "general_unicode": "基本区 U+69CE",
+    "general_bs_code": "1234431113121"
+}

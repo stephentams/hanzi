@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "walk, move"
+        },
+        {
+            "language": "德语",
+            "explanation": "gehen, laufen"
+        },
+        {
+            "language": "法语",
+            "explanation": "déplacer,marcher"
+        }
+    ],
+    "general_pinyins": [
+        "lì",
+        "luò"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˋ",
+        "ㄌㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "5",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "躒"
+    ],
+    "general_ytz": [
+        "躒"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8DDE",
+            "251212135234"
+        ],
+        "char_code_wubi": "khqi|khti",
+        "char_code_cangjie": "rmhvd",
+        "char_code_zhengma": "jirk",
+        "char_code_sijiao": "62194"
+    },
+    "general_unicode": "基本区 U+8DDE",
+    "general_bs_code": "251212135234"
+}

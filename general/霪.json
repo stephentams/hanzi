@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "long and heavy rain"
+        },
+        {
+            "language": "德语",
+            "explanation": "heftige Regenfälle, starker Regen"
+        },
+        {
+            "language": "法语",
+            "explanation": "pluie continue"
+        }
+    ],
+    "general_pinyins": [
+        "yín"
+    ],
+    "general_zhuyins": [
+        "ㄧㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "雨",
+        "non_radical_sn": "11",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䨙",
+        "淫",
+        "𣽮",
+        "𩆍"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "972A",
+            "1452444444134433121"
+        ],
+        "char_code_wubi": "fief",
+        "char_code_cangjie": "mbebg",
+        "char_code_zhengma": "fvmb",
+        "char_code_sijiao": "10114"
+    },
+    "general_unicode": "基本区 U+972A",
+    "general_bs_code": "1452444444134433121"
+}

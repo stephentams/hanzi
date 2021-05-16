@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sandalwood, hardwood; surname"
+        },
+        {
+            "language": "德语",
+            "explanation": "Tan  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "santal"
+        }
+    ],
+    "general_pinyins": [
+        "tán"
+    ],
+    "general_zhuyins": [
+        "ㄊㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "13",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "單",
+        "𣞀",
+        "𩠽"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6A80",
+            "12344125251125111"
+        ],
+        "char_code_wubi": "sylg",
+        "char_code_cangjie": "dywm",
+        "char_code_zhengma": "fska",
+        "char_code_sijiao": "40916"
+    },
+    "general_unicode": "基本区 U+6A80",
+    "general_bs_code": "12344125251125111"
+}

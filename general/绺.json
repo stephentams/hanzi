@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "skein; tuft, lock; wrinkle"
+        },
+        {
+            "language": "德语",
+            "explanation": "abschließen, schließen ,Schopf  (S)​,Strähn  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "écheveau,mèche"
+        }
+    ],
+    "general_pinyins": [
+        "liǔ"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "綹"
+    ],
+    "general_ytz": [
+        "綹"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EFA",
+            "55135424251"
+        ],
+        "char_code_wubi": "xthk",
+        "char_code_cangjie": "vmhyr",
+        "char_code_zhengma": "zrij",
+        "char_code_sijiao": "23164"
+    },
+    "general_unicode": "基本区 U+7EFA",
+    "general_bs_code": "55135424251"
+}

@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rags"
+        },
+        {
+            "language": "德语",
+            "explanation": "übel mitspielen, einen Streich spielen  (V)"
+        }
+    ],
+    "general_pinyins": [
+        "lā"
+    ],
+    "general_zhuyins": [
+        "ㄌㄚ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "15",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "獵",
+        "躐"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "908B",
+            "555253415445445454"
+        ],
+        "char_code_wubi": "vlqp|vlrp",
+        "char_code_cangjie": "yvvv",
+        "char_code_zhengma": "wzoz",
+        "char_code_sijiao": "32301"
+    },
+    "general_unicode": "基本区 U+908B",
+    "general_bs_code": "555253415445445454"
+}

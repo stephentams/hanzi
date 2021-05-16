@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "teeth protrude"
+        },
+        {
+            "language": "法语",
+            "explanation": "dent saillante"
+        }
+    ],
+    "general_pinyins": [
+        "bāo"
+    ],
+    "general_zhuyins": [
+        "ㄅㄠ"
+    ],
+    "general_radical": {
+        "radical": "齿",
+        "non_radical_sn": "5",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "齙"
+    ],
+    "general_ytz": [
+        "齙",
+        "𪗼"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9F85",
+            "2121345235515"
+        ],
+        "char_code_wubi": "hwbn",
+        "char_code_cangjie": "yupru",
+        "char_code_zhengma": "iory",
+        "char_code_sijiao": "27712"
+    },
+    "general_unicode": "基本区 U+9F85",
+    "general_bs_code": "2121345235515"
+}

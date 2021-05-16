@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "character for transliteration"
+        },
+        {
+            "language": "德语",
+            "explanation": "Jia  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(sanscrit)​"
+        }
+    ],
+    "general_pinyins": [
+        "jiā"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄚ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8FE6",
+            "53251454"
+        ],
+        "char_code_wubi": "lkpd|ekpd",
+        "char_code_cangjie": "yksr",
+        "char_code_zhengma": "ymjw",
+        "char_code_sijiao": "36300"
+    },
+    "general_unicode": "基本区 U+8FE6",
+    "general_bs_code": "53251454"
+}

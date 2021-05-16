@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "Cryptobranchus japonicus; a salamander"
+        },
+        {
+            "language": "德语",
+            "explanation": "Molch, Salamander  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "salamandre"
+        }
+    ],
+    "general_pinyins": [
+        "ní"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "8",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "鯢"
+    ],
+    "general_ytz": [
+        "鯢"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9CB5",
+            "3525121132151135"
+        ],
+        "char_code_wubi": "qgvq|qgeq",
+        "char_code_cangjie": "nmhxu",
+        "char_code_zhengma": "rnrd",
+        "char_code_sijiao": "27112"
+    },
+    "general_unicode": "基本区 U+9CB5",
+    "general_bs_code": "3525121132151135"
+}

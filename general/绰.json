@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "graceful, delicate; spacious"
+        },
+        {
+            "language": "德语",
+            "explanation": "weitläufig; anmutig (Landschaft)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "spacieux,vaste"
+        }
+    ],
+    "general_pinyins": [
+        "chuò",
+        "chāo"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨㄛˋ",
+        "ㄔㄠ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "綽"
+    ],
+    "general_ytz": [
+        "綽",
+        "繛",
+        "𦅕",
+        "𦈀"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EF0",
+            "55121251112"
+        ],
+        "char_code_wubi": "xhjh",
+        "char_code_cangjie": "vmyaj",
+        "char_code_zhengma": "zike",
+        "char_code_sijiao": "21146"
+    },
+    "general_unicode": "基本区 U+7EF0",
+    "general_bs_code": "55121251112"
+}

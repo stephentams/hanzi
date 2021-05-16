@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stone tablet; gravestone"
+        },
+        {
+            "language": "法语",
+            "explanation": "monument,stèle"
+        }
+    ],
+    "general_pinyins": [
+        "bēi"
+    ],
+    "general_zhuyins": [
+        "ㄅㄟ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥓓",
+        "𪿨",
+        "碑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7891",
+            "1325132511312"
+        ],
+        "char_code_wubi": "drtf",
+        "char_code_cangjie": "mrhwj",
+        "char_code_zhengma": "gned",
+        "char_code_sijiao": "16640"
+    },
+    "general_unicode": "基本区 U+7891",
+    "general_bs_code": "1325132511312"
+}

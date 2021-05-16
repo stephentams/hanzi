@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(simplified form of U+64D3) to wipe; to scrub; to rub, to dust; to clean, (a dialect) to scratch with fingers lightly, (a dialect) to carry on the arm"
+        }
+    ],
+    "general_pinyins": [
+        "kuǎi"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄞˇ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "擓"
+    ],
+    "general_ytz": [
+        "擓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "39DF",
+            "12144115"
+        ],
+        "char_code_wubi": "rian",
+        "char_code_cangjie": "qes",
+        "char_code_zhengma": "dvh",
+        "char_code_sijiao": "51010"
+    },
+    "general_unicode": "扩展A U+39DF",
+    "general_bs_code": "12144115"
+}

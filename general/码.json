@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "number, numerals; yard; symbol"
+        },
+        {
+            "language": "德语",
+            "explanation": "Yard, Ziffer, Nummer"
+        },
+        {
+            "language": "法语",
+            "explanation": "numéro,nombre,empiler,poids de balance,(classificateur pour les longueurs, les distances, les événements, etc.)​"
+        }
+    ],
+    "general_pinyins": [
+        "mǎ"
+    ],
+    "general_zhuyins": [
+        "ㄇㄚˇ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "3",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "碼"
+    ],
+    "general_ytz": [
+        "碼"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7801",
+            "13251551"
+        ],
+        "char_code_wubi": "dcg|dcgg",
+        "char_code_cangjie": "mrnvm",
+        "char_code_zhengma": "gxvv",
+        "char_code_sijiao": "17627"
+    },
+    "general_unicode": "基本区 U+7801",
+    "general_bs_code": "13251551"
+}

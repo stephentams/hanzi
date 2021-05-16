@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "watchman's rattle"
+        },
+        {
+            "language": "法语",
+            "explanation": "bois pour battre les veilles"
+        }
+    ],
+    "general_pinyins": [
+        "tuò"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣔳",
+        "𣝔",
+        "𣟄",
+        "𤗙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "67DD",
+            "123433124"
+        ],
+        "char_code_wubi": "sryy",
+        "char_code_cangjie": "dhmy",
+        "char_code_zhengma": "fps",
+        "char_code_sijiao": "42941"
+    },
+    "general_unicode": "基本区 U+67DD",
+    "general_bs_code": "123433124"
+}

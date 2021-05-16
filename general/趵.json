@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "noise of tramping feet"
+        },
+        {
+            "language": "德语",
+            "explanation": "springen, überspringen"
+        },
+        {
+            "language": "法语",
+            "explanation": "saut"
+        }
+    ],
+    "general_pinyins": [
+        "bào",
+        "bō"
+    ],
+    "general_zhuyins": [
+        "ㄅㄠˋ",
+        "ㄅㄛ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "3",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "蹠",
+        "跑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8DB5",
+            "2512121354"
+        ],
+        "char_code_wubi": "khqy",
+        "char_code_cangjie": "rmpi",
+        "char_code_zhengma": "jirs",
+        "char_code_sijiao": "67120"
+    },
+    "general_unicode": "基本区 U+8DB5",
+    "general_bs_code": "2512121354"
+}

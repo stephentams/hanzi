@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fire; radical number 86"
+        }
+    ],
+    "general_pinyins": [
+        "huǒ",
+        "biāo"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄛˇ",
+        "ㄅㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "灬",
+        "non_radical_sn": "0",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "火"
+    ],
+    "general_structure": "单体结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "706C",
+            "4444"
+        ],
+        "char_code_wubi": "oyyy",
+        "char_code_cangjie": "hf",
+        "char_code_zhengma": "uoaa",
+        "char_code_sijiao": "33000"
+    },
+    "general_unicode": "基本区 U+706C",
+    "general_bs_code": "4444"
+}

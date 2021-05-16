@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "callous, corn"
+        },
+        {
+            "language": "法语",
+            "explanation": "cal"
+        }
+    ],
+    "general_pinyins": [
+        "zhī"
+    ],
+    "general_zhuyins": [
+        "ㄓ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䟡",
+        "柢",
+        "疷",
+        "躓",
+        "𤵋",
+        "𦙁",
+        "𦙘",
+        "𦙠",
+        "𦝔",
+        "胵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "80DD",
+            "351135154"
+        ],
+        "char_code_wubi": "eqay",
+        "char_code_cangjie": "bhpm",
+        "char_code_zhengma": "qrs",
+        "char_code_sijiao": "72240"
+    },
+    "general_unicode": "基本区 U+80DD",
+    "general_bs_code": "351135154"
+}

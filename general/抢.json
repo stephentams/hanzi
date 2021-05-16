@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "plunder, rob, take by force"
+        },
+        {
+            "language": "德语",
+            "explanation": "aneinandergeraten  (V)​,entgegengesetzt, auf Kollisionskurs  (V)​,gegen etwas stoßen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "affronter (dans certaines expressions)​,piller,s'emparer de,se précipiter,se disputer (qch)​"
+        }
+    ],
+    "general_pinyins": [
+        "qiāng",
+        "qiǎng",
+        "chēng"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄤ",
+        "ㄑㄧㄤˇ",
+        "ㄔㄥ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "搶"
+    ],
+    "general_ytz": [
+        "搶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "62A2",
+            "1213455"
+        ],
+        "char_code_wubi": "rwbn",
+        "char_code_cangjie": "qosu",
+        "char_code_zhengma": "doyy",
+        "char_code_sijiao": "58012"
+    },
+    "general_unicode": "基本区 U+62A2",
+    "general_bs_code": "1213455"
+}

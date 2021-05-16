@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "law, rule; door post"
+        },
+        {
+            "language": "法语",
+            "explanation": "loi,juge,cible"
+        }
+    ],
+    "general_pinyins": [
+        "niè"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "自",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "帠",
+        "槷",
+        "闑"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "81EC",
+            "3251111234"
+        ],
+        "char_code_wubi": "thsu",
+        "char_code_cangjie": "hud",
+        "char_code_zhengma": "nlf",
+        "char_code_sijiao": "26904"
+    },
+    "general_unicode": "基本区 U+81EC",
+    "general_bs_code": "3251111234"
+}

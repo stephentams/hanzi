@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stubborn, obstinate, intransigent; firm"
+        },
+        {
+            "language": "德语",
+            "explanation": "hartnäckig, zäh"
+        },
+        {
+            "language": "法语",
+            "explanation": "revêche, bourru, obstiné"
+        }
+    ],
+    "general_pinyins": [
+        "jué",
+        "juè"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄝˊ",
+        "ㄐㄩㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "誳",
+        "𡳼",
+        "𥪊",
+        "𩋎",
+        "𩍞",
+        "崛",
+        "𠢤"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5014",
+            "3251352252"
+        ],
+        "char_code_wubi": "wnbm",
+        "char_code_cangjie": "osuu",
+        "char_code_zhengma": "nxzz",
+        "char_code_sijiao": "27272"
+    },
+    "general_unicode": "基本区 U+5014",
+    "general_bs_code": "3251352252"
+}

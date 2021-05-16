@@ -1,0 +1,56 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "divide, mark off, lay boundary"
+        },
+        {
+            "language": "德语",
+            "explanation": "abgrenzen; übertragen, überweisen; planen; markieren; Strich ,rudern, paddeln"
+        },
+        {
+            "language": "法语",
+            "explanation": "tracer,rayer,couper,poinçon,barque,crochet,mener une barque à la perche,ramer,pagayer,valoir la peine,couper,égratigner"
+        }
+    ],
+    "general_pinyins": [
+        "huá",
+        "huà"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄚˊ",
+        "ㄏㄨㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "刂",
+        "non_radical_sn": "12",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "划"
+    ],
+    "general_ytz": [
+        "㓰",
+        "㩇",
+        "划",
+        "劐",
+        "𠜻",
+        "𠟱",
+        "𠟷",
+        "畫",
+        "𠞷"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5283",
+            "51112125121122"
+        ],
+        "char_code_wubi": "vflj",
+        "char_code_cangjie": "lmln",
+        "char_code_zhengma": "xbak",
+        "char_code_sijiao": "52100"
+    },
+    "general_unicode": "基本区 U+5283",
+    "general_bs_code": "51112125121122"
+}

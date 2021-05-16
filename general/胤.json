@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "heir, successor; progeny, posterity"
+        },
+        {
+            "language": "德语",
+            "explanation": "beerben, erben"
+        },
+        {
+            "language": "法语",
+            "explanation": "succéder"
+        }
+    ],
+    "general_pinyins": [
+        "yìn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦞩",
+        "𦙍",
+        "𤗅",
+        "𠉥",
+        "㣧"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "80E4",
+            "355425115"
+        ],
+        "char_code_wubi": "txen",
+        "char_code_cangjie": "lvbu",
+        "char_code_zhengma": "rdzq",
+        "char_code_sijiao": "22010"
+    },
+    "general_unicode": "基本区 U+80E4",
+    "general_bs_code": "355425115"
+}

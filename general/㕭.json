@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 咬) to bark as a dog, obscene expressions, an interjection; implying surprise"
+        }
+    ],
+    "general_pinyins": [
+        "ào",
+        "bì"
+    ],
+    "general_zhuyins": [
+        "ㄠˋ",
+        "ㄅㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "356D",
+            "2513134"
+        ],
+        "char_code_wubi": "ktdy",
+        "char_code_cangjie": "rhk",
+        "char_code_zhengma": "jmgd",
+        "char_code_sijiao": "62084"
+    },
+    "general_unicode": "扩展A U+356D",
+    "general_bs_code": "2513134"
+}

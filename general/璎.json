@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a necklace made of precious stones"
+        },
+        {
+            "language": "德语",
+            "explanation": "Halsband, Halskette  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "pierre précieuse,pierre qui ressemble au jade"
+        }
+    ],
+    "general_pinyins": [
+        "yīng"
+    ],
+    "general_zhuyins": [
+        "ㄧㄥ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "11",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "瓔"
+    ],
+    "general_ytz": [
+        "瓔",
+        "珱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "748E",
+            "112125342534531"
+        ],
+        "char_code_wubi": "gmmv",
+        "char_code_cangjie": "mgbov",
+        "char_code_zhengma": "cllz",
+        "char_code_sijiao": "17144"
+    },
+    "general_unicode": "基本区 U+748E",
+    "general_bs_code": "112125342534531"
+}

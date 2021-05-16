@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ton (metric or English)"
+        },
+        {
+            "language": "德语",
+            "explanation": "Tonne (Gewichtseinheit)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "tonne"
+        }
+    ],
+    "general_pinyins": [
+        "dūn"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨㄣ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "吨"
+    ],
+    "general_ytz": [
+        "吨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5678",
+            "2511525132511134"
+        ],
+        "char_code_wubi": "kgbm",
+        "char_code_cangjie": "rpuc",
+        "char_code_zhengma": "jhzg",
+        "char_code_sijiao": "61086"
+    },
+    "general_unicode": "基本区 U+5678",
+    "general_bs_code": "2511525132511134"
+}

@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "throw (away)"
+        },
+        {
+            "language": "德语",
+            "explanation": "drehen, formen ,gießen, aufgießen ,verlassen, aufgeben ,schmeißen  (V)​,werfen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "lancer,abandonner"
+        }
+    ],
+    "general_pinyins": [
+        "pāo"
+    ],
+    "general_zhuyins": [
+        "ㄆㄠ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "拋"
+    ],
+    "general_ytz": [
+        "拋",
+        "𢱹",
+        "𢿏",
+        "𥒙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "629B",
+            "1213553"
+        ],
+        "char_code_wubi": "rvln|rvet",
+        "char_code_cangjie": "qkns",
+        "char_code_zhengma": "dqym",
+        "char_code_sijiao": "54012"
+    },
+    "general_unicode": "基本区 U+629B",
+    "general_bs_code": "1213553"
+}

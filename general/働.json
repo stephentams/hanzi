@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "labor; work"
+        }
+    ],
+    "general_pinyins": [
+        "dòng"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "11",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "50CD",
+            "3231251121153"
+        ],
+        "char_code_wubi": "wtgl|wtge",
+        "char_code_cangjie": "ohgs",
+        "char_code_zhengma": "nmby",
+        "char_code_sijiao": "24227"
+    },
+    "general_unicode": "基本区 U+50CD",
+    "general_bs_code": "3231251121153"
+}

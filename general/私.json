@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "private, personal; secret"
+        },
+        {
+            "language": "德语",
+            "explanation": "persönlich"
+        },
+        {
+            "language": "法语",
+            "explanation": "privé,personnel,égoïste,secret,confidentiel,clandestin,illégal"
+        }
+    ],
+    "general_pinyins": [
+        "sī"
+    ],
+    "general_zhuyins": [
+        "ㄙ"
+    ],
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "2",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "厶",
+        "𥝠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "79C1",
+            "3123454"
+        ],
+        "char_code_wubi": "tcy",
+        "char_code_cangjie": "hdi",
+        "char_code_zhengma": "mfzs",
+        "char_code_sijiao": "22930"
+    },
+    "general_unicode": "基本区 U+79C1",
+    "general_bs_code": "3123454"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "property; wealth; capital"
+        },
+        {
+            "language": "德语",
+            "explanation": "Mittel, Kapital"
+        },
+        {
+            "language": "法语",
+            "explanation": "argent,ressources,capital,biens,financer,subventionner,fournir,ancienneté"
+        }
+    ],
+    "general_pinyins": [
+        "zī"
+    ],
+    "general_zhuyins": [
+        "ㄗ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "資"
+    ],
+    "general_ytz": [
+        "資",
+        "𧷕",
+        "𪗓"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D44",
+            "4135342534"
+        ],
+        "char_code_wubi": "uqwm",
+        "char_code_cangjie": "iobo",
+        "char_code_zhengma": "tdrl",
+        "char_code_sijiao": "37802"
+    },
+    "general_unicode": "基本区 U+8D44",
+    "general_bs_code": "4135342534"
+}

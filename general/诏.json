@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "decree, proclaim; imperial decree"
+        },
+        {
+            "language": "德语",
+            "explanation": "kaiserliches Edikt ,unterrichten, unterweisen, belehren"
+        },
+        {
+            "language": "法语",
+            "explanation": "proclamer"
+        }
+    ],
+    "general_pinyins": [
+        "zhào"
+    ],
+    "general_zhuyins": [
+        "ㄓㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "詔"
+    ],
+    "general_ytz": [
+        "詔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BCF",
+            "4553251"
+        ],
+        "char_code_wubi": "yvkg",
+        "char_code_cangjie": "ivshr",
+        "char_code_zhengma": "syj",
+        "char_code_sijiao": "37762"
+    },
+    "general_unicode": "基本区 U+8BCF",
+    "general_bs_code": "4553251"
+}

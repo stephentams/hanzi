@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "complicated, complex, difficult"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 in grossen Zahlen, schwierig, viele  (Adj)"
+        }
+    ],
+    "general_pinyins": [
+        "fán",
+        "pó"
+    ],
+    "general_zhuyins": [
+        "ㄈㄢˊ",
+        "ㄆㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "糸",
+        "non_radical_sn": "11",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䋣",
+        "縏",
+        "𦅳",
+        "緐",
+        "𥿋",
+        "𦃍",
+        "䌓",
+        "繁"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7E41",
+            "31554143134554234"
+        ],
+        "char_code_wubi": "txgi|txti",
+        "char_code_cangjie": "okvif",
+        "char_code_zhengma": "mamz",
+        "char_code_sijiao": "88903"
+    },
+    "general_unicode": "基本区 U+7E41",
+    "general_bs_code": "31554143134554234"
+}

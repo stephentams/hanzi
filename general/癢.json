@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "itch"
+        },
+        {
+            "language": "德语",
+            "explanation": "jucken, Juckreiz  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "gratter,démanger,démangeaison,Prurit"
+        }
+    ],
+    "general_pinyins": [
+        "yǎng"
+    ],
+    "general_zhuyins": [
+        "ㄧㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "14",
+        "total_sn": "19"
+    },
+    "general_stc": [
+        "痒"
+    ],
+    "general_ytz": [
+        "痒",
+        "蛘",
+        "𤻰",
+        "𤸜"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7662",
+            "4134143111344511534"
+        ],
+        "char_code_wubi": "uude|uugv",
+        "char_code_cangjie": "ktov",
+        "char_code_zhengma": "tusx",
+        "char_code_sijiao": "00132"
+    },
+    "general_unicode": "基本区 U+7662",
+    "general_bs_code": "4134143111344511534"
+}

@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "blue, green, black; young"
+        },
+        {
+            "language": "德语",
+            "explanation": "grün, blau, türkisfarben  (V)​,Qing  (Eig, Fam)​,Radikal Nr. 174 = blaugrün, blau, grün, grünes Gras, junge Saat, jung"
+        },
+        {
+            "language": "法语",
+            "explanation": "bleu ou vert,jeune,herbe verte"
+        }
+    ],
+    "general_pinyins": [
+        "qīng"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄥ"
+    ],
+    "general_radical": {
+        "radical": "青",
+        "non_radical_sn": "0",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "寈",
+        "靑",
+        "𡗡",
+        "𡴏",
+        "𡴐",
+        "𡴑",
+        "𡷉",
+        "𤯞"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9752",
+            "11212511"
+        ],
+        "char_code_wubi": "gef",
+        "char_code_cangjie": "qmb",
+        "char_code_zhengma": "ciq",
+        "char_code_sijiao": "50227"
+    },
+    "general_unicode": "基本区 U+9752",
+    "general_bs_code": "11212511"
+}

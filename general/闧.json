@@ -1,0 +1,28 @@
+{
+    "general_pinyins": [
+        "tā"
+    ],
+    "general_zhuyins": [
+        "ㄊㄚ"
+    ],
+    "general_radical": {
+        "radical": "門",
+        "non_radical_sn": "13",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "95E7",
+            "251125111212513234454"
+        ],
+        "char_code_wubi": "ufkp",
+        "char_code_cangjie": "anygv",
+        "char_code_zhengma": "xdjr",
+        "char_code_sijiao": "77303"
+    },
+    "general_unicode": "基本区 U+95E7",
+    "general_bs_code": "251125111212513234454"
+}

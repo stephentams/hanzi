@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "measure; money, coins"
+        },
+        {
+            "language": "德语",
+            "explanation": "Geld  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(ancienne unité de mesure de masse)​,monnaie"
+        }
+    ],
+    "general_pinyins": [
+        "huán"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "9",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "鍰"
+    ],
+    "general_ytz": [
+        "鍰"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "953E",
+            "31115344311354"
+        ],
+        "char_code_wubi": "qefc|qegc",
+        "char_code_cangjie": "opbme",
+        "char_code_zhengma": "ppgx",
+        "char_code_sijiao": "82747"
+    },
+    "general_unicode": "基本区 U+953E",
+    "general_bs_code": "31115344311354"
+}

@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cling to, cuddle, embrace, fondle"
+        },
+        {
+            "language": "德语",
+            "explanation": "kuscheln, schmusen, verhätscheln  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "se serrer contre,se blottir contre"
+        }
+    ],
+    "general_pinyins": [
+        "wēi"
+    ],
+    "general_zhuyins": [
+        "ㄨㄟ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "504E",
+            "32251211534"
+        ],
+        "char_code_wubi": "wlge",
+        "char_code_cangjie": "owmv",
+        "char_code_zhengma": "nkh",
+        "char_code_sijiao": "26232"
+    },
+    "general_unicode": "基本区 U+504E",
+    "general_bs_code": "32251211534"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "anger, wrath, hatred, enmity"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ärger, Zorn  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "colère"
+        }
+    ],
+    "general_pinyins": [
+        "kài",
+        "xì"
+    ],
+    "general_zhuyins": [
+        "ㄎㄞˋ",
+        "ㄒㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "忾"
+    ],
+    "general_ytz": [
+        "忾"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "613E",
+            "4423115431234"
+        ],
+        "char_code_wubi": "nrno|nroy",
+        "char_code_cangjie": "pond",
+        "char_code_zhengma": "umy",
+        "char_code_sijiao": "98017"
+    },
+    "general_unicode": "基本区 U+613E",
+    "general_bs_code": "4423115431234"
+}

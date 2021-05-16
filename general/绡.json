@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "raw silk fabric"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bastseide, rohseiden  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "soie grège"
+        }
+    ],
+    "general_pinyins": [
+        "xiāo"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "綃"
+    ],
+    "general_ytz": [
+        "綃",
+        "䌃",
+        "𦂚"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EE1",
+            "5512432511"
+        ],
+        "char_code_wubi": "xieg",
+        "char_code_cangjie": "xvmfb",
+        "char_code_zhengma": "zkq",
+        "char_code_sijiao": "29127"
+    },
+    "general_unicode": "基本区 U+7EE1",
+    "general_bs_code": "5512432511"
+}

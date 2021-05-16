@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "four walls"
+        }
+    ],
+    "general_pinyins": [
+        "ào"
+    ],
+    "general_zhuyins": [
+        "ㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "圫",
+        "奧",
+        "隩",
+        "𡋮",
+        "𡋸",
+        "𡌱",
+        "𡐟",
+        "𡒃",
+        "𡶮"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "58BA",
+            "121325431234134"
+        ],
+        "char_code_wubi": "ftmd",
+        "char_code_cangjie": "ghbk",
+        "char_code_zhengma": "bnug",
+        "char_code_sijiao": "47184"
+    },
+    "general_unicode": "基本区 U+58BA",
+    "general_bs_code": "121325431234134"
+}

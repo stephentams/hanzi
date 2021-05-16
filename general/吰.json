@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "clang"
+        },
+        {
+            "language": "德语",
+            "explanation": "Dröhnen  (S)​,klappern  (V)​,scheppern  (V)​,das Geklirr"
+        }
+    ],
+    "general_pinyins": [
+        "hóng"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠴈",
+        "宏"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5430",
+            "2511354"
+        ],
+        "char_code_wubi": "kdcy",
+        "char_code_cangjie": "rki",
+        "char_code_zhengma": "jgzs",
+        "char_code_sijiao": "64032"
+    },
+    "general_unicode": "基本区 U+5430",
+    "general_bs_code": "2511354"
+}

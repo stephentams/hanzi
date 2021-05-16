@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tip of twig, top of tree; twig"
+        },
+        {
+            "language": "德语",
+            "explanation": "Astspitze  (S)​,Baumspitze  (S)​,Zweig  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bout,fin"
+        }
+    ],
+    "general_pinyins": [
+        "miǎo"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "秒"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "676A",
+            "12342343"
+        ],
+        "char_code_wubi": "sitt",
+        "char_code_cangjie": "dfh",
+        "char_code_zhengma": "fkm",
+        "char_code_sijiao": "49920"
+    },
+    "general_unicode": "基本区 U+676A",
+    "general_bs_code": "12342343"
+}

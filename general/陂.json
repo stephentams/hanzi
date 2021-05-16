@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dam, embankment; reservoir"
+        },
+        {
+            "language": "德语",
+            "explanation": "Behälter, Sammelbecken  (S)​,robust, schroff"
+        },
+        {
+            "language": "法语",
+            "explanation": "piscine,étang,bord d'un étang,pente d'une montagne,robuste,irrégulier,pente,réservoir"
+        }
+    ],
+    "general_pinyins": [
+        "bēi",
+        "pí",
+        "pō"
+    ],
+    "general_zhuyins": [
+        "ㄅㄟ",
+        "ㄆㄧˊ",
+        "ㄆㄛ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨸭"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9642",
+            "5253254"
+        ],
+        "char_code_wubi": "bhcy|bby",
+        "char_code_cangjie": "nldhe",
+        "char_code_zhengma": "yxi",
+        "char_code_sijiao": "74247"
+    },
+    "general_unicode": "基本区 U+9642",
+    "general_bs_code": "5253254"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "recognize, know, understand"
+        },
+        {
+            "language": "德语",
+            "explanation": "wiedererkennen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "reconnaître,distinguer,admettre,avouer"
+        }
+    ],
+    "general_pinyins": [
+        "rèn"
+    ],
+    "general_zhuyins": [
+        "ㄖㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "2",
+        "total_sn": "4"
+    },
+    "general_stc": [
+        "認"
+    ],
+    "general_ytz": [
+        "認"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BA4",
+            "4534"
+        ],
+        "char_code_wubi": "ywy",
+        "char_code_cangjie": "ivo",
+        "char_code_zhengma": "sod",
+        "char_code_sijiao": "38700"
+    },
+    "general_unicode": "基本区 U+8BA4",
+    "general_bs_code": "4534"
+}

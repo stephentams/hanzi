@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "collect, gather up, pick up"
+        },
+        {
+            "language": "法语",
+            "explanation": "recueillir,rassembler,piller,arranger"
+        }
+    ],
+    "general_pinyins": [
+        "duō"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨㄛ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "敠",
+        "敪",
+        "𠭴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6387",
+            "12154545454"
+        ],
+        "char_code_wubi": "rccc",
+        "char_code_cangjie": "qeee",
+        "char_code_zhengma": "dxxx",
+        "char_code_sijiao": "57047"
+    },
+    "general_unicode": "基本区 U+6387",
+    "general_bs_code": "12154545454"
+}

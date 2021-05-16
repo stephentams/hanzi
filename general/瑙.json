@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "agate; cornelian"
+        },
+        {
+            "language": "德语",
+            "explanation": "Achat  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cornaline,pierres précieuses"
+        }
+    ],
+    "general_pinyins": [
+        "nǎo"
+    ],
+    "general_zhuyins": [
+        "ㄋㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "碯",
+        "𤤼",
+        "𥒢",
+        "𥒤",
+        "𥓱",
+        "𥖋"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7459",
+            "1121555325341"
+        ],
+        "char_code_wubi": "gvtq|gvtr",
+        "char_code_cangjie": "mgvvw",
+        "char_code_zhengma": "czno",
+        "char_code_sijiao": "12162"
+    },
+    "general_unicode": "基本区 U+7459",
+    "general_bs_code": "1121555325341"
+}

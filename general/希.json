@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rare; hope, expect, strive for"
+        },
+        {
+            "language": "德语",
+            "explanation": "hoffen, erwarten, selten  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "espérer,désirer,rare"
+        }
+    ],
+    "general_pinyins": [
+        "xī"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧ"
+    ],
+    "general_radical": {
+        "radical": "巾",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㠻",
+        "𠬯",
+        "𠬹",
+        "𢁫",
+        "睎",
+        "稀"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5E0C",
+            "3413252"
+        ],
+        "char_code_wubi": "qdmh|rdmh",
+        "char_code_cangjie": "kklb",
+        "char_code_zhengma": "osgl",
+        "char_code_sijiao": "40227"
+    },
+    "general_unicode": "基本区 U+5E0C",
+    "general_bs_code": "3413252"
+}

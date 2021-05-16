@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "astringent; harsh; uneven, rough"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gatter, Gitterrost  (S)​,herb, säuerlich  (Adj)​,kratzend, hemmend  (Adv)"
+        }
+    ],
+    "general_pinyins": [
+        "sè"
+    ],
+    "general_zhuyins": [
+        "ㄙㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "澀"
+    ],
+    "general_ytz": [
+        "澀",
+        "渋",
+        "歮",
+        "澁",
+        "濇",
+        "瀒",
+        "𡉔",
+        "𣴻",
+        "𣹣",
+        "𣾫",
+        "𣿠",
+        "𤁍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6DA9",
+            "4415342121"
+        ],
+        "char_code_wubi": "ivyh",
+        "char_code_cangjie": "esim",
+        "char_code_zhengma": "vysi",
+        "char_code_sijiao": "37111"
+    },
+    "general_unicode": "基本区 U+6DA9",
+    "general_bs_code": "4415342121"
+}

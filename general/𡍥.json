@@ -1,0 +1,29 @@
+{
+    "general_pinyins": [
+        "zhài"
+    ],
+    "general_zhuyins": [
+        "ㄓㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "砦"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "21365",
+            "1212121351234"
+        ],
+        "char_code_wubi": "fhxs",
+        "char_code_cangjie": "gypd",
+        "char_code_zhengma": "birf"
+    },
+    "general_unicode": "扩展B U+21365",
+    "general_bs_code": "1212121351234"
+}

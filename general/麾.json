@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a pennant, flag, banner; to signal to"
+        },
+        {
+            "language": "德语",
+            "explanation": "signalisieren ,Signalflagge  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "drap,drapeau,faire des signaux"
+        }
+    ],
+    "general_pinyins": [
+        "huī"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄟ"
+    ],
+    "general_radical": {
+        "radical": "麻",
+        "non_radical_sn": "4",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "揮",
+        "戲",
+        "𣬡",
+        "𪎜",
+        "𪎮"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9EBE",
+            "413123412343115"
+        ],
+        "char_code_wubi": "yssn|osse",
+        "char_code_cangjie": "ichqu",
+        "char_code_zhengma": "tgfm",
+        "char_code_sijiao": "00214"
+    },
+    "general_unicode": "基本区 U+9EBE",
+    "general_bs_code": "413123412343115"
+}

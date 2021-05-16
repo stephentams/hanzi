@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to gore, stab"
+        }
+    ],
+    "general_pinyins": [
+        "jué",
+        "zhuó"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄝˊ",
+        "ㄓㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "矠",
+        "𢳇",
+        "𧣀",
+        "角"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6354",
+            "1213535112"
+        ],
+        "char_code_wubi": "rqeh",
+        "char_code_cangjie": "qnbg",
+        "char_code_zhengma": "drld",
+        "char_code_sijiao": "57027"
+    },
+    "general_unicode": "基本区 U+6354",
+    "general_bs_code": "1213535112"
+}

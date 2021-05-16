@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "德语",
+            "explanation": "Steinbruch  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "wò"
+    ],
+    "general_zhuyins": [
+        "ㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "峨",
+        "礒"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "786A",
+            "132513121534"
+        ],
+        "char_code_wubi": "dtrt|dtry",
+        "char_code_cangjie": "mrhqi",
+        "char_code_zhengma": "gmhm",
+        "char_code_sijiao": "13650"
+    },
+    "general_unicode": "基本区 U+786A",
+    "general_bs_code": "132513121534"
+}

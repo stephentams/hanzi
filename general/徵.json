@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "summon, recruit; musical note"
+        },
+        {
+            "language": "德语",
+            "explanation": "erheben, Erhebung  (S)​,Erregung  (S, Psych)​,Zheng  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "voyager,lancer une expédition,enrôler,prélever,preuve,signe,marcher,lancer une expédition,conquérir,percevoir,prélever"
+        }
+    ],
+    "general_pinyins": [
+        "zhǐ",
+        "zhēng"
+    ],
+    "general_zhuyins": [
+        "ㄓˇ",
+        "ㄓㄥ"
+    ],
+    "general_radical": {
+        "radical": "彳",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "征"
+    ],
+    "general_ytz": [
+        "征",
+        "徴",
+        "𢽠",
+        "𢾷",
+        "𢿁",
+        "𧗲",
+        "𢽡"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5FB5",
+            "332252111213134"
+        ],
+        "char_code_wubi": "tmgt",
+        "char_code_cangjie": "hougk",
+        "char_code_zhengma": "oicm",
+        "char_code_sijiao": "28240"
+    },
+    "general_unicode": "基本区 U+5FB5",
+    "general_bs_code": "332252111213134"
+}

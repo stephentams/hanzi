@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "good, right, generous; command"
+        },
+        {
+            "language": "法语",
+            "explanation": "bon"
+        }
+    ],
+    "general_pinyins": [
+        "zāng",
+        "zàng",
+        "cáng"
+    ],
+    "general_zhuyins": [
+        "ㄗㄤ",
+        "ㄗㄤˋ",
+        "ㄘㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "臣",
+        "non_radical_sn": "8",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "臟",
+        "匨",
+        "𠗱",
+        "𡒉",
+        "𡒤",
+        "𡒥",
+        "𢨑",
+        "𤖔",
+        "𦣣",
+        "藏"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "81E7",
+            "13513125125534"
+        ],
+        "char_code_wubi": "dndt|auah",
+        "char_code_cangjie": "imsll",
+        "char_code_zhengma": "hmzh",
+        "char_code_sijiao": "23250"
+    },
+    "general_unicode": "基本区 U+81E7",
+    "general_bs_code": "13513125125534"
+}

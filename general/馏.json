@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "distill, distillation"
+        },
+        {
+            "language": "德语",
+            "explanation": "destillieren  (V)​,dampfen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cuire à la vapeur,réchauffer,distiller"
+        }
+    ],
+    "general_pinyins": [
+        "liù",
+        "liú"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄡˋ",
+        "ㄌㄧㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "饣",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "餾"
+    ],
+    "general_ytz": [
+        "餾",
+        "𩞷"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "998F",
+            "3553545325121"
+        ],
+        "char_code_wubi": "qnql",
+        "char_code_cangjie": "nvhhw",
+        "char_code_zhengma": "oxyk",
+        "char_code_sijiao": "27762"
+    },
+    "general_unicode": "基本区 U+998F",
+    "general_bs_code": "3553545325121"
+}

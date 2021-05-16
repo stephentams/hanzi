@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 旗) a flag; a pennant; a banner; a streamer, a sign"
+        }
+    ],
+    "general_pinyins": [
+        "chá",
+        "qí",
+        "shí"
+    ],
+    "general_zhuyins": [
+        "ㄔㄚˊ",
+        "ㄑㄧˊ",
+        "ㄕˊ"
+    ],
+    "general_radical": {
+        "radical": "方",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "旗"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3AC5",
+            "4153341132"
+        ],
+        "char_code_wubi": "ywfj",
+        "char_code_cangjie": "ysoml",
+        "char_code_zhengma": "sybn",
+        "char_code_sijiao": "08221"
+    },
+    "general_unicode": "扩展A U+3AC5",
+    "general_bs_code": "4153341132"
+}

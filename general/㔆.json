@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to cut; to hack; to reap; to trim or clip, to stab; to pierce; to brand"
+        }
+    ],
+    "general_pinyins": [
+        "zàn"
+    ],
+    "general_zhuyins": [
+        "ㄗㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "刂",
+        "non_radical_sn": "12",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠟆"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3506",
+            "15351535251122"
+        ],
+        "char_code_wubi": "aqaj",
+        "char_code_cangjie": "maln",
+        "char_code_zhengma": "hrkk",
+        "char_code_sijiao": "12600"
+    },
+    "general_unicode": "扩展A U+3506",
+    "general_bs_code": "15351535251122"
+}

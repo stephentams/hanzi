@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "be short of, lack; gap, deficit"
+        },
+        {
+            "language": "德语",
+            "explanation": "mangeln, fehlen  (V)​,lückenhaft, schadhaft, mangelhaft"
+        },
+        {
+            "language": "法语",
+            "explanation": "incomplet,insuffisance,manque,place vacante,manquer de,manquer,être absent"
+        }
+    ],
+    "general_pinyins": [
+        "quē"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩㄝ"
+    ],
+    "general_radical": {
+        "radical": "缶",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡙇",
+        "𡚆",
+        "𥁍",
+        "𦈫",
+        "缼",
+        "𩫠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F3A",
+            "3112525134"
+        ],
+        "char_code_wubi": "rmnw|tfbw",
+        "char_code_cangjie": "oudk",
+        "char_code_zhengma": "maxg",
+        "char_code_sijiao": "85780"
+    },
+    "general_unicode": "基本区 U+7F3A",
+    "general_bs_code": "3112525134"
+}

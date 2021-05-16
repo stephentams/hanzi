@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "parted; fork; certain"
+        },
+        {
+            "language": "德语",
+            "explanation": "entscheidend, entscheidungsfreudig"
+        },
+        {
+            "language": "法语",
+            "explanation": "décisif"
+        }
+    ],
+    "general_pinyins": [
+        "guài"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "大",
+        "non_radical_sn": "1",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "叏",
+        "𡗒",
+        "𢎹",
+        "決"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "592C",
+            "5134"
+        ],
+        "char_code_wubi": "nwi",
+        "char_code_cangjie": "dk",
+        "char_code_zhengma": "xgd",
+        "char_code_sijiao": "50800"
+    },
+    "general_unicode": "基本区 U+592C",
+    "general_bs_code": "5134"
+}

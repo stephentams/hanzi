@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bed mat; mat"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schlafmatte  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "zé"
+    ],
+    "general_zhuyins": [
+        "ㄗㄜˊ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "簀"
+    ],
+    "general_ytz": [
+        "簀",
+        "蔶",
+        "𤖓",
+        "𥴹"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7BA6",
+            "31431411212534"
+        ],
+        "char_code_wubi": "tgmu",
+        "char_code_cangjie": "hqmo",
+        "char_code_zhengma": "mclo",
+        "char_code_sijiao": "88802"
+    },
+    "general_unicode": "基本区 U+7BA6",
+    "general_bs_code": "31431411212534"
+}

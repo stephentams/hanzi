@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "nightmare, bad dreams"
+        },
+        {
+            "language": "德语",
+            "explanation": "Albtraum, Alptraum  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cauchemar"
+        }
+    ],
+    "general_pinyins": [
+        "yǎn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "鬼",
+        "non_radical_sn": "6",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "魘"
+    ],
+    "general_ytz": [
+        "魘",
+        "㱘"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9B47",
+            "131344325113554"
+        ],
+        "char_code_wubi": "ddrc",
+        "char_code_cangjie": "miki",
+        "char_code_zhengma": "ggsn",
+        "char_code_sijiao": "71213"
+    },
+    "general_unicode": "基本区 U+9B47",
+    "general_bs_code": "131344325113554"
+}

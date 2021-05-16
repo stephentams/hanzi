@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to sew in close stitches"
+        },
+        {
+            "language": "德语",
+            "explanation": "kapern  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "coudre finement,arrêter,saisir"
+        }
+    ],
+    "general_pinyins": [
+        "jī",
+        "qī"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧ",
+        "ㄑㄧ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "緝"
+    ],
+    "general_ytz": [
+        "緝",
+        "𦂝"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F09",
+            "551251122111"
+        ],
+        "char_code_wubi": "xkbg",
+        "char_code_cangjie": "vmrsj",
+        "char_code_zhengma": "zjce",
+        "char_code_sijiao": "26141"
+    },
+    "general_unicode": "基本区 U+7F09",
+    "general_bs_code": "551251122111"
+}

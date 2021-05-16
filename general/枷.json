@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cangue scaffold"
+        },
+        {
+            "language": "德语",
+            "explanation": "chin. Halsgeige, chin. Schandkragen  (hölzerne Hals-Hand-Fessel)​  (S, Rechtsw)​,(English: cangue)​  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cangue"
+        }
+    ],
+    "general_pinyins": [
+        "jiā"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄚ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "椵",
+        "耞"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "67B7",
+            "123453251"
+        ],
+        "char_code_wubi": "slkg|sekg",
+        "char_code_cangjie": "dksr",
+        "char_code_zhengma": "fyj",
+        "char_code_sijiao": "46900"
+    },
+    "general_unicode": "基本区 U+67B7",
+    "general_bs_code": "123453251"
+}

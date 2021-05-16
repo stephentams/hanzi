@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "clear, bright; splendor, brightness"
+        },
+        {
+            "language": "德语",
+            "explanation": "Pracht, Glorie  (S)​,Cheng  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "luminosité du Soleil,splendeur,(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "shèng",
+        "chéng"
+    ],
+    "general_zhuyins": [
+        "ㄕㄥˋ",
+        "ㄔㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "晠",
+        "晶",
+        "盛",
+        "𠕠"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "665F",
+            "2511135534"
+        ],
+        "char_code_wubi": "jdnt|jdnb",
+        "char_code_cangjie": "aihs",
+        "char_code_zhengma": "khv",
+        "char_code_sijiao": "60253"
+    },
+    "general_unicode": "基本区 U+665F",
+    "general_bs_code": "2511135534"
+}

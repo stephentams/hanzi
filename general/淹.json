@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "drown; cover with liquid, steep"
+        },
+        {
+            "language": "德语",
+            "explanation": "ertrinken ,überfluten, überschwemmen"
+        },
+        {
+            "language": "法语",
+            "explanation": "submerger,noyer"
+        }
+    ],
+    "general_pinyins": [
+        "yān"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "奄",
+        "淊",
+        "𣼜",
+        "醃"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6DF9",
+            "44113425115"
+        ],
+        "char_code_wubi": "idjn",
+        "char_code_cangjie": "eklu",
+        "char_code_zhengma": "vgkz",
+        "char_code_sijiao": "34116"
+    },
+    "general_unicode": "基本区 U+6DF9",
+    "general_bs_code": "44113425115"
+}

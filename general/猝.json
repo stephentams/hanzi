@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "abruptly, suddenly; abrupt"
+        },
+        {
+            "language": "法语",
+            "explanation": "soudain,subit"
+        }
+    ],
+    "general_pinyins": [
+        "cù"
+    ],
+    "general_zhuyins": [
+        "ㄘㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "踤",
+        "𤝊",
+        "𢔙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "731D",
+            "35341343412"
+        ],
+        "char_code_wubi": "qtyf",
+        "char_code_cangjie": "khyoj",
+        "char_code_zhengma": "qmoe",
+        "char_code_sijiao": "40248"
+    },
+    "general_unicode": "基本区 U+731D",
+    "general_bs_code": "35341343412"
+}

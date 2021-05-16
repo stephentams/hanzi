@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "halter for ox; tie up, harness"
+        },
+        {
+            "language": "德语",
+            "explanation": "fest ziehen, binden ,Mi  (Eig, Fam)"
+        }
+    ],
+    "general_pinyins": [
+        "mí"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "糸",
+        "non_radical_sn": "11",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥿫",
+        "䌕",
+        "𦄐",
+        "麿"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7E3B",
+            "41312341234554234"
+        ],
+        "char_code_wubi": "yssi|ossi",
+        "char_code_cangjie": "idvif",
+        "char_code_zhengma": "tgfz",
+        "char_code_sijiao": "00293"
+    },
+    "general_unicode": "基本区 U+7E3B",
+    "general_bs_code": "41312341234554234"
+}

@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "adhere to, append; rely on near to"
+        },
+        {
+            "language": "法语",
+            "explanation": "joindre à,être près de"
+        }
+    ],
+    "general_pinyins": [
+        "fù"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "孚",
+        "坿",
+        "駙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9644",
+            "5232124"
+        ],
+        "char_code_wubi": "bwfy",
+        "char_code_cangjie": "nlodi",
+        "char_code_zhengma": "ynds",
+        "char_code_sijiao": "74200"
+    },
+    "general_unicode": "基本区 U+9644",
+    "general_bs_code": "5232124"
+}

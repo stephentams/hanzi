@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "string of copper coins; swaddling"
+        }
+    ],
+    "general_pinyins": [
+        "qiǎng"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "糹",
+        "non_radical_sn": "12",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "繈",
+        "𫄶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7E66",
+            "554444515251251214"
+        ],
+        "char_code_wubi": "xxkj",
+        "char_code_cangjie": "vfnri",
+        "char_code_zhengma": "zyji",
+        "char_code_sijiao": "26936"
+    },
+    "general_unicode": "基本区 U+7E66",
+    "general_bs_code": "554444515251251214"
+}

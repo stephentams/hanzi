@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a dwarf"
+        },
+        {
+            "language": "法语",
+            "explanation": "petit,de petite taille"
+        }
+    ],
+    "general_pinyins": [
+        "cuó"
+    ],
+    "general_zhuyins": [
+        "ㄘㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "矢",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "遳",
+        "𥏧",
+        "𥲽"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "77EC",
+            "311343434121"
+        ],
+        "char_code_wubi": "tdwf",
+        "char_code_cangjie": "okoog",
+        "char_code_zhengma": "maob",
+        "char_code_sijiao": "88814"
+    },
+    "general_unicode": "基本区 U+77EC",
+    "general_bs_code": "311343434121"
+}

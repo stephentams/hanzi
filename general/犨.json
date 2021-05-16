@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "panting of cow; grunting of ox"
+        }
+    ],
+    "general_pinyins": [
+        "chōu"
+    ],
+    "general_zhuyins": [
+        "ㄔㄡ"
+    ],
+    "general_radical": {
+        "radical": "牛",
+        "non_radical_sn": "16",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "犫",
+        "𠧐"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "72A8",
+            "32411121324111213112"
+        ],
+        "char_code_wubi": "wywh|wywg",
+        "char_code_cangjie": "oghq",
+        "char_code_zhengma": "ninm",
+        "char_code_sijiao": "20501"
+    },
+    "general_unicode": "基本区 U+72A8",
+    "general_bs_code": "32411121324111213112"
+}

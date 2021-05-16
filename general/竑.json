@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "be vast and endless; broad"
+        },
+        {
+            "language": "德语",
+            "explanation": "reichlich, groß ,schätzen, bewerten"
+        },
+        {
+            "language": "法语",
+            "explanation": "vaste et sans fin,large,estimer"
+        }
+    ],
+    "general_pinyins": [
+        "hóng"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "立",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "竤",
+        "𨌆"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7AD1",
+            "414311354"
+        ],
+        "char_code_wubi": "udcy",
+        "char_code_cangjie": "ytki",
+        "char_code_zhengma": "sugz",
+        "char_code_sijiao": "04132"
+    },
+    "general_unicode": "基本区 U+7AD1",
+    "general_bs_code": "414311354"
+}

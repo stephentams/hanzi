@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rank odor"
+        }
+    ],
+    "general_pinyins": [
+        "shān"
+    ],
+    "general_zhuyins": [
+        "ㄕㄢ"
+    ],
+    "general_radical": {
+        "radical": "羊",
+        "non_radical_sn": "13",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䍹",
+        "羴",
+        "膻",
+        "𠆞",
+        "𦏫",
+        "𦏬",
+        "𦏭",
+        "𦎞"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7FB6",
+            "4311134125251125111"
+        ],
+        "char_code_wubi": "udyg|uylg",
+        "char_code_cangjie": "tqywm",
+        "char_code_zhengma": "ucka",
+        "char_code_sijiao": "80516"
+    },
+    "general_unicode": "基本区 U+7FB6",
+    "general_bs_code": "4311134125251125111"
+}

@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "river in Hebei province"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom d'une rivière)​"
+        }
+    ],
+    "general_pinyins": [
+        "míng"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6D3A",
+            "441354251"
+        ],
+        "char_code_wubi": "iqkg",
+        "char_code_cangjie": "enir",
+        "char_code_zhengma": "vrj",
+        "char_code_sijiao": "37162"
+    },
+    "general_unicode": "基本区 U+6D3A",
+    "general_bs_code": "441354251"
+}

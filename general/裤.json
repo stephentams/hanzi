@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "trousers, pants"
+        },
+        {
+            "language": "德语",
+            "explanation": "Hosen ,Hose  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "culotte,caleçon,pantalon"
+        }
+    ],
+    "general_pinyins": [
+        "kù"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "衤",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "褲"
+    ],
+    "general_ytz": [
+        "褲",
+        "袴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "88E4",
+            "452344131512"
+        ],
+        "char_code_wubi": "puyl|puol",
+        "char_code_cangjie": "likq",
+        "char_code_zhengma": "wtth",
+        "char_code_sijiao": "30254"
+    },
+    "general_unicode": "基本区 U+88E4",
+    "general_bs_code": "452344131512"
+}

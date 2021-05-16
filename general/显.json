@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "manifest, display; evident, clear"
+        },
+        {
+            "language": "德语",
+            "explanation": "sichtbar, zeigen, aussehen  (V)​,deutlich, offensichtlich  (Adj)​,Xian  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "manifester,apparaître,évident,visible"
+        }
+    ],
+    "general_pinyins": [
+        "xiǎn"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "顯"
+    ],
+    "general_ytz": [
+        "顯",
+        "顕",
+        "㫫",
+        "㬎",
+        "䧮",
+        "𩔰",
+        "𩕃"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "663E",
+            "251122431"
+        ],
+        "char_code_wubi": "jogf|jof",
+        "char_code_cangjie": "atc",
+        "char_code_zhengma": "kku",
+        "char_code_sijiao": "60102"
+    },
+    "general_unicode": "基本区 U+663E",
+    "general_bs_code": "251122431"
+}

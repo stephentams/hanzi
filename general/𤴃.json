@@ -1,0 +1,23 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "田",
+        "non_radical_sn": "18",
+        "total_sn": "23"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "24D03",
+            "25121121512112511244444"
+        ],
+        "char_code_wubi": "lfno",
+        "char_code_cangjie": "wgnf",
+        "char_code_zhengma": "kidu"
+    },
+    "general_unicode": "扩展B U+24D03",
+    "general_bs_code": "25121121512112511244444"
+}

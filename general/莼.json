@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "an edible water plant-brasenia"
+        }
+    ],
+    "general_pinyins": [
+        "chún"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "蒓",
+        "蓴"
+    ],
+    "general_ytz": [
+        "蒓",
+        "蓴"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "83BC",
+            "1225511525"
+        ],
+        "char_code_wubi": "axgn",
+        "char_code_cangjie": "tvmu",
+        "char_code_zhengma": "ezhz",
+        "char_code_sijiao": "44117"
+    },
+    "general_unicode": "基本区 U+83BC",
+    "general_bs_code": "1225511525"
+}

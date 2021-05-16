@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lucky place"
+        },
+        {
+            "language": "法语",
+            "explanation": "lieu porte-bonheur"
+        }
+    ],
+    "general_pinyins": [
+        "míng"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "84C2",
+            "1224525114134"
+        ],
+        "char_code_wubi": "apju",
+        "char_code_cangjie": "tbac",
+        "char_code_zhengma": "ewso",
+        "char_code_sijiao": "44800"
+    },
+    "general_unicode": "基本区 U+84C2",
+    "general_bs_code": "1224525114134"
+}

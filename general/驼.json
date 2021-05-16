@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a camel; humpbacked; to carry on the back"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kamel  (S)​,Buckelige  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "tuó"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "马",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "駝"
+    ],
+    "general_ytz": [
+        "駝",
+        "驝",
+        "駞",
+        "𩣾",
+        "𩧐"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A7C",
+            "55144535"
+        ],
+        "char_code_wubi": "cpxn|cgpx",
+        "char_code_cangjie": "nmjp",
+        "char_code_zhengma": "xwrr",
+        "char_code_sijiao": "73112"
+    },
+    "general_unicode": "基本区 U+9A7C",
+    "general_bs_code": "55144535"
+}

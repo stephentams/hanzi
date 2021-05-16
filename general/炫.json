@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "shine, glitter; show off, flaunt"
+        },
+        {
+            "language": "德语",
+            "explanation": "auf den Putz hauen, angeben ,einschüchtern, blenden"
+        },
+        {
+            "language": "法语",
+            "explanation": "éblouir,aveugler,se vanter de"
+        }
+    ],
+    "general_pinyins": [
+        "xuàn"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "衒",
+        "䝮"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "70AB",
+            "433441554"
+        ],
+        "char_code_wubi": "oyxy",
+        "char_code_cangjie": "fyvi",
+        "char_code_zhengma": "uozz",
+        "char_code_sijiao": "90832"
+    },
+    "general_unicode": "基本区 U+70AB",
+    "general_bs_code": "433441554"
+}

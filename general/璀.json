@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lustre of gems; glitter; shine"
+        },
+        {
+            "language": "法语",
+            "explanation": "éclat de pierres précieuses"
+        }
+    ],
+    "general_pinyins": [
+        "cuǐ"
+    ],
+    "general_zhuyins": [
+        "ㄘㄨㄟˇ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "11",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7480",
+            "112125232411121"
+        ],
+        "char_code_wubi": "gmwy",
+        "char_code_cangjie": "mguog",
+        "char_code_zhengma": "clni",
+        "char_code_sijiao": "12115"
+    },
+    "general_unicode": "基本区 U+7480",
+    "general_bs_code": "112125232411121"
+}

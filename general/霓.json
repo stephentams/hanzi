@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rainbow; variegated, colored"
+        },
+        {
+            "language": "德语",
+            "explanation": "(äußerer)​ Regenbogen   (S, Met)"
+        },
+        {
+            "language": "法语",
+            "explanation": "arc-en-ciel secondaire"
+        }
+    ],
+    "general_pinyins": [
+        "ní"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "雨",
+        "non_radical_sn": "8",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "蛪",
+        "蜺"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9713",
+            "1452444432151135"
+        ],
+        "char_code_wubi": "fvqb|feqb",
+        "char_code_cangjie": "mbhxu",
+        "char_code_zhengma": "fvnr",
+        "char_code_sijiao": "10212"
+    },
+    "general_unicode": "基本区 U+9713",
+    "general_bs_code": "1452444432151135"
+}

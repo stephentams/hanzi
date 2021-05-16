@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "德语",
+            "explanation": "Schote  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "fū"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨ"
+    ],
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䄮",
+        "孚",
+        "粰",
+        "𥞂",
+        "𥹃"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7A03",
+            "312343443521"
+        ],
+        "char_code_wubi": "tebg",
+        "char_code_cangjie": "hdbnd",
+        "char_code_zhengma": "mfpy",
+        "char_code_sijiao": "22947"
+    },
+    "general_unicode": "基本区 U+7A03",
+    "general_bs_code": "312343443521"
+}

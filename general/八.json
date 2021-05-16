@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "eight; all around, all sides"
+        },
+        {
+            "language": "德语",
+            "explanation": "Radikal Nr. 12 = acht (8)​ (Sprachw)​,acht (8)​ (Num)"
+        },
+        {
+            "language": "法语",
+            "explanation": "huit,8"
+        }
+    ],
+    "general_pinyins": [
+        "bā"
+    ],
+    "general_zhuyins": [
+        "ㄅㄚ"
+    ],
+    "general_radical": {
+        "radical": "八",
+        "non_radical_sn": "0",
+        "total_sn": "2"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "捌",
+        "丷"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "516B",
+            "34"
+        ],
+        "char_code_wubi": "wty",
+        "char_code_cangjie": "ho",
+        "char_code_zhengma": "oa",
+        "char_code_sijiao": "80000"
+    },
+    "general_unicode": "基本区 U+516B",
+    "general_bs_code": "34"
+}

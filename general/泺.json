@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "river in Shandong province"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fluss in der Shandong Provinz  (Eig, Geo)"
+        },
+        {
+            "language": "法语",
+            "explanation": "la rivière Luo"
+        }
+    ],
+    "general_pinyins": [
+        "luò",
+        "pō"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄛˋ",
+        "ㄆㄛ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "濼"
+    ],
+    "general_ytz": [
+        "濼",
+        "㴖",
+        "𤃸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6CFA",
+            "44135234"
+        ],
+        "char_code_wubi": "iqiy|itni",
+        "char_code_cangjie": "ehvd",
+        "char_code_zhengma": "vrko",
+        "char_code_sijiao": "32194"
+    },
+    "general_unicode": "基本区 U+6CFA",
+    "general_bs_code": "44135234"
+}

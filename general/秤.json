@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "balance, scale, steelyard"
+        },
+        {
+            "language": "德语",
+            "explanation": "wiegen  (V)​,gebraucht für 稱cheng1 ,Schnellwaage  (S)​,(römische)​ Waage"
+        },
+        {
+            "language": "法语",
+            "explanation": "balance à bascule,balance romaine"
+        }
+    ],
+    "general_pinyins": [
+        "chèng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "稱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "79E4",
+            "3123414312"
+        ],
+        "char_code_wubi": "tguh|tguf",
+        "char_code_cangjie": "hdmfj",
+        "char_code_zhengma": "mfau",
+        "char_code_sijiao": "21949"
+    },
+    "general_unicode": "基本区 U+79E4",
+    "general_bs_code": "3123414312"
+}

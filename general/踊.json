@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "leap, jump"
+        },
+        {
+            "language": "德语",
+            "explanation": "hervorspringen, überspringen"
+        },
+        {
+            "language": "法语",
+            "explanation": "bondir"
+        }
+    ],
+    "general_pinyins": [
+        "yǒng"
+    ],
+    "general_zhuyins": [
+        "ㄩㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "7",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "踴"
+    ],
+    "general_ytz": [
+        "踴",
+        "𠁜",
+        "𧻹",
+        "𨂹"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E0A",
+            "25121215425112"
+        ],
+        "char_code_wubi": "khce",
+        "char_code_cangjie": "rmnib",
+        "char_code_zhengma": "jixl",
+        "char_code_sijiao": "67127"
+    },
+    "general_unicode": "基本区 U+8E0A",
+    "general_bs_code": "25121215425112"
+}

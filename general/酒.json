@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wine, spirits, liquor, alcoholic beverage"
+        },
+        {
+            "language": "德语",
+            "explanation": "Alkohol,Spirituosen, Branntwein  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "vin,toute boisson fermentée,alcool,eau-de-vie"
+        }
+    ],
+    "general_pinyins": [
+        "jiǔ"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "酉",
+        "non_radical_sn": "3",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "酉",
+        "𨠆",
+        "𨠊"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9152",
+            "4411253511"
+        ],
+        "char_code_wubi": "isgg",
+        "char_code_cangjie": "emcw",
+        "char_code_zhengma": "vfd",
+        "char_code_sijiao": "31164"
+    },
+    "general_unicode": "基本区 U+9152",
+    "general_bs_code": "4411253511"
+}

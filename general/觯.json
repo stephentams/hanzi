@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wine goblet made from horn"
+        },
+        {
+            "language": "德语",
+            "explanation": "Becher, Kelchglas  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "gobelet"
+        }
+    ],
+    "general_pinyins": [
+        "zhì"
+    ],
+    "general_zhuyins": [
+        "ㄓˋ"
+    ],
+    "general_radical": {
+        "radical": "角",
+        "non_radical_sn": "8",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "觶"
+    ],
+    "general_ytz": [
+        "觶",
+        "𦨟",
+        "𧣄"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "89EF",
+            "353511243251112"
+        ],
+        "char_code_wubi": "qeuf",
+        "char_code_cangjie": "nbcwj",
+        "char_code_zhengma": "rlke",
+        "char_code_sijiao": "28256"
+    },
+    "general_unicode": "基本区 U+89EF",
+    "general_bs_code": "353511243251112"
+}

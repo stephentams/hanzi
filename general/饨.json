@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stuffed dumplings"
+        },
+        {
+            "language": "法语",
+            "explanation": "raviolis chinois"
+        }
+    ],
+    "general_pinyins": [
+        "tún"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "饣",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "飩"
+    ],
+    "general_ytz": [
+        "飩",
+        "𥸵",
+        "𩚊",
+        "𪌋"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9968",
+            "3551525"
+        ],
+        "char_code_wubi": "qngn",
+        "char_code_cangjie": "nvpu",
+        "char_code_zhengma": "oxhz",
+        "char_code_sijiao": "25717"
+    },
+    "general_unicode": "基本区 U+9968",
+    "general_bs_code": "3551525"
+}

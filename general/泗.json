@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mucous; nasal flow; sniffle; river in Shandong"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ortsname  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "nom de rivières"
+        }
+    ],
+    "general_pinyins": [
+        "sì"
+    ],
+    "general_zhuyins": [
+        "ㄙˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6CD7",
+            "44125351"
+        ],
+        "char_code_wubi": "ilg",
+        "char_code_cangjie": "ewc",
+        "char_code_zhengma": "vlk",
+        "char_code_sijiao": "36100"
+    },
+    "general_unicode": "基本区 U+6CD7",
+    "general_bs_code": "44125351"
+}

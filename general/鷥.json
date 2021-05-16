@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "egret; Egretta garzetta"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fischreiher, Reiher  (S, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "grue blanche"
+        }
+    ],
+    "general_pinyins": [
+        "sī"
+    ],
+    "general_zhuyins": [
+        "ㄙ"
+    ],
+    "general_radical": {
+        "radical": "鳥",
+        "non_radical_sn": "12",
+        "total_sn": "23"
+    },
+    "general_stc": [
+        "鸶"
+    ],
+    "general_ytz": [
+        "鸶"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9DE5",
+            "55444455423432511154444"
+        ],
+        "char_code_wubi": "xxio",
+        "char_code_cangjie": "vfhaf",
+        "char_code_zhengma": "zzrz",
+        "char_code_sijiao": "22327"
+    },
+    "general_unicode": "基本区 U+9DE5",
+    "general_bs_code": "55444455423432511154444"
+}

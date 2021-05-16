@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "thirsty, parched; yearn, pine"
+        },
+        {
+            "language": "德语",
+            "explanation": "durstig  (Adj)​,Ke  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "avoir soif,être assoiffé,désirer ardemment,brûler de"
+        }
+    ],
+    "general_pinyins": [
+        "kě"
+    ],
+    "general_zhuyins": [
+        "ㄎㄜˇ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "愒",
+        "㵣",
+        "渇",
+        "𣊅",
+        "𣹈",
+        "竭",
+        "𣊆"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6E34",
+            "441251135345"
+        ],
+        "char_code_wubi": "ijqn",
+        "char_code_cangjie": "eapv",
+        "char_code_zhengma": "vkry",
+        "char_code_sijiao": "36127"
+    },
+    "general_unicode": "基本区 U+6E34",
+    "general_bs_code": "441251135345"
+}

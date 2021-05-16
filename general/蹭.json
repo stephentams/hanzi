@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to shuffle, procrastinate, dilly-dally"
+        },
+        {
+            "language": "法语",
+            "explanation": "s'inviter à manger (chez des amis)​,égratigner,traîner"
+        }
+    ],
+    "general_pinyins": [
+        "cèng"
+    ],
+    "general_zhuyins": [
+        "ㄘㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "12",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "驓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E6D",
+            "2512121432524312511"
+        ],
+        "char_code_wubi": "khuj",
+        "char_code_cangjie": "rmcwa",
+        "char_code_zhengma": "jilk",
+        "char_code_sijiao": "68166"
+    },
+    "general_unicode": "基本区 U+8E6D",
+    "general_bs_code": "2512121432524312511"
+}

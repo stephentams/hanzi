@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rough, uneven, rocky; mediocre"
+        },
+        {
+            "language": "德语",
+            "explanation": "anheuern, leihen ,anstellen, beschäftigen ,arbeitsam, umständlich ,aufnehmen, erfassen ,aufschreiben, niederschreiben ,mit einem Band befestigen"
+        },
+        {
+            "language": "法语",
+            "explanation": "banal,médiocre,occupé,affairé"
+        }
+    ],
+    "general_pinyins": [
+        "lù",
+        "liù"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨˋ",
+        "ㄌㄧㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "磟",
+        "䃙",
+        "碌"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "788C",
+            "1325151124134"
+        ],
+        "char_code_wubi": "dviy",
+        "char_code_cangjie": "mrnme",
+        "char_code_zhengma": "gxkv",
+        "char_code_sijiao": "17699"
+    },
+    "general_unicode": "基本区 U+788C",
+    "general_bs_code": "1325151124134"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "aromatic grass; iris, flower"
+        },
+        {
+            "language": "法语",
+            "explanation": "herbe parfumée"
+        }
+    ],
+    "general_pinyins": [
+        "sūn"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨㄣ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "蓀"
+    ],
+    "general_ytz": [
+        "蓀",
+        "䕖",
+        "𦳪",
+        "𦺈",
+        "𦽙"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "836A",
+            "122521234"
+        ],
+        "char_code_wubi": "abiu",
+        "char_code_cangjie": "tndf",
+        "char_code_zhengma": "eyko",
+        "char_code_sijiao": "44490"
+    },
+    "general_unicode": "基本区 U+836A",
+    "general_bs_code": "122521234"
+}

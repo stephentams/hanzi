@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a dog with a long snout or muzzle"
+        },
+        {
+            "language": "法语",
+            "explanation": "chien à long museau"
+        }
+    ],
+    "general_pinyins": [
+        "xiǎn"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "19",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡪯",
+        "獫",
+        "𤞤"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7381",
+            "3532512511351221113134"
+        ],
+        "char_code_wubi": "qtkt",
+        "char_code_cangjie": "khrrk",
+        "char_code_zhengma": "qmcm",
+        "char_code_sijiao": "46248"
+    },
+    "general_unicode": "基本区 U+7381",
+    "general_bs_code": "3532512511351221113134"
+}

@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ear of grain; flowering, luxuriant; refined, elegant, graceful"
+        },
+        {
+            "language": "法语",
+            "explanation": "beau,gracieux"
+        }
+    ],
+    "general_pinyins": [
+        "xiù"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "2",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "琇",
+        "𥝙",
+        "𥝠"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "79C0",
+            "3123453"
+        ],
+        "char_code_wubi": "teb|tbr",
+        "char_code_cangjie": "hdnhs",
+        "char_code_zhengma": "mfym",
+        "char_code_sijiao": "20227"
+    },
+    "general_unicode": "基本区 U+79C0",
+    "general_bs_code": "3123453"
+}

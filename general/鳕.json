@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "codfish"
+        },
+        {
+            "language": "德语",
+            "explanation": "Dorsch, Kabeljau  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "morue"
+        }
+    ],
+    "general_pinyins": [
+        "xuě"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄝˇ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "11",
+        "total_sn": "19"
+    },
+    "general_stc": [
+        "鱈"
+    ],
+    "general_ytz": [
+        "鱈"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9CD5",
+            "3525121114524444511"
+        ],
+        "char_code_wubi": "qgfv",
+        "char_code_cangjie": "nmmbs",
+        "char_code_zhengma": "rfxb",
+        "char_code_sijiao": "21177"
+    },
+    "general_unicode": "基本区 U+9CD5",
+    "general_bs_code": "3525121114524444511"
+}

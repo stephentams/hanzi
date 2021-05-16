@@ -1,0 +1,57 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a mountain demon resembling a tiger"
+        },
+        {
+            "language": "德语",
+            "explanation": "&gt"
+        },
+        {
+            "language": "法语",
+            "explanation": "lutin"
+        }
+    ],
+    "general_pinyins": [
+        "chī"
+    ],
+    "general_zhuyins": [
+        "ㄔ"
+    ],
+    "general_radical": {
+        "radical": "鬼",
+        "non_radical_sn": "10",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䄜",
+        "䬜",
+        "离",
+        "螭",
+        "𩗨",
+        "𩘉",
+        "𩱹",
+        "𩲓",
+        "𩲶",
+        "𩳀",
+        "𩳦",
+        "𩳩",
+        "𩴭",
+        "𩲵"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9B51",
+            "3251135544134522554"
+        ],
+        "char_code_wubi": "rqcc",
+        "char_code_cangjie": "hiyub",
+        "char_code_zhengma": "njlz",
+        "char_code_sijiao": "20512"
+    },
+    "general_unicode": "基本区 U+9B51",
+    "general_bs_code": "3251135544134522554"
+}

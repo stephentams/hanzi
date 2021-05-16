@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "excellent horse, noble steed"
+        },
+        {
+            "language": "法语",
+            "explanation": "puissant cheval"
+        }
+    ],
+    "general_pinyins": [
+        "zǎng"
+    ],
+    "general_zhuyins": [
+        "ㄗㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "马",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "駔"
+    ],
+    "general_ytz": [
+        "駔",
+        "𤖛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A75",
+            "55125111"
+        ],
+        "char_code_wubi": "cegg|cgeg",
+        "char_code_cangjie": "nmbm",
+        "char_code_zhengma": "xlc",
+        "char_code_sijiao": "77112"
+    },
+    "general_unicode": "基本区 U+9A75",
+    "general_bs_code": "55125111"
+}

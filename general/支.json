@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "disperse, pay; support; branch"
+        },
+        {
+            "language": "德语",
+            "explanation": "Radikal Nr. 65 = Zweig, stützen, aufrichten, Abzweigung  (S)​,Zähleinheitswort  für länglichen, stockartigen Gegenstand (z.B. Stift, Pinsel, Essstäbchen)​  (Zähl)"
+        },
+        {
+            "language": "法语",
+            "explanation": "branche,rameau,appuyer,soutenir,payer,(classificateur pour les objets longs, les troupes, les chansons, les ampoules électriques)​,(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "zhī"
+    ],
+    "general_zhuyins": [
+        "ㄓ"
+    ],
+    "general_radical": {
+        "radical": "支",
+        "non_radical_sn": "0",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "搘",
+        "枝",
+        "𠦙",
+        "𡽒",
+        "𢺶",
+        "𣏃",
+        "梔",
+        "肢"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "652F",
+            "1254"
+        ],
+        "char_code_wubi": "fcu",
+        "char_code_cangjie": "je",
+        "char_code_zhengma": "edxs",
+        "char_code_sijiao": "40407"
+    },
+    "general_unicode": "基本区 U+652F",
+    "general_bs_code": "1254"
+}

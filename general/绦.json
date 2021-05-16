@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "silk cord, ribbon"
+        }
+    ],
+    "general_pinyins": [
+        "tāo"
+    ],
+    "general_zhuyins": [
+        "ㄊㄠ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "絛",
+        "縧"
+    ],
+    "general_ytz": [
+        "絛",
+        "縚",
+        "縧",
+        "𠍞",
+        "𩌜"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EE6",
+            "5513541234"
+        ],
+        "char_code_wubi": "xtsy",
+        "char_code_cangjie": "vmhed",
+        "char_code_zhengma": "zrf",
+        "char_code_sijiao": "27194"
+    },
+    "general_unicode": "基本区 U+7EE6",
+    "general_bs_code": "5513541234"
+}

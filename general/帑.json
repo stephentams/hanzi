@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a treasury; public funds"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kinder der Hauptfrau  (S)​,Schatzamt, Schatzkammer  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "trésor public"
+        }
+    ],
+    "general_pinyins": [
+        "tǎng",
+        "nú"
+    ],
+    "general_zhuyins": [
+        "ㄊㄤˇ",
+        "ㄋㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "巾",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "孥",
+        "伖"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5E11",
+            "53154252"
+        ],
+        "char_code_wubi": "vcmh",
+        "char_code_cangjie": "velb",
+        "char_code_zhengma": "zmxl",
+        "char_code_sijiao": "47227"
+    },
+    "general_unicode": "基本区 U+5E11",
+    "general_bs_code": "53154252"
+}

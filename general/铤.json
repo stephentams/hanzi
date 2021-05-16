@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ingots, bars of metal; hurry"
+        },
+        {
+            "language": "德语",
+            "explanation": "Barren  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "rapidement,vite,rapidement,vite"
+        }
+    ],
+    "general_pinyins": [
+        "tǐng",
+        "dìng"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧㄥˇ",
+        "ㄉㄧㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "鋌"
+    ],
+    "general_ytz": [
+        "鋌"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94E4",
+            "31115312154"
+        ],
+        "char_code_wubi": "qtfp",
+        "char_code_cangjie": "opnkg",
+        "char_code_zhengma": "pmby",
+        "char_code_sijiao": "82741"
+    },
+    "general_unicode": "基本区 U+94E4",
+    "general_bs_code": "31115312154"
+}

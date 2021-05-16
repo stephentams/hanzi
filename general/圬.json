@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "plaster over with layer of mud"
+        },
+        {
+            "language": "德语",
+            "explanation": "bepflastern, in Stuck arbeiten ,tünchen, rein waschen"
+        },
+        {
+            "language": "法语",
+            "explanation": "plâtrer,blanc de chaux"
+        }
+    ],
+    "general_pinyins": [
+        "wū"
+    ],
+    "general_zhuyins": [
+        "ㄨ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "杇",
+        "釫",
+        "鋘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "572C",
+            "121115"
+        ],
+        "char_code_wubi": "ffnn",
+        "char_code_cangjie": "gmms",
+        "char_code_zhengma": "bbz",
+        "char_code_sijiao": "41127"
+    },
+    "general_unicode": "基本区 U+572C",
+    "general_bs_code": "121115"
+}

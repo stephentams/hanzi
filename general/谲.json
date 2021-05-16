@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cunning, crafty, sly, wily"
+        },
+        {
+            "language": "德语",
+            "explanation": "betrügerisch"
+        },
+        {
+            "language": "法语",
+            "explanation": "tromper"
+        }
+    ],
+    "general_pinyins": [
+        "jué"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "12",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "譎"
+    ],
+    "general_ytz": [
+        "譎",
+        "憰",
+        "噊"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C32",
+            "45545232534251"
+        ],
+        "char_code_wubi": "ycbk|ycnk",
+        "char_code_cangjie": "ivnhb",
+        "char_code_zhengma": "sxml",
+        "char_code_sijiao": "37727"
+    },
+    "general_unicode": "基本区 U+8C32",
+    "general_bs_code": "45545232534251"
+}

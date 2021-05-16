@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "alas, exclamation of surprise or pain"
+        },
+        {
+            "language": "德语",
+            "explanation": "ach, oh, oh weh, oje 法语 soupirer,(interjection d'accord)​,hélas,couic,oh là là"
+        }
+    ],
+    "general_pinyins": [
+        "āi",
+        "ài"
+    ],
+    "general_zhuyins": [
+        "ㄞ",
+        "ㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "欸",
+        "㗒"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5509",
+            "2515431134"
+        ],
+        "char_code_wubi": "kctd",
+        "char_code_cangjie": "riok",
+        "char_code_zhengma": "jzma",
+        "char_code_sijiao": "63084"
+    },
+    "general_unicode": "基本区 U+5509",
+    "general_bs_code": "2515431134"
+}

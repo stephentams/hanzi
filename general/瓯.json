@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bowl, cup; small tray"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bowling spielen, kegeln ,Bütte  (S)​,Tasse  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tasse,bol"
+        }
+    ],
+    "general_pinyins": [
+        "ōu"
+    ],
+    "general_zhuyins": [
+        "ㄡ"
+    ],
+    "general_radical": {
+        "radical": "瓦",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "甌"
+    ],
+    "general_ytz": [
+        "甌"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "74EF",
+            "13451554"
+        ],
+        "char_code_wubi": "aqgn|argy",
+        "char_code_cangjie": "skmvn",
+        "char_code_zhengma": "hoys",
+        "char_code_sijiao": "71717"
+    },
+    "general_unicode": "基本区 U+74EF",
+    "general_bs_code": "13451554"
+}

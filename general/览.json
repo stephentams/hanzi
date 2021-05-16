@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "look at, inspect; perceive"
+        },
+        {
+            "language": "德语",
+            "explanation": "anschauen, besichtigen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "visiter,lire,parcourir"
+        }
+    ],
+    "general_pinyins": [
+        "lǎn"
+    ],
+    "general_zhuyins": [
+        "ㄌㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "见",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "覽"
+    ],
+    "general_ytz": [
+        "覽",
+        "覧",
+        "𢸒"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "89C8",
+            "223142535"
+        ],
+        "char_code_wubi": "jtyq",
+        "char_code_cangjie": "libhu",
+        "char_code_zhengma": "kdml",
+        "char_code_sijiao": "28212"
+    },
+    "general_unicode": "基本区 U+89C8",
+    "general_bs_code": "223142535"
+}

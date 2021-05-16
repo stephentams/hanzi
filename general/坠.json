@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fall down, drop, sink, go to ruin"
+        },
+        {
+            "language": "德语",
+            "explanation": "hinfallen  (V)​,niedergehen"
+        },
+        {
+            "language": "法语",
+            "explanation": "tomber,faire une chute,courber"
+        }
+    ],
+    "general_pinyins": [
+        "zhuì"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "墜"
+    ],
+    "general_ytz": [
+        "墜",
+        "礈",
+        "䃍",
+        "𨼾",
+        "𨽎"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5760",
+            "5234121"
+        ],
+        "char_code_wubi": "bwff",
+        "char_code_cangjie": "nog",
+        "char_code_zhengma": "yob",
+        "char_code_sijiao": "78104"
+    },
+    "general_unicode": "基本区 U+5760",
+    "general_bs_code": "5234121"
+}

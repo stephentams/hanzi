@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "suburb"
+        },
+        {
+            "language": "法语",
+            "explanation": "(utilisé dans les noms de lieux)​"
+        }
+    ],
+    "general_pinyins": [
+        "bèi"
+    ],
+    "general_zhuyins": [
+        "ㄅㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "789A",
+            "1325141431251"
+        ],
+        "char_code_wubi": "dukg",
+        "char_code_cangjie": "mrytr",
+        "char_code_zhengma": "gsj",
+        "char_code_sijiao": "10661"
+    },
+    "general_unicode": "基本区 U+789A",
+    "general_bs_code": "1325141431251"
+}

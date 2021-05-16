@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stone probe; pierce; counsel"
+        },
+        {
+            "language": "法语",
+            "explanation": "percer,aiguille de pierre,critiquer"
+        }
+    ],
+    "general_pinyins": [
+        "biān"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥐗",
+        "𥒟",
+        "𨥧",
+        "𥑁"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "782D",
+            "132513454"
+        ],
+        "char_code_wubi": "dtpy",
+        "char_code_cangjie": "mrhio",
+        "char_code_zhengma": "gmw",
+        "char_code_sijiao": "12632"
+    },
+    "general_unicode": "基本区 U+782D",
+    "general_bs_code": "132513454"
+}

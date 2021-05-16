@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "curling upwards; wavering gently"
+        },
+        {
+            "language": "德语",
+            "explanation": "zierlich"
+        }
+    ],
+    "general_pinyins": [
+        "niǎo"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "衣",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "裊"
+    ],
+    "general_ytz": [
+        "裊",
+        "嫋",
+        "嬝",
+        "㜵",
+        "䙚",
+        "𡠿"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8885",
+            "3545413534"
+        ],
+        "char_code_wubi": "qyne|qyeu",
+        "char_code_cangjie": "pysv",
+        "char_code_zhengma": "rzsr",
+        "char_code_sijiao": "27732"
+    },
+    "general_unicode": "基本区 U+8885",
+    "general_bs_code": "3545413534"
+}

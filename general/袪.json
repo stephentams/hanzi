@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sleeves; cuff"
+        }
+    ],
+    "general_pinyins": [
+        "qū"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩ"
+    ],
+    "general_radical": {
+        "radical": "衤",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "祛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "88AA",
+            "4523412154"
+        ],
+        "char_code_wubi": "pufc",
+        "char_code_cangjie": "lgi",
+        "char_code_zhengma": "wtbz",
+        "char_code_sijiao": "34232"
+    },
+    "general_unicode": "基本区 U+88AA",
+    "general_bs_code": "4523412154"
+}

@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rouge, cosmetics"
+        },
+        {
+            "language": "德语",
+            "explanation": "Rouge, Rouge auflegen  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "yān"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "臙",
+        "𧹬",
+        "咽"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "80ED",
+            "3511251341"
+        ],
+        "char_code_wubi": "eldy",
+        "char_code_cangjie": "bwk",
+        "char_code_zhengma": "qjd",
+        "char_code_sijiao": "76200"
+    },
+    "general_unicode": "基本区 U+80ED",
+    "general_bs_code": "3511251341"
+}

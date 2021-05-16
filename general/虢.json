@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "name of ancient feudal State in Shanxi and Hunan"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 Guo  (Eig, Fam)"
+        }
+    ],
+    "general_pinyins": [
+        "guó"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "虍",
+        "non_radical_sn": "9",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣂭",
+        "郭",
+        "𧇧"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8662",
+            "344312421531535"
+        ],
+        "char_code_wubi": "efhm|efhw",
+        "char_code_cangjie": "biypn",
+        "char_code_zhengma": "pvdi",
+        "char_code_sijiao": "21317"
+    },
+    "general_unicode": "基本区 U+8662",
+    "general_bs_code": "344312421531535"
+}

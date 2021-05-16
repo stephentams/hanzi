@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "glass"
+        },
+        {
+            "language": "法语",
+            "explanation": "verre (matière)​"
+        }
+    ],
+    "general_pinyins": [
+        "bō"
+    ],
+    "general_zhuyins": [
+        "ㄅㄛ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "73BB",
+            "112153254"
+        ],
+        "char_code_wubi": "ghcy|gby",
+        "char_code_cangjie": "mgdhe",
+        "char_code_zhengma": "cxi",
+        "char_code_sijiao": "14147"
+    },
+    "general_unicode": "基本区 U+73BB",
+    "general_bs_code": "112153254"
+}

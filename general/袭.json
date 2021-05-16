@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "raid, attack; inherit"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 beerben, erben ,Raubzug  (S)​,Xi  (Eig, Fam)"
+        }
+    ],
+    "general_pinyins": [
+        "xí"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "衣",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "襲"
+    ],
+    "general_ytz": [
+        "襲",
+        "㦻",
+        "𥫄",
+        "𧟛",
+        "𧟟"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "88AD",
+            "13534413534"
+        ],
+        "char_code_wubi": "dxye",
+        "char_code_cangjie": "ipyhv",
+        "char_code_zhengma": "gmsr",
+        "char_code_sijiao": "43732"
+    },
+    "general_unicode": "基本区 U+88AD",
+    "general_bs_code": "13534413534"
+}

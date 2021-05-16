@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "execute, kill, put to death; punish"
+        },
+        {
+            "language": "德语",
+            "explanation": "strafen, bestrafen"
+        },
+        {
+            "language": "法语",
+            "explanation": "mettre à mort,critiquer et punir"
+        }
+    ],
+    "general_pinyins": [
+        "zhū"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "誅"
+    ],
+    "general_ytz": [
+        "誅",
+        "㦵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BDB",
+            "45311234"
+        ],
+        "char_code_wubi": "yriy|ytfy",
+        "char_code_cangjie": "ivhjd",
+        "char_code_zhengma": "smko",
+        "char_code_sijiao": "35790"
+    },
+    "general_unicode": "基本区 U+8BDB",
+    "general_bs_code": "45311234"
+}

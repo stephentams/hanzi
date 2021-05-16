@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "swelling; the  Gulf of Hopei (Hebei)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bras de mer"
+        }
+    ],
+    "general_pinyins": [
+        "bó"
+    ],
+    "general_zhuyins": [
+        "ㄅㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㴾",
+        "勃",
+        "浡",
+        "郣"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6E24",
+            "441124552153"
+        ],
+        "char_code_wubi": "ifpl|ifpe",
+        "char_code_cangjie": "ejds",
+        "char_code_zhengma": "veyy",
+        "char_code_sijiao": "34127"
+    },
+    "general_unicode": "基本区 U+6E24",
+    "general_bs_code": "441124552153"
+}

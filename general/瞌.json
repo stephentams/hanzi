@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "doze off; sleepy"
+        },
+        {
+            "language": "德语",
+            "explanation": "schläfrig"
+        },
+        {
+            "language": "法语",
+            "explanation": "somnoler,sommeil"
+        }
+    ],
+    "general_pinyins": [
+        "kē"
+    ],
+    "general_zhuyins": [
+        "ㄎㄜ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "10",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䐦"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "778C",
+            "251111215425221"
+        ],
+        "char_code_wubi": "hfcl",
+        "char_code_cangjie": "bugit",
+        "char_code_zhengma": "lbzl",
+        "char_code_sijiao": "64012"
+    },
+    "general_unicode": "基本区 U+778C",
+    "general_bs_code": "251111215425221"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sound of crashing stones, bang!"
+        },
+        {
+            "language": "德语",
+            "explanation": "donnern, Donner, \"Peng!\"  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "pan"
+        }
+    ],
+    "general_pinyins": [
+        "pēng"
+    ],
+    "general_zhuyins": [
+        "ㄆㄥ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "砯",
+        "硑",
+        "𥕱",
+        "𨺀"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7830",
+            "1325114312"
+        ],
+        "char_code_wubi": "dguh|dguf",
+        "char_code_cangjie": "mrmfj",
+        "char_code_zhengma": "gaua",
+        "char_code_sijiao": "11649"
+    },
+    "general_unicode": "基本区 U+7830",
+    "general_bs_code": "1325114312"
+}

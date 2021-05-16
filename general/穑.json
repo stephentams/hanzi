@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "farm, harvest grain; stingy"
+        },
+        {
+            "language": "法语",
+            "explanation": "récolter"
+        }
+    ],
+    "general_pinyins": [
+        "sè"
+    ],
+    "general_zhuyins": [
+        "ㄙㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "11",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "穡"
+    ],
+    "general_ytz": [
+        "穡",
+        "穯",
+        "𢋦",
+        "𥢺",
+        "𥣱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7A51",
+            "3123412431252511"
+        ],
+        "char_code_wubi": "tfuk",
+        "char_code_cangjie": "hdgcw",
+        "char_code_zhengma": "mfjj",
+        "char_code_sijiao": "24961"
+    },
+    "general_unicode": "基本区 U+7A51",
+    "general_bs_code": "3123412431252511"
+}

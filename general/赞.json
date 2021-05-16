@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "help, support, assist, aid"
+        },
+        {
+            "language": "德语",
+            "explanation": "superduper (Netzsleng)​  (Int)​,fördern, beschirmen  (V)​,fördern, stützen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "soutenir,louer (féliciter)​"
+        }
+    ],
+    "general_pinyins": [
+        "zàn"
+    ],
+    "general_zhuyins": [
+        "ㄗㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "12",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "贊"
+    ],
+    "general_ytz": [
+        "贊",
+        "賛",
+        "讚"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D5E",
+            "3121353121352534"
+        ],
+        "char_code_wubi": "tfqm",
+        "char_code_cangjie": "hubo",
+        "char_code_zhengma": "mbrl",
+        "char_code_sijiao": "24802"
+    },
+    "general_unicode": "基本区 U+8D5E",
+    "general_bs_code": "3121353121352534"
+}

@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tray, plate, dish; examine"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schale, Platte, Teller"
+        },
+        {
+            "language": "法语",
+            "explanation": "assiette,plateau,enrouler,construire,partie (d'échecs)​,(nom de famille)​,(classificateur pour les objets en spirale ou susceptibles de tourner : serpentins, moulins, bandes magnétiques, etc.)​"
+        }
+    ],
+    "general_pinyins": [
+        "pán"
+    ],
+    "general_zhuyins": [
+        "ㄆㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "皿",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "盤"
+    ],
+    "general_ytz": [
+        "盤",
+        "鎜",
+        "洀",
+        "𡘃",
+        "𣔚",
+        "𥂏"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "76D8",
+            "33541425221"
+        ],
+        "char_code_wubi": "telf|tulf",
+        "char_code_cangjie": "hybt",
+        "char_code_zhengma": "pylk",
+        "char_code_sijiao": "27102"
+    },
+    "general_unicode": "基本区 U+76D8",
+    "general_bs_code": "33541425221"
+}

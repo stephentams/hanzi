@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to strike; to take in the hand"
+        },
+        {
+            "language": "德语",
+            "explanation": "drücken, treffen  (V)"
+        }
+    ],
+    "general_pinyins": [
+        "kē",
+        "è"
+    ],
+    "general_zhuyins": [
+        "ㄎㄜ",
+        "ㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6415",
+            "1211215425221"
+        ],
+        "char_code_wubi": "rfcl",
+        "char_code_cangjie": "qgit",
+        "char_code_zhengma": "dbzl",
+        "char_code_sijiao": "54012"
+    },
+    "general_unicode": "基本区 U+6415",
+    "general_bs_code": "1211215425221"
+}

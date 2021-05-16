@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "name of a mountain"
+        }
+    ],
+    "general_pinyins": [
+        "hào"
+    ],
+    "general_zhuyins": [
+        "ㄏㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "37BB",
+            "25225115"
+        ],
+        "char_code_wubi": "mkgn",
+        "char_code_cangjie": "urms",
+        "char_code_zhengma": "llaz",
+        "char_code_sijiao": "22027"
+    },
+    "general_unicode": "扩展A U+37BB",
+    "general_bs_code": "25225115"
+}

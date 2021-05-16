@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tweezers, forceps, pincers"
+        },
+        {
+            "language": "德语",
+            "explanation": "flitzen, kneifen ,Geburtszange, Zange  (S, Med)"
+        },
+        {
+            "language": "法语",
+            "explanation": "petites pinces,pincettes,mouchettes"
+        }
+    ],
+    "general_pinyins": [
+        "niè"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "釒",
+        "non_radical_sn": "18",
+        "total_sn": "26"
+    },
+    "general_stc": [
+        "镊"
+    ],
+    "general_ytz": [
+        "籋",
+        "鉨",
+        "鉩",
+        "銸",
+        "鑈",
+        "镊",
+        "𥬞",
+        "𥬬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9477",
+            "34112431122111122111122111"
+        ],
+        "char_code_wubi": "qbbb",
+        "char_code_cangjie": "csjj",
+        "char_code_zhengma": "pccc",
+        "char_code_sijiao": "81141"
+    },
+    "general_unicode": "基本区 U+9477",
+    "general_bs_code": "34112431122111122111122111"
+}

@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sole (of the foot)"
+        },
+        {
+            "language": "法语",
+            "explanation": "fouler"
+        }
+    ],
+    "general_pinyins": [
+        "zhí"
+    ],
+    "general_zhuyins": [
+        "ㄓˊ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "5",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "蹠"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8DD6",
+            "251212113251"
+        ],
+        "char_code_wubi": "khdg",
+        "char_code_cangjie": "rmmr",
+        "char_code_zhengma": "jig",
+        "char_code_sijiao": "61162"
+    },
+    "general_unicode": "基本区 U+8DD6",
+    "general_bs_code": "251212113251"
+}

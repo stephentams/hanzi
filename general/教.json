@@ -1,0 +1,57 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "teach, class"
+        },
+        {
+            "language": "德语",
+            "explanation": "lehren, unterrichten, beibringen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "enseigner,apprendre qch à qqn,religion,enseignement,faire,provoquer,dire"
+        }
+    ],
+    "general_pinyins": [
+        "jiào",
+        "jiāo"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄠˋ",
+        "ㄐㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "攵",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "學",
+        "敎",
+        "斅",
+        "𠭂",
+        "𡥉",
+        "𢺽",
+        "𢻍",
+        "𢼂",
+        "𢼅",
+        "𤕝",
+        "𧧿",
+        "𢼬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6559",
+            "12135213134"
+        ],
+        "char_code_wubi": "ftbt",
+        "char_code_cangjie": "jdok",
+        "char_code_zhengma": "bmym",
+        "char_code_sijiao": "48440"
+    },
+    "general_unicode": "基本区 U+6559",
+    "general_bs_code": "12135213134"
+}

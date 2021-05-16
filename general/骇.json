@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "terrify, frighten, scare; shock"
+        },
+        {
+            "language": "德语",
+            "explanation": "erschrecken, in Schrecken versetzen ,erstaunen, in Erstaunen setzen"
+        },
+        {
+            "language": "法语",
+            "explanation": "effrayer,s'effrayer"
+        }
+    ],
+    "general_pinyins": [
+        "hài"
+    ],
+    "general_zhuyins": [
+        "ㄏㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "马",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "駭"
+    ],
+    "general_ytz": [
+        "駭"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A87",
+            "551415334"
+        ],
+        "char_code_wubi": "cynw|cgyw",
+        "char_code_cangjie": "nmyvo",
+        "char_code_zhengma": "xszo",
+        "char_code_sijiao": "70182"
+    },
+    "general_unicode": "基本区 U+9A87",
+    "general_bs_code": "551415334"
+}

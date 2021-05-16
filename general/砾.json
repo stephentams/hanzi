@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "gravel, pebbles"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kies  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "gravier,pierraille,cailloux"
+        }
+    ],
+    "general_pinyins": [
+        "lì"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "礫"
+    ],
+    "general_ytz": [
+        "礫",
+        "𥕴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "783E",
+            "1325135234"
+        ],
+        "char_code_wubi": "dqiy|dtni",
+        "char_code_cangjie": "mrhvd",
+        "char_code_zhengma": "grko",
+        "char_code_sijiao": "12694"
+    },
+    "general_unicode": "基本区 U+783E",
+    "general_bs_code": "1325135234"
+}

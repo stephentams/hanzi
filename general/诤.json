@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to expostulate; to remonstrate"
+        },
+        {
+            "language": "德语",
+            "explanation": "verwarnen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "avertir franchement"
+        }
+    ],
+    "general_pinyins": [
+        "zhèng"
+    ],
+    "general_zhuyins": [
+        "ㄓㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "諍"
+    ],
+    "general_ytz": [
+        "諍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BE4",
+            "45355112"
+        ],
+        "char_code_wubi": "yqvh",
+        "char_code_cangjie": "ivnsd",
+        "char_code_zhengma": "srxb",
+        "char_code_sijiao": "37757"
+    },
+    "general_unicode": "基本区 U+8BE4",
+    "general_bs_code": "45355112"
+}

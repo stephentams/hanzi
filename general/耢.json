@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a kind of farm tool"
+        }
+    ],
+    "general_pinyins": [
+        "lào"
+    ],
+    "general_zhuyins": [
+        "ㄌㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "耒",
+        "non_radical_sn": "7",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "耮"
+    ],
+    "general_ytz": [
+        "耮",
+        "𥢒"
+    ],
+    "general_structure": "左右结构；“耒”起笔是横；不是撇",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8022",
+            "1112341224553"
+        ],
+        "char_code_wubi": "dial|fsae",
+        "char_code_cangjie": "qdtbs",
+        "char_code_zhengma": "ckwy",
+        "char_code_sijiao": "54927"
+    },
+    "general_unicode": "基本区 U+8022",
+    "general_bs_code": "1112341224553"
+}

@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "the hours from 9 to 11; 6th terrestrial branch"
+        },
+        {
+            "language": "德语",
+            "explanation": "6. Tier im chin. Tierkreis - Schlange 法语 sixième rameau terrestre,de 9h à 11h,quatrième mois solaire (5 mai-5 juin)​,année du serpent"
+        }
+    ],
+    "general_pinyins": [
+        "sì"
+    ],
+    "general_zhuyins": [
+        "ㄙˋ"
+    ],
+    "general_radical": {
+        "radical": "巳",
+        "non_radical_sn": "0",
+        "total_sn": "3"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "已"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5DF3",
+            "515"
+        ],
+        "char_code_wubi": "nngn",
+        "char_code_cangjie": "ru",
+        "char_code_zhengma": "yyb",
+        "char_code_sijiao": "77717"
+    },
+    "general_unicode": "基本区 U+5DF3",
+    "general_bs_code": "515"
+}

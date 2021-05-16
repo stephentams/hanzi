@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "usurp"
+        },
+        {
+            "language": "德语",
+            "explanation": "mit Gewalt an sich reißen"
+        }
+    ],
+    "general_pinyins": [
+        "cuàn"
+    ],
+    "general_zhuyins": [
+        "ㄘㄨㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "10",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "簒",
+        "𢸥",
+        "窜",
+        "𥱕"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7BE1",
+            "3143142511113454"
+        ],
+        "char_code_wubi": "thdc",
+        "char_code_cangjie": "hbui",
+        "char_code_zhengma": "mlgz",
+        "char_code_sijiao": "88732"
+    },
+    "general_unicode": "基本区 U+7BE1",
+    "general_bs_code": "3143142511113454"
+}

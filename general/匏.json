@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "gourd; musical instrument"
+        },
+        {
+            "language": "德语",
+            "explanation": "Pao  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "calebasse"
+        }
+    ],
+    "general_pinyins": [
+        "páo"
+    ],
+    "general_zhuyins": [
+        "ㄆㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "勹",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "包",
+        "瓟",
+        "鞄"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "530F",
+            "13411535515"
+        ],
+        "char_code_wubi": "dfnn",
+        "char_code_cangjie": "kspru",
+        "char_code_zhengma": "gdzr",
+        "char_code_sijiao": "47212"
+    },
+    "general_unicode": "基本区 U+530F",
+    "general_bs_code": "13411535515"
+}

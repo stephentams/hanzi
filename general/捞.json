@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "scoop out of water; dredge, fish"
+        },
+        {
+            "language": "德语",
+            "explanation": "auffischen  (V)​,ergattern"
+        },
+        {
+            "language": "法语",
+            "explanation": "repêcher,tirer profit"
+        }
+    ],
+    "general_pinyins": [
+        "lāo"
+    ],
+    "general_zhuyins": [
+        "ㄌㄠ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "撈"
+    ],
+    "general_ytz": [
+        "撈"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "635E",
+            "1211224553"
+        ],
+        "char_code_wubi": "rapl|rape",
+        "char_code_cangjie": "qtbs",
+        "char_code_zhengma": "dewy",
+        "char_code_sijiao": "54027"
+    },
+    "general_unicode": "基本区 U+635E",
+    "general_bs_code": "1211224553"
+}

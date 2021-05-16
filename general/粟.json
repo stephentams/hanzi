@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "unhusked millet; grain"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fadenlauf, Getreide  (S)​,Hirse  (S)​,Su  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "millet"
+        }
+    ],
+    "general_pinyins": [
+        "sù"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "米",
+        "non_radical_sn": "6",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "栗",
+        "𠧼",
+        "𥟫",
+        "𥸫",
+        "𥹟",
+        "𥻆",
+        "𥾄",
+        "䅇"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7C9F",
+            "125221431234"
+        ],
+        "char_code_wubi": "sou",
+        "char_code_cangjie": "mwfd",
+        "char_code_zhengma": "fjuf",
+        "char_code_sijiao": "10904"
+    },
+    "general_unicode": "基本区 U+7C9F",
+    "general_bs_code": "125221431234"
+}

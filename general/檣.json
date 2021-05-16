@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mast, yard-arm, boom"
+        },
+        {
+            "language": "德语",
+            "explanation": "boomen, donnern ,Mast  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "qiáng"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "13",
+        "total_sn": "17"
+    },
+    "general_stc": [
+        "樯"
+    ],
+    "general_ytz": [
+        "樯",
+        "艢",
+        "𣝿",
+        "𣞱",
+        "𣞸",
+        "𤕽"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6AA3",
+            "12341234341252511"
+        ],
+        "char_code_wubi": "sfwk",
+        "char_code_cangjie": "dgow",
+        "char_code_zhengma": "fbjj",
+        "char_code_sijiao": "44961"
+    },
+    "general_unicode": "基本区 U+6AA3",
+    "general_bs_code": "12341234341252511"
+}

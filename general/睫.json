@@ -1,0 +1,61 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "eyelashes"
+        },
+        {
+            "language": "德语",
+            "explanation": "Wimper  (S, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cil"
+        }
+    ],
+    "general_pinyins": [
+        "jié"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䀹",
+        "𣭶",
+        "𣮌",
+        "𣮍",
+        "𣮑",
+        "𣮒",
+        "𣮣",
+        "𣯥",
+        "𣯮",
+        "𣯰",
+        "𣰍",
+        "𣰞",
+        "𥇾",
+        "𥈤",
+        "𥊆",
+        "𥊩",
+        "𥍉",
+        "𥇒"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "776B",
+            "2511115112134"
+        ],
+        "char_code_wubi": "hgvh",
+        "char_code_cangjie": "bujlo",
+        "char_code_zhengma": "laxi",
+        "char_code_sijiao": "65081"
+    },
+    "general_unicode": "基本区 U+776B",
+    "general_bs_code": "2511115112134"
+}

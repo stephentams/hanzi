@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to stumble and fall prone stiff in death"
+        },
+        {
+            "language": "德语",
+            "explanation": "Leiche, Leichnam  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "dégringoler,tomber raide-mort"
+        }
+    ],
+    "general_pinyins": [
+        "bó"
+    ],
+    "general_zhuyins": [
+        "ㄅㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "8",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "仆",
+        "䟔",
+        "殕",
+        "䞳"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E23",
+            "251212141431251"
+        ],
+        "char_code_wubi": "khuk",
+        "char_code_cangjie": "rmytr",
+        "char_code_zhengma": "jisj",
+        "char_code_sijiao": "60161"
+    },
+    "general_unicode": "基本区 U+8E23",
+    "general_bs_code": "251212141431251"
+}

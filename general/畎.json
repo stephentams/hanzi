@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a drain between fields, irrigation; to flow"
+        },
+        {
+            "language": "法语",
+            "explanation": "canal"
+        }
+    ],
+    "general_pinyins": [
+        "quǎn"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "田",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "圳",
+        "甽",
+        "𡿨",
+        "𤰕",
+        "𤰝",
+        "𤱶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "754E",
+            "251211344"
+        ],
+        "char_code_wubi": "ldy",
+        "char_code_cangjie": "wik",
+        "char_code_zhengma": "kigs",
+        "char_code_sijiao": "63084"
+    },
+    "general_unicode": "基本区 U+754E",
+    "general_bs_code": "251211344"
+}

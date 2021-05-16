@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a dark, sallow colour"
+        },
+        {
+            "language": "德语",
+            "explanation": "dunkel, Dunkelheit  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "brun"
+        }
+    ],
+    "general_pinyins": [
+        "lí"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "黑",
+        "non_radical_sn": "8",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䵩",
+        "黎",
+        "𩧋",
+        "𪑢",
+        "𪑤",
+        "𪒁",
+        "𪒅",
+        "𪒚",
+        "𪒨",
+        "𪒺"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9EE7",
+            "31234353254312114444"
+        ],
+        "char_code_wubi": "tqto",
+        "char_code_cangjie": "hhwgf",
+        "char_code_zhengma": "mfbu",
+        "char_code_sijiao": "27331"
+    },
+    "general_unicode": "基本区 U+9EE7",
+    "general_bs_code": "31234353254312114444"
+}

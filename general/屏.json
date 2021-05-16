@@ -1,0 +1,55 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "folding screen, shield"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schirm"
+        },
+        {
+            "language": "法语",
+            "explanation": "écran,paravent,retenir (sa respiration)​,rejeter,abandonner"
+        }
+    ],
+    "general_pinyins": [
+        "píng",
+        "bǐng"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧㄥˊ",
+        "ㄅㄧㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "尸",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "偋",
+        "姘",
+        "屛",
+        "幈",
+        "摒",
+        "𡲄",
+        "𡲓",
+        "庰",
+        "𠌸",
+        "𢉟"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5C4F",
+            "513431132"
+        ],
+        "char_code_wubi": "nuak",
+        "char_code_cangjie": "stt",
+        "char_code_zhengma": "xmue",
+        "char_code_sijiao": "77241"
+    },
+    "general_unicode": "基本区 U+5C4F",
+    "general_bs_code": "513431132"
+}

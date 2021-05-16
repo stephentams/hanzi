@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pillar, post; support; lean on"
+        },
+        {
+            "language": "德语",
+            "explanation": "Betonpfeiler  (S)​,Säule  (S)​,Zhu  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "pilier,poteau"
+        }
+    ],
+    "general_pinyins": [
+        "zhù"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "砫"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "67F1",
+            "123441121"
+        ],
+        "char_code_wubi": "sygg",
+        "char_code_cangjie": "dyg",
+        "char_code_zhengma": "fsc",
+        "char_code_sijiao": "40914"
+    },
+    "general_unicode": "基本区 U+67F1",
+    "general_bs_code": "123441121"
+}

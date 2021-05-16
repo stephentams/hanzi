@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "drizzling rain; dark, obscure"
+        },
+        {
+            "language": "德语",
+            "explanation": "träufeln, nieseln"
+        }
+    ],
+    "general_pinyins": [
+        "míng"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "冥"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6E9F",
+            "4414525114134"
+        ],
+        "char_code_wubi": "ipju",
+        "char_code_cangjie": "ebac",
+        "char_code_zhengma": "vwso",
+        "char_code_sijiao": "37180"
+    },
+    "general_unicode": "基本区 U+6E9F",
+    "general_bs_code": "4414525114134"
+}

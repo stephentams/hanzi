@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dysentery"
+        },
+        {
+            "language": "德语",
+            "explanation": "Dysenterie, Ruhr  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "diarrhée,dysenterie"
+        }
+    ],
+    "general_pinyins": [
+        "lì"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "利",
+        "鬁",
+        "痢"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "75E2",
+            "413413123422"
+        ],
+        "char_code_wubi": "utjk",
+        "char_code_cangjie": "khdn",
+        "char_code_zhengma": "tmkd",
+        "char_code_sijiao": "00120"
+    },
+    "general_unicode": "基本区 U+75E2",
+    "general_bs_code": "413413123422"
+}

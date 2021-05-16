@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "kiln; coal mine pit"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ofen  (S)​,Trockenofen  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "yáo"
+    ],
+    "general_zhuyins": [
+        "ㄧㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "穴",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "窯"
+    ],
+    "general_ytz": [
+        "䆙",
+        "匋",
+        "窯",
+        "窰",
+        "𡏟",
+        "𥥲",
+        "𥧟",
+        "𥨭"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7A91",
+            "44534311252"
+        ],
+        "char_code_wubi": "pwrm|pwtb",
+        "char_code_cangjie": "jcoju",
+        "char_code_zhengma": "woez",
+        "char_code_sijiao": "30772"
+    },
+    "general_unicode": "基本区 U+7A91",
+    "general_bs_code": "44534311252"
+}

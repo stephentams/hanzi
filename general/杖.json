@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cane, walking stick"
+        },
+        {
+            "language": "德语",
+            "explanation": "Stock, Stab, Knüppel ,Bastonade  (S)​,jemanden mit einem Stock schlagen"
+        },
+        {
+            "language": "法语",
+            "explanation": "canne,bâton"
+        }
+    ],
+    "general_pinyins": [
+        "zhàng"
+    ],
+    "general_zhuyins": [
+        "ㄓㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "3",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "丈",
+        "𨥅",
+        "杖"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6756",
+            "1234134"
+        ],
+        "char_code_wubi": "sdyy",
+        "char_code_cangjie": "djk",
+        "char_code_zhengma": "faos",
+        "char_code_sijiao": "45900"
+    },
+    "general_unicode": "基本区 U+6756",
+    "general_bs_code": "1234134"
+}

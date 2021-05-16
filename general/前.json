@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "in front, forward; preceding"
+        },
+        {
+            "language": "德语",
+            "explanation": "vor, vorne, bevor"
+        },
+        {
+            "language": "法语",
+            "explanation": "avant,devant,précédent,ancien,pré-"
+        }
+    ],
+    "general_pinyins": [
+        "qián"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "刂",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "偂",
+        "歬",
+        "𠝣",
+        "𣥑",
+        "剪"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "524D",
+            "431251122"
+        ],
+        "char_code_wubi": "uejj",
+        "char_code_cangjie": "tbln",
+        "char_code_zhengma": "uaqk",
+        "char_code_sijiao": "80221"
+    },
+    "general_unicode": "基本区 U+524D",
+    "general_bs_code": "431251122"
+}

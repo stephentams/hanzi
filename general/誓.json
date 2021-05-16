@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "swear, pledge; oath"
+        },
+        {
+            "language": "德语",
+            "explanation": "Eid, Schwur, Gelöbnis  (S)​,geloben, schwören  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "jurer,prêter serment"
+        }
+    ],
+    "general_pinyins": [
+        "shì"
+    ],
+    "general_zhuyins": [
+        "ㄕˋ"
+    ],
+    "general_radical": {
+        "radical": "言",
+        "non_radical_sn": "7",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䤱",
+        "𣂯",
+        "𣂶"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8A93",
+            "12133124111251"
+        ],
+        "char_code_wubi": "rryf",
+        "char_code_cangjie": "qlymr",
+        "char_code_zhengma": "dps",
+        "char_code_sijiao": "52601"
+    },
+    "general_unicode": "基本区 U+8A93",
+    "general_bs_code": "12133124111251"
+}

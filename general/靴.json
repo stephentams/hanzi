@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "boots"
+        },
+        {
+            "language": "德语",
+            "explanation": "Stiefel  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "xuē"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄝ"
+    ],
+    "general_radical": {
+        "radical": "革",
+        "non_radical_sn": "4",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "鞾",
+        "韡",
+        "𡲲",
+        "𩋖",
+        "𩋾",
+        "𩍇",
+        "𩍍",
+        "𩎁"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9774",
+            "1221251123235"
+        ],
+        "char_code_wubi": "afwx",
+        "char_code_cangjie": "tjop",
+        "char_code_zhengma": "eenr",
+        "char_code_sijiao": "44510"
+    },
+    "general_unicode": "基本区 U+9774",
+    "general_bs_code": "1221251123235"
+}

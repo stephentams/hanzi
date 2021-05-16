@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "chronic disease, chronic illness; sorrow"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gewissensbisse"
+        },
+        {
+            "language": "法语",
+            "explanation": "remords"
+        }
+    ],
+    "general_pinyins": [
+        "jiù"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "3",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㝌",
+        "𤶔",
+        "𤶫"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "759A",
+            "41341354"
+        ],
+        "char_code_wubi": "uqyi",
+        "char_code_cangjie": "kno",
+        "char_code_zhengma": "trs",
+        "char_code_sijiao": "00187"
+    },
+    "general_unicode": "基本区 U+759A",
+    "general_bs_code": "41341354"
+}

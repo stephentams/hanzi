@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a pure black horse; a pair of horses"
+        },
+        {
+            "language": "德语",
+            "explanation": "Rappe (schwarzes Pferd mit schwarzer Mähne)​  (S, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cheval noir"
+        }
+    ],
+    "general_pinyins": [
+        "lí"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "马",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "驪"
+    ],
+    "general_ytz": [
+        "驪",
+        "𩣫"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A8A",
+            "5511254254"
+        ],
+        "char_code_wubi": "cgmy|cggy",
+        "char_code_cangjie": "nmmbb",
+        "char_code_zhengma": "xall",
+        "char_code_sijiao": "71127"
+    },
+    "general_unicode": "基本区 U+9A8A",
+    "general_bs_code": "5511254254"
+}

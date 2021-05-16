@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bamboo basket; bamboo frame"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bambuskäfig, Bambuskorb  (S)​,etw. verdecken, überdecken, überstülpen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "attelle en bambou pour faire sécher les habits"
+        }
+    ],
+    "general_pinyins": [
+        "gōu"
+    ],
+    "general_zhuyins": [
+        "ㄍㄡ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "10",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "簼",
+        "𥯿",
+        "𥱏",
+        "𥲙",
+        "𥵡"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7BDD",
+            "3143141122125211"
+        ],
+        "char_code_wubi": "tfjf|tamf",
+        "char_code_cangjie": "httb",
+        "char_code_zhengma": "melb",
+        "char_code_sijiao": "88447"
+    },
+    "general_unicode": "基本区 U+7BDD",
+    "general_bs_code": "3143141122125211"
+}

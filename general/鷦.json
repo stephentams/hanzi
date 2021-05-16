@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wren"
+        },
+        {
+            "language": "法语",
+            "explanation": "fauvette"
+        }
+    ],
+    "general_pinyins": [
+        "jiāo"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "鳥",
+        "non_radical_sn": "12",
+        "total_sn": "23"
+    },
+    "general_stc": [
+        "鹪"
+    ],
+    "general_ytz": [
+        "鹪",
+        "𩾗",
+        "𪆄",
+        "𪆅",
+        "𪆔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9DE6",
+            "32411121444432511154444"
+        ],
+        "char_code_wubi": "wyoo",
+        "char_code_cangjie": "ofhaf",
+        "char_code_zhengma": "niur",
+        "char_code_sijiao": "27327"
+    },
+    "general_unicode": "基本区 U+9DE6",
+    "general_bs_code": "32411121444432511154444"
+}

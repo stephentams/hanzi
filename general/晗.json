@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pre-dawn"
+        }
+    ],
+    "general_pinyins": [
+        "hán"
+    ],
+    "general_zhuyins": [
+        "ㄏㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6657",
+            "25113445251"
+        ],
+        "char_code_wubi": "jwyk",
+        "char_code_cangjie": "aoir",
+        "char_code_zhengma": "koxj",
+        "char_code_sijiao": "68062"
+    },
+    "general_unicode": "基本区 U+6657",
+    "general_bs_code": "25113445251"
+}

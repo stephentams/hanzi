@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "kind of snail with spiral shell"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schnecke  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "coquille en spirale"
+        }
+    ],
+    "general_pinyins": [
+        "sī"
+    ],
+    "general_zhuyins": [
+        "ㄙ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "6",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "螄"
+    ],
+    "general_ytz": [
+        "螄",
+        "𧏍",
+        "𧋬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "86F3",
+            "251214231252"
+        ],
+        "char_code_wubi": "jjgh",
+        "char_code_cangjie": "lillb",
+        "char_code_zhengma": "ikal",
+        "char_code_sijiao": "51127"
+    },
+    "general_unicode": "基本区 U+86F3",
+    "general_bs_code": "251214231252"
+}

@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "thin hairs; fine hairs"
+        }
+    ],
+    "general_pinyins": [
+        "fēi"
+    ],
+    "general_zhuyins": [
+        "ㄈㄟ"
+    ],
+    "general_radical": {
+        "radical": "非",
+        "non_radical_sn": "12",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "靟"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4A41",
+            "21112111311531153115"
+        ],
+        "char_code_wubi": "djdn|hdhe",
+        "char_code_cangjie": "lyhuu",
+        "char_code_zhengma": "kcmm",
+        "char_code_sijiao": "11714"
+    },
+    "general_unicode": "扩展A U+4A41",
+    "general_bs_code": "21112111311531153115"
+}

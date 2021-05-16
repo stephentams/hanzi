@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "watch, spy; overlook; look down"
+        },
+        {
+            "language": "德语",
+            "explanation": "Glanz  (S)​,Vogelperspektive  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "kàn"
+    ],
+    "general_zhuyins": [
+        "ㄎㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "11",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "矙",
+        "𥍓"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "77B0",
+            "2511151221113134"
+        ],
+        "char_code_wubi": "hnbt",
+        "char_code_cangjie": "bumjk",
+        "char_code_zhengma": "lxcm",
+        "char_code_sijiao": "68040"
+    },
+    "general_unicode": "基本区 U+77B0",
+    "general_bs_code": "2511151221113134"
+}

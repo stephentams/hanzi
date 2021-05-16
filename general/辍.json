@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stop, suspend, halt"
+        },
+        {
+            "language": "德语",
+            "explanation": "mit etw. aufhören; aussetzen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cesser,interrompre"
+        }
+    ],
+    "general_pinyins": [
+        "chuò"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "车",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "輟"
+    ],
+    "general_ytz": [
+        "輟",
+        "𨌸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8F8D",
+            "152154545454"
+        ],
+        "char_code_wubi": "lccc",
+        "char_code_cangjie": "kqeee",
+        "char_code_zhengma": "hexx",
+        "char_code_sijiao": "47547"
+    },
+    "general_unicode": "基本区 U+8F8D",
+    "general_bs_code": "152154545454"
+}

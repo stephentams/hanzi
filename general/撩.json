@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lift up, raise; leave, depart"
+        },
+        {
+            "language": "德语",
+            "explanation": "heranziehen, anhalten ,veralbern, auf den Arm nehmen"
+        },
+        {
+            "language": "法语",
+            "explanation": "lever,relever,soulever,répandre(de l'eau)​,exciter,provoquer,saisir,soulever,exciter"
+        }
+    ],
+    "general_pinyins": [
+        "liāo",
+        "liáo"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄠ",
+        "ㄌㄧㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "撈",
+        "𢿞",
+        "𢸘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "64A9",
+            "121134432511234"
+        ],
+        "char_code_wubi": "rdui",
+        "char_code_cangjie": "qkcf",
+        "char_code_zhengma": "dgkk",
+        "char_code_sijiao": "54096"
+    },
+    "general_unicode": "基本区 U+64A9",
+    "general_bs_code": "121134432511234"
+}

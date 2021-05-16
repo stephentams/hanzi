@@ -1,0 +1,57 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "soak, immerse, dip, percolate"
+        },
+        {
+            "language": "德语",
+            "explanation": "durchtränken, durchdringen"
+        },
+        {
+            "language": "法语",
+            "explanation": "tremper,imbiber"
+        }
+    ],
+    "general_pinyins": [
+        "jìn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㴆",
+        "䆮",
+        "寖",
+        "湛",
+        "濅",
+        "𡩻",
+        "𡫏",
+        "𣷽",
+        "𣹦",
+        "𣹰",
+        "𣺎",
+        "𣼡",
+        "𣽧",
+        "𥧲"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6D78",
+            "4415114554"
+        ],
+        "char_code_wubi": "ivpc",
+        "char_code_cangjie": "esme",
+        "char_code_zhengma": "vxwx",
+        "char_code_sijiao": "37147"
+    },
+    "general_unicode": "基本区 U+6D78",
+    "general_bs_code": "4415114554"
+}

@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "surplus, excess, remainder"
+        },
+        {
+            "language": "德语",
+            "explanation": "übrig (geblieben)​, restlich  (Adj)"
+        }
+    ],
+    "general_pinyins": [
+        "yú"
+    ],
+    "general_zhuyins": [
+        "ㄩˊ"
+    ],
+    "general_radical": {
+        "radical": "饣",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "余",
+        "餘"
+    ],
+    "general_ytz": [
+        "餘",
+        "𠎳",
+        "𩟳"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9980",
+            "3553411234"
+        ],
+        "char_code_wubi": "qnwt|qnws",
+        "char_code_cangjie": "nvomd",
+        "char_code_zhengma": "oxom",
+        "char_code_sijiao": "28794"
+    },
+    "general_unicode": "基本区 U+9980",
+    "general_bs_code": "3553411234"
+}

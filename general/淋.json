@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "drip, soak, drench; perfectly"
+        },
+        {
+            "language": "德语",
+            "explanation": "begießen (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "filtrer,arroser,tremper"
+        }
+    ],
+    "general_pinyins": [
+        "lín",
+        "lìn"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄣˊ",
+        "ㄌㄧㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "痳",
+        "𩱬",
+        "霖",
+        "淋"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6DCB",
+            "44112341234"
+        ],
+        "char_code_wubi": "issy",
+        "char_code_cangjie": "edd",
+        "char_code_zhengma": "vff",
+        "char_code_sijiao": "34190"
+    },
+    "general_unicode": "基本区 U+6DCB",
+    "general_bs_code": "44112341234"
+}

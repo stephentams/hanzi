@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "flag, pennant; sign; fasten"
+        },
+        {
+            "language": "德语",
+            "explanation": "kennzeichnen, Fahne  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "étendard,bannière"
+        }
+    ],
+    "general_pinyins": [
+        "zhì"
+    ],
+    "general_zhuyins": [
+        "ㄓˋ"
+    ],
+    "general_radical": {
+        "radical": "巾",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "幟"
+    ],
+    "general_ytz": [
+        "幟",
+        "旘",
+        "𢂴",
+        "𣄞"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5E1C",
+            "25225134"
+        ],
+        "char_code_wubi": "mhkw",
+        "char_code_cangjie": "lbrc",
+        "char_code_zhengma": "lijo",
+        "char_code_sijiao": "46280"
+    },
+    "general_unicode": "基本区 U+5E1C",
+    "general_bs_code": "25225134"
+}

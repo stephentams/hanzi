@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "embrace, hold in arms, enfold"
+        },
+        {
+            "language": "德语",
+            "explanation": "adoptieren (V)​,in den Armen halten, umarmen (V)​,mit den Armen umfassen (V)​,sich an etwas festhalten, zusammenhalten (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tenir,étreindre,serrer dans ses bras,enlacer,chérir,entourer"
+        }
+    ],
+    "general_pinyins": [
+        "bào"
+    ],
+    "general_zhuyins": [
+        "ㄅㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "勽",
+        "𢫎",
+        "拋",
+        "捊",
+        "菢",
+        "𢬘",
+        "𪭷"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "62B1",
+            "12135515"
+        ],
+        "char_code_wubi": "rqnn",
+        "char_code_cangjie": "qpru",
+        "char_code_zhengma": "dry",
+        "char_code_sijiao": "57012"
+    },
+    "general_unicode": "基本区 U+62B1",
+    "general_bs_code": "12135515"
+}

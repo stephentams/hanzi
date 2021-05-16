@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hold; gather with hand; choke"
+        },
+        {
+            "language": "德语",
+            "explanation": "auswählen, abpflücken ,kneifen, zwicken ,Prise  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "couper,saisir,étrangler"
+        }
+    ],
+    "general_pinyins": [
+        "qiā"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄚ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6390",
+            "12135321511"
+        ],
+        "char_code_wubi": "rqvg|rqeg",
+        "char_code_cangjie": "qnhx",
+        "char_code_zhengma": "drnb",
+        "char_code_sijiao": "57077"
+    },
+    "general_unicode": "基本区 U+6390",
+    "general_bs_code": "12135321511"
+}

@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 薑) ginger"
+        }
+    ],
+    "general_pinyins": [
+        "jiāng"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄤ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "16",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "456C",
+            "1225151251211251211"
+        ],
+        "char_code_wubi": "axgg",
+        "char_code_cangjie": "tnmm",
+        "char_code_zhengma": "eykk",
+        "char_code_sijiao": "44216"
+    },
+    "general_unicode": "扩展A U+456C",
+    "general_bs_code": "1225151251211251211"
+}

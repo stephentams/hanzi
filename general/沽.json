@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "buy and sell; inferior in quality"
+        },
+        {
+            "language": "德语",
+            "explanation": "anschaffen, einkaufen"
+        },
+        {
+            "language": "法语",
+            "explanation": "acheter,vendre,(abr.)​ ville de Tianjin"
+        }
+    ],
+    "general_pinyins": [
+        "gū"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "酤",
+        "𥂰"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6CBD",
+            "44112251"
+        ],
+        "char_code_wubi": "idg",
+        "char_code_cangjie": "ejr",
+        "char_code_zhengma": "vej",
+        "char_code_sijiao": "34160"
+    },
+    "general_unicode": "基本区 U+6CBD",
+    "general_bs_code": "44112251"
+}

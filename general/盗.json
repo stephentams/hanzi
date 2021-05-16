@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rob, steal; thief, bandit"
+        },
+        {
+            "language": "法语",
+            "explanation": "voleur,bandit,voler,dérober"
+        }
+    ],
+    "general_pinyins": [
+        "dào"
+    ],
+    "general_zhuyins": [
+        "ㄉㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "皿",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "盜"
+    ],
+    "general_ytz": [
+        "盜",
+        "𠉭",
+        "𠩼",
+        "𠪁",
+        "𤋆",
+        "𤑂",
+        "𥶎",
+        "𨹇",
+        "𨹒"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "76D7",
+            "41353425221"
+        ],
+        "char_code_wubi": "uqwl",
+        "char_code_cangjie": "iobt",
+        "char_code_zhengma": "tdrl",
+        "char_code_sijiao": "37102"
+    },
+    "general_unicode": "基本区 U+76D7",
+    "general_bs_code": "41353425221"
+}

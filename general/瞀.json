@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to look at closely; nearsighted; dim; indistinct vision"
+        },
+        {
+            "language": "德语",
+            "explanation": "dunkel, trüb"
+        },
+        {
+            "language": "法语",
+            "explanation": "vision indistincte,faible"
+        }
+    ],
+    "general_pinyins": [
+        "mào"
+    ],
+    "general_zhuyins": [
+        "ㄇㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "9",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥈆",
+        "𥎉"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7780",
+            "54523313425111"
+        ],
+        "char_code_wubi": "cbth|cnhh",
+        "char_code_cangjie": "nkbu",
+        "char_code_zhengma": "xsml",
+        "char_code_sijiao": "18604"
+    },
+    "general_unicode": "基本区 U+7780",
+    "general_bs_code": "54523313425111"
+}

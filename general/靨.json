@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dimples"
+        },
+        {
+            "language": "德语",
+            "explanation": "kräuseln"
+        },
+        {
+            "language": "法语",
+            "explanation": "fossette"
+        }
+    ],
+    "general_pinyins": [
+        "yè"
+    ],
+    "general_zhuyins": [
+        "ㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "面",
+        "non_radical_sn": "14",
+        "total_sn": "23"
+    },
+    "general_stc": [
+        "靥"
+    ],
+    "general_ytz": [
+        "𩉇",
+        "𩉂",
+        "靥"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9768",
+            "13251125111344132522111"
+        ],
+        "char_code_wubi": "djed|djef",
+        "char_code_cangjie": "mkmwl",
+        "char_code_zhengma": "ggjk",
+        "char_code_sijiao": "71262"
+    },
+    "general_unicode": "基本区 U+9768",
+    "general_bs_code": "13251125111344132522111"
+}

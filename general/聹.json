@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "earwax"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ohrenschmalz  (S, Med)"
+        }
+    ],
+    "general_pinyins": [
+        "níng"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "耳",
+        "non_radical_sn": "14",
+        "total_sn": "20"
+    },
+    "general_stc": [
+        "聍"
+    ],
+    "general_ytz": [
+        "聍",
+        "𦗰",
+        "𨊎",
+        "𨊓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8079",
+            "12211144545442522112"
+        ],
+        "char_code_wubi": "bpns",
+        "char_code_cangjie": "sjjpn",
+        "char_code_zhengma": "cela",
+        "char_code_sijiao": "13421"
+    },
+    "general_unicode": "基本区 U+8079",
+    "general_bs_code": "12211144545442522112"
+}

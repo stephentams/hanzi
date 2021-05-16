@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bell"
+        },
+        {
+            "language": "德语",
+            "explanation": "Glocke; Klingel  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "clochette"
+        }
+    ],
+    "general_pinyins": [
+        "líng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "鈴"
+    ],
+    "general_ytz": [
+        "鈴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94C3",
+            "3111534454"
+        ],
+        "char_code_wubi": "qwyc",
+        "char_code_cangjie": "opoii",
+        "char_code_zhengma": "pow",
+        "char_code_sijiao": "88732"
+    },
+    "general_unicode": "基本区 U+94C3",
+    "general_bs_code": "3111534454"
+}

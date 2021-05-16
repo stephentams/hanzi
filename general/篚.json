@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "round or oval covered-baskets with short legs"
+        },
+        {
+            "language": "法语",
+            "explanation": "corbeille"
+        }
+    ],
+    "general_pinyins": [
+        "fěi"
+    ],
+    "general_zhuyins": [
+        "ㄈㄟˇ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "10",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "匪",
+        "𦃄"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7BDA",
+            "3143141211121115"
+        ],
+        "char_code_wubi": "tadd|tahd",
+        "char_code_cangjie": "hsly",
+        "char_code_zhengma": "mhkc",
+        "char_code_sijiao": "88711"
+    },
+    "general_unicode": "基本区 U+7BDA",
+    "general_bs_code": "3143141211121115"
+}

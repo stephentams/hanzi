@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cyperus rotundus, type of sedge"
+        }
+    ],
+    "general_pinyins": [
+        "tái"
+    ],
+    "general_zhuyins": [
+        "ㄊㄞˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "14",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "苔"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "85B9",
+            "12212125145154121"
+        ],
+        "char_code_wubi": "afkf",
+        "char_code_cangjie": "tgrg",
+        "char_code_zhengma": "ebwh",
+        "char_code_sijiao": "44104"
+    },
+    "general_unicode": "基本区 U+85B9",
+    "general_bs_code": "12212125145154121"
+}

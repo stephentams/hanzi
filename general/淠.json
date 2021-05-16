@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "德语",
+            "explanation": "üppig"
+        },
+        {
+            "language": "法语",
+            "explanation": "(plantes aquatiques)​ luxuriant"
+        }
+    ],
+    "general_pinyins": [
+        "pì",
+        "pèi"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧˋ",
+        "ㄆㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣴪",
+        "𣹮"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6DE0",
+            "44125121132"
+        ],
+        "char_code_wubi": "ilgj",
+        "char_code_cangjie": "ewml",
+        "char_code_zhengma": "vkan",
+        "char_code_sijiao": "36121"
+    },
+    "general_unicode": "基本区 U+6DE0",
+    "general_bs_code": "44125121132"
+}

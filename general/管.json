@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pipe, tube, duct; woodwind music"
+        },
+        {
+            "language": "德语",
+            "explanation": "Rohr, Röhre  (S)​,sich kümmern um  (V)​,verwalten  (V)​,ein Blasinstrument  (S)​,Schlüssel  (S)​,Zählwort für zylinderförmige Gegenstände  (Zähl)​,umgangssprachlich zur Voranstellung des direkten Objekts  (Präp)​,Guan  (Eig, Fam)​,Rohr"
+        },
+        {
+            "language": "法语",
+            "explanation": "diriger,gérer,s'occuper de,assurer,fournir,faire obéir qqn,faire sentir son autorité à qqn,tube,tuyau,conduit"
+        }
+    ],
+    "general_pinyins": [
+        "guǎn"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "8",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "琯",
+        "筦",
+        "𨵄"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7BA1",
+            "31431444525151"
+        ],
+        "char_code_wubi": "tpnn|tpnf",
+        "char_code_cangjie": "hjrr",
+        "char_code_zhengma": "mwy",
+        "char_code_sijiao": "88777"
+    },
+    "general_unicode": "基本区 U+7BA1",
+    "general_bs_code": "31431444525151"
+}

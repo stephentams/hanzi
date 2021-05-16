@@ -1,0 +1,62 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "surge up, bubble up, gush forth"
+        },
+        {
+            "language": "德语",
+            "explanation": "Abgrund, Hölle  (S)​,tiefes Wasser, tiefer Teich, tiefer Tümpel  (S)​,Wasserwirbel, Wasseruntiefe  (S)​,tief  (Adj)​,Yuan  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "profond,gouffre,eau profonde"
+        }
+    ],
+    "general_pinyins": [
+        "yuān"
+    ],
+    "general_zhuyins": [
+        "ㄩㄢ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "淵"
+    ],
+    "general_ytz": [
+        "淵",
+        "囦",
+        "渁",
+        "渕",
+        "灁",
+        "㴊",
+        "㶜",
+        "𠀯",
+        "𠝃",
+        "𡆼",
+        "𣴸",
+        "𣴺",
+        "𣶒",
+        "𣷨",
+        "𣷬",
+        "𣾬",
+        "𤀵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6E0A",
+            "44134312342"
+        ],
+        "char_code_wubi": "itoh",
+        "char_code_cangjie": "elfl",
+        "char_code_zhengma": "vnuf",
+        "char_code_sijiao": "32100"
+    },
+    "general_unicode": "基本区 U+6E0A",
+    "general_bs_code": "44134312342"
+}

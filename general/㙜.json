@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(ancient and corrupted form of U+81FA 臺) a lookout, a tower, a terrace, a platform, a stage"
+        }
+    ],
+    "general_pinyins": [
+        "chí",
+        "tái"
+    ],
+    "general_zhuyins": [
+        "ㄔˊ",
+        "ㄊㄞˊ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "臺"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "365C",
+            "4125125251121"
+        ],
+        "char_code_wubi": "ymkf",
+        "char_code_cangjie": "ybg",
+        "char_code_zhengma": "sjlb",
+        "char_code_sijiao": "00104"
+    },
+    "general_unicode": "扩展A U+365C",
+    "general_bs_code": "4125125251121"
+}

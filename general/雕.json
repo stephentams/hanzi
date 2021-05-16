@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "engrave, inlay, carve; exhaust; used for U+9D70 鵰 an eagle, vulture"
+        },
+        {
+            "language": "德语",
+            "explanation": "(猛禽)​ Adler  (S, Bio)​,(雕刻)​ Schnitzarbeit, Schnitzerei  (S)​,(雕刻)​ schnitzen, stechen, eingravieren  (V)​,einschnitzen, schnitzen ,Diao  (Eig, Fam)"
+        }
+    ],
+    "general_pinyins": [
+        "diāo"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "隹",
+        "non_radical_sn": "8",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "碉",
+        "㓮",
+        "琱",
+        "鵰",
+        "彫",
+        "錭",
+        "𪄄"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "96D5",
+            "3512125132411121"
+        ],
+        "char_code_wubi": "mfky",
+        "char_code_cangjie": "brog",
+        "char_code_zhengma": "ldjn",
+        "char_code_sijiao": "70215"
+    },
+    "general_unicode": "基本区 U+96D5",
+    "general_bs_code": "3512125132411121"
+}

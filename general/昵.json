@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "intimate, close; approach"
+        },
+        {
+            "language": "德语",
+            "explanation": "ähnlich sein, anfliegen ,geläufig, allgemein bekannt"
+        }
+    ],
+    "general_pinyins": [
+        "nì"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䁥",
+        "尼",
+        "眤",
+        "𣆓",
+        "𣽚",
+        "暱",
+        "嬺",
+        "𡠷"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6635",
+            "251151335"
+        ],
+        "char_code_wubi": "jnxn",
+        "char_code_cangjie": "asp",
+        "char_code_zhengma": "kxrr",
+        "char_code_sijiao": "67012"
+    },
+    "general_unicode": "基本区 U+6635",
+    "general_bs_code": "251151335"
+}

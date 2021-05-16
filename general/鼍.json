@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "large reptile, water lizard"
+        },
+        {
+            "language": "德语",
+            "explanation": "(English: large water lizard)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "crocodile"
+        }
+    ],
+    "general_pinyins": [
+        "tuó"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "黽",
+        "non_radical_sn": "8",
+        "total_sn": "20"
+    },
+    "general_stc": [
+        "鼉"
+    ],
+    "general_ytz": [
+        "鼉",
+        "𪓸",
+        "𪓽",
+        "𪛄"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9F0D",
+            "25125125121125125115"
+        ],
+        "char_code_wubi": "kkln",
+        "char_code_cangjie": "xrrwm",
+        "char_code_zhengma": "jjkz",
+        "char_code_sijiao": "66716"
+    },
+    "general_unicode": "基本区 U+9F0D",
+    "general_bs_code": "25125125121125125115"
+}

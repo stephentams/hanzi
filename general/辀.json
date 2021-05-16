@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "shaft"
+        },
+        {
+            "language": "德语",
+            "explanation": "ausstrahlen, strahlen"
+        },
+        {
+            "language": "法语",
+            "explanation": "(lit.)​ manche (d'un chariot)​,chariot"
+        }
+    ],
+    "general_pinyins": [
+        "zhōu"
+    ],
+    "general_zhuyins": [
+        "ㄓㄡ"
+    ],
+    "general_radical": {
+        "radical": "车",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "輈"
+    ],
+    "general_ytz": [
+        "輈"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8F80",
+            "1521335414"
+        ],
+        "char_code_wubi": "ltey|ltuy",
+        "char_code_cangjie": "kqhby",
+        "char_code_zhengma": "hepy",
+        "char_code_sijiao": "47540"
+    },
+    "general_unicode": "基本区 U+8F80",
+    "general_bs_code": "1521335414"
+}

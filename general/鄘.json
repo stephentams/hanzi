@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "state in Henan province"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "yōng"
+    ],
+    "general_zhuyins": [
+        "ㄩㄥ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "11",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9118",
+            "4135112511252"
+        ],
+        "char_code_wubi": "yveb|oveb",
+        "char_code_cangjie": "ibnl",
+        "char_code_zhengma": "tgly",
+        "char_code_sijiao": "07227"
+    },
+    "general_unicode": "基本区 U+9118",
+    "general_bs_code": "4135112511252"
+}

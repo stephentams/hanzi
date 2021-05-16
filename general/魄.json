@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "vigor; body; dark part of moon"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gefühl, Herz  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "âme,esprit"
+        }
+    ],
+    "general_pinyins": [
+        "pò"
+    ],
+    "general_zhuyins": [
+        "ㄆㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "鬼",
+        "non_radical_sn": "5",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "粕",
+        "霸",
+        "𣍸",
+        "𥙃",
+        "𩲸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9B44",
+            "32511325113554"
+        ],
+        "char_code_wubi": "rrqc",
+        "char_code_cangjie": "hahui",
+        "char_code_zhengma": "nknj",
+        "char_code_sijiao": "26613"
+    },
+    "general_unicode": "基本区 U+9B44",
+    "general_bs_code": "32511325113554"
+}

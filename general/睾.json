@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "testicle"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bank, Böschung  (S)​,Hoden  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "marais,testicule"
+        }
+    ],
+    "general_pinyins": [
+        "gāo"
+    ],
+    "general_zhuyins": [
+        "ㄍㄠ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "9",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "皋",
+        "睪"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "777E",
+            "32522112143112"
+        ],
+        "char_code_wubi": "tlff",
+        "char_code_cangjie": "hwgtj",
+        "char_code_zhengma": "mlbu",
+        "char_code_sijiao": "26401"
+    },
+    "general_unicode": "基本区 U+777E",
+    "general_bs_code": "32522112143112"
+}

@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pagrosomus major, porgy"
+        },
+        {
+            "language": "法语",
+            "explanation": "daurade"
+        }
+    ],
+    "general_pinyins": [
+        "diāo"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "8",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "鯛"
+    ],
+    "general_ytz": [
+        "鯛",
+        "鮉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9CB7",
+            "3525121135121251"
+        ],
+        "char_code_wubi": "qgmk",
+        "char_code_cangjie": "nmbgr",
+        "char_code_zhengma": "rlbj",
+        "char_code_sijiao": "27120"
+    },
+    "general_unicode": "基本区 U+9CB7",
+    "general_bs_code": "3525121135121251"
+}

@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "turquoise kingfisher"
+        },
+        {
+            "language": "法语",
+            "explanation": "martin-pêcheur bleu turquoise"
+        }
+    ],
+    "general_pinyins": [
+        "shuāng"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨㄤ"
+    ],
+    "general_radical": {
+        "radical": "鳥",
+        "non_radical_sn": "11",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "鸘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9DDE",
+            "1343434343432511154444"
+        ],
+        "char_code_wubi": "dqqo|drro",
+        "char_code_cangjie": "kkhaf",
+        "char_code_zhengma": "gdor",
+        "char_code_sijiao": "47827"
+    },
+    "general_unicode": "基本区 U+9DDE",
+    "general_bs_code": "1343434343432511154444"
+}

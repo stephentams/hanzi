@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "literature, culture, writing"
+        },
+        {
+            "language": "德语",
+            "explanation": "Radikal Nr. 67 = Kultur, Literatur, Schrift  (Sprachw)​,Sprache, Schrift, Lehre  (S)​,Wen  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "caractère,écriture,texte,composition littéraire,écrit,langue,culture,civil,(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "wén"
+    ],
+    "general_zhuyins": [
+        "ㄨㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "文",
+        "non_radical_sn": "0",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6587",
+            "4134"
+        ],
+        "char_code_wubi": "yygy",
+        "char_code_cangjie": "yk",
+        "char_code_zhengma": "so",
+        "char_code_sijiao": "00400"
+    },
+    "general_unicode": "基本区 U+6587",
+    "general_bs_code": "4134"
+}

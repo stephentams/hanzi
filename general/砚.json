@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "inkstone"
+        },
+        {
+            "language": "德语",
+            "explanation": "Tuschstein (auf dem die Tusche angerieben wird)​  (S)​,Yan  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "encrier chinois"
+        }
+    ],
+    "general_pinyins": [
+        "yàn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "硯"
+    ],
+    "general_ytz": [
+        "硯",
+        "䂩"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "781A",
+            "132512535"
+        ],
+        "char_code_wubi": "dmqn",
+        "char_code_cangjie": "mrbhu",
+        "char_code_zhengma": "glr",
+        "char_code_sijiao": "17612"
+    },
+    "general_unicode": "基本区 U+781A",
+    "general_bs_code": "132512535"
+}

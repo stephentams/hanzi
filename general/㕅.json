@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "big; extremely; great; vast; extensive; tall"
+        }
+    ],
+    "general_pinyins": [
+        "jiǎ"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄚˇ"
+    ],
+    "general_radical": {
+        "radical": "厂",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3545",
+            "1325112"
+        ],
+        "char_code_wubi": "dlk",
+        "char_code_cangjie": "mwl",
+        "char_code_zhengma": "ggki",
+        "char_code_sijiao": "71256"
+    },
+    "general_unicode": "扩展A U+3545",
+    "general_bs_code": "1325112"
+}

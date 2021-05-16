@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "jujube tree; thorns, brambles"
+        },
+        {
+            "language": "德语",
+            "explanation": "Dorn  (S)​,Ji  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "jujubier sauvage,buisson épineux,piquer"
+        }
+    ],
+    "general_pinyins": [
+        "jí"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㯤",
+        "𢄬",
+        "𣗥",
+        "𣘐",
+        "𣡍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "68D8",
+            "125234125234"
+        ],
+        "char_code_wubi": "gmii|smsm",
+        "char_code_cangjie": "dbdb",
+        "char_code_zhengma": "flfl",
+        "char_code_sijiao": "55992"
+    },
+    "general_unicode": "基本区 U+68D8",
+    "general_bs_code": "125234125234"
+}

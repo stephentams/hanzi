@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "capital city"
+        },
+        {
+            "language": "德语",
+            "explanation": "Hauptstadt  (S)​,Jing  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "capitale,Pékin,Beijing"
+        }
+    ],
+    "general_pinyins": [
+        "jīng"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄥ"
+    ],
+    "general_radical": {
+        "radical": "亠",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "亰",
+        "𡬱",
+        "𢂋",
+        "𦣿",
+        "𢈴"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4EAC",
+            "41251234"
+        ],
+        "char_code_wubi": "yiu",
+        "char_code_cangjie": "yrf",
+        "char_code_zhengma": "sjko",
+        "char_code_sijiao": "00906"
+    },
+    "general_unicode": "基本区 U+4EAC",
+    "general_bs_code": "41251234"
+}

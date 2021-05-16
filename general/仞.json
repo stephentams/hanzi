@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ancient unit of measure (8 feet); 'fathom'"
+        },
+        {
+            "language": "德语",
+            "explanation": "altes Längenmaß von 7 - 8 chin. Fuß"
+        },
+        {
+            "language": "法语",
+            "explanation": "ren (mesure)​"
+        }
+    ],
+    "general_pinyins": [
+        "rèn"
+    ],
+    "general_zhuyins": [
+        "ㄖㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "3",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4EDE",
+            "32534"
+        ],
+        "char_code_wubi": "wvyy",
+        "char_code_cangjie": "oshi",
+        "char_code_zhengma": "nys",
+        "char_code_sijiao": "27220"
+    },
+    "general_unicode": "基本区 U+4EDE",
+    "general_bs_code": "32534"
+}

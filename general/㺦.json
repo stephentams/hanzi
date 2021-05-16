@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a running animal, monkey climbing along the trees, a rutted dog"
+        }
+    ],
+    "general_pinyins": [
+        "lián"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "17",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤣈",
+        "𤣆"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3EA6",
+            "35312211155455453221"
+        ],
+        "char_code_wubi": "qtbg",
+        "char_code_cangjie": "khsjt",
+        "char_code_zhengma": "qmzz",
+        "char_code_sijiao": "42272"
+    },
+    "general_unicode": "扩展A U+3EA6",
+    "general_bs_code": "35312211155455453221"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "birds, fowl; surname;; capture"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 Geflügel  (S)​,Vögel  (S)​,Vogel  (S)​,Qin  (Eig, Fam)"
+        }
+    ],
+    "general_pinyins": [
+        "qín"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "人",
+        "non_radical_sn": "10",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "擒",
+        "𠎘",
+        "𢄕"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "79BD",
+            "344134522554"
+        ],
+        "char_code_wubi": "wybc|wyrc",
+        "char_code_cangjie": "oyub",
+        "char_code_zhengma": "odlz",
+        "char_code_sijiao": "80227"
+    },
+    "general_unicode": "基本区 U+79BD",
+    "general_bs_code": "344134522554"
+}

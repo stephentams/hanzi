@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to call; to summon"
+        },
+        {
+            "language": "法语",
+            "explanation": "crier,appeler,s'appeler,ordonner,par"
+        }
+    ],
+    "general_pinyins": [
+        "jiào"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "叫"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "544C",
+            "2514412"
+        ],
+        "char_code_wubi": "kufh",
+        "char_code_cangjie": "ryj",
+        "char_code_zhengma": "jted",
+        "char_code_sijiao": "64000"
+    },
+    "general_unicode": "基本区 U+544C",
+    "general_bs_code": "2514412"
+}

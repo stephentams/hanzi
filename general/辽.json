@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "distant, far"
+        },
+        {
+            "language": "德语",
+            "explanation": "entfernt, weit weg  (Adj)​,Liao He (Fluss in der Mandschurei)​  (Eig, Geo)​,Tartaren-Dynastie"
+        },
+        {
+            "language": "法语",
+            "explanation": "éloigné,lointain"
+        }
+    ],
+    "general_pinyins": [
+        "liáo"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "2",
+        "total_sn": "5"
+    },
+    "general_stc": [
+        "遼"
+    ],
+    "general_ytz": [
+        "遼",
+        "𨖒",
+        "𨖚"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8FBD",
+            "52454"
+        ],
+        "char_code_wubi": "bpk",
+        "char_code_cangjie": "ynn",
+        "char_code_zhengma": "wyvv",
+        "char_code_sijiao": "37302"
+    },
+    "general_unicode": "基本区 U+8FBD",
+    "general_bs_code": "52454"
+}

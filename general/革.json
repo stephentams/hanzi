@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "leather, animal hides; rad. 177"
+        },
+        {
+            "language": "德语",
+            "explanation": "Leder; entlassen; ändern"
+        },
+        {
+            "language": "法语",
+            "explanation": "cuir,changer,transformer"
+        }
+    ],
+    "general_pinyins": [
+        "gé"
+    ],
+    "general_zhuyins": [
+        "ㄍㄜˊ"
+    ],
+    "general_radical": {
+        "radical": "革",
+        "non_radical_sn": "0",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䩯",
+        "䪂",
+        "諽",
+        "𠦶",
+        "𩎎",
+        "愅",
+        "韚"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9769",
+            "122125112"
+        ],
+        "char_code_wubi": "afj",
+        "char_code_cangjie": "tlj",
+        "char_code_zhengma": "ee",
+        "char_code_sijiao": "44506"
+    },
+    "general_unicode": "基本区 U+9769",
+    "general_bs_code": "122125112"
+}

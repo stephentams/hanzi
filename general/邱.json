@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "surname; hill; mound; grave"
+        },
+        {
+            "language": "德语",
+            "explanation": "Abwurfstelle, Aufschüttung  (S)​,Qiu  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "qiū"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄡ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "丘",
+        "邺",
+        "𠀜",
+        "𡊣",
+        "𨚑",
+        "𨚬",
+        "𨛆"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "90B1",
+            "3212152"
+        ],
+        "char_code_wubi": "rgbh|rbh",
+        "char_code_cangjie": "omnl",
+        "char_code_zhengma": "pday",
+        "char_code_sijiao": "77127"
+    },
+    "general_unicode": "基本区 U+90B1",
+    "general_bs_code": "3212152"
+}

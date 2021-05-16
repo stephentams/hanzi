@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "overflow; swirl, ripple; to be tosssed by waves"
+        },
+        {
+            "language": "德语",
+            "explanation": "Riffeln  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "se rider,déborder"
+        }
+    ],
+    "general_pinyins": [
+        "yàng"
+    ],
+    "general_zhuyins": [
+        "ㄧㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "瀁",
+        "𣻌",
+        "𣼁"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6F3E",
+            "44143112145534"
+        ],
+        "char_code_wubi": "iugi",
+        "char_code_cangjie": "etge",
+        "char_code_zhengma": "vusk",
+        "char_code_sijiao": "38192"
+    },
+    "general_unicode": "基本区 U+6F3E",
+    "general_bs_code": "44143112145534"
+}

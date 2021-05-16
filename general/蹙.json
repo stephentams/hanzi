@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "urgent, suddenly; grieve, lament"
+        },
+        {
+            "language": "法语",
+            "explanation": "hâte,fouler,affligé"
+        }
+    ],
+    "general_pinyins": [
+        "cù"
+    ],
+    "general_zhuyins": [
+        "ㄘㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "11",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䠓",
+        "䠞",
+        "踿",
+        "顣",
+        "𠏔",
+        "𠑯",
+        "𨇳",
+        "𨈄",
+        "蹴",
+        "𣢰"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E59",
+            "132112345342512134"
+        ],
+        "char_code_wubi": "dhih",
+        "char_code_cangjie": "ifryo",
+        "char_code_zhengma": "hmkj",
+        "char_code_sijiao": "53801"
+    },
+    "general_unicode": "基本区 U+8E59",
+    "general_bs_code": "132112345342512134"
+}

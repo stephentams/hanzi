@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "obstruct, hinder, block, deter"
+        },
+        {
+            "language": "德语",
+            "explanation": "stören, behindern, hindern, hemmen"
+        },
+        {
+            "language": "法语",
+            "explanation": "entraver,gêner,embarrasser,bloquer,obstruer"
+        }
+    ],
+    "general_pinyins": [
+        "ài"
+    ],
+    "general_zhuyins": [
+        "ㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "礙"
+    ],
+    "general_ytz": [
+        "礙",
+        "硋",
+        "㝵",
+        "𥃷"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "788D",
+            "1325125111124"
+        ],
+        "char_code_wubi": "djgf",
+        "char_code_cangjie": "mrami",
+        "char_code_zhengma": "gkad",
+        "char_code_sijiao": "16641"
+    },
+    "general_unicode": "基本区 U+788D",
+    "general_bs_code": "1325125111124"
+}

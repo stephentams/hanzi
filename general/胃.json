@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stomach; gizzard of fowl"
+        },
+        {
+            "language": "德语",
+            "explanation": "Magen (S, Med)"
+        },
+        {
+            "language": "法语",
+            "explanation": "estomac"
+        }
+    ],
+    "general_pinyins": [
+        "wèi"
+    ],
+    "general_zhuyins": [
+        "ㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦞽",
+        "𦞅",
+        "𦝩",
+        "𦛂"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "80C3",
+            "251212511"
+        ],
+        "char_code_wubi": "lef",
+        "char_code_cangjie": "wb",
+        "char_code_zhengma": "kiq",
+        "char_code_sijiao": "60227"
+    },
+    "general_unicode": "基本区 U+80C3",
+    "general_bs_code": "251212511"
+}

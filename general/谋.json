@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "plan, scheme; strategem"
+        },
+        {
+            "language": "法语",
+            "explanation": "projeter,comploter,rechercher,chercher à obtenir,projet,complot,stratagème"
+        }
+    ],
+    "general_pinyins": [
+        "móu"
+    ],
+    "general_zhuyins": [
+        "ㄇㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "謀"
+    ],
+    "general_ytz": [
+        "謀",
+        "㖼",
+        "𠰔",
+        "𢘓",
+        "𢜯",
+        "𧦥"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C0B",
+            "45122111234"
+        ],
+        "char_code_wubi": "yafs|yfsy",
+        "char_code_cangjie": "ivtmd",
+        "char_code_zhengma": "sef",
+        "char_code_sijiao": "34794"
+    },
+    "general_unicode": "基本区 U+8C0B",
+    "general_bs_code": "45122111234"
+}

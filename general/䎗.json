@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "flying"
+        }
+    ],
+    "general_pinyins": [
+        "qiáo"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "羽",
+        "non_radical_sn": "12",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦑽",
+        "𦒓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4397",
+            "313425125251541541"
+        ],
+        "char_code_wubi": "tdkn",
+        "char_code_cangjie": "hbsmm",
+        "char_code_zhengma": "mgyy",
+        "char_code_sijiao": "27220"
+    },
+    "general_unicode": "扩展A U+4397",
+    "general_bs_code": "313425125251541541"
+}

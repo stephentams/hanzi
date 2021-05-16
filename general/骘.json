@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stallion; promote"
+        },
+        {
+            "language": "德语",
+            "explanation": "bestimmen, entscheiden"
+        },
+        {
+            "language": "法语",
+            "explanation": "élever,étalon"
+        }
+    ],
+    "general_pinyins": [
+        "zhì"
+    ],
+    "general_zhuyins": [
+        "ㄓˋ"
+    ],
+    "general_radical": {
+        "radical": "马",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "騭"
+    ],
+    "general_ytz": [
+        "騭",
+        "隲",
+        "𨽥"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A98",
+            "522121233551"
+        ],
+        "char_code_wubi": "bhic|bhhg",
+        "char_code_cangjie": "nhnvm",
+        "char_code_zhengma": "yikx",
+        "char_code_sijiao": "71127"
+    },
+    "general_unicode": "基本区 U+9A98",
+    "general_bs_code": "522121233551"
+}

@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "carp"
+        },
+        {
+            "language": "德语",
+            "explanation": "Graskarpfen, Weißer Amur, Grasfisch, Amurkarpfen  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "carpe,Ctenopharyngodon idella"
+        }
+    ],
+    "general_pinyins": [
+        "huàn"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "7",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "鯇"
+    ],
+    "general_ytz": [
+        "鯇",
+        "鯶",
+        "鰀",
+        "𩸩"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9CA9",
+            "352512114451135"
+        ],
+        "char_code_wubi": "qgpq",
+        "char_code_cangjie": "nmjmu",
+        "char_code_zhengma": "rwbr",
+        "char_code_sijiao": "23112"
+    },
+    "general_unicode": "基本区 U+9CA9",
+    "general_bs_code": "352512114451135"
+}

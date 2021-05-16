@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "scattered, mixed affairs; duties; occupation business"
+        },
+        {
+            "language": "法语",
+            "explanation": "superflu,redondant"
+        }
+    ],
+    "general_pinyins": [
+        "rǒng"
+    ],
+    "general_zhuyins": [
+        "ㄖㄨㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "宀",
+        "non_radical_sn": "2",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5B82",
+            "44535"
+        ],
+        "char_code_wubi": "pmb|pwb",
+        "char_code_cangjie": "jhn",
+        "char_code_zhengma": "wdqd",
+        "char_code_sijiao": "30217"
+    },
+    "general_unicode": "基本区 U+5B82",
+    "general_bs_code": "44535"
+}

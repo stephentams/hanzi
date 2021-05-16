@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "coarse cotton cloth used for mourning"
+        },
+        {
+            "language": "法语",
+            "explanation": "toile"
+        }
+    ],
+    "general_pinyins": [
+        "sī"
+    ],
+    "general_zhuyins": [
+        "ㄙ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "緦"
+    ],
+    "general_ytz": [
+        "緦",
+        "𢆿",
+        "𦃞"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F0C",
+            "551251214544"
+        ],
+        "char_code_wubi": "xlny",
+        "char_code_cangjie": "vmwp",
+        "char_code_zhengma": "zkwz",
+        "char_code_sijiao": "26130"
+    },
+    "general_unicode": "基本区 U+7F0C",
+    "general_bs_code": "551251214544"
+}

@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(your) daughter"
+        },
+        {
+            "language": "法语",
+            "explanation": "fille (votre)​"
+        }
+    ],
+    "general_pinyins": [
+        "ài"
+    ],
+    "general_zhuyins": [
+        "ㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "嬡"
+    ],
+    "general_ytz": [
+        "嬡"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5AD2",
+            "5313443451354"
+        ],
+        "char_code_wubi": "vepc",
+        "char_code_cangjie": "vbbe",
+        "char_code_zhengma": "zmgx",
+        "char_code_sijiao": "42447"
+    },
+    "general_unicode": "基本区 U+5AD2",
+    "general_bs_code": "5313443451354"
+}

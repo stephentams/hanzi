@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "edible amaranth; straw basket"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kui  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "panier"
+        }
+    ],
+    "general_pinyins": [
+        "kuì",
+        "kuài"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄟˋ",
+        "ㄎㄨㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "蕢"
+    ],
+    "general_ytz": [
+        "蕢",
+        "䕚",
+        "𤆂",
+        "𧷩",
+        "𧸋",
+        "𧔉"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8489",
+            "122251212534"
+        ],
+        "char_code_wubi": "akhm",
+        "char_code_cangjie": "tlmo",
+        "char_code_zhengma": "ejal",
+        "char_code_sijiao": "44802"
+    },
+    "general_unicode": "基本区 U+8489",
+    "general_bs_code": "122251212534"
+}

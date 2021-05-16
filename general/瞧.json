@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "glance at, look at, see"
+        },
+        {
+            "language": "德语",
+            "explanation": "schauen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "regarder"
+        }
+    ],
+    "general_pinyins": [
+        "qiáo"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "12",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "睄"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "77A7",
+            "25111324111214444"
+        ],
+        "char_code_wubi": "hwyo",
+        "char_code_cangjie": "buogf",
+        "char_code_zhengma": "lnuo",
+        "char_code_sijiao": "60031"
+    },
+    "general_unicode": "基本区 U+77A7",
+    "general_bs_code": "25111324111214444"
+}

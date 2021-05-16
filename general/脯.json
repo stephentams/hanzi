@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dried meat; preserved fruits"
+        },
+        {
+            "language": "德语",
+            "explanation": "Brustkasten, Brustkorb  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "fruit confit,tranche de viande séchée,viande séchée"
+        }
+    ],
+    "general_pinyins": [
+        "fǔ"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "812F",
+            "35111251124"
+        ],
+        "char_code_wubi": "egey|esy",
+        "char_code_cangjie": "bijb",
+        "char_code_zhengma": "qfb",
+        "char_code_sijiao": "73227"
+    },
+    "general_unicode": "基本区 U+812F",
+    "general_bs_code": "35111251124"
+}

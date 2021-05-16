@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lean on, depend on, rely on"
+        },
+        {
+            "language": "德语",
+            "explanation": "nach, gemäß, entsprechend, aufgrund ,sich anlehnen‚ sich auf etw verlassen, Beweis"
+        },
+        {
+            "language": "法语",
+            "explanation": "s'appuyer sur,compter sur,preuve,certificat,sur la base de,sur la foi de"
+        }
+    ],
+    "general_pinyins": [
+        "píng"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "几",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "憑"
+    ],
+    "general_ytz": [
+        "憑",
+        "凴",
+        "慿",
+        "𠌩",
+        "𠙖",
+        "𠙥",
+        "𢶚"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "51ED",
+            "32312135"
+        ],
+        "char_code_wubi": "wtfm|wtfw",
+        "char_code_cangjie": "oghn",
+        "char_code_zhengma": "nmbq",
+        "char_code_sijiao": "22217"
+    },
+    "general_unicode": "基本区 U+51ED",
+    "general_bs_code": "32312135"
+}

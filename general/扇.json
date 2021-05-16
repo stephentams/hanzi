@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fan; door panel"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fächer (S)​,Flügel (S, Tech)​,Zähleinheitswort z.B. Tür, Fenster (Zähl)"
+        },
+        {
+            "language": "法语",
+            "explanation": "éventer,agiter,susciter,éventail,battant (de porte)​,(classificateur pour portes et fenêtres)​"
+        }
+    ],
+    "general_pinyins": [
+        "shàn",
+        "shān"
+    ],
+    "general_zhuyins": [
+        "ㄕㄢˋ",
+        "ㄕㄢ"
+    ],
+    "general_radical": {
+        "radical": "户",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢄒",
+        "𥰢",
+        "騸",
+        "煽",
+        "搧"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6247",
+            "4513541541"
+        ],
+        "char_code_wubi": "ynnd",
+        "char_code_cangjie": "hssmm",
+        "char_code_zhengma": "wmyy",
+        "char_code_sijiao": "30227"
+    },
+    "general_unicode": "基本区 U+6247",
+    "general_bs_code": "4513541541"
+}

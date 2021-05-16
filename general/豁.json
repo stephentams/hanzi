@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "open up, clear; exempt"
+        },
+        {
+            "language": "法语",
+            "explanation": "ouvrir,étendre,libéral,fracas,brèche,ouverture,fente,ouvrir,fendre,sacrifier,clair,bien éclairé,généreux,exempter,renoncer,jouer au jeu de doigt chinois"
+        }
+    ],
+    "general_pinyins": [
+        "huō",
+        "huò",
+        "huá"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄛ",
+        "ㄏㄨㄛˋ",
+        "ㄏㄨㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "谷",
+        "non_radical_sn": "10",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧯆",
+        "𡪞",
+        "𧯉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C41",
+            "44511122513434251"
+        ],
+        "char_code_wubi": "pdhk",
+        "char_code_cangjie": "jrcor",
+        "char_code_zhengma": "wdoj",
+        "char_code_sijiao": "38668"
+    },
+    "general_unicode": "基本区 U+8C41",
+    "general_bs_code": "44511122513434251"
+}

@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "strain"
+        },
+        {
+            "language": "法语",
+            "explanation": "(eau)​ propre,liquides sous pression"
+        }
+    ],
+    "general_pinyins": [
+        "lù"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "淥"
+    ],
+    "general_ytz": [
+        "淥"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6E0C",
+            "44151124134"
+        ],
+        "char_code_wubi": "iviy",
+        "char_code_cangjie": "enme",
+        "char_code_zhengma": "vxkv",
+        "char_code_sijiao": "37199"
+    },
+    "general_unicode": "基本区 U+6E0C",
+    "general_bs_code": "44151124134"
+}

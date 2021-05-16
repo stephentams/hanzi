@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "name of an affluent of the Poyang Lake"
+        },
+        {
+            "language": "法语",
+            "explanation": "rivière Fei (dans l'Anhui)​"
+        }
+    ],
+    "general_pinyins": [
+        "féi"
+    ],
+    "general_zhuyins": [
+        "ㄈㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6DDD",
+            "44135115215"
+        ],
+        "char_code_wubi": "iecn",
+        "char_code_cangjie": "ebau",
+        "char_code_zhengma": "vqyi",
+        "char_code_sijiao": "37117"
+    },
+    "general_unicode": "基本区 U+6DDD",
+    "general_bs_code": "44135115215"
+}

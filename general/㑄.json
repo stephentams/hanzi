@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(ancient form of 侮) to insult, to ridicule"
+        }
+    ],
+    "general_pinyins": [
+        "wǔ"
+    ],
+    "general_zhuyins": [
+        "ㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "侮"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3444",
+            "3255414"
+        ],
+        "char_code_wubi": "wxgu|wxy",
+        "char_code_cangjie": "owyi",
+        "char_code_zhengma": "nzy",
+        "char_code_sijiao": "27250"
+    },
+    "general_unicode": "扩展A U+3444",
+    "general_bs_code": "3255414"
+}

@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a lake in Yunnan"
+        },
+        {
+            "language": "德语",
+            "explanation": "ein See  in Yunnan  (Eig, Geo)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom d'un lac)​"
+        }
+    ],
+    "general_pinyins": [
+        "ěr"
+    ],
+    "general_zhuyins": [
+        "ㄦˇ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6D31",
+            "441122111"
+        ],
+        "char_code_wubi": "ibg",
+        "char_code_cangjie": "esj",
+        "char_code_zhengma": "vce",
+        "char_code_sijiao": "31140"
+    },
+    "general_unicode": "基本区 U+6D31",
+    "general_bs_code": "441122111"
+}

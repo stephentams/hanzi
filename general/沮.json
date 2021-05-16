@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "stop, prevent; defeated, dejected"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 aufhalten, aufhören ,notschlachten, vernichten ,Ju  (Eig, Fam)"
+        }
+    ],
+    "general_pinyins": [
+        "jǔ",
+        "jù"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩˇ",
+        "ㄐㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣻐",
+        "𤅔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6CAE",
+            "44125111"
+        ],
+        "char_code_wubi": "iegg",
+        "char_code_cangjie": "ebm",
+        "char_code_sijiao": "37112"
+    },
+    "general_unicode": "基本区 U+6CAE",
+    "general_bs_code": "44125111"
+}

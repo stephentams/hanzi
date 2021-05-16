@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "horse; surname; KangXi radical 187"
+        },
+        {
+            "language": "德语",
+            "explanation": "Pferd; groß  (S, Bio)​,Springer (schwarzer Stein im chinesischen Schach)​  (S)​,Ma  (Eig, Fam)​,Radikal Nr. 187 = Pferd  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cheval,(nom de famille)​,187e radical"
+        }
+    ],
+    "general_pinyins": [
+        "mǎ"
+    ],
+    "general_zhuyins": [
+        "ㄇㄚˇ"
+    ],
+    "general_radical": {
+        "radical": "马",
+        "non_radical_sn": "0",
+        "total_sn": "3"
+    },
+    "general_stc": [
+        "馬"
+    ],
+    "general_ytz": [
+        "馬",
+        "𢒗",
+        "𢒠",
+        "𢒧",
+        "𩡬"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A6C",
+            "551"
+        ],
+        "char_code_wubi": "cnng|cgd",
+        "char_code_cangjie": "nvsm",
+        "char_code_zhengma": "xa",
+        "char_code_sijiao": "77127"
+    },
+    "general_unicode": "基本区 U+9A6C",
+    "general_bs_code": "551"
+}

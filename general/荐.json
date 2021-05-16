@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "repeat, reoccur; recommend"
+        },
+        {
+            "language": "德语",
+            "explanation": "befürworten, empfehlen"
+        },
+        {
+            "language": "法语",
+            "explanation": "recommander"
+        }
+    ],
+    "general_pinyins": [
+        "jiàn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "薦"
+    ],
+    "general_ytz": [
+        "洊",
+        "薦",
+        "𥤆",
+        "𧂑",
+        "𧄟"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8350",
+            "122132521"
+        ],
+        "char_code_wubi": "adhb",
+        "char_code_cangjie": "tkld",
+        "char_code_zhengma": "egiy",
+        "char_code_sijiao": "44247"
+    },
+    "general_unicode": "基本区 U+8350",
+    "general_bs_code": "122132521"
+}

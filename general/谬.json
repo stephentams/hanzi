@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "error, exaggeration; erroneous"
+        },
+        {
+            "language": "德语",
+            "explanation": "abwegig, absurd, falsch ,täuschen, verwirren, betrügen  (V)​,Miu  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "erroné,absurde"
+        }
+    ],
+    "general_pinyins": [
+        "miù"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "11",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "謬"
+    ],
+    "general_ytz": [
+        "謬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C2C",
+            "4554154134333"
+        ],
+        "char_code_wubi": "ynwe",
+        "char_code_cangjie": "ivsmh",
+        "char_code_zhengma": "syop",
+        "char_code_sijiao": "37722"
+    },
+    "general_unicode": "基本区 U+8C2C",
+    "general_bs_code": "4554154134333"
+}

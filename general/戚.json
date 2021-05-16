@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "relative; be related to; sad"
+        },
+        {
+            "language": "德语",
+            "explanation": "relativ, Verwandte  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(un)​ parent,malheur,douleur"
+        }
+    ],
+    "general_pinyins": [
+        "qī"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧ"
+    ],
+    "general_radical": {
+        "radical": "戈",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "慼",
+        "𠋰",
+        "𠎰",
+        "𡫁",
+        "𢦫",
+        "𢧯",
+        "鏚",
+        "慽",
+        "傶"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "621A",
+            "13211234534"
+        ],
+        "char_code_wubi": "dhit|dhii",
+        "char_code_cangjie": "ihymf",
+        "char_code_zhengma": "hmak",
+        "char_code_sijiao": "53200"
+    },
+    "general_unicode": "基本区 U+621A",
+    "general_bs_code": "13211234534"
+}

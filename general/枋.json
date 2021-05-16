@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sandalwood; tree used as timber"
+        },
+        {
+            "language": "德语",
+            "explanation": "Sandelholz, Santalum album"
+        },
+        {
+            "language": "法语",
+            "explanation": "bois de construction"
+        }
+    ],
+    "general_pinyins": [
+        "fāng",
+        "bìng"
+    ],
+    "general_zhuyins": [
+        "ㄈㄤ",
+        "ㄅㄧㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "舫"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "678B",
+            "12344153"
+        ],
+        "char_code_wubi": "syn|syt",
+        "char_code_cangjie": "dyhs",
+        "char_code_zhengma": "fsy",
+        "char_code_sijiao": "40927"
+    },
+    "general_unicode": "基本区 U+678B",
+    "general_bs_code": "12344153"
+}

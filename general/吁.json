@@ -1,0 +1,55 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "interjection 'Alas!'; to sigh"
+        },
+        {
+            "language": "德语",
+            "explanation": "Sh ,still, vertuschen ,anflehen, flehen"
+        },
+        {
+            "language": "法语",
+            "explanation": "soupir,oh!"
+        }
+    ],
+    "general_pinyins": [
+        "xū",
+        "yù"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩ",
+        "ㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䏏",
+        "訏",
+        "𠮞",
+        "𠮱",
+        "𠮲",
+        "𠯊",
+        "𦘼",
+        "籲",
+        "龥",
+        "𥸤"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5401",
+            "251112"
+        ],
+        "char_code_wubi": "kgfh",
+        "char_code_cangjie": "rmd",
+        "char_code_zhengma": "jad",
+        "char_code_sijiao": "61040"
+    },
+    "general_unicode": "基本区 U+5401",
+    "general_bs_code": "251112"
+}

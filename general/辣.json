@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "peppery, pungent, hot; cruel"
+        },
+        {
+            "language": "德语",
+            "explanation": "scharf  (Adj, Ess)​,scharfer Geschmack"
+        },
+        {
+            "language": "法语",
+            "explanation": "pimenté,piquant,âcre,cruel"
+        }
+    ],
+    "general_pinyins": [
+        "là"
+    ],
+    "general_zhuyins": [
+        "ㄌㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "辛",
+        "non_radical_sn": "7",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "瘌",
+        "辢",
+        "𨐜"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8FA3",
+            "41431131251234"
+        ],
+        "char_code_wubi": "ugki|uskg",
+        "char_code_cangjie": "yjdl",
+        "char_code_zhengma": "sefj",
+        "char_code_sijiao": "05496"
+    },
+    "general_unicode": "基本区 U+8FA3",
+    "general_bs_code": "41431131251234"
+}

@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "marsh, swamp; grace, brilliance"
+        },
+        {
+            "language": "德语",
+            "explanation": "feucht, Glanz, Feuchtgebiet, Wohlwollen ,Ze  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "marais,étang"
+        }
+    ],
+    "general_pinyins": [
+        "zé",
+        "shì"
+    ],
+    "general_zhuyins": [
+        "ㄗㄜˊ",
+        "ㄕˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "澤"
+    ],
+    "general_ytz": [
+        "澤",
+        "沢",
+        "𣼦"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6CFD",
+            "44154112"
+        ],
+        "char_code_wubi": "icfh|icgh",
+        "char_code_cangjie": "eeq",
+        "char_code_zhengma": "vxbi",
+        "char_code_sijiao": "37154"
+    },
+    "general_unicode": "基本区 U+6CFD",
+    "general_bs_code": "44154112"
+}

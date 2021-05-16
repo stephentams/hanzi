@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ripe grain; harvest; to know, be familiar with"
+        },
+        {
+            "language": "德语",
+            "explanation": "reifes Korn"
+        },
+        {
+            "language": "法语",
+            "explanation": "moisson,année"
+        }
+    ],
+    "general_pinyins": [
+        "rěn"
+    ],
+    "general_zhuyins": [
+        "ㄖㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䄒",
+        "飪"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7A14",
+            "3123434454544"
+        ],
+        "char_code_wubi": "twyn",
+        "char_code_cangjie": "hdoip",
+        "char_code_zhengma": "mfxw",
+        "char_code_sijiao": "28932"
+    },
+    "general_unicode": "基本区 U+7A14",
+    "general_bs_code": "3123434454544"
+}

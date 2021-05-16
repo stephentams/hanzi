@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "crow, rook, raven; black, dark"
+        },
+        {
+            "language": "德语",
+            "explanation": "Rabe, Krähe (S, Geo)​,schwarz (Adj)​,Wu (Eig, Fam)​,Uganda (Abkürzung für  烏干達)​ (Eig, Geo)​,Ukraine (Abkürzung für 烏克蘭)​ (Eig, Geo)​,Uruguay (Abkürzung für 烏拉圭)​ (Eig, Geo)"
+        },
+        {
+            "language": "法语",
+            "explanation": "noir,sombre,obscur,corbeau"
+        }
+    ],
+    "general_pinyins": [
+        "wū"
+    ],
+    "general_zhuyins": [
+        "ㄨ"
+    ],
+    "general_radical": {
+        "radical": "丿",
+        "non_radical_sn": "3",
+        "total_sn": "4"
+    },
+    "general_stc": [
+        "烏"
+    ],
+    "general_ytz": [
+        "烏",
+        "𥾪"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4E4C",
+            "3551"
+        ],
+        "char_code_wubi": "qngd|tnng",
+        "char_code_cangjie": "pvsm",
+        "char_code_zhengma": "rza",
+        "char_code_sijiao": "27127"
+    },
+    "general_unicode": "基本区 U+4E4C",
+    "general_bs_code": "3551"
+}

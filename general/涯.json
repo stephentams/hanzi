@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "shore, bank, water's edge"
+        },
+        {
+            "language": "法语",
+            "explanation": "rive,bord,limite"
+        }
+    ],
+    "general_pinyins": [
+        "yá"
+    ],
+    "general_zhuyins": [
+        "ㄧㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "厓",
+        "漄"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6DAF",
+            "44113121121"
+        ],
+        "char_code_wubi": "idff",
+        "char_code_cangjie": "emgg",
+        "char_code_zhengma": "vgbb",
+        "char_code_sijiao": "31114"
+    },
+    "general_unicode": "基本区 U+6DAF",
+    "general_bs_code": "44113121121"
+}

@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "toothache"
+        }
+    ],
+    "general_pinyins": [
+        "chǔ"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "齒",
+        "non_radical_sn": "8",
+        "total_sn": "23"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "齼",
+        "𪘷",
+        "𫜭"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9F6D",
+            "21213434134345233513312"
+        ],
+        "char_code_wubi": "hwwr|hbrr",
+        "char_code_cangjie": "yuhsl",
+        "char_code_zhengma": "ioxp",
+        "char_code_sijiao": "22721"
+    },
+    "general_unicode": "基本区 U+9F6D",
+    "general_bs_code": "21213434134345233513312"
+}

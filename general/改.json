@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "change, alter; improve, remodel"
+        },
+        {
+            "language": "德语",
+            "explanation": "ändern, korrigieren  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "changer,transformer,modifier,retoucher,corriger"
+        }
+    ],
+    "general_pinyins": [
+        "gǎi"
+    ],
+    "general_zhuyins": [
+        "ㄍㄞˇ"
+    ],
+    "general_radical": {
+        "radical": "攵",
+        "non_radical_sn": "3",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "攺",
+        "㱼",
+        "𢻰",
+        "𪻞"
+    ],
+    "general_structure": "左右结构；左边是己；不是已",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6539",
+            "5153134"
+        ],
+        "char_code_wubi": "nty",
+        "char_code_cangjie": "suok",
+        "char_code_zhengma": "yymo",
+        "char_code_sijiao": "18740"
+    },
+    "general_unicode": "基本区 U+6539",
+    "general_bs_code": "5153134"
+}

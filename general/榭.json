@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "kiosk, pavilion"
+        },
+        {
+            "language": "德语",
+            "explanation": "Pavillon  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "belvédère"
+        }
+    ],
+    "general_pinyins": [
+        "xiè"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "射",
+        "豫",
+        "𣛘",
+        "𢲌"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "69AD",
+            "12343251113124"
+        ],
+        "char_code_wubi": "stmf",
+        "char_code_cangjie": "dhhi",
+        "char_code_zhengma": "fnds",
+        "char_code_sijiao": "44900"
+    },
+    "general_unicode": "基本区 U+69AD",
+    "general_bs_code": "12343251113124"
+}

@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "grand, valiant"
+        },
+        {
+            "language": "德语",
+            "explanation": "majestätische Erscheinung  (S)​,großartig  (Adj)"
+        }
+    ],
+    "general_pinyins": [
+        "jiū"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄡ"
+    ],
+    "general_radical": {
+        "radical": "走",
+        "non_radical_sn": "2",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠡟",
+        "𧺇",
+        "𧺈"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D73",
+            "121213452"
+        ],
+        "char_code_wubi": "fhnh",
+        "char_code_cangjie": "govl",
+        "char_code_zhengma": "bozi",
+        "char_code_sijiao": "42800"
+    },
+    "general_unicode": "基本区 U+8D73",
+    "general_bs_code": "121213452"
+}

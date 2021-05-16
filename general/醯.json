@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "vinegar; pickle; acid"
+        },
+        {
+            "language": "德语",
+            "explanation": "Acyl"
+        },
+        {
+            "language": "法语",
+            "explanation": "acyle"
+        }
+    ],
+    "general_pinyins": [
+        "xī"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧ"
+    ],
+    "general_radical": {
+        "radical": "酉",
+        "non_radical_sn": "12",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𩱗",
+        "𨤅",
+        "𨣓",
+        "𨢘",
+        "𨡂",
+        "䤈",
+        "𨡇"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "91AF",
+            "1253511415432525221"
+        ],
+        "char_code_wubi": "sgyl",
+        "char_code_cangjie": "mwyit",
+        "char_code_zhengma": "fdnl",
+        "char_code_sijiao": "10612"
+    },
+    "general_unicode": "基本区 U+91AF",
+    "general_bs_code": "1253511415432525221"
+}

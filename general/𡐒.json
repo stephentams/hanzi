@@ -1,0 +1,29 @@
+{
+    "general_pinyins": [
+        "háo",
+        "hào"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "壕",
+        "耗"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "21412",
+            "12141251453115"
+        ],
+        "char_code_wubi": "fypn",
+        "char_code_cangjie": "gyru",
+        "char_code_zhengma": "bswm"
+    },
+    "general_unicode": "扩展B U+21412",
+    "general_bs_code": "12141251453115"
+}

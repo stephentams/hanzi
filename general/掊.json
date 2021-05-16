@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to extract; injure"
+        },
+        {
+            "language": "德语",
+            "explanation": "schlagen, erreichen ,Pou  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "casser,frapper,ravir ?,recueillir"
+        }
+    ],
+    "general_pinyins": [
+        "pǒu",
+        "póu"
+    ],
+    "general_zhuyins": [
+        "ㄆㄡˇ",
+        "ㄆㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "仆",
+        "抔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "638A",
+            "12141431251"
+        ],
+        "char_code_wubi": "rukg",
+        "char_code_cangjie": "qytr",
+        "char_code_zhengma": "dsj",
+        "char_code_sijiao": "50061"
+    },
+    "general_unicode": "基本区 U+638A",
+    "general_bs_code": "12141431251"
+}

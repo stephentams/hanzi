@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "quench; dye; soak; change, alter"
+        },
+        {
+            "language": "德语",
+            "explanation": "abschrecken, härten  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tremper en mettant dans l'eau ou l'huile,refroidir"
+        }
+    ],
+    "general_pinyins": [
+        "cuì"
+    ],
+    "general_zhuyins": [
+        "ㄘㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㳃",
+        "焠",
+        "𠗚"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6DEC",
+            "44141343412"
+        ],
+        "char_code_wubi": "iywf",
+        "char_code_cangjie": "eyoj",
+        "char_code_zhengma": "vsoe",
+        "char_code_sijiao": "30148"
+    },
+    "general_unicode": "基本区 U+6DEC",
+    "general_bs_code": "44141343412"
+}

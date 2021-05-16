@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to eat meat, (same as 肘) the elbow, (same as U+816C) fine quality of meat, (same as 衄) nose bleeding"
+        }
+    ],
+    "general_pinyins": [
+        "niǔ"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "43D4",
+            "35115211"
+        ],
+        "char_code_wubi": "enfg|enhg",
+        "char_code_cangjie": "bng",
+        "char_code_zhengma": "qxed",
+        "char_code_sijiao": "77212"
+    },
+    "general_unicode": "扩展A U+43D4",
+    "general_bs_code": "35115211"
+}

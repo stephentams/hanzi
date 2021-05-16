@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "descriptive of crying or of crowing"
+        },
+        {
+            "language": "德语",
+            "explanation": "ach ja (Int)​,ach so! (Int)​,Oh! (Int)"
+        },
+        {
+            "language": "法语",
+            "explanation": "Je vois,Oh,(employé pour marquer une compréhension soudaine)​,Je vois,oh"
+        }
+    ],
+    "general_pinyins": [
+        "ō",
+        "wō"
+    ],
+    "general_zhuyins": [
+        "ㄛ",
+        "ㄨㄛ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "噢"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5594",
+            "251513154121"
+        ],
+        "char_code_wubi": "kngf",
+        "char_code_cangjie": "rsmg",
+        "char_code_zhengma": "jxhb",
+        "char_code_sijiao": "67014"
+    },
+    "general_unicode": "基本区 U+5594",
+    "general_bs_code": "251513154121"
+}

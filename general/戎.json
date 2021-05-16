@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "arms, armaments; military affair"
+        },
+        {
+            "language": "德语",
+            "explanation": "Militärwesen  (S)​,Schwert  (S)​,Jung (Eigenname von 张戎=Jung Chang)​  (Eig)​,Rong  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "armée,affaires militaires"
+        }
+    ],
+    "general_pinyins": [
+        "róng"
+    ],
+    "general_zhuyins": [
+        "ㄖㄨㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "戈",
+        "non_radical_sn": "2",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠈋",
+        "𢍻",
+        "𢦦",
+        "扔"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "620E",
+            "113534"
+        ],
+        "char_code_wubi": "ade",
+        "char_code_cangjie": "ij",
+        "char_code_zhengma": "hmgd",
+        "char_code_sijiao": "53400"
+    },
+    "general_unicode": "基本区 U+620E",
+    "general_bs_code": "113534"
+}

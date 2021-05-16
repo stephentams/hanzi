@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to escape from; to flee, to avoid"
+        },
+        {
+            "language": "德语",
+            "explanation": "entrinnen  (V)​,einer Sache entkommen ,einer Sache entrinnen"
+        },
+        {
+            "language": "法语",
+            "explanation": "échapper à"
+        }
+    ],
+    "general_pinyins": [
+        "huàn"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𩁧",
+        "𨙕",
+        "䠉"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "902D",
+            "44525151454"
+        ],
+        "char_code_wubi": "pnhp|pnpd",
+        "char_code_cangjie": "yjrr",
+        "char_code_zhengma": "wdyw",
+        "char_code_sijiao": "33307"
+    },
+    "general_unicode": "基本区 U+902D",
+    "general_bs_code": "44525151454"
+}

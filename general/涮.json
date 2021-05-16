@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rinse; cook or boil in juice"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fondue  (S)​,kurz in siedend heißem Öl,heißer Brühe garen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "laver"
+        }
+    ],
+    "general_pinyins": [
+        "shuàn"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6DAE",
+            "44151325222"
+        ],
+        "char_code_wubi": "inmj",
+        "char_code_cangjie": "esbn",
+        "char_code_zhengma": "vxlk",
+        "char_code_sijiao": "32100"
+    },
+    "general_unicode": "基本区 U+6DAE",
+    "general_bs_code": "44151325222"
+}

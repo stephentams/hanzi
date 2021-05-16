@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "muttering, indistinct speech"
+        },
+        {
+            "language": "德语",
+            "explanation": "grummeln, murmeln"
+        }
+    ],
+    "general_pinyins": [
+        "nāng"
+    ],
+    "general_zhuyins": [
+        "ㄋㄤ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "22",
+        "total_sn": "25"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "56D4",
+            "2511251245251251112213534"
+        ],
+        "char_code_wubi": "kgke",
+        "char_code_cangjie": "rjbv",
+        "char_code_zhengma": "jaer",
+        "char_code_sijiao": "65032"
+    },
+    "general_unicode": "基本区 U+56D4",
+    "general_bs_code": "2511251245251251112213534"
+}

@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to destroy; to overthrow"
+        },
+        {
+            "language": "德语",
+            "explanation": "notschlachten, vernichten"
+        },
+        {
+            "language": "法语",
+            "explanation": "détruire"
+        }
+    ],
+    "general_pinyins": [
+        "huī",
+        "duò"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄟ",
+        "ㄉㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "15",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢡣",
+        "𡐦",
+        "隓",
+        "墮"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "96B3",
+            "52131212511342444"
+        ],
+        "char_code_wubi": "bdan",
+        "char_code_cangjie": "nbop",
+        "char_code_zhengma": "ygou",
+        "char_code_sijiao": "74338"
+    },
+    "general_unicode": "基本区 U+96B3",
+    "general_bs_code": "52131212511342444"
+}

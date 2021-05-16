@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "Hubei province; startled"
+        },
+        {
+            "language": "法语",
+            "explanation": "autre nom de la province du Hubei"
+        }
+    ],
+    "general_pinyins": [
+        "è"
+    ],
+    "general_zhuyins": [
+        "ㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "堮",
+        "腭",
+        "𨟨",
+        "𨺨",
+        "䣞",
+        "𨜝",
+        "𨞍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9102",
+            "25125111552"
+        ],
+        "char_code_wubi": "kkfb",
+        "char_code_cangjie": "rsnl",
+        "char_code_zhengma": "jjzy",
+        "char_code_sijiao": "67227"
+    },
+    "general_unicode": "基本区 U+9102",
+    "general_bs_code": "25125111552"
+}

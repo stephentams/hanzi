@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "aluminum"
+        },
+        {
+            "language": "德语",
+            "explanation": "Aluminium (Element 13, Al)​ (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "aluminium"
+        }
+    ],
+    "general_pinyins": [
+        "lǚ"
+    ],
+    "general_zhuyins": [
+        "ㄌㄩˇ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "鋁"
+    ],
+    "general_ytz": [
+        "鋁"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94DD",
+            "31115251251"
+        ],
+        "char_code_wubi": "qkkg",
+        "char_code_cangjie": "oprr",
+        "char_code_zhengma": "pjj",
+        "char_code_sijiao": "86760"
+    },
+    "general_unicode": "基本区 U+94DD",
+    "general_bs_code": "31115251251"
+}

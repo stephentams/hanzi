@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ragout, cook, braise"
+        },
+        {
+            "language": "法语",
+            "explanation": "braiser,fricoter"
+        }
+    ],
+    "general_pinyins": [
+        "huì"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "燴"
+    ],
+    "general_ytz": [
+        "燴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "70E9",
+            "4334341154"
+        ],
+        "char_code_wubi": "owfc",
+        "char_code_cangjie": "fomi",
+        "char_code_zhengma": "uobz",
+        "char_code_sijiao": "98832"
+    },
+    "general_unicode": "基本区 U+70E9",
+    "general_bs_code": "4334341154"
+}

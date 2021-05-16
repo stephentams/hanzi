@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tail, extremity; end, stern"
+        },
+        {
+            "language": "德语",
+            "explanation": "Hinterteil, Ende (S)​,Schwanz (S)​,Spitze eines Pferdeschwanz"
+        },
+        {
+            "language": "法语",
+            "explanation": "queue,extrémité,poupe"
+        }
+    ],
+    "general_pinyins": [
+        "wěi",
+        "yǐ"
+    ],
+    "general_zhuyins": [
+        "ㄨㄟ",
+        "ㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "尸",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㞑",
+        "𡱓",
+        "𡱕",
+        "𡱲",
+        "𡲵",
+        "𩜧"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5C3E",
+            "5133115"
+        ],
+        "char_code_wubi": "ntfn|nev",
+        "char_code_cangjie": "shqu",
+        "char_code_zhengma": "xmmh",
+        "char_code_sijiao": "77214"
+    },
+    "general_unicode": "基本区 U+5C3E",
+    "general_bs_code": "5133115"
+}

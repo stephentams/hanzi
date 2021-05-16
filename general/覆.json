@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cover; tip over; return; reply"
+        },
+        {
+            "language": "德语",
+            "explanation": "umstürzen, umkippen, umwerfen ,bedecken, überdecken  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "répondre,recommencer,renouveler,tourner,retourner,de nouveau,encore,répétition,couvrir,recouvrir,renverser"
+        }
+    ],
+    "general_pinyins": [
+        "fù"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "覀",
+        "non_radical_sn": "12",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "復",
+        "覄",
+        "𧠃",
+        "䨱",
+        "覆"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8986",
+            "125221332312511354"
+        ],
+        "char_code_wubi": "sttt",
+        "char_code_cangjie": "mwhoe",
+        "char_code_zhengma": "fjkr",
+        "char_code_sijiao": "10247"
+    },
+    "general_unicode": "基本区 U+8986",
+    "general_bs_code": "125221332312511354"
+}

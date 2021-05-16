@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "gall bladder; bravery, courage"
+        },
+        {
+            "language": "法语",
+            "explanation": "vésicule biliaire,bile,(avoir les)​ tripes,culot,courage,audace"
+        }
+    ],
+    "general_pinyins": [
+        "dǎn"
+    ],
+    "general_zhuyins": [
+        "ㄉㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "膽"
+    ],
+    "general_ytz": [
+        "膽"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "80C6",
+            "351125111"
+        ],
+        "char_code_wubi": "ejgg",
+        "char_code_cangjie": "bam",
+        "char_code_zhengma": "qka",
+        "char_code_sijiao": "76210"
+    },
+    "general_unicode": "基本区 U+80C6",
+    "general_bs_code": "351125111"
+}

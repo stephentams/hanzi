@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "same as 世 U+4E16, generation; world; era"
+        }
+    ],
+    "general_pinyins": [
+        "shì"
+    ],
+    "general_zhuyins": [
+        "ㄕˋ"
+    ],
+    "general_radical": {
+        "radical": "十",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "世"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "534B",
+            "121221"
+        ],
+        "char_code_wubi": "faf",
+        "char_code_cangjie": "jt",
+        "char_code_zhengma": "edea",
+        "char_code_sijiao": "40774"
+    },
+    "general_unicode": "基本区 U+534B",
+    "general_bs_code": "121221"
+}

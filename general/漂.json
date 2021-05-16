@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "float, drift; tossed about"
+        },
+        {
+            "language": "德语",
+            "explanation": "abweichen, driften ,gleiten, verhalten laufen  (Sport)​,ausbleichen, bleichen"
+        },
+        {
+            "language": "法语",
+            "explanation": "flotter,aller à la dérive,agité,blanchir (de la toile)​,beau,joli,élégant"
+        }
+    ],
+    "general_pinyins": [
+        "piāo",
+        "piǎo",
+        "piào"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧㄠ",
+        "ㄆㄧㄠˇ",
+        "ㄆㄧㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "潎",
+        "𠷻",
+        "𣻔",
+        "𣿖",
+        "𤄚",
+        "飄"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6F02",
+            "44112522111234"
+        ],
+        "char_code_wubi": "isfi",
+        "char_code_cangjie": "emwf",
+        "char_code_zhengma": "vfbk",
+        "char_code_sijiao": "31191"
+    },
+    "general_unicode": "基本区 U+6F02",
+    "general_bs_code": "44112522111234"
+}

@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to bite the hard and solid food"
+        }
+    ],
+    "general_pinyins": [
+        "bó",
+        "fù"
+    ],
+    "general_zhuyins": [
+        "ㄅㄛˊ",
+        "ㄈㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠽢",
+        "𪙍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "35D8",
+            "2511251124124"
+        ],
+        "char_code_wubi": "kgef|ksfy",
+        "char_code_cangjie": "ribi",
+        "char_code_zhengma": "jfds",
+        "char_code_sijiao": "63042"
+    },
+    "general_unicode": "扩展A U+35D8",
+    "general_bs_code": "2511251124124"
+}

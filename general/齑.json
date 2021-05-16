@@ -1,0 +1,61 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "break or smash into pieces, pulverize; hash"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bruchstück, Fragment  (S)​,Gewürz  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "fragmentaire,en poudre,côtelette de viande,haché (légume ou viande)​"
+        }
+    ],
+    "general_pinyins": [
+        "jī"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧ"
+    ],
+    "general_radical": {
+        "radical": "齐",
+        "non_radical_sn": "9",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "齏"
+    ],
+    "general_ytz": [
+        "齏",
+        "韲",
+        "虀",
+        "䪠",
+        "䪡",
+        "䪢",
+        "𤅈",
+        "𧆌",
+        "𩐆",
+        "𩐇",
+        "𩐈",
+        "𩐊",
+        "𩐋",
+        "𩐎",
+        "𩐑",
+        "𩐒"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9F51",
+            "413421112111132"
+        ],
+        "char_code_wubi": "ydjj|yjhg",
+        "char_code_cangjie": "yklll",
+        "char_code_zhengma": "soka",
+        "char_code_sijiao": "00224"
+    },
+    "general_unicode": "基本区 U+9F51",
+    "general_bs_code": "413421112111132"
+}

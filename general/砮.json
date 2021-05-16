@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "arrow-tip"
+        },
+        {
+            "language": "德语",
+            "explanation": "Feuerstein, Flint  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "silex"
+        }
+    ],
+    "general_pinyins": [
+        "nǔ"
+    ],
+    "general_zhuyins": [
+        "ㄋㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠩨",
+        "𠪓",
+        "𢊨",
+        "𥑌"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "782E",
+            "5315413251"
+        ],
+        "char_code_wubi": "vcdf",
+        "char_code_cangjie": "vemr",
+        "char_code_zhengma": "zmxg",
+        "char_code_sijiao": "47602"
+    },
+    "general_unicode": "基本区 U+782E",
+    "general_bs_code": "5315413251"
+}

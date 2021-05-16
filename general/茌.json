@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "法语",
+            "explanation": "(lieu-dit dans le Shandong)​"
+        }
+    ],
+    "general_pinyins": [
+        "chí"
+    ],
+    "general_zhuyins": [
+        "ㄔˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "830C",
+            "12232121"
+        ],
+        "char_code_wubi": "awff",
+        "char_code_cangjie": "tog",
+        "char_code_zhengma": "enb",
+        "char_code_sijiao": "44214"
+    },
+    "general_unicode": "基本区 U+830C",
+    "general_bs_code": "12232121"
+}

@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "surname"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufgeschreckt, schreckte auf ,Ju  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "surpris,(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "qú",
+        "jù"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩˊ",
+        "ㄐㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "13",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "懼",
+        "戵",
+        "䀠",
+        "眗",
+        "𥇛",
+        "𥈀"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "77BF",
+            "251112511132411121"
+        ],
+        "char_code_wubi": "hhwy",
+        "char_code_cangjie": "buog",
+        "char_code_zhengma": "llni",
+        "char_code_sijiao": "66215"
+    },
+    "general_unicode": "基本区 U+77BF",
+    "general_bs_code": "251112511132411121"
+}

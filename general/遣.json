@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "send, dispatch; send off, exile"
+        },
+        {
+            "language": "德语",
+            "explanation": "Versand  (S)​,senden, abfertigen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "envoyer"
+        }
+    ],
+    "general_pinyins": [
+        "qiǎn"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9063",
+            "2512125151454"
+        ],
+        "char_code_wubi": "khgp",
+        "char_code_cangjie": "ylmr",
+        "char_code_zhengma": "jiyw",
+        "char_code_sijiao": "35307"
+    },
+    "general_unicode": "基本区 U+9063",
+    "general_bs_code": "2512125151454"
+}

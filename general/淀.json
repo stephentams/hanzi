@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "shallow water, swamp; swampy"
+        },
+        {
+            "language": "法语",
+            "explanation": "lac peu profond"
+        }
+    ],
+    "general_pinyins": [
+        "diàn"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "澱"
+    ],
+    "general_ytz": [
+        "澱",
+        "𣵦",
+        "靛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6DC0",
+            "44144512134"
+        ],
+        "char_code_wubi": "ipgh",
+        "char_code_cangjie": "ejmo",
+        "char_code_zhengma": "vwd",
+        "char_code_sijiao": "33181"
+    },
+    "general_unicode": "基本区 U+6DC0",
+    "general_bs_code": "44144512134"
+}

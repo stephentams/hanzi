@@ -1,0 +1,55 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "imperial signet, royal signet"
+        },
+        {
+            "language": "德语",
+            "explanation": "Siegel des Kaisers ,kaiserliches Siegel  (S)​,Reichssiegel  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "sceau"
+        }
+    ],
+    "general_pinyins": [
+        "xǐ"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧˇ"
+    ],
+    "general_radical": {
+        "radical": "玉",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "璽"
+    ],
+    "general_ytz": [
+        "璽",
+        "鉨",
+        "鉩",
+        "壐",
+        "鈢",
+        "𡊒",
+        "𤨐",
+        "𤫆",
+        "𨮪",
+        "𩂊"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "73BA",
+            "3523411214"
+        ],
+        "char_code_wubi": "qigy",
+        "char_code_cangjie": "nfmgi",
+        "char_code_zhengma": "rkcs",
+        "char_code_sijiao": "27103"
+    },
+    "general_unicode": "基本区 U+73BA",
+    "general_bs_code": "3523411214"
+}

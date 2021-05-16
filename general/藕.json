@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lotus root"
+        },
+        {
+            "language": "德语",
+            "explanation": "Lotuswurzel"
+        },
+        {
+            "language": "法语",
+            "explanation": "racine de nénuphar"
+        }
+    ],
+    "general_pinyins": [
+        "ǒu"
+    ],
+    "general_zhuyins": [
+        "ㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "15",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "蕅",
+        "澫",
+        "㒖",
+        "𦸲"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "85D5",
+            "122111234251125214"
+        ],
+        "char_code_wubi": "adiy|afsy",
+        "char_code_cangjie": "tqdb",
+        "char_code_zhengma": "eclz",
+        "char_code_sijiao": "44927"
+    },
+    "general_unicode": "基本区 U+85D5",
+    "general_bs_code": "122111234251125214"
+}

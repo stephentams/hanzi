@@ -1,0 +1,59 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "do obeisance, bow, kowtow"
+        },
+        {
+            "language": "德语",
+            "explanation": "beten (S, Rel)​,anbeten, bewundern, verehren (V)​,beglückwunschen (V)​,Respekt zollen (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "saluer,reconnaître qqn pour,visiter,faire une visite courtoise,se prosterner,faire un culte,louer,présenter ses voeux,féliciter"
+        }
+    ],
+    "general_pinyins": [
+        "bài"
+    ],
+    "general_zhuyins": [
+        "ㄅㄞ"
+    ],
+    "general_radical": {
+        "radical": "手",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡴬",
+        "𢪙",
+        "𢫶",
+        "𢮠",
+        "𢰛",
+        "𢱭",
+        "𢴽",
+        "𢷎",
+        "𢹄",
+        "𣬓",
+        "𨀪",
+        "𨀲",
+        "拝",
+        "𢳎",
+        "𣧙",
+        "𣬊"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "62DC",
+            "311311112"
+        ],
+        "char_code_wubi": "rdfh",
+        "char_code_cangjie": "hqmqj",
+        "char_code_zhengma": "mdac",
+        "char_code_sijiao": "21550"
+    },
+    "general_unicode": "基本区 U+62DC",
+    "general_bs_code": "311311112"
+}

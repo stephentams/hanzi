@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "classic works; pass through"
+        },
+        {
+            "language": "德语",
+            "explanation": "über, via; durch, mittels, per  (Präp)"
+        },
+        {
+            "language": "法语",
+            "explanation": "livre canonique,classique,constant,régulier,longitude,passer par,supporter,résister à,subir,gérer"
+        }
+    ],
+    "general_pinyins": [
+        "jīng"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄥ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "經"
+    ],
+    "general_ytz": [
+        "經",
+        "坕",
+        "経",
+        "𤔕",
+        "𦀇"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7ECF",
+            "55154121"
+        ],
+        "char_code_wubi": "xcag",
+        "char_code_cangjie": "vmnom",
+        "char_code_zhengma": "zxbi",
+        "char_code_sijiao": "27112"
+    },
+    "general_unicode": "基本区 U+7ECF",
+    "general_bs_code": "55154121"
+}

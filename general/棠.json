@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "crab apple tree; wild plums"
+        },
+        {
+            "language": "德语",
+            "explanation": "Tang  (Eig, Fam)​,ostasiatische Wildbirne, Pyrus betulifolia [bot.]"
+        },
+        {
+            "language": "法语",
+            "explanation": "poirier à feuilles de bouleau"
+        }
+    ],
+    "general_pinyins": [
+        "táng"
+    ],
+    "general_zhuyins": [
+        "ㄊㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㭻",
+        "𣙟"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "68E0",
+            "243452511234"
+        ],
+        "char_code_wubi": "ipks",
+        "char_code_cangjie": "fbrd",
+        "char_code_zhengma": "kojf",
+        "char_code_sijiao": "90904"
+    },
+    "general_unicode": "基本区 U+68E0",
+    "general_bs_code": "243452511234"
+}

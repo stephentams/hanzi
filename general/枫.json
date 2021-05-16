@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "maple tree"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ahorn; Amberbaum"
+        },
+        {
+            "language": "法语",
+            "explanation": "liquidambar,érable"
+        }
+    ],
+    "general_pinyins": [
+        "fēng"
+    ],
+    "general_zhuyins": [
+        "ㄈㄥ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "楓"
+    ],
+    "general_ytz": [
+        "楓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "67AB",
+            "12343534"
+        ],
+        "char_code_wubi": "smqy|swry",
+        "char_code_cangjie": "dhnk",
+        "char_code_zhengma": "fqos",
+        "char_code_sijiao": "47910"
+    },
+    "general_unicode": "基本区 U+67AB",
+    "general_bs_code": "12343534"
+}

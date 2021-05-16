@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "helmet"
+        },
+        {
+            "language": "德语",
+            "explanation": "Helm, Sturmhaube (hist.)​  (S, Mil)"
+        },
+        {
+            "language": "法语",
+            "explanation": "casque"
+        }
+    ],
+    "general_pinyins": [
+        "zhòu"
+    ],
+    "general_zhuyins": [
+        "ㄓㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "冂",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5191",
+            "251212511"
+        ],
+        "char_code_wubi": "mef",
+        "char_code_cangjie": "lwb",
+        "char_code_zhengma": "kiaq",
+        "char_code_sijiao": "50227"
+    },
+    "general_unicode": "基本区 U+5191",
+    "general_bs_code": "251212511"
+}

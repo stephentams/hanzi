@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "suburbs of capital; govern; crops"
+        },
+        {
+            "language": "德语",
+            "explanation": "Vorort, Außenbezirk"
+        },
+        {
+            "language": "法语",
+            "explanation": "grande banlieue"
+        }
+    ],
+    "general_pinyins": [
+        "diàn",
+        "tián",
+        "shèng"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧㄢˋ",
+        "ㄊㄧㄢˊ",
+        "ㄕㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "田",
+        "non_radical_sn": "2",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "畋"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7538",
+            "3525121"
+        ],
+        "char_code_wubi": "qld",
+        "char_code_cangjie": "pw",
+        "char_code_zhengma": "ryki",
+        "char_code_sijiao": "27620"
+    },
+    "general_unicode": "基本区 U+7538",
+    "general_bs_code": "3525121"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "shirt; robe; gown; jacket"
+        },
+        {
+            "language": "德语",
+            "explanation": "Hemd  (S)​,ungefüttertes Gewand  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "veste,vêtement sans doublure,vêtement léger"
+        }
+    ],
+    "general_pinyins": [
+        "shān"
+    ],
+    "general_zhuyins": [
+        "ㄕㄢ"
+    ],
+    "general_radical": {
+        "radical": "衤",
+        "non_radical_sn": "3",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "縿",
+        "襂",
+        "𧟖"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "886B",
+            "45234333"
+        ],
+        "char_code_wubi": "puet",
+        "char_code_cangjie": "lhhh",
+        "char_code_zhengma": "wtpd",
+        "char_code_sijiao": "32222"
+    },
+    "general_unicode": "基本区 U+886B",
+    "general_bs_code": "45234333"
+}

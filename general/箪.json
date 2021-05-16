@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "small bamboo basket for holding"
+        },
+        {
+            "language": "法语",
+            "explanation": "corbeille,panier rond pour le riz cuit"
+        }
+    ],
+    "general_pinyins": [
+        "dān"
+    ],
+    "general_zhuyins": [
+        "ㄉㄢ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "8",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "簞"
+    ],
+    "general_ytz": [
+        "簞"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7BAA",
+            "31431443251112"
+        ],
+        "char_code_wubi": "tujf",
+        "char_code_cangjie": "hcwj",
+        "char_code_zhengma": "muke",
+        "char_code_sijiao": "88506"
+    },
+    "general_unicode": "基本区 U+7BAA",
+    "general_bs_code": "31431443251112"
+}

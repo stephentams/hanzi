@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to row or paddle boat; to scratch"
+        },
+        {
+            "language": "德语",
+            "explanation": "abgrenzen; übertragen, überweisen; planen; markieren; Strich ,rudern, paddeln"
+        },
+        {
+            "language": "法语",
+            "explanation": "tracer,rayer,couper,poinçon,barque,crochet,mener une barque à la perche,ramer,pagayer,valoir la peine,couper,égratigner"
+        }
+    ],
+    "general_pinyins": [
+        "huá",
+        "huà"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄚ",
+        "ㄏㄨㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "刂",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "劃",
+        "畫"
+    ],
+    "general_ytz": [
+        "找",
+        "撶",
+        "劃",
+        "𠜴",
+        "𠜻"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5212",
+            "153422"
+        ],
+        "char_code_wubi": "ajh",
+        "char_code_cangjie": "iln",
+        "char_code_zhengma": "hmkd",
+        "char_code_sijiao": "52000"
+    },
+    "general_unicode": "基本区 U+5212",
+    "general_bs_code": "153422"
+}

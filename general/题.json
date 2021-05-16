@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "forehead; title, headline; theme"
+        },
+        {
+            "language": "德语",
+            "explanation": "Thema; Titel  (S)​,aufschreiben; eintragen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "sujet,titre,question,inscrire"
+        }
+    ],
+    "general_pinyins": [
+        "tí"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "页",
+        "non_radical_sn": "9",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "題"
+    ],
+    "general_ytz": [
+        "題",
+        "𧡨",
+        "𧡭"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9898",
+            "251112134132534"
+        ],
+        "char_code_wubi": "jghm",
+        "char_code_cangjie": "aombo",
+        "char_code_zhengma": "kaig",
+        "char_code_sijiao": "61808"
+    },
+    "general_unicode": "基本区 U+9898",
+    "general_bs_code": "251112134132534"
+}

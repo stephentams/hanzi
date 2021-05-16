@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a dual pronoun, I, you and me, we two"
+        },
+        {
+            "language": "德语",
+            "explanation": "wir beide, Du und ich, Dualpronom  (Pron)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "zǎn"
+    ],
+    "general_zhuyins": [
+        "ㄗㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "661D",
+            "354242511"
+        ],
+        "char_code_wubi": "thjf",
+        "char_code_cangjie": "hoa",
+        "char_code_zhengma": "rsik",
+        "char_code_sijiao": "23604"
+    },
+    "general_unicode": "基本区 U+661D",
+    "general_bs_code": "354242511"
+}

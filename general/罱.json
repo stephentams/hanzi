@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fishing net"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fischernetz  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "lǎn"
+    ],
+    "general_zhuyins": [
+        "ㄌㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "罒",
+        "non_radical_sn": "9",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䈒",
+        "𦊔",
+        "𦌫"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F71",
+            "25221122543112"
+        ],
+        "char_code_wubi": "lfmf",
+        "char_code_cangjie": "wljbj",
+        "char_code_zhengma": "lkel",
+        "char_code_sijiao": "60227"
+    },
+    "general_unicode": "基本区 U+7F71",
+    "general_bs_code": "25221122543112"
+}

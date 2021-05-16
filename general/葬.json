@@ -1,0 +1,57 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bury, inter"
+        },
+        {
+            "language": "德语",
+            "explanation": "verbergen, begraben  (V)​,bestatten; beerdigen"
+        },
+        {
+            "language": "法语",
+            "explanation": "enterrer"
+        }
+    ],
+    "general_pinyins": [
+        "zàng"
+    ],
+    "general_zhuyins": [
+        "ㄗㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧂥",
+        "𦿑",
+        "𦽱",
+        "𦸟",
+        "𦵏",
+        "𦴱",
+        "𦴓",
+        "𦲳",
+        "𦱼",
+        "𦱬",
+        "塟",
+        "㘸",
+        "𬋿",
+        "𰉎"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "846C",
+            "122135435132"
+        ],
+        "char_code_wubi": "agqa",
+        "char_code_cangjie": "tmpt",
+        "char_code_zhengma": "eare",
+        "char_code_sijiao": "44441"
+    },
+    "general_unicode": "基本区 U+846C",
+    "general_bs_code": "122135435132"
+}

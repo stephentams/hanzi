@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "venomous snake, viper"
+        },
+        {
+            "language": "法语",
+            "explanation": "Crotalinae"
+        }
+    ],
+    "general_pinyins": [
+        "fù"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "9",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧐛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "876E",
+            "251214312511354"
+        ],
+        "char_code_wubi": "jtjt",
+        "char_code_cangjie": "lioae",
+        "char_code_zhengma": "imkr",
+        "char_code_sijiao": "58147"
+    },
+    "general_unicode": "基本区 U+876E",
+    "general_bs_code": "251214312511354"
+}

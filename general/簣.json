@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a bamboo basket for carrying earth"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kui  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "panier"
+        }
+    ],
+    "general_pinyins": [
+        "kuì"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "12",
+        "total_sn": "18"
+    },
+    "general_stc": [
+        "篑"
+    ],
+    "general_ytz": [
+        "篑",
+        "籄"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7C23",
+            "314314251212511134"
+        ],
+        "char_code_wubi": "tkhm",
+        "char_code_cangjie": "hlmc",
+        "char_code_zhengma": "mjal",
+        "char_code_sijiao": "88806"
+    },
+    "general_unicode": "基本区 U+7C23",
+    "general_bs_code": "314314251212511134"
+}

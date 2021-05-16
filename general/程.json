@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "journey, trip; schedule, agenda"
+        },
+        {
+            "language": "德语",
+            "explanation": "Regulierung  (S)​,Formel ,Regel, Vorschrift"
+        },
+        {
+            "language": "法语",
+            "explanation": "règle,règlement,ordre,procédure,processus,trajet,parcours,(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "chéng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "郢",
+        "𨁎"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7A0B",
+            "312342511121"
+        ],
+        "char_code_wubi": "tkgg",
+        "char_code_cangjie": "hdrhg",
+        "char_code_zhengma": "mfjc",
+        "char_code_sijiao": "26914"
+    },
+    "general_unicode": "基本区 U+7A0B",
+    "general_bs_code": "312342511121"
+}

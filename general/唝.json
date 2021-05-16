@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "法语",
+            "explanation": "chanter"
+        }
+    ],
+    "general_pinyins": [
+        "gòng",
+        "hǒng",
+        "gǒng"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄥˋ",
+        "ㄏㄨㄥˇ",
+        "ㄍㄨㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "嗊"
+    ],
+    "general_ytz": [
+        "嗊"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "551D",
+            "2511212534"
+        ],
+        "char_code_wubi": "kamy",
+        "char_code_cangjie": "rmbo",
+        "char_code_zhengma": "jblo",
+        "char_code_sijiao": "61082"
+    },
+    "general_unicode": "基本区 U+551D",
+    "general_bs_code": "2511212534"
+}

@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cliff, precipice; cave, grotto"
+        }
+    ],
+    "general_pinyins": [
+        "yán"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "16",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "巖"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5DCC",
+            "2524431351221113134"
+        ],
+        "char_code_wubi": "midt",
+        "char_code_cangjie": "ufmk",
+        "char_code_zhengma": "llcm",
+        "char_code_sijiao": "22248"
+    },
+    "general_unicode": "基本区 U+5DCC",
+    "general_bs_code": "2524431351221113134"
+}

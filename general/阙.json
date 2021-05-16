@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "watch tower; palace"
+        },
+        {
+            "language": "德语",
+            "explanation": "Mangel, Manko  (S)​,Unzulänglichkeit  (S)​,Que  (Eig, Fam)​,Wachturm über dem Stadttor  (S)​,Fehler  (S)​,Kaiserstadt  (S)​,Palasttor  (S)​,Reichsstadt  (S)​,kaiserlich  (Adj)​,Que  (Eig, Fam)​,Mangel  (S)​,abnehmen  (V)​,fehlen  (V)​,gebraucht wie 缺 ,unzureichend"
+        },
+        {
+            "language": "法语",
+            "explanation": "tour de guet devant la porte d'entrée du palais impérial,palais,impérial,défaut,tour,palais,creuser"
+        }
+    ],
+    "general_pinyins": [
+        "quē",
+        "què"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩㄝ",
+        "ㄑㄩㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "门",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "闕"
+    ],
+    "general_ytz": [
+        "闕",
+        "𨵗"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9619",
+            "4254315233534"
+        ],
+        "char_code_wubi": "uubw",
+        "char_code_cangjie": "lstuo",
+        "char_code_zhengma": "tlzr",
+        "char_code_sijiao": "37482"
+    },
+    "general_unicode": "基本区 U+9619",
+    "general_bs_code": "4254315233534"
+}

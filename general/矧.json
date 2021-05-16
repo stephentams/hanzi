@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "much more, still more; the gums"
+        },
+        {
+            "language": "法语",
+            "explanation": "à fortiori"
+        }
+    ],
+    "general_pinyins": [
+        "shěn"
+    ],
+    "general_zhuyins": [
+        "ㄕㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "矢",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "矤",
+        "訠",
+        "𥎧",
+        "𥎪",
+        "𥎯"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "77E7",
+            "311345152"
+        ],
+        "char_code_wubi": "tdxh",
+        "char_code_cangjie": "oknl",
+        "char_code_zhengma": "mayi",
+        "char_code_sijiao": "82800"
+    },
+    "general_unicode": "基本区 U+77E7",
+    "general_bs_code": "311345152"
+}

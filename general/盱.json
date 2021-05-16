@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wide open eyes; to gaze in astonishment"
+        },
+        {
+            "language": "德语",
+            "explanation": "ängstlich, bange"
+        },
+        {
+            "language": "法语",
+            "explanation": "regarder,fixer,écarquiller"
+        }
+    ],
+    "general_pinyins": [
+        "xū"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "3",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥃳",
+        "𥅚"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "76F1",
+            "25111112"
+        ],
+        "char_code_wubi": "hgfh",
+        "char_code_cangjie": "bumd",
+        "char_code_zhengma": "lad",
+        "char_code_sijiao": "61040"
+    },
+    "general_unicode": "基本区 U+76F1",
+    "general_bs_code": "25111112"
+}

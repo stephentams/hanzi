@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "summit of mountain, mountain top"
+        },
+        {
+            "language": "法语",
+            "explanation": "cime d'une montagne"
+        }
+    ],
+    "general_pinyins": [
+        "diān"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "20",
+        "total_sn": "23"
+    },
+    "general_stc": [
+        "巅"
+    ],
+    "general_ytz": [
+        "嵮",
+        "巅",
+        "巓",
+        "𡻗"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5DD4",
+            "25212251111341325111134"
+        ],
+        "char_code_wubi": "mfhm",
+        "char_code_cangjie": "ujcc",
+        "char_code_zhengma": "llog",
+        "char_code_sijiao": "22886"
+    },
+    "general_unicode": "基本区 U+5DD4",
+    "general_bs_code": "25212251111341325111134"
+}

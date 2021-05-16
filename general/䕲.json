@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "Artemisia, a kind of plant with edible leaves"
+        }
+    ],
+    "general_pinyins": [
+        "lǐn"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "16",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦾰"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4572",
+            "1224134125251111234"
+        ],
+        "char_code_wubi": "ayyi|aoyi",
+        "char_code_cangjie": "tiyd",
+        "char_code_zhengma": "etjb",
+        "char_code_sijiao": "44291"
+    },
+    "general_unicode": "扩展A U+4572",
+    "general_bs_code": "1224134125251111234"
+}

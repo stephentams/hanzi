@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mountain in Sichuan province"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom d'une montagne dans le Sichuan)​"
+        }
+    ],
+    "general_pinyins": [
+        "lái"
+    ],
+    "general_zhuyins": [
+        "ㄌㄞˊ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "崃"
+    ],
+    "general_ytz": [
+        "崃"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5D0D",
+            "25213434234"
+        ],
+        "char_code_wubi": "msww",
+        "char_code_cangjie": "udoo",
+        "char_code_zhengma": "lloo",
+        "char_code_sijiao": "24798"
+    },
+    "general_unicode": "基本区 U+5D0D",
+    "general_bs_code": "25213434234"
+}

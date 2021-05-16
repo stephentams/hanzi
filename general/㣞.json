@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to walki; to go"
+        }
+    ],
+    "general_pinyins": [
+        "duó",
+        "duò"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨㄛˊ",
+        "ㄉㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "彳",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "38DE",
+            "332345435"
+        ],
+        "char_code_wubi": "twcq",
+        "char_code_cangjie": "hociu",
+        "char_code_zhengma": "oizr",
+        "char_code_sijiao": "28212"
+    },
+    "general_unicode": "扩展A U+38DE",
+    "general_bs_code": "332345435"
+}

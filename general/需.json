@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "need, require, must"
+        },
+        {
+            "language": "德语",
+            "explanation": "brauchen, bedürfen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "besoin,demande"
+        }
+    ],
+    "general_pinyins": [
+        "xū"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩ"
+    ],
+    "general_radical": {
+        "radical": "雨",
+        "non_radical_sn": "6",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "須",
+        "𦓔",
+        "𩂉"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9700",
+            "14524444132522"
+        ],
+        "char_code_wubi": "fdmj",
+        "char_code_cangjie": "mbmbl",
+        "char_code_zhengma": "fvgl",
+        "char_code_sijiao": "10227"
+    },
+    "general_unicode": "基本区 U+9700",
+    "general_bs_code": "14524444132522"
+}

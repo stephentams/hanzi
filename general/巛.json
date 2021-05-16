@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "river; KangXi radical 47"
+        },
+        {
+            "language": "德语",
+            "explanation": "fließen  (V)​,Radikal Nr. 47 = Strom, Fluss, Bach (Varianten: 川, 巜)​  (Eig, Geo)​,andauernd ,Provinz Sichuan , Szetschuan"
+        }
+    ],
+    "general_pinyins": [
+        "chuān"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨㄢ"
+    ],
+    "general_radical": {
+        "radical": "巛",
+        "non_radical_sn": "0",
+        "total_sn": "3"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "川",
+        "鬊"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5DDB",
+            "555"
+        ],
+        "char_code_wubi": "vnnn",
+        "char_code_cangjie": "vvv",
+        "char_code_zhengma": "zd",
+        "char_code_sijiao": "22227"
+    },
+    "general_unicode": "基本区 U+5DDB",
+    "general_bs_code": "555"
+}

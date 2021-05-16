@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hut, cottage; name of a mountain"
+        },
+        {
+            "language": "德语",
+            "explanation": "Hütte  (S, Arch)​,Kate ( kleines, niedriges Haus )​  (S, Arch)"
+        },
+        {
+            "language": "法语",
+            "explanation": "hutte,cabane"
+        }
+    ],
+    "general_pinyins": [
+        "lú"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "广",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "廬"
+    ],
+    "general_ytz": [
+        "廬",
+        "𡳬"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5E90",
+            "4134513"
+        ],
+        "char_code_wubi": "yyne|oyne",
+        "char_code_cangjie": "ihs",
+        "char_code_zhengma": "tgwm",
+        "char_code_sijiao": "00207"
+    },
+    "general_unicode": "基本区 U+5E90",
+    "general_bs_code": "4134513"
+}

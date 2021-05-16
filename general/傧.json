@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "entertain guests"
+        },
+        {
+            "language": "法语",
+            "explanation": "demoiselle d'honneur (antiquité)​"
+        }
+    ],
+    "general_pinyins": [
+        "bīn"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄣ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "10",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "儐"
+    ],
+    "general_ytz": [
+        "儐"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "50A7",
+            "324453212134"
+        ],
+        "char_code_wubi": "wprw",
+        "char_code_cangjie": "ojoc",
+        "char_code_zhengma": "nwpo",
+        "char_code_sijiao": "23281"
+    },
+    "general_unicode": "基本区 U+50A7",
+    "general_bs_code": "324453212134"
+}

@@ -1,0 +1,57 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "trip, journey; travel; traveler"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ausflug  (S)​,Reise"
+        },
+        {
+            "language": "法语",
+            "explanation": "voyager,voyage,troupes,brigade"
+        }
+    ],
+    "general_pinyins": [
+        "lǚ"
+    ],
+    "general_zhuyins": [
+        "ㄌㄩˇ"
+    ],
+    "general_radical": {
+        "radical": "方",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "捛",
+        "祣",
+        "穭",
+        "魯",
+        "𢬜",
+        "𢰈",
+        "𣃨",
+        "𣄆",
+        "𣥏",
+        "𣥐",
+        "𤣧",
+        "挔",
+        "𧙿",
+        "旅"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "65C5",
+            "4153313534"
+        ],
+        "char_code_wubi": "ytey",
+        "char_code_cangjie": "ysohv",
+        "char_code_zhengma": "symr",
+        "char_code_sijiao": "08232"
+    },
+    "general_unicode": "基本区 U+65C5",
+    "general_bs_code": "4153313534"
+}

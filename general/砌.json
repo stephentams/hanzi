@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to build, pile up; stone steps, brick walk"
+        },
+        {
+            "language": "德语",
+            "explanation": "mauern (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "maçonner"
+        }
+    ],
+    "general_pinyins": [
+        "qì",
+        "qiè"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧˋ",
+        "ㄑㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "切",
+        "矵",
+        "磜",
+        "𥐛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "780C",
+            "132511553"
+        ],
+        "char_code_wubi": "davn|davt",
+        "char_code_cangjie": "mrpsh",
+        "char_code_zhengma": "ghyd",
+        "char_code_sijiao": "17620"
+    },
+    "general_unicode": "基本区 U+780C",
+    "general_bs_code": "132511553"
+}

@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "myna; manah; Acridotheres tristis"
+        }
+    ],
+    "general_pinyins": [
+        "yù"
+    ],
+    "general_zhuyins": [
+        "ㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "鸟",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "鵒"
+    ],
+    "general_ytz": [
+        "鵒",
+        "𨾳",
+        "𨿜",
+        "𪃪",
+        "𩀑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E46",
+            "343425135451"
+        ],
+        "char_code_wubi": "wwkg",
+        "char_code_cangjie": "crpym",
+        "char_code_zhengma": "oojr",
+        "char_code_sijiao": "87627"
+    },
+    "general_unicode": "基本区 U+9E46",
+    "general_bs_code": "343425135451"
+}

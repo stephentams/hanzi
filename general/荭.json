@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "herb"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kraut  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "hóng"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "葒"
+    ],
+    "general_ytz": [
+        "葒"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "836D",
+            "122551121"
+        ],
+        "char_code_wubi": "axaf",
+        "char_code_cangjie": "tvmm",
+        "char_code_zhengma": "ezbi",
+        "char_code_sijiao": "44112"
+    },
+    "general_unicode": "基本区 U+836D",
+    "general_bs_code": "122551121"
+}

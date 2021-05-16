@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pheasant; crenellated wall"
+        },
+        {
+            "language": "德语",
+            "explanation": "Wand  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "faisan"
+        }
+    ],
+    "general_pinyins": [
+        "zhì"
+    ],
+    "general_zhuyins": [
+        "ㄓˋ"
+    ],
+    "general_radical": {
+        "radical": "隹",
+        "non_radical_sn": "5",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "兕",
+        "垁",
+        "埃",
+        "搱",
+        "鴙",
+        "鶨",
+        "𨿘",
+        "𪁩",
+        "𪁰",
+        "𪅊",
+        "𨿝"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "96C9",
+            "3113432411121"
+        ],
+        "char_code_wubi": "tdwy",
+        "char_code_cangjie": "okog",
+        "char_code_zhengma": "mani",
+        "char_code_sijiao": "80815"
+    },
+    "general_unicode": "基本区 U+96C9",
+    "general_bs_code": "3113432411121"
+}

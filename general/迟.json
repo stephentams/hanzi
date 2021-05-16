@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "late, tardy; slow; delay"
+        },
+        {
+            "language": "德语",
+            "explanation": "spät ,spät"
+        },
+        {
+            "language": "法语",
+            "explanation": "tard,en retard,lent"
+        }
+    ],
+    "general_pinyins": [
+        "chí"
+    ],
+    "general_zhuyins": [
+        "ㄔˊ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "遲"
+    ],
+    "general_ytz": [
+        "遲",
+        "赿",
+        "遅",
+        "遟",
+        "迡",
+        "𠌬",
+        "𢕌",
+        "𨒈"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8FDF",
+            "5134454"
+        ],
+        "char_code_wubi": "nypi",
+        "char_code_cangjie": "yso",
+        "char_code_zhengma": "xmsw",
+        "char_code_sijiao": "37308"
+    },
+    "general_unicode": "基本区 U+8FDF",
+    "general_bs_code": "5134454"
+}

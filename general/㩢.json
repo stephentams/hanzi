@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to beat; to strike; to attack, to cut, to diminish, to decide; to udge, to weight; to measure, to wipe; to rub, to dust; to clean"
+        }
+    ],
+    "general_pinyins": [
+        "mí",
+        "miè"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧˊ",
+        "ㄇㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "14",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3A62",
+            "12112225221134534"
+        ],
+        "char_code_wubi": "ralt|ralw",
+        "char_code_cangjie": "qtwi",
+        "char_code_zhengma": "dehs",
+        "char_code_sijiao": "54053"
+    },
+    "general_unicode": "扩展A U+3A62",
+    "general_bs_code": "12112225221134534"
+}

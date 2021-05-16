@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "弋",
+        "non_radical_sn": "1",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "戎"
+    ],
+    "general_structure": "右上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "2237B",
+            "1554"
+        ],
+        "char_code_wubi": "anv",
+        "char_code_cangjie": "ipvs",
+        "char_code_zhengma": "hsz"
+    },
+    "general_unicode": "扩展B U+2237B",
+    "general_bs_code": "1554"
+}

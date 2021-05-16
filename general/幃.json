@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "curtain that forms wall"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gardine  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "rideau"
+        }
+    ],
+    "general_pinyins": [
+        "wéi"
+    ],
+    "general_zhuyins": [
+        "ㄨㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "巾",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "帏"
+    ],
+    "general_ytz": [
+        "帏",
+        "𠥎"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5E43",
+            "252521251152"
+        ],
+        "char_code_wubi": "mhnh|mhng",
+        "char_code_cangjie": "lbdmq",
+        "char_code_zhengma": "lijm",
+        "char_code_sijiao": "44256"
+    },
+    "general_unicode": "基本区 U+5E43",
+    "general_bs_code": "252521251152"
+}

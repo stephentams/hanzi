@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a boundary, a limit"
+        },
+        {
+            "language": "德语",
+            "explanation": "Grenzlinie, Grenze  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "mélanger de l'eau et de la terre glaise"
+        }
+    ],
+    "general_pinyins": [
+        "yán",
+        "shān"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢˊ",
+        "ㄕㄢ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡑋"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "57CF",
+            "121321554"
+        ],
+        "char_code_wubi": "fthp",
+        "char_code_cangjie": "gnkm",
+        "char_code_zhengma": "bmiy",
+        "char_code_sijiao": "42141"
+    },
+    "general_unicode": "基本区 U+57CF",
+    "general_bs_code": "121321554"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to rub with the hand; to stroke"
+        },
+        {
+            "language": "德语",
+            "explanation": "streicheln"
+        },
+        {
+            "language": "法语",
+            "explanation": "frotter à la main,caresser"
+        }
+    ],
+    "general_pinyins": [
+        "sūn"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨㄣ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢶛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "640E",
+            "1215213554234"
+        ],
+        "char_code_wubi": "rbti",
+        "char_code_cangjie": "qndf",
+        "char_code_zhengma": "dymz",
+        "char_code_sijiao": "52093"
+    },
+    "general_unicode": "基本区 U+640E",
+    "general_bs_code": "1215213554234"
+}

@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sackcloth; female hemp plant"
+        },
+        {
+            "language": "法语",
+            "explanation": "chanvre"
+        }
+    ],
+    "general_pinyins": [
+        "jū",
+        "chá"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩ",
+        "ㄔㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥠙",
+        "菹"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "82F4",
+            "12225111"
+        ],
+        "char_code_wubi": "aegf",
+        "char_code_cangjie": "tbm",
+        "char_code_zhengma": "elc",
+        "char_code_sijiao": "44102"
+    },
+    "general_unicode": "基本区 U+82F4",
+    "general_bs_code": "12225111"
+}

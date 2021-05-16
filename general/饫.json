@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "surfeited, satiated; confer"
+        },
+        {
+            "language": "德语",
+            "explanation": "voll, komplett"
+        },
+        {
+            "language": "法语",
+            "explanation": "rempli,rassasié,repus,don"
+        }
+    ],
+    "general_pinyins": [
+        "yù"
+    ],
+    "general_zhuyins": [
+        "ㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "饣",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "飫"
+    ],
+    "general_ytz": [
+        "飫",
+        "秗",
+        "饇",
+        "𩚿",
+        "𩜈",
+        "𩜏",
+        "𩜢"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "996B",
+            "3553134"
+        ],
+        "char_code_wubi": "qntd",
+        "char_code_cangjie": "nvhk",
+        "char_code_zhengma": "oxmg",
+        "char_code_sijiao": "22784"
+    },
+    "general_unicode": "基本区 U+996B",
+    "general_bs_code": "3553134"
+}

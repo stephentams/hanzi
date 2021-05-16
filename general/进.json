@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "advance, make progress, enter"
+        },
+        {
+            "language": "德语",
+            "explanation": "eintreten, hineingehen"
+        },
+        {
+            "language": "法语",
+            "explanation": "entrer,progresser,présenter,recommander"
+        }
+    ],
+    "general_pinyins": [
+        "jìn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "進"
+    ],
+    "general_ytz": [
+        "進",
+        "𡥦",
+        "𨗃",
+        "𨙟"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8FDB",
+            "1132454"
+        ],
+        "char_code_wubi": "fjpk",
+        "char_code_cangjie": "ytt",
+        "char_code_zhengma": "bdnw",
+        "char_code_sijiao": "35300"
+    },
+    "general_unicode": "基本区 U+8FDB",
+    "general_bs_code": "1132454"
+}

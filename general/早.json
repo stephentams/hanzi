@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "early; soon; morning"
+        },
+        {
+            "language": "德语",
+            "explanation": "früh  (Adv)"
+        },
+        {
+            "language": "法语",
+            "explanation": "matin,matinée,tôt,depuis longtemps"
+        }
+    ],
+    "general_pinyins": [
+        "zǎo"
+    ],
+    "general_zhuyins": [
+        "ㄗㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "2",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣅼"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "65E9",
+            "251112"
+        ],
+        "char_code_wubi": "jhnh",
+        "char_code_cangjie": "aj",
+        "char_code_zhengma": "ked",
+        "char_code_sijiao": "60400"
+    },
+    "general_unicode": "基本区 U+65E9",
+    "general_bs_code": "251112"
+}

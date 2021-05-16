@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fear, be afraid; shy, timid"
+        },
+        {
+            "language": "法语",
+            "explanation": "craindre"
+        }
+    ],
+    "general_pinyins": [
+        "chù"
+    ],
+    "general_zhuyins": [
+        "ㄔㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6035",
+            "44212344"
+        ],
+        "char_code_wubi": "nsyy",
+        "char_code_cangjie": "pid",
+        "char_code_zhengma": "ufs",
+        "char_code_sijiao": "93094"
+    },
+    "general_unicode": "基本区 U+6035",
+    "general_bs_code": "44212344"
+}

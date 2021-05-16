@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a shuttlecock"
+        },
+        {
+            "language": "德语",
+            "explanation": "Federball  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "volant (jeu)​"
+        }
+    ],
+    "general_pinyins": [
+        "jiàn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "毛",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨪅"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6BFD",
+            "311551111254"
+        ],
+        "char_code_wubi": "tfnp|evgp",
+        "char_code_cangjie": "hunkq",
+        "char_code_zhengma": "mhby",
+        "char_code_sijiao": "25714"
+    },
+    "general_unicode": "基本区 U+6BFD",
+    "general_bs_code": "311551111254"
+}

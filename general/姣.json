@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "beautiful, handsome, pretty"
+        },
+        {
+            "language": "德语",
+            "explanation": "hübsch, fein"
+        },
+        {
+            "language": "法语",
+            "explanation": "beau,joli"
+        }
+    ],
+    "general_pinyins": [
+        "jiāo",
+        "xiáo"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄠ",
+        "ㄒㄧㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㚣",
+        "妖",
+        "嬌"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "59E3",
+            "531413434"
+        ],
+        "char_code_wubi": "vuqy|vury",
+        "char_code_cangjie": "vyck",
+        "char_code_zhengma": "zmoo",
+        "char_code_sijiao": "40448"
+    },
+    "general_unicode": "基本区 U+59E3",
+    "general_bs_code": "531413434"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "used in transliteration"
+        },
+        {
+            "language": "德语",
+            "explanation": "(Finalpartikel)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "particule interrogative (classique)​,(phonétique)​ ye,(particule finale indiquant l'enthousiasme, etc.)​"
+        }
+    ],
+    "general_pinyins": [
+        "yé",
+        "yē"
+    ],
+    "general_zhuyins": [
+        "ㄧㄝˊ",
+        "ㄧㄝ"
+    ],
+    "general_radical": {
+        "radical": "耳",
+        "non_radical_sn": "2",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "爺",
+        "邪",
+        "𦔶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8036",
+            "12211152"
+        ],
+        "char_code_wubi": "bbh",
+        "char_code_cangjie": "sjnl",
+        "char_code_zhengma": "cey",
+        "char_code_sijiao": "17427"
+    },
+    "general_unicode": "基本区 U+8036",
+    "general_bs_code": "12211152"
+}

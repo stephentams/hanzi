@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "join forces, unite"
+        }
+    ],
+    "general_pinyins": [
+        "lù"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "力",
+        "non_radical_sn": "11",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "勎",
+        "𠝧",
+        "𠢜",
+        "𠢯",
+        "𢑕"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "52E0",
+            "5415413433353"
+        ],
+        "char_code_wubi": "nwel|nwee",
+        "char_code_cangjie": "shks",
+        "char_code_zhengma": "ytpy",
+        "char_code_sijiao": "14227"
+    },
+    "general_unicode": "基本区 U+52E0",
+    "general_bs_code": "5415413433353"
+}

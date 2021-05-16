@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "lady's vanity case; trousseau"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schatulle"
+        }
+    ],
+    "general_pinyins": [
+        "lián"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "大",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "奁"
+    ],
+    "general_ytz": [
+        "匲",
+        "匳",
+        "奁",
+        "籢",
+        "𡙗",
+        "𡚍",
+        "𢅸",
+        "𢊴",
+        "𨕏",
+        "𨘰"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5969",
+            "13412512512515"
+        ],
+        "char_code_wubi": "dakk",
+        "char_code_cangjie": "ksrr",
+        "char_code_zhengma": "gdjj",
+        "char_code_sijiao": "40716"
+    },
+    "general_unicode": "基本区 U+5969",
+    "general_bs_code": "13412512512515"
+}

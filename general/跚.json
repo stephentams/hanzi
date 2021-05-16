@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stagger, limp"
+        },
+        {
+            "language": "法语",
+            "explanation": "boiter"
+        }
+    ],
+    "general_pinyins": [
+        "shān"
+    ],
+    "general_zhuyins": [
+        "ㄕㄢ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "5",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨀢",
+        "𨅖"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8DDA",
+            "251212135351"
+        ],
+        "char_code_wubi": "khmg",
+        "char_code_cangjie": "rmbbm",
+        "char_code_zhengma": "jiqa",
+        "char_code_sijiao": "67140"
+    },
+    "general_unicode": "基本区 U+8DDA",
+    "general_bs_code": "251212135351"
+}

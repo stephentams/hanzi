@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hill"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bank, Böschung  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "flanc (de colline,...)​"
+        }
+    ],
+    "general_pinyins": [
+        "tuó"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "3",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "陁",
+        "陀"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9624",
+            "52525"
+        ],
+        "char_code_wubi": "bbn",
+        "char_code_cangjie": "nlpd",
+        "char_code_zhengma": "yyi",
+        "char_code_sijiao": "74212"
+    },
+    "general_unicode": "基本区 U+9624",
+    "general_bs_code": "52525"
+}

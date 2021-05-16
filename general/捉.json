@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "grasp, clutch; catch, seize"
+        },
+        {
+            "language": "德语",
+            "explanation": "fangen, ergreifen, festnehmen (V)​,greifen, festhalten (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "attraper,capturer"
+        }
+    ],
+    "general_pinyins": [
+        "zhuō"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨㄛ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6349",
+            "1212512134"
+        ],
+        "char_code_wubi": "rkhy",
+        "char_code_cangjie": "qryo",
+        "char_code_zhengma": "dji",
+        "char_code_sijiao": "56081"
+    },
+    "general_unicode": "基本区 U+6349",
+    "general_bs_code": "1212512134"
+}

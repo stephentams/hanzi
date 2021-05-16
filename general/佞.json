@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "flattery; glib"
+        },
+        {
+            "language": "德语",
+            "explanation": "beredsam, wortgewandt"
+        },
+        {
+            "language": "法语",
+            "explanation": "éloquent,insinuant,prompt à la riposte"
+        }
+    ],
+    "general_pinyins": [
+        "nìng"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "侫",
+        "𧦣",
+        "𧩕",
+        "𧭈",
+        "倿"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4F5E",
+            "3211531"
+        ],
+        "char_code_wubi": "wfvg",
+        "char_code_cangjie": "ommv",
+        "char_code_zhengma": "nbzm",
+        "char_code_sijiao": "21244"
+    },
+    "general_unicode": "基本区 U+4F5E",
+    "general_bs_code": "3211531"
+}

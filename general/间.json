@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "midpoint, space; place, locality"
+        },
+        {
+            "language": "德语",
+            "explanation": "zwischen, inmitten, unter  (Präp)​,Raum  (S)​,Zähleinheitswort für Räumlichkeiten  (Zähl)"
+        },
+        {
+            "language": "法语",
+            "explanation": "séparer,mettre un intervalle,intervalle,travée,durant,pièce (d'une maison, etc.)​,chambre,(classificateur des maisons et des chambres)​"
+        }
+    ],
+    "general_pinyins": [
+        "jiān",
+        "jiàn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢ",
+        "ㄐㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "门",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "間"
+    ],
+    "general_ytz": [
+        "間",
+        "閒"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "95F4",
+            "4252511"
+        ],
+        "char_code_wubi": "ujd",
+        "char_code_cangjie": "lsa",
+        "char_code_zhengma": "tlk",
+        "char_code_sijiao": "37601"
+    },
+    "general_unicode": "基本区 U+95F4",
+    "general_bs_code": "4252511"
+}

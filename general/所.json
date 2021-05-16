@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "place, location; numerary adjunct"
+        },
+        {
+            "language": "德语",
+            "explanation": "Platz  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "place,endroit,institut,office,en réalité,(classificateur pour les bâtiments (maisons, petits bâtiments, etc.)​)​,(particule introduisant une proposition relative)​, celui qui,(particule introduisant l'agent du passif dans le registre écrit)​"
+        }
+    ],
+    "general_pinyins": [
+        "suǒ"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨㄛˇ"
+    ],
+    "general_radical": {
+        "radical": "户",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢨷",
+        "㪽",
+        "𠩄",
+        "𢩇"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6240",
+            "33513312"
+        ],
+        "char_code_wubi": "rnrh",
+        "char_code_cangjie": "hshml",
+        "char_code_zhengma": "pdxp",
+        "char_code_sijiao": "72221"
+    },
+    "general_unicode": "基本区 U+6240",
+    "general_bs_code": "33513312"
+}

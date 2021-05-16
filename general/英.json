@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "petal, flower, leaf; brave, a hero; England, English"
+        },
+        {
+            "language": "德语",
+            "explanation": "mutig  (Adj)​,Ying  (Eig, Fam)​,England,Großbritannien"
+        },
+        {
+            "language": "法语",
+            "explanation": "fleur,fine fleur,talent,héros,éminent,beau,(abrév.)​ Angleterre"
+        }
+    ],
+    "general_pinyins": [
+        "yīng"
+    ],
+    "general_zhuyins": [
+        "ㄧㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥍼",
+        "偀",
+        "𦮥"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "82F1",
+            "12225134"
+        ],
+        "char_code_wubi": "amdu",
+        "char_code_cangjie": "tlbk",
+        "char_code_zhengma": "elgd",
+        "char_code_sijiao": "44805"
+    },
+    "general_unicode": "基本区 U+82F1",
+    "general_bs_code": "12225134"
+}

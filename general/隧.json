@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tunnel, underground passageway, path to a tomb"
+        },
+        {
+            "language": "德语",
+            "explanation": "unterirdisch"
+        },
+        {
+            "language": "法语",
+            "explanation": "tunnel,passage souterrain"
+        }
+    ],
+    "general_pinyins": [
+        "suì"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "12",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨽡",
+        "𨽛",
+        "𡑞",
+        "隊",
+        "𨗅"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "96A7",
+            "52431353334454"
+        ],
+        "char_code_wubi": "buep",
+        "char_code_cangjie": "nlyto",
+        "char_code_zhengma": "yugw",
+        "char_code_sijiao": "78233"
+    },
+    "general_unicode": "基本区 U+96A7",
+    "general_bs_code": "52431353334454"
+}

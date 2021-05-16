@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "obey, comply with, follow"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufrechterhalten, festhalten an ,beachten, befolgen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "suivre"
+        }
+    ],
+    "general_pinyins": [
+        "xún"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "彳",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "遁"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5FAA",
+            "332331225111"
+        ],
+        "char_code_wubi": "trfh",
+        "char_code_cangjie": "hohju",
+        "char_code_zhengma": "oiel",
+        "char_code_sijiao": "22264"
+    },
+    "general_unicode": "基本区 U+5FAA",
+    "general_bs_code": "332331225111"
+}

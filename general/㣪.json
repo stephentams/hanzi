@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to walk with slow steps; proceed slowly"
+        }
+    ],
+    "general_pinyins": [
+        "huǎn",
+        "kuò"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄢˇ",
+        "ㄎㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "彳",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "38EA",
+            "332344311354"
+        ],
+        "char_code_wubi": "tefc|tegc",
+        "char_code_cangjie": "hobme",
+        "char_code_zhengma": "oigx",
+        "char_code_sijiao": "22247"
+    },
+    "general_unicode": "扩展A U+38EA",
+    "general_bs_code": "332344311354"
+}

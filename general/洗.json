@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wash, rinse; clean, purify"
+        },
+        {
+            "language": "德语",
+            "explanation": "waschen, spülen, reinigen  (V)​,die Füße waschen ,Getränke klären"
+        },
+        {
+            "language": "法语",
+            "explanation": "laver,nettoyer,massacrer,développer (une photo)​"
+        }
+    ],
+    "general_pinyins": [
+        "xǐ",
+        "xiǎn"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧˇ",
+        "ㄒㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㭠",
+        "洒",
+        "灑",
+        "𣳳"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6D17",
+            "441312135"
+        ],
+        "char_code_wubi": "itfq",
+        "char_code_cangjie": "ehgu",
+        "char_code_zhengma": "vmrd",
+        "char_code_sijiao": "34112"
+    },
+    "general_unicode": "基本区 U+6D17",
+    "general_bs_code": "441312135"
+}

@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as U+9BE7 鯧) the pomfret"
+        }
+    ],
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "魚",
+        "non_radical_sn": "10",
+        "total_sn": "21"
+    },
+    "general_stc": [
+        "䲝"
+    ],
+    "general_ytz": [
+        "䲝",
+        "鯧",
+        "鲳"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4C7D",
+            "352512144443445113251"
+        ],
+        "char_code_wubi": "qowk",
+        "char_code_cangjie": "nfoir",
+        "char_code_zhengma": "roxj",
+        "char_code_sijiao": "28367"
+    },
+    "general_unicode": "扩展A U+4C7D",
+    "general_bs_code": "352512144443445113251"
+}

@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bow or prow of boat"
+        },
+        {
+            "language": "法语",
+            "explanation": "gaillard d'avant ou d'arrière,bac"
+        }
+    ],
+    "general_pinyins": [
+        "lú"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "舟",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "艫"
+    ],
+    "general_ytz": [
+        "艫"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "823B",
+            "33541421513"
+        ],
+        "char_code_wubi": "tehn|tuhn",
+        "char_code_cangjie": "hyys",
+        "char_code_zhengma": "pyix",
+        "char_code_sijiao": "21407"
+    },
+    "general_unicode": "基本区 U+823B",
+    "general_bs_code": "33541421513"
+}

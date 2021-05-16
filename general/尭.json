@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a legendary ancient emperor-sage"
+        }
+    ],
+    "general_pinyins": [
+        "yáo"
+    ],
+    "general_zhuyins": [
+        "ㄧㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "兀",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "堯"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5C2D",
+            "12122135"
+        ],
+        "char_code_wubi": "faqb|fagq",
+        "char_code_cangjie": "jthu",
+        "char_code_zhengma": "edeg",
+        "char_code_sijiao": "40212"
+    },
+    "general_unicode": "基本区 U+5C2D",
+    "general_bs_code": "12122135"
+}

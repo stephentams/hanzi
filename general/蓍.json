@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "milfoil, plant used in divination"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bergschafgarbe (Achillea alpina)​  (S, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "achillée,herbe des devins"
+        }
+    ],
+    "general_pinyins": [
+        "shī"
+    ],
+    "general_zhuyins": [
+        "ㄕ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦮂",
+        "𫂓"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "84CD",
+            "1221213352511"
+        ],
+        "char_code_wubi": "aftj",
+        "char_code_cangjie": "tjpa",
+        "char_code_zhengma": "ebrk",
+        "char_code_sijiao": "44601"
+    },
+    "general_unicode": "基本区 U+84CD",
+    "general_bs_code": "1221213352511"
+}

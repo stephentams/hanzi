@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "raft; drum stick; ridge pole"
+        },
+        {
+            "language": "德语",
+            "explanation": "Strahl  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "radeau,poutre"
+        }
+    ],
+    "general_pinyins": [
+        "fú"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "坿",
+        "柎",
+        "泭",
+        "𣻜"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6874",
+            "12343443521"
+        ],
+        "char_code_wubi": "sebg",
+        "char_code_cangjie": "dbnd",
+        "char_code_zhengma": "fpya",
+        "char_code_sijiao": "42947"
+    },
+    "general_unicode": "基本区 U+6874",
+    "general_bs_code": "12343443521"
+}

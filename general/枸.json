@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "kind of aspen found in Sichuan"
+        },
+        {
+            "language": "法语",
+            "explanation": "citronnier de Médie,goji chinois,Lycium chinense,Citrus medica,cédratier,Cédrat"
+        }
+    ],
+    "general_pinyins": [
+        "jǔ",
+        "gǒu"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩˇ",
+        "ㄍㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣕉",
+        "𣕌",
+        "𣙱"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "67B8",
+            "123435251"
+        ],
+        "char_code_wubi": "sqkg",
+        "char_code_cangjie": "dpr",
+        "char_code_zhengma": "frj",
+        "char_code_sijiao": "47920"
+    },
+    "general_unicode": "基本区 U+67B8",
+    "general_bs_code": "123435251"
+}

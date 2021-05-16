@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fuel, firewood; stubble; Wikstroemia japonica"
+        },
+        {
+            "language": "德语",
+            "explanation": "Brennmaterial, Brennmittel  (S)​,Gras  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "paille"
+        }
+    ],
+    "general_pinyins": [
+        "ráo"
+    ],
+    "general_zhuyins": [
+        "ㄖㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "蕘"
+    ],
+    "general_ytz": [
+        "蕘"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "835B",
+            "122153135"
+        ],
+        "char_code_wubi": "aatq",
+        "char_code_cangjie": "tjpu",
+        "char_code_zhengma": "ehgr",
+        "char_code_sijiao": "44212"
+    },
+    "general_unicode": "基本区 U+835B",
+    "general_bs_code": "122153135"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "go in hurry, hasten; urge"
+        },
+        {
+            "language": "德语",
+            "explanation": "beeilen, eilen"
+        },
+        {
+            "language": "法语",
+            "explanation": "hâter,presser"
+        }
+    ],
+    "general_pinyins": [
+        "zǎn"
+    ],
+    "general_zhuyins": [
+        "ㄗㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "走",
+        "non_radical_sn": "19",
+        "total_sn": "26"
+    },
+    "general_stc": [
+        "趱"
+    ],
+    "general_ytz": [
+        "䟎",
+        "趱"
+    ],
+    "general_structure": "左下包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8DB2",
+            "12121343121353121352511134"
+        ],
+        "char_code_wubi": "fhtm",
+        "char_code_cangjie": "gohuc",
+        "char_code_zhengma": "borl",
+        "char_code_sijiao": "44808"
+    },
+    "general_unicode": "基本区 U+8DB2",
+    "general_bs_code": "12121343121353121352511134"
+}

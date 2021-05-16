@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "two outside ones in three horse"
+        },
+        {
+            "language": "德语",
+            "explanation": "Begleitwagen  (S)​,Extrapferd außerhalb der Deichsel  (S)​,die beiden Außenpferde eines Vierergespanns ,Dreigespann, Troika  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cheval de volée"
+        }
+    ],
+    "general_pinyins": [
+        "cān"
+    ],
+    "general_zhuyins": [
+        "ㄘㄢ"
+    ],
+    "general_radical": {
+        "radical": "马",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "驂"
+    ],
+    "general_ytz": [
+        "驂",
+        "𩥵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9A96",
+            "55154134333"
+        ],
+        "char_code_wubi": "ccde|cgce",
+        "char_code_cangjie": "nmikh",
+        "char_code_zhengma": "xzgp",
+        "char_code_sijiao": "73122"
+    },
+    "general_unicode": "基本区 U+9A96",
+    "general_bs_code": "55154134333"
+}

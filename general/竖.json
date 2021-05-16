@@ -1,0 +1,54 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "perpendicular, vertical; erect"
+        },
+        {
+            "language": "德语",
+            "explanation": "errichten ,senkrecht, Vertikale  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "ériger,dresser,vertical"
+        }
+    ],
+    "general_pinyins": [
+        "shù"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "立",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "竪",
+        "豎"
+    ],
+    "general_ytz": [
+        "竪",
+        "豎",
+        "㑠",
+        "㒘",
+        "䜿",
+        "䝂",
+        "𠐊",
+        "𥪛"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7AD6",
+            "225441431"
+        ],
+        "char_code_wubi": "jcuf",
+        "char_code_cangjie": "leyt",
+        "char_code_zhengma": "kdxs",
+        "char_code_sijiao": "27108"
+    },
+    "general_unicode": "基本区 U+7AD6",
+    "general_bs_code": "225441431"
+}

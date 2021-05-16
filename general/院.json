@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "courtyard, yard, court; school"
+        },
+        {
+            "language": "德语",
+            "explanation": "Anstalt des öffentl. Leben  (S)​,Behörde, Institution  (S, Pol)​,Hof, unzäumtes Grundstück  (S, Arch)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cour,(désignation pour certains établissements gouvernementaux ou publics)​,institut"
+        }
+    ],
+    "general_pinyins": [
+        "yuàn"
+    ],
+    "general_zhuyins": [
+        "ㄩㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "完",
+        "寏",
+        "𫕉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9662",
+            "524451135"
+        ],
+        "char_code_wubi": "bpfq",
+        "char_code_cangjie": "nljmu",
+        "char_code_zhengma": "ywbr",
+        "char_code_sijiao": "73212"
+    },
+    "general_unicode": "基本区 U+9662",
+    "general_bs_code": "524451135"
+}

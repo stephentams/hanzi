@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "old, ancient; former, past"
+        },
+        {
+            "language": "德语",
+            "explanation": "alt, veraltet, überholt  (Adj)​,früher, ehemals, ehemalig  (S)​,Jiu  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "vieux,ancien,usé"
+        }
+    ],
+    "general_pinyins": [
+        "jiù"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "1",
+        "total_sn": "5"
+    },
+    "general_stc": [
+        "舊"
+    ],
+    "general_ytz": [
+        "舊",
+        "𦾔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "65E7",
+            "22511"
+        ],
+        "char_code_wubi": "hjg",
+        "char_code_cangjie": "la",
+        "char_code_zhengma": "ikvv",
+        "char_code_sijiao": "26000"
+    },
+    "general_unicode": "基本区 U+65E7",
+    "general_bs_code": "22511"
+}

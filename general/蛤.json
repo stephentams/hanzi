@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "clam"
+        },
+        {
+            "language": "德语",
+            "explanation": "Muschel ,hemmen, zugeknöpfter Mensch  (S)​,Kröten  (S)​,Frosch  (S, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "palourde,moule (n.f)​,grenouille,crapaud"
+        }
+    ],
+    "general_pinyins": [
+        "gé",
+        "há"
+    ],
+    "general_zhuyins": [
+        "ㄍㄜˊ",
+        "ㄏㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "6",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧊧"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "86E4",
+            "251214341251"
+        ],
+        "char_code_wubi": "jwgk",
+        "char_code_cangjie": "liomr",
+        "char_code_zhengma": "ioaj",
+        "char_code_sijiao": "58161"
+    },
+    "general_unicode": "基本区 U+86E4",
+    "general_bs_code": "251214341251"
+}

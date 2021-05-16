@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "axe"
+        },
+        {
+            "language": "德语",
+            "explanation": "Axt, Beil  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "qiāng"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄤ"
+    ],
+    "general_radical": {
+        "radical": "斤",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "析"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "65A8",
+            "52133312"
+        ],
+        "char_code_wubi": "nhdr|urh",
+        "char_code_cangjie": "vmhml",
+        "char_code_zhengma": "zipd",
+        "char_code_sijiao": "22221"
+    },
+    "general_unicode": "基本区 U+65A8",
+    "general_bs_code": "52133312"
+}

@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cross, ferry over; ferry"
+        },
+        {
+            "language": "德语",
+            "explanation": "überqueren  (V)​,übersetzen (mit Fähre)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "traverser,franchir"
+        }
+    ],
+    "general_pinyins": [
+        "dù"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "度",
+        "𣳥"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6E21",
+            "441413122154"
+        ],
+        "char_code_wubi": "iyac|ioac",
+        "char_code_cangjie": "eite",
+        "char_code_zhengma": "vtex",
+        "char_code_sijiao": "30147"
+    },
+    "general_unicode": "基本区 U+6E21",
+    "general_bs_code": "441413122154"
+}

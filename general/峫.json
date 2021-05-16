@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mountain in Shandong province"
+        }
+    ],
+    "general_pinyins": [
+        "xié",
+        "yé"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄝˊ",
+        "ㄧㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5CEB",
+            "252152352"
+        ],
+        "char_code_wubi": "mahb",
+        "char_code_cangjie": "umhl",
+        "char_code_zhengma": "llhy",
+        "char_code_sijiao": "27727"
+    },
+    "general_unicode": "基本区 U+5CEB",
+    "general_bs_code": "252152352"
+}

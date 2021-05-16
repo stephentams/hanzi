@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rich"
+        },
+        {
+            "language": "德语",
+            "explanation": "Dämonenvertreibung  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "chasser les génies,délicat"
+        }
+    ],
+    "general_pinyins": [
+        "nuó"
+    ],
+    "general_zhuyins": [
+        "ㄋㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "10",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "儺"
+    ],
+    "general_ytz": [
+        "儺",
+        "𠉗",
+        "𠹈",
+        "𩘾",
+        "𩙎",
+        "𩴓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "50A9",
+            "325432411121"
+        ],
+        "char_code_wubi": "wcwy",
+        "char_code_cangjie": "oeog",
+        "char_code_zhengma": "nxni",
+        "char_code_sijiao": "20215"
+    },
+    "general_unicode": "基本区 U+50A9",
+    "general_bs_code": "325432411121"
+}

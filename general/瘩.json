@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pimples"
+        },
+        {
+            "language": "法语",
+            "explanation": "bouton,pustule,furoncle"
+        }
+    ],
+    "general_pinyins": [
+        "dá",
+        "da"
+    ],
+    "general_zhuyins": [
+        "ㄉㄚˊ",
+        "ㄉㄚ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "9",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㾑",
+        "疸",
+        "𤺥",
+        "㟷"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7629",
+            "41341122341251"
+        ],
+        "char_code_wubi": "uawk",
+        "char_code_cangjie": "ktor",
+        "char_code_zhengma": "teaj",
+        "char_code_sijiao": "00161"
+    },
+    "general_unicode": "基本区 U+7629",
+    "general_bs_code": "41341122341251"
+}

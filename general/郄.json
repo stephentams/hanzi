@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "surname"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 Xi  (Eig, Fam)"
+        }
+    ],
+    "general_pinyins": [
+        "qiè",
+        "xì"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄝˋ",
+        "ㄒㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠜗",
+        "𨛠",
+        "郤",
+        "𨚷"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "90C4",
+            "34135452"
+        ],
+        "char_code_wubi": "qdcb|rdcb",
+        "char_code_cangjie": "kinl",
+        "char_code_zhengma": "oszy",
+        "char_code_sijiao": "47727"
+    },
+    "general_unicode": "基本区 U+90C4",
+    "general_bs_code": "34135452"
+}

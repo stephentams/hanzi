@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "KangXi radical 35; go slowly"
+        },
+        {
+            "language": "德语",
+            "explanation": "Radikal Nr. 35 = sich hinschleppen (Sklave)​, langsam gehen"
+        },
+        {
+            "language": "法语",
+            "explanation": "aller lentement (radical)​"
+        }
+    ],
+    "general_pinyins": [
+        "suī"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨㄟ"
+    ],
+    "general_radical": {
+        "radical": "夂",
+        "non_radical_sn": "0",
+        "total_sn": "3"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "綏"
+    ],
+    "general_structure": "单体结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "590A",
+            "354"
+        ],
+        "char_code_wubi": "qyi",
+        "char_code_cangjie": "he",
+        "char_code_zhengma": "rsaa",
+        "char_code_sijiao": "47400"
+    },
+    "general_unicode": "基本区 U+590A",
+    "general_bs_code": "354"
+}

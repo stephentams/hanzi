@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "marsh, swamp; wild country"
+        },
+        {
+            "language": "德语",
+            "explanation": "Marsch, Moor  (S)​,Marschland  (S)​,Sumpf  (S)​,Versammlungsort  (S)​,Zufluchtsstätte  (S)​,versammeln  (V)​,siehe 藪sou3"
+        },
+        {
+            "language": "法语",
+            "explanation": "marais,lieu de rencontre,lieu de rassemblement"
+        }
+    ],
+    "general_pinyins": [
+        "sǒu"
+    ],
+    "general_zhuyins": [
+        "ㄙㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "藪"
+    ],
+    "general_ytz": [
+        "藪",
+        "𡾄"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "85AE",
+            "1224312345313134"
+        ],
+        "char_code_wubi": "aovt",
+        "char_code_cangjie": "tfvk",
+        "char_code_zhengma": "euzm",
+        "char_code_sijiao": "44448"
+    },
+    "general_unicode": "基本区 U+85AE",
+    "general_bs_code": "1224312345313134"
+}

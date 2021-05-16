@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "death of prince; swarming"
+        },
+        {
+            "language": "德语",
+            "explanation": "wimmelnd"
+        },
+        {
+            "language": "法语",
+            "explanation": "mort d'un prince,essaimage"
+        }
+    ],
+    "general_pinyins": [
+        "hōng"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄥ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣩾"
+    ],
+    "general_structure": "上下下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "85A8",
+            "1222522145135435"
+        ],
+        "char_code_wubi": "alpx",
+        "char_code_cangjie": "twlp",
+        "char_code_zhengma": "elrr",
+        "char_code_sijiao": "44212"
+    },
+    "general_unicode": "基本区 U+85A8",
+    "general_bs_code": "1222522145135435"
+}

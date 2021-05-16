@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "licorice"
+        },
+        {
+            "language": "德语",
+            "explanation": "Süßholz  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "Hétéroside"
+        }
+    ],
+    "general_pinyins": [
+        "gān"
+    ],
+    "general_zhuyins": [
+        "ㄍㄢ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "82F7",
+            "12212211"
+        ],
+        "char_code_wubi": "aaff|aff",
+        "char_code_cangjie": "ttm",
+        "char_code_zhengma": "eeb",
+        "char_code_sijiao": "44774"
+    },
+    "general_unicode": "基本区 U+82F7",
+    "general_bs_code": "12212211"
+}

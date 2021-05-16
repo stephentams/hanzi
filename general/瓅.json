@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "法语",
+            "explanation": "brillance (des perles)​"
+        }
+    ],
+    "general_pinyins": [
+        "lì"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "15",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "瓑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "74C5",
+            "1121325115545541234"
+        ],
+        "char_code_wubi": "gxrs|grxs",
+        "char_code_cangjie": "mgvid",
+        "char_code_zhengma": "czzf",
+        "char_code_sijiao": "12194"
+    },
+    "general_unicode": "基本区 U+74C5",
+    "general_bs_code": "1121325115545541234"
+}

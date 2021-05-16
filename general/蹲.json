@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "squat, crouch; idle about"
+        },
+        {
+            "language": "德语",
+            "explanation": "sich ducken, in die Hocke gehen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "s'accroupir"
+        }
+    ],
+    "general_pinyins": [
+        "dūn"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨㄣ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "12",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "俊",
+        "壿",
+        "踆",
+        "𣦝",
+        "𨀛",
+        "躦",
+        "鷷",
+        "𧿬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E72",
+            "2512121431253511124"
+        ],
+        "char_code_wubi": "khuf",
+        "char_code_cangjie": "rmtwi",
+        "char_code_zhengma": "jifd",
+        "char_code_sijiao": "68146"
+    },
+    "general_unicode": "基本区 U+8E72",
+    "general_bs_code": "2512121431253511124"
+}

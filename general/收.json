@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "gather together, collect; harvest"
+        },
+        {
+            "language": "德语",
+            "explanation": "annehmen, entgegenehmen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "recevoir,rassembler,recueillir,récolter,terminer,cesser,revenu,récolte"
+        }
+    ],
+    "general_pinyins": [
+        "shōu"
+    ],
+    "general_zhuyins": [
+        "ㄕㄡ"
+    ],
+    "general_radical": {
+        "radical": "攵",
+        "non_radical_sn": "2",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㧃",
+        "収",
+        "敊",
+        "𠬧",
+        "𦀏"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6536",
+            "523134"
+        ],
+        "char_code_wubi": "nhty",
+        "char_code_cangjie": "vlok",
+        "char_code_zhengma": "zimo",
+        "char_code_sijiao": "28740"
+    },
+    "general_unicode": "基本区 U+6536",
+    "general_bs_code": "523134"
+}

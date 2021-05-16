@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "otter"
+        },
+        {
+            "language": "德语",
+            "explanation": "Otter (lat: Lutrinae, ein Säugetier)​ (S, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "loutre"
+        }
+    ],
+    "general_pinyins": [
+        "tǎ"
+    ],
+    "general_zhuyins": [
+        "ㄊㄚˇ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "獺"
+    ],
+    "general_ytz": [
+        "獺",
+        "㺚",
+        "𧴡"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "736D",
+            "3531251234352534"
+        ],
+        "char_code_wubi": "qtgm|qtsm",
+        "char_code_cangjie": "khdlo",
+        "char_code_zhengma": "qmrl",
+        "char_code_sijiao": "47282"
+    },
+    "general_unicode": "基本区 U+736D",
+    "general_bs_code": "3531251234352534"
+}

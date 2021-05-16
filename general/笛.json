@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bamboo flute; whistle"
+        },
+        {
+            "language": "德语",
+            "explanation": "Flöte  (Mus)"
+        },
+        {
+            "language": "法语",
+            "explanation": "flûte traversière"
+        }
+    ],
+    "general_pinyins": [
+        "dí"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "5",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "篴",
+        "𥳤",
+        "𥴦"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7B1B",
+            "31431425121"
+        ],
+        "char_code_wubi": "tmf",
+        "char_code_cangjie": "hlw",
+        "char_code_zhengma": "mkia",
+        "char_code_sijiao": "88605"
+    },
+    "general_unicode": "基本区 U+7B1B",
+    "general_bs_code": "31431425121"
+}

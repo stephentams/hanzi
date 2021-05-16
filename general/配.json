@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "match, pair; equal; blend"
+        },
+        {
+            "language": "德语",
+            "explanation": "anpassen, angleichen  (V)​,anpassen, zusammengehören  (V)​,ausstatten, bestücken, ausrüsten  (V)​,ergänzen, ersetzen  (V)​,mischen, mixen  (V)​,montieren, passen  (V)​,verbinden, anfügen  (V)​,verdienen  (V)​,vervollständigen, packen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "s'unir,accoupler,remplacer,être digne de"
+        }
+    ],
+    "general_pinyins": [
+        "pèi"
+    ],
+    "general_zhuyins": [
+        "ㄆㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "酉",
+        "non_radical_sn": "3",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "妃"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "914D",
+            "1253511515"
+        ],
+        "char_code_wubi": "sgnn",
+        "char_code_cangjie": "mwsu",
+        "char_code_zhengma": "fdyy",
+        "char_code_sijiao": "17617"
+    },
+    "general_unicode": "基本区 U+914D",
+    "general_bs_code": "1253511515"
+}

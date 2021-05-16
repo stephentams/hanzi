@@ -1,0 +1,27 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "3",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "皀",
+        "簋",
+        "香"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "23321",
+            "2251154"
+        ],
+        "char_code_wubi": "hjcu",
+        "char_code_cangjie": "lai",
+        "char_code_zhengma": "ikzs"
+    },
+    "general_unicode": "扩展B U+23321",
+    "general_bs_code": "2251154"
+}

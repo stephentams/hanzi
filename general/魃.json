@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "drought demon"
+        },
+        {
+            "language": "法语",
+            "explanation": "démon de la sécheresse"
+        }
+    ],
+    "general_pinyins": [
+        "bá"
+    ],
+    "general_zhuyins": [
+        "ㄅㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "鬼",
+        "non_radical_sn": "5",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧺺"
+    ],
+    "general_structure": "左下包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9B43",
+            "32511355413544"
+        ],
+        "char_code_wubi": "rqcc|rqcy",
+        "char_code_cangjie": "hiike",
+        "char_code_zhengma": "njxs",
+        "char_code_sijiao": "23514"
+    },
+    "general_unicode": "基本区 U+9B43",
+    "general_bs_code": "32511355413544"
+}

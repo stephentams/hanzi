@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "outer walls of city; suburbs"
+        },
+        {
+            "language": "德语",
+            "explanation": "Vororte, Vorstädte  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "banlieue"
+        }
+    ],
+    "general_pinyins": [
+        "fú"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "垺",
+        "𡎽",
+        "𡏪"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "90DB",
+            "344352152"
+        ],
+        "char_code_wubi": "ebbh",
+        "char_code_cangjie": "bdnl",
+        "char_code_zhengma": "pvyy",
+        "char_code_sijiao": "27427"
+    },
+    "general_unicode": "基本区 U+90DB",
+    "general_bs_code": "344352152"
+}

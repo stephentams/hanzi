@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sickle for cutting grass or hay"
+        },
+        {
+            "language": "法语",
+            "explanation": "hacher"
+        }
+    ],
+    "general_pinyins": [
+        "zhá"
+    ],
+    "general_zhuyins": [
+        "ㄓㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "鍘"
+    ],
+    "general_ytz": [
+        "鍘",
+        "䥷",
+        "𠝝",
+        "𨮰",
+        "𨰉"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94E1",
+            "31115253422"
+        ],
+        "char_code_wubi": "qmjh",
+        "char_code_cangjie": "opbon",
+        "char_code_zhengma": "plkd",
+        "char_code_sijiao": "82700"
+    },
+    "general_unicode": "基本区 U+94E1",
+    "general_bs_code": "31115253422"
+}

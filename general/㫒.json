@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 廾) hands joined, to support; to aid; to help, to lean upon"
+        }
+    ],
+    "general_pinyins": [
+        "gǒng"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "3",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "廾"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3AD2",
+            "2511132"
+        ],
+        "char_code_wubi": "jaj",
+        "char_code_cangjie": "at",
+        "char_code_zhengma": "kevv",
+        "char_code_sijiao": "60440"
+    },
+    "general_unicode": "扩展A U+3AD2",
+    "general_bs_code": "2511132"
+}

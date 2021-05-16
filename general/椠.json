@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wooden tablet; edition"
+        },
+        {
+            "language": "德语",
+            "explanation": "Auflage  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tablette en bois,édition"
+        }
+    ],
+    "general_pinyins": [
+        "qiàn"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "槧"
+    ],
+    "general_ytz": [
+        "槧"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6920",
+            "152133121234"
+        ],
+        "char_code_wubi": "lrsu",
+        "char_code_cangjie": "kld",
+        "char_code_zhengma": "hepf",
+        "char_code_sijiao": "42904"
+    },
+    "general_unicode": "基本区 U+6920",
+    "general_bs_code": "152133121234"
+}

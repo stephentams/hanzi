@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "comfort, console, calm"
+        },
+        {
+            "language": "德语",
+            "explanation": "beruhigen, versichern ,trösten  (V)​,beruhigt  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "consoler,soulager,se rassurer"
+        }
+    ],
+    "general_pinyins": [
+        "wèi"
+    ],
+    "general_zhuyins": [
+        "ㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "11",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "尉",
+        "𢟬",
+        "𢠢"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6170",
+            "513112341244544"
+        ],
+        "char_code_wubi": "nfin",
+        "char_code_cangjie": "sip",
+        "char_code_zhengma": "xmdw",
+        "char_code_sijiao": "74330"
+    },
+    "general_unicode": "基本区 U+6170",
+    "general_bs_code": "513112341244544"
+}

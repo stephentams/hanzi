@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "livestock, domestic animals"
+        },
+        {
+            "language": "法语",
+            "explanation": "bestiaux,animaux domestiques,élever,nourrir"
+        }
+    ],
+    "general_pinyins": [
+        "xù",
+        "chù"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩˋ",
+        "ㄔㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "田",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "嘼",
+        "𠬀",
+        "𤛅",
+        "𤠕",
+        "𤲸",
+        "蓄",
+        "𠾧"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "755C",
+            "4155425121"
+        ],
+        "char_code_wubi": "yxlf",
+        "char_code_cangjie": "yviw",
+        "char_code_zhengma": "szzk",
+        "char_code_sijiao": "00603"
+    },
+    "general_unicode": "基本区 U+755C",
+    "general_bs_code": "4155425121"
+}

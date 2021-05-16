@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to sacrifice, worship"
+        },
+        {
+            "language": "德语",
+            "explanation": "ein Opfer erbringen"
+        }
+    ],
+    "general_pinyins": [
+        "sì"
+    ],
+    "general_zhuyins": [
+        "ㄙˋ"
+    ],
+    "general_radical": {
+        "radical": "礻",
+        "non_radical_sn": "3",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "祠",
+        "禩",
+        "𥘰",
+        "𥙉",
+        "𥛴",
+        "𥜥"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7940",
+            "4524515"
+        ],
+        "char_code_wubi": "pynn",
+        "char_code_cangjie": "ifru",
+        "char_code_zhengma": "wsyy",
+        "char_code_sijiao": "37217"
+    },
+    "general_unicode": "基本区 U+7940",
+    "general_bs_code": "4524515"
+}

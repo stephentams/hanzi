@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "examine into, impeach, charge"
+        },
+        {
+            "language": "德语",
+            "explanation": "anklagen"
+        },
+        {
+            "language": "法语",
+            "explanation": "juger"
+        }
+    ],
+    "general_pinyins": [
+        "hé"
+    ],
+    "general_zhuyins": [
+        "ㄏㄜˊ"
+    ],
+    "general_radical": {
+        "radical": "力",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "勓",
+        "𠛳",
+        "𠜨",
+        "𠡌"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "52BE",
+            "41533453"
+        ],
+        "char_code_wubi": "yntl|ynte",
+        "char_code_cangjie": "yoks",
+        "char_code_zhengma": "szoy",
+        "char_code_sijiao": "04827"
+    },
+    "general_unicode": "基本区 U+52BE",
+    "general_bs_code": "41533453"
+}

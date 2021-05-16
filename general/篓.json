@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bamboo basket"
+        },
+        {
+            "language": "法语",
+            "explanation": "manne,corbeille"
+        }
+    ],
+    "general_pinyins": [
+        "lǒu"
+    ],
+    "general_zhuyins": [
+        "ㄌㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "9",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "簍"
+    ],
+    "general_ytz": [
+        "簍"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7BD3",
+            "314314431234531"
+        ],
+        "char_code_wubi": "tovf",
+        "char_code_cangjie": "hfdv",
+        "char_code_zhengma": "muzm",
+        "char_code_sijiao": "88404"
+    },
+    "general_unicode": "基本区 U+7BD3",
+    "general_bs_code": "314314431234531"
+}

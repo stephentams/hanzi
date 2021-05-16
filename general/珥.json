@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ear ornament; stick, insert"
+        },
+        {
+            "language": "法语",
+            "explanation": "boucles d'oreilles de jade ou de pierre précieuse,poignée d'épée en forme d'oreilles,halo autour de la Lune ou du Soleil"
+        }
+    ],
+    "general_pinyins": [
+        "ěr"
+    ],
+    "general_zhuyins": [
+        "ㄦˇ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥙟"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "73E5",
+            "1121122111"
+        ],
+        "char_code_wubi": "gbg",
+        "char_code_cangjie": "mgsj",
+        "char_code_zhengma": "cce",
+        "char_code_sijiao": "11140"
+    },
+    "general_unicode": "基本区 U+73E5",
+    "general_bs_code": "1121122111"
+}

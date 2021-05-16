@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fabulous mythical bird"
+        },
+        {
+            "language": "法语",
+            "explanation": "oiseau mythologique n'ayant qu'un oeil et qu'une aile"
+        }
+    ],
+    "general_pinyins": [
+        "jiān"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "鳥",
+        "non_radical_sn": "10",
+        "total_sn": "21"
+    },
+    "general_stc": [
+        "鹣"
+    ],
+    "general_ytz": [
+        "鹣"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9DBC",
+            "431511223432511154444"
+        ],
+        "char_code_wubi": "uvoo|uvjo",
+        "char_code_cangjie": "tchaf",
+        "char_code_zhengma": "uaxr",
+        "char_code_sijiao": "87227"
+    },
+    "general_unicode": "基本区 U+9DBC",
+    "general_bs_code": "431511223432511154444"
+}

@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mud, mire; earth, clay; plaster"
+        },
+        {
+            "language": "德语",
+            "explanation": "Futterbrei  (S)​,Lehm, Ton  (S)​,Pasta  (S)​,Paste  (S)​,Schlamm  (S)​,einstampfen, entfleischen  (V)​,Ni  (Eig, Fam)​,hielt zurück, zurückgehalten"
+        },
+        {
+            "language": "法语",
+            "explanation": "boue,fange,bourbier,pâte,argile,enduire,s'opiniâtrer"
+        }
+    ],
+    "general_pinyins": [
+        "ní",
+        "nì"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧˊ",
+        "ㄋㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䛏",
+        "坭",
+        "埿",
+        "𡊴",
+        "𡌰",
+        "𥩥",
+        "泥"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6CE5",
+            "44151335"
+        ],
+        "char_code_wubi": "inxn",
+        "char_code_cangjie": "esp",
+        "char_code_zhengma": "vxrr",
+        "char_code_sijiao": "37112"
+    },
+    "general_unicode": "基本区 U+6CE5",
+    "general_bs_code": "44151335"
+}

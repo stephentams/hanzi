@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a kind of fish; a bonito, (same as U+9B81) shark"
+        }
+    ],
+    "general_pinyins": [
+        "bā",
+        "bà"
+    ],
+    "general_zhuyins": [
+        "ㄅㄚ",
+        "ㄅㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "鱼",
+        "non_radical_sn": "4",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "䰾"
+    ],
+    "general_ytz": [
+        "𩵒"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9C83",
+            "352512115215"
+        ],
+        "char_code_wubi": "qgcn",
+        "char_code_cangjie": "nmau",
+        "char_code_zhengma": "ryia",
+        "char_code_sijiao": "27117"
+    },
+    "general_unicode": "基本区 U+9C83",
+    "general_bs_code": "352512115215"
+}

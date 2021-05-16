@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to end; to exterminate"
+        },
+        {
+            "language": "德语",
+            "explanation": "ausrotten"
+        },
+        {
+            "language": "法语",
+            "explanation": "détruire"
+        }
+    ],
+    "general_pinyins": [
+        "tiǎn"
+    ],
+    "general_zhuyins": [
+        "ㄊㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "歹",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣦺",
+        "𣧠",
+        "𣧢",
+        "𠂈"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6B84",
+            "135434333"
+        ],
+        "char_code_wubi": "gqwe",
+        "char_code_cangjie": "mnohh",
+        "char_code_zhengma": "arop",
+        "char_code_sijiao": "18222"
+    },
+    "general_unicode": "基本区 U+6B84",
+    "general_bs_code": "135434333"
+}

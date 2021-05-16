@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "misfortune, disaster, calamity"
+        },
+        {
+            "language": "德语",
+            "explanation": "Unglück  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "malheur,calamité,désastre,conduire qqn au désastre"
+        }
+    ],
+    "general_pinyins": [
+        "yāng"
+    ],
+    "general_zhuyins": [
+        "ㄧㄤ"
+    ],
+    "general_radical": {
+        "radical": "歹",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䄃",
+        "𥙏",
+        "𢈮"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6B83",
+            "135425134"
+        ],
+        "char_code_wubi": "gqmd",
+        "char_code_cangjie": "mnlbk",
+        "char_code_zhengma": "arlg",
+        "char_code_sijiao": "15280"
+    },
+    "general_unicode": "基本区 U+6B83",
+    "general_bs_code": "135425134"
+}

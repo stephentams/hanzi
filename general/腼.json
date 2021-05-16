@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "modest"
+        },
+        {
+            "language": "德语",
+            "explanation": "scheuen, scheu werden  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "timide,réservé,pudique"
+        }
+    ],
+    "general_pinyins": [
+        "miǎn"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "靦"
+    ],
+    "general_ytz": [
+        "靦",
+        "𥈅"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "817C",
+            "3511132522111"
+        ],
+        "char_code_wubi": "edmd|edlf",
+        "char_code_cangjie": "bmwl",
+        "char_code_zhengma": "qgjk",
+        "char_code_sijiao": "71262"
+    },
+    "general_unicode": "基本区 U+817C",
+    "general_bs_code": "3511132522111"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pound; weigh"
+        },
+        {
+            "language": "德语",
+            "explanation": "Pfund = 1 Jin [ 斤 chin. Gewichtseinheit ], engl. Pfund [ = 0,9027 Jin ]  (S)​,typografischer Punkt  (S)​,Waage  (S, Tech)​,wiegen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "livre (unité de masse)​"
+        }
+    ],
+    "general_pinyins": [
+        "bàng",
+        "páng"
+    ],
+    "general_zhuyins": [
+        "ㄅㄤˋ",
+        "ㄆㄤˊ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "10",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥓯"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "78C5",
+            "132514143454153"
+        ],
+        "char_code_wubi": "dupy|dyuy",
+        "char_code_cangjie": "mrybs",
+        "char_code_zhengma": "gsws",
+        "char_code_sijiao": "10627"
+    },
+    "general_unicode": "基本区 U+78C5",
+    "general_bs_code": "132514143454153"
+}

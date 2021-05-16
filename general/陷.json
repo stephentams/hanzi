@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "submerge, sink, plunge; trap"
+        },
+        {
+            "language": "德语",
+            "explanation": "fallen, absinken ,fangen, abfangen"
+        },
+        {
+            "language": "法语",
+            "explanation": "tomber,s'enliser,s'enfoncer,accuser faussement"
+        }
+    ],
+    "general_pinyins": [
+        "xiàn"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䧟",
+        "埳",
+        "臽",
+        "陥",
+        "𨺂",
+        "𨺻"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9677",
+            "5235321511"
+        ],
+        "char_code_wubi": "bqvg|bqeg",
+        "char_code_cangjie": "nlnhx",
+        "char_code_zhengma": "yrnb",
+        "char_code_sijiao": "77277"
+    },
+    "general_unicode": "基本区 U+9677",
+    "general_bs_code": "5235321511"
+}

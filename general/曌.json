@@ -1,0 +1,30 @@
+{
+    "general_pinyins": [
+        "zhào"
+    ],
+    "general_zhuyins": [
+        "ㄓㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "12",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "照"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "66CC",
+            "2511351144534121"
+        ],
+        "char_code_wubi": "jepa",
+        "char_code_cangjie": "abjcm",
+        "char_code_zhengma": "kqwb",
+        "char_code_sijiao": "67102"
+    },
+    "general_unicode": "基本区 U+66CC",
+    "general_bs_code": "2511351144534121"
+}

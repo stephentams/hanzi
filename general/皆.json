@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "all, every, everybody"
+        },
+        {
+            "language": "德语",
+            "explanation": "ganz, allesamt, alle, völlig  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tout,tous"
+        }
+    ],
+    "general_pinyins": [
+        "jiē"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄝ"
+    ],
+    "general_radical": {
+        "radical": "白",
+        "non_radical_sn": "4",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "偕",
+        "𣅜"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7686",
+            "153532511"
+        ],
+        "char_code_wubi": "xxrf",
+        "char_code_cangjie": "ppha",
+        "char_code_zhengma": "rrrn",
+        "char_code_sijiao": "22602"
+    },
+    "general_unicode": "基本区 U+7686",
+    "general_bs_code": "153532511"
+}

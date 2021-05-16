@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "come across, meet with, encounter"
+        },
+        {
+            "language": "德语",
+            "explanation": "drehen, rotieren  (V)​,erleiden, erleben  (V)​,jedesmal, jeweils  (V)​,aussetzen, unterziehen, auf die Probe stellen, erproben"
+        },
+        {
+            "language": "法语",
+            "explanation": "subir,éprouver,(classificateur pour les événements)​"
+        }
+    ],
+    "general_pinyins": [
+        "zāo"
+    ],
+    "general_zhuyins": [
+        "ㄗㄠ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "傮",
+        "𣩒",
+        "𨗐",
+        "𨘜",
+        "𨙠"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "906D",
+            "12512212511454"
+        ],
+        "char_code_wubi": "gmap",
+        "char_code_cangjie": "ytwa",
+        "char_code_zhengma": "ekkw",
+        "char_code_sijiao": "35306"
+    },
+    "general_unicode": "基本区 U+906D",
+    "general_bs_code": "12512212511454"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "frame; framework; door frame"
+        },
+        {
+            "language": "德语",
+            "explanation": "Rahmen, Einfassung, Umrandung  (S, Tech)​,einrahmen, umrahmen, einfassen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "châssis,cadre"
+        }
+    ],
+    "general_pinyins": [
+        "kuàng"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄤˋ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "匡",
+        "𨴑",
+        "𣒸"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6846",
+            "1234111215"
+        ],
+        "char_code_wubi": "sagg",
+        "char_code_cangjie": "xdsmg",
+        "char_code_zhengma": "fhc",
+        "char_code_sijiao": "41911"
+    },
+    "general_unicode": "基本区 U+6846",
+    "general_bs_code": "1234111215"
+}

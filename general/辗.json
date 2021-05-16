@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "turn over, roll"
+        },
+        {
+            "language": "德语",
+            "explanation": "Walze  (S)​,auf die andere Seite rollen  (V)​,überfahren  (V)​,eine halbe Umdrehung  (V)​,sich hin und her wälzen, rollen  (V)​,umdrehen  (V)​,von Ort zu Ort wandern, durch viele Hände laufen, im Umlauf sein  (V)​,walzen  (V)​,wälzen  (V)​,zerquetschen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tourner"
+        }
+    ],
+    "general_pinyins": [
+        "zhǎn",
+        "niǎn"
+    ],
+    "general_zhuyins": [
+        "ㄓㄢˇ",
+        "ㄋㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "车",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "輾"
+    ],
+    "general_ytz": [
+        "輾"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8F97",
+            "15215131221534"
+        ],
+        "char_code_wubi": "lnae",
+        "char_code_cangjie": "kqstv",
+        "char_code_zhengma": "heeh",
+        "char_code_sijiao": "47532"
+    },
+    "general_unicode": "基本区 U+8F97",
+    "general_bs_code": "15215131221534"
+}

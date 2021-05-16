@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "德语",
+            "explanation": "recognize, understand, know"
+        },
+        {
+            "language": "法语",
+            "explanation": "德语 aufnehmen, erfassen  (V)​,vertiefte Inschrift: sich erinnern  (V)"
+        }
+    ],
+    "general_pinyins": [
+        "shí",
+        "zhì"
+    ],
+    "general_zhuyins": [
+        "ㄕˊ",
+        "ㄓˋ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "識"
+    ],
+    "general_ytz": [
+        "識",
+        "𧥾",
+        "𧨺",
+        "𧬣"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BC6",
+            "4525134"
+        ],
+        "char_code_wubi": "ykwy",
+        "char_code_cangjie": "ivrc",
+        "char_code_zhengma": "sjo",
+        "char_code_sijiao": "36780"
+    },
+    "general_unicode": "基本区 U+8BC6",
+    "general_bs_code": "4525134"
+}

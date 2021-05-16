@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "magpie; Pica species (various)"
+        },
+        {
+            "language": "德语",
+            "explanation": "Elster  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "pie,geai,choucas"
+        }
+    ],
+    "general_pinyins": [
+        "què"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "鸟",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "鵲"
+    ],
+    "general_ytz": [
+        "鵲",
+        "䧿",
+        "𩁆"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E4A",
+            "1221251135451"
+        ],
+        "char_code_wubi": "ajqg",
+        "char_code_cangjie": "tapym",
+        "char_code_zhengma": "eakr",
+        "char_code_sijiao": "47627"
+    },
+    "general_unicode": "基本区 U+9E4A",
+    "general_bs_code": "1221251135451"
+}

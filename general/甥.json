@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sister's child"
+        },
+        {
+            "language": "德语",
+            "explanation": "Neffe  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "neveu (fils de soeur)​"
+        }
+    ],
+    "general_pinyins": [
+        "shēng"
+    ],
+    "general_zhuyins": [
+        "ㄕㄥ"
+    ],
+    "general_radical": {
+        "radical": "生",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㽒",
+        "生",
+        "𤯳"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7525",
+            "311212512153"
+        ],
+        "char_code_wubi": "tgll|tgle",
+        "char_code_cangjie": "hmwks",
+        "char_code_zhengma": "mcky",
+        "char_code_sijiao": "26127"
+    },
+    "general_unicode": "基本区 U+7525",
+    "general_bs_code": "311212512153"
+}

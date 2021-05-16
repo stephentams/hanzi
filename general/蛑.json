@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a marine crab"
+        },
+        {
+            "language": "法语",
+            "explanation": "crabe marin"
+        }
+    ],
+    "general_pinyins": [
+        "móu"
+    ],
+    "general_zhuyins": [
+        "ㄇㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "6",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䗋",
+        "𧋟",
+        "蝥",
+        "蟊"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "86D1",
+            "251214543112"
+        ],
+        "char_code_wubi": "jcrh|jctg",
+        "char_code_cangjie": "liihq",
+        "char_code_zhengma": "izmb",
+        "char_code_sijiao": "53150"
+    },
+    "general_unicode": "基本区 U+86D1",
+    "general_bs_code": "251214543112"
+}

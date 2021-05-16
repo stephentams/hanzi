@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "chin"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kinn  (S)​,Kinn  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "menton,(utilisé dans les noms d'oiseaux)​ gorge"
+        }
+    ],
+    "general_pinyins": [
+        "kē"
+    ],
+    "general_zhuyins": [
+        "ㄎㄜ"
+    ],
+    "general_radical": {
+        "radical": "页",
+        "non_radical_sn": "6",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "頦"
+    ],
+    "general_ytz": [
+        "頦",
+        "𩒁"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "988F",
+            "415334132534"
+        ],
+        "char_code_wubi": "yntm",
+        "char_code_cangjie": "yombo",
+        "char_code_zhengma": "szog",
+        "char_code_sijiao": "01882"
+    },
+    "general_unicode": "基本区 U+988F",
+    "general_bs_code": "415334132534"
+}

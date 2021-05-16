@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mud; miry, muddy, stagnant"
+        },
+        {
+            "language": "德语",
+            "explanation": "schlammig, matschig, verschmutzt  (Adj)​,norddeutsch: muddig, engl: muddy"
+        },
+        {
+            "language": "法语",
+            "explanation": "boueux"
+        }
+    ],
+    "general_pinyins": [
+        "nìng"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "濘"
+    ],
+    "general_ytz": [
+        "濘",
+        "澝"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6CDE",
+            "44144512"
+        ],
+        "char_code_wubi": "ipsh",
+        "char_code_cangjie": "ejmn",
+        "char_code_zhengma": "vwai",
+        "char_code_sijiao": "33121"
+    },
+    "general_unicode": "基本区 U+6CDE",
+    "general_bs_code": "44144512"
+}

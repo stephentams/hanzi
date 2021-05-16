@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wheat, barley, oats; simplified form of KangXi radical number 199"
+        },
+        {
+            "language": "德语",
+            "explanation": "Getreide, Korn, Weizen, Gerste, Hafer  (S, Bio)​,Radikal Nr. 199 = Weizen, Gerste, Hafer  (S, Sprachw)"
+        },
+        {
+            "language": "法语",
+            "explanation": "blé,céréale"
+        }
+    ],
+    "general_pinyins": [
+        "mài"
+    ],
+    "general_zhuyins": [
+        "ㄇㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "麦",
+        "non_radical_sn": "0",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "麥"
+    ],
+    "general_ytz": [
+        "麥"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9EA6",
+            "1121354"
+        ],
+        "char_code_wubi": "gtu",
+        "char_code_cangjie": "qme",
+        "char_code_zhengma": "cirs",
+        "char_code_sijiao": "50407"
+    },
+    "general_unicode": "基本区 U+9EA6",
+    "general_bs_code": "1121354"
+}

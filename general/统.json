@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "govern, command, control; unite"
+        },
+        {
+            "language": "德语",
+            "explanation": "Zusammenhang, System  (S)​,Tong  (Eig, Fam)​,ganz, gesamt, all"
+        },
+        {
+            "language": "法语",
+            "explanation": "tout,ensemble,unifier"
+        }
+    ],
+    "general_pinyins": [
+        "tǒng"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "統"
+    ],
+    "general_ytz": [
+        "統",
+        "綂"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EDF",
+            "551415435"
+        ],
+        "char_code_wubi": "xycq",
+        "char_code_cangjie": "vmyiu",
+        "char_code_zhengma": "zszr",
+        "char_code_sijiao": "20112"
+    },
+    "general_unicode": "基本区 U+7EDF",
+    "general_bs_code": "551415435"
+}

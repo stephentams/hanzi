@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sharp, keen, acute, pointed"
+        },
+        {
+            "language": "德语",
+            "explanation": "Rui  (Eig, Fam)​,scharf, intensiv"
+        },
+        {
+            "language": "法语",
+            "explanation": "pointu,acéré"
+        }
+    ],
+    "general_pinyins": [
+        "ruì"
+    ],
+    "general_zhuyins": [
+        "ㄖㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "銳",
+        "鋭"
+    ],
+    "general_ytz": [
+        "銳",
+        "鋭",
+        "䇤",
+        "𨦣"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9510",
+            "311154325135"
+        ],
+        "char_code_wubi": "qukq",
+        "char_code_cangjie": "opcru",
+        "char_code_zhengma": "pujr",
+        "char_code_sijiao": "88712"
+    },
+    "general_unicode": "基本区 U+9510",
+    "general_bs_code": "311154325135"
+}

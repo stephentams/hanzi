@@ -1,0 +1,58 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "chat, jaw, gossip, talk; mouth"
+        },
+        {
+            "language": "德语",
+            "explanation": "Wai  (Eig, Fam)​,tratschen, klatschen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom de famille)​,(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "wāi",
+        "hé",
+        "wǒ",
+        "wā",
+        "guǎ",
+        "guō"
+    ],
+    "general_zhuyins": [
+        "ㄨㄞ",
+        "ㄏㄜˊ",
+        "ㄨㄛˇ",
+        "ㄨㄚ",
+        "ㄍㄨㄚˇ",
+        "ㄍㄨㄛ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "咼"
+    ],
+    "general_ytz": [
+        "咼",
+        "𠿎",
+        "𡁑"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5459",
+            "2512534"
+        ],
+        "char_code_wubi": "kmwu",
+        "char_code_cangjie": "rob",
+        "char_code_zhengma": "jlod",
+        "char_code_sijiao": "60227"
+    },
+    "general_unicode": "基本区 U+5459",
+    "general_bs_code": "2512534"
+}

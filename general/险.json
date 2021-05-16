@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "narrow pass, strategic point"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gefahr, Bedrohung  (S)​,rau, wild zerklüftet"
+        },
+        {
+            "language": "法语",
+            "explanation": "danger,péril"
+        }
+    ],
+    "general_pinyins": [
+        "xiǎn"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "7",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "險"
+    ],
+    "general_ytz": [
+        "險",
+        "険",
+        "𡽗"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9669",
+            "523414431"
+        ],
+        "char_code_wubi": "bwgi|bwgg",
+        "char_code_cangjie": "nlomm",
+        "char_code_zhengma": "yobv",
+        "char_code_sijiao": "78219"
+    },
+    "general_unicode": "基本区 U+9669",
+    "general_bs_code": "523414431"
+}

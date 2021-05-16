@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "the temporal bone"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bethaus  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "Tempe (anatomie)​"
+        }
+    ],
+    "general_pinyins": [
+        "niè"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "页",
+        "non_radical_sn": "10",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "顳"
+    ],
+    "general_ytz": [
+        "顳"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "989E",
+            "1221115454132534"
+        ],
+        "char_code_wubi": "bccm",
+        "char_code_cangjie": "sembo",
+        "char_code_zhengma": "cexg",
+        "char_code_sijiao": "11482"
+    },
+    "general_unicode": "基本区 U+989E",
+    "general_bs_code": "1221115454132534"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "male mandarin duck (Aix galericulata)"
+        },
+        {
+            "language": "德语",
+            "explanation": "Mandarinente ,glückliches Paar"
+        },
+        {
+            "language": "法语",
+            "explanation": "canard mandarin"
+        }
+    ],
+    "general_pinyins": [
+        "yuān"
+    ],
+    "general_zhuyins": [
+        "ㄩㄢ"
+    ],
+    "general_radical": {
+        "radical": "鸟",
+        "non_radical_sn": "5",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "鴛"
+    ],
+    "general_ytz": [
+        "鴛"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E33",
+            "3545535451"
+        ],
+        "char_code_wubi": "qbqg",
+        "char_code_cangjie": "nupym",
+        "char_code_zhengma": "rsyr",
+        "char_code_sijiao": "27127"
+    },
+    "general_unicode": "基本区 U+9E33",
+    "general_bs_code": "3545535451"
+}

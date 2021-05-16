@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bury, sink, block up; stain"
+        },
+        {
+            "language": "德语",
+            "explanation": "nicht zu erkennen, verdunkelte ,tauchte unter ,nicht zu erkennen, verdunkelte ,tauchte unter"
+        },
+        {
+            "language": "法语",
+            "explanation": "tomber dans l'oubli,obstruer,boucher,plonger"
+        }
+    ],
+    "general_pinyins": [
+        "yān",
+        "yīn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢ",
+        "ㄧㄣ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "洇",
+        "𣽔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6E6E",
+            "441125221121"
+        ],
+        "char_code_wubi": "isfg",
+        "char_code_cangjie": "emwg",
+        "char_code_zhengma": "vfb",
+        "char_code_sijiao": "31114"
+    },
+    "general_unicode": "基本区 U+6E6E",
+    "general_bs_code": "441125221121"
+}

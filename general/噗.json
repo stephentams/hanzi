@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "burst"
+        },
+        {
+            "language": "德语",
+            "explanation": "begießen, bewässern"
+        },
+        {
+            "language": "法语",
+            "explanation": "(onom.)​ pfff"
+        }
+    ],
+    "general_pinyins": [
+        "pū"
+    ],
+    "general_zhuyins": [
+        "ㄆㄨ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5657",
+            "251224314311134"
+        ],
+        "char_code_wubi": "kogy|koug",
+        "char_code_cangjie": "rtco",
+        "char_code_zhengma": "jkuc",
+        "char_code_sijiao": "62085"
+    },
+    "general_unicode": "基本区 U+5657",
+    "general_bs_code": "251224314311134"
+}

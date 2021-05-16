@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "reach to, spread to; extensive"
+        },
+        {
+            "language": "法语",
+            "explanation": "(prénom)​"
+        }
+    ],
+    "general_pinyins": [
+        "tán",
+        "qín"
+    ],
+    "general_zhuyins": [
+        "ㄊㄢˊ",
+        "ㄑㄧㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "覀",
+        "non_radical_sn": "6",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "蕈",
+        "𧟩",
+        "𧟹",
+        "𪉙",
+        "𪉞",
+        "𪉫",
+        "𪉲",
+        "𪉷"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8983",
+            "125221251112"
+        ],
+        "char_code_wubi": "sjj",
+        "char_code_cangjie": "mwaj",
+        "char_code_zhengma": "fjke",
+        "char_code_sijiao": "10406"
+    },
+    "general_unicode": "基本区 U+8983",
+    "general_bs_code": "125221251112"
+}

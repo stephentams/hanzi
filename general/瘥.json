@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to recover from any disease; an epidemic"
+        },
+        {
+            "language": "法语",
+            "explanation": "maladie,se remettre de la maladie"
+        }
+    ],
+    "general_pinyins": [
+        "chài",
+        "cuó"
+    ],
+    "general_zhuyins": [
+        "ㄔㄞˋ",
+        "ㄘㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "9",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "差",
+        "𣩈",
+        "𤻸",
+        "𦏱"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7625",
+            "41341431113121"
+        ],
+        "char_code_wubi": "uuda|uuad",
+        "char_code_cangjie": "ktqm",
+        "char_code_zhengma": "tubi",
+        "char_code_sijiao": "00112"
+    },
+    "general_unicode": "基本区 U+7625",
+    "general_bs_code": "41341431113121"
+}

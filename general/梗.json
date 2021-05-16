@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "stem of flower, branch of plant"
+        },
+        {
+            "language": "德语",
+            "explanation": "eindämmen, Stängel  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "ronces,obstacle,opiniâtre"
+        }
+    ],
+    "general_pinyins": [
+        "gěng"
+    ],
+    "general_zhuyins": [
+        "ㄍㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㾘",
+        "𣖀",
+        "𢯬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6897",
+            "12341251134"
+        ],
+        "char_code_wubi": "sgjq|sgjr",
+        "char_code_cangjie": "dmlk",
+        "char_code_zhengma": "fako",
+        "char_code_sijiao": "41946"
+    },
+    "general_unicode": "基本区 U+6897",
+    "general_bs_code": "12341251134"
+}

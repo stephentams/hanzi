@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "humble, modest"
+        },
+        {
+            "language": "德语",
+            "explanation": "bescheiden, anspruchslos"
+        },
+        {
+            "language": "法语",
+            "explanation": "modeste"
+        }
+    ],
+    "general_pinyins": [
+        "qiān"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "10",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "謙"
+    ],
+    "general_ytz": [
+        "謙",
+        "𧫨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C26",
+            "454315112234"
+        ],
+        "char_code_wubi": "yuvo|yuvw",
+        "char_code_cangjie": "ivtxc",
+        "char_code_zhengma": "suxk",
+        "char_code_sijiao": "38737"
+    },
+    "general_unicode": "基本区 U+8C26",
+    "general_bs_code": "454315112234"
+}

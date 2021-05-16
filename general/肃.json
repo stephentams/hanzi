@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pay respects; reverently"
+        },
+        {
+            "language": "德语",
+            "explanation": "ehrerbietig, achtungsvoll ,Su  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "éliminer,solennel,silencieux"
+        }
+    ],
+    "general_pinyins": [
+        "sù"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "聿",
+        "non_radical_sn": "2",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "肅"
+    ],
+    "general_ytz": [
+        "肅",
+        "粛",
+        "𢙻",
+        "𦘛",
+        "𦘜",
+        "𦘝",
+        "𦘡"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8083",
+            "51123234"
+        ],
+        "char_code_wubi": "vijk|vhjw",
+        "char_code_cangjie": "llfl",
+        "char_code_zhengma": "xbno",
+        "char_code_sijiao": "50227"
+    },
+    "general_unicode": "基本区 U+8083",
+    "general_bs_code": "51123234"
+}

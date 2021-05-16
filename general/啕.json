@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wail"
+        },
+        {
+            "language": "德语",
+            "explanation": "jammern, klagen"
+        },
+        {
+            "language": "法语",
+            "explanation": "loquace"
+        }
+    ],
+    "general_pinyins": [
+        "táo"
+    ],
+    "general_zhuyins": [
+        "ㄊㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䛬",
+        "䛌",
+        "咷",
+        "啕"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5555",
+            "25135311252"
+        ],
+        "char_code_wubi": "kqrm|kqtb",
+        "char_code_cangjie": "rpou",
+        "char_code_zhengma": "jrez",
+        "char_code_sijiao": "67020"
+    },
+    "general_unicode": "基本区 U+5555",
+    "general_bs_code": "25135311252"
+}

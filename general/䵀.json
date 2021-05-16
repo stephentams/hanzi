@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "coarse crumbs of barley, unrefined or unpolished wheat"
+        }
+    ],
+    "general_pinyins": [
+        "suǒ"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨㄛˇ"
+    ],
+    "general_radical": {
+        "radical": "麥",
+        "non_radical_sn": "10",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𪍨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4D40",
+            "123434343542432511134"
+        ],
+        "char_code_wubi": "swwm",
+        "char_code_cangjie": "jefbc",
+        "char_code_zhengma": "fokl",
+        "char_code_sijiao": "49486"
+    },
+    "general_unicode": "扩展A U+4D40",
+    "general_bs_code": "123434343542432511134"
+}

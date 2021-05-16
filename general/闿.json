@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "open; peaceful"
+        },
+        {
+            "language": "德语",
+            "explanation": "geöffnet, offen"
+        },
+        {
+            "language": "法语",
+            "explanation": "ouvrir,desserrer,ouvrir"
+        }
+    ],
+    "general_pinyins": [
+        "kǎi"
+    ],
+    "general_zhuyins": [
+        "ㄎㄞˇ"
+    ],
+    "general_radical": {
+        "radical": "门",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "闓"
+    ],
+    "general_ytz": [
+        "闓"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "95FF",
+            "425252515"
+        ],
+        "char_code_wubi": "umnv",
+        "char_code_cangjie": "lsusu",
+        "char_code_zhengma": "tlly",
+        "char_code_sijiao": "37717"
+    },
+    "general_unicode": "基本区 U+95FF",
+    "general_bs_code": "425252515"
+}

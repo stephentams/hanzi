@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "vicious, cruel; severely, extreme"
+        },
+        {
+            "language": "德语",
+            "explanation": "grausam, hartherzig, unbarmherzig  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cruel,féroce,résolument"
+        }
+    ],
+    "general_pinyins": [
+        "hěn"
+    ],
+    "general_zhuyins": [
+        "ㄏㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "很",
+        "豤"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "72E0",
+            "353511534"
+        ],
+        "char_code_wubi": "qtve|qtvy",
+        "char_code_cangjie": "khav",
+        "char_code_zhengma": "qmxo",
+        "char_code_sijiao": "47232"
+    },
+    "general_unicode": "基本区 U+72E0",
+    "general_bs_code": "353511534"
+}

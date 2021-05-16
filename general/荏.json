@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "beans; soft, pliable; herb"
+        },
+        {
+            "language": "法语",
+            "explanation": "souple,faible"
+        }
+    ],
+    "general_pinyins": [
+        "rěn"
+    ],
+    "general_zhuyins": [
+        "ㄖㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "茬",
+        "栠",
+        "𦷺"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "834F",
+            "122323121"
+        ],
+        "char_code_wubi": "awtf",
+        "char_code_cangjie": "tohg",
+        "char_code_zhengma": "enmb",
+        "char_code_sijiao": "44214"
+    },
+    "general_unicode": "基本区 U+834F",
+    "general_bs_code": "122323121"
+}

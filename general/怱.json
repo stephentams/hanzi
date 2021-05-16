@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hastily, in haste, hurriedly"
+        }
+    ],
+    "general_pinyins": [
+        "cōng"
+    ],
+    "general_zhuyins": [
+        "ㄘㄨㄥ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "匆",
+        "聰"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6031",
+            "353344544"
+        ],
+        "char_code_wubi": "qryn",
+        "char_code_cangjie": "pkp",
+        "char_code_zhengma": "rysw",
+        "char_code_sijiao": "27332"
+    },
+    "general_unicode": "基本区 U+6031",
+    "general_bs_code": "353344544"
+}

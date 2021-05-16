@@ -1,0 +1,59 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "interrogative final particle; insignificant, small, tiny"
+        },
+        {
+            "language": "德语",
+            "explanation": "(Fragepartikel der Umgangssprache)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "petit,minuscule"
+        }
+    ],
+    "general_pinyins": [
+        "mó",
+        "me",
+        "ma"
+    ],
+    "general_zhuyins": [
+        "ㄇㄛˊ",
+        "˙ㄇㄜ",
+        "ㄇㄚ"
+    ],
+    "general_radical": {
+        "radical": "麻",
+        "non_radical_sn": "3",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "么"
+    ],
+    "general_ytz": [
+        "䯢",
+        "么",
+        "尛",
+        "𡭚",
+        "𡭯",
+        "𡮡",
+        "𤹳",
+        "庅",
+        "嚒",
+        "麼"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9EBD",
+            "41312341234354"
+        ],
+        "char_code_wubi": "yssc|ossc",
+        "char_code_cangjie": "idhi",
+        "char_code_zhengma": "tgmz",
+        "char_code_sijiao": "00232"
+    },
+    "general_unicode": "基本区 U+9EBD",
+    "general_bs_code": "41312341234354"
+}

@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "deer; surname; KangXi radical 198"
+        },
+        {
+            "language": "德语",
+            "explanation": "Hirsch  (S)​,Lu  (Eig, Fam)​,Radikal Nr. 198 = Hirsch, Reh, Rotwild  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cerf,daim,198e radical"
+        }
+    ],
+    "general_pinyins": [
+        "lù"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "鹿",
+        "non_radical_sn": "0",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "廘",
+        "䴪",
+        "𢉖",
+        "𢊩",
+        "𪋵",
+        "鹿"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E7F",
+            "41352211535"
+        ],
+        "char_code_wubi": "ynjx|oxxv",
+        "char_code_cangjie": "ixp",
+        "char_code_zhengma": "tx",
+        "char_code_sijiao": "00212"
+    },
+    "general_unicode": "基本区 U+9E7F",
+    "general_bs_code": "41352211535"
+}

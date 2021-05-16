@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "brag, boast; quibble"
+        },
+        {
+            "language": "德语",
+            "explanation": "angeben, prahlen"
+        }
+    ],
+    "general_pinyins": [
+        "piǎn"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "諞"
+    ],
+    "general_ytz": [
+        "諞",
+        "𧫲"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C1D",
+            "45451325122"
+        ],
+        "char_code_wubi": "yyna",
+        "char_code_cangjie": "ivisb",
+        "char_code_zhengma": "swld",
+        "char_code_sijiao": "33727"
+    },
+    "general_unicode": "基本区 U+8C1D",
+    "general_bs_code": "45451325122"
+}

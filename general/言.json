@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "words, speech; speak, say"
+        },
+        {
+            "language": "德语",
+            "explanation": "Wort, Wörter (S)​,sprechen (V)​,Yan (Eig, Fam)​,Radikal Nr. 149 = sprechen, sagen, Wort (Varianten: 讠, 訁)"
+        },
+        {
+            "language": "法语",
+            "explanation": "dire,mot,parole,opinion,propos"
+        }
+    ],
+    "general_pinyins": [
+        "yán"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "言",
+        "non_radical_sn": "0",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䇾",
+        "訁",
+        "𢍗",
+        "𢍬",
+        "𧩁",
+        "讠",
+        "𦉴"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8A00",
+            "4111251"
+        ],
+        "char_code_wubi": "yyyy",
+        "char_code_cangjie": "ymmr",
+        "char_code_zhengma": "sa",
+        "char_code_sijiao": "00601"
+    },
+    "general_unicode": "基本区 U+8A00",
+    "general_bs_code": "4111251"
+}

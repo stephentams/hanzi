@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "monkey, ape; monkey-like"
+        },
+        {
+            "language": "德语",
+            "explanation": "Affe (S, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "singe"
+        }
+    ],
+    "general_pinyins": [
+        "hóu"
+    ],
+    "general_zhuyins": [
+        "ㄏㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "犭",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㺅",
+        "𤠣"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7334",
+            "353325131134"
+        ],
+        "char_code_wubi": "qtwd",
+        "char_code_cangjie": "khonk",
+        "char_code_zhengma": "qmxm",
+        "char_code_sijiao": "47284"
+    },
+    "general_unicode": "基本区 U+7334",
+    "general_bs_code": "353325131134"
+}

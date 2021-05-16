@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mastiff, large fierce dog"
+        },
+        {
+            "language": "法语",
+            "explanation": "mastiff,gros chien féroce"
+        }
+    ],
+    "general_pinyins": [
+        "áo"
+    ],
+    "general_zhuyins": [
+        "ㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "犬",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𤢝",
+        "獓"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7352",
+            "11213531341344"
+        ],
+        "char_code_wubi": "gqtd",
+        "char_code_cangjie": "gkik",
+        "char_code_zhengma": "cigs",
+        "char_code_sijiao": "58804"
+    },
+    "general_unicode": "基本区 U+7352",
+    "general_bs_code": "11213531341344"
+}

@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dirty, useless, weak, powerless; cracked, a flaw"
+        },
+        {
+            "language": "法语",
+            "explanation": "défectueux,de mauvaise qualité,paresseux,chétif,fragile"
+        }
+    ],
+    "general_pinyins": [
+        "yǔ"
+    ],
+    "general_zhuyins": [
+        "ㄩˇ"
+    ],
+    "general_radical": {
+        "radical": "穴",
+        "non_radical_sn": "10",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "窪",
+        "𠋟",
+        "𥦠"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7AB3",
+            "445343354433544"
+        ],
+        "char_code_wubi": "pwry",
+        "char_code_cangjie": "jchoo",
+        "char_code_zhengma": "wopp",
+        "char_code_sijiao": "30232"
+    },
+    "general_unicode": "基本区 U+7AB3",
+    "general_bs_code": "445343354433544"
+}

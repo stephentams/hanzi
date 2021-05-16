@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "whip; whip; string of firecrackers"
+        },
+        {
+            "language": "德语",
+            "explanation": "Peitsche"
+        },
+        {
+            "language": "法语",
+            "explanation": "fouet (arme)​,cravache,flageller,fouetter,fustiger,baguette de chef d'orchestre"
+        }
+    ],
+    "general_pinyins": [
+        "biān"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "革",
+        "non_radical_sn": "9",
+        "total_sn": "18"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "卞",
+        "鞕",
+        "𠓠",
+        "𠓥",
+        "𩋸",
+        "𩌻",
+        "𩋹"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "97AD",
+            "122125112321251134"
+        ],
+        "char_code_wubi": "afwq|afwr",
+        "char_code_cangjie": "tjomk",
+        "char_code_zhengma": "eeko",
+        "char_code_sijiao": "41546"
+    },
+    "general_unicode": "基本区 U+97AD",
+    "general_bs_code": "122125112321251134"
+}

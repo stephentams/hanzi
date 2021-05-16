@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "crab, brachyura"
+        },
+        {
+            "language": "德语",
+            "explanation": "Krabbe  (S)​,Krebs  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "xiè"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "13",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𩼠",
+        "蠏",
+        "䲒"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "87F9",
+            "3535112533112251214"
+        ],
+        "char_code_wubi": "qevj",
+        "char_code_cangjie": "nqlmi",
+        "char_code_zhengma": "rlmi",
+        "char_code_sijiao": "27136"
+    },
+    "general_unicode": "基本区 U+87F9",
+    "general_bs_code": "3535112533112251214"
+}

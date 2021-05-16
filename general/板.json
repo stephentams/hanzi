@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "plank, board; iron or tin plate"
+        },
+        {
+            "language": "德语",
+            "explanation": "Brett, Planke"
+        },
+        {
+            "language": "法语",
+            "explanation": "planche,plaque,tôle,raide,dur,sévère"
+        }
+    ],
+    "general_pinyins": [
+        "bǎn"
+    ],
+    "general_zhuyins": [
+        "ㄅㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "闆"
+    ],
+    "general_ytz": [
+        "版",
+        "闆"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "677F",
+            "12343354"
+        ],
+        "char_code_wubi": "srcy",
+        "char_code_cangjie": "dhe",
+        "char_code_zhengma": "fpxs",
+        "char_code_sijiao": "42947"
+    },
+    "general_unicode": "基本区 U+677F",
+    "general_bs_code": "12343354"
+}

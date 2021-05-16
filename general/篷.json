@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "awning, covering; sail; boat"
+        },
+        {
+            "language": "德语",
+            "explanation": "Segel, abfahren (nach)​  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "couverture,tente,toit"
+        }
+    ],
+    "general_pinyins": [
+        "péng"
+    ],
+    "general_zhuyins": [
+        "ㄆㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "10",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦪪",
+        "𨎳",
+        "𥴣",
+        "𥭗",
+        "竼"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7BF7",
+            "3143143541112454"
+        ],
+        "char_code_wubi": "ttdp",
+        "char_code_cangjie": "hyhj",
+        "char_code_zhengma": "mrcw",
+        "char_code_sijiao": "88305"
+    },
+    "general_unicode": "基本区 U+7BF7",
+    "general_bs_code": "3143143541112454"
+}

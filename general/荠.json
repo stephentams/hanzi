@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "water-chestnuts; caltrop"
+        },
+        {
+            "language": "德语",
+            "explanation": "Wasserkastanie ( lat. Eleocharis dulcis )​  (S, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "bourse-à-pasteur,capselle"
+        }
+    ],
+    "general_pinyins": [
+        "jì",
+        "qí"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧˋ",
+        "ㄑㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "薺"
+    ],
+    "general_ytz": [
+        "薺",
+        "萕"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8360",
+            "122413432"
+        ],
+        "char_code_wubi": "ayjj",
+        "char_code_cangjie": "tykl",
+        "char_code_zhengma": "esnd",
+        "char_code_sijiao": "44224"
+    },
+    "general_unicode": "基本区 U+8360",
+    "general_bs_code": "122413432"
+}

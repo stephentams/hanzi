@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "eddy, whirlpool"
+        },
+        {
+            "language": "德语",
+            "explanation": "Strudel  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tourbillon,eau qui tournoie"
+        }
+    ],
+    "general_pinyins": [
+        "xuán"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㳬"
+    ],
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6F29",
+            "44141533152134"
+        ],
+        "char_code_wubi": "iyth",
+        "char_code_cangjie": "eyso",
+        "char_code_zhengma": "vsxi",
+        "char_code_sijiao": "38181"
+    },
+    "general_unicode": "基本区 U+6F29",
+    "general_bs_code": "44141533152134"
+}

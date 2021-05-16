@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "small revolving drum with knobs"
+        }
+    ],
+    "general_pinyins": [
+        "táo"
+    ],
+    "general_zhuyins": [
+        "ㄊㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "鼓",
+        "non_radical_sn": "6",
+        "total_sn": "19"
+    },
+    "general_stc": [
+        "鞀"
+    ],
+    "general_ytz": [
+        "㲈",
+        "鞀",
+        "鞉",
+        "𡣐",
+        "𩊲",
+        "𩌿",
+        "𩎣",
+        "𪔛"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9F17",
+            "3415341212514311254"
+        ],
+        "char_code_wubi": "iqfc|qifc",
+        "char_code_cangjie": "logte",
+        "char_code_zhengma": "vrex",
+        "char_code_sijiao": "32147"
+    },
+    "general_unicode": "基本区 U+9F17",
+    "general_bs_code": "3415341212514311254"
+}

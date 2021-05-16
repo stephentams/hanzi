@@ -1,0 +1,32 @@
+{
+    "general_pinyins": [
+        "suǒ",
+        "ruǐ"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨㄛˇ",
+        "ㄖㄨㄟˇ"
+    ],
+    "general_radical": {
+        "radical": "心",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "蕊"
+    ],
+    "general_structure": "品字结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "60E2",
+            "354435443544"
+        ],
+        "char_code_wubi": "nnnu",
+        "char_code_cangjie": "ppp",
+        "char_code_zhengma": "wzww",
+        "char_code_sijiao": "33330"
+    },
+    "general_unicode": "基本区 U+60E2",
+    "general_bs_code": "354435443544"
+}

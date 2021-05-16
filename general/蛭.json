@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "leech"
+        },
+        {
+            "language": "德语",
+            "explanation": "Blutegel  (S)​,Nassauer, Achterliek  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "Hirudinea"
+        }
+    ],
+    "general_pinyins": [
+        "zhì"
+    ],
+    "general_zhuyins": [
+        "ㄓˋ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "6",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧓳",
+        "𧌼"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "86ED",
+            "251214154121"
+        ],
+        "char_code_wubi": "jgcf",
+        "char_code_cangjie": "limig",
+        "char_code_zhengma": "ihb",
+        "char_code_sijiao": "51114"
+    },
+    "general_unicode": "基本区 U+86ED",
+    "general_bs_code": "251214154121"
+}

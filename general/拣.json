@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "choose; select; pick up; gather"
+        },
+        {
+            "language": "德语",
+            "explanation": "auswählen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "trier,choisir"
+        }
+    ],
+    "general_pinyins": [
+        "jiǎn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "揀"
+    ],
+    "general_ytz": [
+        "揀",
+        "㪝"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "62E3",
+            "12115534"
+        ],
+        "char_code_wubi": "ranw",
+        "char_code_cangjie": "qkvc",
+        "char_code_zhengma": "dhyo",
+        "char_code_sijiao": "55094"
+    },
+    "general_unicode": "基本区 U+62E3",
+    "general_bs_code": "12115534"
+}

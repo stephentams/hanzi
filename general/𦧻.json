@@ -1,0 +1,26 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "舌",
+        "non_radical_sn": "17",
+        "total_sn": "23"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "舚",
+        "饞"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "269FB",
+            "11225135251151535251354"
+        ],
+        "char_code_wubi": "tdqy",
+        "char_code_cangjie": "hrnri",
+        "char_code_zhengma": "mirs"
+    },
+    "general_unicode": "扩展B U+269FB",
+    "general_bs_code": "11225135251151535251354"
+}

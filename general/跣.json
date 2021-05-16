@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bare footed"
+        },
+        {
+            "language": "德语",
+            "explanation": "barfüßig"
+        },
+        {
+            "language": "法语",
+            "explanation": "nu-pieds"
+        }
+    ],
+    "general_pinyins": [
+        "xiǎn"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "6",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8DE3",
+            "2512121312135"
+        ],
+        "char_code_wubi": "khtq",
+        "char_code_cangjie": "rmhgu",
+        "char_code_zhengma": "jimr",
+        "char_code_sijiao": "64112"
+    },
+    "general_unicode": "基本区 U+8DE3",
+    "general_bs_code": "2512121312135"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "encoffin; embalm; funeral"
+        },
+        {
+            "language": "德语",
+            "explanation": "einen Sarg in der Kondolenzhalle aufstellen  (V)​,einen Sarg zum Friedhof fahren  (V)​,einen Sarg zur Grabstätte tragen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "mettre en bière,funérailles,pratiquer un rite funéraire"
+        }
+    ],
+    "general_pinyins": [
+        "bìn"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "歹",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "殯"
+    ],
+    "general_ytz": [
+        "殯",
+        "𡒨",
+        "𣩵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6BA1",
+            "13544453212134"
+        ],
+        "char_code_wubi": "gqpw",
+        "char_code_cangjie": "mnjoc",
+        "char_code_zhengma": "arpo",
+        "char_code_sijiao": "13281"
+    },
+    "general_unicode": "基本区 U+6BA1",
+    "general_bs_code": "13544453212134"
+}

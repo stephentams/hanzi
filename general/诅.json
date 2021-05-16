@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "curse; swear, pledge"
+        },
+        {
+            "language": "德语",
+            "explanation": "verfluchen, verdammen, verwünschen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "maudire,jurer"
+        }
+    ],
+    "general_pinyins": [
+        "zǔ"
+    ],
+    "general_zhuyins": [
+        "ㄗㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "5",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "詛"
+    ],
+    "general_ytz": [
+        "詛",
+        "𥛜"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BC5",
+            "4525111"
+        ],
+        "char_code_wubi": "yegg",
+        "char_code_cangjie": "ivbm",
+        "char_code_zhengma": "slc",
+        "char_code_sijiao": "37712"
+    },
+    "general_unicode": "基本区 U+8BC5",
+    "general_bs_code": "4525111"
+}

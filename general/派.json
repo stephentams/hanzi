@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "school of thought, sect, branch"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schulrichtung  (S)​,entsenden  (V)​,Gruppe"
+        },
+        {
+            "language": "法语",
+            "explanation": "doctrine,école (de pensée)​,groupe,faction,secte,envoyer,dépêcher,répartir,assigner,pi (3,1416)​"
+        }
+    ],
+    "general_pinyins": [
+        "pài"
+    ],
+    "general_zhuyins": [
+        "ㄆㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "沠",
+        "𠂢",
+        "𣲖",
+        "𠨹"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6D3E",
+            "441333534"
+        ],
+        "char_code_wubi": "irey",
+        "char_code_cangjie": "ehhv",
+        "char_code_zhengma": "vprh",
+        "char_code_sijiao": "32132"
+    },
+    "general_unicode": "基本区 U+6D3E",
+    "general_bs_code": "441333534"
+}

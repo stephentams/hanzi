@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "humpback; surname"
+        },
+        {
+            "language": "德语",
+            "explanation": "Buckel, Bucklige  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "lǚ",
+        "lóu"
+    ],
+    "general_zhuyins": [
+        "ㄌㄩˇ",
+        "ㄌㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "9",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "僂"
+    ],
+    "general_ytz": [
+        "僂",
+        "軁",
+        "𨊖"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "507B",
+            "32431234531"
+        ],
+        "char_code_wubi": "wovg",
+        "char_code_cangjie": "ofdv",
+        "char_code_zhengma": "nuzm",
+        "char_code_sijiao": "29244"
+    },
+    "general_unicode": "基本区 U+507B",
+    "general_bs_code": "32431234531"
+}

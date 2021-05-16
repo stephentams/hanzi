@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "threshold, door-sill"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schwelle, Türschwelle  (S, Arch)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cage,barreau,seuil (de porte)​"
+        }
+    ],
+    "general_pinyins": [
+        "jiàn",
+        "kǎn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢˋ",
+        "ㄎㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "檻"
+    ],
+    "general_ytz": [
+        "檻"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "69DB",
+            "12342231425221"
+        ],
+        "char_code_wubi": "sjtl",
+        "char_code_cangjie": "dlit",
+        "char_code_zhengma": "fkml",
+        "char_code_sijiao": "48912"
+    },
+    "general_unicode": "基本区 U+69DB",
+    "general_bs_code": "12342231425221"
+}

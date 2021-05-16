@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "speech, talk, language; dialect"
+        },
+        {
+            "language": "德语",
+            "explanation": "Rede (S)​,Sprache (S, Sprachw)​,Wort (S, Sprachw)"
+        }
+    ],
+    "general_pinyins": [
+        "huà"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "話"
+    ],
+    "general_ytz": [
+        "話",
+        "譮",
+        "諙",
+        "䛡",
+        "𦧵",
+        "𧨥"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8BDD",
+            "45312251"
+        ],
+        "char_code_wubi": "ytdg",
+        "char_code_cangjie": "ivhjr",
+        "char_code_zhengma": "smi",
+        "char_code_sijiao": "32764"
+    },
+    "general_unicode": "基本区 U+8BDD",
+    "general_bs_code": "45312251"
+}

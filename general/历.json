@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "history; calendar"
+        },
+        {
+            "language": "德语",
+            "explanation": "Kalender, Zeitrechnung, Kalenderrechnung  (S)​,nacheinander, vollständig, in allen Einzelheiten  (S)​,alle bisherigen, die früheren  (V)​,dauern, vergehen  (V)​,durchlaufen, durchmachen, hindurchgehen  (V)"
+        }
+    ],
+    "general_pinyins": [
+        "lì"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "厂",
+        "non_radical_sn": "2",
+        "total_sn": "4"
+    },
+    "general_stc": [
+        "曆",
+        "歷"
+    ],
+    "general_ytz": [
+        "曆",
+        "歷",
+        "厤",
+        "歴",
+        "𡿌"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5386",
+            "1353"
+        ],
+        "char_code_wubi": "dlv|dee",
+        "char_code_cangjie": "mks",
+        "char_code_zhengma": "ggym",
+        "char_code_sijiao": "71227"
+    },
+    "general_unicode": "基本区 U+5386",
+    "general_bs_code": "1353"
+}

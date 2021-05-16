@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hollo stump of a tree; empty, thin"
+        },
+        {
+            "language": "德语",
+            "explanation": "leer, leer stehend"
+        },
+        {
+            "language": "法语",
+            "explanation": "vide"
+        }
+    ],
+    "general_pinyins": [
+        "xiāo"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢪶",
+        "𦚊"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "67B5",
+            "123425115"
+        ],
+        "char_code_wubi": "skgn",
+        "char_code_cangjie": "drms",
+        "char_code_zhengma": "fjaz",
+        "char_code_sijiao": "46927"
+    },
+    "general_unicode": "基本区 U+67B5",
+    "general_bs_code": "123425115"
+}

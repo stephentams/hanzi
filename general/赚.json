@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "make money, earn; gain, profit"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gewinn,Profit machen  (V, Wirtsch)​,verdienen  (V)​,betrügen"
+        },
+        {
+            "language": "法语",
+            "explanation": "gagner de l'argent,bénéfice,tromper,escroquer"
+        }
+    ],
+    "general_pinyins": [
+        "zhuàn"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "賺"
+    ],
+    "general_ytz": [
+        "賺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D5A",
+            "25344315112234"
+        ],
+        "char_code_wubi": "muvo|muvw",
+        "char_code_cangjie": "botxc",
+        "char_code_zhengma": "loux",
+        "char_code_sijiao": "78837"
+    },
+    "general_unicode": "基本区 U+8D5A",
+    "general_bs_code": "25344315112234"
+}

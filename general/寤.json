@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "few, scarce; empty, deserted"
+        },
+        {
+            "language": "法语",
+            "explanation": "s'éveiller,réaliser,prendre conscience"
+        }
+    ],
+    "general_pinyins": [
+        "wù"
+    ],
+    "general_zhuyins": [
+        "ㄨˋ"
+    ],
+    "general_radical": {
+        "radical": "宀",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "窹",
+        "𡨂",
+        "𡬑",
+        "𧄯",
+        "𡨟",
+        "𡩺"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5BE4",
+            "44552131251251"
+        ],
+        "char_code_wubi": "pnhk|pugk",
+        "char_code_cangjie": "jvmr",
+        "char_code_zhengma": "wdxj",
+        "char_code_sijiao": "30261"
+    },
+    "general_unicode": "基本区 U+5BE4",
+    "general_bs_code": "44552131251251"
+}

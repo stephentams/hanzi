@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to practice, drill, exercise, train"
+        },
+        {
+            "language": "德语",
+            "explanation": "üben  (V)​,Lian  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "s'exercer,s'entraîner,pratiquer,soie blanche"
+        }
+    ],
+    "general_pinyins": [
+        "liàn"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "練"
+    ],
+    "general_ytz": [
+        "練"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EC3",
+            "55115534"
+        ],
+        "char_code_wubi": "xanw",
+        "char_code_cangjie": "vmkvc",
+        "char_code_zhengma": "zhyo",
+        "char_code_sijiao": "25194"
+    },
+    "general_unicode": "基本区 U+7EC3",
+    "general_bs_code": "55115534"
+}

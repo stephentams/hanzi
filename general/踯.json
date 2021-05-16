@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "waver, hesitate, be irresolute"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufhalten, aufhören ,zögernd"
+        },
+        {
+            "language": "法语",
+            "explanation": "hésiter,s'arrêter"
+        }
+    ],
+    "general_pinyins": [
+        "zhí"
+    ],
+    "general_zhuyins": [
+        "ㄓˊ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "8",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "躑"
+    ],
+    "general_ytz": [
+        "躑"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E2F",
+            "251212143113452"
+        ],
+        "char_code_wubi": "khub",
+        "char_code_cangjie": "rmtkl",
+        "char_code_zhengma": "jigy",
+        "char_code_sijiao": "67127"
+    },
+    "general_unicode": "基本区 U+8E2F",
+    "general_bs_code": "251212143113452"
+}

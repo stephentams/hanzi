@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "luminous; white, hoary"
+        },
+        {
+            "language": "德语",
+            "explanation": "hell, klar"
+        },
+        {
+            "language": "法语",
+            "explanation": "lumineux,nom de lieu)​,poêle"
+        }
+    ],
+    "general_pinyins": [
+        "hào"
+    ],
+    "general_zhuyins": [
+        "ㄏㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "頁",
+        "non_radical_sn": "12",
+        "total_sn": "21"
+    },
+    "general_stc": [
+        "颢"
+    ],
+    "general_ytz": [
+        "䯫",
+        "颢"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9865",
+            "251141251234132511134"
+        ],
+        "char_code_wubi": "jyim",
+        "char_code_cangjie": "afmbc",
+        "char_code_zhengma": "kskg",
+        "char_code_sijiao": "61986"
+    },
+    "general_unicode": "基本区 U+9865",
+    "general_bs_code": "251141251234132511134"
+}

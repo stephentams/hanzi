@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "distant, remote; think of"
+        },
+        {
+            "language": "德语",
+            "explanation": "entfernt, fern, weit  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "lointain,éloigné"
+        }
+    ],
+    "general_pinyins": [
+        "miǎn"
+    ],
+    "general_zhuyins": [
+        "ㄇㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "緬"
+    ],
+    "general_ytz": [
+        "緬",
+        "𤚛",
+        "𥿶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F05",
+            "551132522111"
+        ],
+        "char_code_wubi": "xdmd|xdlf",
+        "char_code_cangjie": "vmmwl",
+        "char_code_zhengma": "zgjk",
+        "char_code_sijiao": "21162"
+    },
+    "general_unicode": "基本区 U+7F05",
+    "general_bs_code": "551132522111"
+}

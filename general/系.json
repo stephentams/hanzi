@@ -1,0 +1,55 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "system; line, link, connection"
+        },
+        {
+            "language": "德语",
+            "explanation": "lauten, sei!, seid! ,Band  (S)​,Department  (S)​,Fakultät  (S)​,binden  (V)​,gebunden  (V)​,sein"
+        },
+        {
+            "language": "法语",
+            "explanation": "système,département"
+        }
+    ],
+    "general_pinyins": [
+        "xì",
+        "jì"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧˋ",
+        "ㄐㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "糸",
+        "non_radical_sn": "1",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "系",
+        "係",
+        "繫"
+    ],
+    "general_ytz": [
+        "係",
+        "𢁴",
+        "𣫦",
+        "𦃟",
+        "繫",
+        "𦂞"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7CFB",
+            "3554234"
+        ],
+        "char_code_wubi": "txiu",
+        "char_code_cangjie": "hvif",
+        "char_code_zhengma": "mzvv",
+        "char_code_sijiao": "20903"
+    },
+    "general_unicode": "基本区 U+7CFB",
+    "general_bs_code": "3554234"
+}

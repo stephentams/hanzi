@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sure, certain; real, true"
+        },
+        {
+            "language": "德语",
+            "explanation": "wirklich, tatsächlich  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "vrai,sûr,réel,ferme,solide"
+        }
+    ],
+    "general_pinyins": [
+        "què"
+    ],
+    "general_zhuyins": [
+        "ㄑㄩㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "確"
+    ],
+    "general_ytz": [
+        "塙",
+        "確",
+        "㱋",
+        "𥔳"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "786E",
+            "132513535112"
+        ],
+        "char_code_wubi": "dqeh",
+        "char_code_cangjie": "mrnbg",
+        "char_code_zhengma": "grld",
+        "char_code_sijiao": "17627"
+    },
+    "general_unicode": "基本区 U+786E",
+    "general_bs_code": "132513535112"
+}

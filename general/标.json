@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": ""
+        },
+        {
+            "language": "法语",
+            "explanation": "mark, symbol, label, sign; stand the bole of a tree"
+        }
+    ],
+    "general_pinyins": [
+        "biāo"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "標"
+    ],
+    "general_ytz": [
+        "標",
+        "墂",
+        "㯹",
+        "𢰳",
+        "𢲗",
+        "𣠙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6807",
+            "123411234"
+        ],
+        "char_code_wubi": "sfiy",
+        "char_code_cangjie": "dmmf",
+        "char_code_zhengma": "fbk",
+        "char_code_sijiao": "41991"
+    },
+    "general_unicode": "基本区 U+6807",
+    "general_bs_code": "123411234"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "chrysalis, larva"
+        },
+        {
+            "language": "德语",
+            "explanation": "Insektenpuppe  (S)​,Larve  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "chrysalide"
+        }
+    ],
+    "general_pinyins": [
+        "yǒng"
+    ],
+    "general_zhuyins": [
+        "ㄩㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "7",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧍛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "86F9",
+            "2512145425112"
+        ],
+        "char_code_wubi": "jceh",
+        "char_code_cangjie": "linib",
+        "char_code_zhengma": "ixld",
+        "char_code_sijiao": "57127"
+    },
+    "general_unicode": "基本区 U+86F9",
+    "general_bs_code": "2512145425112"
+}

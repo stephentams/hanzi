@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "raise, lift up; tight-fisted"
+        },
+        {
+            "language": "德语",
+            "explanation": "geizig  (Adj)​,ausgraben  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "creuser,gratter"
+        }
+    ],
+    "general_pinyins": [
+        "kōu"
+    ],
+    "general_zhuyins": [
+        "ㄎㄡ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "抠"
+    ],
+    "general_ytz": [
+        "刳",
+        "抠",
+        "挎",
+        "毆"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6473",
+            "12112512512515"
+        ],
+        "char_code_wubi": "rakk",
+        "char_code_cangjie": "qsrr",
+        "char_code_zhengma": "dhjj",
+        "char_code_sijiao": "51016"
+    },
+    "general_unicode": "基本区 U+6473",
+    "general_bs_code": "12112512512515"
+}

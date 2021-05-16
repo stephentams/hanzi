@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "disobey, rebel; rebel, traitor"
+        },
+        {
+            "language": "德语",
+            "explanation": "entgegen, zuwider, entgegengesetzt; widerstreben; etwas,jdm Widerstand entgegen setzen; gegen, wider ; umgekehrt, entgegengesetzt; Verräter, Rebell"
+        },
+        {
+            "language": "法语",
+            "explanation": "être contraire,aller à l'encontre de,traître"
+        }
+    ],
+    "general_pinyins": [
+        "nì"
+    ],
+    "general_zhuyins": [
+        "ㄋㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "屰",
+        "𨒫"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9006",
+            "431523454"
+        ],
+        "char_code_wubi": "ubtp",
+        "char_code_cangjie": "ytu",
+        "char_code_zhengma": "uazw",
+        "char_code_sijiao": "38304"
+    },
+    "general_unicode": "基本区 U+9006",
+    "general_bs_code": "431523454"
+}

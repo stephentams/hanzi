@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "move, shake; (Cant.) to fight"
+        },
+        {
+            "language": "德语",
+            "explanation": "anspornen, animieren ,bewegen, rütteln"
+        },
+        {
+            "language": "法语",
+            "explanation": "secouer,ébranler"
+        }
+    ],
+    "general_pinyins": [
+        "hàn"
+    ],
+    "general_zhuyins": [
+        "ㄏㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㨔"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "64BC",
+            "1211312515344544"
+        ],
+        "char_code_wubi": "rdgn",
+        "char_code_cangjie": "qirp",
+        "char_code_zhengma": "dhjw",
+        "char_code_sijiao": "53035"
+    },
+    "general_unicode": "基本区 U+64BC",
+    "general_bs_code": "1211312515344544"
+}

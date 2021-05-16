@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "end of thread; thread, clue"
+        },
+        {
+            "language": "德语",
+            "explanation": "einfädeln, verketten ,Anbrüche, Anfänge  (S)​,Anbruch  (S)​,Anhaltspunkte, Hinweise  (S)​,Xu  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "extrémité,commencement,sentiment,humeur"
+        }
+    ],
+    "general_pinyins": [
+        "xù"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "緒"
+    ],
+    "general_ytz": [
+        "緒"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EEA",
+            "55112132511"
+        ],
+        "char_code_wubi": "xftj",
+        "char_code_cangjie": "vmjka",
+        "char_code_zhengma": "zbm",
+        "char_code_sijiao": "24160"
+    },
+    "general_unicode": "基本区 U+7EEA",
+    "general_bs_code": "55112132511"
+}

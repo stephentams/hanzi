@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fiery, violent, vehement, ardent"
+        },
+        {
+            "language": "德语",
+            "explanation": "scharf, brennend"
+        },
+        {
+            "language": "法语",
+            "explanation": "fort,violent,intense,ardent,se sacrifier"
+        }
+    ],
+    "general_pinyins": [
+        "liè"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "灬",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "烮",
+        "煭",
+        "𤈘",
+        "𤉩",
+        "𤋴",
+        "𤎁",
+        "𤎾",
+        "𤍅",
+        "烈"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "70C8",
+            "1354224444"
+        ],
+        "char_code_wubi": "gqjo",
+        "char_code_cangjie": "mnf",
+        "char_code_zhengma": "arku",
+        "char_code_sijiao": "12330"
+    },
+    "general_unicode": "基本区 U+70C8",
+    "general_bs_code": "1354224444"
+}

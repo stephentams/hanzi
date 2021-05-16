@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "species of deer"
+        },
+        {
+            "language": "德语",
+            "explanation": "Hirsch, Hirschbock  (S, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "Cerf du père David"
+        }
+    ],
+    "general_pinyins": [
+        "zhǔ"
+    ],
+    "general_zhuyins": [
+        "ㄓㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "鹿",
+        "non_radical_sn": "5",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E88",
+            "4135221153541121"
+        ],
+        "char_code_wubi": "ynjg|oxxg",
+        "char_code_cangjie": "ipyg",
+        "char_code_zhengma": "txsc",
+        "char_code_sijiao": "00214"
+    },
+    "general_unicode": "基本区 U+9E88",
+    "general_bs_code": "4135221153541121"
+}

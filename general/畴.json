@@ -1,0 +1,58 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "farmland, arable land; category"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gebiet, Flur  (S, Agrar)"
+        },
+        {
+            "language": "法语",
+            "explanation": "terres arables,champs cultivés,sorte,catégorie"
+        }
+    ],
+    "general_pinyins": [
+        "chóu"
+    ],
+    "general_zhuyins": [
+        "ㄔㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "田",
+        "non_radical_sn": "7",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "疇"
+    ],
+    "general_ytz": [
+        "疇",
+        "嚋",
+        "㿧",
+        "𠭵",
+        "𠼡",
+        "𠾉",
+        "𢏚",
+        "𢑔",
+        "𢑜",
+        "𤲮",
+        "𤳠",
+        "𤾊",
+        "𤾦"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7574",
+            "251211113124"
+        ],
+        "char_code_wubi": "ldtf",
+        "char_code_cangjie": "wqki",
+        "char_code_zhengma": "kicd",
+        "char_code_sijiao": "65040"
+    },
+    "general_unicode": "基本区 U+7574",
+    "general_bs_code": "251211113124"
+}

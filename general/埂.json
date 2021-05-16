@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ditches for irrigation; hole"
+        },
+        {
+            "language": "德语",
+            "explanation": "Deich (aus Erde)​  (S)​,Feldrain  (S)​,schmaler Erdwall  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "ligne de créte dans les champs,levée de terre,remblai,banquette"
+        }
+    ],
+    "general_pinyins": [
+        "gěng"
+    ],
+    "general_zhuyins": [
+        "ㄍㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "土",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𡎩"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "57C2",
+            "1211251134"
+        ],
+        "char_code_wubi": "fgjq|fgjr",
+        "char_code_cangjie": "gmlk",
+        "char_code_zhengma": "bako",
+        "char_code_sijiao": "41146"
+    },
+    "general_unicode": "基本区 U+57C2",
+    "general_bs_code": "1211251134"
+}

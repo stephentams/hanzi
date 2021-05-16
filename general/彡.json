@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hair; KangXi radical 59"
+        },
+        {
+            "language": "德语",
+            "explanation": "Radikal Nr. 59 = Bart, Haare"
+        },
+        {
+            "language": "法语",
+            "explanation": "hérisser (radical)​"
+        }
+    ],
+    "general_pinyins": [
+        "shān",
+        "xiǎn"
+    ],
+    "general_zhuyins": [
+        "ㄕㄢ",
+        "ㄒㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "彡",
+        "non_radical_sn": "0",
+        "total_sn": "3"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "单体结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F61",
+            "333"
+        ],
+        "char_code_wubi": "ettt",
+        "char_code_cangjie": "hhh",
+        "char_code_zhengma": "pdaa",
+        "char_code_sijiao": "20202"
+    },
+    "general_unicode": "基本区 U+5F61",
+    "general_bs_code": "333"
+}

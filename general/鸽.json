@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pigeon, dove; Columba species (various)"
+        },
+        {
+            "language": "德语",
+            "explanation": "Taube (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "pigeon,colombe"
+        }
+    ],
+    "general_pinyins": [
+        "gē"
+    ],
+    "general_zhuyins": [
+        "ㄍㄜ"
+    ],
+    "general_radical": {
+        "radical": "鸟",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "鴿"
+    ],
+    "general_ytz": [
+        "鴿",
+        "䧻"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E3D",
+            "34125135451"
+        ],
+        "char_code_wubi": "wgkg",
+        "char_code_cangjie": "orpym",
+        "char_code_zhengma": "odjr",
+        "char_code_sijiao": "87627"
+    },
+    "general_unicode": "基本区 U+9E3D",
+    "general_bs_code": "34125135451"
+}

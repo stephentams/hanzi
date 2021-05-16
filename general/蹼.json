@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "webbed feet of waterfowl"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schwimmhäute"
+        },
+        {
+            "language": "法语",
+            "explanation": "palmure"
+        }
+    ],
+    "general_pinyins": [
+        "pǔ"
+    ],
+    "general_zhuyins": [
+        "ㄆㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "12",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨆯"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E7C",
+            "2512121224314311134"
+        ],
+        "char_code_wubi": "khoy|khog",
+        "char_code_cangjie": "rmtco",
+        "char_code_zhengma": "jiku",
+        "char_code_sijiao": "62185"
+    },
+    "general_unicode": "基本区 U+8E7C",
+    "general_bs_code": "2512121224314311134"
+}

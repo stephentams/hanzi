@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "case, cover, wrapper, envelope"
+        },
+        {
+            "language": "德语",
+            "explanation": "Satz, Garnitur, Serie; Hülse ,Zew. für Gegenstände, die einen Satz oder Set bilden"
+        },
+        {
+            "language": "法语",
+            "explanation": "recouvrir,copier,série,collection,étui,gaine,tau (lettre grecque)​,(classificateur pour les objets constituant un ensemble, par ex. un service à thé)​"
+        }
+    ],
+    "general_pinyins": [
+        "tào"
+    ],
+    "general_zhuyins": [
+        "ㄊㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "大",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㚐",
+        "套",
+        "韜",
+        "𡘂",
+        "𡘷",
+        "𣺮"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5957",
+            "1341211154"
+        ],
+        "char_code_wubi": "ddu",
+        "char_code_cangjie": "ksmi",
+        "char_code_zhengma": "gdch",
+        "char_code_sijiao": "40732"
+    },
+    "general_unicode": "基本区 U+5957",
+    "general_bs_code": "1341211154"
+}

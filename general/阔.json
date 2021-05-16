@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "broad, ample, wide; be apart"
+        },
+        {
+            "language": "德语",
+            "explanation": "reichlich, reich  (Adj)​,weit, breit, geräumig  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "large,riche"
+        }
+    ],
+    "general_pinyins": [
+        "kuò"
+    ],
+    "general_zhuyins": [
+        "ㄎㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "门",
+        "non_radical_sn": "9",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "闊"
+    ],
+    "general_ytz": [
+        "闊",
+        "濶",
+        "䦢",
+        "𨴿",
+        "𨶐",
+        "𨶖",
+        "𤄃"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9614",
+            "425441312251"
+        ],
+        "char_code_wubi": "uitd",
+        "char_code_cangjie": "lsehr",
+        "char_code_zhengma": "tlvm",
+        "char_code_sijiao": "37164"
+    },
+    "general_unicode": "基本区 U+9614",
+    "general_bs_code": "425441312251"
+}

@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cow; bull; ox"
+        },
+        {
+            "language": "法语",
+            "explanation": "taureau"
+        }
+    ],
+    "general_pinyins": [
+        "gǔ"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "牜",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "726F",
+            "312112251"
+        ],
+        "char_code_wubi": "trdg|cdg",
+        "char_code_cangjie": "hqjr",
+        "char_code_zhengma": "mbej",
+        "char_code_sijiao": "24560"
+    },
+    "general_unicode": "基本区 U+726F",
+    "general_bs_code": "312112251"
+}

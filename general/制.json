@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "system; establish; overpower"
+        },
+        {
+            "language": "德语",
+            "explanation": "beherrschen, kontrollieren, einschränken  (V)​,herstellen, erzeugen ,System"
+        },
+        {
+            "language": "法语",
+            "explanation": "fabriquer,manufacturer,élaborer,contrôler,restreindre,système,régime"
+        }
+    ],
+    "general_pinyins": [
+        "zhì"
+    ],
+    "general_zhuyins": [
+        "ㄓˋ"
+    ],
+    "general_radical": {
+        "radical": "刂",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "製"
+    ],
+    "general_ytz": [
+        "剬",
+        "𠛐",
+        "𠜔",
+        "𠜿",
+        "𠝁",
+        "製",
+        "𠛯",
+        "𠝦"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5236",
+            "31125222"
+        ],
+        "char_code_wubi": "rmhj|tgmj",
+        "char_code_cangjie": "hbln",
+        "char_code_zhengma": "mblk",
+        "char_code_sijiao": "22200"
+    },
+    "general_unicode": "基本区 U+5236",
+    "general_bs_code": "31125222"
+}

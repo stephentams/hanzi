@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bashful; ashamed"
+        },
+        {
+            "language": "法语",
+            "explanation": "timide,honteux"
+        }
+    ],
+    "general_pinyins": [
+        "jù"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩˋ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𢟶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "61C5",
+            "4422153151353334"
+        ],
+        "char_code_wubi": "nhae|nhge",
+        "char_code_cangjie": "pypo",
+        "char_code_zhengma": "uigq",
+        "char_code_sijiao": "91032"
+    },
+    "general_unicode": "基本区 U+61C5",
+    "general_bs_code": "4422153151353334"
+}

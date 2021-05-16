@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to confer posthumous titles"
+        },
+        {
+            "language": "德语",
+            "explanation": "nach dem Tode verliehener Ehrenname (English: posthumous title)​  (S)​,Nachruf  (S)​,Ehrennamen verleihen"
+        },
+        {
+            "language": "法语",
+            "explanation": "Nom posthume"
+        }
+    ],
+    "general_pinyins": [
+        "shì"
+    ],
+    "general_zhuyins": [
+        "ㄕˋ"
+    ],
+    "general_radical": {
+        "radical": "讠",
+        "non_radical_sn": "10",
+        "total_sn": "12"
+    },
+    "general_stc": [
+        "謚"
+    ],
+    "general_ytz": [
+        "謚",
+        "諡",
+        "𧫺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8C25",
+            "454313425221"
+        ],
+        "char_code_wubi": "yuwl",
+        "char_code_cangjie": "ivtct",
+        "char_code_zhengma": "suol",
+        "char_code_sijiao": "38712"
+    },
+    "general_unicode": "基本区 U+8C25",
+    "general_bs_code": "454313425221"
+}

@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "purchase grains; store grain"
+        },
+        {
+            "language": "法语",
+            "explanation": "acheter des grains"
+        }
+    ],
+    "general_pinyins": [
+        "dí"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "米",
+        "non_radical_sn": "2",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "糴"
+    ],
+    "general_ytz": [
+        "糴",
+        "雜",
+        "䨀"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7C74",
+            "34431234"
+        ],
+        "char_code_wubi": "tyou",
+        "char_code_cangjie": "ofd",
+        "char_code_zhengma": "odau",
+        "char_code_sijiao": "80904"
+    },
+    "general_unicode": "基本区 U+7C74",
+    "general_bs_code": "34431234"
+}

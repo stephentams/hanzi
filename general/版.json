@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "printing blocks; edition"
+        },
+        {
+            "language": "德语",
+            "explanation": "Auflage  (S)​,Ausgabe  (S, Lit)​,Druckplatte  (S)​,Seite"
+        },
+        {
+            "language": "法语",
+            "explanation": "registre,plaque d'impression,cliché,édition,page,version"
+        }
+    ],
+    "general_pinyins": [
+        "bǎn"
+    ],
+    "general_zhuyins": [
+        "ㄅㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "片",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "板",
+        "鈑",
+        "㸞"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7248",
+            "32153354"
+        ],
+        "char_code_wubi": "thgc",
+        "char_code_cangjie": "llhe",
+        "char_code_zhengma": "nxpx",
+        "char_code_sijiao": "22047"
+    },
+    "general_unicode": "基本区 U+7248",
+    "general_bs_code": "32153354"
+}

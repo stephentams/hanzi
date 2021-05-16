@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "footprints, traces, tracks"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fußabdruck, Fährte, Spur"
+        },
+        {
+            "language": "法语",
+            "explanation": "trace,empreinte"
+        }
+    ],
+    "general_pinyins": [
+        "zōng"
+    ],
+    "general_zhuyins": [
+        "ㄗㄨㄥ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "8",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "蹤"
+    ],
+    "general_ytz": [
+        "蹤",
+        "䢨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E2A",
+            "251212144511234"
+        ],
+        "char_code_wubi": "khpi",
+        "char_code_cangjie": "rmjmf",
+        "char_code_zhengma": "jiwb",
+        "char_code_sijiao": "63191"
+    },
+    "general_unicode": "基本区 U+8E2A",
+    "general_bs_code": "251212144511234"
+}

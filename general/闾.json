@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "village of twenty-five families"
+        },
+        {
+            "language": "德语",
+            "explanation": "Dorf, Ortschaft  (S)​,Lü  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "portail à l'entrée d'une ruelle ou d'un village"
+        }
+    ],
+    "general_pinyins": [
+        "lǘ"
+    ],
+    "general_zhuyins": [
+        "ㄌㄩˊ"
+    ],
+    "general_radical": {
+        "radical": "门",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "閭"
+    ],
+    "general_ytz": [
+        "閭"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "95FE",
+            "425251251"
+        ],
+        "char_code_wubi": "ukkd",
+        "char_code_cangjie": "lsrr",
+        "char_code_zhengma": "tljj",
+        "char_code_sijiao": "37606"
+    },
+    "general_unicode": "基本区 U+95FE",
+    "general_bs_code": "425251251"
+}

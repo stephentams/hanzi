@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "give, present, confer; surname"
+        },
+        {
+            "language": "德语",
+            "explanation": "verleihen ,Lai  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "octroyer,accorder"
+        }
+    ],
+    "general_pinyins": [
+        "lài"
+    ],
+    "general_zhuyins": [
+        "ㄌㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "7",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "賚"
+    ],
+    "general_ytz": [
+        "賚",
+        "𧶘",
+        "𧶛",
+        "𧷖"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D49",
+            "14312342534"
+        ],
+        "char_code_wubi": "gomu|gusm",
+        "char_code_cangjie": "dtbo",
+        "char_code_zhengma": "bdkl",
+        "char_code_sijiao": "50802"
+    },
+    "general_unicode": "基本区 U+8D49",
+    "general_bs_code": "14312342534"
+}

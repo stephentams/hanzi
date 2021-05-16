@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "grain still on stalk; rice plant"
+        },
+        {
+            "language": "德语",
+            "explanation": "Getreide  (S)​,Korn  (S)​,He  (Eig, Fam)​,Radikal Nr. 115 = Getreide"
+        },
+        {
+            "language": "法语",
+            "explanation": "jeune pousse de céréale"
+        }
+    ],
+    "general_pinyins": [
+        "hé"
+    ],
+    "general_zhuyins": [
+        "ㄏㄜˊ"
+    ],
+    "general_radical": {
+        "radical": "禾",
+        "non_radical_sn": "0",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "79BE",
+            "31234"
+        ],
+        "char_code_wubi": "tttt",
+        "char_code_cangjie": "hd",
+        "char_code_zhengma": "mf",
+        "char_code_sijiao": "20904"
+    },
+    "general_unicode": "基本区 U+79BE",
+    "general_bs_code": "31234"
+}

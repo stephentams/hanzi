@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sleep, doze"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schlaf  (S)​,Schlafenszeit  (S)​,Schlafzimmer  (S)​,ins Bett gehen, schlafen, einschlafen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "dormir,se coucher"
+        }
+    ],
+    "general_pinyins": [
+        "shuì"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥉚",
+        "𥋍"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7761",
+            "2511131212211"
+        ],
+        "char_code_wubi": "htgf",
+        "char_code_cangjie": "buhjm",
+        "char_code_zhengma": "lmeb",
+        "char_code_sijiao": "62015"
+    },
+    "general_unicode": "基本区 U+7761",
+    "general_bs_code": "2511131212211"
+}

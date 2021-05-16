@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "storm"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bö  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "ouragan (arch.)​"
+        }
+    ],
+    "general_pinyins": [
+        "biāo"
+    ],
+    "general_zhuyins": [
+        "ㄅㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "风",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "颮"
+    ],
+    "general_ytz": [
+        "颮"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "98D1",
+            "353435515"
+        ],
+        "char_code_wubi": "mqqn|wrqn",
+        "char_code_cangjie": "hnpru",
+        "char_code_zhengma": "qdor",
+        "char_code_sijiao": "77211"
+    },
+    "general_unicode": "基本区 U+98D1",
+    "general_bs_code": "353435515"
+}

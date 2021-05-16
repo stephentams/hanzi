@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(non-classical form of 疲) full of anger; fierce anger, tired; weary; exhausted"
+        }
+    ],
+    "general_pinyins": [
+        "pí"
+    ],
+    "general_zhuyins": [
+        "ㄆㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "力",
+        "non_radical_sn": "15",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "疲"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3525",
+            "25221542511353553"
+        ],
+        "char_code_wubi": "lcel|lcee",
+        "char_code_cangjie": "wpks",
+        "char_code_zhengma": "lkry",
+        "char_code_sijiao": "64227"
+    },
+    "general_unicode": "扩展A U+3525",
+    "general_bs_code": "25221542511353553"
+}

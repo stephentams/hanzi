@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ruin, cause fail; overthrown"
+        },
+        {
+            "language": "德语",
+            "explanation": "ruinieren, verderben"
+        },
+        {
+            "language": "法语",
+            "explanation": "ruiner,renverser"
+        }
+    ],
+    "general_pinyins": [
+        "fèn"
+    ],
+    "general_zhuyins": [
+        "ㄈㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "12",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "偾"
+    ],
+    "general_ytz": [
+        "偾"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "50E8",
+            "32121222511134"
+        ],
+        "char_code_wubi": "wfam",
+        "char_code_cangjie": "ojtc",
+        "char_code_zhengma": "neel",
+        "char_code_sijiao": "24286"
+    },
+    "general_unicode": "基本区 U+50E8",
+    "general_bs_code": "32121222511134"
+}

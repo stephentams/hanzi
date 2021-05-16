@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "step on"
+        },
+        {
+            "language": "德语",
+            "explanation": "den Fuß auf etw. setzen, niedertrampeln, zertrampeln, mit dem Fuß auf etw. treten"
+        },
+        {
+            "language": "法语",
+            "explanation": "marcher sur,piétiner,poke (contact sur le web)​"
+        }
+    ],
+    "general_pinyins": [
+        "cǎi"
+    ],
+    "general_zhuyins": [
+        "ㄘㄞˇ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "8",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "跴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E29",
+            "251212134431234"
+        ],
+        "char_code_wubi": "khes",
+        "char_code_cangjie": "rmbd",
+        "char_code_zhengma": "jipf",
+        "char_code_sijiao": "62194"
+    },
+    "general_unicode": "基本区 U+8E29",
+    "general_bs_code": "251212134431234"
+}

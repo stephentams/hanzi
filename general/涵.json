@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "soak, wet; tolerate, be lenient"
+        },
+        {
+            "language": "德语",
+            "explanation": "beinhalten, umfassen"
+        },
+        {
+            "language": "法语",
+            "explanation": "contenir,renfermer,caniveau"
+        }
+    ],
+    "general_pinyins": [
+        "hán"
+    ],
+    "general_zhuyins": [
+        "ㄏㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "汵",
+        "浛",
+        "淊",
+        "淦",
+        "𣶬",
+        "𣷉",
+        "𣹢"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6DB5",
+            "44152413452"
+        ],
+        "char_code_wubi": "ibib",
+        "char_code_cangjie": "eune",
+        "char_code_zhengma": "vxkz",
+        "char_code_sijiao": "37172"
+    },
+    "general_unicode": "基本区 U+6DB5",
+    "general_bs_code": "44152413452"
+}

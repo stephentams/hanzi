@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "error, blunder, mistake; wrong"
+        },
+        {
+            "language": "德语",
+            "explanation": "Fehler  (S)​,falsch, fehlerhaft  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "erreur,faute,se tromper,erroné,mauvais"
+        }
+    ],
+    "general_pinyins": [
+        "cuò"
+    ],
+    "general_zhuyins": [
+        "ㄘㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "錯"
+    ],
+    "general_ytz": [
+        "錯",
+        "逪",
+        "䥘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9519",
+            "3111512212511"
+        ],
+        "char_code_wubi": "qajg",
+        "char_code_cangjie": "opta",
+        "char_code_zhengma": "pek",
+        "char_code_sijiao": "84761"
+    },
+    "general_unicode": "基本区 U+9519",
+    "general_bs_code": "3111512212511"
+}

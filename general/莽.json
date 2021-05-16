@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "thicket, underbrush; poisonous"
+        },
+        {
+            "language": "德语",
+            "explanation": "unanständig, unhöflich ,Mang  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "herbe,campagne"
+        }
+    ],
+    "general_pinyins": [
+        "mǎng"
+    ],
+    "general_zhuyins": [
+        "ㄇㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦷶",
+        "莾",
+        "𢳠"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "83BD",
+            "1221344132"
+        ],
+        "char_code_wubi": "adaj",
+        "char_code_cangjie": "tikt",
+        "char_code_zhengma": "egse",
+        "char_code_sijiao": "44448"
+    },
+    "general_unicode": "基本区 U+83BD",
+    "general_bs_code": "1221344132"
+}

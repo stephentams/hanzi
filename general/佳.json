@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "good, auspicious; beautiful; delightful"
+        },
+        {
+            "language": "德语",
+            "explanation": "gut, schön, großartig, ausgezeichnet  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "joli,beau,bon"
+        }
+    ],
+    "general_pinyins": [
+        "jiā"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄚ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "6",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4F73",
+            "32121121"
+        ],
+        "char_code_wubi": "wffg",
+        "char_code_cangjie": "ogg",
+        "char_code_zhengma": "nbb",
+        "char_code_sijiao": "24214"
+    },
+    "general_unicode": "基本区 U+4F73",
+    "general_bs_code": "32121121"
+}

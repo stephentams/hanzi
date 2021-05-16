@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "iodine"
+        },
+        {
+            "language": "德语",
+            "explanation": "Iod (Element 53, I)​ (S, Chem)​,Jod (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "iode"
+        }
+    ],
+    "general_pinyins": [
+        "diǎn"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "8",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7898",
+            "1325125122134"
+        ],
+        "char_code_wubi": "dmaw",
+        "char_code_cangjie": "mrtbc",
+        "char_code_zhengma": "gleo",
+        "char_code_sijiao": "15681"
+    },
+    "general_unicode": "基本区 U+7898",
+    "general_bs_code": "1325125122134"
+}

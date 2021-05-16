@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "great, eminent; large, big"
+        },
+        {
+            "language": "德语",
+            "explanation": "groß, riesig  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "grand,large"
+        }
+    ],
+    "general_pinyins": [
+        "shuò",
+        "shí"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨㄛˋ",
+        "ㄕˊ"
+    ],
+    "general_radical": {
+        "radical": "石",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "碩"
+    ],
+    "general_ytz": [
+        "碩"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7855",
+            "13251132534"
+        ],
+        "char_code_wubi": "ddmy",
+        "char_code_cangjie": "mrmbo",
+        "char_code_zhengma": "ggo",
+        "char_code_sijiao": "11682"
+    },
+    "general_unicode": "基本区 U+7855",
+    "general_bs_code": "13251132534"
+}

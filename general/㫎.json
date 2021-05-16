@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "(same as 徽 揮) mark; sign; indication; flags; pennants, streamers, etc., to prance, to brandish, to shake; to rattle, name of a flag"
+        }
+    ],
+    "general_pinyins": [
+        "gǔn",
+        "kuài"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄣˇ",
+        "ㄎㄨㄞˋ"
+    ],
+    "general_radical": {
+        "radical": "方",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣄈",
+        "幑",
+        "揮"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3ACE",
+            "415331451251112"
+        ],
+        "char_code_wubi": "ytpl",
+        "char_code_cangjie": "ysobj",
+        "char_code_zhengma": "sywf",
+        "char_code_sijiao": "08252"
+    },
+    "general_unicode": "扩展A U+3ACE",
+    "general_bs_code": "415331451251112"
+}

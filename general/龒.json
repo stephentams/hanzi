@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "dragon"
+        }
+    ],
+    "general_pinyins": [
+        "lóng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "龍",
+        "non_radical_sn": "6",
+        "total_sn": "22"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "龍"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9F92",
+            "414312511151511111234"
+        ],
+        "char_code_wubi": "uegi",
+        "char_code_cangjie": "ypmmf",
+        "char_code_zhengma": "sibk",
+        "char_code_sijiao": "01901"
+    },
+    "general_unicode": "基本区 U+9F92",
+    "general_bs_code": "414312511151511111234"
+}

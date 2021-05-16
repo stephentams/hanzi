@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "voice; throat"
+        },
+        {
+            "language": "法语",
+            "explanation": "gorge,larynx,voix"
+        }
+    ],
+    "general_pinyins": [
+        "sǎng"
+    ],
+    "general_zhuyins": [
+        "ㄙㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𠼙"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "55D3",
+            "2515454541234"
+        ],
+        "char_code_wubi": "kccs",
+        "char_code_cangjie": "reed",
+        "char_code_zhengma": "jxxf",
+        "char_code_sijiao": "67094"
+    },
+    "general_unicode": "基本区 U+55D3",
+    "general_bs_code": "2515454541234"
+}

@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fat; fertile, rich; plump, soft"
+        },
+        {
+            "language": "法语",
+            "explanation": "gros,fertile"
+        }
+    ],
+    "general_pinyins": [
+        "yú"
+    ],
+    "general_zhuyins": [
+        "ㄩˊ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦚤",
+        "𣨃",
+        "𣧴"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8174",
+            "351132151134"
+        ],
+        "char_code_wubi": "evwy|eewy",
+        "char_code_cangjie": "bhxo",
+        "char_code_zhengma": "qnod",
+        "char_code_sijiao": "77287"
+    },
+    "general_unicode": "基本区 U+8174",
+    "general_bs_code": "351132151134"
+}

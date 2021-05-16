@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "booty, loot, stolen goods; bribe"
+        },
+        {
+            "language": "德语",
+            "explanation": "Beute, Diebesbeute, Diebesgut, Diebeswaren  (S, Rechtsw)​,gestohlene Ware  (S, Rechtsw)"
+        },
+        {
+            "language": "法语",
+            "explanation": "objets volés,butin"
+        }
+    ],
+    "general_pinyins": [
+        "zāng"
+    ],
+    "general_zhuyins": [
+        "ㄗㄤ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "贓",
+        "贜"
+    ],
+    "general_ytz": [
+        "贜",
+        "賍",
+        "賘",
+        "贓",
+        "𧷢"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D43",
+            "2534413121"
+        ],
+        "char_code_wubi": "myfg|mofg",
+        "char_code_cangjie": "boig",
+        "char_code_zhengma": "lotb",
+        "char_code_sijiao": "70814"
+    },
+    "general_unicode": "基本区 U+8D43",
+    "general_bs_code": "2534413121"
+}

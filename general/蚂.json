@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ant; leech"
+        },
+        {
+            "language": "德语",
+            "explanation": "Libelle  (S)​,Ameise  (S)​,Grashüpfer, Heuschrecke  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "libellule,fourmi,sauterelle"
+        }
+    ],
+    "general_pinyins": [
+        "mǎ",
+        "mā",
+        "mà"
+    ],
+    "general_zhuyins": [
+        "ㄇㄚˇ",
+        "ㄇㄚ",
+        "ㄇㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "3",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "螞"
+    ],
+    "general_ytz": [
+        "螞",
+        "𧈢"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8682",
+            "251214551"
+        ],
+        "char_code_wubi": "jcg|jcgg",
+        "char_code_cangjie": "linvm",
+        "char_code_zhengma": "ixvv",
+        "char_code_sijiao": "57127"
+    },
+    "general_unicode": "基本区 U+8682",
+    "general_bs_code": "251214551"
+}

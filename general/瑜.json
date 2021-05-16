@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "flawless gem or jewel"
+        },
+        {
+            "language": "德语",
+            "explanation": "Jade, Tugend, Trefflichkeit, Vortrefflichkeit  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "beau jade,point fort,qualité"
+        }
+    ],
+    "general_pinyins": [
+        "yú"
+    ],
+    "general_zhuyins": [
+        "ㄩˊ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "9",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "745C",
+            "1121341251122"
+        ],
+        "char_code_wubi": "gwgj",
+        "char_code_cangjie": "mgomn",
+        "char_code_zhengma": "coqk",
+        "char_code_sijiao": "18121"
+    },
+    "general_unicode": "基本区 U+745C",
+    "general_bs_code": "1121341251122"
+}

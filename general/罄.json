@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "exhaust, run out, use up; empty"
+        },
+        {
+            "language": "法语",
+            "explanation": "épuiser"
+        }
+    ],
+    "general_pinyins": [
+        "qìng"
+    ],
+    "general_zhuyins": [
+        "ㄑㄧㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "缶",
+        "non_radical_sn": "11",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥥻"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7F44",
+            "12152133554311252"
+        ],
+        "char_code_wubi": "fnmm|fnwb",
+        "char_code_cangjie": "geoju",
+        "char_code_zhengma": "bxez",
+        "char_code_sijiao": "47772"
+    },
+    "general_unicode": "基本区 U+7F44",
+    "general_bs_code": "12152133554311252"
+}

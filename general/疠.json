@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a sore, ulcer; pestilence"
+        },
+        {
+            "language": "法语",
+            "explanation": "ulcère,peste"
+        }
+    ],
+    "general_pinyins": [
+        "lì"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˋ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "3",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "癘"
+    ],
+    "general_ytz": [
+        "癘",
+        "㾐",
+        "𣨸",
+        "𤼚"
+    ],
+    "general_structure": "半包围结构；先外后内",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "75A0",
+            "41341153"
+        ],
+        "char_code_wubi": "udnv|ugqe",
+        "char_code_cangjie": "kms",
+        "char_code_zhengma": "taym",
+        "char_code_sijiao": "00127"
+    },
+    "general_unicode": "基本区 U+75A0",
+    "general_bs_code": "41341153"
+}

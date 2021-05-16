@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bake, roast; dry by fire"
+        },
+        {
+            "language": "德语",
+            "explanation": "brennen, backen"
+        },
+        {
+            "language": "法语",
+            "explanation": "sécher au feu,rôtir"
+        }
+    ],
+    "general_pinyins": [
+        "hōng"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨㄥ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "灴",
+        "𤉻",
+        "𧇲",
+        "𧇺"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "70D8",
+            "4334122134"
+        ],
+        "char_code_wubi": "oawy",
+        "char_code_cangjie": "ftc",
+        "char_code_zhengma": "uoeo",
+        "char_code_sijiao": "94881"
+    },
+    "general_unicode": "基本区 U+70D8",
+    "general_bs_code": "4334122134"
+}

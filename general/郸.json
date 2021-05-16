@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "county in Hebei province"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom d'un district du Hebei)​"
+        }
+    ],
+    "general_pinyins": [
+        "dān"
+    ],
+    "general_zhuyins": [
+        "ㄉㄢ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "鄲"
+    ],
+    "general_ytz": [
+        "鄲",
+        "𨞏"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "90F8",
+            "4325111252"
+        ],
+        "char_code_wubi": "ujfb",
+        "char_code_cangjie": "cjnl",
+        "char_code_zhengma": "udey",
+        "char_code_sijiao": "87527"
+    },
+    "general_unicode": "基本区 U+90F8",
+    "general_bs_code": "4325111252"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "gadolinium"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gadolinium (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "gadolinium"
+        }
+    ],
+    "general_pinyins": [
+        "gá"
+    ],
+    "general_zhuyins": [
+        "ㄍㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "1",
+        "total_sn": "6"
+    },
+    "general_stc": [
+        "釓"
+    ],
+    "general_ytz": [
+        "釓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9486",
+            "311155"
+        ],
+        "char_code_wubi": "qnn",
+        "char_code_cangjie": "opu",
+        "char_code_zhengma": "pzvv",
+        "char_code_sijiao": "82710"
+    },
+    "general_unicode": "基本区 U+9486",
+    "general_bs_code": "311155"
+}

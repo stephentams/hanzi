@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bamboo pole; penis"
+        },
+        {
+            "language": "法语",
+            "explanation": "perche,canne"
+        }
+    ],
+    "general_pinyins": [
+        "gān"
+    ],
+    "general_zhuyins": [
+        "ㄍㄢ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "3",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "杆",
+        "笴",
+        "𣔼",
+        "𣘠"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7AFF",
+            "314314112"
+        ],
+        "char_code_wubi": "tfj",
+        "char_code_cangjie": "hmj",
+        "char_code_zhengma": "maed",
+        "char_code_sijiao": "88401"
+    },
+    "general_unicode": "基本区 U+7AFF",
+    "general_bs_code": "314314112"
+}

@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pomelo, grapefruit"
+        },
+        {
+            "language": "德语",
+            "explanation": "Pampelmuse  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "pamplemoussier"
+        }
+    ],
+    "general_pinyins": [
+        "yòu",
+        "yóu"
+    ],
+    "general_zhuyins": [
+        "ㄧㄡˋ",
+        "ㄧㄡˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "櫾",
+        "𣞿",
+        "𣠡",
+        "𣟾"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "67DA",
+            "123425121"
+        ],
+        "char_code_wubi": "smg",
+        "char_code_cangjie": "dlw",
+        "char_code_zhengma": "fkia",
+        "char_code_sijiao": "45960"
+    },
+    "general_unicode": "基本区 U+67DA",
+    "general_bs_code": "123425121"
+}

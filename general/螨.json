@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "insect"
+        }
+    ],
+    "general_pinyins": [
+        "mǎn"
+    ],
+    "general_zhuyins": [
+        "ㄇㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "10",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "蟎"
+    ],
+    "general_ytz": [
+        "蟎"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "87A8",
+            "2512141221253434"
+        ],
+        "char_code_wubi": "jagw",
+        "char_code_cangjie": "litmb",
+        "char_code_zhengma": "ieoo",
+        "char_code_sijiao": "54127"
+    },
+    "general_unicode": "基本区 U+87A8",
+    "general_bs_code": "2512141221253434"
+}

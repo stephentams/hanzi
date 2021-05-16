@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a feast, banquet; to entertain, feast"
+        },
+        {
+            "language": "德语",
+            "explanation": "ergötzen, feiern"
+        }
+    ],
+    "general_pinyins": [
+        "yàn"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "言",
+        "non_radical_sn": "16",
+        "total_sn": "23"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "宴",
+        "䜩",
+        "𧮃"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8B8C",
+            "41112511221251211354444"
+        ],
+        "char_code_wubi": "yauo|yako",
+        "char_code_cangjie": "yrtlf",
+        "char_code_zhengma": "seru",
+        "char_code_sijiao": "04631"
+    },
+    "general_unicode": "基本区 U+8B8C",
+    "general_bs_code": "41112511221251211354444"
+}

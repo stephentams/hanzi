@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "excellent"
+        },
+        {
+            "language": "德语",
+            "explanation": "exzellent, ausgezeichnet, schön, rar  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(utilisé dans les prénoms)​,excellent,précieux,peu fréquent,excellent,précieux,rare"
+        }
+    ],
+    "general_pinyins": [
+        "yī"
+    ],
+    "general_zhuyins": [
+        "ㄧ"
+    ],
+    "general_radical": {
+        "radical": "礻",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "禕"
+    ],
+    "general_ytz": [
+        "禕",
+        "褘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "794E",
+            "45241152"
+        ],
+        "char_code_wubi": "pyfh",
+        "char_code_cangjie": "ifqs",
+        "char_code_zhengma": "wsby",
+        "char_code_sijiao": "35227"
+    },
+    "general_unicode": "基本区 U+794E",
+    "general_bs_code": "45241152"
+}

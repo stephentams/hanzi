@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "act as go-between"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ehestifter  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "marieur,(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "shuò"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "女",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5981",
+            "531354"
+        ],
+        "char_code_wubi": "vqyy",
+        "char_code_cangjie": "vpi",
+        "char_code_zhengma": "zmrs",
+        "char_code_sijiao": "47420"
+    },
+    "general_unicode": "基本区 U+5981",
+    "general_bs_code": "531354"
+}

@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to show the teeth; crooked teeth"
+        },
+        {
+            "language": "德语",
+            "explanation": "vorstehende Zähne  (S, Med)"
+        },
+        {
+            "language": "法语",
+            "explanation": "montrer les dents"
+        }
+    ],
+    "general_pinyins": [
+        "zī"
+    ],
+    "general_zhuyins": [
+        "ㄗ"
+    ],
+    "general_radical": {
+        "radical": "齿",
+        "non_radical_sn": "6",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "齜"
+    ],
+    "general_ytz": [
+        "齜"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9F87",
+            "21213452212135"
+        ],
+        "char_code_wubi": "hwbx",
+        "char_code_cangjie": "yuymp",
+        "char_code_zhengma": "ioir",
+        "char_code_sijiao": "22710"
+    },
+    "general_unicode": "基本区 U+9F87",
+    "general_bs_code": "21213452212135"
+}

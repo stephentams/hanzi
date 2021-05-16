@@ -1,0 +1,25 @@
+{
+    "general_pinyins": "",
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "广",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "廡"
+    ],
+    "general_structure": "左上包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "221DC",
+            "413415"
+        ],
+        "char_code_wubi": "yynv",
+        "char_code_cangjie": "iyv",
+        "char_code_zhengma": "tgsh"
+    },
+    "general_unicode": "扩展B U+221DC",
+    "general_bs_code": "413415"
+}

@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "well, mine shaft, pit"
+        },
+        {
+            "language": "德语",
+            "explanation": "Brunnen  (S)​,warnen  (V)​,wohl  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "puits,rangé régulièrement,(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "jǐng"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "二",
+        "non_radical_sn": "2",
+        "total_sn": "4"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "丼",
+        "宑"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4E95",
+            "1132"
+        ],
+        "char_code_wubi": "fjk",
+        "char_code_cangjie": "tt",
+        "char_code_zhengma": "bdnd",
+        "char_code_sijiao": "55000"
+    },
+    "general_unicode": "基本区 U+4E95",
+    "general_bs_code": "1132"
+}

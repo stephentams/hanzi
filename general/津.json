@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "ferry; saliva; ford"
+        },
+        {
+            "language": "法语",
+            "explanation": "gué,passage important,salive,sueur"
+        }
+    ],
+    "general_pinyins": [
+        "jīn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄣ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𣸁",
+        "𦨱",
+        "𦩏",
+        "𦩦",
+        "𦩨",
+        "𦪉",
+        "𧗁",
+        "𨔥",
+        "𧗃",
+        "𣹕"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6D25",
+            "441511112"
+        ],
+        "char_code_wubi": "ivfh|ivgh",
+        "char_code_cangjie": "elq",
+        "char_code_zhengma": "vxbd",
+        "char_code_sijiao": "35107"
+    },
+    "general_unicode": "基本区 U+6D25",
+    "general_bs_code": "441511112"
+}

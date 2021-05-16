@@ -1,0 +1,56 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "thin, emaciated, lean; meager"
+        },
+        {
+            "language": "德语",
+            "explanation": "dünn, mager  (Adj)​,histor. Variante von 痩  (Adj)​,schlank  (Adj)​,siehe 瘦shou4"
+        },
+        {
+            "language": "法语",
+            "explanation": "maigre,mince,étroit"
+        }
+    ],
+    "general_pinyins": [
+        "shòu"
+    ],
+    "general_zhuyins": [
+        "ㄕㄡˋ"
+    ],
+    "general_radical": {
+        "radical": "疒",
+        "non_radical_sn": "9",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "痩",
+        "膄",
+        "𤶌",
+        "𤶯",
+        "𤷺",
+        "𤸂",
+        "𤸃",
+        "𤹶",
+        "𤺁",
+        "𤻯",
+        "𤻺",
+        "𦢝",
+        "𤶟"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7626",
+            "41341321511254"
+        ],
+        "char_code_wubi": "uvhc|uehc",
+        "char_code_cangjie": "khxe",
+        "char_code_zhengma": "tnxs",
+        "char_code_sijiao": "00147"
+    },
+    "general_unicode": "基本区 U+7626",
+    "general_bs_code": "41341321511254"
+}

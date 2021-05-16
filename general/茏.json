@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tall grass; water-weeds"
+        }
+    ],
+    "general_pinyins": [
+        "lóng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "蘢"
+    ],
+    "general_ytz": [
+        "蘢"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "830F",
+            "12213534"
+        ],
+        "char_code_wubi": "adxb|adxy",
+        "char_code_cangjie": "tikp",
+        "char_code_zhengma": "egm",
+        "char_code_sijiao": "44414"
+    },
+    "general_unicode": "基本区 U+830F",
+    "general_bs_code": "12213534"
+}

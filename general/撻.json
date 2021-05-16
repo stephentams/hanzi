@@ -1,0 +1,55 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "flog, whip; chastise; (Cant.) classifier for places; a tart (from the English 'tart')"
+        },
+        {
+            "language": "德语",
+            "explanation": "reißend, schnell"
+        },
+        {
+            "language": "法语",
+            "explanation": "frapper,Tartares"
+        }
+    ],
+    "general_pinyins": [
+        "tà"
+    ],
+    "general_zhuyins": [
+        "ㄊㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "扌",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "挞"
+    ],
+    "general_ytz": [
+        "挞",
+        "韃",
+        "𢹗",
+        "𢺂",
+        "𢽞",
+        "𢾴",
+        "𨘈",
+        "𩋅",
+        "𩌉",
+        "𩌘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "64BB",
+            "121121431112454"
+        ],
+        "char_code_wubi": "rfup",
+        "char_code_cangjie": "qygq",
+        "char_code_zhengma": "dbuw",
+        "char_code_sijiao": "54035"
+    },
+    "general_unicode": "基本区 U+64BB",
+    "general_bs_code": "121121431112454"
+}

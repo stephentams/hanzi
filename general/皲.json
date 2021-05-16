@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "crack, chap"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufspringen"
+        },
+        {
+            "language": "法语",
+            "explanation": "gercé"
+        }
+    ],
+    "general_pinyins": [
+        "jūn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄣ"
+    ],
+    "general_radical": {
+        "radical": "皮",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "皸"
+    ],
+    "general_ytz": [
+        "皸",
+        "皹",
+        "䠅"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "76B2",
+            "45152153254"
+        ],
+        "char_code_wubi": "plhc|plby",
+        "char_code_cangjie": "bqdhe",
+        "char_code_zhengma": "wwhx",
+        "char_code_sijiao": "34547"
+    },
+    "general_unicode": "基本区 U+76B2",
+    "general_bs_code": "45152153254"
+}

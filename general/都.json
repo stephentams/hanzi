@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "metropolis, capital; all, the whole; elegant, refined"
+        },
+        {
+            "language": "德语",
+            "explanation": "all, alle, ganz, sämtlich  (Adj)​,Hauptstadt, Metropole  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "tous,tous les,déjà,capitale"
+        }
+    ],
+    "general_pinyins": [
+        "dū",
+        "dōu"
+    ],
+    "general_zhuyins": [
+        "ㄉㄨ",
+        "ㄉㄡ"
+    ],
+    "general_radical": {
+        "radical": "阝",
+        "non_radical_sn": "8",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨛨",
+        "𨛷",
+        "𨜁",
+        "𨜞",
+        "𨟞",
+        "都"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "90FD",
+            "1213251152"
+        ],
+        "char_code_wubi": "ftjb",
+        "char_code_cangjie": "janl",
+        "char_code_zhengma": "bmy",
+        "char_code_sijiao": "47627"
+    },
+    "general_unicode": "基本区 U+90FD",
+    "general_bs_code": "1213251152"
+}

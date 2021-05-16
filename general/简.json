@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "simple, terse, succinct, a letter"
+        },
+        {
+            "language": "德语",
+            "explanation": "einfach, kurz, unkompliziert (Adj)​,vereinfachen (V)​,Brief (S)​,auswählen, aussuchen (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "simple,simplifié,lettre"
+        }
+    ],
+    "general_pinyins": [
+        "jiǎn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "7",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "簡"
+    ],
+    "general_ytz": [
+        "簡",
+        "䉍",
+        "𥳑"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7B80",
+            "3143144252511"
+        ],
+        "char_code_wubi": "tujf",
+        "char_code_cangjie": "hlsa",
+        "char_code_zhengma": "mtk",
+        "char_code_sijiao": "88227"
+    },
+    "general_unicode": "基本区 U+7B80",
+    "general_bs_code": "3143144252511"
+}

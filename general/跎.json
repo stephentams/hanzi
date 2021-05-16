@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "slip, stumble, falter; vacillate"
+        },
+        {
+            "language": "德语",
+            "explanation": "stolpern"
+        },
+        {
+            "language": "法语",
+            "explanation": "trébucher"
+        }
+    ],
+    "general_pinyins": [
+        "tuó"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "5",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𧿶"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8DCE",
+            "251212144535"
+        ],
+        "char_code_wubi": "khpx",
+        "char_code_cangjie": "rmjp",
+        "char_code_zhengma": "jiwr",
+        "char_code_sijiao": "63112"
+    },
+    "general_unicode": "基本区 U+8DCE",
+    "general_bs_code": "251212144535"
+}

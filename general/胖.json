@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fat, obese; fatty"
+        },
+        {
+            "language": "德语",
+            "explanation": "dick  (Adj)​,drall, mollig  (Adj)​,schweinisch  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "gros,gras,opulent"
+        }
+    ],
+    "general_pinyins": [
+        "pàng",
+        "pán",
+        "pàn"
+    ],
+    "general_zhuyins": [
+        "ㄆㄤˋ",
+        "ㄆㄢˊ",
+        "ㄆㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䏒",
+        "伴",
+        "肨",
+        "𦚓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "80D6",
+            "351143112"
+        ],
+        "char_code_wubi": "eufh|eugh",
+        "char_code_cangjie": "bfq",
+        "char_code_zhengma": "qub",
+        "char_code_sijiao": "79250"
+    },
+    "general_unicode": "基本区 U+80D6",
+    "general_bs_code": "351143112"
+}

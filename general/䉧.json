@@ -1,0 +1,39 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sound of bamboo, name of a variety of bamboo"
+        }
+    ],
+    "general_pinyins": [
+        "liú",
+        "liǔ"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄡˊ",
+        "ㄌㄧㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "15",
+        "total_sn": "21"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥳩",
+        "𥷢"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4267",
+            "314314354533411243122"
+        ],
+        "char_code_wubi": "tqyj",
+        "char_code_cangjie": "hhcn",
+        "char_code_zhengma": "mrpk",
+        "char_code_sijiao": "88123"
+    },
+    "general_unicode": "扩展A U+4267",
+    "general_bs_code": "314314354533411243122"
+}

@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fence, guard; defend; idle time"
+        },
+        {
+            "language": "德语",
+            "explanation": "Freizeit, Muße  (S)​,unbeschäftigt  (Adj)"
+        }
+    ],
+    "general_pinyins": [
+        "xián"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "门",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": [
+        "閑",
+        "閒"
+    ],
+    "general_ytz": [
+        "閑",
+        "閒",
+        "䦥"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "95F2",
+            "4251234"
+        ],
+        "char_code_wubi": "usi",
+        "char_code_cangjie": "lsd",
+        "char_code_zhengma": "tlf",
+        "char_code_sijiao": "37904"
+    },
+    "general_unicode": "基本区 U+95F2",
+    "general_bs_code": "4251234"
+}

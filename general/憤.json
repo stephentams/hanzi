@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "resent, hate; indignant"
+        },
+        {
+            "language": "法语",
+            "explanation": "indignation,colère"
+        }
+    ],
+    "general_pinyins": [
+        "fèn"
+    ],
+    "general_zhuyins": [
+        "ㄈㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "忄",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "愤"
+    ],
+    "general_ytz": [
+        "愤",
+        "𢟠",
+        "𢤬"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "61A4",
+            "442121222511134"
+        ],
+        "char_code_wubi": "nfam",
+        "char_code_cangjie": "pjtc",
+        "char_code_zhengma": "ueel",
+        "char_code_sijiao": "94086"
+    },
+    "general_unicode": "基本区 U+61A4",
+    "general_bs_code": "442121222511134"
+}

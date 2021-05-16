@@ -1,0 +1,43 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "weed"
+        },
+        {
+            "language": "法语",
+            "explanation": "sarcler"
+        }
+    ],
+    "general_pinyins": [
+        "yún"
+    ],
+    "general_zhuyins": [
+        "ㄩㄣˊ"
+    ],
+    "general_radical": {
+        "radical": "耒",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "秐",
+        "𦓷",
+        "𦔐",
+        "𦶮"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8018",
+            "1112341154"
+        ],
+        "char_code_wubi": "difc|fsfc",
+        "char_code_cangjie": "qdmmi",
+        "char_code_zhengma": "ckbz",
+        "char_code_sijiao": "51932"
+    },
+    "general_unicode": "基本区 U+8018",
+    "general_bs_code": "1112341154"
+}

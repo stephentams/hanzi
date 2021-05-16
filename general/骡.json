@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "mule"
+        },
+        {
+            "language": "德语",
+            "explanation": "Maultier ( 骡子分为马骡和驴骡,由公驴和母马所生称为马骡,反过来则称为驴骡)​  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "luó"
+    ],
+    "general_zhuyins": [
+        "ㄌㄨㄛˊ"
+    ],
+    "general_radical": {
+        "radical": "马",
+        "non_radical_sn": "11",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "騾"
+    ],
+    "general_ytz": [
+        "騾",
+        "驘",
+        "䯁",
+        "𦝠",
+        "𦟀",
+        "𩦻",
+        "𩧣"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9AA1",
+            "55125121554234"
+        ],
+        "char_code_wubi": "clxi|cgli",
+        "char_code_cangjie": "nmwvf",
+        "char_code_zhengma": "xkz",
+        "char_code_sijiao": "76193"
+    },
+    "general_unicode": "基本区 U+9AA1",
+    "general_bs_code": "55125121554234"
+}

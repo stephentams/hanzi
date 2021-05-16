@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "armpit"
+        },
+        {
+            "language": "德语",
+            "explanation": "Achselhöhle  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "aisselle"
+        }
+    ],
+    "general_pinyins": [
+        "yè"
+    ],
+    "general_zhuyins": [
+        "ㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "月",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "亦",
+        "掖"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "814B",
+            "351141323544"
+        ],
+        "char_code_wubi": "eywy",
+        "char_code_cangjie": "byok",
+        "char_code_zhengma": "qsnr",
+        "char_code_sijiao": "70247"
+    },
+    "general_unicode": "基本区 U+814B",
+    "general_bs_code": "351141323544"
+}

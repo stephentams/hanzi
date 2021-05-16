@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a jade tube used as an instrument"
+        },
+        {
+            "language": "法语",
+            "explanation": "flûte de jade"
+        }
+    ],
+    "general_pinyins": [
+        "guǎn"
+    ],
+    "general_zhuyins": [
+        "ㄍㄨㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "王",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "璭",
+        "管"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "742F",
+            "112144525151"
+        ],
+        "char_code_wubi": "gpnn|gpng",
+        "char_code_cangjie": "mgjrr",
+        "char_code_zhengma": "cwy",
+        "char_code_sijiao": "13177"
+    },
+    "general_unicode": "基本区 U+742F",
+    "general_bs_code": "112144525151"
+}

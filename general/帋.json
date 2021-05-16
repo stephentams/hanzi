@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "paper; stationary; document"
+        }
+    ],
+    "general_pinyins": [
+        "zhǐ"
+    ],
+    "general_zhuyins": [
+        "ㄓˇ"
+    ],
+    "general_radical": {
+        "radical": "巾",
+        "non_radical_sn": "4",
+        "total_sn": "7"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "紙"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5E0B",
+            "3515252"
+        ],
+        "char_code_wubi": "qamh",
+        "char_code_cangjie": "hplb",
+        "char_code_zhengma": "rhli",
+        "char_code_sijiao": "72227"
+    },
+    "general_unicode": "基本区 U+5E0B",
+    "general_bs_code": "3515252"
+}

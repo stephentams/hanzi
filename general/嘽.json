@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "pant; many"
+        },
+        {
+            "language": "德语",
+            "explanation": "lautmalerische Imitation von Tieratmung (hecheln)​"
+        }
+    ],
+    "general_pinyins": [
+        "tān",
+        "chǎn"
+    ],
+    "general_zhuyins": [
+        "ㄊㄢ",
+        "ㄔㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "啴"
+    ],
+    "general_ytz": [
+        "啴",
+        "單"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "563D",
+            "251251251251112"
+        ],
+        "char_code_wubi": "kkkf",
+        "char_code_cangjie": "rrrj",
+        "char_code_zhengma": "jjke",
+        "char_code_sijiao": "66056"
+    },
+    "general_unicode": "基本区 U+563D",
+    "general_bs_code": "251251251251112"
+}

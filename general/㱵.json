@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to die, to open, as an ulcer or sore"
+        }
+    ],
+    "general_pinyins": [
+        "bèn",
+        "fèn"
+    ],
+    "general_zhuyins": [
+        "ㄅㄣˋ",
+        "ㄈㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "歹",
+        "non_radical_sn": "12",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "3C75",
+            "1354121222511134"
+        ],
+        "char_code_wubi": "gqfm",
+        "char_code_cangjie": "mnjtc",
+        "char_code_zhengma": "arel",
+        "char_code_sijiao": "14286"
+    },
+    "general_unicode": "扩展A U+3C75",
+    "general_bs_code": "1354121222511134"
+}

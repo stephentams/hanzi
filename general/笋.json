@@ -1,0 +1,49 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "bamboo shoots"
+        },
+        {
+            "language": "德语",
+            "explanation": "Bambussprossen"
+        },
+        {
+            "language": "法语",
+            "explanation": "pousse de bambou"
+        }
+    ],
+    "general_pinyins": [
+        "sǔn"
+    ],
+    "general_zhuyins": [
+        "ㄙㄨㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "竹",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "筍"
+    ],
+    "general_ytz": [
+        "榫",
+        "𥰴",
+        "𥰿",
+        "筍"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7B0B",
+            "3143145113"
+        ],
+        "char_code_wubi": "tvtr",
+        "char_code_cangjie": "hsk",
+        "char_code_zhengma": "mxma",
+        "char_code_sijiao": "88507"
+    },
+    "general_unicode": "基本区 U+7B0B",
+    "general_bs_code": "3143145113"
+}

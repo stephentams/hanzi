@@ -1,0 +1,37 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "red lacquer bow"
+        }
+    ],
+    "general_pinyins": [
+        "diāo"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧㄠ"
+    ],
+    "general_radical": {
+        "radical": "弓",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㢯",
+        "𢐻"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5F34",
+            "51541251521"
+        ],
+        "char_code_wubi": "xybg",
+        "char_code_cangjie": "nyrd",
+        "char_code_zhengma": "yzjy",
+        "char_code_sijiao": "10247"
+    },
+    "general_unicode": "基本区 U+5F34",
+    "general_bs_code": "51541251521"
+}

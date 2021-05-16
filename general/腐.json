@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rot, decay, spoil; rotten"
+        },
+        {
+            "language": "法语",
+            "explanation": "pourrir,fermenter,se décomposer"
+        }
+    ],
+    "general_pinyins": [
+        "fǔ"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˇ"
+    ],
+    "general_radical": {
+        "radical": "肉",
+        "non_radical_sn": "8",
+        "total_sn": "14"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "焤",
+        "胕",
+        "腑",
+        "𢉶",
+        "𢋲",
+        "𣩇",
+        "𤸗"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8150",
+            "41332124253434"
+        ],
+        "char_code_wubi": "ywfw|owfw",
+        "char_code_cangjie": "ioib",
+        "char_code_zhengma": "tgoo",
+        "char_code_sijiao": "00227"
+    },
+    "general_unicode": "基本区 U+8150",
+    "general_bs_code": "41332124253434"
+}

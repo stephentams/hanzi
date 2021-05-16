@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "concave, hollow, depressed; a pass, valley"
+        },
+        {
+            "language": "法语",
+            "explanation": "dépression,indentation,creux,concave"
+        }
+    ],
+    "general_pinyins": [
+        "āo",
+        "wā"
+    ],
+    "general_zhuyins": [
+        "ㄠ",
+        "ㄨㄚ"
+    ],
+    "general_radical": {
+        "radical": "凵",
+        "non_radical_sn": "3",
+        "total_sn": "5"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䆟",
+        "𢈈",
+        "𥑑",
+        "䫜",
+        "𧰽"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "51F9",
+            "25251"
+        ],
+        "char_code_wubi": "mmgd|hnhg",
+        "char_code_cangjie": "ssu",
+        "char_code_zhengma": "iyxa",
+        "char_code_sijiao": "77770"
+    },
+    "general_unicode": "基本区 U+51F9",
+    "general_bs_code": "25251"
+}

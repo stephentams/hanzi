@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "small coin"
+        }
+    ],
+    "general_pinyins": [
+        "bèng"
+    ],
+    "general_zhuyins": [
+        "ㄅㄥˋ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "11",
+        "total_sn": "16"
+    },
+    "general_stc": [
+        "鏰"
+    ],
+    "general_ytz": [
+        "鏰"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "955A",
+            "3111525235113511"
+        ],
+        "char_code_wubi": "qmee",
+        "char_code_cangjie": "opubb",
+        "char_code_zhengma": "plqq",
+        "char_code_sijiao": "82727"
+    },
+    "general_unicode": "基本区 U+955A",
+    "general_bs_code": "3111525235113511"
+}

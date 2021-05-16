@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sparrow hawk; kite shaped like"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schnepfe  (S)​,Sperber  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "busard"
+        }
+    ],
+    "general_pinyins": [
+        "yào"
+    ],
+    "general_zhuyins": [
+        "ㄧㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "鸟",
+        "non_radical_sn": "10",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "鷂"
+    ],
+    "general_ytz": [
+        "鷂",
+        "𩀘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9E5E",
+            "344331125235451"
+        ],
+        "char_code_wubi": "ermg|etfg",
+        "char_code_cangjie": "bupym",
+        "char_code_zhengma": "pvzr",
+        "char_code_sijiao": "27727"
+    },
+    "general_unicode": "基本区 U+9E5E",
+    "general_bs_code": "344331125235451"
+}

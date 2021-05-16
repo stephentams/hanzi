@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "cesium"
+        },
+        {
+            "language": "德语",
+            "explanation": "Cäsium (Element 55, Cs)​ (S, Chem)"
+        },
+        {
+            "language": "法语",
+            "explanation": "césium"
+        }
+    ],
+    "general_pinyins": [
+        "sè"
+    ],
+    "general_zhuyins": [
+        "ㄙㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "钅",
+        "non_radical_sn": "6",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "銫"
+    ],
+    "general_ytz": [
+        "銫"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "94EF",
+            "31115355215"
+        ],
+        "char_code_wubi": "qqcn",
+        "char_code_cangjie": "opnau",
+        "char_code_zhengma": "pryi",
+        "char_code_sijiao": "87717"
+    },
+    "general_unicode": "基本区 U+94EF",
+    "general_bs_code": "31115355215"
+}

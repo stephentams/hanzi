@@ -1,0 +1,30 @@
+{
+    "general_pinyins": [
+        "xián",
+        "xiàn"
+    ],
+    "general_zhuyins": "",
+    "general_radical": {
+        "radical": "口",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "涎",
+        "羡",
+        "羨"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "20FE2",
+            "2514311214413534"
+        ],
+        "char_code_wubi": "kugw",
+        "char_code_cangjie": "rtgo",
+        "char_code_zhengma": "juvr"
+    },
+    "general_unicode": "扩展B U+20FE2",
+    "general_bs_code": "2514311214413534"
+}

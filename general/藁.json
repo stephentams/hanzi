@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "straw, hay; dry, withered"
+        }
+    ],
+    "general_pinyins": [
+        "gǎo"
+    ],
+    "general_zhuyins": [
+        "ㄍㄠˇ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "14",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "槀",
+        "槁",
+        "稾"
+    ],
+    "general_structure": "上中下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "85C1",
+            "12241251252511234"
+        ],
+        "char_code_wubi": "ayms",
+        "char_code_cangjie": "tyrd",
+        "char_code_zhengma": "eslf",
+        "char_code_sijiao": "44904"
+    },
+    "general_unicode": "基本区 U+85C1",
+    "general_bs_code": "12241251252511234"
+}

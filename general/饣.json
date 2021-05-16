@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "eat, food; radical number 184"
+        }
+    ],
+    "general_pinyins": [
+        "shí"
+    ],
+    "general_zhuyins": [
+        "ㄕˊ"
+    ],
+    "general_radical": {
+        "radical": "饣",
+        "non_radical_sn": "0",
+        "total_sn": "3"
+    },
+    "general_stc": [
+        "飠"
+    ],
+    "general_ytz": [
+        "食"
+    ],
+    "general_structure": "单体结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9963",
+            "355"
+        ],
+        "char_code_wubi": "qnb",
+        "char_code_cangjie": "nv",
+        "char_code_zhengma": "oxaa",
+        "char_code_sijiao": "27700"
+    },
+    "general_unicode": "基本区 U+9963",
+    "general_bs_code": "355"
+}

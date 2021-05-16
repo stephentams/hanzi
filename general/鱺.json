@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "eel"
+        },
+        {
+            "language": "德语",
+            "explanation": "Aal  (S, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "anguille"
+        }
+    ],
+    "general_pinyins": [
+        "lí"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧˊ"
+    ],
+    "general_radical": {
+        "radical": "魚",
+        "non_radical_sn": "19",
+        "total_sn": "30"
+    },
+    "general_stc": [
+        "鲡"
+    ],
+    "general_ytz": [
+        "鱧",
+        "鲡"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9C7A",
+            "352512144441254125441352211535"
+        ],
+        "char_code_wubi": "qogx",
+        "char_code_cangjie": "nfmmp",
+        "char_code_zhengma": "ralt",
+        "char_code_sijiao": "21312"
+    },
+    "general_unicode": "基本区 U+9C7A",
+    "general_bs_code": "352512144441254125441352211535"
+}

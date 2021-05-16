@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "tent, awning; booth; shed"
+        },
+        {
+            "language": "德语",
+            "explanation": "Baracke, Hütte, Schuppen  (S, Arch)​,Sonnendach, Schutzdach  (S, Arch)"
+        },
+        {
+            "language": "法语",
+            "explanation": "abri,hutte"
+        }
+    ],
+    "general_pinyins": [
+        "péng"
+    ],
+    "general_zhuyins": [
+        "ㄆㄥˊ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "8",
+        "total_sn": "12"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左中右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "68DA",
+            "123435113511"
+        ],
+        "char_code_wubi": "seeg",
+        "char_code_cangjie": "dbb",
+        "char_code_zhengma": "fqq",
+        "char_code_sijiao": "47920"
+    },
+    "general_unicode": "基本区 U+68DA",
+    "general_bs_code": "123435113511"
+}

@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "allium bakeri; shallots, scallion"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schalotte  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "Allium chinense,oignon de Chine"
+        }
+    ],
+    "general_pinyins": [
+        "xiè"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "13",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𩐉",
+        "𧂊",
+        "𣩶",
+        "韰",
+        "䪥"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "85A4",
+            "1221354211121111"
+        ],
+        "char_code_wubi": "agqg",
+        "char_code_cangjie": "tmnm",
+        "char_code_zhengma": "eaka",
+        "char_code_sijiao": "44211"
+    },
+    "general_unicode": "基本区 U+85A4",
+    "general_bs_code": "1221354211121111"
+}

@@ -1,0 +1,34 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "muddy; dirty, eyesight obscured"
+        }
+    ],
+    "general_pinyins": [
+        "hú"
+    ],
+    "general_zhuyins": [
+        "ㄏㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "12",
+        "total_sn": "17"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "406B",
+            "25111254312114444"
+        ],
+        "char_code_wubi": "hlfo",
+        "char_code_cangjie": "buwgf",
+        "char_code_zhengma": "llbu",
+        "char_code_sijiao": "66031"
+    },
+    "general_unicode": "扩展A U+406B",
+    "general_bs_code": "25111254312114444"
+}

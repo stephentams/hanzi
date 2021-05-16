@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "indigo; any blue dye"
+        },
+        {
+            "language": "法语",
+            "explanation": "indigo et autres couleurs bleues"
+        }
+    ],
+    "general_pinyins": [
+        "diàn"
+    ],
+    "general_zhuyins": [
+        "ㄉㄧㄢˋ"
+    ],
+    "general_radical": {
+        "radical": "青",
+        "non_radical_sn": "8",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "淀",
+        "澱",
+        "𪑍",
+        "𪑣",
+        "𪑩"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "975B",
+            "1121251144512134"
+        ],
+        "char_code_wubi": "geph",
+        "char_code_cangjie": "qbjmo",
+        "char_code_zhengma": "ciqw",
+        "char_code_sijiao": "53281"
+    },
+    "general_unicode": "基本区 U+975B",
+    "general_bs_code": "1121251144512134"
+}

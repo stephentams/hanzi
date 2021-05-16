@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "rent, hire; hired person"
+        },
+        {
+            "language": "德语",
+            "explanation": "anmieten"
+        },
+        {
+            "language": "法语",
+            "explanation": "louer"
+        }
+    ],
+    "general_pinyins": [
+        "lìn"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "贝",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "賃"
+    ],
+    "general_ytz": [
+        "賃"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D41",
+            "3231212534"
+        ],
+        "char_code_wubi": "wtfm",
+        "char_code_cangjie": "ogbo",
+        "char_code_zhengma": "nmbl",
+        "char_code_sijiao": "22802"
+    },
+    "general_unicode": "基本区 U+8D41",
+    "general_bs_code": "3231212534"
+}

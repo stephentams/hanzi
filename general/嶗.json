@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "Laoshan, mountain in Shandong"
+        },
+        {
+            "language": "德语",
+            "explanation": "Name eines heiligen Berges in Shandong"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom d'une montagne dans le Shandong)​"
+        }
+    ],
+    "general_pinyins": [
+        "láo"
+    ],
+    "general_zhuyins": [
+        "ㄌㄠˊ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "崂"
+    ],
+    "general_ytz": [
+        "崂"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5D97",
+            "252433443344553"
+        ],
+        "char_code_wubi": "mool|mooe",
+        "char_code_cangjie": "uffs",
+        "char_code_zhengma": "llwy",
+        "char_code_sijiao": "29727"
+    },
+    "general_unicode": "基本区 U+5D97",
+    "general_bs_code": "252433443344553"
+}

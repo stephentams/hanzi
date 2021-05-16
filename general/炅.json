@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "brilliance"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gui  (Eig, Fam)"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom de famille)​"
+        }
+    ],
+    "general_pinyins": [
+        "jiǒng",
+        "guì"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄥˇ",
+        "ㄍㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "火",
+        "non_radical_sn": "4",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "炔"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7085",
+            "25114334"
+        ],
+        "char_code_wubi": "jou",
+        "char_code_cangjie": "af",
+        "char_code_zhengma": "kuo",
+        "char_code_sijiao": "60809"
+    },
+    "general_unicode": "基本区 U+7085",
+    "general_bs_code": "25114334"
+}

@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "law, rule, regulation, statute; France, French"
+        },
+        {
+            "language": "德语",
+            "explanation": "Gesetz, Recht  (S)​,Methode  (S)"
+        }
+    ],
+    "general_pinyins": [
+        "fǎ"
+    ],
+    "general_zhuyins": [
+        "ㄈㄚˇ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㳒",
+        "佱",
+        "灋",
+        "砝",
+        "𢌇",
+        "𣳴",
+        "𣶽",
+        "峜"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6CD5",
+            "44112154"
+        ],
+        "char_code_wubi": "ifcy",
+        "char_code_cangjie": "egi",
+        "char_code_zhengma": "vbzs",
+        "char_code_sijiao": "34132"
+    },
+    "general_unicode": "基本区 U+6CD5",
+    "general_bs_code": "44112154"
+}

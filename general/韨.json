@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a leather knee-pad worn during sacrifices"
+        },
+        {
+            "language": "德语",
+            "explanation": "Knieschützer  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "genouillère,genouillère"
+        }
+    ],
+    "general_pinyins": [
+        "fú"
+    ],
+    "general_zhuyins": [
+        "ㄈㄨˊ"
+    ],
+    "general_radical": {
+        "radical": "韦",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "韍"
+    ],
+    "general_ytz": [
+        "袚",
+        "韍",
+        "𩎛"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "97E8",
+            "115213544"
+        ],
+        "char_code_wubi": "fnhc|fnhy",
+        "char_code_cangjie": "qsike",
+        "char_code_zhengma": "bixs",
+        "char_code_sijiao": "53047"
+    },
+    "general_unicode": "基本区 U+97E8",
+    "general_bs_code": "115213544"
+}

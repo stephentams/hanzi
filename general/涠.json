@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "still water"
+        }
+    ],
+    "general_pinyins": [
+        "wéi"
+    ],
+    "general_zhuyins": [
+        "ㄨㄟˊ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "7",
+        "total_sn": "10"
+    },
+    "general_stc": [
+        "潿"
+    ],
+    "general_ytz": [
+        "潿"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6DA0",
+            "4412511521"
+        ],
+        "char_code_wubi": "ilfh",
+        "char_code_cangjie": "ewqs",
+        "char_code_zhengma": "vjby",
+        "char_code_sijiao": "36100"
+    },
+    "general_unicode": "基本区 U+6DA0",
+    "general_bs_code": "4412511521"
+}

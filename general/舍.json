@@ -1,0 +1,50 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "house, dwelling; dwell, reside"
+        },
+        {
+            "language": "德语",
+            "explanation": "aufgeben; abgewöhnen  (V)​,Haus  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cabane,cottage"
+        }
+    ],
+    "general_pinyins": [
+        "shě",
+        "shè"
+    ],
+    "general_zhuyins": [
+        "ㄕㄜˇ",
+        "ㄕㄜˋ"
+    ],
+    "general_radical": {
+        "radical": "舌",
+        "non_radical_sn": "2",
+        "total_sn": "8"
+    },
+    "general_stc": [
+        "捨"
+    ],
+    "general_ytz": [
+        "捨",
+        "舎",
+        "𦧶"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "820D",
+            "34112251"
+        ],
+        "char_code_wubi": "wfkf",
+        "char_code_cangjie": "omjr",
+        "char_code_zhengma": "odmi",
+        "char_code_sijiao": "80604"
+    },
+    "general_unicode": "基本区 U+820D",
+    "general_bs_code": "34112251"
+}

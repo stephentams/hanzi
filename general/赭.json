@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "reddish brown; hematite; ochre"
+        },
+        {
+            "language": "德语",
+            "explanation": "ocker, Ocker  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "ocre"
+        }
+    ],
+    "general_pinyins": [
+        "zhě"
+    ],
+    "general_zhuyins": [
+        "ㄓㄜˇ"
+    ],
+    "general_radical": {
+        "radical": "赤",
+        "non_radical_sn": "8",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8D6D",
+            "121323412132511"
+        ],
+        "char_code_wubi": "fofj",
+        "char_code_cangjie": "gcjka",
+        "char_code_zhengma": "bnob",
+        "char_code_sijiao": "44260"
+    },
+    "general_unicode": "基本区 U+8D6D",
+    "general_bs_code": "121323412132511"
+}

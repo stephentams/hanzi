@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "boil, bubble up, gush"
+        },
+        {
+            "language": "法语",
+            "explanation": "bouillir"
+        }
+    ],
+    "general_pinyins": [
+        "fèi"
+    ],
+    "general_zhuyins": [
+        "ㄈㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "氵",
+        "non_radical_sn": "5",
+        "total_sn": "8"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㵒",
+        "𣲴",
+        "𩰾",
+        "𩱎",
+        "𩱣"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6CB8",
+            "44151532"
+        ],
+        "char_code_wubi": "ixjh",
+        "char_code_cangjie": "elln",
+        "char_code_zhengma": "vynd",
+        "char_code_sijiao": "35127"
+    },
+    "general_unicode": "基本区 U+6CB8",
+    "general_bs_code": "44151532"
+}

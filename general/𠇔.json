@@ -1,0 +1,29 @@
+{
+    "general_pinyins": [
+        "tuō",
+        "chà"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄛ",
+        "ㄔㄚˋ"
+    ],
+    "general_radical": {
+        "radical": "亻",
+        "non_radical_sn": "4",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "201D4",
+            "323115"
+        ],
+        "char_code_wubi": "wtfn",
+        "char_code_cangjie": "ohqu",
+        "char_code_zhengma": "nmh"
+    },
+    "general_unicode": "扩展B U+201D4",
+    "general_bs_code": "323115"
+}

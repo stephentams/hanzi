@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "blind, reckless; rash"
+        },
+        {
+            "language": "德语",
+            "explanation": "blind"
+        },
+        {
+            "language": "法语",
+            "explanation": "à l'aveuglette,à la légère,aveugle"
+        }
+    ],
+    "general_pinyins": [
+        "xiā"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄚ"
+    ],
+    "general_radical": {
+        "radical": "目",
+        "non_radical_sn": "10",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𥈎"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "778E",
+            "251114451112251"
+        ],
+        "char_code_wubi": "hpdk",
+        "char_code_cangjie": "bujqr",
+        "char_code_zhengma": "lwcj",
+        "char_code_sijiao": "63065"
+    },
+    "general_unicode": "基本区 U+778E",
+    "general_bs_code": "251114451112251"
+}

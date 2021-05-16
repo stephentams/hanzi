@@ -1,0 +1,52 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "linchpin of wheel; control"
+        },
+        {
+            "language": "德语",
+            "explanation": "N Lünse; Achsnagel ,V regieren; verwalten; administrieren"
+        },
+        {
+            "language": "法语",
+            "explanation": "gouverner,administrer,cheville d'essieu"
+        }
+    ],
+    "general_pinyins": [
+        "xiá"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄚˊ"
+    ],
+    "general_radical": {
+        "radical": "车",
+        "non_radical_sn": "10",
+        "total_sn": "14"
+    },
+    "general_stc": [
+        "轄"
+    ],
+    "general_ytz": [
+        "轄",
+        "舝",
+        "鎋",
+        "𢮟",
+        "𤛉",
+        "𨍤",
+        "𩏓"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8F96",
+            "15214451112251"
+        ],
+        "char_code_wubi": "lpdk",
+        "char_code_cangjie": "kqjqr",
+        "char_code_zhengma": "hecj",
+        "char_code_sijiao": "43565"
+    },
+    "general_unicode": "基本区 U+8F96",
+    "general_bs_code": "15214451112251"
+}

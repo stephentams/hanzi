@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "sort, manner, kind, category"
+        },
+        {
+            "language": "德语",
+            "explanation": "Art, Weise, Sorte"
+        },
+        {
+            "language": "法语",
+            "explanation": "sorte,genre,manière"
+        }
+    ],
+    "general_pinyins": [
+        "bān"
+    ],
+    "general_zhuyins": [
+        "ㄅㄢ"
+    ],
+    "general_radical": {
+        "radical": "舟",
+        "non_radical_sn": "4",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𦨗",
+        "𣪂"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "822C",
+            "3354143554"
+        ],
+        "char_code_wubi": "temc|tuwc",
+        "char_code_cangjie": "hyhne",
+        "char_code_zhengma": "pyqx",
+        "char_code_sijiao": "27447"
+    },
+    "general_unicode": "基本区 U+822C",
+    "general_bs_code": "3354143554"
+}

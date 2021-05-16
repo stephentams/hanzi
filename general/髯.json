@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "beard; mustache"
+        },
+        {
+            "language": "德语",
+            "explanation": "jemanden ansprechen, mutig entgegentreten ,Backenbart  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "barbe"
+        }
+    ],
+    "general_pinyins": [
+        "rán"
+    ],
+    "general_zhuyins": [
+        "ㄖㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "髟",
+        "non_radical_sn": "5",
+        "total_sn": "15"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䫇",
+        "髥",
+        "𣬭",
+        "𣱄",
+        "𩑞",
+        "𩑺",
+        "𩒹",
+        "𩓾",
+        "𩓿",
+        "𩬥"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9AEF",
+            "121115433325211"
+        ],
+        "char_code_wubi": "demf",
+        "char_code_cangjie": "shgb",
+        "char_code_zhengma": "chlb",
+        "char_code_sijiao": "72447"
+    },
+    "general_unicode": "基本区 U+9AEF",
+    "general_bs_code": "121115433325211"
+}

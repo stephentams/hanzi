@@ -1,0 +1,41 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "fail"
+        },
+        {
+            "language": "法语",
+            "explanation": "être incapable d'atteindre son objectif,être malheureux"
+        }
+    ],
+    "general_pinyins": [
+        "kǎn"
+    ],
+    "general_zhuyins": [
+        "ㄎㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "車",
+        "non_radical_sn": "13",
+        "total_sn": "20"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨎕",
+        "𫐘"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8F57",
+            "12511121312515344544"
+        ],
+        "char_code_wubi": "ldgn",
+        "char_code_cangjie": "jjirp",
+        "char_code_zhengma": "fkjw",
+        "char_code_sijiao": "53035"
+    },
+    "general_unicode": "基本区 U+8F57",
+    "general_bs_code": "12511121312515344544"
+}

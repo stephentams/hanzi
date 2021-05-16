@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "quick, hasty, rapid, sudden"
+        },
+        {
+            "language": "德语",
+            "explanation": "schnell, rapid, rapide, rasch  (Adj)"
+        },
+        {
+            "language": "法语",
+            "explanation": "rapide,prompt"
+        }
+    ],
+    "general_pinyins": [
+        "xùn"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄣˋ"
+    ],
+    "general_radical": {
+        "radical": "辶",
+        "non_radical_sn": "3",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "𨑷",
+        "𨑙",
+        "卂"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8FC5",
+            "512454"
+        ],
+        "char_code_wubi": "nfpk",
+        "char_code_cangjie": "ynj",
+        "char_code_zhengma": "wyed",
+        "char_code_sijiao": "37301"
+    },
+    "general_unicode": "基本区 U+8FC5",
+    "general_bs_code": "512454"
+}

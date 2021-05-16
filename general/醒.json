@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "wake up; sober up; startle"
+        },
+        {
+            "language": "德语",
+            "explanation": "(vom betrunkenem Zustand)​ aufwachen  (V)​,erwachen  (V)​,erwachsen  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "se réveiller,reprendre connaissance,s'éveiller"
+        }
+    ],
+    "general_pinyins": [
+        "xǐng"
+    ],
+    "general_zhuyins": [
+        "ㄒㄧㄥˇ"
+    ],
+    "general_radical": {
+        "radical": "酉",
+        "non_radical_sn": "9",
+        "total_sn": "16"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㝭",
+        "𡪟",
+        "𨠠",
+        "𩄆",
+        "𢜫"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9192",
+            "1253511251131121"
+        ],
+        "char_code_wubi": "sgjg",
+        "char_code_cangjie": "mwahm",
+        "char_code_zhengma": "fdkm",
+        "char_code_sijiao": "16615"
+    },
+    "general_unicode": "基本区 U+9192",
+    "general_bs_code": "1253511251131121"
+}

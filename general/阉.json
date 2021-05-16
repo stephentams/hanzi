@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "castrate; eunuch"
+        },
+        {
+            "language": "德语",
+            "explanation": "entmannen, kastrieren  (V, Med)​,Eunuch  (S, Gesch)"
+        },
+        {
+            "language": "法语",
+            "explanation": "eunuque"
+        }
+    ],
+    "general_pinyins": [
+        "yān"
+    ],
+    "general_zhuyins": [
+        "ㄧㄢ"
+    ],
+    "general_radical": {
+        "radical": "门",
+        "non_radical_sn": "8",
+        "total_sn": "11"
+    },
+    "general_stc": [
+        "閹"
+    ],
+    "general_ytz": [
+        "閹",
+        "𨴄"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "9609",
+            "42513425115"
+        ],
+        "char_code_wubi": "udjn",
+        "char_code_cangjie": "lsklu",
+        "char_code_zhengma": "tlkz",
+        "char_code_sijiao": "37716"
+    },
+    "general_unicode": "基本区 U+9609",
+    "general_bs_code": "42513425115"
+}

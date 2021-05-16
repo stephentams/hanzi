@@ -1,0 +1,44 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "high, lofty, noble; steep, perilous"
+        },
+        {
+            "language": "法语",
+            "explanation": "élevé"
+        }
+    ],
+    "general_pinyins": [
+        "zhēng"
+    ],
+    "general_zhuyins": [
+        "ㄓㄥ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "崢"
+    ],
+    "general_ytz": [
+        "崢",
+        "崝",
+        "𡸵"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5CE5",
+            "252355112"
+        ],
+        "char_code_wubi": "mqvh",
+        "char_code_cangjie": "unsd",
+        "char_code_zhengma": "llrx",
+        "char_code_sijiao": "27757"
+    },
+    "general_unicode": "基本区 U+5CE5",
+    "general_bs_code": "252355112"
+}

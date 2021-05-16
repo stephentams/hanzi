@@ -1,0 +1,45 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "snow; wipe away shame, avenge"
+        },
+        {
+            "language": "德语",
+            "explanation": "Schnee, Schneefall  (S, Met)​,schneien  (V)"
+        },
+        {
+            "language": "法语",
+            "explanation": "neige,qui a l'apparence de la neige,essuyer"
+        }
+    ],
+    "general_pinyins": [
+        "xuě"
+    ],
+    "general_zhuyins": [
+        "ㄒㄩㄝˇ"
+    ],
+    "general_radical": {
+        "radical": "雨",
+        "non_radical_sn": "3",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "䨮",
+        "彐"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "96EA",
+            "14524444511"
+        ],
+        "char_code_wubi": "fvf",
+        "char_code_cangjie": "mbsm",
+        "char_code_zhengma": "fvxb",
+        "char_code_sijiao": "10177"
+    },
+    "general_unicode": "基本区 U+96EA",
+    "general_bs_code": "14524444511"
+}

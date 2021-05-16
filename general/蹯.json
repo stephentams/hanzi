@@ -1,0 +1,48 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "an animal's paws"
+        },
+        {
+            "language": "法语",
+            "explanation": "patte de plantigrade"
+        }
+    ],
+    "general_pinyins": [
+        "fán"
+    ],
+    "general_zhuyins": [
+        "ㄈㄢˊ"
+    ],
+    "general_radical": {
+        "radical": "足",
+        "non_radical_sn": "12",
+        "total_sn": "19"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "番",
+        "籵",
+        "𣫯",
+        "𥸨",
+        "𥻫",
+        "𨁢",
+        "𨅴",
+        "𨆌",
+        "𨆜"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8E6F",
+            "2512121343123425121"
+        ],
+        "char_code_wubi": "khtl",
+        "char_code_cangjie": "rmhdw",
+        "char_code_zhengma": "jipk",
+        "char_code_sijiao": "62169"
+    },
+    "general_unicode": "基本区 U+8E6F",
+    "general_bs_code": "2512121343123425121"
+}

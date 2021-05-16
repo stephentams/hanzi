@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "hemp palm"
+        },
+        {
+            "language": "法语",
+            "explanation": "palmier de Chine,Trachycarpus excelsa"
+        }
+    ],
+    "general_pinyins": [
+        "bēn",
+        "bīng"
+    ],
+    "general_zhuyins": [
+        "ㄅㄣ",
+        "ㄅㄧㄥ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "6",
+        "total_sn": "10"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "681F",
+            "1234431132"
+        ],
+        "char_code_wubi": "suah",
+        "char_code_cangjie": "dtt",
+        "char_code_zhengma": "fue",
+        "char_code_sijiao": "48941"
+    },
+    "general_unicode": "基本区 U+681F",
+    "general_bs_code": "1234431132"
+}

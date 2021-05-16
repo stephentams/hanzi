@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "two, both, pair, couple; a tael, ounce"
+        }
+    ],
+    "general_pinyins": [
+        "liǎng"
+    ],
+    "general_zhuyins": [
+        "ㄌㄧㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "一",
+        "non_radical_sn": "5",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "兩"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4E21",
+            "125252"
+        ],
+        "char_code_wubi": "gmmk",
+        "char_code_cangjie": "mub",
+        "char_code_zhengma": "alll",
+        "char_code_sijiao": "10227"
+    },
+    "general_unicode": "基本区 U+4E21",
+    "general_bs_code": "125252"
+}

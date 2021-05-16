@@ -1,0 +1,38 @@
+{
+    "general_fle": [
+        {
+            "language": "法语",
+            "explanation": "coupe de vin nuptiale"
+        }
+    ],
+    "general_pinyins": [
+        "jǐn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄣˇ"
+    ],
+    "general_radical": {
+        "radical": "己",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "卺",
+        "𢁇",
+        "𨚡"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5DF9",
+            "525341515"
+        ],
+        "char_code_wubi": "bign",
+        "char_code_cangjie": "nemsu",
+        "char_code_zhengma": "xkay",
+        "char_code_sijiao": "17717"
+    },
+    "general_unicode": "基本区 U+5DF9",
+    "general_bs_code": "525341515"
+}

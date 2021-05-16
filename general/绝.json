@@ -1,0 +1,51 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "to cut, sever, break off, terminate"
+        },
+        {
+            "language": "德语",
+            "explanation": "vierzeiliges Gedicht  (S)​,abbrechen, abschneiden, unterbrechen  (V)​,aufgebracht, verbraucht  (Adj)​,auswegslos, hoffnunglos  (Adj)​,einzigartig, einmalig, ohnegleichen, unvergleichlich  (Adj)​,absolut, unbedingt, bestimmt ,äußerst, extrem"
+        }
+    ],
+    "general_pinyins": [
+        "jué"
+    ],
+    "general_zhuyins": [
+        "ㄐㄩㄝˊ"
+    ],
+    "general_radical": {
+        "radical": "纟",
+        "non_radical_sn": "6",
+        "total_sn": "9"
+    },
+    "general_stc": [
+        "絕",
+        "絶"
+    ],
+    "general_ytz": [
+        "絕",
+        "絶",
+        "㔃",
+        "㔢",
+        "𠤉",
+        "𢇍",
+        "𢱺",
+        "𢴭",
+        "𨼎"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "7EDD",
+            "551355215"
+        ],
+        "char_code_wubi": "xqcn",
+        "char_code_cangjie": "vmnau",
+        "char_code_zhengma": "zryi",
+        "char_code_sijiao": "27117"
+    },
+    "general_unicode": "基本区 U+7EDD",
+    "general_bs_code": "551355215"
+}

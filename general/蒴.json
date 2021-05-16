@@ -1,0 +1,42 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "seed (capsule)"
+        },
+        {
+            "language": "德语",
+            "explanation": "Behälter, Fuß (zur Befestigung von Instrumenten)​  (S)​,Kapsel  (S)"
+        },
+        {
+            "language": "法语",
+            "explanation": "cosse,capsule"
+        }
+    ],
+    "general_pinyins": [
+        "shuò"
+    ],
+    "general_zhuyins": [
+        "ㄕㄨㄛˋ"
+    ],
+    "general_radical": {
+        "radical": "艹",
+        "non_radical_sn": "10",
+        "total_sn": "13"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "84B4",
+            "1224315233511"
+        ],
+        "char_code_wubi": "aube",
+        "char_code_cangjie": "ttub",
+        "char_code_zhengma": "euzq",
+        "char_code_sijiao": "44427"
+    },
+    "general_unicode": "基本区 U+84B4",
+    "general_bs_code": "1224315233511"
+}

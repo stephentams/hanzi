@@ -1,0 +1,40 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "a long day. bright. extended. clear"
+        },
+        {
+            "language": "法语",
+            "explanation": "jour long"
+        }
+    ],
+    "general_pinyins": [
+        "chǎng"
+    ],
+    "general_zhuyins": [
+        "ㄔㄤˇ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㫤"
+    ],
+    "general_structure": "半包围结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "6636",
+            "455342511"
+        ],
+        "char_code_wubi": "ynij",
+        "char_code_cangjie": "iea",
+        "char_code_zhengma": "skk",
+        "char_code_sijiao": "36900"
+    },
+    "general_unicode": "基本区 U+6636",
+    "general_bs_code": "455342511"
+}

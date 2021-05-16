@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "molt"
+        },
+        {
+            "language": "德语",
+            "explanation": "sich häuten  (V, Bio)"
+        },
+        {
+            "language": "法语",
+            "explanation": "dépouille,changer de peau,muer"
+        }
+    ],
+    "general_pinyins": [
+        "tuì"
+    ],
+    "general_zhuyins": [
+        "ㄊㄨㄟˋ"
+    ],
+    "general_radical": {
+        "radical": "虫",
+        "non_radical_sn": "7",
+        "total_sn": "13"
+    },
+    "general_stc": [
+        "蛻"
+    ],
+    "general_ytz": [
+        "蛻"
+    ],
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "8715",
+            "2512144325135"
+        ],
+        "char_code_wubi": "jukq",
+        "char_code_cangjie": "licru",
+        "char_code_zhengma": "iujr",
+        "char_code_sijiao": "58112"
+    },
+    "general_unicode": "基本区 U+8715",
+    "general_bs_code": "2512144325135"
+}

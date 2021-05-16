@@ -1,0 +1,47 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "island"
+        },
+        {
+            "language": "德语",
+            "explanation": "Plan zwischen den Bergen (in den Regionen der Prov. Zhejiang und Fujian)​"
+        },
+        {
+            "language": "法语",
+            "explanation": "(nom d'une place)​"
+        }
+    ],
+    "general_pinyins": [
+        "ào"
+    ],
+    "general_zhuyins": [
+        "ㄠˋ"
+    ],
+    "general_radical": {
+        "radical": "山",
+        "non_radical_sn": "12",
+        "total_sn": "15"
+    },
+    "general_stc": [
+        "岙"
+    ],
+    "general_ytz": [
+        "㠗",
+        "岙"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "5DB4",
+            "325431234134252"
+        ],
+        "char_code_wubi": "tmom",
+        "char_code_cangjie": "hku",
+        "char_code_zhengma": "nlgl",
+        "char_code_sijiao": "27772"
+    },
+    "general_unicode": "基本区 U+5DB4",
+    "general_bs_code": "325431234134252"
+}

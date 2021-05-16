@@ -1,0 +1,36 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "metal decoration on a halter"
+        }
+    ],
+    "general_pinyins": [
+        "là",
+        "liè"
+    ],
+    "general_zhuyins": [
+        "ㄌㄚˋ",
+        "ㄌㄧㄝˋ"
+    ],
+    "general_radical": {
+        "radical": "革",
+        "non_radical_sn": "15",
+        "total_sn": "24"
+    },
+    "general_stc": "",
+    "general_ytz": "",
+    "general_structure": "左右结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "4A89",
+            "122125112555253415445445"
+        ],
+        "char_code_wubi": "afvn",
+        "char_code_cangjie": "tjvvv",
+        "char_code_zhengma": "eeoz",
+        "char_code_sijiao": "42512"
+    },
+    "general_unicode": "扩展A U+4A89",
+    "general_bs_code": "122125112555253415445445"
+}

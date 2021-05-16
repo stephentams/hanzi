@@ -1,0 +1,29 @@
+{
+    "general_pinyins": [
+        "shǒu"
+    ],
+    "general_zhuyins": [
+        "ㄕㄡˇ"
+    ],
+    "general_radical": {
+        "radical": "丿",
+        "non_radical_sn": "10",
+        "total_sn": "11"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "手"
+    ],
+    "general_structure": "嵌套结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "200BF",
+            "33434343412"
+        ],
+        "char_code_wubi": "TWWF",
+        "char_code_cangjie": "hood",
+        "char_code_zhengma": "mood"
+    },
+    "general_unicode": "扩展B U+200BF",
+    "general_bs_code": "33434343412"
+}

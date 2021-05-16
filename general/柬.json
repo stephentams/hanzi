@@ -1,0 +1,46 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "letter, invitation; choose"
+        },
+        {
+            "language": "德语",
+            "explanation": "beachten, notieren"
+        },
+        {
+            "language": "法语",
+            "explanation": "carte,lettre"
+        }
+    ],
+    "general_pinyins": [
+        "jiǎn"
+    ],
+    "general_zhuyins": [
+        "ㄐㄧㄢˇ"
+    ],
+    "general_radical": {
+        "radical": "木",
+        "non_radical_sn": "5",
+        "total_sn": "9"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "揀",
+        "㪝",
+        "簡"
+    ],
+    "general_structure": "单一结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "67EC",
+            "125431234"
+        ],
+        "char_code_wubi": "glii|sld",
+        "char_code_cangjie": "dwf",
+        "char_code_zhengma": "flk",
+        "char_code_sijiao": "50906"
+    },
+    "general_unicode": "基本区 U+67EC",
+    "general_bs_code": "125431234"
+}

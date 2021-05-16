@@ -1,0 +1,53 @@
+{
+    "general_fle": [
+        {
+            "language": "英语",
+            "explanation": "purpose, aim; excellent"
+        },
+        {
+            "language": "德语",
+            "explanation": "Ziel, zum Ziel haben  (S)​,behaupten, beabsichtigen  (V)​,Zweck"
+        },
+        {
+            "language": "法语",
+            "explanation": "intention,décret"
+        }
+    ],
+    "general_pinyins": [
+        "zhǐ"
+    ],
+    "general_zhuyins": [
+        "ㄓˇ"
+    ],
+    "general_radical": {
+        "radical": "日",
+        "non_radical_sn": "2",
+        "total_sn": "6"
+    },
+    "general_stc": "",
+    "general_ytz": [
+        "㫑",
+        "㫖",
+        "𠤔",
+        "𠩊",
+        "𠮛",
+        "𡱔",
+        "𣅀",
+        "𣅌",
+        "𤮻",
+        "恉"
+    ],
+    "general_structure": "上下结构",
+    "general_char_codes": {
+        "char_code_unicode_bs": [
+            "65E8",
+            "352511"
+        ],
+        "char_code_wubi": "xjf",
+        "char_code_cangjie": "pa",
+        "char_code_zhengma": "rrk",
+        "char_code_sijiao": "22601"
+    },
+    "general_unicode": "基本区 U+65E8",
+    "general_bs_code": "352511"
+}
